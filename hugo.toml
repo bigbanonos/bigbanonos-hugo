@@ -1,7 +1,6 @@
 baseURL = "https://bigbano.netlify.app/"
 title = "BigBanonos"
 theme = "PaperMod"
-disableKinds = ["taxonomy", "term"]
 disableAliases = true
 disablePathToLower = false
 removePathAccents = true
@@ -23,7 +22,9 @@ enableRobotsTXT = true
   tag = "tags"
 
 [permalinks]
-  posts = "/:slug/"
+ posts = "/:filename/"
+
+
 
 [params]
   ShowShareButtons = true
