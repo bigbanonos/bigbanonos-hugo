@@ -1,7 +1,11 @@
-baseURL = "http://localhost:1313/"
+baseURL = "https://bigbano.netlify.app/"
 title = "BigBanonos"
 theme = "PaperMod"
 disableKinds = ["taxonomy", "term"]
+disableAliases = true
+disablePathToLower = false
+removePathAccents = true
+
 
 
 ignoreFiles = ['^quarantine/']
