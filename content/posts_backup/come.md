@@ -1,0 +1,28 @@
+---
+title: "come"
+layout: post
+---
+<!-- Post Title -->
+<h1 >BigBanonos' Favorite Song by Come</h1> <!-- Introductory Text -->
+<p >Updated in 1992 with BigBanonos' favorite track, "Off To One Side" by Come. A compelling and raw piece from the band's debut album, *11:11*, which remains a milestone in alternative rock.</p> <!-- Featured Image -->
+<div > <img src="https://i.ytimg.com/vi/-Lj3rlli7CU/sddefault.jpg" alt="Come - Off To One Side" />
+</div> <!-- YouTube Video Embed -->
+<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/32ZZT3nFhys" title="Off To One Side" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div> <!-- Song Information -->
+<div > <p>"Off To One Side" is featured on Come's critically acclaimed debut album *11:11*, released by Matador Records. Known for its intense emotional resonance and gritty instrumentation, this track exemplifies the band's unique blend of post-punk and blues-influenced rock.</p>
+</div> <!-- Footer Links -->
+<div > <p>For more updates and playlists, visit <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Connect with us on <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p>
+</div> <!-- Tags -->
+<p >Tags: @come,</p>
+
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @come,</p>

@@ -1,0 +1,20 @@
+---
+title: "yardbirds"
+layout: post
+---
+#highlights (I suppose you could call these #covers) <br />
+<iframe width="95%" height="315" src="https://www.youtube.com/embed/Y45aHGWoQGs?list=PLtuNtuTatqI0jkKv6ZtOwU8W68H8HT67D" frameborder="0" allowfullscreen></iframe> <br />
+Evil-Hearted You 1965 <br />
+Heart Full Of Soul 1965 <br />
+Mr. You're Better Man Than I 1965
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @yardbirds,</p>

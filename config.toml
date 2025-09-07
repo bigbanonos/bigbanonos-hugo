@@ -1,0 +1,29 @@
+baseURL = "https://bigbanonos.netlify.app/"
+title = "BigBanonos"
+theme = "PaperMod"
+paginate = 20
+enableRobotsTXT = true
+
+[markup.goldmark.renderer]
+  unsafe = true   # allow YouTube/Spotify embeds
+
+[taxonomies]
+  tag = "tags"
+
+[permalinks]
+  posts = "/:slug/"
+
+[params]
+  ShowShareButtons = true
+  disableThemeToggle = true
+  defaultTheme = "light"
+
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 1
+
+[[menu.main]]
+  name = "Tags"
+  url = "/tags/"
+  weight = 2

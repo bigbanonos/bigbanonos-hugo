@@ -1,0 +1,28 @@
+---
+title: "pains of being pure at heart"
+layout: post
+---
+<!-- Title of the Post -->
+<h1 >BigBanonos Favorite Song by The Pains of Being Pure at Heart: "This Love Is Fucking Right"</h1> <!-- Introductory Text -->
+<p >Updated February 3, 2009, with "This Love Is Fucking Right" by The Pains of Being Pure at Heart. This dreamy and emotive track from their self-titled album beautifully blends shoegaze and noise pop elements, creating an unforgettable listening experience. Watch the video below!</p> <!-- Featured Image -->
+<div > <img src="https://i.scdn.co/image/ab67616d0000b2735b3d33f22faf0a8d56275116" alt="The Pains of Being Pure at Heart - This Love Is Fucking Right" />
+</div> <!-- YouTube Video Embed -->
+<div > <iframe width="733" height="480" src="https://www.youtube.com/embed/DXEoaXiH9Wk" title="This Love Is Fucking Right!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div> <!-- Song Information -->
+<div > <p><em>"This Love Is Fucking Right"</em>, released on February 3, 2009, under Slumberland Records, is a standout track from The Pains of Being Pure at Heart's self-titled debut album. With its lush dream pop aesthetics and heartfelt lyrics, this song has become a beloved anthem for fans of shoegaze and noise pop.</p>
+</div> <!-- Footer Links -->
+<div > <p>For more updates, visit <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Also, check out our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a> channels for more exclusive content!</p>
+</div> <!-- Tags -->
+<p >Tags: @painsofbeingpureatheart,</p>
+
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @painsofbeingpureatheart,</p>

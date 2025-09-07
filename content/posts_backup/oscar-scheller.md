@@ -1,0 +1,28 @@
+---
+title: "oscar scheller"
+layout: post
+---
+<!-- Post Title -->
+<h1 >BigBanonos' Favorite Tracks: Oscar Scheller - "Stay"</h1> <!-- Introductory Text -->
+<p >Updated with "Stay" by Oscar Scheller from his *Beautiful Words EP*. This lo-fi indie track captures the raw emotion and introspective style of Scheller's sound.</p> <!-- Featured Image -->
+<div > <img src="https://i.scdn.co/image/ab677762000056b8dbdc26f627a66b09c18949e5" alt="Oscar Scheller - Stay" />
+</div> <!-- YouTube Video Embed -->
+<div > <iframe width="100%" height="601" src="https://www.youtube.com/embed/4AbQtUCCKwM" title="Stay" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div> <!-- Song Information -->
+<div > <p><em>"Stay"</em> is a lo-fi indie track from Oscar Scheller's *Beautiful Words EP*, featuring mellow guitar strums and intimate lyrics that evoke a sense of vulnerability.</p>
+</div> <!-- Footer Links -->
+<div > <p>Explore more from Oscar Scheller and discover related tracks on <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Don't forget to check out our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> channel and follow us on <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p>
+</div> <!-- Tags -->
+<p >Tags: @oscarscheller,</p>
+
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @oscarscheller,</p>

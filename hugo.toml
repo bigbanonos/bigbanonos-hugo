@@ -1,0 +1,35 @@
+baseURL = "http://localhost:1313/"
+title = "BigBanonos"
+theme = "PaperMod"
+
+ignoreFiles = ['^quarantine/']
+
+
+[pagination]
+  pagerSize = 20
+
+enableRobotsTXT = true
+
+[markup.goldmark.renderer]
+  unsafe = true   # allow YouTube/Spotify iframes
+
+[taxonomies]
+  tag = "tags"
+
+[permalinks]
+  posts = "/:slug/"
+
+[params]
+  ShowShareButtons = true
+  disableThemeToggle = true
+  defaultTheme = "light"
+
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 1
+
+[[menu.main]]
+  name = "Tags"
+  url = "/tags/"
+  weight = 2

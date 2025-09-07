@@ -1,0 +1,21 @@
+---
+title: "gold gad 2 songs"
+layout: post
+---
+<h1>BigBanonos 2 Favorite Songs by Gold Gad</h1>
+<img src="https://www.dancehallmag.com/assets/2020/08/goldgad.jpg" alt="Gold Gad"> <p>This collection of BigBanonos' favorite tracks by Gold Gad was updated February 28, 2020, with his essential track 'Client Convo' from *Gads Entertainment*, showcasing the best in modern Jamaican dancehall.</p> <p>BigBanonos is a go-to source for music in the modern Jamaican dancehall and Caribbean music scenes. Be sure to explore the <a href="https://bigbanonos.blogspot.com/2024/10/chronic-law-105-songs.html">comprehensive 100+ song guide to Chronic Law's songs</a> and follow BigBanonos on <a href="https://www.youtube.com/@BigBanonos">YouTube</a>.</p> <ol> <li>Client Convo - Released: February 28, 2020</li> <li>Fire - Released: October 27, 2019</li>
+</ol> <div> <iframe src="https://open.spotify.com/embed/playlist/3XQPDOLQLGOtYHZRypLGoN?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</div> <!-- Tags -->
+<p>@goldgad</p>
+
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @goldgad,</p>

@@ -1,0 +1,22 @@
+---
+title: "jason isbell 8 songs"
+layout: post
+---
+<h1>BigBanonos 8 Essential Tracks by Jason Isbell</h1>
+<img src="https://bunny-wp-pullzone-5vqgtgkbhi.b-cdn.net/wp-content/uploads/2023/04/Jason-Isbell-600x534.jpg?theia_smart_thumbnails_file_version=2" alt="Jason Isbell"> <p>Jason Isbell brings storytelling to new heights in alternative country, folk, and Americana. His music paints vivid pictures of small-town life, personal struggle, and resilience. Here are eight tracks that reveal his lyrical depth and emotional power.</p> <ol> <li><strong>Children of Children</strong> | <em>Something More Than Free</em> | Southeastern Records | Released: July 17, 2015</li> <li><strong>If It Takes a Lifetime</strong> | <em>Something More Than Free</em> | Southeastern Records | Released: July 17, 2015</li> <li><strong>Speed Trap Town</strong> | <em>Something More Than Free</em> | Southeastern Records | Released: July 17, 2015</li> <li><strong>Chicago Promenade</strong> | <em>Sirens Of The Ditch</em> | New West | Released: July 10, 2007</li> <li><strong>Grown</strong> | <em>Sirens Of The Ditch</em> | New West Records | Released: July 10, 2007</li> <li><strong>Dreamsicle</strong> (by Jason Isbell and the 400 Unit) | <em>Reunions</em> | Third Verse PTY Ltd | Released: May 15, 2020</li> <li><strong>It Gets Easier</strong> (by Jason Isbell and the 400 Unit) | <em>Reunions</em> | Third Verse PTY Ltd | Released: May 15, 2020</li> <li><strong>Letting You Go</strong> (by Jason Isbell and the 400 Unit) | <em>Reunions</em> | Third Verse PTY Ltd | Released: May 15, 2020</li>
+</ol> <div> <iframe src="https://open.spotify.com/embed/playlist/7lIAYi7OkPKQbqUQ3uiSSW?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</div> <iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/videoseries?list=PLtuNtuTatqI04F_Lzb2MihIdfTomWmaKB" width="560"></iframe> <p>first posted by <a href="https://bigbanonos.blogspot.com/">https://bigbanonos.blogspot.com/</a></p> <div> <p>Explore more BigBanonos content: <a href="https://bigbanonos.blogspot.com/">Website</a> | <a href="https://www.youtube.com/@BigBanonos">YouTube</a> | <a href="https://x.com/bigbanonos">Twitter</a></p>
+</div> <!-- Tags -->
+<p>@jasonisbell,@jasonisbellandthe400unit</p>
+
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @jasonisbell,</p>

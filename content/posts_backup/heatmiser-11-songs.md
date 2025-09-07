@@ -1,0 +1,21 @@
+---
+title: "heatmiser 11 songs"
+layout: post
+---
+<h1>BigBanonos Top 11 Songs by Heatmiser</h1>
+<img src="https://tinnitist.com/wp-content/uploads/2023/10/Heatmiser-H.jpg" alt="Heatmiser"> <p>This collection of BigBanonos' top Heatmiser tracks captures the lo-fi and Portland punk energy that defined the band, showcasing Heatmiser's raw, emotional depth and the iconic influence of Elliott Smith.</p> <ol> <li><strong>Half Right</strong> | <em>Mic City Sons</em> | Astralwerks | Released: January 1, 1996</li> <li><strong>Get Lucky</strong> | <em>Mic City Sons</em> | Astralwerks | Released: January 1, 1996</li> <li><strong>Cruel Reminder</strong> | <em>Mic City Sons</em> | Astralwerks | Released: January 1, 1996</li> <li><strong>Eagle Eye</strong> | <em>Mic City Sons</em> | Astralwerks | Released: January 1, 1996</li> <li><strong>Plainclothes Man</strong> | <em>Mic City Sons</em> | Astralwerks | Released: January 1, 1996</li> <li><strong>Collect to NYC</strong> | <em>Cop and Speeder</em> | Frontier | Released: 1994</li> <li><strong>Antonio Carlos Jobim</strong> | <em>Cop and Speeder</em> | Frontier | Released: 1994</li> <li><strong>Christian Brothers</strong> (feat. Elliott Smith) | <em>Heaven Adores You Soundtrack</em> | Elliott Smith Documentary - Heaven Adores You | Released: February 5, 2015</li> <li><strong>Blue Highway</strong> | <em>Mic City Sons</em> | Astralwerks | Released: January 1, 1996</li> <li><strong>Trap Door</strong> | <em>Cop and Speeder</em> | Frontier | Released: 1994</li> <li><strong>Why Did I Decide to Stay?</strong> | <em>Cop and Speeder</em> | Frontier | Released: 1994</li>
+</ol> <div> <iframe src="https://open.spotify.com/embed/playlist/0mWwVDJnIvR0GfAkGy7a2O?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</div> <p>first posted by <a href="https://bigbanonos.blogspot.com/">https://bigbanonos.blogspot.com/</a></p> <div> <p>Explore more BigBanonos content: <a href="https://bigbanonos.blogspot.com/">Website</a> | <a href="https://www.youtube.com/@BigBanonos">YouTube</a> | <a href="https://x.com/bigbanonos">Twitter</a></p>
+</div> <!-- Tags -->
+<p>@heatmiser,@elliottsmith</p> 
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @heatmiser,@elliottsmith,</p>

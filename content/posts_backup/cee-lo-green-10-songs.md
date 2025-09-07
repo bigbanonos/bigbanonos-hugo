@@ -1,0 +1,22 @@
+---
+title: "cee lo green 10 songs"
+layout: post
+---
+<h2>BigBanonos' Top 10 Tracks by Cee-Lo Green</h2> <!-- Search Description -->
+<p>BigBanonos presents the top 10 favorite tracks by Cee-Lo Green, blending classic and contemporary hip hop and pop rap vibes. Dive into these standout songs by the ATL artist for a mix of soulful melodies and sharp lyrics.</p> <!-- Spotify Playlist Embed -->
+<iframe src="https://open.spotify.com/embed/playlist/5lKI0ekmJ45cWquHyeRob0?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> <!-- Song Listings -->
+<ul> <li><strong>People Watching</strong> - <em>CeeLo Green Is Thomas Callaway</em> - BMG Rights Management (US) LLC - 2020-06-26</li> <li><strong>Doing It All Together</strong> - <em>CeeLo Green Is Thomas Callaway</em> - BMG Rights Management (US) LLC - 2020-06-26</li> <li><strong>Fuck You</strong> - <em>The Lady Killer</em> - Radiculture/Elektra - 2010-11-09</li> <li><strong>I Want You</strong> - <em>The Lady Killer</em> - Radiculture/Elektra - 2010-11-09</li> <li><strong>Fool for You (feat. Philip Bailey)</strong> - <em>The Lady Killer</em> - Radiculture/Elektra - 2010-11-09</li> <li><strong>All Day Love Affair</strong> - <em>Cee-Lo Green... Is The Soul Machine</em> - Arista - 2004-03-02</li> <li><strong>When We Were Friends</strong> - <em>Cee-Lo Green... Is The Soul Machine</em> - Arista - 2004-03-02</li> <li><strong>My Kind Of People (feat. Jazze Pha & Menta Malone)</strong> - <em>Cee-Lo Green... Is The Soul Machine</em> - Arista - 2004-03-02</li> <li><strong>Childz Play (feat. Ludacris)</strong> - <em>Cee-Lo Green... Is The Soul Machine</em> - Arista - 2004-03-02</li> <li><strong>The Art Of Noise</strong> - <em>Cee-Lo Green... Is The Soul Machine</em> - Arista - 2004-03-02</li>
+</ul> <!-- Image -->
+<img src="https://app.hiphopdx.com/wp-content/uploads/2024/02/cee-lo-green-sides-with-umg-in-split-from-tiktok-theres-no-wrong-way-to-do-business.jpg?w=1200" alt="Cee-Lo Green"/>
+
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @philipbailey,@jazzepha,@ludacris,@mentamalone,@ceelo,</p>

@@ -1,0 +1,28 @@
+---
+title: "oblivia fit2battlaxe"
+layout: post
+---
+<!-- Post Title -->
+<h1 >BigBanonos' Favorite Tracks: Oblivia Fit2battlaxe - "Tropical Ice-Land"</h1> <!-- Introductory Text -->
+<p >Updated March 3, 2009, with "Tropical Ice-Land" by Oblivia Fit2battlaxe. This track from the album <em>StarTime International Presents Super-Cuts</em>, released under Startime, delivers a unique blend of tropical and electronic beats, creating a distinctive sound in the experimental genre.</p> <!-- Featured Image -->
+<div > <img src="https://i.scdn.co/image/ab67616d00001e0217208a243de7a4b570103537" alt="Oblivia Fit2battlaxe - Tropical Ice-Land" />
+</div> <!-- YouTube Video Embed -->
+<div > <iframe width="100%" height="601" src="https://www.youtube.com/embed/pnk4x9hdZeI" title="Tropical Ice-Land" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div> <!-- Song Information -->
+<div > <p><em>"Tropical Ice-Land"</em> by Oblivia Fit2battlaxe is a standout track from the album <em>StarTime International Presents Super-Cuts</em>, combining tropical influences with electronic beats to create a unique and experimental sound.</p>
+</div> <!-- Footer Links -->
+<div > <p>Discover more experimental beats on <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Visit our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> channel and follow us on <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a> for more updates and music highlights.</p>
+</div> <!-- Tags -->
+<p >Tags: @obliviafit2battlaxe,</p>
+
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @obliviafit2battlaxe,</p>

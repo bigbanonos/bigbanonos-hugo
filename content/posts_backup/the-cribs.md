@@ -1,0 +1,28 @@
+---
+title: "the cribs"
+layout: post
+---
+<!-- Title of the Post -->
+<h1 >The Cribs - Men's Needs (CSS Remix)</h1> <!-- Introductory Text -->
+<p >Updated with *Men's Needs (CSS Remix)* by The Cribs, a remix that brings fresh energy to the band's signature indie rock anthem. This version, remixed by CSS, elevates the track with its electronic flair while staying true to the original's vibrant spirit.</p> <!-- Featured Image -->
+<div > <img src="https://i.scdn.co/image/ab67616d0000b273f60a1fcf7dde02a27568df6b" alt="The Cribs - Men's Needs (CSS Remix)" />
+</div> <!-- YouTube Video Embed -->
+<div > <iframe width="100%" height="514" src="https://www.youtube.com/embed/I-0N063QT7k" title="The Cribs - Men's Need (CSS Remix)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div> <!-- Song Information -->
+<div > <p><em>"Men's Needs (CSS Remix)"</em> was released on September 18, 2007, as part of *Men's Needs (DMD Maxi)*. This remix adds a catchy, electronic edge to The Cribs' original indie rock hit, maintaining the energy while introducing a fresh sound to fans.</p>
+</div> <!-- Footer Links -->
+<div > <p>For more updates, visit <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Also, check out our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a> channels for more exclusive content!</p>
+</div> <!-- Tags -->
+<p >Tags: @thecribs,</p>
+
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @cribs,@css,</p>

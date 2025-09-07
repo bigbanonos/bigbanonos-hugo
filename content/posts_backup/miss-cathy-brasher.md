@@ -1,0 +1,28 @@
+---
+title: "miss cathy brasher"
+layout: post
+---
+<!-- Post Title -->
+<h1 >BigBanonos' Favorite Tracks: Miss Cathy Brasher - "I'll Remember Jimmy"</h1> <!-- Introductory Text -->
+<p >Updated March 7, 2011, with "I'll Remember Jimmy" by Miss Cathy Brasher. This nostalgic track from the single <em>Too Late To Be Lovers / I'll Remember Jimmy</em>, released under K-Tel, captures the soulful sentiments of 1964, beautifully expressing themes of love and remembrance.</p> <!-- Featured Image -->
+<div > <img src="https://i.ytimg.com/vi/P4_GZabTkeY/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGHIgRShHMA8=&rs=AOn4CLDpwn4l1wzMyouq7WmzHelUUKUg_Q" alt="Miss Cathy Brasher - I'll Remember Jimmy" />
+</div> <!-- YouTube Video Embed -->
+<div > <iframe width="100%" height="514" src="https://www.youtube.com/embed/l8WwfoaRSZ8" title="Miss Cathy Brasher - I'll Remember Jimmy (1964)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div> <!-- Song Information -->
+<div > <p><em>"I'll Remember Jimmy"</em> by Miss Cathy Brasher is a heartfelt song that blends 1960s pop and soulful sentimentality. Featured on the single <em>Too Late To Be Lovers / I'll Remember Jimmy</em>, this track offers a timeless reflection on love and memory.</p>
+</div> <!-- Footer Links -->
+<div > <p>Discover more classic tracks on <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Visit our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> channel and follow us on <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a> for more updates and music highlights.</p>
+</div> <!-- Tags -->
+<p >Tags: @misscathybrasher,</p>
+
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @misscathybrasher,</p>

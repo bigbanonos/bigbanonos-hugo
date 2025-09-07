@@ -1,0 +1,22 @@
+---
+title: "neutral milk hotel 9 songs"
+layout: post
+---
+<h1>BigBanonos Top Songs by Neutral Milk Hotel</h1>
+<img alt="Neutral Milk Hotel" src="https://i.guim.co.uk/img/media/2969348d257ce4751accbf6b3f1409cbd2cc5033/0_35_1582_949/master/1582.jpg?width=700&quality=85&auto=format&fit=max&s=29f68ebe35be0c6d82b0d841955fe9e1" /> <p>Neutral Milk Hotel, a staple of the Elephant 6 collective, blends lo-fi, indie rock, and haunting lyricism. Here are BigBanonos' top selections from this iconic band:</p> <ol> <li><strong>I Will Bury You in Time</strong> | <em>Ferris Wheel on Fire</em> | Merge Records | Released: February 24, 2023</li> <li><strong>My Dream Girl Don't Exist - Live, 1992</strong> | <em>Ferris Wheel on Fire</em> | Merge Records | Released: February 24, 2023</li> <li><strong>King of Carrot Flowers Pt. 1</strong> | <em>In the Aeroplane Over the Sea</em> | Merge Records | Released: February 20, 1998</li> <li><strong>In the Aeroplane Over the Sea</strong> | <em>In the Aeroplane Over the Sea</em> | Merge Records | Released: February 20, 1998</li> <li><strong>Holland, 1945</strong> | <em>In the Aeroplane Over the Sea</em> | Merge Records | Released: February 20, 1998</li> <li><strong>Two-Headed Boy</strong> | <em>In the Aeroplane Over the Sea</em> | Merge Records | Released: February 20, 1998</li> <li><strong>Ghost</strong> | <em>In the Aeroplane Over the Sea</em> | Merge Records | Released: February 20, 1998</li> <li><strong>The King of Carrot Flowers Pts</strong> | <em>In the Aeroplane Over the Sea</em> | Merge Records | Released: February 20, 1998</li> <li><strong>Tuesday Moon</strong> | <em>Ferris Wheel on Fire</em> | Merge Records | Released: February 24, 2001</li> <li><strong>A Baby for Pree</strong> | <em>On Avery Island</em> | Merge Records | Released: March 26, 1996</li> <li><strong>Naomi</strong> | <em>On Avery Island</em> | Merge Records | Released: March 26, 1996</li> <li><strong>Where You'll Find Me Now</strong> | <em>On Avery Island</em> | Merge Records | Released: March 26, 1996</li>
+</ol> <div> <iframe allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" frameborder="0" height="352" loading="lazy" src="https://open.spotify.com/embed/playlist/4UTmQ0eBJ8oHLIQUYFrVDm?utm_source=generator" width="100%"></iframe>
+</div> <p>first posted by <a href="https://bigbanonos.blogspot.com/">https://bigbanonos.blogspot.com/</a></p> <div> <p>Explore more BigBanonos content: <a href="https://bigbanonos.blogspot.com/">Website</a> | <a href="https://www.youtube.com/@BigBanonos">YouTube</a> | <a href="https://x.com/bigbanonos">Twitter</a></p>
+</div> <!--Tags-->
+<p>@neutralmilkhotel</p>
+
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @neutralmilkhotel,</p>

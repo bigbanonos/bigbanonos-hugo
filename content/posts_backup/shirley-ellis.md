@@ -1,0 +1,28 @@
+---
+title: "shirley ellis"
+layout: post
+---
+<!-- Title of the Post -->
+<h1 >BigBanonos Favorite Song by Shirley Ellis: "The Clapping Song"</h1> <!-- Introductory Text -->
+<p >Updated with "The Clapping Song" by Shirley Ellis. This playful and infectious track, originally released in 1965, remains a northern soul classic that gets everyone moving. Watch the video below!</p> <!-- Featured Image -->
+<div > <img src="https://i.discogs.com/ELATPyeF0bkqWKcmymSW1Mu0E7J3PBJb9DsPJ1mmUpY/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NDg3/NTAtMTQ5ODI5OTU3/OC0xNDI1LmpwZWc.jpeg" alt="Shirley Ellis - The Clapping Song" />
+</div> <!-- YouTube Video Embed -->
+<div > <iframe width="560" height="315" src="https://www.youtube.com/embed/9pYux5-d1Es" frameborder="0" allowfullscreen></iframe>
+</div> <!-- Song Information -->
+<div > <p><em>"The Clapping Song"</em> by Shirley Ellis, featured on *The Clapping Song... And More* and released via Geffen in 2016, is a northern soul hit that blends rhythmic ingenuity with timeless charm.</p>
+</div> <!-- Footer Links -->
+<div > <p>For more updates, visit <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Also, check out our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a> channels for more exclusive content!</p>
+</div> <!-- Tags -->
+<p >Tags: @shirleyellis,</p>
+
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @shirleyellis,</p>

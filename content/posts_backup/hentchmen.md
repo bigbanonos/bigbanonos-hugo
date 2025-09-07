@@ -1,0 +1,28 @@
+---
+title: "hentchmen"
+layout: post
+---
+<!-- Title of the Post -->
+<h1 >BigBanonos Favorite Song by The Hentchmen (ft. Jack White): "Some Other Guy"</h1> <!-- Introductory Text -->
+<p >Updated May 27, 2008, with "Some Other Guy" by The Hentchmen featuring Jack White. Originally released in 1997 and later featured on *The Coolest Songs in the World! Vol. 5*, this Detroit rock anthem blends raw garage rock energy with a timeless groove. Watch the video below!</p> <!-- Featured Image -->
+<div > <img src="https://i.scdn.co/image/ab67616d00001e02505bb54cdc9a7c5f3ec7bf95" alt="The Hentchmen (ft. Jack White) - Some Other Guy" />
+</div> <!-- YouTube Video Embed -->
+<div > <iframe width="685" height="514" src="https://www.youtube.com/embed/wyqvmljsugs" title="The Hentchmen - Some Other Guy(feat. Jack White)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div> <!-- Song Information -->
+<div > <p><em>"Some Other Guy"</em>, originally recorded in 1997 and featured on *The Coolest Songs in the World! Vol. 5* by Wicked Cool Records, is a standout track in the Detroit garage rock scene. The Hentchmen, with the unmistakable contribution of Jack White, deliver a raw, electrifying performance that captures the essence of garage rock at its finest.</p>
+</div> <!-- Footer Links -->
+<div > <p>For more updates, visit <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Also, check out our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a> channels for more exclusive content!</p>
+</div> <!-- Tags -->
+<p >Tags: @hentchmen,@jackwhite,</p>
+
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @jackwhite,@hentchmen,</p>

@@ -1,0 +1,28 @@
+---
+title: "anita baker"
+layout: post
+---
+<!-- Post Title -->
+<h1 >BigBanonos' Favorite Song by Anita Baker</h1> <!-- Introductory Text -->
+<p >Updated June 13, 2017, with BigBanonos' favorite song by Anita Baker, "Giving You the Best That I Got - Single Version," originally released in 1988 under Warner Music Group - X5 Music Group. Watch the video and see more details below:</p> <!-- Featured Image -->
+<div > <img src="https://i.scdn.co/image/ab6761610000e5eb493566931abd16170b8e4df3" alt="Anita Baker - Giving You the Best That I Got" />
+</div> <!-- YouTube Video Embed -->
+<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/gKGj8XwooYQ" title="Giving You the Best That I Got" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div> <!-- Song Information -->
+<div > <p>"Giving You the Best That I Got - Single Version" by Anita Baker is a soulful and timeless classic blending funk, neo soul, and smooth jazz. Originally released in 1988 and reissued under Warner Music Group - X5 Music Group on June 13, 2017, this track embodies the elegance and emotional depth of quiet storm and urban contemporary music.</p>
+</div> <!-- Footer Links -->
+<div > <p>For more updates and playlists, visit <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Connect with us on <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p>
+</div> <!-- Tags -->
+<p >Tags: @anitabaker,</p>
+
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @anitabaker,</p>

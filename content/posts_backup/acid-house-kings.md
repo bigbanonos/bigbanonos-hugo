@@ -1,0 +1,24 @@
+---
+title: "acid house kings"
+layout: post
+---
+<h1>BigBanonos Favorite Songs by Acid House Kings</h1>
+<img src="https://images.genius.com/71fa9dbf0385c34a06159fdec0f952b3.1000x1000x1.jpg" alt="Acid House Kings"> <p>This collection of BigBanonos' favorite tracks by Acid House Kings was updated November 23, 2024. These tracks highlight the Swedish indie pop band's cheerful melodies and timeless charm, featuring songs like "This Heart Is A Stone" and "7 Days."</p> <ol> <li>This Heart Is A Stone - Album: <i>Sing Along with Acid House Kings</i>, Released: 2005</li> <li>7 Days - Album: <i>Sing Along with Acid House Kings</i>, Released: 2005</li>
+</ol> <div> <iframe src="https://open.spotify.com/embed/playlist/4hAFWnqKmGo0UJsWmFZKiR?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</div> <h3>Video Playlist</h3>
+<div> <iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/6vIwjaOyZWk?list=PLtuNtuTatqI2vpx5qUyR9Hxe2BsyQEpOD" width="95%"></iframe> <p>This Heart Is A Stone (2005) <br> 7 Days (2005)</p>
+</div> <p>first posted by https://bigbanonos.blogspot.com/</p> <div> <p>Explore more BigBanonos content: <a href="https://bigbanonos.blogspot.com/">Website</a> | <a href="https://www.youtube.com/@BigBanonos">YouTube</a> | <a href="https://x.com/bigbanonos">Twitter</a></p>
+</div> <!-- Tags -->
+<p>@acidhousekings</p>
+
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @acidhousekings,</p>

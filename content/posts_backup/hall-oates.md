@@ -1,0 +1,28 @@
+---
+title: "hall oates"
+layout: post
+---
+<!-- Title of the Post -->
+<h1 >BigBanonos Favorite Song by Hall & Oates: "Private Eyes"</h1> <!-- Introductory Text -->
+<p >Updated January 1, 1981, with "Private Eyes" by Hall & Oates. This iconic track from their album of the same name blends catchy melodies with the duo's signature pop-rock style. Watch the video below!</p> <!-- Featured Image -->
+<div > <img src="https://thisis-images.spotifycdn.com/37i9dQZF1DZ06evO4danDO-default.jpg" alt="Hall & Oates - Private Eyes" />
+</div> <!-- YouTube Video Embed -->
+<div > <iframe width="560" height="315" src="http://www.youtube.com/embed/anLfoy2XsFw" frameborder="0" allowfullscreen></iframe>
+</div> <!-- Song Information -->
+<div > <p><em>"Private Eyes"</em>, released in 1981, is one of Hall & Oates' most enduring hits. With its infectious hooks and timeless production, the track continues to captivate fans of classic pop and rock music.</p>
+</div> <!-- Footer Links -->
+<div > <p>For more updates, visit <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Also, check out our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a> channels for more exclusive content!</p>
+</div> <!-- Tags -->
+<p >Tags: @hallandoates,</p>
+
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @hallandoates,</p>

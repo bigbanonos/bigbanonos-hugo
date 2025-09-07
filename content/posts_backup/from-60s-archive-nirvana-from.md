@@ -1,0 +1,23 @@
+---
+title: "from 60s archive nirvana from"
+layout: post
+---
+<h3>Nirvana (1960s)</h3>
+<img src="https://i.scdn.co/image/ab67616d0000b2731c1fee86f0d7320bd56632d1">
+<iframe src="https://open.spotify.com/embed/track/21ArlZruOnBsZV1bZpYzOv?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<p>#1960s</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qJjTqm-DnSA?list=PLtuNtuTatqI3X01zTqiujiaUhFaK1PjKA" frameborder="0" allowfullscreen></iframe>
+<p>Burger Records re-released this 1968 gem...<br>From <em>The Touchables</em> OST</p> <hr>
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p> <div> <p>Explore more BigBanonos content: <a href="https://bigbanonos.blogspot.com/">Website</a> | <a href="https://www.youtube.com/@BigBanonos">YouTube</a> | <a href="https://x.com/bigbanonos">Twitter</a></p>
+</div>
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @nirvana,</p>

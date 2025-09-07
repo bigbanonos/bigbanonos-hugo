@@ -1,0 +1,5 @@
+---
+title: "final fantasy"
+layout: post
+---
+---title: "' 'FInal Fantasy''"date: 2016-02-14original_title: "'FInal Fantasy'"tags:  - '@finalfantasy'layout: post---#2000s <br /><iframe width="95%" height="315" src="https://www.youtube.com/embed/sryXWMn81nQ?list=PLtuNtuTatqI00Ak5pbz10qojT7un2Jh8w" frameborder="0" allowfullscreen></iframe><br />The CN Tower Belongs To The Dead 2005<!--Subscribe and Playlist Links--><div>    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div><hr /><p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p><p>tags: @finalfantasy,</p>

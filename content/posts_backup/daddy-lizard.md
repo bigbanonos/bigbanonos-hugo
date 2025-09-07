@@ -1,0 +1,28 @@
+---
+title: "daddy lizard"
+layout: post
+---
+<!-- Post Title -->
+<h1 >BigBanonos' Favorite Song by Daddy Lizard</h1> <!-- Introductory Text -->
+<p >Updated June 15, 2011, with BigBanonos' favorite track, "Ban In A Yard" by Daddy Lizard. Released under VP Records, this old-school dancehall classic brings the raw energy of deep ragga vibes and remains a hallmark of the genre's golden era.</p> <!-- Featured Image -->
+<div > <img src="https://static.wikia.nocookie.net/peel/images/a/ac/Daddy_Lizard.jpg/revision/latest?cb=20230814124317" alt="Daddy Lizard - Ban In A Yard" />
+</div> <!-- YouTube Video Embed -->
+<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/MfbS452SCd0" title="Daddy Lizard - Ban In A Yard" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div> <!-- Song Information -->
+<div > <p>Originally released on June 15, 2011, as part of *Bam On The Roof* under VP Records, "Ban In A Yard" captures the essence of old-school dancehall with Daddy Lizard's signature deep ragga style. Its powerful rhythm and classic production make it a must-listen for reggae enthusiasts.</p>
+</div> <!-- Footer Links -->
+<div > <p>For more updates and playlists, visit <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Connect with us on <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p>
+</div> <!-- Tags -->
+<p >Tags: @daddylizard,</p>
+
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @daddylizard,</p>

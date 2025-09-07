@@ -1,0 +1,22 @@
+---
+title: "bruno mars"
+layout: post
+---
+<h2>BigBanonos' Favorite Songs by Bruno Mars</h2> <!-- Search Description -->
+<p>BigBanonos' top 4 favorite tracks by Bruno Mars, highlighting his signature dance pop and pop sound.</p> <!-- Spotify Playlist Embed -->
+<iframe src="https://open.spotify.com/embed/playlist/7ItDGBnCFoKUawqcCXpqsB?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> <!-- Song Listings -->
+<ul> <li>Somewhere in Brooklyn - <em>10s Pop</em> - Warner Music Group - X5 Music Group (2022-12-16)</li> <li>Marry You - <em>Doo-Wops & Hooligans</em> - Elektra (NEK) (2010-05-11)</li> <li>Smokin Out The Window - <em>Silk Sonic</em> feat. Anderson .Paak - Aftermath Entertainment/Atlantic (2021-11-05)</li> <li>Finesse - Remix feat. Cardi B - <em>Finesse (Remix)</em> - Atlantic Records (2017-12-20)</li>
+</ul> <!-- Image -->
+<img src="https://i8.amplience.net/i/naras/bruno-mars_MI0004141313-MN0001032082" alt="Bruno Mars"/>
+
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @cardib,@brunomars,@andersonpaak,</p>

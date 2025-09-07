@@ -1,0 +1,28 @@
+---
+title: "the english beat"
+layout: post
+---
+<!-- Title of the Post -->
+<h1 >The English Beat - Save It For Later</h1> <!-- Introductory Text -->
+<p >Updated with *Save It For Later* by The English Beat, a timeless new wave anthem from their *Special Beat Service* album. This track blends ska revival with new romantic energy, capturing the band's signature upbeat sound and cultural resonance from the 1980s.</p> <!-- Featured Image -->
+<div > <img src="https://i.scdn.co/image/ab67616d0000b273fd4b0aa9db46867f1e2a8470" alt="The English Beat - Special Beat Service" />
+</div> <!-- YouTube Video Embed -->
+<div > <iframe width="100%" height="507" src="https://www.youtube.com/embed/c-7lBq0zuSM" title="The English Beat - Save It For Later (Official)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div> <!-- Song Information -->
+<div > <p><em>"Save It For Later"</em> by The English Beat offers a captivating look into their mix of ska, new wave, and pop energy. Featured on their *Special Beat Service* album, this track remains a defining piece in the ska revival movement.</p>
+</div> <!-- Footer Links -->
+<div > <p>For more updates, visit <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Also, check out our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a> channels for more exclusive content!</p>
+</div> <!-- Tags -->
+<p >Tags: @theenglishbeat, @specialbeatservice, @saveitforlater, @newwave, @ska, @ska-revival, @80s,</p>
+
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @englishbeat,</p>

@@ -1,0 +1,28 @@
+---
+title: "birdman and lil wayne"
+layout: post
+---
+<!-- Post Title -->
+<h1 >BigBanonos' Favorite Song by Birdman and Lil Wayne</h1> <!-- Introductory Text -->
+<p >Updated January 1, 2006, with BigBanonos' favorite song by Birdman and Lil Wayne, "Stuntin' Like My Daddy." Featured on the album *Like Father Like Son* and released under CM/Republic, this iconic hip-hop track defines the southern rap genre. Watch the video and see more details below:</p> <!-- Featured Image -->
+<div > <img src="https://www.vice.com/wp-content/uploads/sites/2/2016/11/stuntin-like-my-daddy-1.jpg?w=640" alt="Birdman and Lil Wayne - Stuntin' Like My Daddy" />
+</div> <!-- YouTube Video Embed -->
+<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/_hDPUoUi6_s" title="Birdman, Lil Wayne - Stuntin' Like My Daddy (Official Music Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div> <!-- Song Information -->
+<div > <p>"Stuntin' Like My Daddy" by Birdman and Lil Wayne is a classic hip-hop anthem showcasing their signature dirty south rap and southern hip-hop style. Released on January 1, 2006, as part of the album *Like Father Like Son* under CM/Republic, this 4:27-long track solidified their legacy in rap history.</p>
+</div> <!-- Footer Links -->
+<div > <p>For more updates and playlists, visit <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Connect with us on <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p>
+</div> <!-- Tags -->
+<p >Tags: @birdman, @lilwayne,</p>
+
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @birdman,@lilwayne,</p>

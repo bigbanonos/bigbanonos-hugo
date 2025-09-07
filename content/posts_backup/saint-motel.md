@@ -1,0 +1,28 @@
+---
+title: "saint motel"
+layout: post
+---
+<!-- Title of the Post -->
+<h1 >Saint Motel - Cold Cold Man</h1> <!-- Introductory Text -->
+<p >Updated with "Cold Cold Man" by Saint Motel, from the EP *My Type*, released on August 16, 2014, by Parlophone UK.</p> <!-- Featured Image -->
+<div > <img src="https://i1.sndcdn.com/artworks-000111564573-zclzfb-t500x500.jpg" alt="Saint Motel - Cold Cold Man" />
+</div> <!-- YouTube Video Embed -->
+<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/Of3jUuQzH2o" title="Saint Motel - Cold Cold Man (Official Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div> <!-- Song Information -->
+<div > <p><em>"Cold Cold Man"</em> by Saint Motel is a track from the EP *My Type*, released on August 16, 2014. The song blends elements of la indie, modern alternative rock, and indie pop, capturing the essence of Saint Motel's unique sound with a catchy and energetic vibe.</p>
+</div> <!-- Footer Links -->
+<div > <p>Explore more at <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Check out our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a> channels for more music updates.</p>
+</div> <!-- Tags -->
+<p >Tags: @saintmotel,</p>
+
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @saintmotel,</p>

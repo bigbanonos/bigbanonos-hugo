@@ -1,0 +1,5 @@
+---
+title: "fleshtones"
+layout: post
+---
+---title: "' 'Fleshtones''"date: 2016-02-14original_title: "'Fleshtones'"tags:  - '@fleshtones'layout: post---#2000s <br /><iframe width="95%" height="315" src="https://www.youtube.com/embed/eLshjeN3UhY?list=PLtuNtuTatqI2tz7FsBXwVk9ME-NuTR-3Q" frameborder="0" allowfullscreen></iframe><br />Do You Swing? 2003<!--Subscribe and Playlist Links--><div>    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div><hr /><p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p><p>tags: @fleshtones,</p>

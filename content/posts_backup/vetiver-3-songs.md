@@ -1,0 +1,22 @@
+---
+title: "vetiver 3 songs"
+layout: post
+---
+<h1>BigBanonos Favorite Songs by Vetiver</h1>
+<img alt="Vetiver" src="https://cdn.sfstation.com/wp-content/uploads/2016/08/vetiver_main.jpg" /> <p>Vetiver stands at the crossroads of freak folk and indie folk, offering soulful acoustic melodies. Here are BigBanonos' favorite tracks from Vetiver:</p> <ol> <li><strong>Aboretum</strong> | <em>Vetiver</em> | Released: 2004-00-00 | Dicristina Stair Builders</li> <li><strong>Been So Long</strong> | <em>Between</em> | Released: 2005-06-14 | Dicristina Stair Builders</li> <li><strong>Save Me A Place</strong> | <em>Between</em> | Released: 2005-06-14 | Dicristina Stair Builders</li><li><span data-sheets-root="1"><span><b>Just To Have You</b> </span><span>2007</span></span></li>
+</ol> <div> <iframe allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" allowfullscreen="" frameborder="0" height="352" loading="lazy" src="https://open.spotify.com/embed/playlist/1QBP2mFPQC7QVUGjBsiiti?utm_source=generator" width="100%"></iframe>
+</div> <p><em>First posted by BigBanonos - <a href="https://bigbanonos.blogspot.com/">https://bigbanonos.blogspot.com/</a></em></p>
+<p><em>Last updated November 15, 2024</em></p>
+<p>Follow BigBanonos on <a href="https://www.youtube.com/@BigBanonos">YouTube</a> and <a href="https://x.com/bigbanonos">Twitter</a> for more music content.</p>
+<p>Tags: @vetiver</p>
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @vetiver,</p>

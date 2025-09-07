@@ -1,0 +1,28 @@
+---
+title: "nagisa ni te"
+layout: post
+---
+<!-- Post Title -->
+<h1 >BigBanonos' Favorite Tracks: Nagisa Ni Te - "Me, On The Beach"</h1> <!-- Introductory Text -->
+<p >Updated March 1, 2005, with "Me, On The Beach" by Nagisa Ni Te. From the album <em>Dream Sounds</em>, released under Jagjaguwar, this track blends the ethereal nature of Japanese psychedelic rock with captivating melodies and atmospheric instrumentation.</p> <!-- Featured Image -->
+<div > <img src="https://f4.bcbits.com/img/a3833583249_65" alt="Nagisa Ni Te - Me, On The Beach" />
+</div> <!-- YouTube Video Embed -->
+<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/8qceqA7_sKA" title="Nagisa Ni Te - Me, On The Beach" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div> <!-- Song Information -->
+<div > <p><em>"Me, On The Beach"</em> by Nagisa Ni Te is a beautifully crafted track from the album <em>Dream Sounds</em>, showcasing the essence of Japanese psychedelic rock. With its dreamy atmosphere and mesmerizing rhythms, it stands as a highlight in the genre.</p>
+</div> <!-- Footer Links -->
+<div > <p>Explore more psychedelic rock tracks on <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Visit our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> channel and follow us on <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a> for more updates and music highlights.</p>
+</div> <!-- Tags -->
+<p >Tags: @nagisani,</p>
+
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @nagisani,</p>

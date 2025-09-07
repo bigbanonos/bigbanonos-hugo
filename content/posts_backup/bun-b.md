@@ -1,0 +1,26 @@
+---
+title: "bun b"
+layout: post
+---
+A 2008 gem - featuring a self-noted change of direction from Lupe Fiasco
+<iframe width="100%" src="https://www.youtube.com/embed/s8IZub7viME" frameborder="0" allowfullscreen></iframe>
+#stlouis <br />
+https://www.youtube.com/watch?v=-yhmLgkudq0 <br />
+Old Rock House - 12/18/2008 <br />
+<span><spantimes" , "times new roman" , serif;">Bun B - Angel In The Sky (Lil' Razah) (<a href="http://www.youtube.com/watch?v=qpeUw5bKKxs">Stream</a>) 2008</span></span><br />
+<span><spantimes" , "times new roman" , serif;">Bun B - Damn I'm Cold (featuring Lil' Wayne) (<a href="http://www.youtube.com/watch?v=5aEontuWmvs">Stream</a>) 2008</span></span><br />
+<span><spantimes" , "times new roman" , serif;">Bun B - Swang On 'Em (Lupe Fiasco) (<a href="http://www.youtube.com/watch?v=s8IZub7viME">Stream</a>) 2008</span></span><br />
+<span><spantimes" , "times new roman" , serif;">Bun B - You're Everything (Rick Ross, David Banner, 8-Ball & MJG) (<a href="http://www.youtube.com/watch?v=CQL-IFEk6hw">Stream</a>) 2008</span></span><br />
+<span><spantimes" , "times new roman" , serif;">Bun-B (ft. Trey Songz, Mike Jones) - Hold U Down (<a href="http://www.youtube.com/watch?v=iCYhyNXC5o0">Stream</a>) 2005</span></span><br />
+<span><spantimes" , "times new roman" , serif;"><br /></span></span>
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @bunb,</p>

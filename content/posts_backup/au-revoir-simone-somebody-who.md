@@ -1,0 +1,28 @@
+---
+title: "au revoir simone somebody who"
+layout: post
+---
+<!-- Post Title -->
+<h1 >BigBanonos' Favorite Song by Au Revoir Simone</h1> <!-- Introductory Text -->
+<p >Updated August 5, 2013, with BigBanonos' favorite song by Au Revoir Simone, "Somebody Who," released under Instant Records. Watch the video and see more details below:</p> <!-- Featured Image -->
+<div > <img src="https://f4.bcbits.com/img/0012685554_10.jpg" alt="Au Revoir Simone - Somebody Who" />
+</div> <!-- YouTube Video Embed -->
+<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/kwvvlTKi5cE" title="Au Revoir Simone - Somebody Who (Official Music Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div> <!-- Song Information -->
+<div > <p>"Somebody Who" by Au Revoir Simone is a mesmerizing track blending dreamlike melodies and introspective lyrics. Released on August 5, 2013, under Instant Records, this song is a standout representation of the Brooklyn indie scene.</p>
+</div> <!-- Footer Links -->
+<div > <p>For more updates and playlists, visit <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Connect with us on <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p>
+</div> <!-- Tags -->
+<p >Tags: @aurevoirsimone,</p>
+
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @aurevoirsimone,</p>

@@ -1,0 +1,22 @@
+---
+title: "nick kroll top comedy tracks"
+layout: post
+---
+<h1>BigBanonos Top Comedy Tracks by Nick Kroll</h1>
+<img src="https://images.entertainment.ie/person/vdgpGtSXqTBnIKrKNMZocdFu7pX.jpg" alt="Nick Kroll"> <p>Nick Kroll's humor is unique, blending sharp wit with character-driven comedy. Here are BigBanonos' top picks from Nick Kroll's comedy album, *Thank You Very Cool*:</p> <ol> <li><strong>Bobby B</strong> | <em>Thank You Very Cool</em> | Comedy Central | Released: March 25, 2014</li> <li><strong>Tunatinis</strong> | <em>Thank You Very Cool</em> | Comedy Central | Released: March 25, 2014</li> <li><strong>MJ</strong> | <em>Thank You Very Cool</em> | Comedy Central | Released: March 25, 2014</li> <li><strong>Drunk Packing</strong> | <em>Thank You Very Cool</em> | Comedy Central | Released: March 25, 2014</li>
+</ol> <div> <iframe src="https://open.spotify.com/embed/playlist/1dL4suAWb6M2rq4XYOaoH8?utm_source=generator" width="100%" height="352" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</div> <p>first posted by <a href="https://bigbanonos.blogspot.com/">https://bigbanonos.blogspot.com/</a></p> <div> <p>Explore more BigBanonos content: <a href="https://bigbanonos.blogspot.com/">Website</a> | <a href="https://www.youtube.com/@BigBanonos">YouTube</a> | <a href="https://x.com/bigbanonos">Twitter</a></p>
+</div> <!-- Tags -->
+<p>@nickkroll</p>
+
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @nickkroll,</p>

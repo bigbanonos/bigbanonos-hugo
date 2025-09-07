@@ -1,0 +1,22 @@
+---
+title: "wooden wand guru femmes"
+layout: post
+---
+<img src="https://www.furious.com/perfect/graphics/wooden-wand.jpg" width="100%" /> <h2>BigBanonos' Favorite Songs by Wooden Wand</h2> <p>Updated with "Soldier Movies (For Larry McMurtry)" from <em>Farmer's Corner</em>. Highlights and #NotOnSpotify picks below:</p> <iframe width="95%" height="315" src="https://www.youtube.com/embed/PIf9sGXsKPM" title="Dog Paddlin' Home To Live With My Lord" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<p><strong>"Dog Paddlin' Home To Live With My Lord"</strong> (2005) <span>#NotOnSpotify</span></p> <hr /> <h3>#Highlights</h3> <iframe width="95%" height="315" src="https://www.youtube.com/embed/uZeLlEwnK5U" title="Wooden Wand - Guru Femmes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<p><strong>"Guru Femmes"</strong> (2007)</p> <iframe width="95%" height="315" src="https://www.youtube.com/embed/qAcvSRDKJ10" title="Wooden Wand - Winter in Kentucky" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<p><strong>"Winter In Kentucky"</strong> (2012)</p> <p><strong>"Soldier Movies (For Larry McMurtry)"</strong> (2014)</p> <hr /> <h3>#NotOnSpotify</h3> <p><strong>"Dog Paddlin' Home To Live With My Lord"</strong> (2005) <span>#NotOnSpotify</span></p> <hr /> <h3>Spotify Playlist</h3> <iframe src="https://open.spotify.com/embed/playlist/3qBh9GSuIWOLfsCEUrRhp1?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> <div> <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p> <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p>
+</div> <hr /> <p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p> <!-- Tags -->
+<p>@woodenwand</p>
+
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @woodenwand,</p>

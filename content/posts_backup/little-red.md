@@ -1,0 +1,18 @@
+---
+title: "little red"
+layout: post
+---
+<h2>BigBanonos' Favorite Songs by Little Red</h2> <p><strong>Updated June 4, 2010, with "Rock It" from <em>Midnight Remember</em></strong></p> <img src="https://i.scdn.co/image/ab67616d00001e02d5a4c89e8fc75c5aa61fda8f" width="100%" alt="Little Red"> <p>Australian rock band Little Red delivered bright, catchy indie tunes with a vintage feel. Below is BigBanonos' favorite song.</p> <h3>"Rock It"</h3>
+<p><em>Midnight Remember</em>, Liberation Music, 2010</p> <iframe width="685" height="385" src="https://www.youtube.com/embed/jQVKX8XUC9o" title="Little Red - Rock It" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> <hr /> <p><strong>Tags:</strong> @littlered</p> <hr /> <p><em>First posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @littlered,</p>

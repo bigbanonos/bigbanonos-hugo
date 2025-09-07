@@ -1,0 +1,20 @@
+---
+title: "brenda lee"
+layout: post
+---
+<img src="https://i.scdn.co/image/ab6761610000e5eb4ea49bdca366a3baa5cbb006" width="100%" /> <h2>BigBanonos' Favorite Songs by Brenda Lee</h2> <p>Updated April 1962 with "Here Comes That Feeling" from <em>Decca Records</em>. Highlights and #NotOnSpotify picks below:</p> <iframe width="95%" height="315" src="https://www.youtube.com/embed/NCjcWL74BAo" title="Brenda Lee - Here Comes That Feeling" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<p><strong>"Here Comes That Feeling"</strong> (1962)</p> <hr /> <h3>Album Info</h3> <p><em>Here Comes That Feeling</em> (1962) Label: Decca Records Released: April 1962 Genre: Pop, Rock & Roll Style: Rockabilly, Pop Rock</p> <hr /> <div> <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p> <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p>
+</div> <hr /> <p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p> <!-- Tags -->
+<p>@brendalee</p>
+
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @brendalee,</p>

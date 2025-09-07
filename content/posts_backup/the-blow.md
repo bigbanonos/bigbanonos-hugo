@@ -1,0 +1,29 @@
+---
+title: "the blow"
+layout: post
+---
+<!-- Title of the Post -->
+<h1>BigBanonos' Favorite Songs by The Blow</h1> <!-- Introductory Text -->
+<p>Updated with 11 indie gems by The Blow. Their Olympia, WA indie sound blends artful lyrics and minimalist production, creating timeless tracks for indie enthusiasts.</p> <!-- Featured Image -->
+<div> <img src="https://i.scdn.co/image/ab67616d0000b27382c391ac0836fb7f956b1378" alt="The Blow">
+</div> <!-- Spotify Playlist Embed -->
+<div> <iframe src="https://open.spotify.com/embed/playlist/7deQexClZRCN9o1IdpLx1V?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</div> <!-- Song Information -->
+<h3>Top Songs:</h3>
+<ol> <li><strong>Summer</strong> | <em>Brand New Abyss</em> | Label: The Blow | Released: September 22, 2017 | Genres: Olympia WA Indie</li> <li><strong>Invisible</strong> | <em>The Blow</em> | Label: Kanine Records | Released: September 30, 2013 | Genres: Olympia WA Indie</li> <li><strong>The Long List of Girls</strong> | <em>Paper Television</em> | Label: K Records | Released: October 24, 2006 | Genres: Olympia WA Indie</li> <li><strong>Hey Boy</strong> | <em>Poor Aim: Love Songs</em> | Label: K Records | Released: November 2, 2004 | Genres: Olympia WA Indie</li> <li><strong>The Sky Opened Wide Like the Tide</strong> | <em>Poor Aim: Love Songs</em> | Label: K Records | Released: November 2, 2004 | Genres: Olympia WA Indie</li> <li><strong>What Tom Said About Girls</strong> | <em>The Concussive Caress...</em> | Label: K Records | Released: October 21, 2003 | Genres: Olympia WA Indie</li> <li><strong>A Night Full of Open Eyes</strong> | <em>The Concussive Caress, Or, Casey Caught Her Mom Singing Along With the Vacuum</em> | Label: K Records | Released: October 21, 2003 | Genres: Olympia WA Indie</li> <li><strong>Little Sally Tutorial</strong> | <em>Bonus Album</em> | Label: K Records | Released: January 1, 2003 | Genres: Olympia WA Indie</li> <li><strong>Parentheses</strong> | <em>Paper Television</em> | Label: Tomlab | Released: 2006 | Genres: Olympia WA Indie</li> <li><strong>Fists Up</strong> | <em>Paper Television</em> | Label: Tomlab | Released: 2006 | Genres: Olympia WA Indie</li> <li><strong>True Affection</strong> | <em>Paper Television</em> | Label: Tomlab | Released: 2006 | Genres: Olympia WA Indie</li>
+</ol> <!-- Footer Links -->
+<hr />
+<p>For more updates, visit <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Also, check out our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> channel and follow us on <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a> for more exclusive content!</p> <!-- Tags -->
+<p>Tags: @theblow,</p>
+
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @blow,</p>

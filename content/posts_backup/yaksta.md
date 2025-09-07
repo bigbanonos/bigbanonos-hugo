@@ -1,0 +1,25 @@
+---
+title: "yaksta"
+layout: post
+---
+<h3>BigBanonos' Favorite Song by Yaksta</h3> <!-- Featured Image -->
+<div > <a href="https://i.scdn.co/image/ab67616d0000b273305a0aa8781082d3e74d7345" target="_blank"> <img src="https://i.scdn.co/image/ab67616d0000b273305a0aa8781082d3e74d7345" alt="YakstaL - Cease Fire Remix"> </a>
+</div> <!-- Introductory Text -->
+<p>YakstaL delivers a powerful performance in the remix of "Cease Fire" featuring Chronic Law. This collaboration highlights their dynamic styles and meaningful lyrics, making it a standout track in their discographies.</p> <!-- YouTube Video Embed -->
+<h4>Watch the video for "Cease Fire Remix":</h4>
+<div > <iframe width="1013" height="618" src="https://www.youtube.com/embed/rQkjhRG8YaM" title="Cease Fire Remix" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div> <!-- Chronic Law Tribute Link -->
+<p>Discover Chronic Law's incredible contributions to music in <a href="https://bigbanonos.blogspot.com/2024/10/chronic-law-105-songs.html" target="_blank">BigBanonos' 107+ Song Tribute</a>.</p> <!-- Tags -->
+<p>@yaksta,@chroniclaw</p>
+
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @chroniclaw,@yaksta,</p>

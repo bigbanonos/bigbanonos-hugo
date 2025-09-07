@@ -1,0 +1,19 @@
+---
+title: "french kicks"
+layout: post
+---
+<h2>BigBanonos' Favorite Songs by French Kicks</h2> <p><strong>Updated 2002, with "Wrong Side" from <em>One Time Bells</em></strong></p> <img src="https://images.genius.com/c09c9ab23bed5d82807f9f76a4f0da56.620x620x1.jpg" width="100%" alt="French Kicks"> <p>French Kicks' indie rock sound is known for its smooth, layered melodies. Below are BigBanonos' favorite songs by French Kicks.</p> <h3>"Wrong Side"</h3>
+<p><em>One Time Bells</em>, Startime, 2002</p> <h3>"Right in Time"</h3>
+<p><em>One Time Bells</em>, Startime, 2002</p> <iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/ub9A-MjK4MI?list=PLtuNtuTatqI3EAUv1CkcPibSmjBTyskyz" width="95%"></iframe> <hr /> <h3>Listen on Spotify</h3> <iframe src="https://open.spotify.com/embed/playlist/0rnv0fSRVPI0OatAYJqi74?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> <hr /> <p><strong>Tags:</strong> @frenchkicks</p> <hr /> <p><em>First posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @frenchkicks,</p>

@@ -1,0 +1,28 @@
+---
+title: "banoffee 1 song"
+layout: post
+---
+<!-- Post Title -->
+<h1 >BigBanonos' Favorite Song by Banoffee and Empress Of</h1> <!-- Introductory Text -->
+<p >Updated October 23, 2019, with BigBanonos' favorite song by Banoffee and Empress Of, "Tennis Fan," released under Cascine. Watch the video and see more details below:</p> <!-- Featured Image -->
+<div > <img src="https://i.ytimg.com/vi/VhS5MB9cLY8/sddefault.jpg" alt="Banoffee and Empress Of - Tennis Fan" />
+</div> <!-- YouTube Video Embed -->
+<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/VhS5MB9cLY8" title="Banoffee - Tennis Fan ft. Empress Of (Official Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div> <!-- Song Information -->
+<div > <p>"Tennis Fan" by Banoffee featuring Empress Of is a breezy blend of art pop and electropop, layered with dreamy melodies and soulful vocals. Released on October 23, 2019, under Cascine, this 2:50-long track highlights the unique talents of both artists in the realms of Australian pop and etherpop.</p>
+</div> <!-- Footer Links -->
+<div > <p>For more updates and playlists, visit <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Connect with us on <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p>
+</div> <!-- Tags -->
+<p >Tags: @banoffee, @empressof,</p>
+
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @empressof,@banoffee,</p>

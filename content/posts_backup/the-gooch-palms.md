@@ -1,0 +1,26 @@
+---
+title: "the gooch palms"
+layout: post
+---
+<!-- Title of the Post -->
+<h1 >The Gooch Palms - We Get By</h1> <!-- Introductory Text -->
+<p >Updated with *We Get By* by The Gooch Palms, a track that perfectly captures their raw garage punk style. From their *Novo's* album, this song is full of energy and attitude, blending rock with a touch of blues for a high-energy anthem.</p> <!-- Featured Image -->
+<div > <img src="https://i.scdn.co/image/ab67616d00001e023730a4676a67f51f019c847d" alt="The Gooch Palms - Novo's" />
+</div> <!-- YouTube Video Embed -->
+<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/MSxiiY7OaG0" title="THE GOOCH PALMS 'We Get By' OFFICIAL MUSIC VIDEO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div> <!-- Song Information -->
+<div > <p><em>"We Get By"</em> by The Gooch Palms is a blast of garage punk energy that pulls influences from the blues and early rock. Featured on *Novo's*, this track brings a sense of gritty, down-to-earth rock that leaves a lasting impression with its infectious rhythms and attitude.</p>
+</div> <!-- Footer Links -->
+<div > <p>For more updates, visit <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Also, check out our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a> channels for more exclusive content!</p>
+</div> 
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @thegoochpalms,</p>

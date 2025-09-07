@@ -1,0 +1,28 @@
+---
+title: "gavin rayna russom kc ortiz"
+layout: post
+---
+<!-- Post Title -->
+<h1 >BigBanonos' Favorite Tracks: Gavin Rayna Russom & KC Ortiz - "Heaven's Highways"</h1> <!-- Introductory Text -->
+<p >Updated August 5, 2019, with "Heaven's Highways" by Gavin Rayna Russom & KC Ortiz. This evocative track explores the intersections of LGBTQ+ hip hop and transpop, offering a deeply resonant and empowering sound.</p> <!-- Featured Image -->
+<div > <img src="https://media.pitchfork.com/photos/5d3872a642b8ff0009345f9c/2:1/w_2560%2Cc_limit/Gavin-Rayna-Russom.jpg" alt="Gavin Rayna Russom - Heaven's Highways" />
+</div> <!-- YouTube Video Embed -->
+<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/7PuF0w7tI3w" title="Heaven's Highways" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div> <!-- Song Information -->
+<div > <p><em>"Heaven's Highways"</em> is a powerful collaboration between Gavin Rayna Russom and KC Ortiz, blending elements of hip hop and pop with an authentic LGBTQ+ perspective. Released on August 5, 2019, this track shines with its bold and heartfelt delivery.</p>
+</div> <!-- Footer Links -->
+<div > <p>Discover more diverse music favorites at <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Check out our playlists on <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and follow us on <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p>
+</div> <!-- Tags -->
+<p >Tags: @gavinraynarussom,@kcortiz,</p>
+
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @gavinraynarussom,@kcortiz,</p>

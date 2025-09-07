@@ -1,0 +1,28 @@
+---
+title: "christopher paul stelling"
+layout: post
+---
+<!-- Post Title -->
+<h1 >BigBanonos' Favorite Song by Christopher Paul Stelling</h1> <!-- Introductory Text -->
+<p >Updated June 16, 2015, with BigBanonos' favorite track, "Dear Beast" by Christopher Paul Stelling. This powerful live performance from the *Labor Against Waste* album showcases deep new Americana at its finest.</p> <!-- Featured Image -->
+<div > <img src="https://media.npr.org/assets/img/2015/03/30/jennsweeny_wide-852002de387d60639fa513c435699ad776fc1616.jpg?s=1400&c=100&f=jpeg" alt="Christopher Paul Stelling - Dear Beast" />
+</div> <!-- YouTube Video Embed -->
+<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/0NGw6RhuGoo" title="Christopher Paul Stelling - 'Dear Beast' (Live)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div> <!-- Song Information -->
+<div > <p>"Dear Beast," from Christopher Paul Stelling's *Labor Against Waste* album, was released on June 16, 2015, by Anti/Epitaph. This track resonates with emotional depth and a raw acoustic essence, embodying the spirit of deep new Americana.</p>
+</div> <!-- Footer Links -->
+<div > <p>For more updates and playlists, visit <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Connect with us on <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p>
+</div> <!-- Tags -->
+<p >Tags: @christopherpaulstelling,</p>
+
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @christopherpaulstelling,</p>

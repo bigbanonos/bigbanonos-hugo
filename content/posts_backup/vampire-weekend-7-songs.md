@@ -1,0 +1,23 @@
+---
+title: "vampire weekend 7 songs"
+layout: post
+---
+<h1>BigBanonos Favorite Songs by Vampire Weekend</h1>
+<img alt="Vampire Weekend" src="https://thefader-res.cloudinary.com/images/w_1440,c_limit,f_auto,q_auto:eco/auxbllhm6dukd1mip3ru/vampire-weekend.jpg" /> <p>Vampire Weekend combines baroque pop, indie rock, and chamber pop into a distinctive sound. Here are BigBanonos' favorite tracks from the band:</p> <ol> <li><strong>Harmony Hall</strong> | <em>Father of the Bride</em> | Released: 2019-05-03 | Columbia</li> <li><strong>How Long?</strong> | <em>Father of the Bride</em> | Released: 2019-05-03 | Columbia</li> <li><strong>Rich Man</strong> | <em>Father of the Bride</em> | Released: 2019-05-03 | Columbia</li> <li><strong>Sympathy</strong> | <em>Father of the Bride</em> | Released: 2019-05-03 | Columbia</li> <li><strong>Jerusalem, New York, Berlin</strong> | <em>Father of the Bride</em> | Released: 2019-05-03 | Columbia</li> <li><strong>This Life</strong> | <em>This Life / Unbearably White</em> | Released: 2019-04-04 | Columbia</li> <li><strong>Step</strong> | <em>Modern Vampires of the City</em> | Released: 2013-05-27 | XL</li><li>Oxford Comma</li>
+</ol> <div> <iframe allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" allowfullscreen="" frameborder="0" height="352" loading="lazy" src="https://open.spotify.com/embed/playlist/1eejVPzMgU4LdC3C67zHrX?utm_source=generator" width="100%"></iframe>
+</div> <p><em>First posted by BigBanonos - <a href="https://bigbanonos.blogspot.com/">https://bigbanonos.blogspot.com/</a></em></p>
+<p><em>Last updated November 15, 2024</em></p>
+<p>Follow BigBanonos on <a href="https://www.youtube.com/@BigBanonos">YouTube</a> and <a href="https://x.com/bigbanonos">Twitter</a> for more music content.</p>
+<p>Tags: @vampireweekend</p>
+
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @vampireweekend,</p>

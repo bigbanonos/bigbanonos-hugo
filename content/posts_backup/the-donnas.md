@@ -1,0 +1,30 @@
+---
+title: "the donnas"
+layout: post
+---
+<h2 >BigBanonos' Favorite Songs by The Donnas</h2> <!-- Introductory Text -->
+<p >The Donnas brought fierce energy and unapologetic rock 'n' roll attitude to the late '90s and early 2000s. Updated with their standout tracks and rare gems, this post celebrates their enduring legacy. Watch highlights below and dive into the playlist!</p> <!-- Featured Image -->
+<div > <img src="https://i.scdn.co/image/ab67616d00001e02cfe420c973215f78f3e6d82f" alt="The Donnas Album Cover">
+</div> <!-- Spotify Playlist Embed -->
+<div > <iframe src="https://open.spotify.com/embed/playlist/3q8UBGGTXKbgoORTrXyplK?utm_source=generator" width="100%" height="352" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</div> <!-- Video Highlights -->
+<h3 >Video Highlights:</h3>
+<div > <iframe width="100%" height="545" src="https://www.youtube.com/embed/8WieQyS5RYI?list=PLtuNtuTatqI0HhkhCFMhi0TRd3k919XPl" frameborder="0" allowfullscreen></iframe> <p><strong>Boy Like You</strong> (1997) | <strong>Take It Off</strong> (2004)</p>
+</div> <!-- Rare Tracks -->
+<h3 >Rare Gems:</h3>
+<div > <iframe width="100%" height="545" src="https://www.youtube.com/embed/WhobkMVwe0U?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" frameborder="0" allowfullscreen></iframe> <p><strong>Checkin' It Out</strong> (1998) <em>#NotOnSpotify & Studio Version #NotOnYouTube</em></p>
+</div> <!-- Footer Links -->
+<hr />
+<p >For more updates, visit <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Also, check out our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> channel and follow us on <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a> for exclusive content!</p>
+
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @donnas,</p>

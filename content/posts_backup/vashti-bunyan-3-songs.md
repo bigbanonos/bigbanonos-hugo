@@ -1,0 +1,23 @@
+---
+title: "vashti bunyan 3 songs"
+layout: post
+---
+<h1>BigBanonos Favorite Songs by Vashti Bunyan</h1>
+<img src="https://i.ytimg.com/vi/2-erNldHdV8/hqdefault.jpg" alt="Vashti Bunyan"> <p>Vashti Bunyan, an iconic figure in British folk and psychedelic folk, has a timeless sound that continues to captivate listeners. Here are BigBanonos' favorite tracks from Vashti Bunyan:</p> <ol> <li><strong>Train Song</strong> | <em>Some Things Just Stick In Your Mind (Singles And Demos 1964 To 1967)</em> | Released: 2007-10-30 | Dicristina</li> <li><strong>I Want To Be Alone</strong> | <em>Some Things Just Stick In Your Mind (Singles And Demos 1964 To 1967)</em> | Released: 2007-10-30 | Dicristina</li> <li><strong>If I Were</strong> | <em>Lookaftering</em> | Released: 2005-10-25 | Dicristina Stair Builders</li>
+</ol> <div> <iframe src="https://open.spotify.com/embed/playlist/7to99AylkaKqWtaoIdrIWL?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</div> <p><em>First posted by BigBanonos - <a href="https://bigbanonos.blogspot.com/">https://bigbanonos.blogspot.com/</a></em></p>
+<p><em>Last updated November 15, 2024</em></p>
+<p>Follow BigBanonos on <a href="https://www.youtube.com/@BigBanonos">YouTube</a> and <a href="https://x.com/bigbanonos">Twitter</a> for more music content.</p>
+<p>Tags: @vashtibunyan</p>
+
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @vashtibunyan,</p>

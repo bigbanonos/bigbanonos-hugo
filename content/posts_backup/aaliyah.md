@@ -1,0 +1,22 @@
+---
+title: "aaliyah"
+layout: post
+---
+<h1>BigBanonos Favorite Songs by Aaliyah</h1>
+<img src="https://imgix.bustle.com/wmag/2021/01/GettyImages-112397200.jpg?w=390&h=585&fit=crop&crop=faces&dpr=2" alt="Aaliyah"> <p>This collection of BigBanonos' favorite tracks by Aaliyah was updated November 23, 2024. It highlights the timeless contributions of the Princess of R&B to contemporary R&B, pop, and hip hop, featuring iconic tracks from her groundbreaking albums.</p> <ol> <li>We Need A Resolution (feat. Timbaland) - Album: <i>Aaliyah</i>, Label: Blackground Records, LLC, Released: July 7, 2001</li> <li>Rock The Boat - Album: <i>Aaliyah</i>, Label: Blackground Records, LLC, Released: July 7, 2001</li> <li>More Than A Woman - Album: <i>Aaliyah</i>, Label: Blackground Records, LLC, Released: July 7, 2001</li> <li>Try Again - Album: <i>Aaliyah</i>, Label: Blackground Records, LLC, Released: July 7, 2001</li> <li>Are You That Somebody - Album: <i>Are You That Somebody</i>, Label: Blackground Records, LLC, Released: June 16, 1998</li> <li>Got To Give It Up (feat. Slick Rick) - Album: <i>One In A Million</i>, Label: Blackground Records, LLC, Released: August 27, 1996</li> <li>Beats 4 Da Streets (Intro) - Album: <i>One In A Million</i>, Label: Blackground Records, LLC, Released: August 27, 1996</li> <li>One In A Million - Album: <i>One In A Million</i>, Label: Blackground Records, LLC, Released: August 27, 1996</li> <li>If Your Girl Only Knew - Album: <i>One In A Million</i>, Label: Blackground Records, LLC, Released: August 27, 1996</li> <li>Choosey Lover (Old School / New School) - Album: <i>One In A Million</i>, Label: Blackground Records, LLC, Released: August 27, 1996</li> <li>4 Page Letter - Album: <i>One In A Million</i>, Label: Blackground Records, LLC, Released: August 27, 1996</li> <li>Everything's Gonna Be Alright - Album: <i>One In A Million</i>, Label: Blackground Records, LLC, Released: August 27, 1996</li> <li>At Your Best (You Are Love) - LP Mix - Album: <i>(At Your Best) You Are Love EP</i>, Label: Jive/Legacy, Released: August 22, 1994</li> <li>Back & Forth - Album: <i>Age Ain't Nothing But A Number</i>, Label: Jive, Released: May 22, 1994</li> <li>I'm So into You - Album: <i>Age Ain't Nothing But A Number</i>, Label: Jive, Released: May 22, 1994</li>
+</ol> <div> <iframe src="https://open.spotify.com/embed/playlist/4K1b3EAIaCQHYkjZjpSlaR?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</div> <p>first posted by https://bigbanonos.blogspot.com/</p> <div> <p>Explore more BigBanonos content: <a href="https://bigbanonos.blogspot.com/">Website</a> | <a href="https://www.youtube.com/@BigBanonos">YouTube</a> | <a href="https://x.com/bigbanonos">Twitter</a></p>
+</div> <!-- Tags -->
+<p>@aaliyah,@timbaland,@slickrick</p>
+
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @dmx,@aaliyah,</p>

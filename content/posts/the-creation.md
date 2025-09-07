@@ -1,0 +1,5 @@
+---
+title: "the creation"
+layout: post
+---
+---title: "' 'The Creation''"date: 2016-02-06original_title: "'The Creation'"tags:  - '@creation'layout: post---#1960s <br /><iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/3xpONvYyFvQ?list=PLtuNtuTatqI3X01zTqiujiaUhFaK1PjKA" width="95%"></iframe><br />Making Time 1966<!--Subscribe and Playlist Links--><div>    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div><hr /><p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p><p>tags: @creation,</p>

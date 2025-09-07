@@ -1,0 +1,28 @@
+---
+title: "don covay"
+layout: post
+---
+<!-- Post Title -->
+<h1 >BigBanonos' Favorite Song by Don Covay</h1> <!-- Introductory Text -->
+<p >Updated July 26, 2005, with "Daddy Loves Baby" by Don Covay. Originally released as part of *Mercy!* from *Rhino Atlantic Records*, this southern soul gem highlights Covay's storytelling prowess and emotive vocals.</p> <!-- Featured Image -->
+<div > <img src="https://cdn.shopify.com/s/files/1/0069/3465/9162/files/Don-Covay-hero-banner-241122-1623.webp" alt="Don Covay - Daddy Loves Baby" />
+</div> <!-- YouTube Video Embed -->
+<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/6JN4RNGNZpE" title="Don Covay - Daddy Loves Baby" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div> <!-- Song Information -->
+<div > <p>"Daddy Loves Baby" captures the essence of southern soul with Don Covay's dynamic performance and heartfelt lyrics, solidifying his place as a cornerstone of the genre.</p>
+</div> <!-- Footer Links -->
+<div > <p>Discover more favorites at <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Explore our playlists on <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and follow us on <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p>
+</div> <!-- Tags -->
+<p >Tags: @doncovay,</p>
+
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @doncovay,</p>

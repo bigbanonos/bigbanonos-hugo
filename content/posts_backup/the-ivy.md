@@ -1,0 +1,27 @@
+---
+title: "the ivy"
+layout: post
+---
+<!-- Title of the Post -->
+<h1 >The Ivy - She</h1> <!-- Introductory Text -->
+<p >Updated with *She* by The Ivy, an upbeat track from the 2017 album *Next Stop*. With its hopebeat rhythm and catchy melody, this song captures the essence of The Ivy's unique sound, blending pop with an optimistic undertone.</p> <!-- Featured Image -->
+<div > <img src="https://images.genius.com/d230bf005b20a3e62b270e71681bff8f.1000x1000x1.png" alt="The Ivy - She" />
+</div> <!-- YouTube Video Embed -->
+<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/mmPFWHm7Ti0" title="The Ivy - She (Official Audio)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div> <!-- Song Information -->
+<div > <p><em>"She"</em> is a standout track from The Ivy's *Next Stop* album. Known for their signature sound blending hopebeat rhythms and infectious pop melodies, *She* reflects their ability to create music that resonates with listeners and brings an uplifting vibe to the scene.</p>
+</div> <!-- Footer Links -->
+<div > <p>For more updates, visit <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Also, check out our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a> channels for more exclusive content!</p>
+</div>
+
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @theivy,</p>

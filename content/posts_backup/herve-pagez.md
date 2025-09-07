@@ -1,0 +1,40 @@
+---
+title: "herve pagez"
+layout: post
+---
+<!-- Post Title -->
+<h1 >BigBanonos' Favorite Tracks: Herve Pagez, Diplo, Charli XCX & Banx & Ranx - "Spicy (Banx & Ranx Remix)"</h1> <!-- Introductory Text -->
+<p >Updated October 11, 2019, with "Spicy (Banx & Ranx Remix)" by Herve Pagez, Diplo, Charli XCX, and Banx & Ranx. This remix adds an exciting basshall and EDM twist to the original tropical-inspired track.</p> <!-- Featured Image -->
+<div > <img src="https://artist99.cdn107.com/ae3/ae39be638aea1b00c11cdc8ba9acca08_lg.jpg" alt="Spicy - Banx & Ranx Remix" />
+</div> <!-- YouTube Video Embed -->
+<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/weIpqpE1rcU" title="Diplo & Herve Pagez - Spicy (feat. Charli XCX) (Banx & Ranx Remix) [Official Audio]" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
+<!-- Post Title -->
+<h1 >BigBanonos' Favorite Tracks: Herve Pagez, Diplo, Charli XCX & Banx & Ranx - "Spicy (Banx & Ranx Remix)"</h1> <!-- Introductory Text -->
+<p >Updated October 11, 2019, with "Spicy (Banx & Ranx Remix)" by Herve Pagez, Diplo, Charli XCX, and Banx & Ranx. This remix adds an exciting basshall and EDM twist to the original tropical-inspired track.</p> <!-- Featured Image -->
+<div > <img src="https://artist99.cdn107.com/ae3/ae39be638aea1b00c11cdc8ba9acca08_lg.jpg" alt="Spicy - Banx & Ranx Remix" />
+</div> <!-- YouTube Video Embed -->
+<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/weIpqpE1rcU" title="Diplo & Herve Pagez - Spicy (feat. Charli XCX) (Banx & Ranx Remix) [Official Audio]" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div> <!-- Song Information -->
+<div > <p><em>"Spicy (Banx & Ranx Remix)"</em>, released on October 11, 2019, elevates the original track's tropical and moombahton vibe with dynamic basshall beats and EDM influences. This remix underscores the creative versatility of the collaboration between Herve Pagez, Diplo, Charli XCX, and Banx & Ranx.</p>
+</div> <!-- Footer Links -->
+<div > <p>Discover more favorite tracks at <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Check out curated playlists on <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and follow us on <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p>
+</div> <!-- Tags -->
+<p >Tags: @hervepagez,@diplo,@charlixcx,@banxranx,</p> <!-- Song Information -->
+<div > <p><em>"Spicy (Banx & Ranx Remix)"</em>, released on October 11, 2019, elevates the original track's tropical and moombahton vibe with dynamic basshall beats and EDM influences. This remix underscores the creative versatility of the collaboration between Herve Pagez, Diplo, Charli XCX, and Banx & Ranx.</p>
+</div> <!-- Footer Links -->
+<div > <p>Discover more favorite tracks at <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Check out curated playlists on <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and follow us on <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p>
+</div> <!-- Tags -->
+<p >Tags: @hervepagez,@diplo,@charlixcx,@banxranx,</p>
+
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @banxranx,@diplo,@hervepagez,@charlixcx,</p>

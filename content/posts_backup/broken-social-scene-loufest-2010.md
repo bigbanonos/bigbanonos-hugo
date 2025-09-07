@@ -1,0 +1,20 @@
+---
+title: "broken social scene loufest 2010"
+layout: post
+---
+<h2>BigBanonos' Favorite Songs by Broken Social Scene</h2> <div> <img src="https://i.scdn.co/image/ab6761610000e5eb1f9e80256fb8109f202043ec" alt="Broken Social Scene" width="100%">
+</div> <iframe src="https://open.spotify.com/embed/playlist/1zoXTOvDfDQgLLJl8UiqZC?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> <h3>Songs (Chronological Order):</h3>
+<ul> <li><strong>Anthems For A Seventeen Year-Old Girl</strong> - Album: <em>You Forgot It In People</em> (March 11, 2003) [80 BPM]</li> <li><strong>Lover's Spit</strong> - Album: <em>You Forgot It In People</em> (March 11, 2003) [78 BPM]</li> <li><strong>Stars And Sons</strong> - Album: <em>You Forgot It In People</em> (March 11, 2003) [126 BPM]</li> <li><strong>7/4 (Shoreline)</strong> - Album: <em>Broken Social Scene</em> (October 11, 2005) [156 BPM]</li> <li><strong>Superconnected</strong> - Album: <em>Broken Social Scene</em> (October 11, 2005) [166 BPM]</li> <li><strong>Swimmers</strong> - Album: <em>Broken Social Scene</em> (October 11, 2005) [130 BPM]</li> <li><strong>Stars And Spit</strong> - Album: <em>Old Dead Young (B-Sides & Rarities)</em> (January 14, 2022) [126 BPM]</li>
+</ul> <p>Broken Social Scene has created some of the most influential indie rock tracks in recent decades. Explore more of their timeless classics and curated playlists on <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Watch exclusive videos on <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a>.</p>
+
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @brokensocialscene,</p>

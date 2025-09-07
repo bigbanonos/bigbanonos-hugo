@@ -1,0 +1,28 @@
+---
+title: "the raconteurs"
+layout: post
+---
+<h3>BigBanonos' Favorite Songs by The Raconteurs</h3> <!-- Featured Image -->
+<div > <a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fvinyl.fandom.com%2Fwiki%2FThe_Raconteurs&psig=AOvVaw2UD_1ehgSn-mdyJHiEhNkS&ust=1731106050051000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLCP2N-my4kDFQAAAAAdAAAAABAE" target="_blank"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fvinyl.fandom.com%2Fwiki%2FThe_Raconteurs&psig=AOvVaw2UD_1ehgSn-mdyJHiEhNkS&ust=1731106050051000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLCP2N-my4kDFQAAAAAdAAAAABAE" alt="The Raconteurs"> </a>
+</div> <!-- Introductory Text -->
+<p>Updated March 5, 2008, with "Five on the Five." BigBanonos highlights their favorite tracks from The Raconteurs, showcasing the band's unique blend of garage rock, modern blues, and indie rock vibes.</p> <!-- Spotify Playlist Embed -->
+<div > <iframe src="https://open.spotify.com/embed/playlist/6ASEeoCl5B92Im3OLoVr2c?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</div> <!-- Song List -->
+<h4>Top Songs:</h4>
+<ol> <li><strong>Five on the Five</strong> | <em>Consolers of the Lonely</em> | Released: March 5, 2008 | Warner Records | Genre: alternative rock, garage rock revival, indie rock, modern blues</li> <li><strong>Broken Boy Soldier</strong> | <em>Broken Boy Soldiers</em> | Released: 2006 | Third Man Records | Genre: alternative rock, garage rock, modern blues, supergroup</li>
+</ol> <!-- Footer Links -->
+<hr />
+<p>Discover more music on <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Follow us for updates on <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a> and check out exclusive content on our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube channel</a>.</p> <!-- Tags -->
+<p>@theraconteurs</p>
+
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @raconteurs,</p>

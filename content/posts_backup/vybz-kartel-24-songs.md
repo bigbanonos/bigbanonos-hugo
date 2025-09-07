@@ -1,0 +1,23 @@
+---
+title: "vybz kartel 24 songs"
+layout: post
+---
+<h1>BigBanonos Favorite Songs by Vybz Kartel</h1>
+<img src="https://www.billboard.com/wp-content/uploads/2024/11/Vybz-Kartel-destroyers-co-2004-billboard-1548.jpg" alt="Vybz Kartel"> <p>Vybz Kartel, the prolific and influential dancehall artist, continues to dominate with his innovative style and unmatched catalog. Here are BigBanonos' favorite tracks from Vybz Kartel, listed by release date:</p> <ol> <li><strong>Quick Quick Quick</strong> | <em>Quick Quick Quick</em> | Released: 2019-12-20 | StillYet Productions</li> <li><strong>Bestfriend</strong> (with Birchill) | <em>Bestfriend</em> | Released: 2019-08-20 | Birchill Records</li> <li><strong>Then You... And Me</strong> | <em>Then You... And Me</em> | Released: 2019-10-18 | Short Boss Muzik - Johnny Wonder</li> <li><strong>Like I'm Superman</strong> (with Sikka Rymes) | <em>Like I'm Superman</em> | Released: 2019-11-01 | Redboom-Frenz For Real - Johnny Wonder</li> <li><strong>Back Way</strong> (feat. Spice) | <em>Back Way - Single</em> | Released: 2019-05-03 | TJ Records</li> <li><strong>Come Home</strong> | <em>Come Home - Single</em> | Released: 2019-01-25 | TJ Records</li> <li><strong>Real Bad Gal</strong> | <em>Real Bad Gal</em> | Released: 2018-02-16 | Mixpak Records</li> <li><strong>Who Trouble Dem</strong> | <em>Who Trouble Dem - Single</em> | Released: 2016-08-12 | Good Good Productions</li> <li><strong>Romping Shop</strong> (feat. Spice) | <em>Dancehall Hero Raw (Deluxe)</em> | Released: 2016-01-29 | Tad's Record</li> <li><strong>Can't Say No</strong> (feat. MonCherie) | <em>King Of The Dancehall</em> | Released: 2016-06-10 | Adidjahiem Records/TJ Records/Zojak World Wide</li> <li><strong>Lipstick</strong> | <em>King Of The Dancehall</em> | Released: 2016-06-10 | Adidjahiem Records/TJ Records/Zojak World Wide</li> <li><strong>Gates of Heaven</strong> | <em>Gates of Heaven - Single</em> | Released: 2016-02-12 | Adidjahiem Records</li> <li><strong>Enchanting</strong> | <em>Viking (Vybz Is King)</em> | Released: 2015-01-13 | Adidjahiem Records - TJ Records</li> <li><strong>Summer Time</strong> | <em>Kartel Forever: Trilogy</em> | Released: 2013-09-24 | Tads/Vybz 2</li> <li><strong>Hi</strong> | <em>Hi - Single</em> | Released: 2013-09-10 | Head Concussion</li> <li><strong>Punany A Mi Best Friend</strong> | <em>Punany A Mi Best Friend</em> | Released: 2013-08-15 | SOUNIQUE RECORDS</li> <li><strong>Mr. Broadcast Comission (Anuh My Music)</strong> | <em>The Voice of the Jamaican Ghetto</em> | Released: 2013-07-07 | Whirlwind Records</li> <li><strong>Something Aguh Happen</strong> | <em>The Voice of the Jamaican Ghetto</em> | Released: 2013-07-07 | Whirlwind Records</li> <li><strong>Struggling</strong> | <em>The Voice of the Jamaican Ghetto</em> | Released: 2013-07-07 | Whirlwind Records</li> <li><strong>Thank You Jah</strong> | <em>The Voice of the Jamaican Ghetto</em> | Released: 2013-07-07 | Whirlwind Records</li> <li><strong>Ever Blesses</strong> | <em>Ever Blessed</em> | Released: 2012-12-11 | Head Concussion</li> <li><strong>Bike Back</strong> | <em>Amsterdam</em> | Released: 2012-07-19 | Adde Instrumentals</li> <li><strong>Go Go Wine</strong> | <em>Kingston Story</em> | Released: 2011-06-21 | Mixpak Records</li> <li><strong>Yuh Love</strong> | <em>Yuh Love</em> | Released: 2009-08-25 | Mixpak Records</li>
+</ol> <div> <iframe src="https://open.spotify.com/embed/playlist/1VK4jxiQ8oLovO25othkSb?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</div> <p><em>First posted by BigBanonos - <a href="https://bigbanonos.blogspot.com/">https://bigbanonos.blogspot.com/</a></em></p>
+<p><em>Last updated November 15, 2024</em></p>
+<p>Follow BigBanonos on <a href="https://www.youtube.com/@BigBanonos">YouTube</a> and <a href="https://x.com/bigbanonos">Twitter</a> for more music content.</p>
+<p>Tags: @vybzkartel, @spice, @moncherie, @sikkarymes, @birchill</p>
+
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @sikkarymes,@birchill,@spice,@moncherie,@vybzkartel,</p>

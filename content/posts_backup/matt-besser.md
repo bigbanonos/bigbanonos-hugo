@@ -1,0 +1,28 @@
+---
+title: "matt besser"
+layout: post
+---
+<!-- Post Title -->
+<h1 >BigBanonos' Favorite Tracks: Matt Besser - "Yankees Number"</h1> <!-- Introductory Text -->
+<p >Updated January 1, 2001, with "Yankees Number" by Matt Besser. This unique track from the album <em>May I Help You (Dumbass)?</em>, released under Don't Think Productions, LLC, blends comedic genius with an unexpected musical twist, showcasing Besser's signature prank style.</p> <!-- Featured Image -->
+<div > <img src="https://i1.sndcdn.com/artworks-072b2CoXKZ78-0-t240x240.jpg" alt="Matt Besser - Yankees Number" />
+</div> <!-- YouTube Video Embed -->
+<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/U2rnuh5ArZM" title="Yankees Number" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div> <!-- Song Information -->
+<div > <p><em>"Yankees Number"</em> by Matt Besser is a hilariously crafted piece that merges prank comedy with rock-inspired elements. From the album <em>May I Help You (Dumbass)?</em>, this track is a testament to Besser's ability to push creative boundaries and deliver laughs in unexpected ways.</p>
+</div> <!-- Footer Links -->
+<div > <p>Explore more comedic gems on <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Visit our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> channel and follow us on <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a> for more updates and highlights.</p>
+</div> <!-- Tags -->
+<p >Tags: @mattbesser,</p>
+
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @mattbesser,</p>

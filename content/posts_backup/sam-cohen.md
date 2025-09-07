@@ -1,0 +1,28 @@
+---
+title: "sam cohen"
+layout: post
+---
+<!-- Title of the Post -->
+<h1 >Sam Cohen - Don't Shoot the Messenger</h1> <!-- Introductory Text -->
+<p >Updated with "Don't Shoot the Messenger" by Sam Cohen, from the album *Cool It*, released on April 28, 2015, by Easy Sound Recording Company.</p> <!-- Featured Image -->
+<div > <img src="https://www.jambase.com/wp-content/uploads/2019/04/sam-cohen-press-1480x832.jpg" alt="Sam Cohen - Don't Shoot the Messenger" />
+</div> <!-- YouTube Video Embed -->
+<div > <iframe width="100%" height="601" src="https://www.youtube.com/embed/p8osdMNxf9E" title="Don't Shoot the Messenger" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div> <!-- Song Information -->
+<div > <p><em>"Don't Shoot the Messenger"</em> by Sam Cohen is a track from the album *Cool It*, released on April 28, 2015. The song mixes Houston indie folk and Americana vibes, with a reflective and introspective tone.</p>
+</div> <!-- Footer Links -->
+<div > <p>Explore more at <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Check out our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a> channels for more music updates.</p>
+</div> <!-- Tags -->
+<p >Tags: @samcohen,</p>
+
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @samcohen,</p>

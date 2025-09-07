@@ -1,0 +1,22 @@
+---
+title: "black keys"
+layout: post
+---
+<h1>BigBanonos' Favorite Songs by The Black Keys</h1>
+<img src="https://media.npr.org/assets/img/2019/06/27/tbk_gafkjen_050-c-1_wide-48104dc47fa8ebee5a2da4afe8b0660c0f3dddf5.jpg" alt="The Black Keys"> <p>BigBanonos dives into the soulful, gritty soundscapes of The Black Keys. Updated November 23, 2024, this collection showcases the best of blues rock, alternative rock, and garage rock with their timeless hits.</p> <ol> <li><strong>Walk Across The Water</strong> - Album: <i>Let's Rock</i>, Released: June 28, 2019</li> <li><strong>Tighten Up</strong> - Album: <i>Brothers</i>, Released: May 18, 2010</li> <li><strong>Everlasting Light</strong> - Album: <i>Brothers</i>, Released: May 18, 2010</li> <li><strong>Unknown Brother</strong> - Album: <i>Brothers</i>, Released: May 18, 2010</li> <li><strong>Strange Times</strong> - Album: <i>Attack & Release</i>, Released: April 1, 2008</li> <li><strong>You're The One</strong> - Album: <i>Magic Potion</i>, Released: September 12, 2006</li> <li><strong>10 A.M. Automatic</strong> - Album: <i>Rubber Factory</i>, Released: 2004</li> <li><strong>Girl Is On My Mind</strong> - Album: <i>Rubber Factory</i>, Released: 2004</li> <li><strong>Hard Row</strong> - Album: <i>Thickfreakness</i>, Released: April 8, 2003</li> <li><strong>Set You Free</strong> - Album: <i>Thickfreakness</i>, Released: April 8, 2003</li> <li><strong>I'll Be Your Man</strong> - Album: <i>The Big Come Up</i>, Released: May 14, 2002</li>
+</ol> <div> <iframe src="https://open.spotify.com/embed/playlist/2qXuZxwfRmxounS1lIUleK?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</div> <p>first posted by <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_blank">https://bigbanonos.blogspot.com/</a></p> <div> <p>Explore more BigBanonos content: <a href="https://bigbanonos.blogspot.com/">Website</a> | <a href="https://www.youtube.com/@BigBanonos">YouTube</a> | <a href="https://x.com/bigbanonos">Twitter</a></p>
+</div> <!-- Tags -->
+<p>@theblackkeys</p>
+
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @blackkeys,</p>

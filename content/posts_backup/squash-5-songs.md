@@ -1,0 +1,21 @@
+---
+title: "squash 5 songs"
+layout: post
+---
+<h1>BigBanonos Top Songs by Squash</h1>
+<img src="https://yardhype.com/wp-content/uploads/2019/03/squash-1.jpg" alt="Squash"> <p>Squash brings his unique style of dancehall and traphall to the forefront. Here are BigBanonos' top selections:</p> <ol> <li><strong>Scotch & Soda</strong> | <em>Scotch & Soda</em> | Released: 2019-11-08 | 6ixReal Records</li> <li><strong>JELLY BEANS</strong> (feat. Chronic Law, Daddy1, UNSTOPPABLE OMG) | <em>JELLY BEANS</em> | Released: 2022-06-27 | Unstoppable OMG / 6IxReal Records</li> <li><strong>Public Figure</strong> (feat. Daddy1, Sonovic) | <em>Public Figure</em> | Released: 2020-05-01 | Sonovic Music</li> <li><strong>Trending</strong> (feat. One Time Music) | <em>Trending</em> | Released: 2018-07-13 | Onetime Music</li> <li><strong>Beat Dem Bad</strong> (feat. Vybz Kartel) | <em>Street Shots 2020: Streets of Kingston</em> | Released: 2020-01-10 | 21st Hapilos Compilations</li>
+</ol> <div> <iframe src="https://open.spotify.com/embed/playlist/1AeqZtRHkw0Jrj9ltqQG5E?utm_source=generator" width="100%" height="352" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</div>
+<p>Tags: @squash, @chroniclaw, @daddy1, @unstoppableomg, @vybzkartel</p>
+
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @squash,@vybzkartel,@chroniclaw,@daddy1,@unstoppableomg,</p>

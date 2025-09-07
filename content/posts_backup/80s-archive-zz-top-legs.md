@@ -1,0 +1,25 @@
+---
+title: "80s archive zz top legs"
+layout: post
+---
+<!-- Post Title -->
+<h1>BigBanonos' Pick for the Best Song by ZZ Top</h1> <!-- Introductory Text -->
+<p>Updated November 27, 2024, with BigBanonos' pick for the best song by ZZ Top: "Legs" from 1983, highlighted in the video below:</p> <!-- Featured Image -->
+<img src="https://m.media-amazon.com/images/M/MV5BYmYwMzhjOTItMGQ1Mi00ZWIxLTk0ZGMtYjI0ODc4MTQ0YWFhXkEyXkFqcGdeQXVyMjY3MjUzNDk%40._V1_FMjpg_UX1000_.jpg" alt="ZZ Top Featured Image"> <!-- YouTube Video Embed -->
+<h2>Watch "Legs" by ZZ Top on YouTube</h2>
+<iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/eUDcTLaWJuo?list=PLtuNtuTatqI3ADcM_zLmgfpkLlcO5e9Pw" width="95%"></iframe> <!-- Song Information -->
+<ul> <li>"Legs" (1983) - A quintessential track showcasing ZZ Top's blend of blues-rock and 1980s pop sensibility.</li>
+</ul> <!-- Footer Links -->
+<p>For more updates and playlists, visit <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Connect with us on <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p>
+
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @zztop,</p>

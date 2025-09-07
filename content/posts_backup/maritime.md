@@ -1,0 +1,28 @@
+---
+title: "maritime"
+layout: post
+---
+<!-- Post Title -->
+<h1 >BigBanonos' Favorite Tracks: Maritime - "Drinking Peru"</h1> <!-- Introductory Text -->
+<p >Updated October 16, 2015, with "Drinking Peru" by Maritime. This standout track from the album <em>Magnetic Bodies/Maps of Bones</em>, released under Dangerbird Records, combines the energy of emo punk with introspective melodies, showcasing the band's distinctive sound.</p> <!-- Featured Image -->
+<div > <img src="https://i.scdn.co/image/ab67616d00001e0287bf9b2bd07826d50c29201e" alt="Maritime - Drinking Peru" />
+</div> <!-- YouTube Video Embed -->
+<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/RGUWSJdSA90" title="Maritime - "Drinking Peru" (Official Audio)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div> <!-- Song Information -->
+<div > <p><em>"Drinking Peru"</em> by Maritime is a thoughtful and dynamic track that blends emo punk's raw edge with polished indie rock sensibilities. From the album <em>Magnetic Bodies/Maps of Bones</em>, this song reflects the band's ability to craft emotionally resonant and compelling music.</p>
+</div> <!-- Footer Links -->
+<div > <p>Discover more introspective emo punk tracks on <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Visit our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> channel and follow us on <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a> for more updates and music highlights.</p>
+</div> <!-- Tags -->
+<p >Tags: @maritime,</p>
+
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @maritime,</p>

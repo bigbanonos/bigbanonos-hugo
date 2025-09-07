@@ -1,0 +1,28 @@
+---
+title: "mike smiff city girls"
+layout: post
+---
+<!-- Post Title -->
+<h1 >BigBanonos' Favorite Tracks: Mike Smiff & City Girls - "4 1 Nite"</h1> <!-- Introductory Text -->
+<p >Updated September 7, 2018, with "4 1 Nite" by Mike Smiff featuring City Girls. Released under SLIP N SLIDE ENTERPRISES (SAS), this track blends Miami hip hop and trap influences, delivering a bold anthem that showcases the energy of southern rap culture.</p> <!-- Featured Image -->
+<div > <img src="https://images.squarespace-cdn.com/content/v1/53bad273e4b04332c190511a/f68629c0-c810-4fb9-b915-54ad7926fa7e/Mike+Smiff+new+video.jpg" alt="Mike Smiff & City Girls - 4 1 Nite" />
+</div> <!-- YouTube Video Embed -->
+<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/BldiNnAOmhw" title="Mike Smiff Feat. City Girls "4 1 Nite" (WSHH Exclusive - Official Music Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div> <!-- Song Information -->
+<div > <p><em>"4 1 Nite"</em> by Mike Smiff featuring City Girls is a high-energy anthem with catchy hooks and dynamic verses. This collaboration captures the essence of Miami hip hop, combining trap beats with charismatic performances that make it an unforgettable track.</p>
+</div> <!-- Footer Links -->
+<div > <p>Explore more energetic hip hop collaborations on <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Visit our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> channel and follow us on <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a> for more updates and music highlights.</p>
+</div> <!-- Tags -->
+<p >Tags: @mikesmiff,@citygirls,</p>
+
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @citygirls,@mikesmiff,</p>

@@ -1,0 +1,28 @@
+---
+title: "deee lite"
+layout: post
+---
+<!-- Post Title -->
+<h1 >BigBanonos' Favorite Song by Deee-Lite</h1> <!-- Introductory Text -->
+<p >Updated April 19, 2005, with "Groove Is in the Heart" by Deee-Lite. This iconic track from the *Rhino Hi-Five: Deee-Lite* collection represents the peak of hip house, blending infectious beats with unforgettable vocals and grooves.</p> <!-- Featured Image -->
+<div > <img src="https://static.wikia.nocookie.net/singmovie/images/e/e4/Deee-lite.jpg/revision/latest?cb=20190701234123" alt="Deee-Lite - Groove Is in the Heart" />
+</div> <!-- YouTube Video Embed -->
+<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/etviGf1uWlg" title="Deee-Lite - Groove Is In The Heart (Official Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div> <!-- Song Information -->
+<div > <p>"Groove Is in the Heart" is a timeless anthem, combining Deee-Lite's playful energy with a funky, danceable beat that continues to resonate with audiences worldwide.</p>
+</div> <!-- Footer Links -->
+<div > <p>Discover more favorites at <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Explore our playlists on <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and follow us on <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p>
+</div> <!-- Tags -->
+<p >Tags: @deeelite,</p>
+
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @deeelite,</p>

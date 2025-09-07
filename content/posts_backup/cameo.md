@@ -1,0 +1,28 @@
+---
+title: "cameo"
+layout: post
+---
+<!-- Post Title -->
+<h1 >BigBanonos' Favorite Song by Cameo</h1> <!-- Introductory Text -->
+<p >Updated January 1, 2002, with BigBanonos' favorite track, "Single Life" by Cameo. This funky anthem from the compilation album *Anthology* highlights the band's signature post-disco and funk sound, perfect for any soul lover's playlist.</p> <!-- Featured Image -->
+<div > <img src="https://i.pinimg.com/564x/a5/e2/c2/a5e2c2becca6eace851c6ed1a9dd3b2c.jpg" alt="Cameo - Single Life" />
+</div> <!-- YouTube Video Embed -->
+<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/oRsmpQRbeuM" title="Cameo - Single Life (Official Music Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div> <!-- Song Information -->
+<div > <p>"Single Life" by Cameo is featured on the *Anthology* compilation album, released on January 1, 2002, by Universal/Island Def Jam. With elements of disco, funk, and soul, this track embodies the vibrant energy of 80s R&B.</p>
+</div> <!-- Footer Links -->
+<div > <p>For more updates and playlists, visit <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Connect with us on <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p>
+</div> <!-- Tags -->
+<p >Tags: @cameo,</p>
+
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @cameo,</p>

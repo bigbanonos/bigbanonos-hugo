@@ -1,0 +1,22 @@
+---
+title: "hitkidd 4 songs"
+layout: post
+---
+<h1>BigBanonos 4 Favorite Songs by Hitkidd</h1>
+<img alt="Hitkidd" src="https://www.hotnewhiphop.com/imgprst/2292x1200-fit-81-auto/2024/11/hitkidd-for-president.jpg" /> <p>This collection of BigBanonos' favorite tracks by Hitkidd showcases his unique Memphis hip hop sound, with features from artists like Gloss Up, Aleza, Slimeroni, and Guapdad 4000.</p> <p>The genius behind "Shabooya" is back with two songs from November 2024 off the project *Hitkidd For President*. For more Hitkidd, be sure to check out <a href="https://bigbanonos.blogspot.com/2024/11/guapdad-4000-3-songs.html">BigBanonos' 2 Favorite Songs by Guapdad 4000</a> and <a href="https://bigbanonos.blogspot.com/2024/11/bigbanonos-3-favorite-songs-by-gloss-up.html">BigBanonos' 3 Favorite Songs by Gloss Up</a>.</p> <ol> <li><em>Pardon Da Body</em> (feat. Mello Buckzz) - Album: <em>Hitkidd For President</em>, Label: Campsouth Records, Released: November 8, 2024</li> <li><em>What's My Name</em> (feat. Dess Dior, Guapdad 4000) - Album: <em>Hitkidd For President</em>, Label: Campsouth Records, Released: November 8, 2024</li> <li><em>Not Average</em> (feat. Gloss Up, Aleza, Slimeroni, K Carbon) - Album: <em>Not Average</em>, Label: Blac Noize!, Released: August 25, 2023</li> <li><em>Shabooya</em> (feat. Gloss Up, K Carbon, Slimeroni, Aleza) - Album: <em>Shabooya</em>, Label: Blac Noize!, Released: September 30, 2022</li>
+</ol> <div> <iframe allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" allowfullscreen="" frameborder="0" height="352" loading="lazy" src="https://open.spotify.com/embed/playlist/3AERN0C6p88UqaubaeQ9Ba?utm_source=generator" width="100%"></iframe>
+</div> <p>first posted by <a href="https://bigbanonos.blogspot.com/">https://bigbanonos.blogspot.com/</a></p> <div> <p>Explore more BigBanonos content: <a href="https://bigbanonos.blogspot.com/">Website</a> | <a href="https://www.youtube.com/@BigBanonos">YouTube</a> | <a href="https://x.com/bigbanonos">Twitter</a></p>
+</div> <!--Tags-->
+<p>@hitkidd,@glossup,@aleza,@slimeroni,@kcarbon,@mellobuckzz,@dessdior,@guapdad4000</p>
+
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @hitkidd,@guapdad4000,@kcarbon,@slimeroni,@mellobuckzz,@aleza,@dessdior,@glossup,</p>

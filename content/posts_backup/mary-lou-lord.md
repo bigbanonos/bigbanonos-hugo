@@ -1,0 +1,28 @@
+---
+title: "mary lou lord"
+layout: post
+---
+<!-- Title of the Post -->
+<h1 >BigBanonos Favorite Song by Mary Lou Lord: "Birthday Boy"</h1> <!-- Introductory Text -->
+<p >Updated January 1, 1995, with "Birthday Boy" by Mary Lou Lord. This heartfelt rendition of Ween's classic showcases Lord's emotional delivery and acoustic charm. A gem for fans of indie and folk covers. Watch the video below!</p> <!-- Featured Image -->
+<div > <img src="https://i.scdn.co/image/b212bcaf3e88235126efb31216b3e1d7d52908d0" alt="Mary Lou Lord - Birthday Boy" />
+</div> <!-- YouTube Video Embed -->
+<div > <iframe width="623" height="467" src="https://www.youtube.com/embed/WY_sA25YyFU" title="Elliott Smith & Mary Lou Lord - Birthday Boy (Ween Cover)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div> <!-- Song Information -->
+<div > <p><em>"Birthday Boy"</em>, originally by Ween, is given a tender and introspective twist by Mary Lou Lord. Recorded in 1995, this cover highlights her ability to transform beloved tracks with her own unique style. Note: This track is #NotOnSpotify, so enjoy it here on YouTube!</p>
+</div> <!-- Footer Links -->
+<div > <p>For more updates, visit <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Also, check out our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a> channels for more exclusive content!</p>
+</div> <!-- Tags -->
+<p >Tags: @maryloulord,@ween,</p>
+
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @ween,@maryloulord,</p>
