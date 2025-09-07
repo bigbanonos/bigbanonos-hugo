@@ -1,6 +1,8 @@
 baseURL = "http://localhost:1313/"
 title = "BigBanonos"
 theme = "PaperMod"
+disableKinds = ["taxonomy", "term"]
+
 
 ignoreFiles = ['^quarantine/']
 
