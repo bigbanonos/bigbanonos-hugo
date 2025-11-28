@@ -1,0 +1,35 @@
+---
+title: "Capleton – Who Dem?"
+date: 1999-09-07
+layout: post
+tags: ["@capleton"]
+featured_image: "http://i.scdn.co/image/ab67616d00001e024b928f0a149aa3a80162cb33"
+description: "BigBanonos' Favorite Capleton Song: 'Who Dem?' — the firebrand dancehall anthem that defined a generation."
+---
+
+# Capleton – *Who Dem?*
+
+🔥 One of the fiercest anthems in Dancehall history, *Who Dem?* shows why Capleton is the Fireman.  
+This track is 1999 pure energy — uncompromising lyrics, heavy riddim, and a delivery that cemented his legendary status.  
+
+---
+
+## Watch on YouTube
+[![Capleton – Who Dem?](http://i.scdn.co/image/ab67616d00001e024b928f0a149aa3a80162cb33)](https://www.youtube.com/watch?v=Ui5X51qcKco "Watch on YouTube")
+
+---
+
+## Listen on Spotify
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/1dDHDZWp1j4fkCdGRnopKq?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+## 📝 Lyrics & Sources
+
+- [Lyrics on Genius](https://genius.com/Capleton-who-dem-lyrics)  
+- [Full lyrics on Musixmatch](https://www.musixmatch.com)  
+- [Watch on YouTube](https://www.youtube.com/watch?v=...)  
+
+---
+
+*first posted by [BigBanonos](https://bigbanonos.com/)*  
+
+**tags:** [@capleton](/tags/capleton/)  
