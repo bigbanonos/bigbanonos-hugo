@@ -11,7 +11,7 @@ ignoreFiles = ['^quarantine/']
 
 
 [pagination]
-  pagerSize = 20
+  pagerSize = 6
 
 enableRobotsTXT = true
 
