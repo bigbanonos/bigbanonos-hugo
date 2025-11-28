@@ -1,0 +1,29 @@
+{{ define "main" }}
+<main class="main">
+  <header class="page-header">
+    <h1>BigBanonos</h1>
+  </header>
+
+  {{/* all posts in /content/posts, newest first */}}
+  {{ $posts := where .Site.RegularPages "Section" "posts" }}
+  {{ range $posts.ByDate.Reverse }}
+    <article class="post-entry">
+      <header class="entry-header">
+        <h2>
+          <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+        </h2>
+      </header>
+
+      <div class="entry-content">
+        {{ with .Summary }}{{ . }}{{ else }}{{ .Plain | truncate 200 }}{{ end }}
+      </div>
+
+      <footer class="entry-footer">
+        {{ .Date.Format "Jan 2, 2006" }}
+      </footer>
+
+      <a class="entry-link" aria-label="post link to {{ .Title | plainify }}" href="{{ .RelPermalink }}"></a>
+    </article>
+  {{ end }}
+</main>
+{{ end }}
