@@ -4,9 +4,11 @@
     <h1>BigBanonos</h1>
   </header>
 
-  {{/* all posts in /content/posts, newest first */}}
+  {{/* all posts in /content/posts, newest first, paginated */}}
   {{ $posts := where .Site.RegularPages "Section" "posts" }}
-  {{ range $posts.ByDate.Reverse }}
+  {{ $paginator := .Paginate ($posts.ByDate.Reverse) }}
+
+  {{ range $paginator.Pages }}
     <article class="post-entry">
       <header class="entry-header">
         <h2>
@@ -25,5 +27,7 @@
       <a class="entry-link" aria-label="post link to {{ .Title | plainify }}" href="{{ .RelPermalink }}"></a>
     </article>
   {{ end }}
+
+  {{ partial "pagination.html" . }}
 </main>
 {{ end }}

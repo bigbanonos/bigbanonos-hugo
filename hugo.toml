@@ -22,7 +22,7 @@ enableRobotsTXT = true
   tag = "tags"
 
 [permalinks]
- posts = "/:filename/"
+  posts = "/:contentbasename/"
 
 
 
