@@ -1,0 +1,41 @@
+/* BigBanonos pagination styles */
+
+.bb-pagination {
+  display: flex;
+  justify-content: center;
+  margin: 2rem 0;
+}
+
+/* kill bullets and lay items out in a row */
+.bb-pagination ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+}
+
+.bb-pagination li {
+  list-style: none;
+}
+
+/* links + current page pill */
+.bb-pagination a,
+.bb-pagination span {
+  padding: 0.3rem 0.8rem;
+  border-radius: 999px;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  text-decoration: none;
+  font-size: 0.85rem;
+}
+
+/* current page */
+.bb-pagination li.active span {
+  font-weight: 600;
+}
+
+/* hover state */
+.bb-pagination a:hover {
+  background: rgba(0, 0, 0, 0.06);
+}

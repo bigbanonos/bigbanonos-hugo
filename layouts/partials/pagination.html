@@ -1,0 +1,23 @@
+{{/* Simple, readable pagination for BigBanonos */}}
+{{ $p := .Paginator }}
+{{ if and $p (gt $p.TotalPages 1) }}
+<nav class="bb-pagination" aria-label="Pagination">
+  <ul>
+    {{ if $p.HasPrev }}
+      <li><a href="{{ $p.Prev.URL }}">&laquo; Prev</a></li>
+    {{ end }}
+
+    {{ range $p.Pagers }}
+      {{ if eq . $p }}
+        <li class="active"><span>{{ .PageNumber }}</span></li>
+      {{ else }}
+        <li><a href="{{ .URL }}">{{ .PageNumber }}</a></li>
+      {{ end }}
+    {{ end }}
+
+    {{ if $p.HasNext }}
+      <li><a href="{{ $p.Next.URL }}">Next &raquo;</a></li>
+    {{ end }}
+  </ul>
+</nav>
+{{ end }}
