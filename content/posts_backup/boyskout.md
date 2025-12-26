@@ -1,3 +1,1248 @@
+﻿---
+title: "' 'ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¥$'
+'"
+date: 2024-11-11
+original_title: "'ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¥$ - 4 Songs'"
+tags:
+  - '@kanyewest'
+  - '@playboicarti'
+  - '@richthekid'
+  - '@tydolla$ign'
+  - '@ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¥$'
+layout: post
+---
+<h2>BigBanonos' Favorite 4 Songs by ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¥$, Kanye West, and Ty Dolla $ign</h2>
+<p>BigBanonos' favorite 4 collaborations featuring ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¥$, Kanye West, and Ty Dolla $ign showcase an eclectic fusion of hip hop, trap, and R&B. The <em>VULTURES</em> series captures a blend of moods from reflective to high-energy, with each track uniquely highlighting their powerful styles.</p> <ol> <li><strong>TIME MOVING SLOW</strong> - Album: <em>VULTURES 2</em> (2024-08-03), 2:39</li> <li><strong>BACK TO ME</strong> - Album: <em>VULTURES 1</em> (2024-02-09), 4:55</li> <li><strong>BURN</strong> - Album: <em>VULTURES 1</em> (2024-02-09), 1:51</li> <li><strong>CARNIVAL</strong> (feat. Rich The Kid & Playboi Carti) - Album: <em>VULTURES 1</em> (2024-02-09), 4:24</li>
+</ol> <!--Spotify Playlist Embed-->
+{{< youtube "embed" >}} <!--Image-->
+<img alt="Ty Dolla $ign and Kanye West" src="https://www.billboard.com/wp-content/uploads/2024/03/ty-dolla-sign-and-ye-2024-listening-billboard-1548.jpg?w=942&h=623&crop=1" />
+<div><br /></div><div>BigBanonos works to promote the best songs #NotOnSpotify. Join the 650+ subscribers and subscribe to BigBanonos onÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â <a href="https://www.youtube.com/channel/UCLKYEvwP847OahjcnkYMhjg">YouTube</a>ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â to discover more exclusive tracks!</div>
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @kanyewest,@playboicarti,@richthekid,@tydolla$ign,@ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¥$,</p>
+
+---
+title: "' 'A$AP Rocky'
+'"
+date: 2024-10-27
+original_title: "'A$AP Rocky - 5 Songs'"
+tags:
+  - '@a$aptwelvyy'
+  - '@drake'
+  - '@2chainz'
+  - '@a$aprocky'
+  - '@a$apnast'
+  - '@jessicapratt'
+  - '@kendricklamar'
+layout: post
+---
+<p>ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â </p><h3><strong>A$AP Rocky's Top 5 Songs</strong></h3><ol><li><p>"HIGHJACK" (feat. Jessica Pratt)<br />Album: <em>HIGHJACK</em><br />Release Date: August 2, 2024<br />Label: A$AP Worldwide<br />Genres: Folk/Acoustic, Pop, Hip Hop</p></li><li><p>"Sundress"<br />Album: <em>Sundress</em><br />Release Date: November 20, 2018<br />Label: A$AP Worldwide/Polo Grounds Music/RCA Records<br />Genres: East Coast Hip Hop, Hip Hop, Rap</p></li><li><p>"L$D"<br />Album: <em>AT.LONG.LAST.A$AP</em><br />Release Date: May 26, 2015<br />Label: A$AP Worldwide/Polo Grounds Music/RCA Records<br />Genres: East Coast Hip Hop, Hip Hop, Rap</p></li><li><p>"F**kin' Problems" (feat. Drake, 2 Chainz & Kendrick Lamar)<br />Album: <em>LONG.LIVE.A$AP (Deluxe Version)</em><br />Release Date: 2013<br />Label: A$AP Worldwide/Polo Grounds Music/RCA Records<br />Genres: East Coast Hip Hop, Pop Rap, Trap</p></li><li><p>"Trilla" (feat. A$AP Nast & A$AP Twelvyy)<br />Album: <em>LIVE.LOVE.A$AP</em><br />Release Date: October 31, 2011<br />Label: A$AP Worldwide/Polo Grounds Music/RCA Records<br />Genres: East Coast Hip Hop, Harlem Hip Hop, Underground Hip Hop</p></li></ol>
+{{< youtube "embed" >}}
+<div class="separator"><a href="https://www.billboard.com/wp-content/uploads/2024/08/AAP-Rocky-HIGHJACK-screenshot-billboard-1548.jpg" ><img alt="" border="0" width="320" data-original-height="1024" data-original-width="1548" src="https://www.billboard.com/wp-content/uploads/2024/08/AAP-Rocky-HIGHJACK-screenshot-billboard-1548.jpg"/></a></div>
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @a$aptwelvyy,@drake,@2chainz,@a$aprocky,@a$apnast,@jessicapratt,@kendricklamar,</p>
+
+---
+title: "' 'AmbrÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©'
+'"
+date: 2024-11-29
+original_title: "'AmbrÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©'"
+tags:
+  - '@ambrÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©'
+layout: post
+---
+<!-- Post Title -->
+<h1 >BigBanonos' Favorite Song by AmbrÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©</h1> <!-- Introductory Text -->
+<p >Updated September 27, 2019, with BigBanonos' favorite song by AmbrÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©, "3Peat," from her album *3000ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â°*. Watch the video and see more details below:</p> <!-- Featured Image -->
+<div > <img src="https://www.billboard.com/wp-content/uploads/2022/11/Ambre-2022-cr-Laiken-Joy-billboard-1548.jpg?w=942&h=623&crop=1" width="640" height="427" style="aspect-ratio:3/2;" alt="AmbrÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â© - 3Peat" />
+</div> <!-- YouTube Video Embed -->
+<div > {{< youtube "RySsFPbsleI" >}}
+</div> <!-- Song Information -->
+<div > <p>"3Peat" by AmbrÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â© is a smooth and evocative alternative R&B track, highlighting her distinct sound and emotive lyricism. Released on September 27, 2019, under Roc Nation Records, LLC, the track is featured on her critically acclaimed album *3000ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â°*.</p>
+</div> <!-- Footer Links -->
+<div > <p>For more updates and playlists, visit <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Connect with us on <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p>
+</div> <!-- Tags -->
+<p >Tags: @ambre,</p>
+
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @ambrÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©,</p>
+
+---
+title: "' 'Ari Lennox'
+'"
+date: 2025-08-24
+original_title: "'Ari Lennox - 13+ Songs'"
+tags:
+  - '@dojacat'
+  - '@arilennox'
+  - '@jid'
+  - '@smino'
+  - '@luckydaye'
+layout: post
+---
+<h2>BigBanonos' 13 Favorite Songs by Ari Lennox</h2> <p>BigBanonos presents a collection of top songs from Ari Lennox, shea buttery ass songs with soul. BigBanonos' Favorite Songs by Ari Lennox, last updated April 22, 2025 with her newest single, highlighted in the official video and playlist below:</p> {{< youtube "jd53_HiTRBY" >}} <ol> <li><strong>[New Single]</strong> - Official Video (April 22, 2025)</li> <li><strong>Stop By</strong> - Album: <em>age/sex/location</em> (September 9, 2022)</li> <li><strong>Outside</strong> - Album: <em>age/sex/location</em> (September 9, 2022)</li> <li><strong>Pressure</strong> - Album: <em>Pressure</em> (September 10, 2021)</li> <li><strong>Up Late</strong> - Album: <em>Shea Butter Baby</em> (May 7, 2019)</li> <li><strong>BMO</strong> - Album: <em>Shea Butter Baby</em> (May 7, 2019)</li> <li><strong>Yuengling</strong> - Album: <em>PHO EP (Deluxe)</em> (October 21, 2016)</li> <li><strong>Night Drive</strong> - Album: <em>PHO EP (Deluxe)</em> (October 21, 2016)</li> <li><strong>Backseat</strong> - Album: <em>PHO EP (Deluxe)</em> (October 21, 2016)</li> <li><strong>BMO (feat. Doja Cat) - Remix</strong> - Album: <em>Shea Butter Baby</em> (March 27, 2020)</li> <li><strong>Broke (feat. JID)</strong> - Album: <em>Shea Butter Baby</em> (May 7, 2019)</li> <li><strong>Boy Bye (feat. Lucky Daye)</strong> - Album: <em>age/sex/location</em> (September 9, 2022)</li> <li><strong>I Been (with Smino) - Remix</strong> - Album: <em>Shea Butter Baby</em> (March 27, 2020)</li>
+</ol> <img alt="Ari Lennox - Top Songs" src="https://www.billboard.com/wp-content/uploads/media/ari-lennox-bmo-vid-2019-billboard-1548.jpg?w=1024" /> <div> {{< youtube "embed" >}}
+</div> <p>DonÃ¢â‚¬â„¢t forget to check out BigBanonos on YouTube for more curated music content, especially those tracks <strong>#NotOnSpotify</strong>!</p>
+<p><a href="https://www.youtube.com/@BigBanonos">BigBanonos YouTube Channel</a></p> <hr /> <p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p> <p>@arilennox</p>
+
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @dojacat,@arilennox,@jid,@smino,@luckydaye,</p>
+
+---
+title: "' 'Bad Bunny'
+'"
+date: 2025-01-15
+original_title: "'Bad Bunny - 6 Songs'"
+tags:
+  - '@badbunny'
+layout: post
+---
+<!-- Bad Bunny -->
+<h2 >BigBanonos' Favorite 6 Songs by Bad Bunny</h2> <!-- Introductory Text -->
+<p >Bad Bunny continues to redefine the global music scene with his genre-blending sounds and infectious energy. <em>BigBanonos' Favorite 6 Songs by Bad Bunny, Last updated January 5, 2025, with Ã¢â‚¬Å“DtMFÃ¢â‚¬Â from <em>DeBiTiRar Mas Fotos</em>, highlighted in the playlist below:</em></p> <!-- Featured Image -->
+<div > {{< img-lite src="https://www.billboard.com/wp-content/uploads/2023/10/bad-bunny-press-2023-billboard-1548.jpg" alt="Bad Bunny Press 2023" >}}
+</div> <!-- Spotify Playlist Embed -->
+<div > {{< youtube "embed" >}}
+</div> <!-- Song List -->
+<h4>Top Songs:</h4>
+<ol> <li><strong>DtMF</strong> - Album: <em>DeBiTiRar Mas Fotos</em> (2025-01-05)</li> <li><strong>Moscow Mule</strong> - Album: <em>Un Verano Sin Ti</em> (2022-05-06) | Rimas Entertainment LLC</li> <li><strong>Andrea</strong> (with Buscabulla) - Album: <em>Un Verano Sin Ti</em> (2022-05-06) | Rimas Entertainment LLC</li> <li><strong>Yonaguni</strong> - Album: <em>Yonaguni</em> (2021-06-04) | Rimas Entertainment LLC</li> <li><strong>SORRY PAPI</strong> (with ABRA) - Album: <em>EL ÃƒÆ’Ã†â€™Ãƒâ€¦Ã‚Â¡LTIMO TOUR DEL MUNDO</em> (2020-11-27) | Rimas Entertainment LLC</li> <li><strong>Vete</strong> - Album: <em>Vete</em> (2019-11-21) | Rimas Entertainment LLC</li>
+</ol> <!-- YouTube Video Embed -->
+<h4>Watch the video for "DtMF":</h4>
+<div > {{< youtube "ES60TsyqrAA" >}}
+</div> <!-- Footer Links -->
+<hr />
+<p >For more updates, visit <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_blank">BigBanonos</a>. Also, check out our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> channel and follow us on <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a> for exclusive content!</p>
+
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @badbunny,</p>
+
+---
+title: "' 'BANKS'
+'"
+date: 2025-01-07
+original_title: "'BANKS - 8 Songs'"
+tags:
+  - '@snakehips'
+  - '@banks'
+layout: post
+---
+<h2>BigBanonos' Top 8 Favorite Songs by BANKS</h2> <!--Search Description-->
+<p>BigBanonosÃ¢â‚¬â„¢ top 8 favorite songs by BANKS, showcasing her best in art pop, electropop, and shimmer pop. Last updated December 13, 2023, with the acoustic version of "Begging For Thread," highlighted in the playlist below:</p> <!--Spotify Playlist Embed-->
+{{< youtube "embed" >}} <!--Song List with Album Info-->
+<ul> <li><strong>Begging For Thread (Acoustic)</strong> Ã¢â‚¬â€œ <em>Goddess Unplugged</em> Ã¢â‚¬â€œ Released December 13, 2023 Ã¢â‚¬â€œ Genre: art pop, shimmer pop</li> <li><strong>Misunderstood</strong> Ã¢â‚¬â€œ <em>Serpentina</em> Ã¢â‚¬â€œ Released April 8, 2022 Ã¢â‚¬â€œ Genre: art pop, electropop, indie poptimism</li> <li><strong>Fuck Love</strong> Ã¢â‚¬â€œ <em>Serpentina</em> Ã¢â‚¬â€œ Released April 8, 2022 Ã¢â‚¬â€œ Genre: art pop, electropop, indie poptimism</li> <li><strong>Holding Back</strong> Ã¢â‚¬â€œ <em>Serpentina</em> Ã¢â‚¬â€œ Released April 8, 2022 Ã¢â‚¬â€œ Genre: art pop, electropop, shimmer pop</li> <li><strong>Skinnydipped</strong> Ã¢â‚¬â€œ <em>Serpentina</em> Ã¢â‚¬â€œ Released April 8, 2022 Ã¢â‚¬â€œ Genre: art pop, shimmer pop</li> <li><strong>Underdog</strong> Ã¢â‚¬â€œ <em>Underdog</em> Ã¢â‚¬â€œ Released September 28, 2017 Ã¢â‚¬â€œ Genre: electropop, shimmer pop</li> <li><strong>Fuck With Myself</strong> Ã¢â‚¬â€œ <em>Fuck With Myself</em> Ã¢â‚¬â€œ Released July 13, 2016 Ã¢â‚¬â€œ Genre: electropop, indietronica</li> <li><strong>Warm Water</strong> Ã¢â‚¬â€œ <em>Featuring Snakehips</em> Ã¢â‚¬â€œ Released August 13, 2013 Ã¢â‚¬â€œ Genre: electropop, indietronica</li>
+</ul> <!--Image and Links-->
+<img alt="BANKS Performing" height="auto" src="https://www.billboard.com/wp-content/uploads/media/Banks-bb13-2019-beat-billboard-rmckotfs-1500.jpg" width="100%" /> <p>Watch the official acoustic version of "Begging For Thread":</p>
+{{< youtube "2XbHx3jYHLQ" >}} <!--Tags Section-->
+<h3>Explore more of BANKS' unique blend of indie poptimism, art pop, and shimmer pop on <a href="https://bigbanonos.blogspot.com/">BigBanonos</a>. Subscribe to the <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos YouTube Channel</a> for exclusive playlists and songs <strong>#NotOnSpotify</strong>, and follow the <a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist</a>.</h3>
+
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @snakehips,@banks,</p>
+
+---
+title: "' 'beabadoobee'
+'"
+date: 2024-11-03
+original_title: "'beabadoobee - 4 Songs'"
+tags:
+  - '@clairo'
+  - '@beabadoobee'
+layout: post
+---
+<h2>BigBanonos' Top 4 Favorite Tracks by beabadoobee</h2> <!--Search Description-->
+<p>BigBanonos' top 4 favorite tracks by beabadoobee, featuring her signature blend of bedroom pop and bubblegrunge. Last updated July 18, 2023, with "the way things go" from <em>Dirty Hit</em>, highlighted in the playlist below:</p> <!--Spotify Playlist Embed-->
+{{< youtube "embed" >}} <!--Song List with Album Info-->
+<ul> <li><strong>the way things go</strong> Ã¢â‚¬â€œ <em>the way things go</em> Ã¢â‚¬â€œ Released July 18, 2023 Ã¢â‚¬â€œ Genre: bedroom pop, bubblegrunge</li> <li><strong>Glue Song (feat. <a href="https://bigbanonos.blogspot.com/2019/05/clairo.html" target="_blank">Clairo</a>)</strong> Ã¢â‚¬â€œ Released April 17, 2023 Ã¢â‚¬â€œ Genre: bedroom pop, bubblegrunge</li> <li><strong>If You Want To</strong> Ã¢â‚¬â€œ <em>Patched Up</em> Ã¢â‚¬â€œ Released December 7, 2018 Ã¢â‚¬â€œ Genre: bedroom pop, bubblegrunge</li> <li><strong>Coffee</strong> Ã¢â‚¬â€œ <em>Coffee</em> Ã¢â‚¬â€œ Released November 4, 2017 Ã¢â‚¬â€œ Genre: bedroom pop, bubblegrunge</li>
+</ul> <!--Image-->
+<img alt="beabadoobee Performing" height="auto" src="https://www.billboard.com/wp-content/uploads/2023/11/beabadoobee-camp-flog-gnaw-2023-billboard-1548.jpg?w=1024" width="100%" /> <!--Related Links-->
+<p>For fans of bubblegrunge and indie pop, be sure to check out BigBanonos' <a href="https://bigbanonos.blogspot.com/2019/05/clairo.html" target="_blank">favorite 14 songs by Clairo</a>, another indie sensation.</p> <!--Additional Links-->
+<p>Explore more bedroom pop and indie pop on <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> for exclusive tracks and the best songs <strong>#NotOnSpotify</strong>. You can also check out our curated <a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">#NotOnSpotify Playlist</a>.</p>
+
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @clairo,@beabadoobee,</p>
+
+---
+title: "' 'Buckcherry'
+'"
+date: 2024-12-27
+original_title: "'Buckcherry'"
+tags:
+  - '@buckcherry'
+layout: post
+---
+<!-- Title of the Post -->
+<h1 >BigBanonos Favorite Song by Buckcherry: "For The Movies"</h1> <!-- Introductory Text -->
+<p >Updated January 1, 1999, with "For The Movies" by Buckcherry. This heartfelt ballad from their self-titled debut album showcases the band's blend of hard rock and glam metal, delivering raw emotion and powerful melodies. Watch the video below!</p> <!-- Featured Image -->
+<div > <img src="https://www.billboard.com/wp-content/uploads/media/buckcherry-2019-press-billboard-1548.jpg" width="640" height="427" style="aspect-ratio:3/2;" alt="Buckcherry - For The Movies" />
+</div> <!-- YouTube Video Embed -->
+<div > {{< youtube "7Abr1z5hOHQ" >}}
+</div> <!-- Song Information -->
+<div > <p><em>"For The Movies"</em>, from BuckcherryÃ¢â‚¬â„¢s self-titled debut album, released under DreamWorks in 1999, is a standout track in the hard rock and glam metal genres. Its poignant lyrics and captivating melody continue to resonate with fans of sleaze rock and post-grunge.</p>
+</div> <!-- Footer Links -->
+<div > <p>For more updates, visit <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Also, check out our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a> channels for more exclusive content!</p>
+</div> <!-- Tags -->
+<p >Tags: @buckcherry,</p>
+
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @buckcherry,</p>
+
+---
+title: "' 'Camilo'
+'"
+date: 2024-11-03
+original_title: "'Camilo - 2 Songs'"
+tags:
+  - '@camilo'
+layout: post
+---
+<h2>BigBanonos' Favorite Songs by Camilo</h2> <!--Search Description-->
+<p>Explore BigBanonos' favorite songs by Camilo, featuring popular Colombian and Latin pop hits. Listen to the playlist below and dive into these vibrant tracks that capture the essence of Latin music.</p> <!--Spotify Playlist Embed-->
+{{< youtube "embed" >}} <!--Song Listings-->
+<ul> <li>KESI - <em>Mis Manos</em> - Sony Music Latin - 2021-03-04</li> <li>Tutu (feat. Pedro CapÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â³) - <em>Tutu</em> - Sony Music Latin - 2019-08-09</li>
+</ul>
+{{< youtube "ZrUrwUwSHR0" >}}<div><br />
+{{< youtube "videoseries" >}}
+<!--Image-->
+<img alt="Camilo" src="https://www.billboard.com/wp-content/uploads/2022/09/bb-cover-feature-camilo-billboard-2022-david-needleman-01-1260.jpg?w=1260&h=840&crop=1" />
+
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @camilo,</p>
+
+---
+title: "' 'Cherub'
+'"
+date: 2024-12-03
+original_title: "'Cherub'"
+tags:
+  - '@cherub'
+layout: post
+---
+<!-- Post Title -->
+<h1 >BigBanonos' Favorite Song by Cherub</h1> <!-- Introductory Text -->
+<p >Updated December 9, 2014, with BigBanonos' favorite track, "Sucker for Love" by Cherub. This funky jam is a highlight from their album *Leftovers*.</p> <!-- Featured Image -->
+<div > <img src="https://www.billboard.com/wp-content/uploads/media/Cherub-hot-100-fest-portraits-2017-billboard-1548.jpg" width="640" height="427" style="aspect-ratio:3/2;" alt="Cherub - Sucker for Love" />
+</div> <!-- YouTube Video Embed -->
+<div > {{< youtube "aoUfpBYg4Ac" >}}
+</div> <!-- Song Information -->
+<div > <p>"Sucker for Love," released on December 9, 2014, showcases CherubÃ¢â‚¬â„¢s signature electro-funk vibe. This track is a standout from their *Leftovers* album, distributed by Columbia Records.</p>
+</div> <!-- Footer Links -->
+<div > <p>For more updates and playlists, visit <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Connect with us on <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p>
+</div> <!-- Tags -->
+<p >Tags: @cherub,</p>
+
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @cherub,</p>
+
+---
+title: "' 'Chuck Berry'
+'"
+date: 2025-01-17
+original_title: "'Chuck Berry'"
+tags:
+  - '@chuckberry'
+layout: post
+---
+<!-- Title of the Post -->
+<h1 >BigBanonosÃ¢â‚¬â„¢ Favorite Songs by Chuck Berry</h1> <!-- Featured Image -->
+<div > {{< img-lite src="https://www.billboard.com/wp-content/uploads/media/01-Chuck-Berry-performs-Saint-Louis-bb8-2017-a-billboard-1548.jpg?w=1024" alt="Chuck Berry" >}}
+</div> <!-- Spotify Embed -->
+<div > {{< youtube "embed" >}}
+</div> <!-- Introductory Text -->
+<p >Chuck Berry, a pioneer of rock-and-roll, captivates audiences with timeless tracks like "Little Queenie." Here are BigBanonos' top picks from the trailblazing legend.</p> <!-- Song Highlights -->
+<div > <p>BigBanonos' standout picks:</p> <ol> <li><strong>Little Queenie</strong> | <em>Berry Is On Top</em> | Released: July 1, 1959 | Geffen</li> </ol>
+</div> <!-- Footer Links -->
+<div > <p>Explore rock-and-roll history at <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Stay updated with timeless music recommendations on <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p>
+</div> <!-- Tags -->
+<p >Tags: @chuckberry</p>
+
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @chuckberry,</p>
+
+---
+title: "' 'Cut Copy'
+'"
+date: 2025-02-21
+original_title: "'Cut Copy'"
+tags:
+  - '@cutcopy'
+layout: post
+---
+<img src="https://www.billboard.com/wp-content/uploads/media/cut-copy-press-2013-650-430.jpg?w=650" width="640" height="427" style="aspect-ratio:3/2;" width="100%" /> <h2>BigBanonos' Favorite Songs by Cut Copy</h2> <p>Updated July 18, 2014, with "Free Your Mind" from <em>Free Your Mind (Deluxe)</em>. Highlights and #NotOnSpotify picks below:</p> {{< youtube "embed" >}} <hr /> <h3>Full Song List</h3> <ul>
+<li><strong>"Free Your Mind"</strong> (2014, <em>Free Your Mind (Deluxe)</em>) - Released July 18, 2014, under Modular. A euphoric dancefloor anthem that solidified Cut Copy's status in the electronic indie scene.</li>
+<li><strong>"Take Me Over"</strong> (2011, <em>Zonoscope</em>) - Released January 1, 2011, under Modular. A tropical, new wave-inspired track with infectious grooves and a hypnotic beat.</li>
+</ul> <hr /> <h3>Band Info</h3> <p><strong>Cut Copy</strong> Ã¢â‚¬â€œ One of the leading acts in indie electronic music, Cut Copy seamlessly blends synth-pop, dance-punk, and alternative dance influences. Hailing from Australia, their lush, dreamy production and infectious melodies have made them a staple of the indie dance scene.</p> <hr /> <div> <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p> <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p>
+</div> <hr /> <p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p> <!-- Tags -->
+<p>@cutcopy</p>
+
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @cutcopy,</p>
+
+---
+title: "' 'Dizzy Fae'
+'"
+date: 2024-12-21
+original_title: "'Dizzy Fae - 3 Songs'"
+tags:
+  - '@yingyangtwins'
+  - '@dizzyfae'
+layout: post
+---
+<h3><em>BigBanonos</em> Favorite Songs by Dizzy Fae:</h3> <p>Updated on July 8, 2021, with the standout Ying Yang Twins remix of Ã¢â‚¬Å“Body Move.Ã¢â‚¬Â BigBanonosÃ¢â‚¬â„¢ top tracks by Dizzy Fae highlight her unique alternative R&B style mixed with Minneapolis indie vibes.</p> <!--Image-->
+<div class="separator"> <a href="https://www.billboard.com/wp-content/uploads/media/dizzy-fae-bb-pride-2019-u-billboard-fea-1500.jpg" > <img alt="Dizzy Fae" src="https://www.billboard.com/wp-content/uploads/media/dizzy-fae-bb-pride-2019-u-billboard-fea-1500.jpg" /> </a>
+</div> <!--Spotify Playlist Embed-->
+{{< youtube "embed" >}} <!--Song Listings-->
+<ol> <li><strong>Body Move (Ying Yang Twins Remix)</strong> Ã¢â‚¬Â <em>Body Move (Ying Yang Twins Remix)</em> Ã¢â‚¬Â July 8, 2021</li> <li><strong>Company</strong> Ã¢â‚¬Â <em>Company</em> Ã¢â‚¬Â June 14, 2019</li> <li><strong>Baby Pillz</strong> Ã¢â‚¬Â <em>Free Form Mixtape</em> Ã¢â‚¬Â February 2, 2018</li>
+</ol> <!--Subscribe and Playlist Links-->
+<div> {{< youtube "zTxoHWBT_SQ" >}}</div><h2><ol> <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p> <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist</a></p></div> <hr /> <p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @yingyangtwins,@dizzyfae,</p>
+
+---
+title: "' 'Doe Boy'
+'"
+date: 2024-12-21
+original_title: "'Doe Boy - 3 Songs'"
+tags:
+  - '@luhtyler'
+  - '@lilyachty'
+  - '@doeboy'
+  - '@dejloaf'
+  - '@yg'
+layout: post
+---
+<h3><em>BigBanonos</em> Favorite Songs by Doe Boy:</h3> <p>Updated on June 9, 2023, with Ã¢â‚¬Å“KARDASHIANS (feat. Lil Yachty & Luh Tyler).Ã¢â‚¬Â BigBanonos highlights Doe BoyÃ¢â‚¬â„¢s top tracks, showcasing his unique blend of ATL hip hop, trap, and Ohio hip hop vibes.</p> <!--Image-->
+<div class="separator"> <a href="https://www.billboard.com/wp-content/uploads/2020/10/Doe-Boy-cr-Anthony-Hillard-2020-billboard-1548-1602009555.jpg" > <img alt="Doe Boy" src="https://www.billboard.com/wp-content/uploads/2020/10/Doe-Boy-cr-Anthony-Hillard-2020-billboard-1548-1602009555.jpg" /> </a>
+</div> <!--Spotify Playlist Embed-->
+{{< youtube "embed" >}} <!--Song Listings-->
+<ol> <li><strong>KARDASHIANS (feat. Lil Yachty & Luh Tyler)</strong> Ã¢â‚¬Â <em>BEEZY</em> Ã¢â‚¬Â June 9, 2023</li> <li><strong>ROLL THE DICE (feat. DeJ Loaf)</strong> Ã¢â‚¬Â <em>ROLL THE DICE (feat. DeJ Loaf)</em> Ã¢â‚¬Â April 14, 2023</li> <li><strong>Walk Down (feat. YG)</strong> Ã¢â‚¬Â <em>Streetz Need Me 2</em> Ã¢â‚¬Â December 20, 2019</li>
+</ol> <!--Subscribe and Playlist Links-->
+<div> <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p> <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist</a></p></div> <hr /> <p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @luhtyler,@lilyachty,@doeboy,@dejloaf,@yg,</p>
+
+---
+title: "' 'Girl Talk - Top Mashups'
+'"
+date: 2024-12-21
+original_title: "'Girl Talk - Top Mashups'"
+tags:
+  - '@girltalk'
+layout: post
+---
+<h3>BigBanonos Top Mashups: Girl Talk</h3>
+<div class="separator"> <a href="https://www.billboard.com/wp-content/uploads/2020/04/girl-talk-press-2020-cr-joey-kennedy-billboard-1548-1588100233.jpg?w=1024" > <img alt="Girl Talk" border="0" height="350" src="https://www.billboard.com/wp-content/uploads/2020/04/girl-talk-press-2020-cr-joey-kennedy-billboard-1548-1588100233.jpg?w=1024" /> </a>
+</div> <p>Experience the best mashups from <em>BigBanonos</em> favorite tracks by Girl Talk. This playlist is a journey through his most iconic mixes, blending genres and generations. HereÃ¢â‚¬â„¢s a look at top mashups from Girl Talk's career:</p> <ol> <li><strong>Boss Chick</strong> Ã¢â‚¬Â <em>June 14, 2021</em> Ã¢â‚¬Â Album: Boss Chick | Label: KGM Entertainment</li> <li><strong>Once Again</strong> Ã¢â‚¬Â <em>May 9, 2006</em> Ã¢â‚¬Â Album: Night Ripper | Label: Illegal Art | Genre: mashup, pittsburgh indie</li> <li><strong>That's My DJ</strong> Ã¢â‚¬Â <em>May 9, 2006</em> Ã¢â‚¬Â Album: Night Ripper | Label: Illegal Art | Genre: mashup, pittsburgh indie</li> <li><strong>Hold Up</strong> Ã¢â‚¬Â <em>May 9, 2006</em> Ã¢â‚¬Â Album: Night Ripper | Label: Illegal Art | Genre: mashup, pittsburgh indie</li> <li><strong>Too Deep</strong> Ã¢â‚¬Â <em>May 9, 2006</em> Ã¢â‚¬Â Album: Night Ripper | Label: Illegal Art | Genre: mashup, pittsburgh indie</li> <li><strong>Smash Your Head</strong> Ã¢â‚¬Â <em>May 9, 2006</em> Ã¢â‚¬Â Album: Night Ripper | Label: Illegal Art | Genre: mashup, pittsburgh indie</li> <li><strong>Minute By Minute</strong> Ã¢â‚¬Â <em>May 9, 2006</em> Ã¢â‚¬Â Album: Night Ripper | Label: Illegal Art | Genre: mashup, pittsburgh indie</li> <li><strong>Ask About Me</strong> Ã¢â‚¬Â <em>May 9, 2006</em> Ã¢â‚¬Â Album: Night Ripper | Label: Illegal Art | Genre: mashup, pittsburgh indie</li> <li><strong>Summer Smoke</strong> Ã¢â‚¬Â <em>May 9, 2006</em> Ã¢â‚¬Â Album: Night Ripper | Label: Illegal Art | Genre: mashup, pittsburgh indie</li> <li><strong>Friday Night</strong> Ã¢â‚¬Â <em>May 9, 2006</em> Ã¢â‚¬Â Album: Night Ripper | Label: Illegal Art | Genre: mashup, pittsburgh indie</li><li><b><span>Touch 2 Feel</span>ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â </b>Ã¢â‚¬ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â <i>2003</i></li> <!--Additional songs can be listed here following the same format-->
+</ol> <p>Listen to all of these tracks and more on the curated playlist below:</p>
+{{< youtube "embed" >}} <hr />
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @girltalk,</p>
+
+---
+title: "' 'Impressions -'
+'"
+date: 2024-12-20
+original_title: "'Impressions -- 2 Songs'"
+tags:
+  - '@curtismayfield'
+  - '@theimpressions'
+layout: post
+---
+<h1>BigBanonos 2 Essential Tracks by The Impressions</h1>
+{{< img-lite src="https://www.billboard.com/wp-content/uploads/2022/04/inxs-kick-image-1548.jpg" alt="The Impressions" >}} <p>The Impressions, led by Curtis Mayfield, are celebrated for their soulful melodies and powerful lyrics that capture the spirit of classic soul and ChicagoÃ¢â‚¬â„¢s rich music legacy. Here are two iconic tracks that reflect their timeless influence in the world of R&B and soul.</p> <ol> <li><strong>People Get Ready</strong> (Single Version) | <em>Curtis Mayfield & The Impressions - Universal Masters</em> | Geffen | Released: January 1, 2003</li> <li><strong>This Is My Country</strong> | <em>This Is My Country</em> | Rhino | Released: 1968</li>
+</ol> <div> {{< youtube "embed" >}}
+</div> <p>first posted by <a href="https://bigbanonos.blogspot.com/">https://bigbanonos.blogspot.com/</a></p> <div> <p>Explore more on BigBanonos: <a href="https://bigbanonos.blogspot.com/">Website</a> | <a href="https://www.youtube.com/@BigBanonos">YouTube</a> | <a href="https://x.com/bigbanonos">Twitter</a></p>
+</div> <!-- Tags -->
+<p>@theimpressions,@curtismayfield</p>
+
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @curtismayfield,@theimpressions,</p>
+
+---
+title: "' 'INXS'
+'"
+date: 2025-01-16
+original_title: "'INXS'"
+tags:
+  - '@inxs'
+layout: post
+---
+<!-- Title of the Post -->
+<h1>BigBanonosÃ¢â‚¬â„¢ Favorite Songs by INXS</h1> <!-- Introductory Text -->
+<p>INXS brought a unique blend of rock, pop, and dance to the world stage. BigBanonos highlights their timeless hits, including fan favorites from the classic album <em>Kick</em>.</p> <!-- Featured Image -->
+<div> {{< img-lite src="https://www.billboard.com/wp-content/uploads/2022/04/inxs-kick-image-1548.jpg" alt="INXS" >}}
+</div> <!-- Spotify Embed -->
+<div> {{< youtube "embed" >}}
+</div> <!-- Song Information -->
+<h3>Top Songs:</h3>
+<ul> <li><strong>Never Tear Us Apart</strong> | Album: <em>Kick</em> | Released: 1987 | Label: Rhino Atlantic</li>
+</ul> <!-- Footer Links -->
+<hr />
+<p>For more updates, visit <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Also, check out our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> channel and follow us on <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a> for exclusive content!</p> <!-- Tags -->
+<p>Tags: @inxs</p>
+
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @inxs,</p>
+
+---
+title: "' 'Jessie Ware'
+'"
+date: 2024-12-20
+original_title: "'Jessie Ware - 6 Songs'"
+tags:
+  - '@jessieware'
+layout: post
+---
+<h1>Jessie Ware: 4 Unmissable Tracks</h1>
+<img alt="Jessie Ware" src="https://www.billboard.com/wp-content/uploads/2023/05/Jessie-Ware-cr-Jack-Grange-billboard-1548.jpg" /> <p>Delve into the rich, soulful world of <strong>Jessie Ware</strong>, a British talent known for her smooth blend of <em>neo soul</em>, <em>electropop</em>, and <em>pop soul</em>. This selection of tracks captures her vocal finesse and unique style, making her a standout in both R&B and pop music.</p> <ol> <li><strong>Hello Love</strong> | <em>That! Feels Good!</em> | EMI | Released: April 28, 2023</li> <li><strong>Pale Blue Light</strong> | <em>What's Your Pleasure? (The Platinum Pleasure Edition)</em> | EMI | Released: June 11, 2021</li> <li><strong>Adore You</strong> | <em>Adore You</em> | EMI | Released: February 13, 2019</li><li><strong>Midnight Kisses</strong>ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â |ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â 2017</li><li><strong>Champagne Kisses </strong>|ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â 2014</li><li><strong>Wildest Moments</strong> | <em>Devotion</em> | Universal-Island Records Ltd. | Released: 2012</li>
+</ol> <div> {{< youtube "embed" >}}
+</div> <p>Explore the best of Jessie Ware's discography on BigBanonos, where her powerful vocals and emotive lyrics take center stage. For more soulful artists and neo-soul favorites, donÃ¢â‚¬â„¢t miss out on additional <a href="https://bigbanonos.blogspot.com/">BigBanonos</a> recommendations!</p> {{< youtube "videoseries" >}} <div> <p>Connect with BigBanonos: <a href="https://bigbanonos.blogspot.com/">Website</a> | <a href="https://www.youtube.com/@BigBanonos">YouTube</a> | <a href="https://x.com/bigbanonos">Twitter</a></p>
+</div> <!--Tags-->
+<p>@jessieware</p>
+
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @jessieware,</p>
+
+---
+title: "' 'Jorja Smith'
+'"
+date: 2024-12-20
+original_title: "'Jorja Smith - 3 Songs'"
+tags:
+  - '@preditah'
+  - '@jorjasmith'
+  - '@burnaboy'
+layout: post
+---
+<h1>Jorja Smith: A Glimpse into Her Soulful Soundscapes</h1>
+{{< img-lite src="https://www.billboard.com/wp-content/uploads/2023/04/Jorja-Smith-2022-billboard-1548.jpg" alt="Jorja Smith" >}} <p>Jorja Smith brings a fresh blend of contemporary R&B with UK influences, captivating listeners worldwide. HereÃ¢â‚¬â„¢s a closer look at three standout songs that showcase her versatility and emotional depth:</p> <ol> <li><strong>Time</strong> | <em>Be Right Back</em> | Release Date: May 14, 2021 | FAMM</li> <li><strong>Be Honest</strong> (feat. Burna Boy) | <em>Be Honest</em> | Release Date: August 16, 2019 | FAMM</li> <li><strong>On My Mind</strong> (Jorja Smith X Preditah) | <em>On My Mind</em> | Release Date: August 25, 2017 | FAMM</li>
+</ol> <div> {{< youtube "embed" >}}
+</div> <p>From the introspective Ã¢â‚¬Å“<strong>Time</strong>Ã¢â‚¬Â to the vibey, afrobeats-infused Ã¢â‚¬Å“<strong>Be Honest</strong>,Ã¢â‚¬Â Jorja's voice shines in various styles, bringing rich emotion to every track. Her collaboration with Preditah on Ã¢â‚¬Å“<strong>On My Mind</strong>Ã¢â‚¬Â adds a bass-driven edge, blending R&B with electronic influences.</p> <div> <p>Explore more of Jorja SmithÃ¢â‚¬â„¢s work and other favorites on BigBanonos: <a href="https://bigbanonos.blogspot.com/">Website</a> | <a href="https://www.youtube.com/@BigBanonos">YouTube</a> | <a href="https://x.com/bigbanonos">Twitter</a></p>
+</div> <!-- Tags -->
+<p>@jorjasmith,@burnaboy,@preditah</p>
+
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @preditah,@jorjasmith,@burnaboy,</p>
+
+---
+title: "' 'Lady Gaga'
+'"
+date: 2024-11-26
+original_title: "'Lady Gaga'"
+tags:
+  - '@ladygaga'
+layout: post
+---
+<h2>BigBanonos' Favorite Tracks: Lady Gaga</h2> <div > <a href="https://www.billboard.com/wp-content/uploads/2024/02/LADY-GAGA-JAZZ-PIANO-Park-MGM-in-Las-Vegas-billboard-espanol-1548.jpg"> <img src="https://www.billboard.com/wp-content/uploads/2024/02/LADY-GAGA-JAZZ-PIANO-Park-MGM-in-Las-Vegas-billboard-espanol-1548.jpg" width="640" height="427" style="aspect-ratio:3/2;" alt="Lady Gaga" width="400" /> </a>
+</div> <p>Lady Gaga has continuously redefined pop music with her iconic artistry and versatile sound. This selection celebrates her most memorable tracks, ranging from dance anthems to heartfelt ballads.</p> <h3>Selected Tracks</h3>
+<ol> <li><strong>Just Dance</strong> Ã¢â‚¬â€œ <em>The Fame</em> (2008)</li> <li><strong>You And I</strong> Ã¢â‚¬â€œ <em>Born This Way</em> (2011)</li> <li><strong>Fun Tonight</strong> Ã¢â‚¬â€œ <em>Chromatica</em> (2020)</li> <li><strong>Gypsy</strong> Ã¢â‚¬â€œ <em>Artpop</em> (2013)</li> <li><strong>Sexxx Dreams</strong> Ã¢â‚¬â€œ <em>Artpop</em> (2013)</li>
+</ol> <p>Watch Lady Gaga's live performance:</p>
+{{< youtube "fUMby-Yb9PA" >}} <p>Stream Lady Gaga's playlist:</p>
+{{< youtube "embed" >}} <h3>Tags</h3>
+<p>@ladygaga</p> <p>Check out more on <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos' YouTube channel</a> and follow us on <a href="https://twitter.com/BigBanonos" target="_blank">Twitter</a>!</p> <hr />
+<p><em>First posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @ladygaga,</p>
+
+---
+title: "' 'Lana Del Rey'
+'"
+date: 2024-12-17
+original_title: "'Lana Del Rey'"
+tags:
+  - '@theweeknd'
+  - '@bleachers'
+  - '@fatherjohnmisty'
+  - '@lanadelrey'
+layout: post
+---
+<h2>BigBanonos' Favorite Tracks: Lana Del Rey</h2> <div > <img src="https://www.billboard.com/wp-content/uploads/media/02-Lana-Del-Rey-cr-Neil-Krug-2017-press-photos-billboard-1548.jpg?w=942&h=623&crop=1" width="640" height="427" style="aspect-ratio:3/2;" alt="Lana Del Rey" />
+</div> <p>Lana Del Rey blends dreamy vocals with poetic storytelling, exploring themes of Americana, love, and nostalgia. Below is a comprehensive selection of her top tracks that have captivated listeners worldwide.</p> <h3>Selected Tracks</h3>
+<ol> <li><strong>Say Yes To Heaven</strong> Ã¢â‚¬â€œ <em>Did you know that there's a tunnel under Ocean Blvd</em> (2023)</li> <li><strong>Did you know that there's a tunnel under Ocean Blvd</strong> Ã¢â‚¬â€œ <em>Did you know that there's a tunnel under Ocean Blvd</em> (2023)</li> <li><strong>Kintsugi</strong> Ã¢â‚¬â€œ <em>Did you know that there's a tunnel under Ocean Blvd</em> (2023)</li> <li><strong>Taco Truck x VB</strong> Ã¢â‚¬â€œ <em>Did you know that there's a tunnel under Ocean Blvd</em> (2023)</li> <li><strong>Beautiful</strong> Ã¢â‚¬â€œ <em>Blue Banisters</em> (2021)</li> <li><strong>Dealer</strong> Ã¢â‚¬â€œ <em>Blue Banisters</em> (2021)</li> <li><strong>Violets for Roses</strong> Ã¢â‚¬â€œ <em>Blue Banisters</em> (2021)</li> <li><strong>Blue Banisters</strong> Ã¢â‚¬â€œ <em>Blue Banisters</em> (2021)</li> <li><strong>Norman fucking Rockwell</strong> Ã¢â‚¬â€œ <em>Norman Fucking Rockwell!</em> (2019)</li> <li><strong>Fuck it I love you</strong> Ã¢â‚¬â€œ <em>Norman Fucking Rockwell!</em> (2019)</li> <li><strong>Love</strong> Ã¢â‚¬â€œ <em>Love</em> (2017)</li> <li><strong>Brooklyn Baby</strong> Ã¢â‚¬â€œ <em>Brooklyn Baby</em> (2014)</li> <li><strong>American</strong> Ã¢â‚¬â€œ <em>Paradise</em> (2012)</li> <li><strong>Ride</strong> Ã¢â‚¬â€œ <em>Paradise</em> (2012)</li> <li><strong>Burning Desire</strong> (2012)</li> <li><strong>Video Games</strong> (2011)</li> <li><strong>Season of the Witch</strong> (2019)</li> <li><strong>Looking For America</strong> (2019)</li> <li><strong>Cola</strong> Ã¢â‚¬â€œ <em>Paradise</em> (2012)</li> <li><strong>Margaret (feat. Bleachers)</strong> Ã¢â‚¬â€œ <em>Did you know that there's a tunnel under Ocean Blvd</em> (2023)</li> <li><strong>Let The Light In (feat. Father John Misty)</strong> Ã¢â‚¬â€œ <em>Did you know that there's a tunnel under Ocean Blvd</em> (2023)</li>
+</ol> <p>Enjoy Lana's captivating music video:</p>
+{{< youtube "fUMby-Yb9PA" >}} <p>Stream Lana Del Rey's Spotify playlist:</p>
+{{< youtube "embed" >}} <h3>Tags</h3>
+<p>@lanadelrey,@fatherjohnmisty,@theweeknd,@bleachers</p> <hr />
+<p>Check out more BigBanonos content: <a href="https://bigbanonos.blogspot.com/" target="_blank">Website</a> | <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> | <a href="https://x.com/bigbanonos" target="_blank">Twitter</a></p>
+<p><em>First posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @theweeknd,@bleachers,@fatherjohnmisty,@lanadelrey,</p>
+
+---
+title: "' 'Offset & Metro Boomin'
+'"
+date: 2024-12-15
+original_title: "'Offset & Metro Boomin'"
+tags:
+  - '@metroboomin'
+  - '@offset'
+layout: post
+---
+<!-- Post Title -->
+<h1 >BigBanonos' Favorite Tracks: Offset & Metro Boomin - "Ric Flair Drip"</h1> <!-- Introductory Text -->
+<p >Updated October 30, 2017, with "Ric Flair Drip" by Offset and Metro Boomin. This track from the album <em>Without Warning</em> combines hard-hitting trap beats with Offset's distinct flow, featuring Metro Boomin's signature production style.</p> <!-- Featured Image -->
+<div > <img src="https://www.billboard.com/wp-content/uploads/2024/03/Offset-paris-fashion-2023-a-billboard-1548.jpg?w=942&h=623&crop=1" width="640" height="427" style="aspect-ratio:3/2;" alt="Offset & Metro Boomin - Ric Flair Drip" />
+</div> <!-- YouTube Video Embed -->
+<div > {{< youtube "LPTlvQ1Zet0" >}}
+</div> <!-- Song Information -->
+<div > <p><em>"Ric Flair Drip"</em> is a standout track from Offset and Metro BoominÃ¢â‚¬â„¢s collaborative album <em>Without Warning</em>, featuring energetic production from Metro Boomin and a memorable verse from Offset. Released on October 30, 2017, this song remains a trap anthem.</p>
+</div> <!-- Footer Links -->
+<div > <p>Explore more hip hop and trap hits on <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Visit our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> channel and follow us on <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a> for more updates and music highlights.</p>
+</div> <!-- Tags -->
+<p >Tags: @offset,@metroboomin,</p>
+
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @metroboomin,@offset,</p>
+
+---
+title: "' 'Summer Walker'
+'"
+date: 2025-01-16
+original_title: "'Summer Walker - 4 Songs'"
+tags:
+  - '@summerwalker'
+  - '@cardib'
+  - '@citygirls'
+  - '@sza'
+  - '@jt'
+layout: post
+---
+<!-- Title of the Post -->
+<h1>BigBanonosÃ¢â‚¬â„¢ Favorite Songs by Summer Walker</h1> <!-- Featured Image -->
+<div> {{< img-lite src="https://www.billboard.com/wp-content/uploads/2022/03/feature-summer-walker-billboard-2022-bb2-gizelle-hernandez-2-1548.jpg?w=1024" alt="Summer Walker" >}}
+</div> <!-- Spotify Embed -->
+<div> {{< youtube "embed" >}}
+</div> <!-- Song Information -->
+<h3>Top Songs by Summer Walker:</h3>
+<ol> <li><strong>Baby</strong> | Album: <em>Last Day Of Summer</em> | Released: October 19, 2018 | Label: LVRN/Interscope Records</li> <li><strong>Playing Games</strong> | Album: <em>Playing Games</em> | Released: August 23, 2019 | Label: LVRN Records</li> <li><strong>Ex For A Reason (with JT from City Girls)</strong> | Album: <em>Ex For A Reason</em> | Released: October 15, 2021 | Label: LVRN/Interscope Records</li> <li><strong>No Love (with SZA & Cardi B) - Extended Version</strong> | Album: <em>No Love [Extended Version]</em> | Released: March 25, 2022 | Label: LVRN/Interscope Records</li>
+</ol> <!-- Footer Links -->
+<div > <p>Explore more about Summer Walker on <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Visit our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> channel and follow us on <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p>
+</div> <!-- Tags -->
+<p >Tags: @summerwalker,@jt,@citygirls,@sza,@cardib,</p>
+
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @summerwalker,@cardib,@citygirls,@sza,@jt,</p>
+
+---
+title: "' 'Tayla Parx'
+'"
+date: 2024-12-16
+original_title: "'Tayla Parx'"
+tags:
+  - '@taylaparx'
+layout: post
+---
+<!-- Title of the Post -->
+<h1 >Tayla Parx - I Want You</h1> <!-- Introductory Text -->
+<p >Updated with "I Want You" by Tayla Parx, from the album *We Need To Talk*, released on April 5, 2019. Tayla Parx delivers an infectious blend of pop and R&B in this track, showcasing her signature songwriting and vocal prowess.</p> <!-- Featured Image -->
+<div > <img src="https://www.billboard.com/wp-content/uploads/media/Tayla-Parx-press-photo-2019-cr-Madeleine-Dalla-billboard-1548.jpg?w=942&h=623&crop=1" width="640" height="427" style="aspect-ratio:3/2;" alt="Tayla Parx - I Want You" />
+</div> <!-- YouTube Video Embed -->
+<div > {{< youtube "9lZ1EVyVLLo" >}}
+</div> <!-- Song Information -->
+<div > <p><em>"I Want You"</em> by Tayla Parx is a catchy, upbeat anthem that perfectly captures the energy of modern pop and R&B. With a memorable hook and playful lyrics, this track showcases Tayla ParxÃ¢â‚¬â„¢s unique style and captivating voice.</p>
+</div> <!-- Footer Links -->
+<div > <p>Explore more at <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Check out our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a> channels for more music updates.</p>
+</div> <!-- Tags -->
+<p >Tags: @taylaparx,</p>
+
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @taylaparx,</p>
+
+---
+title: "' 'T.I.'
+'"
+date: 2024-12-20
+original_title: "'T.I.'"
+tags:
+  - '@fergie'
+  - '@william'
+  - '@t.i.'
+  - '@rkelly'
+  - '@yungjoc'
+  - '@eminem'
+  - '@andre3000'
+  - '@kerihilson'
+  - '@thedream'
+  - '@psc'
+layout: post
+---
+<h1>BigBanonos Top Songs by T.I.</h1>
+<div class="separator"> <a href="https://www.billboard.com/wp-content/uploads/media/T.I.-press-photo-02-billboard-a-32-1548.jpg?w=1024" > <img alt="T.I." border="0" width="320" data-original-height="480" data-original-width="640" src="https://www.billboard.com/wp-content/uploads/media/T.I.-press-photo-02-billboard-a-32-1548.jpg?w=1024"/> </a>
+</div>
+<p>T.I. has been a defining voice in hip-hop, blending atl hip hop, trap, and southern rap to create hits that resonate across genres. Here are BigBanonosÃ¢â‚¬â„¢ top selections in order of most recently released:</p> <ol> <li><strong>Let My Beat Pound</strong> | Released: 2012-01-03</li> <li><strong>Sorry (feat. AndrÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â© 3000)</strong> | Released: 2012-12-18</li> <li><strong>Like I Do (Stream)</strong> (feat. The-Dream) | Released: 2008</li> <li><strong>Whatever You Like</strong> | Released: 2008-09-08</li> <li><strong>No Matter What (Stream)</strong> (feat. Yung Joc) | Released: 2008</li> <li><strong>Life Of The Party (Stream)</strong> (feat. R. Kelly) | Released: 2008</li> <li><strong>Down Like That (Stream)</strong> (feat. Fergie & will.i.am) | Released: 2009</li> <li><strong>Got Your Back (Stream)</strong> (feat. Keri Hilson) | Released: 2010</li> <li><strong>Touchdown (Stream)</strong> (feat. Eminem) | Released: 2007-06-12</li> <li><strong>Why You Wanna (Stream)</strong> | Released: 2006-03-27</li> <li><strong>Bankhead (Stream)</strong> | Released: 2006</li> <li><strong>T.I.P.</strong> (feat. PSC) | Released: 2005</li> <li><strong>Rubber Band Man</strong> | Released: 2003-08-19</li>
+</ol> <div> {{< youtube "embed" >}}
+</div> <div></div><div><br /></div><div><br /></div>#covers w/ originals <br />
+{{< youtube "S-zzAX3JvYc" >}} <div><br />
+<hr />
+{{< youtube "zvrHN5jPPjI" >}}<br /><br /></div> <p>Explore more on <a href="https://bigbanonos.blogspot.com/">BigBanonos</a>, or check out BigBanonos on <a href="https://www.youtube.com/@BigBanonos">YouTube</a> and <a href="https://x.com/bigbanonos">Twitter</a>.</p>
+
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @fergie,@william,@t.i.,@rkelly,@yungjoc,@eminem,@andre3000,@kerihilson,@thedream,@psc,</p>
+
+---
+title: "' 'Usher'
+'"
+date: 2025-01-10
+original_title: "'Usher'"
+tags:
+  - '@usher'
+layout: post
+---
+<div class="post-title"> <h1>BigBanonos' Favorite Songs by Usher</h1>
+</div>
+<p>Updated March 23, 2004, with "Burn" from the album <i>Confessions (Expanded Edition)</i>, highlighted in the playlist below:</p>
+<div class="post-image"> {{< img-lite src="https://www.billboard.com/wp-content/uploads/2022/09/usher-press-2022-cr-Bellamy-Brewster-billboard-1548.jpg?w=942&h=623&crop=1" alt="Usher Album Cover" >}}
+</div>
+<p>Usher's smooth vocals and timeless R&B hits have cemented his place as one of the genre's most influential artists. From emotional ballads like "Burn" and "Confessions Part II" to live renditions like "Nice & Slow - Live," his music continues to resonate across generations. These tracks, especially from the 2004 hit album <i>Confessions</i>, showcase his unparalleled artistry.</p>
+<p>Listen to the playlist below to experience these tracks and more:</p>
+<div class="spotify-embed"> {{< youtube "embed" >}}
+</div>
+<p>Tracks featured:</p>
+<ul> <li>"Burn" Ã¢â‚¬â€œ <i>Confessions (Expanded Edition)</i> (March 23, 2004, LaFace Records)</li> <li>"Confessions Part II" Ã¢â‚¬â€œ <i>Confessions (Expanded Edition)</i> (March 23, 2004, LaFace Records)</li> <li>"Bad Girl" Ã¢â‚¬â€œ <i>Confessions (Expanded Edition)</i> (March 23, 2004, LaFace Records)</li> <li>"Nice & Slow - Live" Ã¢â‚¬â€œ <i>Live</i> (March 23, 1999, Arista/LaFace Records)</li>
+</ul>
+<p>Dive into UsherÃ¢â‚¬â„¢s powerful discography and relive the magic of his iconic hits.</p>
+<hr>
+<div class="post-footer"> <p>Discover more of BigBanonos' favorites at:</p> <ul> <li><a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos Blog</a></li> <li><a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a></li> <li><a href="https://x.com/bigbanonos" target="_blank">BigBanonos on X/Twitter</a></li> </ul>
+</div>
+<div class="post-tags"> Tags: @usher,
+</div>
+
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @usher,</p>
+
+---
+title: "bo burnham 2 songs"
+layout: post
+---
+---title: "' 'Bo Burnham''"date: 2024-11-03original_title: "'Bo Burnham - 2 Songs'"tags:  - '[@boburnham](/tags/boburnham/)'layout: post---<h2>BigBanonos' 2 Favorite Songs by Bo Burnham</h2> <!--Search Description--><p>BigBanonos' favorite Bo Burnham songs highlight his unique blend of comedy and indie perspective, bringing humor to hip hop and pop.</p> <!--Spotify Playlist Embed-->{{< youtube "embed" >}} <!--Song Listings--><ul> <li>Microwave Popcorn - <em>INSIDE (DELUXE)</em> (Bo Burnham, 2022-06-03)</li> <li>Feel Good - <em>THE INSIDE OUTTAKES</em> (Bo Burnham, 2022-06-02)</li></ul> <!--Image Placeholder for Bo Burnham--><img alt="Bo Burnham Image" src="https://www.billboard.com/wp-content/uploads/2021/06/Bo-Burnham-jan-2020-billboard-1548-1623695910.jpg?w=1024" width="100%" /> <!--Tags Section--><h3>For more comic tunes and unique indie perspectives, check out <a href="https://bigbanonos.com/" target="_blank">BigBanonos</a>.</h3><!--Subscribe and Playlist Links--><div>    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/[@BigBanonos](/tags/BigBanonos/)" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>[#NotOnSpotify](/tags/NotOnSpotify/)</strong>.</p>    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs [#NotOnSpotify](/tags/NotOnSpotify/) Playlist<br /></a></p></div><hr /><p><em>first posted by</em> <a href="https://bigbanonos.com/" rel="noopener" target="_new">https://bigbanonos.com/</a></p><p>tags: [@boburnham](/tags/boburnham/),</p>
+---
+title: "boyskout"
+layout: post
+---
+---title: "' 'Boyskout''"date: 2024-12-02original_title: "'Boyskout'"tags:  - '[@boyskout](/tags/boyskout/)'layout: post---<!-- Post Title --><h1 >BigBanonos' Favorite Song by Boyskout</h1> <!-- Introductory Text --><p >Updated in 2004 with BigBanonos' favorite track by Boyskout, "Secrets." Featured on the album *School Of Etiquette* by Alive Records, this 2:23-long track is a standout in the queercore and riot grrrl genres. Watch the video and see more details below:</p> <!-- Featured Image --><div > {{< img-lite src="https://www.billboard.com/wp-content/uploads/media/BOL4-press-2019-cr-rie-billboard-1548.jpg" alt="Boyskout - Secrets" /></div> <!-- YouTube Video Embed --><div > {{< youtube "tB1yUFBUmgU" >}}</div> <!-- Song Information --><div > <p>"Secrets" by Boyskout, from their 2004 album *School Of Etiquette* released by Alive Records, showcases the rebellious energy of queercore and riot grrrl movements. Clocking in at 2:23, it's a fierce and unforgettable anthem.</p></div> <!-- Footer Links --><div > <p>For more updates and playlists, visit <a href="https://bigbanonos.com/" target="_blank" >}}BigBanonos</a>. Connect with us on <a href="https://www.youtube.com/[@BigBanonos](/tags/BigBanonos/)" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p></div> <!-- Tags --><p >Tags: [@boyskout](/tags/boyskout/),</p><!--Subscribe and Playlist Links--><div>    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/[@BigBanonos](/tags/BigBanonos/)" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>[#NotOnSpotify](/tags/NotOnSpotify/)</strong>.</p>    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs [#NotOnSpotify](/tags/NotOnSpotify/) Playlist<br /></a></p></div><hr /><p><em>first posted by</em> <a href="https://bigbanonos.com/" rel="noopener" target="_new">https://bigbanonos.com/</a></p><p>tags: [@boyskout](/tags/boyskout/),</p>
+---
+title: "calboy"
+layout: post
+---
+---title: "' 'Calboy''"date: 2024-12-03original_title: "'Calboy'"tags:  - '[@lildurk](/tags/lildurk/)'  - '[@calboy](/tags/calboy/)'  - '[@meekmill](/tags/meekmill/)'layout: post---<!-- Post Title --><h1 >BigBanonos' Favorite Song by Calboy, Meek Mill, and Lil Durk</h1> <!-- Introductory Text --><p >Updated August 16, 2019, with BigBanonos' favorite track, "Chariot" by Calboy featuring Meek Mill and Lil Durk. This dynamic collaboration blends melodic rap with high-energy beats, showcasing the best of Chicago, Philly, and Southern hip hop scenes.</p> <!-- Featured Image --><div > {{< img-lite src="https://www.billboard.com/wp-content/uploads/media/Calboy-bb03-2019-chartbreaker-billboard-cdnjirtiu-1500.jpg" alt="Calboy - Chariot" /></div> <!-- YouTube Video Embed --><div > {{< youtube "Ylf3MSDbssM" >}}</div> <!-- Song Information --><div > <p>"Chariot" by Calboy, featuring Meek Mill and Lil Durk, is from the album *Chariot*, released on August 16, 2019, under Polo Grounds Music/RCA Records. This track seamlessly combines melodic rap, Chicago drill, and Philly rap influences for an unforgettable listening experience.</p></div> <!-- Footer Links --><div > <p>For more updates and playlists, visit <a href="https://bigbanonos.com/" target="_blank" >}}BigBanonos</a>. Connect with us on <a href="https://www.youtube.com/[@BigBanonos](/tags/BigBanonos/)" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p></div> <!-- Tags --><p >Tags: [@calboy](/tags/calboy/),[@meekmill](/tags/meekmill/),[@lildurk](/tags/lildurk/),</p><!--Subscribe and Playlist Links--><div>    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/[@BigBanonos](/tags/BigBanonos/)" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>[#NotOnSpotify](/tags/NotOnSpotify/)</strong>.</p>    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs [#NotOnSpotify](/tags/NotOnSpotify/) Playlist<br /></a></p></div><hr /><p><em>first posted by</em> <a href="https://bigbanonos.com/" rel="noopener" target="_new">https://bigbanonos.com/</a></p><p>tags: [@lildurk](/tags/lildurk/),[@calboy](/tags/calboy/),[@meekmill](/tags/meekmill/),</p>
+---
+title: "Cardi B"
+date: 2025-08-15
+draft: false
+tags: ["@cardib", "@bruise", "@megantheestallion", "@kodakblack"]
+---
+
+<img src="https://www.billboard.com/wp-content/uploads/2024/06/cardi-b-bet-experience-2024-billboard-1548.jpg" width="640" height="427" alt="Cardi B" style="aspect-ratio:3/2; width:100%; height:auto;">
+
+BigBanonos' 8 Favorite Songs by Cardi B  
+Last updated August 15, 2025 with **"Imaginary Playerz"** from the upcoming album *Am I The Drama?*  
+
+---
+
+## ðŸŽµ Imaginary Playerz â€” Atlantic Records (2025)  
+Official Music Video:  
+{{< youtube "cg2MY3F2iAk" >}}  
+
+Cardi B drops her newest single ahead of her 2025 album *Am I The Drama?* due September 19.  
+Production credits span Greece, Paris, and NYC â€” reflecting the scale of Cardiâ€™s global rollout.  
+
+---
+
+## ðŸŽµ Enough (Miami) â€” Atlantic Records (2024)  
+ðŸ‘‰ [Watch on YouTube](https://www.youtube.com/watch?v=)  
+
+---
+
+## ðŸŽµ Bongos (feat. Megan Thee Stallion) â€” Atlantic Records (2023)  
+ðŸ‘‰ [Watch on YouTube](https://www.youtube.com/watch?v=)  
+
+---
+
+## ðŸŽµ Bet It (from *Bruised* OST) â€” Warner/BPG/Roc Nation (2021)  
+ðŸ‘‰ [Watch on YouTube](https://www.youtube.com/watch?v=)  
+
+---
+
+## ðŸŽµ Up â€” Atlantic Records (2021)  
+ðŸ‘‰ [Watch on YouTube](https://www.youtube.com/watch?v=)  
+
+---
+
+## ðŸŽµ WAP (feat. Megan Thee Stallion) â€” Atlantic/KSR (2020)  
+ðŸ‘‰ [Watch on YouTube](https://www.youtube.com/watch?v=)  
+
+---
+
+## ðŸŽµ Money â€” Atlantic/KSR (2018)  
+ðŸ‘‰ [Watch on YouTube](https://www.youtube.com/watch?v=)  
+
+---
+
+## ðŸŽµ Bodak Yellow (feat. Kodak Black) â€” KSR/Atlantic (2017)  
+ðŸ‘‰ [Watch on YouTube](https://www.youtube.com/watch?v=)  
+
+---
+
+## ðŸŽ§ Playlist  
+BigBanonos Cardi B Essentials  
+
+{{< youtube "embed" >}}  
+
+---
+
+*First posted by [BigBanonos](https://bigbanonos.com/)*  
+
+tags: @cardib,@bruise,@megantheestallion,@kodakblack
+
+---
+title: "caroline polachek 10 songs"
+layout: post
+---
+---title: "' 'Caroline Polachek''"date: 2024-11-03original_title: "'Caroline Polachek - 10 Songs'"tags:  - '[@carolinepolachek](/tags/carolinepolachek/)'layout: post---<h2>BigBanonos' Top 10 Favorite Songs by Caroline Polachek</h2> <!-- Search Description --><p>Explore BigBanonos' top picks from Caroline Polachek, showcasing her unique art pop and indietronica style. Dive into the playlist to experience these favorites from her recent and classic albums.</p> <!-- Spotify Playlist Embed -->{{< youtube "embed" >}} <!-- Song Listings --><ul> <li><strong>Dang</strong> - <em>Dang</em> - Perpetual Novice - 2023-10-17</li> <li><strong>Pretty In Possible</strong> - <em>Desire, I Want To Turn Into You</em> - Perpetual Novice - 2023-02-14</li> <li><strong>Crude Drawing Of An Angel</strong> - <em>Desire, I Want To Turn Into You</em> - Perpetual Novice - 2023-02-14</li> <li><strong>Smoke</strong> - <em>Desire, I Want To Turn Into You</em> - Perpetual Novice - 2023-02-14</li> <li><strong>Billions</strong> - <em>Billions</em> - Perpetual Novice - 2022-02-09</li> <li><strong>Look At Me Now</strong> - <em>Pang</em> - Perpetual Novice - 2019-10-18</li> <li><strong>So Hot You're Hurting My Feelings</strong> - <em>So Hot You're Hurting My Feelings</em> - Columbia - 2019-09-16</li> <li><strong>Ocean of Tears</strong> - <em>Ocean of Tears</em> - Columbia - 2019-07-24</li> <li><strong>Parachute</strong> - <em>Parachute</em> - Columbia - 2019-07-22</li> <li><strong>Door</strong> - <em>Door</em> - Columbia - 2019-06-19</li></ul> <!-- Image -->{{< img-lite src="https://www.billboard.com/wp-content/uploads/media/Caroline-Polachek-bb20-2019-feat-billboard-obotrno-1500.jpg" alt="Caroline Polachek"/><!--Subscribe and Playlist Links--><div>    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/[@BigBanonos](/tags/BigBanonos/)" target="_blank" >}}BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>[#NotOnSpotify](/tags/NotOnSpotify/)</strong>.</p>    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs [#NotOnSpotify](/tags/NotOnSpotify/) Playlist<br /></a></p></div><hr /><p><em>first posted by</em> <a href="https://bigbanonos.com/" rel="noopener" target="_new">https://bigbanonos.com/</a></p><p>tags: [@carolinepolachek](/tags/carolinepolachek/),</p>
+---
+title: "chuck jackson"
+layout: post
+---
+---title: "' 'Chuck Jackson''"date: 2024-12-03original_title: "'Chuck Jackson'"tags:  - '[@chuckjackson](/tags/chuckjackson/)'layout: post---<!-- Post Title --><h1 >BigBanonos' Favorite Song by Chuck Jackson</h1> <!-- Introductory Text --><p >Updated 1964 with BigBanonos' favorite track, "Any Other Way" by Chuck Jackson. This timeless northern soul classic captures the heart of rhythm and blues.</p> <!-- Featured Image --><div > {{< img-lite src="https://www.billboard.com/wp-content/uploads/2023/02/Chuck-Jackson-2008-billboard-1548.jpg?w=942&h=623&crop=1" alt="Chuck Jackson - Any Other Way" /></div> <!-- YouTube Video Embed --><div > {{< youtube "u_WZ17Ae-VY" >}}</div> <!-- Song Information --><div > <p>"Any Other Way" is featured on Chuck Jackson's *28 Big Ones* compilation, released by Wand Records in 1964. The track blends northern soul with elements of southern soul, making it a standout in rhythm and blues history.</p></div> <!-- Footer Links --><div > <p>For more updates and playlists, visit <a href="https://bigbanonos.com/" target="_blank" >}}BigBanonos</a>. Connect with us on <a href="https://www.youtube.com/[@BigBanonos](/tags/BigBanonos/)" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p></div> <!-- Tags --><p >Tags: [@chuckjackson](/tags/chuckjackson/),</p><!--Subscribe and Playlist Links--><div>    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/[@BigBanonos](/tags/BigBanonos/)" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>[#NotOnSpotify](/tags/NotOnSpotify/)</strong>.</p>    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs [#NotOnSpotify](/tags/NotOnSpotify/) Playlist<br /></a></p></div><hr /><p><em>first posted by</em> <a href="https://bigbanonos.com/" rel="noopener" target="_new">https://bigbanonos.com/</a></p><p>tags: [@chuckjackson](/tags/chuckjackson/),</p>
+---
+title: "clean bandit jess glynne"
+layout: post
+---
+---title: "' 'Clean Bandit & Jess Glynne''"date: 2024-12-03original_title: "'Clean Bandit & Jess Glynne'"tags:  - '[@cleanbandit](/tags/cleanbandit/)'  - '[@jessglynne](/tags/jessglynne/)'layout: post---<!-- Post Title --><h1 >BigBanonos' Favorite Song by Clean Bandit & Jess Glynne</h1> <!-- Introductory Text --><p >Updated in 2015 with BigBanonos' favorite track, "Rather Be" by Clean Bandit featuring Jess Glynne. A timeless hit blending dance pop and UK funky sounds.</p> <!-- Featured Image --><div > {{< img-lite src="https://www.billboard.com/wp-content/uploads/media/02-Clean-Bandit-press-photo-cr-Rita-Zimmermann-a-2017-billboard-1548.jpg" alt="Clean Bandit - Rather Be" /></div> <!-- YouTube Video Embed --><div > {{< youtube "m-M1AtrxztU" >}}</div> <!-- Song Information --><div > <p>"Rather Be," featuring the incredible Jess Glynne, was released by Clean Bandit under Atlantic Records UK. Known for its captivating fusion of pop, electronic, and UK dance elements, the track remains a global anthem and a signature tune for the duo.</p></div> <!-- Footer Links --><div > <p>For more updates and playlists, visit <a href="https://bigbanonos.com/" target="_blank" >}}BigBanonos</a>. Connect with us on <a href="https://www.youtube.com/[@BigBanonos](/tags/BigBanonos/)" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p></div> <!-- Tags --><p >Tags: [@cleanbandit](/tags/cleanbandit/),[@jessglynne](/tags/jessglynne/),</p><!--Subscribe and Playlist Links--><div>    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/[@BigBanonos](/tags/BigBanonos/)" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>[#NotOnSpotify](/tags/NotOnSpotify/)</strong>.</p>    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs [#NotOnSpotify](/tags/NotOnSpotify/) Playlist<br /></a></p></div><hr /><p><em>first posted by</em> <a href="https://bigbanonos.com/" rel="noopener" target="_new">https://bigbanonos.com/</a></p><p>tags: [@cleanbandit](/tags/cleanbandit/),[@jessglynne](/tags/jessglynne/),</p>
+---
+title: "collie buddz"
+layout: post
+---
+---title: "' 'Collie Buddz''"date: 2024-12-03original_title: "'Collie Buddz'"tags:  - '[@colliebuddz](/tags/colliebuddz/)'layout: post---<!-- Post Title --><h1 >BigBanonos' Favorite Song by Collie Buddz</h1> <!-- Introductory Text --><p >Updated July 2, 2007, with BigBanonos' favorite track, "My Everything" by Collie Buddz. A timeless dancehall-reggae fusion hit from his self-titled debut album that continues to resonate worldwide.</p> <!-- Featured Image --><div > {{< img-lite src="https://www.billboard.com/wp-content/uploads/media/collie-buddz-2019-cr-Phil-Emerson-billboard-1548.jpg" alt="Collie Buddz - My Everything" /></div> <!-- YouTube Video Embed --><div > {{< youtube "Oh_2ipocjnc" >}}</div> <!-- Song Information --><div > <p>"My Everything" is a standout track from Collie Buddz's debut album, released under Columbia Records. This smooth blend of dancehall and reggae fusion showcases Buddz's unique voice and signature island vibe.</p></div> <!-- Footer Links --><div > <p>For more updates and playlists, visit <a href="https://bigbanonos.com/" target="_blank" >}}BigBanonos</a>. Connect with us on <a href="https://www.youtube.com/[@BigBanonos](/tags/BigBanonos/)" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p></div> <!-- Tags --><p >Tags: [@colliebuddz](/tags/colliebuddz/),</p><!--Subscribe and Playlist Links--><div>    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/[@BigBanonos](/tags/BigBanonos/)" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>[#NotOnSpotify](/tags/NotOnSpotify/)</strong>.</p>    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs [#NotOnSpotify](/tags/NotOnSpotify/) Playlist<br /></a></p></div><hr /><p><em>first posted by</em> <a href="https://bigbanonos.com/" rel="noopener" target="_new">https://bigbanonos.com/</a></p><p>tags: [@colliebuddz](/tags/colliebuddz/),</p>
+---
+title: "dobie gray"
+layout: post
+---
+---title: "' 'Dobie Gray''"date: 2024-12-12original_title: "'Dobie Gray'"tags:  - '[@dobiegray](/tags/dobiegray/)'layout: post---<!-- Post Title --><h1 >BigBanonos' Favorite Song by Dobie Gray</h1> <!-- Introductory Text --><p >Updated January 1, 2000, with "Soul Days" by Dobie Gray. Released as part of *Soul Days* from *LocoBop Records*, this northern soul classic showcases Gray's unmistakable vocal charisma and timeless style.</p> <!-- Featured Image --><div > {{< img-lite src="https://www.billboard.com/wp-content/uploads/stylus/1363309-dobie-gray-obit-617-409.jpg?w=617" alt="Dobie Gray - Soul Days" /></div> <!-- YouTube Video Embed --><div > {{< youtube "weverNwNRMk" >}}</div> <!-- Song Information --><div > <p>"Soul Days" is a nostalgic journey through the golden era of northern soul. Dobie Gray's passionate delivery and soulful artistry make this track a standout in his remarkable discography.</p></div> <!-- Footer Links --><div > <p>Discover more favorites at <a href="https://bigbanonos.com/" target="_blank" >}}BigBanonos</a>. Explore our playlists on <a href="https://www.youtube.com/[@BigBanonos](/tags/BigBanonos/)" target="_blank">YouTube</a> and follow us on <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p></div> <!-- Tags --><p >Tags: [@dobiegray](/tags/dobiegray/),</p><!--Subscribe and Playlist Links--><div>    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/[@BigBanonos](/tags/BigBanonos/)" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>[#NotOnSpotify](/tags/NotOnSpotify/)</strong>.</p>    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs [#NotOnSpotify](/tags/NotOnSpotify/) Playlist<br /></a></p></div><hr /><p><em>first posted by</em> <a href="https://bigbanonos.com/" rel="noopener" target="_new">https://bigbanonos.com/</a></p><p>tags: [@dobiegray](/tags/dobiegray/),</p>
+---
+title: "fifth harmony tyga"
+layout: post
+---
+---title: "' 'Fifth Harmony & Tyga''"date: 2024-12-13original_title: "'Fifth Harmony & Tyga'"tags:  - '[@fifthharmony](/tags/fifthharmony/)'  - '[@tyga](/tags/tyga/)'layout: post---<!-- Post Title --><h1 >BigBanonos' Favorite Song by Fifth Harmony & Tyga</h1> <!-- Introductory Text --><p >Updated January 30, 2015, with "Like Mariah" by Fifth Harmony featuring Tyga. This smooth and playful track pays homage to Mariah Carey's legendary style while showcasing Fifth Harmony's vocal talent and Tyga's dynamic energy.</p> <!-- Featured Image --><div > {{< img-lite src="https://www.billboard.com/wp-content/uploads/media/fifth-harmony-kiss-fm-2015-billboard-650.jpg?w=650" alt="Fifth Harmony - Like Mariah" /></div> <!-- YouTube Video Embed --><div > {{< youtube "mffI6dqtXCU" >}}</div> <!-- Song Information --><div > <p><em>"Like Mariah"</em> is a standout track from Fifth Harmony's *Reflection (Deluxe)* album, blending pop harmonies and hip hop vibes for an irresistible anthem.</p></div> <!-- Footer Links --><div > <p>Discover more favorites at <a href="https://bigbanonos.com/" target="_blank" >}}BigBanonos</a>. Explore our playlists on <a href="https://www.youtube.com/[@BigBanonos](/tags/BigBanonos/)" target="_blank">YouTube</a> and follow us on <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p></div> <!-- Tags --><p >Tags: [@fifthharmony](/tags/fifthharmony/),[@tyga](/tags/tyga/),</p><!--Subscribe and Playlist Links--><div>    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/[@BigBanonos](/tags/BigBanonos/)" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>[#NotOnSpotify](/tags/NotOnSpotify/)</strong>.</p>    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs [#NotOnSpotify](/tags/NotOnSpotify/) Playlist<br /></a></p></div><hr /><p><em>first posted by</em> <a href="https://bigbanonos.com/" rel="noopener" target="_new">https://bigbanonos.com/</a></p><p>tags: [@fifthharmony](/tags/fifthharmony/),[@tyga](/tags/tyga/),</p>
+---
+title: "gallant"
+layout: post
+---
+---title: "' 'Gallant''"date: 2024-12-13original_title: "'Gallant'"tags:  - '[@gallant](/tags/gallant/)'  - '[@asapferg](/tags/asapferg/)'layout: post---<!-- Post Title --><h1 >BigBanonos' Favorite Tracks: Gallant x A$AP Ferg - "Doesn't Matter (Remix)"</h1> <!-- Introductory Text --><p >Updated June 18, 2018, with "Doesn't Matter (Remix)" featuring A$AP Ferg. This remix elevates Gallant's original alternative R&B hit with a dynamic hip-hop verse by A$AP Ferg, blending soulful vocals and rhythmic intensity.</p> <!-- Featured Image --><div > {{< img-lite src="https://www.billboard.com/wp-content/uploads/media/gallant-asap-ferg-doesnt-matter-remix-MV-vid-2018-billboard-1548.jpg?w=942&h=623&crop=1" alt="Gallant x A$AP Ferg - Doesn't Matter Remix" /></div> <!-- YouTube Video Embed --><div > {{< youtube "XFpGQfa7OAs" >}}</div><div > {{< youtube "-e-xXN-tcFU" >}}</div><!-- Song Information --><div > <p><em>"Doesn't Matter (Remix)"</em> pairs Gallant's emotive falsetto and alternative R&B style with A$AP Ferg's hard-hitting rap delivery. Released on June 18, 2018, under Mind of a Genius/Warner Records, this collaboration perfectly fuses genres, creating a track that resonates with fans of both R&B and hip-hop.</p></div> <!-- Footer Links --><div > <p>Discover more dynamic collaborations at <a href="https://bigbanonos.com/" target="_blank" >}}BigBanonos</a>. Watch our curated playlists on <a href="https://www.youtube.com/[@BigBanonos](/tags/BigBanonos/)" target="_blank">YouTube</a> and follow us on <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p></div> <!-- Tags --><p >Tags: [@gallant](/tags/gallant/),[@asapferg](/tags/asapferg/),</p><!--Subscribe and Playlist Links--><div>    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/[@BigBanonos](/tags/BigBanonos/)" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>[#NotOnSpotify](/tags/NotOnSpotify/)</strong>.</p>    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs [#NotOnSpotify](/tags/NotOnSpotify/) Playlist<br /></a></p></div><hr /><p><em>first posted by</em> <a href="https://bigbanonos.com/" rel="noopener" target="_new">https://bigbanonos.com/</a></p><p>tags: [@gallant](/tags/gallant/),[@asapferg](/tags/asapferg/),</p>
+---
+title: "kyle 2 songs"
+layout: post
+---
+---title: "' 'KYLE''"date: 2024-12-20original_title: "'KYLE - 2 Songs'"tags:  - '[@teezotouchdown](/tags/teezotouchdown/)'  - '[@kyle](/tags/kyle/)'layout: post---<h1>KYLE: BigBanonos' two favorite tracks</h1><img alt="KYLE" src="https://www.billboard.com/wp-content/uploads/2022/01/KYLE-press-2022-billboard-1548.jpg?w=942&h=623&crop=1" /> <p>KYLE, known for his unique mix of indie pop rap and viral trap, brings a fresh energy to the hip-hop scene. Check out two of his must-hear tracks below:</p> <ol> <li><strong>Carefree</strong> | Release Date: March 11, 2022 | Independent</li> <li><strong>Somethin Bout U</strong> (feat. Teezo Touchdown) | Release Date: November 10, 2023 | Independent</li></ol> <div> {{< youtube "embed" >}}</div> <p>With hits like "Carefree" and his latest collaboration on "Somethin Bout U," KYLE combines upbeat vibes with relatable lyrics, making waves in the pop and hip-hop genres alike. <b><a href="https://bigbanonos.com/2024/01/teezo-touchdown-15-songs.html" target="_blank">Check out more from Teezo Touchdown in BigBanonos' 15-song playlist here</a></b>.</p> <div> <p>Discover more from BigBanonos: <a href="https://bigbanonos.com/">Website</a> | <a href="https://www.youtube.com/[@BigBanonos](/tags/BigBanonos/)">YouTube</a> | <a href="https://x.com/bigbanonos">Twitter</a></p></div> <!--Tags--><p>[@kyle](/tags/kyle/)</p><!--Subscribe and Playlist Links--><div>    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/[@BigBanonos](/tags/BigBanonos/)" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>[#NotOnSpotify](/tags/NotOnSpotify/)</strong>.</p>    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs [#NotOnSpotify](/tags/NotOnSpotify/) Playlist<br /></a></p></div><hr /><p><em>first posted by</em> <a href="https://bigbanonos.com/" rel="noopener" target="_new">https://bigbanonos.com/</a></p><p>tags: [@teezotouchdown](/tags/teezotouchdown/),[@kyle](/tags/kyle/),</p>
+---
+title: "lil tecca"
+layout: post
+---
+---title: "' 'Lil Tecca''"date: 2024-12-14original_title: "'Lil Tecca'"tags:  - '[@liltecca](/tags/liltecca/)'layout: post---<!-- Post Title --><h1 >BigBanonos' Favorite Tracks: Lil Tecca - "Ransom"</h1> <!-- Introductory Text --><p >Updated August 30, 2019, with "Ransom" by Lil Tecca. This breakout hit from the album <em>We Love You Tecca</em> showcases Tecca's melodic rap style, blending elements of pluggnb and modern hip hop.</p> <!-- Featured Image --><div > {{< img-lite src="https://www.billboard.com/wp-content/uploads/media/Lil-Tecca-press-by-Orlando-IV-2019-billboard-1548.jpg?w=942&h=623&crop=1" alt="Lil Tecca - Ransom" /></div> <!-- YouTube Video Embed --><div > {{< youtube "1XzY2ij_vL4" >}}</div> <!-- Song Information --><div > <p><em>"Ransom"</em> by Lil Tecca is a melodic rap anthem that captured the hearts of fans worldwide. Released under Republic Records, this track perfectly encapsulates the energy and vibe of modern pluggnb and rap music.</p></div> <!-- Footer Links --><div > <p>Discover more melodic rap hits on <a href="https://bigbanonos.com/" target="_blank" >}}BigBanonos</a>. Visit our <a href="https://www.youtube.com/[@BigBanonos](/tags/BigBanonos/)" target="_blank">YouTube</a> channel and follow us on <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a> for more updates and music highlights.</p></div> <!-- Tags --><p >Tags: [@liltecca](/tags/liltecca/),</p><!--Subscribe and Playlist Links--><div>    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/[@BigBanonos](/tags/BigBanonos/)" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>[#NotOnSpotify](/tags/NotOnSpotify/)</strong>.</p>    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs [#NotOnSpotify](/tags/NotOnSpotify/) Playlist<br /></a></p></div><hr /><p><em>first posted by</em> <a href="https://bigbanonos.com/" rel="noopener" target="_new">https://bigbanonos.com/</a></p><p>tags: [@liltecca](/tags/liltecca/),</p>
+---
+title: "nipsey hussle"
+layout: post
+---
+---title: "' 'Nipsey Hussle''"date: 2025-01-20original_title: "'Nipsey Hussle'"tags:  - '[@nipseyhussle](/tags/nipseyhussle/)'  - '[@yg](/tags/yg/)'layout: post---<!-- Title of the Post --><h1 >BigBanonos Favorite Songs by Nipsey Hussle</h1> <!-- Introductory Text --><p >Updated January 19, 2018, with "Last Time That I Checc'd" featuring YG. Celebrate the legacy of Nipsey Hussle in the playlist below!</p> <!-- Featured Image --><div > {{< img-lite src="https://www.billboard.com/wp-content/uploads/media/nipsey-hussle-press-photo-2018-cr-Norberto-Garcia-billboard-1548.jpg" alt="Nipsey Hussle" /></div> <!-- Spotify Embed --><div > {{< youtube "embed" >}}</div> <!-- Song Information --><div> <p><strong>"Last Time That I Checc'd (feat. YG)"</strong><br> Genre: Hip Hop<br> Album: <em>Last Time That I Checc'd (feat. YG)</em><br> Release Date: January 19, 2018<br> Label: All Money In No Money Out</p> <p><strong>Fuck Donald Trump</strong> | <em>Single</em> | Defiant Records | Released: March 30, 2016</p></div> <!-- Footer Links --><div > <p>For more updates, visit <a href="https://bigbanonos.com/" target="_blank" >}}BigBanonos</a>. Also, check out our <a href="https://www.youtube.com/[@BigBanonos](/tags/BigBanonos/)" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a> channels for more exclusive content!</p></div><!--Subscribe and Playlist Links--><div>    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/[@BigBanonos](/tags/BigBanonos/)" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>[#NotOnSpotify](/tags/NotOnSpotify/)</strong>.</p>    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs [#NotOnSpotify](/tags/NotOnSpotify/) Playlist<br /></a></p></div><hr /><p><em>first posted by</em> <a href="https://bigbanonos.com/" rel="noopener" target="_new">https://bigbanonos.com/</a></p><p>tags: [@nipseyhussle](/tags/nipseyhussle/),[@yg](/tags/yg/),</p>
+---
+title: "prince royce"
+layout: post
+---
+---title: "' 'Prince Royce''"date: 2024-12-15original_title: "'Prince Royce'"tags:  - '[@jenniferlopez](/tags/jenniferlopez/)'  - '[@pitbull](/tags/pitbull/)'  - '[@princeroyce](/tags/princeroyce/)'layout: post---<!-- Title of the Post --><h1 >Prince Royce - Back It Up (feat. Jennifer Lopez & Pitbull)</h1> <!-- Introductory Text --><p >Updated with "Back It Up" by Prince Royce featuring Jennifer Lopez and Pitbull, an energetic Latin anthem with a perfect blend of bachata and urban vibes.</p> <!-- Featured Image --><div > {{< img-lite src="https://www.billboard.com/wp-content/uploads/media/Prince-Royce-cr-Elastic-People-2020-billboard-1548.jpg?w=942&h=623&crop=1" alt="Prince Royce Back It Up" /></div> <!-- YouTube Video Embed --><div > {{< youtube "9w9dXWU5nMI" >}}</div> <!-- Song Information --><div > <p><em>"Back It Up"</em> is a sizzling Latin hit by Prince Royce, featuring Jennifer Lopez and Pitbull. It blends bachata, urban Latino rhythms, and pop into a dance-floor anthem from the "Double Vision (Deluxe Edition)" album.</p></div> <!-- Footer Links --><div > <p>Discover more music at <a href="https://bigbanonos.com/" target="_blank" >}}BigBanonos</a>. Follow us on <a href="https://www.youtube.com/[@BigBanonos](/tags/BigBanonos/)" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p></div> <!-- Tags --><p >Tags: [@princeroyce](/tags/princeroyce/),[@jenniferlopez](/tags/jenniferlopez/),[@pitbull](/tags/pitbull/),</p><!--Subscribe and Playlist Links--><div>    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/[@BigBanonos](/tags/BigBanonos/)" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>[#NotOnSpotify](/tags/NotOnSpotify/)</strong>.</p>    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs [#NotOnSpotify](/tags/NotOnSpotify/) Playlist<br /></a></p></div><hr /><p><em>first posted by</em> <a href="https://bigbanonos.com/" rel="noopener" target="_new">https://bigbanonos.com/</a></p><p>tags: [@jenniferlopez](/tags/jenniferlopez/),[@pitbull](/tags/pitbull/),[@princeroyce](/tags/princeroyce/),</p>
+---
+title: "r kelly"
+layout: post
+---
+---title: "' 'R. Kelly''"date: 2024-11-27original_title: "'R. Kelly'"tags:  - '[@kmichelle](/tags/kmichelle/)'  - '[@keyshiacole](/tags/keyshiacole/)'  - '[@rkelly](/tags/rkelly/)'  - '[@huey](/tags/huey/)'  - '[@ronaldisley](/tags/ronaldisley/)'  - '[@youngjeezy](/tags/youngjeezy/)'layout: post---<h1>BigBanonos Top Songs by R. Kelly</h1><img alt="R. Kelly" src="https://www.billboard.com/wp-content/uploads/media/r-kelly-nov-2015-billboard-1548.jpg" /> <p>R. Kelly's contributions to R&B and hip hop have left a lasting mark on the music industry. From heartfelt ballads to upbeat anthems, here are BigBanonos' favorite selections from his discography:</p> <ol> <li><strong>Step In the Name of Love</strong> | <em>Chocolate Factory</em> | Released: 2003</li> <li><strong>Ignition</strong> | <em>Chocolate Factory</em> | Released: 2003</li> <li><strong>Happy People</strong> | <em>Happy People/U Saved Me</em> | Released: August 23, 2004</li> <li><strong>Shut Up</strong> | <em>Black Panties (Deluxe Version)</em> | Released: December 6, 2013</li> <li><strong>Genius</strong> | <em>Genius</em> | Released: September 24, 2013</li> <li><strong>When A Woman Loves</strong> | <em>Love Letter</em> | Released: December 13, 2010</li> <li><strong>Hook It Up</strong> (feat. Huey) | <em>Double Up</em> | Released: May 25, 2007</li> <li><strong>Love Is</strong> (feat. K. Michelle) | <em>Love Letter</em> | Released: December 13, 2010</li> <li><strong>Best Friend</strong> (feat. Polow Da Don & Keyshia Cole) | <em>Double Up</em> | Released: May 25, 2007</li> <li><strong>Lay It Down</strong> (Remix) (feat. Lloyd & Young Jeezy) | Released: 2011</li> <li><strong>Showdown</strong> (feat. Ronald Isley) | <em>Chocolate Factory</em> | Released: 2003</li> <li><strong>Might Be Mine</strong> | Released: 2008</li> <li><strong>Wanna Make A Baby</strong> | Released: Unknown</li> <li><strong>Go Low</strong> | <em>Untitled</em> | Released: November 27, 2009</li> <li><strong>Whole Lotta Kisses</strong> | <em>Untitled</em> | Released: November 27, 2009</li></ol> <div> {{< youtube "embed" >}}</div> <!-- Embedded video playlists --><div> <p><b>Video Playlists:</b></p> {{< youtube "PT7UOmPqXlk" >}}</div> <p>first posted by <a href="https://bigbanonos.com/">https://bigbanonos.com/</a></p> <div> <p>Explore more BigBanonos content: <a href="https://bigbanonos.com/">Website</a> | <a href="https://www.youtube.com/[@BigBanonos](/tags/BigBanonos/)">YouTube</a> | <a href="https://x.com/bigbanonos">Twitter</a></p></div> <!--Tags--><p>[@rkelly](/tags/rkelly/),[@huey](/tags/huey/),[@kmichelle](/tags/kmichelle/),[@keyshiacole](/tags/keyshiacole/),[@youngjeezy](/tags/youngjeezy/),[@ronaldisley](/tags/ronaldisley/)</p><!--Subscribe and Playlist Links--><div>    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/[@BigBanonos](/tags/BigBanonos/)" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>[#NotOnSpotify](/tags/NotOnSpotify/)</strong>.</p>    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs [#NotOnSpotify](/tags/NotOnSpotify/) Playlist<br /></a></p></div><hr /><p><em>first posted by</em> <a href="https://bigbanonos.com/" rel="noopener" target="_new">https://bigbanonos.com/</a></p><p>tags: [@kmichelle](/tags/kmichelle/),[@keyshiacole](/tags/keyshiacole/),[@rkelly](/tags/rkelly/),[@huey](/tags/huey/),[@ronaldisley](/tags/ronaldisley/),[@youngjeezy](/tags/youngjeezy/),</p>
+---
+title: "roberto surace 1 song"
+layout: post
+---
+---title: "' 'Roberto Surace''"date: 2019-10-16original_title: "'Roberto Surace - 1 Song'"tags:  - '[@robertosurace](/tags/robertosurace/)'layout: post---<div class="separator" ><a href="https://www.billboard.com/files/styles/article_main_image/public/media/Robert-Surace-press-by-Nico-Back2Back-Arti-Visive-2019-billboard-1548.jpg" imageanchor="1"><img border="0" src="https://www.billboard.com/files/styles/article_main_image/public/media/Robert-Surace-press-by-Nico-Back2Back-Arti-Visive-2019-billboard-1548.jpg" width="400" height="265" data-original-width="636" data-original-height="421" /></a></div>{{< youtube "videoseries" >}}<br /><h3>Joys [2019]</h3><!--Subscribe and Playlist Links--><div>    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/[@BigBanonos](/tags/BigBanonos/)" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>[#NotOnSpotify](/tags/NotOnSpotify/)</strong>.</p>    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs [#NotOnSpotify](/tags/NotOnSpotify/) Playlist<br /></a></p></div><hr /><p><em>first posted by</em> <a href="https://bigbanonos.com/" rel="noopener" target="_new">https://bigbanonos.com/</a></p><p>tags: [@robertosurace](/tags/robertosurace/),</p>
+---
+title: "snoh aalegra 3 songs"
+layout: post
+---
+---title: "' 'Snoh Aalegra''"date: 2024-12-20original_title: "'Snoh Aalegra - 3 Songs'"tags:  - '[@snohaalegra](/tags/snohaalegra/)'layout: post---<h1>BigBanonos Top Songs by Snoh Aalegra</h1>{{< img-lite src="https://www.billboard.com/wp-content/uploads/media/Snoh-Aalegra-tiny-desk-2020-billboard-1548.jpg" alt="Snoh Aalegra" >}} <p>Snoh Aalegra is known for her smooth, alternative R&B sound. Here are BigBanonos' picks:</p> <ol> <li><strong>IN YOUR EYES</strong> | <em>TEMPORARY HIGHS IN THE VIOLET SKIES</em> | Released: 2021-07-09 | Roc Nation Records</li> <li><strong>TANGERINE DREAM</strong> | <em>TEMPORARY HIGHS IN THE VIOLET SKIES</em> | Released: 2021-07-09 | Roc Nation Records</li> <li><strong>I Want You Around (feat. 6LACK) - Remix</strong> | <em>I Want You Around (feat. 6LACK) [Remix]</em> | Released: 2019-11-01 | Artium Recordings, LLC</li></ol><h3>Video Playlist:</h3><div> {{< youtube "embed" >}}</div><p>Tags: [@snohaalegra](/tags/snohaalegra/)</p><!--Subscribe and Playlist Links--><div>    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/[@BigBanonos](/tags/BigBanonos/)" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>[#NotOnSpotify](/tags/NotOnSpotify/)</strong>.</p>    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs [#NotOnSpotify](/tags/NotOnSpotify/) Playlist<br /></a></p></div><hr /><p><em>first posted by</em> <a href="https://bigbanonos.com/" rel="noopener" target="_new">https://bigbanonos.com/</a></p><p>tags: [@snohaalegra](/tags/snohaalegra/),</p>
+---
+title: "sob x rbe"
+layout: post
+---
+---title: "' 'SOB x RBE''"date: 2024-12-15original_title: "'SOB x RBE'"tags:  - '[@sobxrbe](/tags/sobxrbe/)'layout: post---<!-- Title of the Post --><h1 >SOB X RBE - Paramedic!</h1> <!-- Introductory Text --><p >Updated with "Paramedic!" by SOB X RBE, from *Black Panther: The Album - Music From and Inspired By*, released on February 9, 2018, by Black Panther (TDE/DMG) PS.</p> <!-- Featured Image --><div > {{< img-lite src="https://www.billboard.com/wp-content/uploads/media/SOB-x-RBE-press-photo-by-Shemp-3-2018-billboard-1548.jpg?w=1024" alt="SOB X RBE - Paramedic!" /></div> <!-- YouTube Video Embed --><div > {{< youtube "ZiI1ThZ2R2s" >}}</div> <!-- Song Information --><div > <p><em>"Paramedic!"</em> by SOB X RBE is an energetic track from *Black Panther: The Album - Music From and Inspired By*, released on February 9, 2018. With its catchy Cali rap vibe, this song became a standout on the album, capturing the essence of the hip-hop scene.</p></div> <!-- Footer Links --><div > <p>Explore more at <a href="https://bigbanonos.com/" target="_blank" >}}BigBanonos</a>. Check out our <a href="https://www.youtube.com/[@BigBanonos](/tags/BigBanonos/)" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a> channels for more music updates.</p></div> <!-- Tags --><p >Tags: [@sobxRBE](/tags/sobxRBE/),</p><!--Subscribe and Playlist Links--><div>    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/[@BigBanonos](/tags/BigBanonos/)" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>[#NotOnSpotify](/tags/NotOnSpotify/)</strong>.</p>    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs [#NotOnSpotify](/tags/NotOnSpotify/) Playlist<br /></a></p></div><hr /><p><em>first posted by</em> <a href="https://bigbanonos.com/" rel="noopener" target="_new">https://bigbanonos.com/</a></p><p>tags: [@sobxrbe](/tags/sobxrbe/),</p>
+---
+title: "spice"
+layout: post
+---
+---title: "' 'Spice''"date: 2025-01-10original_title: "'Spice'"tags:  - '[@spice](/tags/spice/)'layout: post---<h3>BigBanonos' Favorite Songs by Spice</h3><div > <a href="https://www.billboard.com/wp-content/uploads/media/Spice-press-by-Spex-Photography-2018-billboard-1548.jpg" target="_blank"> {{< img-lite src="https://www.billboard.com/wp-content/uploads/media/Spice-press-by-Spex-Photography-2018-billboard-1548.jpg" alt="Spice" >}} </a></div><p>Updated August 26, 2022, with Spice's track <strong>"BAKE A MAN"</strong>. BigBanonos celebrates her vibrant contributions to dancehall music.</p>{{< youtube "embed" >}}<h4>Top Songs:</h4><ol> <li><strong>BAKE A MAN</strong> | <em>Emancipated</em> | Released: August 26, 2022 | Stealth Music Group</li> <li><strong>Love Triangle (Pum Pum)</strong> | <em>Love Triangle (Pum Pum)</em> | Released: March 18, 2022 | Spice Official ENT</li></ol><hr /><p>Discover more on <a href="https://bigbanonos.com/" target="_blank">BigBanonos</a>. Follow us on <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a> and <a href="https://www.youtube.com/[@BigBanonos](/tags/BigBanonos/)" target="_blank">YouTube</a>.</p><p>[@spice](/tags/spice/)</p><!--Subscribe and Playlist Links--><div>    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/[@BigBanonos](/tags/BigBanonos/)" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>[#NotOnSpotify](/tags/NotOnSpotify/)</strong>.</p>    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs [#NotOnSpotify](/tags/NotOnSpotify/) Playlist<br /></a></p></div><hr /><p><em>first posted by</em> <a href="https://bigbanonos.com/" rel="noopener" target="_new">https://bigbanonos.com/</a></p><p>tags: [@spice](/tags/spice/),</p>
+---
+title: "syd 5 songs"
+layout: post
+---
+---title: "' 'Syd''"date: 2024-12-20original_title: "'Syd - 5 Songs'"tags:  - '[@syd](/tags/syd/)'  - '[@smino](/tags/smino/)'layout: post---<h1>BigBanonos Top Songs by Syd</h1>{{< img-lite src="https://www.billboard.com/wp-content/uploads/media/Syd-bb15-2018-feat-billboard-posl3cb-1500.jpg" alt="Syd" >}} <p>Syd's smooth blend of alternative R&B and soulful lyrics resonates deeply. BigBanonos' favorites include:</p> <ol> <li><strong>Tie The Knot</strong> | <em>Broken Hearts Club</em> | Released: 2022-04-08 | Columbia</li> <li><strong>Getting Late</strong> | <em>Broken Hearts Club</em> | Released: 2022-04-08 | Columbia</li> <li><strong>Fast Car</strong> | <em>Fast Car</em> | Released: 2021-07-16 | Columbia</li> <li><strong>Body</strong> | <em>Fin</em> | Released: 2017-02-03 | Columbia</li> <li><strong>Right Track (feat. Smino)</strong> | <em>Right Track</em> | Released: 2021-09-10 | Columbia</li></ol> <div> {{< youtube "embed" >}}</div><p>Tags: [@syd](/tags/syd/),[@smino](/tags/smino/)</p><!--Subscribe and Playlist Links--><div>    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/[@BigBanonos](/tags/BigBanonos/)" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>[#NotOnSpotify](/tags/NotOnSpotify/)</strong>.</p>    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs [#NotOnSpotify](/tags/NotOnSpotify/) Playlist<br /></a></p></div><hr /><p><em>first posted by</em> <a href="https://bigbanonos.com/" rel="noopener" target="_new">https://bigbanonos.com/</a></p><p>tags: [@syd](/tags/syd/),[@smino](/tags/smino/),</p>
+---
+title: "taylor swift 3 songs"
+layout: post
+---
+---title: "' 'Taylor Swift''"date: 2024-12-20original_title: "'Taylor Swift - 3 Songs'"tags:  - '[@taylorswift](/tags/taylorswift/)'layout: post---<h1>BigBanonos Favorite Songs by Taylor Swift</h1>{{< img-lite src="https://www.billboard.com/wp-content/uploads/2024/11/taylor-swift-indianapolis-night-1-2024-billboard-1548.jpg?w=942&h=623&crop=1" alt="Taylor Swift" >}} <p>From pop anthems to introspective ballads, Taylor Swift consistently delivers timeless hits. Here are some of BigBanonos' favorites:</p> <ol> <li><strong>Lavender Haze</strong> | <em>Midnights</em> | Released: 2022-10-21 | Taylor Swift</li> <li><strong>invisible string</strong> | <em>folklore</em> | Released: 2020-07-24 | Taylor Swift</li> <li><strong>Cruel Summer - LP Giobbi Remix - Extended Version</strong> | <em>The Cruelest Summer</em> | Released: 2023-10-19 | Taylor Swift</li></ol> <div> {{< youtube "embed" >}}</div><p>Tags: [@taylorswift](/tags/taylorswift/),[@lpgiobbi](/tags/lpgiobbi/)</p><!--Subscribe and Playlist Links--><div>    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/[@BigBanonos](/tags/BigBanonos/)" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>[#NotOnSpotify](/tags/NotOnSpotify/)</strong>.</p>    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs [#NotOnSpotify](/tags/NotOnSpotify/) Playlist<br /></a></p></div><hr /><p><em>first posted by</em> <a href="https://bigbanonos.com/" rel="noopener" target="_new">https://bigbanonos.com/</a></p><p>tags: [@taylorswift](/tags/taylorswift/),</p>
+---
+title: "tegan and sara 2 songs"
+layout: post
+---
+---title: "' 'Tegan and Sara''"date: 2024-12-20original_title: "'Tegan and Sara - 2 Songs'"tags:  - '[@teganandsara](/tags/teganandsara/)'layout: post---<h1>BigBanonos Favorite Songs by Tegan and Sara</h1>{{< img-lite src="https://ca.billboard.com/media-library/tegan-and-sara.webp?id=51884169&width=1200&height=800&quality=90&coordinates=0%2C0%2C0%2C0" alt="Tegan and Sara" >}} <p>Tegan and Sara, the Canadian indie duo known for their heartfelt lyrics and catchy melodies, have been a staple in the indie music scene. Here are BigBanonos' top picks:</p> <ol> <li><strong>Yellow</strong> | <em>Yellow</em> | Released: 2022-07-12 | Mom+Pop</li> <li><strong>Not Tonight</strong> | <em>If It Was You</em> | Released: 2002 | Vapor/Sire</li></ol> <div> {{< youtube "embed" >}}</div><p>Tags: [@teganandsara](/tags/teganandsara/)</p><!--Subscribe and Playlist Links--><div>    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/[@BigBanonos](/tags/BigBanonos/)" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>[#NotOnSpotify](/tags/NotOnSpotify/)</strong>.</p>    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs [#NotOnSpotify](/tags/NotOnSpotify/) Playlist<br /></a></p></div><hr /><p><em>first posted by</em> <a href="https://bigbanonos.com/" rel="noopener" target="_new">https://bigbanonos.com/</a></p><p>tags: [@teganandsara](/tags/teganandsara/),</p>
+---
+title: "the slits top songs"
+layout: post
+---
+---title: "' 'The Slits - Top Songs''"date: 2024-12-17original_title: "'The Slits - Top Songs'"tags:  - '[@theslits](/tags/theslits/)'layout: post---<h1>BigBanonos Top Songs by The Slits</h1><img alt="The Slits" src="https://www.billboard.com/wp-content/uploads/media/the-slits-1980s-billboard-1548.jpg?w=942&h=623&crop=1" /> <p>The Slits brought a punk rock edge with experimental and riot grrrl influences. Here is BigBanonos' top track:</p> <ol> <li><strong>Shoplifting</strong> | <em>Cut (Deluxe Edition)</em> | Released: 1979-09-07 | UMC (Universal Music Catalogue)</li><li>Ping Pong Affair</li></ol><div></div> <div> {{< youtube "embed" >}}</div><p>Tags: [@theslits](/tags/theslits/)</p><!--Subscribe and Playlist Links--><div>    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/[@BigBanonos](/tags/BigBanonos/)" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>[#NotOnSpotify](/tags/NotOnSpotify/)</strong>.</p>    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs [#NotOnSpotify](/tags/NotOnSpotify/) Playlist<br /></a></p></div><hr /><p><em>first posted by</em> <a href="https://bigbanonos.com/" rel="noopener" target="_new">https://bigbanonos.com/</a></p><p>tags: [@theslits](/tags/theslits/),</p>
+---
+title: "vybz kartel 24 songs"
+layout: post
+---
+---title: "' 'Vybz Kartel''"date: 2024-12-20original_title: "'Vybz Kartel - 24 Songs'"tags:  - '[@sikkarymes](/tags/sikkarymes/)'  - '[@birchill](/tags/birchill/)'  - '[@spice](/tags/spice/)'  - '[@moncherie](/tags/moncherie/)'  - '[@vybzkartel](/tags/vybzkartel/)'layout: post---<h1>BigBanonos Favorite Songs by Vybz Kartel</h1>{{< img-lite src="https://www.billboard.com/wp-content/uploads/2024/11/Vybz-Kartel-destroyers-co-2004-billboard-1548.jpg" alt="Vybz Kartel" >}} <p>Vybz Kartel, the prolific and influential dancehall artist, continues to dominate with his innovative style and unmatched catalog. Here are BigBanonos' favorite tracks from Vybz Kartel, listed by release date:</p> <ol> <li><strong>Quick Quick Quick</strong> | <em>Quick Quick Quick</em> | Released: 2019-12-20 | StillYet Productions</li> <li><strong>Bestfriend</strong> (with Birchill) | <em>Bestfriend</em> | Released: 2019-08-20 | Birchill Records</li> <li><strong>Then You... And Me</strong> | <em>Then You... And Me</em> | Released: 2019-10-18 | Short Boss Muzik - Johnny Wonder</li> <li><strong>Like I'm Superman</strong> (with Sikka Rymes) | <em>Like I'm Superman</em> | Released: 2019-11-01 | Redboom-Frenz For Real - Johnny Wonder</li> <li><strong>Back Way</strong> (feat. Spice) | <em>Back Way - Single</em> | Released: 2019-05-03 | TJ Records</li> <li><strong>Come Home</strong> | <em>Come Home - Single</em> | Released: 2019-01-25 | TJ Records</li> <li><strong>Real Bad Gal</strong> | <em>Real Bad Gal</em> | Released: 2018-02-16 | Mixpak Records</li> <li><strong>Who Trouble Dem</strong> | <em>Who Trouble Dem - Single</em> | Released: 2016-08-12 | Good Good Productions</li> <li><strong>Romping Shop</strong> (feat. Spice) | <em>Dancehall Hero Raw (Deluxe)</em> | Released: 2016-01-29 | Tad's Record</li> <li><strong>Can't Say No</strong> (feat. MonCherie) | <em>King Of The Dancehall</em> | Released: 2016-06-10 | Adidjahiem Records/TJ Records/Zojak World Wide</li> <li><strong>Lipstick</strong> | <em>King Of The Dancehall</em> | Released: 2016-06-10 | Adidjahiem Records/TJ Records/Zojak World Wide</li> <li><strong>Gates of Heaven</strong> | <em>Gates of Heaven - Single</em> | Released: 2016-02-12 | Adidjahiem Records</li> <li><strong>Enchanting</strong> | <em>Viking (Vybz Is King)</em> | Released: 2015-01-13 | Adidjahiem Records - TJ Records</li> <li><strong>Summer Time</strong> | <em>Kartel Forever: Trilogy</em> | Released: 2013-09-24 | Tads/Vybz 2</li> <li><strong>Hi</strong> | <em>Hi - Single</em> | Released: 2013-09-10 | Head Concussion</li> <li><strong>Punany A Mi Best Friend</strong> | <em>Punany A Mi Best Friend</em> | Released: 2013-08-15 | SOUNIQUE RECORDS</li> <li><strong>Mr. Broadcast Comission (Anuh My Music)</strong> | <em>The Voice of the Jamaican Ghetto</em> | Released: 2013-07-07 | Whirlwind Records</li> <li><strong>Something Aguh Happen</strong> | <em>The Voice of the Jamaican Ghetto</em> | Released: 2013-07-07 | Whirlwind Records</li> <li><strong>Struggling</strong> | <em>The Voice of the Jamaican Ghetto</em> | Released: 2013-07-07 | Whirlwind Records</li> <li><strong>Thank You Jah</strong> | <em>The Voice of the Jamaican Ghetto</em> | Released: 2013-07-07 | Whirlwind Records</li> <li><strong>Ever Blesses</strong> | <em>Ever Blessed</em> | Released: 2012-12-11 | Head Concussion</li> <li><strong>Bike Back</strong> | <em>Amsterdam</em> | Released: 2012-07-19 | Adde Instrumentals</li> <li><strong>Go Go Wine</strong> | <em>Kingston Story</em> | Released: 2011-06-21 | Mixpak Records</li> <li><strong>Yuh Love</strong> | <em>Yuh Love</em> | Released: 2009-08-25 | Mixpak Records</li></ol> <div> {{< youtube "embed" >}}</div> <p><em>First posted by BigBanonos - <a href="https://bigbanonos.com/">https://bigbanonos.com/</a></em></p><p><em>Last updated November 15, 2024</em></p><p>Follow BigBanonos on <a href="https://www.youtube.com/[@BigBanonos](/tags/BigBanonos/)">YouTube</a> and <a href="https://x.com/bigbanonos">Twitter</a> for more music content.</p><p>Tags: [@vybzkartel](/tags/vybzkartel/), [@spice](/tags/spice/), [@moncherie](/tags/moncherie/), [@sikkarymes](/tags/sikkarymes/), [@birchill](/tags/birchill/)</p><!--Subscribe and Playlist Links--><div>    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/[@BigBanonos](/tags/BigBanonos/)" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>[#NotOnSpotify](/tags/NotOnSpotify/)</strong>.</p>    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs [#NotOnSpotify](/tags/NotOnSpotify/) Playlist<br /></a></p></div><hr /><p><em>first posted by</em> <a href="https://bigbanonos.com/" rel="noopener" target="_new">https://bigbanonos.com/</a></p><p>tags: [@sikkarymes](/tags/sikkarymes/),[@birchill](/tags/birchill/),[@spice](/tags/spice/),[@moncherie](/tags/moncherie/),[@vybzkartel](/tags/vybzkartel/),</p>
+---
+title: "wyclef jean"
+layout: post
+---
+---title: "' 'Wyclef Jean''"date: 2024-12-16original_title: "'Wyclef Jean'"tags:  - '[@rappin4tay](/tags/rappin4tay/)'layout: post---<!-- Title of the Post --><h1 >Wyclef Jean, Rappin' 4-Tay - Playaz Club 2011 Remix [Another Carjack]</h1> <!-- Introductory Text --><p >Updated with "Playaz Club 2011 Remix [Another Carjack]" by Wyclef Jean and Rappin' 4-Tay, from the single *Playaz Club 2011 Remix [Another Carjack]*, released on October 11, 2011, by Forte Music. This track blends rap kreyol and G-funk with an upbeat rhythm.</p> <!-- Featured Image --><div > {{< img-lite src="https://www.billboard.com/wp-content/uploads/2024/07/wylcef-jean-bet-awards-rc-2024-billboard-1548.jpg?w=942&h=623&crop=1" alt="Wyclef Jean - Playaz Club 2011 Remix" /></div> <!-- YouTube Video Embed --><div > {{< youtube "thy0xp9IDfg" >}}</div> <!-- Song Information --><div > <p><em>"Playaz Club 2011 Remix [Another Carjack]"</em> by Wyclef Jean and Rappin' 4-Tay is from the single *Playaz Club 2011 Remix [Another Carjack]*, released on October 11, 2011. The track features rap kreyol and G-funk with a smooth flow that brings a fresh vibe to a classic anthem.</p></div> <!-- Footer Links --><div > <p>Explore more at <a href="https://bigbanonos.com/" target="_blank" >}}BigBanonos</a>. Check out our <a href="https://www.youtube.com/[@BigBanonos](/tags/BigBanonos/)" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a> channels for more music updates.</p></div> <!-- Tags --><p >Tags: [@wyclefjean](/tags/wyclefjean/),[@rappin4tay](/tags/rappin4tay/),</p><!--Subscribe and Playlist Links--><div>    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/[@BigBanonos](/tags/BigBanonos/)" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>[#NotOnSpotify](/tags/NotOnSpotify/)</strong>.</p>    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs [#NotOnSpotify](/tags/NotOnSpotify/) Playlist<br /></a></p></div><hr /><p><em>first posted by</em> <a href="https://bigbanonos.com/" rel="noopener" target="_new">https://bigbanonos.com/</a></p><p>tags: [@rappin4tay](/tags/rappin4tay/),</p>
+---
+title: "yoke lore"
+layout: post
+---
+---title: "' 'Yoke Lore''"date: 2024-12-16original_title: "'Yoke Lore'"tags:  - '[@yokelore](/tags/yokelore/)'layout: post---<!-- Title of the Post --><h1 >Yoke Lore - Fake You</h1> <!-- Introductory Text --><p >Updated with *Fake You* by Yoke Lore, an indie pop hit from the artist's *Fake You* release on March 9, 2018. This song stands out with its unique NYC pop style and emotional lyrics, showcasing Yoke Lore's distinctive sound.</p> <!-- Featured Image --><div > {{< img-lite src="https://www.billboard.com/wp-content/uploads/media/yoke-lore-fake-you-vid-2018-billboard-1548.jpg?w=942&h=623&crop=1" alt="Yoke Lore - Fake You" /></div> <!-- YouTube Video Embed --><div > {{< youtube "ttKahjcT2M0" >}}</div> <!-- Song Information --><div > <p><em>"Fake You"</em> offers an intimate look at Yoke Lore's indie pop roots, blending NYC pop with introspective lyrics. Released in 2018, it remains one of the artist's defining tracks.</p></div> <!-- Footer Links --><div > <p>Discover more at <a href="https://bigbanonos.com/" target="_blank" >}}BigBanonos</a>. For exclusive updates, check out our <a href="https://www.youtube.com/[@BigBanonos](/tags/BigBanonos/)" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a> channels.</p></div> <!-- Tags --><p >Tags: [@yokelore](/tags/yokelore/),</p><!--Subscribe and Playlist Links--><div>    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/[@BigBanonos](/tags/BigBanonos/)" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>[#NotOnSpotify](/tags/NotOnSpotify/)</strong>.</p>    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs [#NotOnSpotify](/tags/NotOnSpotify/) Playlist<br /></a></p></div><hr /><p><em>first posted by</em> <a href="https://bigbanonos.com/" rel="noopener" target="_new">https://bigbanonos.com/</a></p><p>tags: [@yokelore](/tags/yokelore/),</p>
+---
+title: "4 songs"
+layout: post
+---
+<h2>BigBanonos' Favorite 4 Songs by ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¥$, Kanye West, and Ty Dolla $ign</h2>
+<p>BigBanonos' favorite 4 collaborations featuring ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¥$, Kanye West, and Ty Dolla $ign showcase an eclectic fusion of hip hop, trap, and R&B. The <em>VULTURES</em> series captures a blend of moods from reflective to high-energy, with each track uniquely highlighting their powerful styles.</p> <ol> <li><strong>TIME MOVING SLOW</strong> - Album: <em>VULTURES 2</em> (2024-08-03), 2:39</li> <li><strong>BACK TO ME</strong> - Album: <em>VULTURES 1</em> (2024-02-09), 4:55</li> <li><strong>BURN</strong> - Album: <em>VULTURES 1</em> (2024-02-09), 1:51</li> <li><strong>CARNIVAL</strong> (feat. Rich The Kid & Playboi Carti) - Album: <em>VULTURES 1</em> (2024-02-09), 4:24</li>
+</ol> <!--Spotify Playlist Embed-->
+{{< youtube "embed" >}} <!--Image-->
+<img alt="Ty Dolla $ign and Kanye West" src="https://www.billboard.com/wp-content/uploads/2024/03/ty-dolla-sign-and-ye-2024-listening-billboard-1548.jpg?w=942&h=623&crop=1" />
+<div><br /></div><div>BigBanonos works to promote the best songs #NotOnSpotify. Join the 650+ subscribers and subscribe to BigBanonos onÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â <a href="https://www.youtube.com/channel/UCLKYEvwP847OahjcnkYMhjg">YouTube</a>ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â to discover more exclusive tracks!</div>
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @kanyewest,@playboicarti,@richthekid,@tydolla$ign,@ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â¥$,</p>
+
+---
+title: "aap rocky 5 songs"
+layout: post
+---
+<p>ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â </p><h3><strong>A$AP Rocky's Top 5 Songs</strong></h3><ol><li><p>"HIGHJACK" (feat. Jessica Pratt)<br />Album: <em>HIGHJACK</em><br />Release Date: August 2, 2024<br />Label: A$AP Worldwide<br />Genres: Folk/Acoustic, Pop, Hip Hop</p></li><li><p>"Sundress"<br />Album: <em>Sundress</em><br />Release Date: November 20, 2018<br />Label: A$AP Worldwide/Polo Grounds Music/RCA Records<br />Genres: East Coast Hip Hop, Hip Hop, Rap</p></li><li><p>"L$D"<br />Album: <em>AT.LONG.LAST.A$AP</em><br />Release Date: May 26, 2015<br />Label: A$AP Worldwide/Polo Grounds Music/RCA Records<br />Genres: East Coast Hip Hop, Hip Hop, Rap</p></li><li><p>"F**kin' Problems" (feat. Drake, 2 Chainz & Kendrick Lamar)<br />Album: <em>LONG.LIVE.A$AP (Deluxe Version)</em><br />Release Date: 2013<br />Label: A$AP Worldwide/Polo Grounds Music/RCA Records<br />Genres: East Coast Hip Hop, Pop Rap, Trap</p></li><li><p>"Trilla" (feat. A$AP Nast & A$AP Twelvyy)<br />Album: <em>LIVE.LOVE.A$AP</em><br />Release Date: October 31, 2011<br />Label: A$AP Worldwide/Polo Grounds Music/RCA Records<br />Genres: East Coast Hip Hop, Harlem Hip Hop, Underground Hip Hop</p></li></ol>
+{{< youtube "embed" >}}
+<div class="separator"><a href="https://www.billboard.com/wp-content/uploads/2024/08/AAP-Rocky-HIGHJACK-screenshot-billboard-1548.jpg" ><img alt="" border="0" width="320" data-original-height="1024" data-original-width="1548" src="https://www.billboard.com/wp-content/uploads/2024/08/AAP-Rocky-HIGHJACK-screenshot-billboard-1548.jpg"/></a></div>
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @a$aptwelvyy,@drake,@2chainz,@a$aprocky,@a$apnast,@jessicapratt,@kendricklamar,</p>
+
+---
+title: "ambre"
+layout: post
+---
+<!-- Post Title -->
+<h1 >BigBanonos' Favorite Song by AmbrÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©</h1> <!-- Introductory Text -->
+<p >Updated September 27, 2019, with BigBanonos' favorite song by AmbrÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©, "3Peat," from her album *3000ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â°*. Watch the video and see more details below:</p> <!-- Featured Image -->
+<div > <img src="https://www.billboard.com/wp-content/uploads/2022/11/Ambre-2022-cr-Laiken-Joy-billboard-1548.jpg?w=942&h=623&crop=1" width="640" height="427" style="aspect-ratio:3/2;" alt="AmbrÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â© - 3Peat" />
+</div> <!-- YouTube Video Embed -->
+<div > {{< youtube "RySsFPbsleI" >}}
+</div> <!-- Song Information -->
+<div > <p>"3Peat" by AmbrÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â© is a smooth and evocative alternative R&B track, highlighting her distinct sound and emotive lyricism. Released on September 27, 2019, under Roc Nation Records, LLC, the track is featured on her critically acclaimed album *3000ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â°*.</p>
+</div> <!-- Footer Links -->
+<div > <p>For more updates and playlists, visit <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Connect with us on <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p>
+</div> <!-- Tags -->
+<p >Tags: @ambre,</p>
+
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @ambrÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â©,</p>
+
+---
+title: "ari lennox 12 songs"
+layout: post
+---
+<h2>BigBanonos' 13 Favorite Songs by Ari Lennox</h2> <p>BigBanonos presents a collection of top songs from Ari Lennox, shea buttery ass songs with soul. BigBanonos' Favorite Songs by Ari Lennox, last updated April 22, 2025 with her newest single, highlighted in the official video and playlist below:</p> {{< youtube "jd53_HiTRBY" >}} <ol> <li><strong>[New Single]</strong> - Official Video (April 22, 2025)</li> <li><strong>Stop By</strong> - Album: <em>age/sex/location</em> (September 9, 2022)</li> <li><strong>Outside</strong> - Album: <em>age/sex/location</em> (September 9, 2022)</li> <li><strong>Pressure</strong> - Album: <em>Pressure</em> (September 10, 2021)</li> <li><strong>Up Late</strong> - Album: <em>Shea Butter Baby</em> (May 7, 2019)</li> <li><strong>BMO</strong> - Album: <em>Shea Butter Baby</em> (May 7, 2019)</li> <li><strong>Yuengling</strong> - Album: <em>PHO EP (Deluxe)</em> (October 21, 2016)</li> <li><strong>Night Drive</strong> - Album: <em>PHO EP (Deluxe)</em> (October 21, 2016)</li> <li><strong>Backseat</strong> - Album: <em>PHO EP (Deluxe)</em> (October 21, 2016)</li> <li><strong>BMO (feat. Doja Cat) - Remix</strong> - Album: <em>Shea Butter Baby</em> (March 27, 2020)</li> <li><strong>Broke (feat. JID)</strong> - Album: <em>Shea Butter Baby</em> (May 7, 2019)</li> <li><strong>Boy Bye (feat. Lucky Daye)</strong> - Album: <em>age/sex/location</em> (September 9, 2022)</li> <li><strong>I Been (with Smino) - Remix</strong> - Album: <em>Shea Butter Baby</em> (March 27, 2020)</li>
+</ol> <img alt="Ari Lennox - Top Songs" src="https://www.billboard.com/wp-content/uploads/media/ari-lennox-bmo-vid-2019-billboard-1548.jpg?w=1024" /> <div> {{< youtube "embed" >}}
+</div> <p>DonÃ¢â‚¬â„¢t forget to check out BigBanonos on YouTube for more curated music content, especially those tracks <strong>#NotOnSpotify</strong>!</p>
+<p><a href="https://www.youtube.com/@BigBanonos">BigBanonos YouTube Channel</a></p> <hr /> <p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p> <p>@arilennox</p>
+
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @dojacat,@arilennox,@jid,@smino,@luckydaye,</p>
+
+---
+title: "bad bunny 5 songs"
+layout: post
+---
+<!-- Bad Bunny -->
+<h2 >BigBanonos' Favorite 6 Songs by Bad Bunny</h2> <!-- Introductory Text -->
+<p >Bad Bunny continues to redefine the global music scene with his genre-blending sounds and infectious energy. <em>BigBanonos' Favorite 6 Songs by Bad Bunny, Last updated January 5, 2025, with Ã¢â‚¬Å“DtMFÃ¢â‚¬Â from <em>DeBiTiRar Mas Fotos</em>, highlighted in the playlist below:</em></p> <!-- Featured Image -->
+<div > {{< img-lite src="https://www.billboard.com/wp-content/uploads/2023/10/bad-bunny-press-2023-billboard-1548.jpg" alt="Bad Bunny Press 2023" >}}
+</div> <!-- Spotify Playlist Embed -->
+<div > {{< youtube "embed" >}}
+</div> <!-- Song List -->
+<h4>Top Songs:</h4>
+<ol> <li><strong>DtMF</strong> - Album: <em>DeBiTiRar Mas Fotos</em> (2025-01-05)</li> <li><strong>Moscow Mule</strong> - Album: <em>Un Verano Sin Ti</em> (2022-05-06) | Rimas Entertainment LLC</li> <li><strong>Andrea</strong> (with Buscabulla) - Album: <em>Un Verano Sin Ti</em> (2022-05-06) | Rimas Entertainment LLC</li> <li><strong>Yonaguni</strong> - Album: <em>Yonaguni</em> (2021-06-04) | Rimas Entertainment LLC</li> <li><strong>SORRY PAPI</strong> (with ABRA) - Album: <em>EL ÃƒÆ’Ã†â€™Ãƒâ€¦Ã‚Â¡LTIMO TOUR DEL MUNDO</em> (2020-11-27) | Rimas Entertainment LLC</li> <li><strong>Vete</strong> - Album: <em>Vete</em> (2019-11-21) | Rimas Entertainment LLC</li>
+</ol> <!-- YouTube Video Embed -->
+<h4>Watch the video for "DtMF":</h4>
+<div > {{< youtube "ES60TsyqrAA" >}}
+</div> <!-- Footer Links -->
+<hr />
+<p >For more updates, visit <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_blank">BigBanonos</a>. Also, check out our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> channel and follow us on <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a> for exclusive content!</p>
+
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @badbunny,</p>
+
+---
+title: "banks 7 songs"
+layout: post
+---
+<h2>BigBanonos' Top 8 Favorite Songs by BANKS</h2> <!--Search Description-->
+<p>BigBanonosÃ¢â‚¬â„¢ top 8 favorite songs by BANKS, showcasing her best in art pop, electropop, and shimmer pop. Last updated December 13, 2023, with the acoustic version of "Begging For Thread," highlighted in the playlist below:</p> <!--Spotify Playlist Embed-->
+{{< youtube "embed" >}} <!--Song List with Album Info-->
+<ul> <li><strong>Begging For Thread (Acoustic)</strong> Ã¢â‚¬â€œ <em>Goddess Unplugged</em> Ã¢â‚¬â€œ Released December 13, 2023 Ã¢â‚¬â€œ Genre: art pop, shimmer pop</li> <li><strong>Misunderstood</strong> Ã¢â‚¬â€œ <em>Serpentina</em> Ã¢â‚¬â€œ Released April 8, 2022 Ã¢â‚¬â€œ Genre: art pop, electropop, indie poptimism</li> <li><strong>Fuck Love</strong> Ã¢â‚¬â€œ <em>Serpentina</em> Ã¢â‚¬â€œ Released April 8, 2022 Ã¢â‚¬â€œ Genre: art pop, electropop, indie poptimism</li> <li><strong>Holding Back</strong> Ã¢â‚¬â€œ <em>Serpentina</em> Ã¢â‚¬â€œ Released April 8, 2022 Ã¢â‚¬â€œ Genre: art pop, electropop, shimmer pop</li> <li><strong>Skinnydipped</strong> Ã¢â‚¬â€œ <em>Serpentina</em> Ã¢â‚¬â€œ Released April 8, 2022 Ã¢â‚¬â€œ Genre: art pop, shimmer pop</li> <li><strong>Underdog</strong> Ã¢â‚¬â€œ <em>Underdog</em> Ã¢â‚¬â€œ Released September 28, 2017 Ã¢â‚¬â€œ Genre: electropop, shimmer pop</li> <li><strong>Fuck With Myself</strong> Ã¢â‚¬â€œ <em>Fuck With Myself</em> Ã¢â‚¬â€œ Released July 13, 2016 Ã¢â‚¬â€œ Genre: electropop, indietronica</li> <li><strong>Warm Water</strong> Ã¢â‚¬â€œ <em>Featuring Snakehips</em> Ã¢â‚¬â€œ Released August 13, 2013 Ã¢â‚¬â€œ Genre: electropop, indietronica</li>
+</ul> <!--Image and Links-->
+<img alt="BANKS Performing" height="auto" src="https://www.billboard.com/wp-content/uploads/media/Banks-bb13-2019-beat-billboard-rmckotfs-1500.jpg" width="100%" /> <p>Watch the official acoustic version of "Begging For Thread":</p>
+{{< youtube "2XbHx3jYHLQ" >}} <!--Tags Section-->
+<h3>Explore more of BANKS' unique blend of indie poptimism, art pop, and shimmer pop on <a href="https://bigbanonos.blogspot.com/">BigBanonos</a>. Subscribe to the <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos YouTube Channel</a> for exclusive playlists and songs <strong>#NotOnSpotify</strong>, and follow the <a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist</a>.</h3>
+
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @snakehips,@banks,</p>
+
+---
+title: "beabadoobee 4 songs"
+layout: post
+---
+<h2>BigBanonos' Top 4 Favorite Tracks by beabadoobee</h2> <!--Search Description-->
+<p>BigBanonos' top 4 favorite tracks by beabadoobee, featuring her signature blend of bedroom pop and bubblegrunge. Last updated July 18, 2023, with "the way things go" from <em>Dirty Hit</em>, highlighted in the playlist below:</p> <!--Spotify Playlist Embed-->
+{{< youtube "embed" >}} <!--Song List with Album Info-->
+<ul> <li><strong>the way things go</strong> Ã¢â‚¬â€œ <em>the way things go</em> Ã¢â‚¬â€œ Released July 18, 2023 Ã¢â‚¬â€œ Genre: bedroom pop, bubblegrunge</li> <li><strong>Glue Song (feat. <a href="https://bigbanonos.blogspot.com/2019/05/clairo.html" target="_blank">Clairo</a>)</strong> Ã¢â‚¬â€œ Released April 17, 2023 Ã¢â‚¬â€œ Genre: bedroom pop, bubblegrunge</li> <li><strong>If You Want To</strong> Ã¢â‚¬â€œ <em>Patched Up</em> Ã¢â‚¬â€œ Released December 7, 2018 Ã¢â‚¬â€œ Genre: bedroom pop, bubblegrunge</li> <li><strong>Coffee</strong> Ã¢â‚¬â€œ <em>Coffee</em> Ã¢â‚¬â€œ Released November 4, 2017 Ã¢â‚¬â€œ Genre: bedroom pop, bubblegrunge</li>
+</ul> <!--Image-->
+<img alt="beabadoobee Performing" height="auto" src="https://www.billboard.com/wp-content/uploads/2023/11/beabadoobee-camp-flog-gnaw-2023-billboard-1548.jpg?w=1024" width="100%" /> <!--Related Links-->
+<p>For fans of bubblegrunge and indie pop, be sure to check out BigBanonos' <a href="https://bigbanonos.blogspot.com/2019/05/clairo.html" target="_blank">favorite 14 songs by Clairo</a>, another indie sensation.</p> <!--Additional Links-->
+<p>Explore more bedroom pop and indie pop on <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> for exclusive tracks and the best songs <strong>#NotOnSpotify</strong>. You can also check out our curated <a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">#NotOnSpotify Playlist</a>.</p>
+
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @clairo,@beabadoobee,</p>
+
+---
+title: "bo burnham 2 songs"
+layout: post
+---
+<h2>BigBanonos' 2 Favorite Songs by Bo Burnham</h2> <!--Search Description-->
+<p>BigBanonos' favorite Bo Burnham songs highlight his unique blend of comedy and indie perspective, bringing humor to hip hop and pop.</p> <!--Spotify Playlist Embed-->
+{{< youtube "embed" >}} <!--Song Listings-->
+<ul> <li>Microwave Popcorn - <em>INSIDE (DELUXE)</em> (Bo Burnham, 2022-06-03)</li> <li>Feel Good - <em>THE INSIDE OUTTAKES</em> (Bo Burnham, 2022-06-02)</li>
+</ul> <!--Image Placeholder for Bo Burnham-->
+<img alt="Bo Burnham Image" src="https://www.billboard.com/wp-content/uploads/2021/06/Bo-Burnham-jan-2020-billboard-1548-1623695910.jpg?w=1024" width="100%" /> <!--Tags Section-->
+<h3>For more comic tunes and unique indie perspectives, check out <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>.</h3>
+
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @boburnham,</p>
+
 ---
 title: "boyskout"
 layout: post
@@ -5,7 +1250,7 @@ layout: post
 <!-- Post Title -->
 <h1 >BigBanonos' Favorite Song by Boyskout</h1> <!-- Introductory Text -->
 <p >Updated in 2004 with BigBanonos' favorite track by Boyskout, "Secrets." Featured on the album *School Of Etiquette* by Alive Records, this 2:23-long track is a standout in the queercore and riot grrrl genres. Watch the video and see more details below:</p> <!-- Featured Image -->
-<div > <img src="https://www.billboard.com/wp-content/uploads/media/BOL4-press-2019-cr-rie-billboard-1548.jpg" alt="Boyskout - Secrets" />
+<div > <img src="https://www.billboard.com/wp-content/uploads/media/BOL4-press-2019-cr-rie-billboard-1548.jpg" width="640" height="427" style="aspect-ratio:3/2;" alt="Boyskout - Secrets" />
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "tB1yUFBUmgU" >}}
 </div> <!-- Song Information -->
@@ -26,3 +1271,1164 @@ layout: post
 <p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
 
 <p>tags: @boyskout,</p>
+
+---
+title: "buckcherry"
+layout: post
+---
+<!-- Title of the Post -->
+<h1 >BigBanonos Favorite Song by Buckcherry: "For The Movies"</h1> <!-- Introductory Text -->
+<p >Updated January 1, 1999, with "For The Movies" by Buckcherry. This heartfelt ballad from their self-titled debut album showcases the band's blend of hard rock and glam metal, delivering raw emotion and powerful melodies. Watch the video below!</p> <!-- Featured Image -->
+<div > <img src="https://www.billboard.com/wp-content/uploads/media/buckcherry-2019-press-billboard-1548.jpg" width="640" height="427" style="aspect-ratio:3/2;" alt="Buckcherry - For The Movies" />
+</div> <!-- YouTube Video Embed -->
+<div > {{< youtube "7Abr1z5hOHQ" >}}
+</div> <!-- Song Information -->
+<div > <p><em>"For The Movies"</em>, from BuckcherryÃ¢â‚¬â„¢s self-titled debut album, released under DreamWorks in 1999, is a standout track in the hard rock and glam metal genres. Its poignant lyrics and captivating melody continue to resonate with fans of sleaze rock and post-grunge.</p>
+</div> <!-- Footer Links -->
+<div > <p>For more updates, visit <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Also, check out our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a> channels for more exclusive content!</p>
+</div> <!-- Tags -->
+<p >Tags: @buckcherry,</p>
+
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @buckcherry,</p>
+
+---
+title: "calboy"
+layout: post
+---
+<!-- Post Title -->
+<h1 >BigBanonos' Favorite Song by Calboy, Meek Mill, and Lil Durk</h1> <!-- Introductory Text -->
+<p >Updated August 16, 2019, with BigBanonos' favorite track, "Chariot" by Calboy featuring Meek Mill and Lil Durk. This dynamic collaboration blends melodic rap with high-energy beats, showcasing the best of Chicago, Philly, and Southern hip hop scenes.</p> <!-- Featured Image -->
+<div > <img src="https://www.billboard.com/wp-content/uploads/media/Calboy-bb03-2019-chartbreaker-billboard-cdnjirtiu-1500.jpg" width="640" height="427" style="aspect-ratio:3/2;" alt="Calboy - Chariot" />
+</div> <!-- YouTube Video Embed -->
+<div > {{< youtube "Ylf3MSDbssM" >}}
+</div> <!-- Song Information -->
+<div > <p>"Chariot" by Calboy, featuring Meek Mill and Lil Durk, is from the album *Chariot*, released on August 16, 2019, under Polo Grounds Music/RCA Records. This track seamlessly combines melodic rap, Chicago drill, and Philly rap influences for an unforgettable listening experience.</p>
+</div> <!-- Footer Links -->
+<div > <p>For more updates and playlists, visit <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Connect with us on <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p>
+</div> <!-- Tags -->
+<p >Tags: @calboy,@meekmill,@lildurk,</p>
+
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @lildurk,@calboy,@meekmill,</p>
+
+---
+title: "camilo 1 song"
+layout: post
+---
+<h2>BigBanonos' Favorite Songs by Camilo</h2> <!--Search Description-->
+<p>Explore BigBanonos' favorite songs by Camilo, featuring popular Colombian and Latin pop hits. Listen to the playlist below and dive into these vibrant tracks that capture the essence of Latin music.</p> <!--Spotify Playlist Embed-->
+{{< youtube "embed" >}} <!--Song Listings-->
+<ul> <li>KESI - <em>Mis Manos</em> - Sony Music Latin - 2021-03-04</li> <li>Tutu (feat. Pedro CapÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â³) - <em>Tutu</em> - Sony Music Latin - 2019-08-09</li>
+</ul>
+{{< youtube "ZrUrwUwSHR0" >}}<div><br />
+{{< youtube "videoseries" >}}
+<!--Image-->
+<img alt="Camilo" src="https://www.billboard.com/wp-content/uploads/2022/09/bb-cover-feature-camilo-billboard-2022-david-needleman-01-1260.jpg?w=1260&h=840&crop=1" />
+
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @camilo,</p>
+
+---
+title: "cardi b 7 songs"
+layout: post
+---
+<h3><strong>BigBanonos' Top 7 Cardi B Songs</strong></h3>
+<p>Updated March 15, 2024 with <i>"Enough (Miami)"</i></p> <ol> <li> <p>"Enough (Miami)"<br /> Album: <em>Enough (Miami)</em><br /> Release Date: March 15, 2024<br /> Label: Atlantic Records<br /> Genres: Pop, Hip Hop</p> </li> <li> <p>"Bongos" (feat. Megan Thee Stallion)<br /> Album: <em>Bongos (feat. Megan Thee Stallion)</em><br /> Release Date: September 8, 2023<br /> Label: Atlantic Records<br /> Genres: Hip Hop, Pop, R&B</p> </li> <li> <p>"Bet It" - from the <em>Bruised</em> Soundtrack<br /> Album: <em>Bruised (Soundtrack From and Inspired by the Netflix Film)</em><br /> Release Date: November 19, 2021<br /> Label: Warner Records/Saloon Music/BPG/Roc Nation Records<br /> Genres: Pop, Hip Hop</p> </li> <li> <p>"Up"<br /> Album: <em>Up</em><br /> Release Date: February 5, 2021<br /> Label: Atlantic Records<br /> Genres: Pop, Hip Hop</p> </li> <li> <p>"WAP" (feat. Megan Thee Stallion)<br /> Album: <em>WAP (feat. Megan Thee Stallion)</em><br /> Release Date: August 7, 2020<br /> Label: Atlantic/KSR<br /> Genres: Hip Hop, Pop, R&B</p> </li> <li> <p>"Money"<br /> Album: <em>Money</em><br /> Release Date: October 23, 2018<br /> Label: Atlantic/KSR<br /> Genres: Pop, Hip Hop</p> </li> <li> <p>"Bodak Yellow" (feat. Kodak Black)<br /> Album: <em>Bodak Yellow (feat. Kodak Black)</em><br /> Release Date: September 18, 2017<br /> Label: KSR/Atlantic<br /> Genres: Hip Hop, Pop, Latin</p> </li>
+</ol> {{< youtube "embed" >}} <div class="separator"> <a href="https://www.billboard.com/wp-content/uploads/2024/06/cardi-b-bet-experience-2024-billboard-1548.jpg?w=942&h=623&crop=1" > <img alt="" border="0" data-original-height="623" data-original-width="942" src="https://www.billboard.com/wp-content/uploads/2024/06/cardi-b-bet-experience-2024-billboard-1548.jpg?w=942&h=623&crop=1" width="320" /> </a>
+</div>
+
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @bruise,@cardib,@megantheestallion,@kodakblack,</p>
+
+---
+title: "caroline polachek 10 songs"
+layout: post
+---
+<h2>BigBanonos' Top 10 Favorite Songs by Caroline Polachek</h2> <!-- Search Description -->
+<p>Explore BigBanonos' top picks from Caroline Polachek, showcasing her unique art pop and indietronica style. Dive into the playlist to experience these favorites from her recent and classic albums.</p> <!-- Spotify Playlist Embed -->
+{{< youtube "embed" >}} <!-- Song Listings -->
+<ul> <li><strong>Dang</strong> - <em>Dang</em> - Perpetual Novice - 2023-10-17</li> <li><strong>Pretty In Possible</strong> - <em>Desire, I Want To Turn Into You</em> - Perpetual Novice - 2023-02-14</li> <li><strong>Crude Drawing Of An Angel</strong> - <em>Desire, I Want To Turn Into You</em> - Perpetual Novice - 2023-02-14</li> <li><strong>Smoke</strong> - <em>Desire, I Want To Turn Into You</em> - Perpetual Novice - 2023-02-14</li> <li><strong>Billions</strong> - <em>Billions</em> - Perpetual Novice - 2022-02-09</li> <li><strong>Look At Me Now</strong> - <em>Pang</em> - Perpetual Novice - 2019-10-18</li> <li><strong>So Hot You're Hurting My Feelings</strong> - <em>So Hot You're Hurting My Feelings</em> - Columbia - 2019-09-16</li> <li><strong>Ocean of Tears</strong> - <em>Ocean of Tears</em> - Columbia - 2019-07-24</li> <li><strong>Parachute</strong> - <em>Parachute</em> - Columbia - 2019-07-22</li> <li><strong>Door</strong> - <em>Door</em> - Columbia - 2019-06-19</li>
+</ul> <!-- Image -->
+<img src="https://www.billboard.com/wp-content/uploads/media/Caroline-Polachek-bb20-2019-feat-billboard-obotrno-1500.jpg" width="640" height="427" style="aspect-ratio:3/2;" alt="Caroline Polachek"/>
+
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @carolinepolachek,</p>
+
+---
+title: "cherub"
+layout: post
+---
+<!-- Post Title -->
+<h1 >BigBanonos' Favorite Song by Cherub</h1> <!-- Introductory Text -->
+<p >Updated December 9, 2014, with BigBanonos' favorite track, "Sucker for Love" by Cherub. This funky jam is a highlight from their album *Leftovers*.</p> <!-- Featured Image -->
+<div > <img src="https://www.billboard.com/wp-content/uploads/media/Cherub-hot-100-fest-portraits-2017-billboard-1548.jpg" width="640" height="427" style="aspect-ratio:3/2;" alt="Cherub - Sucker for Love" />
+</div> <!-- YouTube Video Embed -->
+<div > {{< youtube "aoUfpBYg4Ac" >}}
+</div> <!-- Song Information -->
+<div > <p>"Sucker for Love," released on December 9, 2014, showcases CherubÃ¢â‚¬â„¢s signature electro-funk vibe. This track is a standout from their *Leftovers* album, distributed by Columbia Records.</p>
+</div> <!-- Footer Links -->
+<div > <p>For more updates and playlists, visit <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Connect with us on <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p>
+</div> <!-- Tags -->
+<p >Tags: @cherub,</p>
+
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @cherub,</p>
+
+---
+title: "chuck berry"
+layout: post
+---
+<!-- Title of the Post -->
+<h1 >BigBanonosÃ¢â‚¬â„¢ Favorite Songs by Chuck Berry</h1> <!-- Featured Image -->
+<div > {{< img-lite src="https://www.billboard.com/wp-content/uploads/media/01-Chuck-Berry-performs-Saint-Louis-bb8-2017-a-billboard-1548.jpg?w=1024" alt="Chuck Berry" >}}
+</div> <!-- Spotify Embed -->
+<div > {{< youtube "embed" >}}
+</div> <!-- Introductory Text -->
+<p >Chuck Berry, a pioneer of rock-and-roll, captivates audiences with timeless tracks like "Little Queenie." Here are BigBanonos' top picks from the trailblazing legend.</p> <!-- Song Highlights -->
+<div > <p>BigBanonos' standout picks:</p> <ol> <li><strong>Little Queenie</strong> | <em>Berry Is On Top</em> | Released: July 1, 1959 | Geffen</li> </ol>
+</div> <!-- Footer Links -->
+<div > <p>Explore rock-and-roll history at <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Stay updated with timeless music recommendations on <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p>
+</div> <!-- Tags -->
+<p >Tags: @chuckberry</p>
+
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @chuckberry,</p>
+
+---
+title: "chuck jackson"
+layout: post
+---
+<!-- Post Title -->
+<h1 >BigBanonos' Favorite Song by Chuck Jackson</h1> <!-- Introductory Text -->
+<p >Updated 1964 with BigBanonos' favorite track, "Any Other Way" by Chuck Jackson. This timeless northern soul classic captures the heart of rhythm and blues.</p> <!-- Featured Image -->
+<div > <img src="https://www.billboard.com/wp-content/uploads/2023/02/Chuck-Jackson-2008-billboard-1548.jpg?w=942&h=623&crop=1" width="640" height="427" style="aspect-ratio:3/2;" alt="Chuck Jackson - Any Other Way" />
+</div> <!-- YouTube Video Embed -->
+<div > {{< youtube "u_WZ17Ae-VY" >}}
+</div> <!-- Song Information -->
+<div > <p>"Any Other Way" is featured on Chuck Jackson's *28 Big Ones* compilation, released by Wand Records in 1964. The track blends northern soul with elements of southern soul, making it a standout in rhythm and blues history.</p>
+</div> <!-- Footer Links -->
+<div > <p>For more updates and playlists, visit <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Connect with us on <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p>
+</div> <!-- Tags -->
+<p >Tags: @chuckjackson,</p>
+
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @chuckjackson,</p>
+
+---
+title: "clean bandit jess glynne"
+layout: post
+---
+<!-- Post Title -->
+<h1 >BigBanonos' Favorite Song by Clean Bandit & Jess Glynne</h1> <!-- Introductory Text -->
+<p >Updated in 2015 with BigBanonos' favorite track, "Rather Be" by Clean Bandit featuring Jess Glynne. A timeless hit blending dance pop and UK funky sounds.</p> <!-- Featured Image -->
+<div > <img src="https://www.billboard.com/wp-content/uploads/media/02-Clean-Bandit-press-photo-cr-Rita-Zimmermann-a-2017-billboard-1548.jpg" width="640" height="427" style="aspect-ratio:3/2;" alt="Clean Bandit - Rather Be" />
+</div> <!-- YouTube Video Embed -->
+<div > {{< youtube "m-M1AtrxztU" >}}
+</div> <!-- Song Information -->
+<div > <p>"Rather Be," featuring the incredible Jess Glynne, was released by Clean Bandit under Atlantic Records UK. Known for its captivating fusion of pop, electronic, and UK dance elements, the track remains a global anthem and a signature tune for the duo.</p>
+</div> <!-- Footer Links -->
+<div > <p>For more updates and playlists, visit <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Connect with us on <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p>
+</div> <!-- Tags -->
+<p >Tags: @cleanbandit,@jessglynne,</p>
+
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @cleanbandit,@jessglynne,</p>
+
+---
+title: "collie buddz"
+layout: post
+---
+<!-- Post Title -->
+<h1 >BigBanonos' Favorite Song by Collie Buddz</h1> <!-- Introductory Text -->
+<p >Updated July 2, 2007, with BigBanonos' favorite track, "My Everything" by Collie Buddz. A timeless dancehall-reggae fusion hit from his self-titled debut album that continues to resonate worldwide.</p> <!-- Featured Image -->
+<div > <img src="https://www.billboard.com/wp-content/uploads/media/collie-buddz-2019-cr-Phil-Emerson-billboard-1548.jpg" width="640" height="427" style="aspect-ratio:3/2;" alt="Collie Buddz - My Everything" />
+</div> <!-- YouTube Video Embed -->
+<div > {{< youtube "Oh_2ipocjnc" >}}
+</div> <!-- Song Information -->
+<div > <p>"My Everything" is a standout track from Collie Buddz's debut album, released under Columbia Records. This smooth blend of dancehall and reggae fusion showcases Buddz's unique voice and signature island vibe.</p>
+</div> <!-- Footer Links -->
+<div > <p>For more updates and playlists, visit <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Connect with us on <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p>
+</div> <!-- Tags -->
+<p >Tags: @colliebuddz,</p>
+
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @colliebuddz,</p>
+
+---
+title: "cut copy free your mind"
+layout: post
+---
+<img src="https://www.billboard.com/wp-content/uploads/media/cut-copy-press-2013-650-430.jpg?w=650" width="640" height="427" style="aspect-ratio:3/2;" width="100%" /> <h2>BigBanonos' Favorite Songs by Cut Copy</h2> <p>Updated July 18, 2014, with "Free Your Mind" from <em>Free Your Mind (Deluxe)</em>. Highlights and #NotOnSpotify picks below:</p> {{< youtube "embed" >}} <hr /> <h3>Full Song List</h3> <ul>
+<li><strong>"Free Your Mind"</strong> (2014, <em>Free Your Mind (Deluxe)</em>) - Released July 18, 2014, under Modular. A euphoric dancefloor anthem that solidified Cut Copy's status in the electronic indie scene.</li>
+<li><strong>"Take Me Over"</strong> (2011, <em>Zonoscope</em>) - Released January 1, 2011, under Modular. A tropical, new wave-inspired track with infectious grooves and a hypnotic beat.</li>
+</ul> <hr /> <h3>Band Info</h3> <p><strong>Cut Copy</strong> Ã¢â‚¬â€œ One of the leading acts in indie electronic music, Cut Copy seamlessly blends synth-pop, dance-punk, and alternative dance influences. Hailing from Australia, their lush, dreamy production and infectious melodies have made them a staple of the indie dance scene.</p> <hr /> <div> <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p> <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p>
+</div> <hr /> <p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p> <!-- Tags -->
+<p>@cutcopy</p>
+
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @cutcopy,</p>
+
+---
+title: "dizzy fae 3 songs"
+layout: post
+---
+<h3><em>BigBanonos</em> Favorite Songs by Dizzy Fae:</h3> <p>Updated on July 8, 2021, with the standout Ying Yang Twins remix of Ã¢â‚¬Å“Body Move.Ã¢â‚¬Â BigBanonosÃ¢â‚¬â„¢ top tracks by Dizzy Fae highlight her unique alternative R&B style mixed with Minneapolis indie vibes.</p> <!--Image-->
+<div class="separator"> <a href="https://www.billboard.com/wp-content/uploads/media/dizzy-fae-bb-pride-2019-u-billboard-fea-1500.jpg" > <img alt="Dizzy Fae" src="https://www.billboard.com/wp-content/uploads/media/dizzy-fae-bb-pride-2019-u-billboard-fea-1500.jpg" /> </a>
+</div> <!--Spotify Playlist Embed-->
+{{< youtube "embed" >}} <!--Song Listings-->
+<ol> <li><strong>Body Move (Ying Yang Twins Remix)</strong> Ã¢â‚¬Â <em>Body Move (Ying Yang Twins Remix)</em> Ã¢â‚¬Â July 8, 2021</li> <li><strong>Company</strong> Ã¢â‚¬Â <em>Company</em> Ã¢â‚¬Â June 14, 2019</li> <li><strong>Baby Pillz</strong> Ã¢â‚¬Â <em>Free Form Mixtape</em> Ã¢â‚¬Â February 2, 2018</li>
+</ol> <!--Subscribe and Playlist Links-->
+<div> {{< youtube "zTxoHWBT_SQ" >}}</div><h2><ol> <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p> <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist</a></p></div> <hr /> <p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @yingyangtwins,@dizzyfae,</p>
+
+---
+title: "dobie gray"
+layout: post
+---
+<!-- Post Title -->
+<h1 >BigBanonos' Favorite Song by Dobie Gray</h1> <!-- Introductory Text -->
+<p >Updated January 1, 2000, with "Soul Days" by Dobie Gray. Released as part of *Soul Days* from *LocoBop Records*, this northern soul classic showcases Gray's unmistakable vocal charisma and timeless style.</p> <!-- Featured Image -->
+<div > <img src="https://www.billboard.com/wp-content/uploads/stylus/1363309-dobie-gray-obit-617-409.jpg?w=617" width="640" height="427" style="aspect-ratio:3/2;" alt="Dobie Gray - Soul Days" />
+</div> <!-- YouTube Video Embed -->
+<div > {{< youtube "weverNwNRMk" >}}
+</div> <!-- Song Information -->
+<div > <p>"Soul Days" is a nostalgic journey through the golden era of northern soul. Dobie Gray's passionate delivery and soulful artistry make this track a standout in his remarkable discography.</p>
+</div> <!-- Footer Links -->
+<div > <p>Discover more favorites at <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Explore our playlists on <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and follow us on <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p>
+</div> <!-- Tags -->
+<p >Tags: @dobiegray,</p>
+
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @dobiegray,</p>
+
+---
+title: "doe boy 3 songs"
+layout: post
+---
+<h3><em>BigBanonos</em> Favorite Songs by Doe Boy:</h3> <p>Updated on June 9, 2023, with Ã¢â‚¬Å“KARDASHIANS (feat. Lil Yachty & Luh Tyler).Ã¢â‚¬Â BigBanonos highlights Doe BoyÃ¢â‚¬â„¢s top tracks, showcasing his unique blend of ATL hip hop, trap, and Ohio hip hop vibes.</p> <!--Image-->
+<div class="separator"> <a href="https://www.billboard.com/wp-content/uploads/2020/10/Doe-Boy-cr-Anthony-Hillard-2020-billboard-1548-1602009555.jpg" > <img alt="Doe Boy" src="https://www.billboard.com/wp-content/uploads/2020/10/Doe-Boy-cr-Anthony-Hillard-2020-billboard-1548-1602009555.jpg" /> </a>
+</div> <!--Spotify Playlist Embed-->
+{{< youtube "embed" >}} <!--Song Listings-->
+<ol> <li><strong>KARDASHIANS (feat. Lil Yachty & Luh Tyler)</strong> Ã¢â‚¬Â <em>BEEZY</em> Ã¢â‚¬Â June 9, 2023</li> <li><strong>ROLL THE DICE (feat. DeJ Loaf)</strong> Ã¢â‚¬Â <em>ROLL THE DICE (feat. DeJ Loaf)</em> Ã¢â‚¬Â April 14, 2023</li> <li><strong>Walk Down (feat. YG)</strong> Ã¢â‚¬Â <em>Streetz Need Me 2</em> Ã¢â‚¬Â December 20, 2019</li>
+</ol> <!--Subscribe and Playlist Links-->
+<div> <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p> <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist</a></p></div> <hr /> <p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @luhtyler,@lilyachty,@doeboy,@dejloaf,@yg,</p>
+
+---
+title: "fifth harmony tyga"
+layout: post
+---
+<!-- Post Title -->
+<h1 >BigBanonos' Favorite Song by Fifth Harmony & Tyga</h1> <!-- Introductory Text -->
+<p >Updated January 30, 2015, with "Like Mariah" by Fifth Harmony featuring Tyga. This smooth and playful track pays homage to Mariah Carey's legendary style while showcasing Fifth Harmony's vocal talent and Tyga's dynamic energy.</p> <!-- Featured Image -->
+<div > <img src="https://www.billboard.com/wp-content/uploads/media/fifth-harmony-kiss-fm-2015-billboard-650.jpg?w=650" width="640" height="427" style="aspect-ratio:3/2;" alt="Fifth Harmony - Like Mariah" />
+</div> <!-- YouTube Video Embed -->
+<div > {{< youtube "mffI6dqtXCU" >}}
+</div> <!-- Song Information -->
+<div > <p><em>"Like Mariah"</em> is a standout track from Fifth Harmony's *Reflection (Deluxe)* album, blending pop harmonies and hip hop vibes for an irresistible anthem.</p>
+</div> <!-- Footer Links -->
+<div > <p>Discover more favorites at <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Explore our playlists on <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and follow us on <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p>
+</div> <!-- Tags -->
+<p >Tags: @fifthharmony,@tyga,</p>
+
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @fifthharmony,@tyga,</p>
+
+---
+title: "gallant"
+layout: post
+---
+<!-- Post Title -->
+<h1 >BigBanonos' Favorite Tracks: Gallant x A$AP Ferg - "Doesn't Matter (Remix)"</h1> <!-- Introductory Text -->
+<p >Updated June 18, 2018, with "Doesn't Matter (Remix)" featuring A$AP Ferg. This remix elevates Gallant's original alternative R&B hit with a dynamic hip-hop verse by A$AP Ferg, blending soulful vocals and rhythmic intensity.</p> <!-- Featured Image -->
+<div > <img src="https://www.billboard.com/wp-content/uploads/media/gallant-asap-ferg-doesnt-matter-remix-MV-vid-2018-billboard-1548.jpg?w=942&h=623&crop=1" width="640" height="427" style="aspect-ratio:3/2;" alt="Gallant x A$AP Ferg - Doesn't Matter Remix" />
+</div> <!-- YouTube Video Embed -->
+<div > {{< youtube "XFpGQfa7OAs" >}}
+</div>
+<div > {{< youtube "-e-xXN-tcFU" >}}
+</div>
+<!-- Song Information -->
+<div > <p><em>"Doesn't Matter (Remix)"</em> pairs Gallant's emotive falsetto and alternative R&B style with A$AP Ferg's hard-hitting rap delivery. Released on June 18, 2018, under Mind of a Genius/Warner Records, this collaboration perfectly fuses genres, creating a track that resonates with fans of both R&B and hip-hop.</p>
+</div> <!-- Footer Links -->
+<div > <p>Discover more dynamic collaborations at <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Watch our curated playlists on <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and follow us on <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p>
+</div> <!-- Tags -->
+<p >Tags: @gallant,@asapferg,</p>
+
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @gallant,@asapferg,</p>
+
+---
+title: "girl talk top mashups"
+layout: post
+---
+<h3>BigBanonos Top Mashups: Girl Talk</h3>
+<div class="separator"> <a href="https://www.billboard.com/wp-content/uploads/2020/04/girl-talk-press-2020-cr-joey-kennedy-billboard-1548-1588100233.jpg?w=1024" > <img alt="Girl Talk" border="0" height="350" src="https://www.billboard.com/wp-content/uploads/2020/04/girl-talk-press-2020-cr-joey-kennedy-billboard-1548-1588100233.jpg?w=1024" /> </a>
+</div> <p>Experience the best mashups from <em>BigBanonos</em> favorite tracks by Girl Talk. This playlist is a journey through his most iconic mixes, blending genres and generations. HereÃ¢â‚¬â„¢s a look at top mashups from Girl Talk's career:</p> <ol> <li><strong>Boss Chick</strong> Ã¢â‚¬Â <em>June 14, 2021</em> Ã¢â‚¬Â Album: Boss Chick | Label: KGM Entertainment</li> <li><strong>Once Again</strong> Ã¢â‚¬Â <em>May 9, 2006</em> Ã¢â‚¬Â Album: Night Ripper | Label: Illegal Art | Genre: mashup, pittsburgh indie</li> <li><strong>That's My DJ</strong> Ã¢â‚¬Â <em>May 9, 2006</em> Ã¢â‚¬Â Album: Night Ripper | Label: Illegal Art | Genre: mashup, pittsburgh indie</li> <li><strong>Hold Up</strong> Ã¢â‚¬Â <em>May 9, 2006</em> Ã¢â‚¬Â Album: Night Ripper | Label: Illegal Art | Genre: mashup, pittsburgh indie</li> <li><strong>Too Deep</strong> Ã¢â‚¬Â <em>May 9, 2006</em> Ã¢â‚¬Â Album: Night Ripper | Label: Illegal Art | Genre: mashup, pittsburgh indie</li> <li><strong>Smash Your Head</strong> Ã¢â‚¬Â <em>May 9, 2006</em> Ã¢â‚¬Â Album: Night Ripper | Label: Illegal Art | Genre: mashup, pittsburgh indie</li> <li><strong>Minute By Minute</strong> Ã¢â‚¬Â <em>May 9, 2006</em> Ã¢â‚¬Â Album: Night Ripper | Label: Illegal Art | Genre: mashup, pittsburgh indie</li> <li><strong>Ask About Me</strong> Ã¢â‚¬Â <em>May 9, 2006</em> Ã¢â‚¬Â Album: Night Ripper | Label: Illegal Art | Genre: mashup, pittsburgh indie</li> <li><strong>Summer Smoke</strong> Ã¢â‚¬Â <em>May 9, 2006</em> Ã¢â‚¬Â Album: Night Ripper | Label: Illegal Art | Genre: mashup, pittsburgh indie</li> <li><strong>Friday Night</strong> Ã¢â‚¬Â <em>May 9, 2006</em> Ã¢â‚¬Â Album: Night Ripper | Label: Illegal Art | Genre: mashup, pittsburgh indie</li><li><b><span>Touch 2 Feel</span>ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â </b>Ã¢â‚¬ÂÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â <i>2003</i></li> <!--Additional songs can be listed here following the same format-->
+</ol> <p>Listen to all of these tracks and more on the curated playlist below:</p>
+{{< youtube "embed" >}} <hr />
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @girltalk,</p>
+
+---
+title: "impressions 2 songs"
+layout: post
+---
+<h1>BigBanonos 2 Essential Tracks by The Impressions</h1>
+{{< img-lite src="https://www.billboard.com/wp-content/uploads/2022/04/inxs-kick-image-1548.jpg" alt="The Impressions" >}} <p>The Impressions, led by Curtis Mayfield, are celebrated for their soulful melodies and powerful lyrics that capture the spirit of classic soul and ChicagoÃ¢â‚¬â„¢s rich music legacy. Here are two iconic tracks that reflect their timeless influence in the world of R&B and soul.</p> <ol> <li><strong>People Get Ready</strong> (Single Version) | <em>Curtis Mayfield & The Impressions - Universal Masters</em> | Geffen | Released: January 1, 2003</li> <li><strong>This Is My Country</strong> | <em>This Is My Country</em> | Rhino | Released: 1968</li>
+</ol> <div> {{< youtube "embed" >}}
+</div> <p>first posted by <a href="https://bigbanonos.blogspot.com/">https://bigbanonos.blogspot.com/</a></p> <div> <p>Explore more on BigBanonos: <a href="https://bigbanonos.blogspot.com/">Website</a> | <a href="https://www.youtube.com/@BigBanonos">YouTube</a> | <a href="https://x.com/bigbanonos">Twitter</a></p>
+</div> <!-- Tags -->
+<p>@theimpressions,@curtismayfield</p>
+
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @curtismayfield,@theimpressions,</p>
+
+---
+title: "inxs"
+layout: post
+---
+<!-- Title of the Post -->
+<h1>BigBanonosÃ¢â‚¬â„¢ Favorite Songs by INXS</h1> <!-- Introductory Text -->
+<p>INXS brought a unique blend of rock, pop, and dance to the world stage. BigBanonos highlights their timeless hits, including fan favorites from the classic album <em>Kick</em>.</p> <!-- Featured Image -->
+<div> {{< img-lite src="https://www.billboard.com/wp-content/uploads/2022/04/inxs-kick-image-1548.jpg" alt="INXS" >}}
+</div> <!-- Spotify Embed -->
+<div> {{< youtube "embed" >}}
+</div> <!-- Song Information -->
+<h3>Top Songs:</h3>
+<ul> <li><strong>Never Tear Us Apart</strong> | Album: <em>Kick</em> | Released: 1987 | Label: Rhino Atlantic</li>
+</ul> <!-- Footer Links -->
+<hr />
+<p>For more updates, visit <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Also, check out our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> channel and follow us on <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a> for exclusive content!</p> <!-- Tags -->
+<p>Tags: @inxs</p>
+
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @inxs,</p>
+
+---
+title: "jessie ware 6 songs"
+layout: post
+---
+<h1>Jessie Ware: 4 Unmissable Tracks</h1>
+<img alt="Jessie Ware" src="https://www.billboard.com/wp-content/uploads/2023/05/Jessie-Ware-cr-Jack-Grange-billboard-1548.jpg" /> <p>Delve into the rich, soulful world of <strong>Jessie Ware</strong>, a British talent known for her smooth blend of <em>neo soul</em>, <em>electropop</em>, and <em>pop soul</em>. This selection of tracks captures her vocal finesse and unique style, making her a standout in both R&B and pop music.</p> <ol> <li><strong>Hello Love</strong> | <em>That! Feels Good!</em> | EMI | Released: April 28, 2023</li> <li><strong>Pale Blue Light</strong> | <em>What's Your Pleasure? (The Platinum Pleasure Edition)</em> | EMI | Released: June 11, 2021</li> <li><strong>Adore You</strong> | <em>Adore You</em> | EMI | Released: February 13, 2019</li><li><strong>Midnight Kisses</strong>ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â |ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â 2017</li><li><strong>Champagne Kisses </strong>|ÃƒÆ’Ã¢â‚¬Å¡Ãƒâ€šÃ‚Â 2014</li><li><strong>Wildest Moments</strong> | <em>Devotion</em> | Universal-Island Records Ltd. | Released: 2012</li>
+</ol> <div> {{< youtube "embed" >}}
+</div> <p>Explore the best of Jessie Ware's discography on BigBanonos, where her powerful vocals and emotive lyrics take center stage. For more soulful artists and neo-soul favorites, donÃ¢â‚¬â„¢t miss out on additional <a href="https://bigbanonos.blogspot.com/">BigBanonos</a> recommendations!</p> {{< youtube "videoseries" >}} <div> <p>Connect with BigBanonos: <a href="https://bigbanonos.blogspot.com/">Website</a> | <a href="https://www.youtube.com/@BigBanonos">YouTube</a> | <a href="https://x.com/bigbanonos">Twitter</a></p>
+</div> <!--Tags-->
+<p>@jessieware</p>
+
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @jessieware,</p>
+
+---
+title: "jorja smith 3 songs"
+layout: post
+---
+<h1>Jorja Smith: A Glimpse into Her Soulful Soundscapes</h1>
+{{< img-lite src="https://www.billboard.com/wp-content/uploads/2023/04/Jorja-Smith-2022-billboard-1548.jpg" alt="Jorja Smith" >}} <p>Jorja Smith brings a fresh blend of contemporary R&B with UK influences, captivating listeners worldwide. HereÃ¢â‚¬â„¢s a closer look at three standout songs that showcase her versatility and emotional depth:</p> <ol> <li><strong>Time</strong> | <em>Be Right Back</em> | Release Date: May 14, 2021 | FAMM</li> <li><strong>Be Honest</strong> (feat. Burna Boy) | <em>Be Honest</em> | Release Date: August 16, 2019 | FAMM</li> <li><strong>On My Mind</strong> (Jorja Smith X Preditah) | <em>On My Mind</em> | Release Date: August 25, 2017 | FAMM</li>
+</ol> <div> {{< youtube "embed" >}}
+</div> <p>From the introspective Ã¢â‚¬Å“<strong>Time</strong>Ã¢â‚¬Â to the vibey, afrobeats-infused Ã¢â‚¬Å“<strong>Be Honest</strong>,Ã¢â‚¬Â Jorja's voice shines in various styles, bringing rich emotion to every track. Her collaboration with Preditah on Ã¢â‚¬Å“<strong>On My Mind</strong>Ã¢â‚¬Â adds a bass-driven edge, blending R&B with electronic influences.</p> <div> <p>Explore more of Jorja SmithÃ¢â‚¬â„¢s work and other favorites on BigBanonos: <a href="https://bigbanonos.blogspot.com/">Website</a> | <a href="https://www.youtube.com/@BigBanonos">YouTube</a> | <a href="https://x.com/bigbanonos">Twitter</a></p>
+</div> <!-- Tags -->
+<p>@jorjasmith,@burnaboy,@preditah</p>
+
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @preditah,@jorjasmith,@burnaboy,</p>
+
+---
+title: "kyle 2 songs"
+layout: post
+---
+<h1>KYLE: BigBanonos' two favorite tracks</h1>
+<img alt="KYLE" src="https://www.billboard.com/wp-content/uploads/2022/01/KYLE-press-2022-billboard-1548.jpg?w=942&h=623&crop=1" /> <p>KYLE, known for his unique mix of indie pop rap and viral trap, brings a fresh energy to the hip-hop scene. Check out two of his must-hear tracks below:</p> <ol> <li><strong>Carefree</strong> | Release Date: March 11, 2022 | Independent</li> <li><strong>Somethin Bout U</strong> (feat. Teezo Touchdown) | Release Date: November 10, 2023 | Independent</li>
+</ol> <div> {{< youtube "embed" >}}
+</div> <p>With hits like "Carefree" and his latest collaboration on "Somethin Bout U," KYLE combines upbeat vibes with relatable lyrics, making waves in the pop and hip-hop genres alike. <b><a href="https://bigbanonos.blogspot.com/2024/01/teezo-touchdown-15-songs.html" target="_blank">Check out more from Teezo Touchdown in BigBanonos' 15-song playlist here</a></b>.</p> <div> <p>Discover more from BigBanonos: <a href="https://bigbanonos.blogspot.com/">Website</a> | <a href="https://www.youtube.com/@BigBanonos">YouTube</a> | <a href="https://x.com/bigbanonos">Twitter</a></p>
+</div> <!--Tags-->
+<p>@kyle</p>
+
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @teezotouchdown,@kyle,</p>
+
+---
+title: "lady gaga highlights from artpop"
+layout: post
+---
+<h2>BigBanonos' Favorite Tracks: Lady Gaga</h2> <div > <a href="https://www.billboard.com/wp-content/uploads/2024/02/LADY-GAGA-JAZZ-PIANO-Park-MGM-in-Las-Vegas-billboard-espanol-1548.jpg"> <img src="https://www.billboard.com/wp-content/uploads/2024/02/LADY-GAGA-JAZZ-PIANO-Park-MGM-in-Las-Vegas-billboard-espanol-1548.jpg" width="640" height="427" style="aspect-ratio:3/2;" alt="Lady Gaga" width="400" /> </a>
+</div> <p>Lady Gaga has continuously redefined pop music with her iconic artistry and versatile sound. This selection celebrates her most memorable tracks, ranging from dance anthems to heartfelt ballads.</p> <h3>Selected Tracks</h3>
+<ol> <li><strong>Just Dance</strong> Ã¢â‚¬â€œ <em>The Fame</em> (2008)</li> <li><strong>You And I</strong> Ã¢â‚¬â€œ <em>Born This Way</em> (2011)</li> <li><strong>Fun Tonight</strong> Ã¢â‚¬â€œ <em>Chromatica</em> (2020)</li> <li><strong>Gypsy</strong> Ã¢â‚¬â€œ <em>Artpop</em> (2013)</li> <li><strong>Sexxx Dreams</strong> Ã¢â‚¬â€œ <em>Artpop</em> (2013)</li>
+</ol> <p>Watch Lady Gaga's live performance:</p>
+{{< youtube "fUMby-Yb9PA" >}} <p>Stream Lady Gaga's playlist:</p>
+{{< youtube "embed" >}} <h3>Tags</h3>
+<p>@ladygaga</p> <p>Check out more on <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos' YouTube channel</a> and follow us on <a href="https://twitter.com/BigBanonos" target="_blank">Twitter</a>!</p> <hr />
+<p><em>First posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @ladygaga,</p>
+
+---
+title: "lana del rey top songs"
+layout: post
+---
+<h2>BigBanonos' Favorite Tracks: Lana Del Rey</h2> <div > <img src="https://www.billboard.com/wp-content/uploads/media/02-Lana-Del-Rey-cr-Neil-Krug-2017-press-photos-billboard-1548.jpg?w=942&h=623&crop=1" width="640" height="427" style="aspect-ratio:3/2;" alt="Lana Del Rey" />
+</div> <p>Lana Del Rey blends dreamy vocals with poetic storytelling, exploring themes of Americana, love, and nostalgia. Below is a comprehensive selection of her top tracks that have captivated listeners worldwide.</p> <h3>Selected Tracks</h3>
+<ol> <li><strong>Say Yes To Heaven</strong> Ã¢â‚¬â€œ <em>Did you know that there's a tunnel under Ocean Blvd</em> (2023)</li> <li><strong>Did you know that there's a tunnel under Ocean Blvd</strong> Ã¢â‚¬â€œ <em>Did you know that there's a tunnel under Ocean Blvd</em> (2023)</li> <li><strong>Kintsugi</strong> Ã¢â‚¬â€œ <em>Did you know that there's a tunnel under Ocean Blvd</em> (2023)</li> <li><strong>Taco Truck x VB</strong> Ã¢â‚¬â€œ <em>Did you know that there's a tunnel under Ocean Blvd</em> (2023)</li> <li><strong>Beautiful</strong> Ã¢â‚¬â€œ <em>Blue Banisters</em> (2021)</li> <li><strong>Dealer</strong> Ã¢â‚¬â€œ <em>Blue Banisters</em> (2021)</li> <li><strong>Violets for Roses</strong> Ã¢â‚¬â€œ <em>Blue Banisters</em> (2021)</li> <li><strong>Blue Banisters</strong> Ã¢â‚¬â€œ <em>Blue Banisters</em> (2021)</li> <li><strong>Norman fucking Rockwell</strong> Ã¢â‚¬â€œ <em>Norman Fucking Rockwell!</em> (2019)</li> <li><strong>Fuck it I love you</strong> Ã¢â‚¬â€œ <em>Norman Fucking Rockwell!</em> (2019)</li> <li><strong>Love</strong> Ã¢â‚¬â€œ <em>Love</em> (2017)</li> <li><strong>Brooklyn Baby</strong> Ã¢â‚¬â€œ <em>Brooklyn Baby</em> (2014)</li> <li><strong>American</strong> Ã¢â‚¬â€œ <em>Paradise</em> (2012)</li> <li><strong>Ride</strong> Ã¢â‚¬â€œ <em>Paradise</em> (2012)</li> <li><strong>Burning Desire</strong> (2012)</li> <li><strong>Video Games</strong> (2011)</li> <li><strong>Season of the Witch</strong> (2019)</li> <li><strong>Looking For America</strong> (2019)</li> <li><strong>Cola</strong> Ã¢â‚¬â€œ <em>Paradise</em> (2012)</li> <li><strong>Margaret (feat. Bleachers)</strong> Ã¢â‚¬â€œ <em>Did you know that there's a tunnel under Ocean Blvd</em> (2023)</li> <li><strong>Let The Light In (feat. Father John Misty)</strong> Ã¢â‚¬â€œ <em>Did you know that there's a tunnel under Ocean Blvd</em> (2023)</li>
+</ol> <p>Enjoy Lana's captivating music video:</p>
+{{< youtube "fUMby-Yb9PA" >}} <p>Stream Lana Del Rey's Spotify playlist:</p>
+{{< youtube "embed" >}} <h3>Tags</h3>
+<p>@lanadelrey,@fatherjohnmisty,@theweeknd,@bleachers</p> <hr />
+<p>Check out more BigBanonos content: <a href="https://bigbanonos.blogspot.com/" target="_blank">Website</a> | <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> | <a href="https://x.com/bigbanonos" target="_blank">Twitter</a></p>
+<p><em>First posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @theweeknd,@bleachers,@fatherjohnmisty,@lanadelrey,</p>
+
+---
+title: "lil tecca"
+layout: post
+---
+<!-- Post Title -->
+<h1 >BigBanonos' Favorite Tracks: Lil Tecca - "Ransom"</h1> <!-- Introductory Text -->
+<p >Updated August 30, 2019, with "Ransom" by Lil Tecca. This breakout hit from the album <em>We Love You Tecca</em> showcases Tecca's melodic rap style, blending elements of pluggnb and modern hip hop.</p> <!-- Featured Image -->
+<div > <img src="https://www.billboard.com/wp-content/uploads/media/Lil-Tecca-press-by-Orlando-IV-2019-billboard-1548.jpg?w=942&h=623&crop=1" width="640" height="427" style="aspect-ratio:3/2;" alt="Lil Tecca - Ransom" />
+</div> <!-- YouTube Video Embed -->
+<div > {{< youtube "1XzY2ij_vL4" >}}
+</div> <!-- Song Information -->
+<div > <p><em>"Ransom"</em> by Lil Tecca is a melodic rap anthem that captured the hearts of fans worldwide. Released under Republic Records, this track perfectly encapsulates the energy and vibe of modern pluggnb and rap music.</p>
+</div> <!-- Footer Links -->
+<div > <p>Discover more melodic rap hits on <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Visit our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> channel and follow us on <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a> for more updates and music highlights.</p>
+</div> <!-- Tags -->
+<p >Tags: @liltecca,</p>
+
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @liltecca,</p>
+
+---
+title: "nipsey hussle"
+layout: post
+---
+
+<!-- Title of the Post -->
+<h1 >BigBanonos Favorite Songs by Nipsey Hussle</h1> <!-- Introductory Text -->
+<p >Updated January 19, 2018, with "Last Time That I Checc'd" featuring YG. Celebrate the legacy of Nipsey Hussle in the playlist below!</p> <!-- Featured Image -->
+<div > <img src="https://www.billboard.com/wp-content/uploads/media/nipsey-hussle-press-photo-2018-cr-Norberto-Garcia-billboard-1548.jpg" width="640" height="427" style="aspect-ratio:3/2;" alt="Nipsey Hussle" />
+</div> <!-- Spotify Embed -->
+<div > {{< youtube "embed" >}}
+</div> <!-- Song Information -->
+<div> <p><strong>"Last Time That I Checc'd (feat. YG)"</strong><br> Genre: Hip Hop<br> Album: <em>Last Time That I Checc'd (feat. YG)</em><br> Release Date: January 19, 2018<br> Label: All Money In No Money Out</p> <p><strong>Fuck Donald Trump</strong> | <em>Single</em> | Defiant Records | Released: March 30, 2016</p>
+</div> <!-- Footer Links -->
+<div > <p>For more updates, visit <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Also, check out our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a> channels for more exclusive content!</p>
+</div>
+
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @nipseyhussle,@yg,</p>
+
+---
+title: "offset metro boomin"
+layout: post
+---
+<!-- Post Title -->
+<h1 >BigBanonos' Favorite Tracks: Offset & Metro Boomin - "Ric Flair Drip"</h1> <!-- Introductory Text -->
+<p >Updated October 30, 2017, with "Ric Flair Drip" by Offset and Metro Boomin. This track from the album <em>Without Warning</em> combines hard-hitting trap beats with Offset's distinct flow, featuring Metro Boomin's signature production style.</p> <!-- Featured Image -->
+<div > <img src="https://www.billboard.com/wp-content/uploads/2024/03/Offset-paris-fashion-2023-a-billboard-1548.jpg?w=942&h=623&crop=1" width="640" height="427" style="aspect-ratio:3/2;" alt="Offset & Metro Boomin - Ric Flair Drip" />
+</div> <!-- YouTube Video Embed -->
+<div > {{< youtube "LPTlvQ1Zet0" >}}
+</div> <!-- Song Information -->
+<div > <p><em>"Ric Flair Drip"</em> is a standout track from Offset and Metro BoominÃ¢â‚¬â„¢s collaborative album <em>Without Warning</em>, featuring energetic production from Metro Boomin and a memorable verse from Offset. Released on October 30, 2017, this song remains a trap anthem.</p>
+</div> <!-- Footer Links -->
+<div > <p>Explore more hip hop and trap hits on <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Visit our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> channel and follow us on <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a> for more updates and music highlights.</p>
+</div> <!-- Tags -->
+<p >Tags: @offset,@metroboomin,</p>
+
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @metroboomin,@offset,</p>
+
+---
+title: "prince royce"
+layout: post
+---
+<!-- Title of the Post -->
+<h1 >Prince Royce - Back It Up (feat. Jennifer Lopez & Pitbull)</h1> <!-- Introductory Text -->
+<p >Updated with "Back It Up" by Prince Royce featuring Jennifer Lopez and Pitbull, an energetic Latin anthem with a perfect blend of bachata and urban vibes.</p> <!-- Featured Image -->
+<div > <img src="https://www.billboard.com/wp-content/uploads/media/Prince-Royce-cr-Elastic-People-2020-billboard-1548.jpg?w=942&h=623&crop=1" width="640" height="427" style="aspect-ratio:3/2;" alt="Prince Royce Back It Up" />
+</div> <!-- YouTube Video Embed -->
+<div > {{< youtube "9w9dXWU5nMI" >}}
+</div> <!-- Song Information -->
+<div > <p><em>"Back It Up"</em> is a sizzling Latin hit by Prince Royce, featuring Jennifer Lopez and Pitbull. It blends bachata, urban Latino rhythms, and pop into a dance-floor anthem from the "Double Vision (Deluxe Edition)" album.</p>
+</div> <!-- Footer Links -->
+<div > <p>Discover more music at <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Follow us on <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p>
+</div> <!-- Tags -->
+<p >Tags: @princeroyce,@jenniferlopez,@pitbull,</p>
+
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @jenniferlopez,@pitbull,@princeroyce,</p>
+
+---
+title: "r kelly"
+layout: post
+---
+<h1>BigBanonos Top Songs by R. Kelly</h1>
+<img alt="R. Kelly" src="https://www.billboard.com/wp-content/uploads/media/r-kelly-nov-2015-billboard-1548.jpg" /> <p>R. Kelly's contributions to R&B and hip hop have left a lasting mark on the music industry. From heartfelt ballads to upbeat anthems, here are BigBanonos' favorite selections from his discography:</p> <ol> <li><strong>Step In the Name of Love</strong> | <em>Chocolate Factory</em> | Released: 2003</li> <li><strong>Ignition</strong> | <em>Chocolate Factory</em> | Released: 2003</li> <li><strong>Happy People</strong> | <em>Happy People/U Saved Me</em> | Released: August 23, 2004</li> <li><strong>Shut Up</strong> | <em>Black Panties (Deluxe Version)</em> | Released: December 6, 2013</li> <li><strong>Genius</strong> | <em>Genius</em> | Released: September 24, 2013</li> <li><strong>When A Woman Loves</strong> | <em>Love Letter</em> | Released: December 13, 2010</li> <li><strong>Hook It Up</strong> (feat. Huey) | <em>Double Up</em> | Released: May 25, 2007</li> <li><strong>Love Is</strong> (feat. K. Michelle) | <em>Love Letter</em> | Released: December 13, 2010</li> <li><strong>Best Friend</strong> (feat. Polow Da Don & Keyshia Cole) | <em>Double Up</em> | Released: May 25, 2007</li> <li><strong>Lay It Down</strong> (Remix) (feat. Lloyd & Young Jeezy) | Released: 2011</li> <li><strong>Showdown</strong> (feat. Ronald Isley) | <em>Chocolate Factory</em> | Released: 2003</li> <li><strong>Might Be Mine</strong> | Released: 2008</li> <li><strong>Wanna Make A Baby</strong> | Released: Unknown</li> <li><strong>Go Low</strong> | <em>Untitled</em> | Released: November 27, 2009</li> <li><strong>Whole Lotta Kisses</strong> | <em>Untitled</em> | Released: November 27, 2009</li>
+</ol> <div> {{< youtube "embed" >}}
+</div> <!-- Embedded video playlists -->
+<div> <p><b>Video Playlists:</b></p> {{< youtube "PT7UOmPqXlk" >}}
+</div> <p>first posted by <a href="https://bigbanonos.blogspot.com/">https://bigbanonos.blogspot.com/</a></p> <div> <p>Explore more BigBanonos content: <a href="https://bigbanonos.blogspot.com/">Website</a> | <a href="https://www.youtube.com/@BigBanonos">YouTube</a> | <a href="https://x.com/bigbanonos">Twitter</a></p>
+</div> <!--Tags-->
+<p>@rkelly,@huey,@kmichelle,@keyshiacole,@youngjeezy,@ronaldisley</p>
+
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @kmichelle,@keyshiacole,@rkelly,@huey,@ronaldisley,@youngjeezy,</p>
+
+---
+title: "roberto surace 1 song"
+layout: post
+---
+<div class="separator" ><a href="https://www.billboard.com/files/styles/article_main_image/public/media/Robert-Surace-press-by-Nico-Back2Back-Arti-Visive-2019-billboard-1548.jpg" imageanchor="1"><img border="0" src="https://www.billboard.com/files/styles/article_main_image/public/media/Robert-Surace-press-by-Nico-Back2Back-Arti-Visive-2019-billboard-1548.jpg" width="400" height="265" data-original-width="636" data-original-height="421" /></a></div>
+{{< youtube "videoseries" >}}
+<br />
+<h3>Joys [2019]</h3>
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @robertosurace,</p>
+
+---
+title: "snoh aalegra 3 songs"
+layout: post
+---
+<h1>BigBanonos Top Songs by Snoh Aalegra</h1>
+{{< img-lite src="https://www.billboard.com/wp-content/uploads/media/Snoh-Aalegra-tiny-desk-2020-billboard-1548.jpg" alt="Snoh Aalegra" >}} <p>Snoh Aalegra is known for her smooth, alternative R&B sound. Here are BigBanonos' picks:</p> <ol> <li><strong>IN YOUR EYES</strong> | <em>TEMPORARY HIGHS IN THE VIOLET SKIES</em> | Released: 2021-07-09 | Roc Nation Records</li> <li><strong>TANGERINE DREAM</strong> | <em>TEMPORARY HIGHS IN THE VIOLET SKIES</em> | Released: 2021-07-09 | Roc Nation Records</li> <li><strong>I Want You Around (feat. 6LACK) - Remix</strong> | <em>I Want You Around (feat. 6LACK) [Remix]</em> | Released: 2019-11-01 | Artium Recordings, LLC</li>
+</ol>
+<h3>Video Playlist:</h3>
+<div> {{< youtube "embed" >}}
+</div>
+<p>Tags: @snohaalegra</p>
+
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @snohaalegra,</p>
+
+---
+title: "sob x rbe"
+layout: post
+---
+<!-- Title of the Post -->
+<h1 >SOB X RBE - Paramedic!</h1> <!-- Introductory Text -->
+<p >Updated with "Paramedic!" by SOB X RBE, from *Black Panther: The Album - Music From and Inspired By*, released on February 9, 2018, by Black Panther (TDE/DMG) PS.</p> <!-- Featured Image -->
+<div > <img src="https://www.billboard.com/wp-content/uploads/media/SOB-x-RBE-press-photo-by-Shemp-3-2018-billboard-1548.jpg?w=1024" width="640" height="427" style="aspect-ratio:3/2;" alt="SOB X RBE - Paramedic!" />
+</div> <!-- YouTube Video Embed -->
+<div > {{< youtube "ZiI1ThZ2R2s" >}}
+</div> <!-- Song Information -->
+<div > <p><em>"Paramedic!"</em> by SOB X RBE is an energetic track from *Black Panther: The Album - Music From and Inspired By*, released on February 9, 2018. With its catchy Cali rap vibe, this song became a standout on the album, capturing the essence of the hip-hop scene.</p>
+</div> <!-- Footer Links -->
+<div > <p>Explore more at <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Check out our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a> channels for more music updates.</p>
+</div> <!-- Tags -->
+<p >Tags: @sobxRBE,</p>
+
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @sobxrbe,</p>
+
+---
+title: "spice"
+layout: post
+---
+<h3>BigBanonos' Favorite Songs by Spice</h3>
+<div > <a href="https://www.billboard.com/wp-content/uploads/media/Spice-press-by-Spex-Photography-2018-billboard-1548.jpg" target="_blank"> {{< img-lite src="https://www.billboard.com/wp-content/uploads/media/Spice-press-by-Spex-Photography-2018-billboard-1548.jpg" alt="Spice" >}} </a>
+</div>
+<p>Updated August 26, 2022, with Spice's track <strong>"BAKE A MAN"</strong>. BigBanonos celebrates her vibrant contributions to dancehall music.</p>
+{{< youtube "embed" >}}
+<h4>Top Songs:</h4>
+<ol> <li><strong>BAKE A MAN</strong> | <em>Emancipated</em> | Released: August 26, 2022 | Stealth Music Group</li> <li><strong>Love Triangle (Pum Pum)</strong> | <em>Love Triangle (Pum Pum)</em> | Released: March 18, 2022 | Spice Official ENT</li>
+</ol>
+<hr />
+<p>Discover more on <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Follow us on <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a> and <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a>.</p>
+<p>@spice</p>
+
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @spice,</p>
+
+---
+title: "summer walker 1 song"
+layout: post
+---
+<!-- Title of the Post -->
+<h1>BigBanonosÃ¢â‚¬â„¢ Favorite Songs by Summer Walker</h1> <!-- Featured Image -->
+<div> {{< img-lite src="https://www.billboard.com/wp-content/uploads/2022/03/feature-summer-walker-billboard-2022-bb2-gizelle-hernandez-2-1548.jpg?w=1024" alt="Summer Walker" >}}
+</div> <!-- Spotify Embed -->
+<div> {{< youtube "embed" >}}
+</div> <!-- Song Information -->
+<h3>Top Songs by Summer Walker:</h3>
+<ol> <li><strong>Baby</strong> | Album: <em>Last Day Of Summer</em> | Released: October 19, 2018 | Label: LVRN/Interscope Records</li> <li><strong>Playing Games</strong> | Album: <em>Playing Games</em> | Released: August 23, 2019 | Label: LVRN Records</li> <li><strong>Ex For A Reason (with JT from City Girls)</strong> | Album: <em>Ex For A Reason</em> | Released: October 15, 2021 | Label: LVRN/Interscope Records</li> <li><strong>No Love (with SZA & Cardi B) - Extended Version</strong> | Album: <em>No Love [Extended Version]</em> | Released: March 25, 2022 | Label: LVRN/Interscope Records</li>
+</ol> <!-- Footer Links -->
+<div > <p>Explore more about Summer Walker on <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Visit our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> channel and follow us on <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p>
+</div> <!-- Tags -->
+<p >Tags: @summerwalker,@jt,@citygirls,@sza,@cardib,</p>
+
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @summerwalker,@cardib,@citygirls,@sza,@jt,</p>
+
+---
+title: "syd 5 songs"
+layout: post
+---
+<h1>BigBanonos Top Songs by Syd</h1>
+{{< img-lite src="https://www.billboard.com/wp-content/uploads/media/Syd-bb15-2018-feat-billboard-posl3cb-1500.jpg" alt="Syd" >}} <p>Syd's smooth blend of alternative R&B and soulful lyrics resonates deeply. BigBanonos' favorites include:</p> <ol> <li><strong>Tie The Knot</strong> | <em>Broken Hearts Club</em> | Released: 2022-04-08 | Columbia</li> <li><strong>Getting Late</strong> | <em>Broken Hearts Club</em> | Released: 2022-04-08 | Columbia</li> <li><strong>Fast Car</strong> | <em>Fast Car</em> | Released: 2021-07-16 | Columbia</li> <li><strong>Body</strong> | <em>Fin</em> | Released: 2017-02-03 | Columbia</li> <li><strong>Right Track (feat. Smino)</strong> | <em>Right Track</em> | Released: 2021-09-10 | Columbia</li>
+</ol> <div> {{< youtube "embed" >}}
+</div>
+<p>Tags: @syd,@smino</p>
+
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @syd,@smino,</p>
+
+---
+title: "tayla parx"
+layout: post
+---
+<!-- Title of the Post -->
+<h1 >Tayla Parx - I Want You</h1> <!-- Introductory Text -->
+<p >Updated with "I Want You" by Tayla Parx, from the album *We Need To Talk*, released on April 5, 2019. Tayla Parx delivers an infectious blend of pop and R&B in this track, showcasing her signature songwriting and vocal prowess.</p> <!-- Featured Image -->
+<div > <img src="https://www.billboard.com/wp-content/uploads/media/Tayla-Parx-press-photo-2019-cr-Madeleine-Dalla-billboard-1548.jpg?w=942&h=623&crop=1" width="640" height="427" style="aspect-ratio:3/2;" alt="Tayla Parx - I Want You" />
+</div> <!-- YouTube Video Embed -->
+<div > {{< youtube "9lZ1EVyVLLo" >}}
+</div> <!-- Song Information -->
+<div > <p><em>"I Want You"</em> by Tayla Parx is a catchy, upbeat anthem that perfectly captures the energy of modern pop and R&B. With a memorable hook and playful lyrics, this track showcases Tayla ParxÃ¢â‚¬â„¢s unique style and captivating voice.</p>
+</div> <!-- Footer Links -->
+<div > <p>Explore more at <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Check out our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a> channels for more music updates.</p>
+</div> <!-- Tags -->
+<p >Tags: @taylaparx,</p>
+
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @taylaparx,</p>
+
+---
+title: "taylor swift 3 songs"
+layout: post
+---
+<h1>BigBanonos Favorite Songs by Taylor Swift</h1>
+{{< img-lite src="https://www.billboard.com/wp-content/uploads/2024/11/taylor-swift-indianapolis-night-1-2024-billboard-1548.jpg?w=942&h=623&crop=1" alt="Taylor Swift" >}} <p>From pop anthems to introspective ballads, Taylor Swift consistently delivers timeless hits. Here are some of BigBanonos' favorites:</p> <ol> <li><strong>Lavender Haze</strong> | <em>Midnights</em> | Released: 2022-10-21 | Taylor Swift</li> <li><strong>invisible string</strong> | <em>folklore</em> | Released: 2020-07-24 | Taylor Swift</li> <li><strong>Cruel Summer - LP Giobbi Remix - Extended Version</strong> | <em>The Cruelest Summer</em> | Released: 2023-10-19 | Taylor Swift</li>
+</ol> <div> {{< youtube "embed" >}}
+</div>
+<p>Tags: @taylorswift,@lpgiobbi</p>
+
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @taylorswift,</p>
+
+---
+title: "tegan and sara 2 songs"
+layout: post
+---
+<h1>BigBanonos Favorite Songs by Tegan and Sara</h1>
+{{< img-lite src="https://ca.billboard.com/media-library/tegan-and-sara.webp?id=51884169&width=1200&height=800&quality=90&coordinates=0%2C0%2C0%2C0" alt="Tegan and Sara" >}} <p>Tegan and Sara, the Canadian indie duo known for their heartfelt lyrics and catchy melodies, have been a staple in the indie music scene. Here are BigBanonos' top picks:</p> <ol> <li><strong>Yellow</strong> | <em>Yellow</em> | Released: 2022-07-12 | Mom+Pop</li> <li><strong>Not Tonight</strong> | <em>If It Was You</em> | Released: 2002 | Vapor/Sire</li>
+</ol> <div> {{< youtube "embed" >}}
+</div>
+<p>Tags: @teganandsara</p>
+
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @teganandsara,</p>
+
+---
+title: "the slits top songs"
+layout: post
+---
+<h1>BigBanonos Top Songs by The Slits</h1>
+<img alt="The Slits" src="https://www.billboard.com/wp-content/uploads/media/the-slits-1980s-billboard-1548.jpg?w=942&h=623&crop=1" /> <p>The Slits brought a punk rock edge with experimental and riot grrrl influences. Here is BigBanonos' top track:</p> <ol> <li><strong>Shoplifting</strong> | <em>Cut (Deluxe Edition)</em> | Released: 1979-09-07 | UMC (Universal Music Catalogue)</li><li>Ping Pong Affair</li></ol><div></div> <div> {{< youtube "embed" >}}
+</div>
+<p>Tags: @theslits</p>
+
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @theslits,</p>
+
+---
+title: "ti"
+layout: post
+---
+<h1>BigBanonos Top Songs by T.I.</h1>
+<div class="separator"> <a href="https://www.billboard.com/wp-content/uploads/media/T.I.-press-photo-02-billboard-a-32-1548.jpg?w=1024" > <img alt="T.I." border="0" width="320" data-original-height="480" data-original-width="640" src="https://www.billboard.com/wp-content/uploads/media/T.I.-press-photo-02-billboard-a-32-1548.jpg?w=1024"/> </a>
+</div>
+<p>T.I. has been a defining voice in hip-hop, blending atl hip hop, trap, and southern rap to create hits that resonate across genres. Here are BigBanonosÃ¢â‚¬â„¢ top selections in order of most recently released:</p> <ol> <li><strong>Let My Beat Pound</strong> | Released: 2012-01-03</li> <li><strong>Sorry (feat. AndrÃƒÆ’Ã†â€™Ãƒâ€šÃ‚Â© 3000)</strong> | Released: 2012-12-18</li> <li><strong>Like I Do (Stream)</strong> (feat. The-Dream) | Released: 2008</li> <li><strong>Whatever You Like</strong> | Released: 2008-09-08</li> <li><strong>No Matter What (Stream)</strong> (feat. Yung Joc) | Released: 2008</li> <li><strong>Life Of The Party (Stream)</strong> (feat. R. Kelly) | Released: 2008</li> <li><strong>Down Like That (Stream)</strong> (feat. Fergie & will.i.am) | Released: 2009</li> <li><strong>Got Your Back (Stream)</strong> (feat. Keri Hilson) | Released: 2010</li> <li><strong>Touchdown (Stream)</strong> (feat. Eminem) | Released: 2007-06-12</li> <li><strong>Why You Wanna (Stream)</strong> | Released: 2006-03-27</li> <li><strong>Bankhead (Stream)</strong> | Released: 2006</li> <li><strong>T.I.P.</strong> (feat. PSC) | Released: 2005</li> <li><strong>Rubber Band Man</strong> | Released: 2003-08-19</li>
+</ol> <div> {{< youtube "embed" >}}
+</div> <div></div><div><br /></div><div><br /></div>#covers w/ originals <br />
+{{< youtube "S-zzAX3JvYc" >}} <div><br />
+<hr />
+{{< youtube "zvrHN5jPPjI" >}}<br /><br /></div> <p>Explore more on <a href="https://bigbanonos.blogspot.com/">BigBanonos</a>, or check out BigBanonos on <a href="https://www.youtube.com/@BigBanonos">YouTube</a> and <a href="https://x.com/bigbanonos">Twitter</a>.</p>
+
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @fergie,@william,@t.i.,@rkelly,@yungjoc,@eminem,@andre3000,@kerihilson,@thedream,@psc,</p>
+
+---
+title: "usher"
+layout: post
+---
+<div class="post-title"> <h1>BigBanonos' Favorite Songs by Usher</h1>
+</div>
+<p>Updated March 23, 2004, with "Burn" from the album <i>Confessions (Expanded Edition)</i>, highlighted in the playlist below:</p>
+<div class="post-image"> {{< img-lite src="https://www.billboard.com/wp-content/uploads/2022/09/usher-press-2022-cr-Bellamy-Brewster-billboard-1548.jpg?w=942&h=623&crop=1" alt="Usher Album Cover" >}}
+</div>
+<p>Usher's smooth vocals and timeless R&B hits have cemented his place as one of the genre's most influential artists. From emotional ballads like "Burn" and "Confessions Part II" to live renditions like "Nice & Slow - Live," his music continues to resonate across generations. These tracks, especially from the 2004 hit album <i>Confessions</i>, showcase his unparalleled artistry.</p>
+<p>Listen to the playlist below to experience these tracks and more:</p>
+<div class="spotify-embed"> {{< youtube "embed" >}}
+</div>
+<p>Tracks featured:</p>
+<ul> <li>"Burn" Ã¢â‚¬â€œ <i>Confessions (Expanded Edition)</i> (March 23, 2004, LaFace Records)</li> <li>"Confessions Part II" Ã¢â‚¬â€œ <i>Confessions (Expanded Edition)</i> (March 23, 2004, LaFace Records)</li> <li>"Bad Girl" Ã¢â‚¬â€œ <i>Confessions (Expanded Edition)</i> (March 23, 2004, LaFace Records)</li> <li>"Nice & Slow - Live" Ã¢â‚¬â€œ <i>Live</i> (March 23, 1999, Arista/LaFace Records)</li>
+</ul>
+<p>Dive into UsherÃ¢â‚¬â„¢s powerful discography and relive the magic of his iconic hits.</p>
+<hr>
+<div class="post-footer"> <p>Discover more of BigBanonos' favorites at:</p> <ul> <li><a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos Blog</a></li> <li><a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a></li> <li><a href="https://x.com/bigbanonos" target="_blank">BigBanonos on X/Twitter</a></li> </ul>
+</div>
+<div class="post-tags"> Tags: @usher,
+</div>
+
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @usher,</p>
+
+---
+title: "vybz kartel 24 songs"
+layout: post
+---
+<h1>BigBanonos Favorite Songs by Vybz Kartel</h1>
+{{< img-lite src="https://www.billboard.com/wp-content/uploads/2024/11/Vybz-Kartel-destroyers-co-2004-billboard-1548.jpg" alt="Vybz Kartel" >}} <p>Vybz Kartel, the prolific and influential dancehall artist, continues to dominate with his innovative style and unmatched catalog. Here are BigBanonos' favorite tracks from Vybz Kartel, listed by release date:</p> <ol> <li><strong>Quick Quick Quick</strong> | <em>Quick Quick Quick</em> | Released: 2019-12-20 | StillYet Productions</li> <li><strong>Bestfriend</strong> (with Birchill) | <em>Bestfriend</em> | Released: 2019-08-20 | Birchill Records</li> <li><strong>Then You... And Me</strong> | <em>Then You... And Me</em> | Released: 2019-10-18 | Short Boss Muzik - Johnny Wonder</li> <li><strong>Like I'm Superman</strong> (with Sikka Rymes) | <em>Like I'm Superman</em> | Released: 2019-11-01 | Redboom-Frenz For Real - Johnny Wonder</li> <li><strong>Back Way</strong> (feat. Spice) | <em>Back Way - Single</em> | Released: 2019-05-03 | TJ Records</li> <li><strong>Come Home</strong> | <em>Come Home - Single</em> | Released: 2019-01-25 | TJ Records</li> <li><strong>Real Bad Gal</strong> | <em>Real Bad Gal</em> | Released: 2018-02-16 | Mixpak Records</li> <li><strong>Who Trouble Dem</strong> | <em>Who Trouble Dem - Single</em> | Released: 2016-08-12 | Good Good Productions</li> <li><strong>Romping Shop</strong> (feat. Spice) | <em>Dancehall Hero Raw (Deluxe)</em> | Released: 2016-01-29 | Tad's Record</li> <li><strong>Can't Say No</strong> (feat. MonCherie) | <em>King Of The Dancehall</em> | Released: 2016-06-10 | Adidjahiem Records/TJ Records/Zojak World Wide</li> <li><strong>Lipstick</strong> | <em>King Of The Dancehall</em> | Released: 2016-06-10 | Adidjahiem Records/TJ Records/Zojak World Wide</li> <li><strong>Gates of Heaven</strong> | <em>Gates of Heaven - Single</em> | Released: 2016-02-12 | Adidjahiem Records</li> <li><strong>Enchanting</strong> | <em>Viking (Vybz Is King)</em> | Released: 2015-01-13 | Adidjahiem Records - TJ Records</li> <li><strong>Summer Time</strong> | <em>Kartel Forever: Trilogy</em> | Released: 2013-09-24 | Tads/Vybz 2</li> <li><strong>Hi</strong> | <em>Hi - Single</em> | Released: 2013-09-10 | Head Concussion</li> <li><strong>Punany A Mi Best Friend</strong> | <em>Punany A Mi Best Friend</em> | Released: 2013-08-15 | SOUNIQUE RECORDS</li> <li><strong>Mr. Broadcast Comission (Anuh My Music)</strong> | <em>The Voice of the Jamaican Ghetto</em> | Released: 2013-07-07 | Whirlwind Records</li> <li><strong>Something Aguh Happen</strong> | <em>The Voice of the Jamaican Ghetto</em> | Released: 2013-07-07 | Whirlwind Records</li> <li><strong>Struggling</strong> | <em>The Voice of the Jamaican Ghetto</em> | Released: 2013-07-07 | Whirlwind Records</li> <li><strong>Thank You Jah</strong> | <em>The Voice of the Jamaican Ghetto</em> | Released: 2013-07-07 | Whirlwind Records</li> <li><strong>Ever Blesses</strong> | <em>Ever Blessed</em> | Released: 2012-12-11 | Head Concussion</li> <li><strong>Bike Back</strong> | <em>Amsterdam</em> | Released: 2012-07-19 | Adde Instrumentals</li> <li><strong>Go Go Wine</strong> | <em>Kingston Story</em> | Released: 2011-06-21 | Mixpak Records</li> <li><strong>Yuh Love</strong> | <em>Yuh Love</em> | Released: 2009-08-25 | Mixpak Records</li>
+</ol> <div> {{< youtube "embed" >}}
+</div> <p><em>First posted by BigBanonos - <a href="https://bigbanonos.blogspot.com/">https://bigbanonos.blogspot.com/</a></em></p>
+<p><em>Last updated November 15, 2024</em></p>
+<p>Follow BigBanonos on <a href="https://www.youtube.com/@BigBanonos">YouTube</a> and <a href="https://x.com/bigbanonos">Twitter</a> for more music content.</p>
+<p>Tags: @vybzkartel, @spice, @moncherie, @sikkarymes, @birchill</p>
+
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @sikkarymes,@birchill,@spice,@moncherie,@vybzkartel,</p>
+
+---
+title: "wyclef jean"
+layout: post
+---
+<!-- Title of the Post -->
+<h1 >Wyclef Jean, Rappin' 4-Tay - Playaz Club 2011 Remix [Another Carjack]</h1> <!-- Introductory Text -->
+<p >Updated with "Playaz Club 2011 Remix [Another Carjack]" by Wyclef Jean and Rappin' 4-Tay, from the single *Playaz Club 2011 Remix [Another Carjack]*, released on October 11, 2011, by Forte Music. This track blends rap kreyol and G-funk with an upbeat rhythm.</p> <!-- Featured Image -->
+<div > <img src="https://www.billboard.com/wp-content/uploads/2024/07/wylcef-jean-bet-awards-rc-2024-billboard-1548.jpg?w=942&h=623&crop=1" width="640" height="427" style="aspect-ratio:3/2;" alt="Wyclef Jean - Playaz Club 2011 Remix" />
+</div> <!-- YouTube Video Embed -->
+<div > {{< youtube "thy0xp9IDfg" >}}
+</div> <!-- Song Information -->
+<div > <p><em>"Playaz Club 2011 Remix [Another Carjack]"</em> by Wyclef Jean and Rappin' 4-Tay is from the single *Playaz Club 2011 Remix [Another Carjack]*, released on October 11, 2011. The track features rap kreyol and G-funk with a smooth flow that brings a fresh vibe to a classic anthem.</p>
+</div> <!-- Footer Links -->
+<div > <p>Explore more at <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Check out our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a> channels for more music updates.</p>
+</div> <!-- Tags -->
+<p >Tags: @wyclefjean,@rappin4tay,</p>
+
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @rappin4tay,</p>
+
+---
+title: "yoke lore"
+layout: post
+---
+<!-- Title of the Post -->
+<h1 >Yoke Lore - Fake You</h1> <!-- Introductory Text -->
+<p >Updated with *Fake You* by Yoke Lore, an indie pop hit from the artist's *Fake You* release on March 9, 2018. This song stands out with its unique NYC pop style and emotional lyrics, showcasing Yoke Lore's distinctive sound.</p> <!-- Featured Image -->
+<div > <img src="https://www.billboard.com/wp-content/uploads/media/yoke-lore-fake-you-vid-2018-billboard-1548.jpg?w=942&h=623&crop=1" width="640" height="427" style="aspect-ratio:3/2;" alt="Yoke Lore - Fake You" />
+</div> <!-- YouTube Video Embed -->
+<div > {{< youtube "ttKahjcT2M0" >}}
+</div> <!-- Song Information -->
+<div > <p><em>"Fake You"</em> offers an intimate look at Yoke Lore's indie pop roots, blending NYC pop with introspective lyrics. Released in 2018, it remains one of the artist's defining tracks.</p>
+</div> <!-- Footer Links -->
+<div > <p>Discover more at <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. For exclusive updates, check out our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a> channels.</p>
+</div> <!-- Tags -->
+<p >Tags: @yokelore,</p>
+
+
+<!--Subscribe and Playlist Links-->
+<div>
+    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
+    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+
+<hr />
+
+<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+
+<p>tags: @yokelore,</p>
+

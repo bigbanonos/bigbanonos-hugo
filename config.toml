@@ -27,3 +27,5 @@ enableRobotsTXT = true
   name = "Tags"
   url = "/tags/"
   weight = 2
+
+description = 'BigBanonos: The best in Trap, Hip-Hop, and Chopped & Screwed playlists.'
