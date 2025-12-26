@@ -1,0 +1,8 @@
+{{- /* Nitro Cover Image Override */ -}}
+{{- with .cxt -}}
+{{- if (and .Params.cover.image (not $.isHidden)) -}}
+<figure class="entry-cover">
+    <img loading="eager" fetchpriority="high" src="{{ .Params.cover.image | absURL }}" alt="{{ .Params.cover.alt | default .Title }}" style="width: 100%; height: auto; aspect-ratio: 16/9; background-color: #f0f0f0;">
+</figure>
+{{- end -}}
+{{- end -}}
