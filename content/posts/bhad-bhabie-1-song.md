@@ -12,7 +12,15 @@ artists:
   - '@bhadbhabie'
 ---
 
-<img src="https://thefader-res.cloudinary.com/private_images/w_640,c_limit,f_auto,q_auto:eco/pjimage-12_sga1k8/bhad-bhabie-megan-thee-stallion-bestie-review-stream.jpg" width="640" height="360" fetchpriority="high" loading="eager" alt="Bhad Bhabie" style="width:100%; height:auto; aspect-ratio: 16/9;" />
+<img 
+  loading="eager" 
+  fetchpriority="high" 
+  src="https://thefader-res.cloudinary.com/private_images/w_640,c_limit,f_auto,q_auto:eco/pjimage-12_sga1k8/bhad-bhabie-megan-thee-stallion-bestie-review-stream.jpg" 
+  alt="Bhad Bhabie" 
+  width="640" 
+  height="360" 
+  style="width: 100%; max-width: 720px; height: auto; aspect-ratio: 16/9; display: block; margin: 0 auto;"
+>
 
 ## BigBanonos’ Favorite 4 Songs by Bhad Bhabie
 
