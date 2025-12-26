@@ -2,7 +2,7 @@
 title: "mereba 1 song"
 layout: post
 ---
-<iframe frameborder="0" height="270" src="https://youtube.com/embed/vHfIUaxr598" width="480"></iframe><h2><ol><li>Rider [2021]</li></ol></h2>
+{{< youtube "vHfIUaxr598" >}}<h2><ol><li>Rider [2021]</li></ol></h2>
 
 <!--Subscribe and Playlist Links-->
 <div>

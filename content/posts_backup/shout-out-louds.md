@@ -4,10 +4,10 @@ layout: post
 ---
 <h1>BigBanonos' Favorite Songs by Shout Out Louds</h1>
 <img src="https://i.scdn.co/image/ab67616d0000b273dfb939feb07587ed086c649f">
-<p>Shout Out Louds bring an infectious mix of indie pop and rock. Here are BigBanonos' top picks.</p> <iframe src="https://open.spotify.com/embed/playlist/6RtILKDsJw08EIZESUEJ5B?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> <ul> <li><strong>Tonight I Have to Leave It</strong> | <em>Our Ill Wills</em> | Merge Records | Released: September 11, 2007</li> <li><strong>Shut Your Eyes</strong> | <em>Howl Howl Gaff Gaff</em> | Capitol Records | Released: January 1, 2005</li>
+<p>Shout Out Louds bring an infectious mix of indie pop and rock. Here are BigBanonos' top picks.</p> {{< youtube "embed" >}} <ul> <li><strong>Tonight I Have to Leave It</strong> | <em>Our Ill Wills</em> | Merge Records | Released: September 11, 2007</li> <li><strong>Shut Your Eyes</strong> | <em>Howl Howl Gaff Gaff</em> | Capitol Records | Released: January 1, 2005</li>
 </ul> <h3>Remix Highlight</h3>
 <p>"July 14, 2013" (Jens Lekman Remix)</p>
-<iframe width="95%" height="315" src="https://www.youtube.com/embed/WoXnQDpox_w?list=PLtuNtuTatqI0ougFL6ljsXyXfjMT9LrjJ" frameborder="0" allowfullscreen></iframe> <hr>
+{{< youtube "WoXnQDpox_w" >}} <hr>
 <p>first posted by <a href="https://bigbanonos.blogspot.com/">https://bigbanonos.blogspot.com/</a></p>
 <div> <p>Explore more BigBanonos content: <a href="https://bigbanonos.blogspot.com/">Website</a> | <a href="https://www.youtube.com/@BigBanonos">YouTube</a> | <a href="https://x.com/bigbanonos">Twitter</a></p>
 </div>

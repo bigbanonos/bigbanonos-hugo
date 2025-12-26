@@ -7,7 +7,7 @@ layout: post
 <p >Updated May 19, 2015, with "Raw Honey" by Du Blonde. This track, from the album *Welcome Back To Milk* released under Mute Records, showcases a blend of folk-inspired chamber psych with raw emotional undertones.</p> <!-- Featured Image -->
 <div > <img src="https://narcmagazine.com/wp-content/uploads/2019/01/Du-Blonde-Spread__1548858439_128.65.101.130.jpg" alt="Du Blonde - Raw Honey" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/xQg-Y56hBeI" title="Du Blonde - Raw Honey" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "xQg-Y56hBeI" >}}
 </div> <!-- Song Information -->
 <div > <p>In "Raw Honey," Du Blonde delivers an intricate mix of powerful vocals and hauntingly beautiful arrangements. The track exemplifies her ability to balance vulnerability and strength, making it a standout on *Welcome Back To Milk*.</p>
 </div> <!-- Footer Links -->

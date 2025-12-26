@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Dat Sexy Body" by Sasha, from the compilation *Reggae Gold 2003*, released on June 17, 2003, by VP Records.</p> <!-- Featured Image -->
 <div > <img src="https://i.ytimg.com/vi/yxP2jo6cvS8/maxresdefault.jpg" alt="Sasha - Dat Sexy Body" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="601" src="https://www.youtube.com/embed/yxP2jo6cvS8" title="Dat Sexy Body" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "yxP2jo6cvS8" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Dat Sexy Body"</em> by Sasha is a track from the compilation *Reggae Gold 2003*, released on June 17, 2003. The song is a lively dancehall queen anthem, a classic in the reggae and dancehall genres.</p>
 </div> <!-- Footer Links -->

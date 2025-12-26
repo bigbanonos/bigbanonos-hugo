@@ -7,7 +7,7 @@ layout: post
 <p >Updated July 7, 1987, with "Paid In Full" by Eric B. & Rakim. A groundbreaking track from their iconic debut album *Paid In Full*, defining the golden age of hip hop.</p> <!-- Featured Image -->
 <div > <img src="https://m.media-amazon.com/images/I/81L6Dkf9N1L._UF1000,1000_QL80_.jpg" alt="Eric B. & Rakim - Paid In Full" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/E7t8eoA_1jQ" title="Eric B. & Rakim - Paid In Full" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "E7t8eoA_1jQ" >}}
 </div> <!-- Song Information -->
 <div > <p>"Paid In Full" is a masterpiece of lyrical brilliance and innovative production, solidifying Eric B. & Rakim's place as pioneers in the hip hop genre.</p>
 </div> <!-- Footer Links -->

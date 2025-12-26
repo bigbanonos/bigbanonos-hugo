@@ -7,7 +7,7 @@ layout: post
 <p >Updated January 1, 2002, with "Don't Tell Me the Truth" by The Remains. This energetic track from their album *Movin' On*, released under Rock-A-Lot Records, is a quintessential piece of classic garage rock with a timeless charm. Watch and listen below!</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d0000b273c329cfafcc7a023ec52f04df" alt="The Remains - Don't Tell Me the Truth" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="733" height="480" src="https://www.youtube.com/embed/9ko438hQ6CE" title="THE REMAINS 'Don't Tell Me The Truth'" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "9ko438hQ6CE" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Don't Tell Me the Truth"</em>, released on January 1, 2002, by Rock-A-Lot Records, is a standout track from The Remainsâ€™ *Movin' On*. Combining classic garage rock energy with freakbeat influences, the song showcases the bandâ€™s raw, captivating sound.</p>
 </div> <!-- Footer Links -->

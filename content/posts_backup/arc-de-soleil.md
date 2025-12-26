@@ -7,7 +7,7 @@ layout: post
 <p >Updated October 18, 2019, with BigBanonos' favorite song by Arc De Soleil, "Got Caught in Amsterdam," from the album *The Thief in Marrakesh Got Caught in Amsterdam Trying to Escape*. Watch the video and see more details below:</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616100005174d9212ee58e2519f7b4f28104" alt="Arc De Soleil - Got Caught in Amsterdam" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/SuvVK76HAPE" title="Got Caught in Amsterdam" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "SuvVK76HAPE" >}}
 </div> <!-- Song Information -->
 <div > <p>"Got Caught in Amsterdam" by Arc De Soleil is a captivating instrumental track with atmospheric tones and a cinematic vibe. Released on October 18, 2019, under Epidemic Sound, this song evokes a sense of adventure and intrigue, perfectly fitting its evocative title.</p>
 </div> <!-- Footer Links -->

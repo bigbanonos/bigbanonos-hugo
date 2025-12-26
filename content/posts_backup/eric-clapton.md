@@ -4,9 +4,9 @@ layout: post
 ---
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Eric Clapton</h1> <!-- Featured Image -->
-<div > <img src="https://i.scdn.co/image/ab67616d0000b2736fdebec51a7d1857829f6f87" alt="Eric Clapton">
+<div > {{< img-lite src="https://i.scdn.co/image/ab67616d0000b2736fdebec51a7d1857829f6f87" alt="Eric Clapton" >}}
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/5u8qHOUDM1mWzN6HK1z4ft?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Introductory Text -->
 <p >Eric Clapton, one of the most influential guitarists of all time, shines in tracks like "This Has Gotta Stop" and his iconic blues-infused rock masterpieces.</p> <!-- Song Highlights -->
 <div > <p>BigBanonos' standout picks:</p> <ol> <li><strong>This Has Gotta Stop</strong> | <em>This Has Gotta Stop</em> | Released: August 27, 2021 | Bushbranch / Surfdog Records</li> </ol>

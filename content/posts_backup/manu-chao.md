@@ -7,7 +7,7 @@ layout: post
 <p >Updated in 2001, with "Merry Blues" by Manu Chao. This vibrant track from the album <em>Proxima Estacion: Esperanza</em>, released under Rhino Records, blends Latin alternative and world music influences, offering a joyful and eclectic listening experience.</p> <!-- Featured Image -->
 <div > <img src="https://i.ytimg.com/vi/eIDx7-3MqZc/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLD_mU85RP-PKUihmVOv9-Dp7rV_AQ" alt="Manu Chao - Merry Blues" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/eIDx7-3MqZc" title="Manu Chao - Merry Blues (Official Music Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "eIDx7-3MqZc" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Merry Blues"</em> by Manu Chao is a lively and infectious song that combines Latin alternative and world music elements. From the critically acclaimed album <em>Proxima Estacion: Esperanza</em>, this track radiates joy and cultural richness, a hallmark of Manu Chao's global sound.</p>
 </div> <!-- Footer Links -->

@@ -4,7 +4,7 @@ layout: post
 ---
 <h2>BigBanonos' Top 3 Favorite Songs by Bakar</h2> <!--Search Description-->
 <p>BigBanonosâ€™ top 3 favorite songs by Bakar, featuring hits like â€œI'm Doneâ€ and collaborations with Dominic Fike. Last updated September 6, 2023, with "I'm Done," highlighted in the playlist below:</p> <!--Spotify Playlist Embed-->
-<iframe allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" allowfullscreen="" frameborder="0" height="352" loading="lazy" src="https://open.spotify.com/embed/playlist/34PmZqlxYLdptCZU4FMCJ4?utm_source=generator" width="100%"></iframe> <!--Song List with Album Info-->
+{{< youtube "embed" >}} <!--Song List with Album Info-->
 <ul> <li><strong>I'm Done</strong> â€“ <em>I'm Done</em> â€“ Released September 6, 2023 â€“ Genre: uk alternative hip hop</li> <li><strong>Hell N Back</strong> â€“ <em>Hell N Back</em> â€“ Released August 15, 2019 â€“ Genre: uk alternative hip hop</li> <li><strong>Stop Selling Her Drugs</strong> (feat. Dominic Fike) â€“ <em>Will You Be My Yellow?</em> â€“ Released September 20, 2019 â€“ Genre: uk alternative hip hop, alternative pop rock, indie</li>
 </ul> <!--Image and Links-->
 <img alt="Bakar Performing" height="auto" src="https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2023%2F08%2Fbakar-right-here-for-now-single-video-stream-tw.jpg?w=1080&cbr=1&q=90&fit=max" width="100%" /> <!--Tags Section-->

@@ -3,8 +3,8 @@ title: "tim heidecker 2 songs"
 layout: post
 ---
 <h1>BigBanonos Favorite Songs by Tim Heidecker</h1>
-<img src="https://www.unitedtalent.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fq5l7sv7fkjc7%2FoeGdW1lckj8gvlsLKWpPFk9nmv1sgR1ckFNRHphwV4J%2Fd5c1c5ac541bb117cd6bfc9dcbab6182%2FTim_Headshot.jpg&w=3840&q=75" alt="Tim Heidecker"> <p>Known for his humor and unique sound, Tim Heidecker delivers memorable tracks. Here are BigBanonos' top picks:</p> <ol> <li><strong>Get Back Down To Me</strong> | <em>High School</em> | Released: 2022-06-24 | Spacebomb</li> <li><strong>What Did We Do With Our Time?</strong> | <em>High School</em> | Released: 2022-06-24 | Spacebomb</li>
-</ol> <div> <iframe src="https://open.spotify.com/embed/playlist/5wMxWlc7J219Sq8M37tdJy?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+{{< img-lite src="https://www.unitedtalent.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2Fq5l7sv7fkjc7%2FoeGdW1lckj8gvlsLKWpPFk9nmv1sgR1ckFNRHphwV4J%2Fd5c1c5ac541bb117cd6bfc9dcbab6182%2FTim_Headshot.jpg&w=3840&q=75" alt="Tim Heidecker" >}} <p>Known for his humor and unique sound, Tim Heidecker delivers memorable tracks. Here are BigBanonos' top picks:</p> <ol> <li><strong>Get Back Down To Me</strong> | <em>High School</em> | Released: 2022-06-24 | Spacebomb</li> <li><strong>What Did We Do With Our Time?</strong> | <em>High School</em> | Released: 2022-06-24 | Spacebomb</li>
+</ol> <div> {{< youtube "embed" >}}
 </div> <p><em>First posted by BigBanonos - <a href="https://bigbanonos.blogspot.com/">https://bigbanonos.blogspot.com/</a></em></p>
 <p><em>Last updated November 14, 2024</em></p>
 <p>Follow BigBanonos on <a href="https://www.youtube.com/@BigBanonos">YouTube</a> and <a href="https://x.com/bigbanonos">Twitter</a> for more music content.</p>

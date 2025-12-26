@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Slow Down" by Sedale, from the album *Atmosphere Riddim*, released on March 9, 2018, by Fox Fuse.</p> <!-- Featured Image -->
 <div > <img src="https://i.ytimg.com/vi/YZsjq1hiBPE/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDIYyhd71SSrn5JHk4faHZVeg2JSQ" alt="Sedale - Slow Down" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="601" src="https://www.youtube.com/embed/NbUEoL-6Azw" title="Sedale - Slow Down" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "NbUEoL-6Azw" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Slow Down"</em> by Sedale is a track from the album *Atmosphere Riddim*, released on March 9, 2018. The song blends soca and hip hop elements, creating a unique sound in the Caribbean music scene.</p>
 </div> <!-- Footer Links -->

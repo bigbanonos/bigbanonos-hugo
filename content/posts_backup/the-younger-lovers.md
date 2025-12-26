@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "The Ballad of Two Stubborn Men" by The Younger Lovers, from the album *Sugar in My Pocket*, released on December 10, 2013. This track blends punk energy with a playful narrative, making for a uniquely enjoyable listening experience.</p> <!-- Featured Image -->
 <div > <img src="https://media.pitchfork.com/photos/5929f45213d197565213dfeb/16:9/w_1280,c_limit/39323ab5.jpg" alt="The Younger Lovers - The Ballad of Two Stubborn Men" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="387" src="https://www.youtube.com/embed/8ZpDTp-j0ho" title="The Younger Lovers - The Ballad of Two Stubborn Men" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "8ZpDTp-j0ho" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"The Ballad of Two Stubborn Men"</em> by The Younger Lovers is a punk track from *Sugar in My Pocket*, offering a catchy and lighthearted look at the dynamics of stubborn relationships.</p>
 </div> <!-- Footer Links -->

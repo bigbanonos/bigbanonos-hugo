@@ -5,15 +5,15 @@ layout: post
 <!-- Title of the Post -->
 <h1>BigBanonosâ€™ Favorite Songs by Justin Bieber</h1> <!-- Introductory Text -->
 <p>Justin Bieber has gone from global teen star to seasoned hitmaker, and in 2025 heâ€™s still finding new ways to flip expectations. With his latest album <em>SWAG</em>, Bieber leans into playfulness, sharp hooks, and unexpected collaborations. Or as comedienne Bluski might put it, â€œthank u, thank uâ€ â€ Bieber out here proving how much swagger he really has.</p> <!-- Featured Image -->
-<div> <img src="https://i.ytimg.com/vi/qdDVtFvJwUc/maxresdefault.jpg" alt="Justin Bieber">
+<div> {{< img-lite src="https://i.ytimg.com/vi/qdDVtFvJwUc/maxresdefault.jpg" alt="Justin Bieber" >}}
 </div> <!-- Spotify Embed -->
-<div> <iframe src="https://open.spotify.com/embed/playlist/3F0P1Smy1pzWgoLr5N8Ter?utm_source=generator" width="100%" height="352" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div> {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <h3>Top Tracks by Justin Bieber:</h3>
 <ol> <li><strong>DAISIES</strong> | Album: <em>SWAG</em> | Released: July 11, 2025 | Labels: JRC Entertainment / ILH Production / Def Jam</li> <li><strong>YUKON</strong> | Album: <em>SWAG</em> | Released: July 11, 2025 | Labels: ILH Production / Def Jam</li> <li><strong>SWEET SPOT</strong> (feat. Sexyy Red) | Album: <em>SWAG</em> | Released: July 11, 2025 | Labels: JRC Entertainment / ILH Production / Def Jam</li> <li><strong>What Do You Mean?</strong> | Album: <em>Purpose (Deluxe)</em> | Released: November 13, 2015 | Label: RBMG/Def Jam</li> <li><strong>Love Yourself</strong> | Album: <em>Purpose (Deluxe)</em> | Released: November 13, 2015 | Label: RBMG/Def Jam</li>
 </ol> <!-- Featured Video -->
 <h3>Featured Video: â€œDAISIESâ€</h3>
-<div> <iframe width="100%" height="400" src="https://www.youtube.com/embed/fXivMSJm_kA" title="Justin Bieber - DAISIES (Official Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div> {{< youtube "fXivMSJm_kA" >}}
 </div> <p><em>Shot and directed by Cole Bennett</em><br>
 Song Producers: Sir Dylan, Carter Lang, Daniel Chetrit<br>
 Cinematographer: Cole Bennett<br>

@@ -3,8 +3,8 @@ title: "jungle 2 songs"
 layout: post
 ---
 <h1>Jungle: Top Songs</h1>
-<img src="https://i.scdn.co/image/ab67616d00001e028aef0e6491d487d7fe38e9cf" alt="Jungle band"> <p>Jungle, known for their unique fusion of indie soul and UK contemporary R&B, consistently delivers tracks that groove with infectious rhythms and rich, soulful vocals. Here are two of their standout songs:</p> <ol> <li><strong>GOOD TIMES</strong> | <em>GOOD TIMES / PROBLEMZ</em> | Release Date: May 30, 2022 | Caiola Records</li> <li><strong>Candle Flame</strong> (feat. Erick the Architect) | <em>Candle Flame</em> | Release Date: March 27, 2023 | Caiola Records</li>
-</ol> <div> <iframe src="https://open.spotify.com/embed/playlist/0Fe2hVpw5k3KxWwZVnIr1d?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+{{< img-lite src="https://i.scdn.co/image/ab67616d00001e028aef0e6491d487d7fe38e9cf" alt="Jungle band" >}} <p>Jungle, known for their unique fusion of indie soul and UK contemporary R&B, consistently delivers tracks that groove with infectious rhythms and rich, soulful vocals. Here are two of their standout songs:</p> <ol> <li><strong>GOOD TIMES</strong> | <em>GOOD TIMES / PROBLEMZ</em> | Release Date: May 30, 2022 | Caiola Records</li> <li><strong>Candle Flame</strong> (feat. Erick the Architect) | <em>Candle Flame</em> | Release Date: March 27, 2023 | Caiola Records</li>
+</ol> <div> {{< youtube "embed" >}}
 </div> <p>With <strong>"GOOD TIMES"</strong> exuding feel-good energy and <strong>"Candle Flame"</strong> adding a touch of hip hop flair through Erick the Architect's collaboration, these songs showcase Jungle's versatility and ability to merge styles seamlessly.</p> <div> <p>Discover more favorite tracks on BigBanonos: <a href="https://bigbanonos.blogspot.com/">Website</a> | <a href="https://www.youtube.com/@BigBanonos">YouTube</a> | <a href="https://x.com/bigbanonos">Twitter</a></p>
 </div> <!-- Tags -->
 <p>@jungle,@erickthearchitect</p>

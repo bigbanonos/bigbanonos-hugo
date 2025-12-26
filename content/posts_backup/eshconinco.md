@@ -7,7 +7,7 @@ layout: post
 <p >Updated May 3, 2019, with "Fall" by Eshconinco. This track from *Tuffchin Records* showcases a fresh take on Jamaican dancehall, highlighting Eshconinco's signature style and lyrical prowess.</p> <!-- Featured Image -->
 <div > <img src="https://cdn-images.dzcdn.net/images/artist/5c3d72daaf664b167ff03b8781d2eeee/500x500.jpg" alt="Eshconinco - Fall" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/0v2aabp11Xo" title="Eshconinco - Fall (Official Audio)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "0v2aabp11Xo" >}}
 </div> <!-- Song Information -->
 <div > <p>"Fall" is an engaging track that dives into the rhythms and themes characteristic of Jamaican dancehall, further cementing Eshconinco's reputation in the genre.</p>
 </div> <!-- Footer Links -->

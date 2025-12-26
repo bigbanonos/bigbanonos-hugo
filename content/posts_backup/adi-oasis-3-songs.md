@@ -10,7 +10,7 @@ layout: post
 <li><p>"Adonis" (Feat. KIRBY)<br />Album: <em>Lotus Glow</em><br />Release Date: March 3, 2023<br />Label: Unity Records<br />Genres: R&B, Latin</p></li>
 <li><p>"Naked" (Feat. Leven Kali)<br />Album: <em>Lotus Glow</em><br />Release Date: March 3, 2023<br />Label: Unity Records<br />Genres: R&B</p></li>
 </ol>
-<iframe allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" allowfullscreen="" frameborder="0" height="352" loading="lazy" src="https://open.spotify.com/embed/playlist/3XPDvsGMZiwqIW1GX5x2Th?utm_source=generator" width="100%"></iframe>
+{{< youtube "embed" >}}
 <div class="separator">
 <a href="https://i.scdn.co/image/ab67616d0000b273aadecbe6414e30c56fa8efab" >
 <img alt="" border="0" data-original-height="1024" data-original-width="1548" src="https://i.scdn.co/image/ab67616d0000b273aadecbe6414e30c56fa8efab" width="320" />

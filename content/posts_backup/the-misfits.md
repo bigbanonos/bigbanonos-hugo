@@ -2,7 +2,7 @@
 title: "the misfits"
 layout: post
 ---
-<h2>BigBanonos' Favorite Songs by Misfits</h2> <p><strong>Updated January 1, 1995, with "Return Of The Fly" from <em>Collection 2</em></strong></p> <img src="https://i.scdn.co/image/ab67616d0000b273bb2465de2a3e7a825977eaec" width="100%" alt="Misfits"> <p>Misfits revolutionized punk with their horror-infused anthems. Below are BigBanonos' favorite tracks.</p> <h3>Listen on Spotify</h3> <iframe src="https://open.spotify.com/embed/playlist/68815NeyrQGpDBnncfewaD?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> <h3>"Return Of The Fly"</h3>
+<h2>BigBanonos' Favorite Songs by Misfits</h2> <p><strong>Updated January 1, 1995, with "Return Of The Fly" from <em>Collection 2</em></strong></p> {{< img-lite src="https://i.scdn.co/image/ab67616d0000b273bb2465de2a3e7a825977eaec" alt="Misfits" >}} <p>Misfits revolutionized punk with their horror-infused anthems. Below are BigBanonos' favorite tracks.</p> <h3>Listen on Spotify</h3> {{< youtube "embed" >}} <h3>"Return Of The Fly"</h3>
 <p><em>Collection 2</em>, 1995</p> <h3>"Attitude"</h3>
 <p><em>Collection 2</em>, 1995</p> <h3>"Bullet"</h3>
 <p><em>Collection</em>, 1986</p> <h3>"Teenagers From Mars"</h3>

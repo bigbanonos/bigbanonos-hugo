@@ -7,7 +7,7 @@ layout: post
 <p >Updated July 2, 2002, with "Promise (Cool JD Remix)" by Jagged Edge featuring Loon and Jermaine Dupri. From the album *So So Def Presents: Definition of a Remix (This Is The Remix)*, this track blends smooth contemporary R&B with the signature ATL hip-hop sound.</p> <!-- Featured Image -->
 <div > <img src="https://images.squarespace-cdn.com/content/v1/56858337cbced60d3b293aef/1499359029867-P0R3WRQ9LG2NQ0WHB09F/Albumism_JaggedEdge_MainImage1.jpg" alt="Jagged Edge - Promise (Cool JD Remix)" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/2Gd-w19840Q" title="Promise (Cool JD Remix)" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "2Gd-w19840Q" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Promise (Cool JD Remix)"</em> combines Jagged Edge's soulful vocals with Jermaine Dupri's unmistakable production and Loon's smooth rap delivery. The track epitomizes the early 2000s' urban contemporary and hip-hop crossover vibe.</p>
 </div> <!-- Footer Links -->

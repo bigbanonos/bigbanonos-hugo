@@ -4,7 +4,7 @@ layout: post
 ---
 <h2>BigBanonos' Favorite Songs by Brazilian Girls</h2>
 <div class="separator"><a href="https://lastfm.freetls.fastly.net/i/u/ar0/85ad62d74d4d45ffa60199b8ad8971d5.jpg" ><img alt="" border="0" height="320" data-original-height="400" data-original-width="315" src="https://lastfm.freetls.fastly.net/i/u/ar0/85ad62d74d4d45ffa60199b8ad8971d5.jpg"/></a></div>
-<div> <iframe src="https://open.spotify.com/embed/playlist/5ZGTdST88TnLvnDMGbDBTq?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div> {{< youtube "embed" >}}
 </div> <h3>Updated Playlist</h3>
 <p>All songs arranged by most recently released:</p> <ul> <li><strong>KarakÃƒÆ’Ã‚Â¶y</strong> - Album: <em>Let's Make Love</em> (April 13, 2018)</li> <li><strong>Good Time</strong> - Album: <em>New York City</em> (January 1, 2008)</li> <li><strong>Don't Stop</strong> - Album: <em>Brazilian Girls</em> (January 1, 2005)</li> <li><strong>PPPM</strong> - Album: <em>Brazilian Girls</em> (January 1, 2005)</li> <li><strong>Pussy</strong> - Album: <em>Brazilian Girls</em> (January 1, 2005)</li>
 </ul> <h3>Video Highlights</h3>

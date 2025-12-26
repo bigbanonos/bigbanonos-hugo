@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "I Wanna Be Adored" by The Stone Roses, a 1989 anthem that defined the Madchester scene. A highlight from their self-titled debut album.</p> <!-- Featured Image -->
 <div > <img src="https://upload.wikimedia.org/wikipedia/en/d/d5/Iwannabeadored.jpg" alt="The Stone Roses - I Wanna Be Adored" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="733" height="480" src="https://www.youtube.com/embed/4D2qcbu26gs" title="The Stone Roses - I Wanna Be Adored (Official Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "4D2qcbu26gs" >}}
 </div> <!-- Footer Links -->
 <div > <p>For more updates, visit <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Also, check out our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a> channels for more exclusive content!</p>
 </div> <!-- Tags -->

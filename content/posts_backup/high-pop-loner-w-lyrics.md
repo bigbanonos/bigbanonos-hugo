@@ -3,7 +3,7 @@ title: "high pop loner w lyrics"
 layout: post
 ---
 #2012 <br />
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dgum3uqEF9A?list=PLtuNtuTatqI1gaYxU31bKXxtNFi4Cugmy" frameborder="0" allowfullscreen></iframe><br />
+{{< youtube "dgum3uqEF9A" >}}<br />
 Loner 2012
 
 <!--Subscribe and Playlist Links-->

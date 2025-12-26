@@ -2,7 +2,7 @@
 title: "the goon sax 1 song"
 layout: post
 ---
-<iframe frameborder="0" height="270" src="https://youtube.com/embed/QPHtsMICPdc" width="480"></iframe><h2><ol><li>In The Stone [2021]</li></ol></h2>
+{{< youtube "QPHtsMICPdc" >}}<h2><ol><li>In The Stone [2021]</li></ol></h2>
 
 <!--Subscribe and Playlist Links-->
 <div>

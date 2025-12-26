@@ -2,7 +2,7 @@
 title: "dawn richard 1 song"
 layout: post
 ---
-<iframe frameborder="0" height="360" src="https://youtube.com/embed/0_zUo8YVvXs" width="480"></iframe><h2><ol><li>Pressure [2021]</li></ol></h2>
+{{< youtube "0_zUo8YVvXs" >}}<h2><ol><li>Pressure [2021]</li></ol></h2>
 
 <!--Subscribe and Playlist Links-->
 <div>

@@ -7,7 +7,7 @@ layout: post
 <p >Updated October 20, 2017 with BigBanonos' favorite track, "The One to Wait" by CCFX. This standout Olympia indie track from their acclaimed *CCFX EP* captivates with its heartfelt melodies and introspective vibe.</p> <!-- Featured Image -->
 <div > <img src="https://f4.bcbits.com/img/0011295890_10.jpg" alt="CCFX - The One to Wait" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/yFBQA-jU9Bg" title="CCFX - The One To Wait (Official Music Video) [DFA Records]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "yFBQA-jU9Bg" >}}
 </div> <!-- Song Information -->
 <div > <p>"The One to Wait," featured on the *CCFX EP* and released by DFA Records, is a gem from the Olympia, WA indie scene that showcases CCFXâ€™s unique rock sound.</p>
 </div> <!-- Footer Links -->

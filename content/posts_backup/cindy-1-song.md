@@ -2,7 +2,7 @@
 title: "cindy 1 song"
 layout: post
 ---
-<br /><div class="separator" ><iframe allowfullscreen="" class="BLOG_video_class" height="266" src="https://www.youtube.com/embed/VOt3sgN8Rkg" width="320" youtube-src-id="VOt3sgN8Rkg"></iframe></div><h3><ol><li>Never Let Me Go [2020]</li></ol></h3>
+<br /><div class="separator" >{{< youtube "VOt3sgN8Rkg" >}}</div><h3><ol><li>Never Let Me Go [2020]</li></ol></h3>
 
 <!--Subscribe and Playlist Links-->
 <div>

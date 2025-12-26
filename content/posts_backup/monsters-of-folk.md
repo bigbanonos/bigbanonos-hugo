@@ -2,7 +2,7 @@
 title: "monsters of folk"
 layout: post
 ---
-<h2>BigBanonos' Favorite Songs by Monsters of Folk</h2> <p><strong>Updated September 22, 2009, with "Ahead Of The Curve" from <em>Monsters Of Folk</em></strong></p> <img src="https://i.scdn.co/image/ab67616d0000b273914c99a5517f963c3968dc69" width="100%" alt="Monsters of Folk"> <p>Supergroup Monsters of Folk brought together indie-folk legends for a modern take on classic Americana.</p> <h3>Listen on Spotify</h3> <iframe src="https://open.spotify.com/embed/playlist/7EMD4UFzvJ25q5NpN1VZNL?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> <h3>"Ahead Of The Curve"</h3>
+<h2>BigBanonos' Favorite Songs by Monsters of Folk</h2> <p><strong>Updated September 22, 2009, with "Ahead Of The Curve" from <em>Monsters Of Folk</em></strong></p> {{< img-lite src="https://i.scdn.co/image/ab67616d0000b273914c99a5517f963c3968dc69" alt="Monsters of Folk" >}} <p>Supergroup Monsters of Folk brought together indie-folk legends for a modern take on classic Americana.</p> <h3>Listen on Spotify</h3> {{< youtube "embed" >}} <h3>"Ahead Of The Curve"</h3>
 <p><em>Monsters Of Folk</em>, 2009</p> <h3>"Dear God (Sincerely M.O.F.)"</h3>
 <p><em>Monsters Of Folk</em>, 2009</p> <hr /> <p><strong>Tags:</strong> @monstersoffolk</p> <hr /> <p><em>First posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
 

@@ -7,7 +7,7 @@ layout: post
 <p >Updated June 17, 2016, with BigBanonos' favorite song by Aidan Moffat, "Jock McGraw," from the album *Where You're Meant to Be*. Watch the video and see more details below:</p> <!-- Featured Image -->
 <div > <img src="https://www.silentradio.co.uk/wp-content/uploads/2018/12/moffathubbert.jpg" alt="Aidan Moffat - Jock McGraw" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/yB_GVdYuyBU" title="Jock McGraw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "yB_GVdYuyBU" >}}
 </div> <!-- Song Information -->
 <div > <p>Released on June 17, 2016, "Jock McGraw" by Aidan Moffat is a poignant blend of Scottish hush and indie styles. Featured on the album *Where You're Meant to Be* and released under the Kiss My Beard label, this track showcases Moffat's evocative storytelling and signature sound.</p>
 </div> <!-- Footer Links -->

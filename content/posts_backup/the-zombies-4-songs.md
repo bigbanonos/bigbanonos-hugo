@@ -5,8 +5,8 @@ layout: post
 <!-- Post Title -->
 <h1>BigBanonos Favorite Songs by The Zombies</h1> <!-- Introductory Text -->
 <p>Updated November 27, 2024, with "I Want Her, She Wants Me" from *Odessey & Oracle 40th Anniversary Concert Live*, highlighted in the playlist below:</p> <!-- Featured Image -->
-<img src="https://www.repertoirerecords.com/wp-content/uploads/2018/10/thezombies-crop.jpg" alt="The Zombies Featured Image"> <!-- Spotify Playlist Embed -->
-<iframe src="https://open.spotify.com/embed/playlist/1dRi0CGAjrUzWYjMcXF55e?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> <!-- Song Information -->
+{{< img-lite src="https://www.repertoirerecords.com/wp-content/uploads/2018/10/thezombies-crop.jpg" alt="The Zombies Featured Image" >}} <!-- Spotify Playlist Embed -->
+{{< youtube "embed" >}} <!-- Song Information -->
 <ul> <li>"I Want Her, She Wants Me" from *Odessey & Oracle 40th Anniversary Concert Live* (June 30, 2008) - Redhouse</li> <li>"She's Not There" from *The 'See For Miles' 10th Anniversary Catalogue* (July 2, 1992) - See For Miles</li> <li>"This Will Be Our Year" from *Odessey and Oracle* (April 19, 1968) - Marquis Enterprises Ltd</li> <li>"Can't Nobody Love You" from *Begin Here* (March 1, 1965) - Marquis Enterprises Ltd</li>
 </ul> <!-- Footer Links -->
 <p>For more updates and playlists, visit <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Connect with us on <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p>

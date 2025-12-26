@@ -7,7 +7,7 @@ layout: post
 <p >Updated January 17, 2025, with "Cosmic Empire - Day 2 Demo / Take 1" from <em>Cosmic Empire/Run Of The Mill</em>. Discover the timeless melodies of George Harrison in the playlist below!</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab6761610000e5eb0d50c5a88d44de4a2dc60dc1" alt="George Harrison" />
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/34FeFnKY8ffqYb0Vo9chCg?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <div > <p><strong>"Cosmic Empire - Day 2 Demo / Take 1"</strong><br> Genre: Rock, Folk/Acoustic<br> Album: <em>Cosmic Empire/Run Of The Mill</em><br> Release Date: July 9, 2021<br> Label: BEATLES CATALOG MKT (C91)</p> <p><strong>"If Not For You"</strong><br> Genre: Rock, Folk/Acoustic<br> Album: <em>All Things Must Pass (Remastered)</em><br> Release Date: November 27, 1970<br> Label: UMG-EMI</p>
 </div> <!-- Footer Links -->

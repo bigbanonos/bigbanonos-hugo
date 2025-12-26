@@ -4,9 +4,9 @@ layout: post
 ---
  <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Anthony Newley</h1> <!-- Featured Image -->
-<div > <img src="https://i.scdn.co/image/465f9428268fb64df48b95e382035e242ce80e4f" alt="Anthony Newley">
+<div > {{< img-lite src="https://i.scdn.co/image/465f9428268fb64df48b95e382035e242ce80e4f" alt="Anthony Newley" >}}
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/5ovQPfENKIQMVtgKJ6RWmc?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Introductory Text -->
 <p >Anthony Newleyâ€™s smooth vocals and captivating tunes have stood the test of time. From "Do You Mind?" to "Why?," here are BigBanonos' favorite tracks by this classic artist.</p> <!-- Song Highlights -->
 <div > <p>BigBanonos' standout picks:</p> <ol> <li><strong>Do You Mind?</strong> | <em>The Magic Of Anthony Newley</em> | Released: 1960 | Marathon Music International</li> <li><strong>Why?</strong> | <em>The Magic Of Anthony Newley</em> | Released: 1959 | Marathon Music International</li> </ol>

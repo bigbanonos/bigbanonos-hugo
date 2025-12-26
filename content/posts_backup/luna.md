@@ -7,7 +7,7 @@ layout: post
 <p >Updated July 18, 1995, with "Lost in Space" from <em>Penthouse</em>. Dive into the dreamy melodies of Luna in the playlist below!</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab6761610000e5eb7bbb4aa16fe88118935068d5" alt="Luna" />
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/5YbaKuoqJLCC5qFFjcIj2Y?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <div > <p><strong>"Lost in Space"</strong><br> Genre: Pop, Folk/Acoustic<br> Album: <em>Penthouse</em><br> Release Date: July 18, 1995<br> Label: Elektra Records</p> <p><strong>"Slide"</strong><br> Genre: Pop, Folk/Acoustic<br> Album: <em>Lunapark</em><br> Release Date: August 4, 1992<br> Label: Elektra Records</p>
 </div> <!-- Footer Links -->

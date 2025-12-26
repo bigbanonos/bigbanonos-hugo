@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Hiphopper" by Thomas Rusiak featuring Teddybears, from the album *Magic Villa*, released in 2006. This track blends Swedish hip hop with electronic rock and electropop, offering a unique sound that's both upbeat and experimental.</p> <!-- Featured Image -->
 <div > <img src="https://i.ytimg.com/vi/9V2I9KUryH8/maxresdefault.jpg" alt="Thomas Rusiak, Teddybears - Hiphopper" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="514" src="https://www.youtube.com/embed/Zr-u2cPJhYw" title="Thomas Rusiak feat. Teddybears Sthlm - Hiphopper" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "Zr-u2cPJhYw" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Hiphopper"</em> by Thomas Rusiak featuring Teddybears is a fusion of Swedish hip hop, electronic rock, and electropop from the album *Magic Villa*. The track brings together innovative beats and catchy hooks, creating an exciting listening experience.</p>
 </div> <!-- Footer Links -->

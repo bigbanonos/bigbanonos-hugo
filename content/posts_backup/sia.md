@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Free the Animal" by Sia, from the album *1000 Forms of Fear*, released on July 4, 2014, by Monkey Puzzle Records/RCA Records.</p> <!-- Featured Image -->
 <div > <img src="https://i.ytimg.com/vi/tDWPoc1J2MM/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBOjpL3cJoSuUNlJ9WnHOdW6AyWXg" alt="Sia - Free the Animal" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/tDWPoc1J2MM" title="Sia - Free the Animal (Official Audio)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "tDWPoc1J2MM" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Free the Animal"</em> by Sia is a track from the album *1000 Forms of Fear*, released on July 4, 2014. The song features Sia's signature pop style with raw emotional depth, showcasing a mix of powerful vocals and a driving beat.</p>
 </div> <!-- Footer Links -->

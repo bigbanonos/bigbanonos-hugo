@@ -7,7 +7,7 @@ layout: post
 <p >Updated April 6, 1998, with "A Little Bit In Love" by Audra McDonald. This beautiful rendition from the Broadway star captures her unparalleled vocal elegance and heartfelt emotion. Watch the video below!</p> <!-- Featured Image -->
 <div > <img src="https://i.ytimg.com/vi/I2ZPldWZqqA/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AHeA4AC6AKKAgwIABABGGUgZShlMA8=&rs=AOn4CLBqCYJQCc7ZJaU3Jfh3Aicu1SwTWQ" alt="Audra McDonald - A Little Bit In Love" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="824" height="618" src="https://www.youtube.com/embed/I2ZPldWZqqA" title="A Little Bit in Love - Audra McDonald" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "I2ZPldWZqqA" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"A Little Bit In Love"</em>, from Audra McDonald's album *Way Back to Paradise* (1998), showcases her masterful interpretation of this Broadway classic. Her emotive delivery and stunning vocals bring this timeless tune to life.</p>
 </div> <!-- Footer Links -->

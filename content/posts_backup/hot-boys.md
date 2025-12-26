@@ -7,7 +7,7 @@ layout: post
 <p >Updated July 27, 1999, with "We On Fire" from <em>Guerrilla Warfare</em>. Revisit the Dirty South rap classics of Hot Boys in the playlist below!</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d0000b2734e0f8fa795f43031f83c9955" alt="Hot Boys" />
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/7srlNo49A430HtZhnZSv8t?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <div > <p><strong>"We On Fire"</strong><br> Genre: Hip Hop<br> Album: <em>Guerrilla Warfare</em><br> Release Date: July 27, 1999<br> Label: Cash Money</p> <p><strong>"I Need A Hot Girl" (feat. Big Tymers)</strong><br> Genre: Hip Hop<br> Album: <em>Guerrilla Warfare</em><br> Release Date: July 27, 1999<br> Label: Cash Money</p>
 </div> <!-- Footer Links -->

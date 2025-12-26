@@ -7,7 +7,7 @@ layout: post
 <p >Updated November 15, 2019, with "Run It Up" by Kwesta featuring Rich Homie Quan. This genre-blending track combines Afro Soul, South African Hip Hop, and Southern Hip Hop with a touch of ATL Rap energy, making it a standout in both local and global scenes.</p> <!-- Featured Image -->
 <div > <img src="https://www.okayafrica.com/media-library/image.png?id=22082988&width=1245&height=700&quality=85&coordinates=20%2C0%2C21%2C0" alt="Kwesta - Run It Up (feat. Rich Homie Quan)" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/C7hlzH-0OzU" title="Kwesta - Run It Up (Official Music Video) ft. Rich Homie Quan" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "C7hlzH-0OzU" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Run It Up"</em> by Kwesta featuring Rich Homie Quan is an electrifying collaboration that bridges South African Hip Hop and ATL Rap styles. Released under Sound African Recordings, this track highlights Kwesta's kasi rap roots alongside Rich Homie Quan's Southern Hip Hop flair.</p>
 </div> <!-- Footer Links -->

@@ -4,7 +4,7 @@ layout: post
 ---
 <h2>BigBanonos' Favorite Songs by Born At Midnite</h2> <!-- Search Description -->
 <p>BigBanonos' top 3 favorite tracks by Born At Midnite, listed from the latest release.</p> <!-- Spotify Playlist Embed -->
-<iframe src="https://open.spotify.com/embed/playlist/3JVaBCeHHZKS6U58g5GIqW?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> <!-- Song Listings -->
+{{< youtube "embed" >}} <!-- Song Listings -->
 <ul> <li>Y o Y - <em>Alternity</em> - Arbutus Records (2022-11-18)</li> <li>Rockstar Raver - <em>Alternity</em> - Arbutus Records (2022-11-18)</li> <li>Born At Midnite (Every Time) - <em>Born At Midnite (Every Time)</em> - Arbutus Records (2020-02-18)</li>
 </ul> <!-- Image -->
 <img src="https://f4.bcbits.com/img/0025416899_10.jpg" alt="Born At Midnite"/>

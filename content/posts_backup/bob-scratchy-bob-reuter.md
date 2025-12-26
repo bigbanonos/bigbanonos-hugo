@@ -3,7 +3,7 @@ title: "bob scratchy bob reuter"
 layout: post
 ---
 #stlouis <br />
-<iframe width="95%" height="315" src="https://www.youtube.com/embed/fZYYa9F9EsU?list=PLtuNtuTatqI3KDxLZo4RKJRE0i3VgB3vn" frameborder="0" allowfullscreen></iframe><br />
+{{< youtube "fZYYa9F9EsU" >}}<br />
 R.I.P.
 
 <!--Subscribe and Playlist Links-->

@@ -7,7 +7,7 @@ layout: post
 <p >Updated January 17, 2025, with "Cloud 69" from <em>We Loved Her Dearly</em>. Discover the vibrant electropop of Lowell in the playlist below!</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d00001e0297aded66d1c5c63898480968" alt="Lowell" />
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/4iOLv4WyjNhaW3GG3NA27t?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <div > <p><strong>"Cloud 69"</strong><br> Genre: Pop, Rock<br> Album: <em>We Loved Her Dearly</em><br> Release Date: br> Label: Arts&Crafts</p> <p><strong>"I Killed Sara V."</strong><br> Genre: Pop, Rock<br> Album: <em>We Loved Her Dearly</em><br> Release Date: September 16, 2014<br> Label: Arts&Crafts</p> <p><strong>"I Love You Money"</strong><br> Genre: Pop, Rock<br> Album: <em>We Loved Her Dearly</em><br> Release Date: September 16, 2014<br> Label: Arts&Crafts</p>
 </div> <!-- Footer Links -->

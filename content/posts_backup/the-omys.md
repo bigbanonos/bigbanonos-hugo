@@ -7,7 +7,7 @@ layout: post
 <p >*My House* by The O'My's is a soulful and smooth track that brings a blend of R&B with a unique twist. From their *Potty Mouth EP*, this track features a laid-back vibe perfect for your playlist. Enjoy the official video and feel the groove!</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d00001e0260bc74074eebb1dfbb828d04" alt="The O'My's - My House" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="617" src="https://www.youtube.com/embed/K7ghN4aa-fE" title="My House" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "K7ghN4aa-fE" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"My House"</em> by The O'My's showcases their soul-infused sound, blending smooth R&B with a fresh indie touch. Their unique approach to music makes this track a standout, with its infectious rhythm and undeniable charm.</p>
 </div> <!-- Footer Links -->

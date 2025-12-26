@@ -7,7 +7,7 @@ layout: post
 <p >Future redefined modern hip-hop with his signature trap sound and introspective lyrics. Explore BigBanonos' favorite tracks by Future below!</p> <!-- Featured Image -->
 <div > <img src="https://thisis-images.spotifycdn.com/37i9dQZF1DZ06evO133u6s-default.jpg" alt="Future - BigBanonos Favorite Songs" />
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/0eFrkUxz59hntkqckXgkWM?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Turn On The Lights"</em> showcases Future's ability to deliver emotional storytelling over trap beats. From the album <strong>Pluto 3D</strong>, released November 27, 2012, on <strong>Epic</strong>.</p>
 </div> <!-- Footer Links -->

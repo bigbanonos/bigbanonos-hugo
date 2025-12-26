@@ -5,7 +5,7 @@ layout: post
 <div class="separator" >
 <a href="https://www.rollingstone.com/wp-content/uploads/2020/02/The1975.jpg"><img border="0" data-original-height="533" data-original-width="800" height="266" src="https://www.rollingstone.com/wp-content/uploads/2020/02/The1975.jpg" width="400" /></a></div>
 <br />
-<iframe src="https://open.spotify.com/embed/playlist/5hHHWUdbgtWvESuRXN5og4?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+{{< youtube "embed" >}}
 
 <!--Subscribe and Playlist Links-->
 <div>

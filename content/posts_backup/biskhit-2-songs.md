@@ -4,7 +4,7 @@ layout: post
 ---
 <h2>BigBanonos' Top 2 Songs by BISKHIT</h2> <!--Search Description-->
 <p>BigBanonos' favorite tracks by BISKHIT, highlighting unique sounds in "My Scene Mami" and "BEBE 24 !" Enjoy these #NotOnSpotify and #NotOnYouTube tracks.</p> <!--Spotify Playlist Embed-->
-<iframe allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" allowfullscreen="" frameborder="0" height="352" loading="lazy" src="https://open.spotify.com/embed/playlist/1OpC6OC4i0CtzaSX5yCaho?utm_source=generator" width="100%"></iframe> <!--Song Listings-->
+{{< youtube "embed" >}} <!--Song Listings-->
 <ul> <li>MY SCENE MAMI - <em>HIGHER</em> (flanork, 2022-01-13)</li> <li>BEBE 24 ! - <em>DELUSIONS OF PISCES</em> (flanork, 2020-01-03)</li>
 </ul> <!--Image Placeholder for BISKHIT-->
 <p>This song is #NotOnSpotify and #NotOnYouTube. Enjoy the track "My Scene Mami" by BISKHIT, exclusively featured on BigBanonos.</p>

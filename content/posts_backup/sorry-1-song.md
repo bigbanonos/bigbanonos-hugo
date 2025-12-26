@@ -2,7 +2,7 @@
 title: "sorry 1 song"
 layout: post
 ---
-<iframe frameborder="0" height="270" src="https://youtube.com/embed/uEPWy2rvCIY" width="480"></iframe><div><h2><ol><li>Thereâ€™s So Many People That Want To Be Loved [2022]</li></ol></h2></div>
+{{< youtube "uEPWy2rvCIY" >}}<div><h2><ol><li>Thereâ€™s So Many People That Want To Be Loved [2022]</li></ol></h2></div>
 
 <!--Subscribe and Playlist Links-->
 <div>

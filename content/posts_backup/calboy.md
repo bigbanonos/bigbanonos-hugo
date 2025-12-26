@@ -7,7 +7,7 @@ layout: post
 <p >Updated August 16, 2019, with BigBanonos' favorite track, "Chariot" by Calboy featuring Meek Mill and Lil Durk. This dynamic collaboration blends melodic rap with high-energy beats, showcasing the best of Chicago, Philly, and Southern hip hop scenes.</p> <!-- Featured Image -->
 <div > <img src="https://www.billboard.com/wp-content/uploads/media/Calboy-bb03-2019-chartbreaker-billboard-cdnjirtiu-1500.jpg" alt="Calboy - Chariot" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/Ylf3MSDbssM" title="Calboy - Chariot (Audio) ft. Meek Mill, Lil Durk, Young Thug" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "Ylf3MSDbssM" >}}
 </div> <!-- Song Information -->
 <div > <p>"Chariot" by Calboy, featuring Meek Mill and Lil Durk, is from the album *Chariot*, released on August 16, 2019, under Polo Grounds Music/RCA Records. This track seamlessly combines melodic rap, Chicago drill, and Philly rap influences for an unforgettable listening experience.</p>
 </div> <!-- Footer Links -->

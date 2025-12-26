@@ -7,7 +7,7 @@ layout: post
 <p >Updated November 9, 2018, with "Red Wine" by Grapetooth. This energetic indie gem from their self-titled debut album captures the Chicago duo's unique blend of garage rock and synth-driven melodies.</p> <!-- Featured Image -->
 <div > <img src="https://dispatch-public.s3.amazonaws.com/a698cceb234c537418e5337f4c226946a24314e8_bdcf6862df2c438c8fd57c9e890bc995fe7df74c_medium_jpg" alt="Grapetooth - Red Wine" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/Lu0XMHCyK_s" title="Grapetooth - Red Wine [OFFICIAL MUSIC VIDEO]" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "Lu0XMHCyK_s" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Red Wine"</em> showcases Grapetooth's signature soundâ€a quirky fusion of Chicago indie vibes and raw, anthemic energy. Released on November 9, 2018, this track perfectly embodies their playful yet heartfelt approach to music.</p>
 </div> <!-- Footer Links -->

@@ -7,7 +7,7 @@ layout: post
 <p>Les Savy Fav brings a unique mix of dance-punk and experimental rock to the indie music scene. BigBanonos highlights their most energetic and thought-provoking tracks.</p> <!--Featured Image-->
 <div> <img alt="Les Savy Fav" src="https://www.brooklynvegan.com/wp-content/uploads/2018/12/18/les-savy-fav-1052x591.jpg?t=1715546024" />
 </div> <!--Spotify Embed-->
-<div> <iframe allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" allowfullscreen="" frameborder="0" height="352" loading="lazy" src="https://open.spotify.com/embed/playlist/5NNdGo8IVYIJU9tAb8awG7?utm_source=generator" width="100%"></iframe>
+<div> {{< youtube "embed" >}}
 </div> <!--Song Information-->
 <h3>Top Tracks by Les Savy Fav:</h3>
 <ol> <li><strong>Patty Lee</strong> | Album: <em>Let's Stay Friends</em> | Released: September 18, 2007 | Label: Frenchkiss Records</li> <li><strong>The Sweat Descends</strong> | Album: <em>Inches</em> | Released: June 1, 2004 | Label: Frenchkiss Records</li><li><strong>Yawn, Yawn, Yawn</strong>Ãƒâ€šÃ‚Â | Album:Ãƒâ€šÃ‚Â <em>Inches</em>Ãƒâ€šÃ‚Â | Released: June 1, 2004 | Label: Frenchkiss Records</li> <li><strong>Scotchgard The Credit Card</strong> | Album: <em>Let's Stay Friends</em> | Released: 2007 | Label: Universal Music LLC</li><li><strong>Comes And Goes</strong>Ãƒâ€šÃ‚Â | Album:Ãƒâ€šÃ‚Â <em>Let's Stay Friends</em>Ãƒâ€šÃ‚Â | Released: 2007 | Label: Universal Music LLC</li> <li><strong>Who Rocks the Party</strong> | Album: <em>Cat and the Cobra</em> | Released: 1999 | Label: Frenchkiss Records</li>

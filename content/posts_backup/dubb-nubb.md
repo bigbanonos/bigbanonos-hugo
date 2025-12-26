@@ -7,7 +7,7 @@ layout: post
 <p >Updated November 18, 2011, with "Mound City Baby" by Dubb Nubb. This heartfelt track from their *Sunrise Sleepy Eyed* album, released under Special Passenger Records, highlights their unique blend of indie and country influences.</p> <!-- Featured Image -->
 <div > <img src="https://dispatch-public.s3.amazonaws.com/c50404c835df14ebeb77179a955aea16e900878c_75e4e06ca3883a966ade366efdbebae55c84ffd0_medium_jpg" alt="Dubb Nubb - Mound City Baby" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/OIE6CkLpL2I" title="Dubb Nubb - Mound City Baby" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "OIE6CkLpL2I" >}}
 </div> <!-- Song Information -->
 <div > <p>"Mound City Baby" captures the essence of Dubb Nubbâ€™s heartfelt storytelling, enriched with their signature STL indie sound. Itâ€™s a nostalgic and melodic piece that resonates deeply with listeners.</p>
 </div> <!-- Footer Links -->

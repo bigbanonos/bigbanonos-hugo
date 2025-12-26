@@ -7,9 +7,9 @@ layout: post
 <ol> <li><strong>Someone Great</strong> â€“ <em>Sound of Silver</em> (2007)</li> <li><strong>Daft Punk Is Playing at My House</strong> â€“ <em>LCD Soundsystem</em> (2005)</li> <li><strong>All My Friends</strong> â€“ <em>Sound of Silver</em> (2007)</li> <li><strong>On Repeat</strong> â€“ <em>LCD Soundsystem</em> (2005)</li>
 </ol> <h3>Videos</h3>
 <p>Check out some of their unforgettable moments:</p>
-<div> <iframe src="https://www.youtube.com/embed/QAJNKzG-5lM" width="100%" height="344" frameborder="0" allowfullscreen=""></iframe>
+<div> {{< youtube "QAJNKzG-5lM" >}}
 </div> <h3>Stream the Playlist</h3>
-<iframe src="https://open.spotify.com/embed/playlist/4Fw1k5BiIx2miZDXxd36Dx?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen=""></iframe> <h3>Tags</h3>
+{{< youtube "embed" >}} <h3>Tags</h3>
 <p>@lcdsoundsystem</p> <hr />
 <p>Check out more BigBanonos content: <a href="https://bigbanonos.blogspot.com/" target="_blank">Website</a> | <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> | <a href="https://x.com/bigbanonos" target="_blank">Twitter</a></p>
 <p><em>First posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>

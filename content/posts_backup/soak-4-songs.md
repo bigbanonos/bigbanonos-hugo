@@ -3,9 +3,9 @@ title: "soak 4 songs"
 layout: post
 ---
 <h1>BigBanonos Top Songs by SOAK</h1>
-<img src="https://i1.sndcdn.com/avatars-000512969709-f6t3vc-t240x240.jpg" alt="SOAK"> <p>SOAK's music combines introspective lyrics with a unique indie folk sound. Here are BigBanonos' favorites:</p> <ol> <li><strong>swear jar - Radio edit</strong> | <em>swear jar</em> | Released: 2022-05-16 | Rough Trade</li> <li><strong>Bloodbuzz Ohio</strong> | <em>Bloodbuzz Ohio</em> | Released: 2019-11-25 | Rough Trade</li> <li><strong>Everybody Loves You</strong> | <em>Grim Town</em> | Released: 2019-04-26 | Rough Trade</li> <li><strong>B a noBody</strong> | <em>Before We Forgot How To Dream</em> | Released: 2015-06-01 | Rough Trade</li>
-</ol> <iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/videoseries?list=PLtuNtuTatqI3o-ASamVHv5uXjNzIDaqPX" width="100%"></iframe><br />
-<div> <iframe src="https://open.spotify.com/embed/playlist/58faTovEVf2NJClO6EkNjn?utm_source=generator" width="100%" height="352" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+{{< img-lite src="https://i1.sndcdn.com/avatars-000512969709-f6t3vc-t240x240.jpg" alt="SOAK" >}} <p>SOAK's music combines introspective lyrics with a unique indie folk sound. Here are BigBanonos' favorites:</p> <ol> <li><strong>swear jar - Radio edit</strong> | <em>swear jar</em> | Released: 2022-05-16 | Rough Trade</li> <li><strong>Bloodbuzz Ohio</strong> | <em>Bloodbuzz Ohio</em> | Released: 2019-11-25 | Rough Trade</li> <li><strong>Everybody Loves You</strong> | <em>Grim Town</em> | Released: 2019-04-26 | Rough Trade</li> <li><strong>B a noBody</strong> | <em>Before We Forgot How To Dream</em> | Released: 2015-06-01 | Rough Trade</li>
+</ol> {{< youtube "videoseries" >}}<br />
+<div> {{< youtube "embed" >}}
 </div>
 <p>Tags: @soak</p>
 

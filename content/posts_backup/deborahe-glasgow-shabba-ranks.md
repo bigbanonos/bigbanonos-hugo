@@ -7,7 +7,7 @@ layout: post
 <p >Updated December 4, 2007, with "Champion Lover (Mister Loverman)" featuring Deborahe Glasgow and Shabba Ranks. Originally released as part of the *Reggae Anthology: Music Works Classics* collection, this iconic reggae fusion track remains a standout in its genre.</p> <!-- Featured Image -->
 <div > <img src="https://iscale.iheart.com/catalog/artist/30636329" alt="Deborahe Glasgow & Shabba Ranks - Reggae Anthology Cover" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/0t5C6StbZFo" title="Mr. Lover Man (feat. Deborahe Glasgow)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "0t5C6StbZFo" >}}
 </div> <!-- Song Information -->
 <div > <p>"Champion Lover (Mister Loverman)" blends the sultry tones of Deborahe Glasgow with the commanding presence of Shabba Ranks. A defining reggae anthem, it celebrates their iconic collaboration and the genre's timeless appeal.</p>
 </div> <!-- Footer Links -->

@@ -7,7 +7,7 @@ layout: post
 <p >Updated January 1, 1981, with "Private Eyes" by Hall & Oates. This iconic track from their album of the same name blends catchy melodies with the duo's signature pop-rock style. Watch the video below!</p> <!-- Featured Image -->
 <div > <img src="https://thisis-images.spotifycdn.com/37i9dQZF1DZ06evO4danDO-default.jpg" alt="Hall & Oates - Private Eyes" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="560" height="315" src="http://www.youtube.com/embed/anLfoy2XsFw" frameborder="0" allowfullscreen></iframe>
+<div > {{< youtube "anLfoy2XsFw" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Private Eyes"</em>, released in 1981, is one of Hall & Oates' most enduring hits. With its infectious hooks and timeless production, the track continues to captivate fans of classic pop and rock music.</p>
 </div> <!-- Footer Links -->

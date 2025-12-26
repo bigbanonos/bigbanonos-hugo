@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Rock N Roll" by Sounds. This 2006 Swedish indie rock anthem is pure energy. Watch the video below!</p> <!-- Featured Image -->
 <div > <img src="https://i.ytimg.com/vi/IAbaib2CJ5Q/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGH8gFCgTMA8=&rs=AOn4CLA3sKu-RrdnqLcPrc3juafxcEHcGg" alt="Sounds - Rock N Roll" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="733" height="480" src="https://www.youtube.com/embed/sZi4arzzolU" frameborder="0" allowfullscreen></iframe>
+<div > {{< youtube "sZi4arzzolU" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Rock N Roll"</em> by Sounds, from their 2006 album *Dying to Say This to You*, combines Swedish alternative rock with electrifying metropopolis vibes.</p>
 </div> <!-- Footer Links -->

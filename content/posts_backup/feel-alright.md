@@ -7,7 +7,7 @@ layout: post
 <p >Updated January 1, 2011, with "Winter Goth" by Feel Alright. This captivating track blends indie rock with dreamy undertones, creating a perfect soundscape for introspection. Watch the video below!</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab6761610000517420a843c7766787fd6ae84988" alt="Feel Alright - Winter Goth" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="685" height="514" src="https://www.youtube.com/embed/ol5taqC_3SE" title="Feel alright - Winter Goth" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "ol5taqC_3SE" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Winter Goth"</em>, released in 2011, is a standout track from Feel Alright that merges melancholic melodies with vibrant instrumentation. Its timeless appeal makes it a must-listen for fans of indie and alternative rock.</p> <p>Explore more by visiting their <a href="https://feelalright.bandcamp.com/track/winter-goth" target="_blank">Bandcamp page</a> for additional tracks and albums.</p>
 </div> <!-- Footer Links -->

@@ -2,7 +2,7 @@
 title: "joyce manor 1 song"
 layout: post
 ---
-<div class="separator"><a href="https://i.ytimg.com/vi/TTQaqo2y_ZU/maxresdefault.jpg" imageanchor="1"><img border="0" data-original-height="450" data-original-width="800" height="180" src="https://i.ytimg.com/vi/TTQaqo2y_ZU/maxresdefault.jpg" width="320" /></a></div><div><br /></div><iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/videoseries?list=PLtuNtuTatqI2BJejmXUjZ_mcyqFjeA6vH" width="560"></iframe>
+<div class="separator"><a href="https://i.ytimg.com/vi/TTQaqo2y_ZU/maxresdefault.jpg" imageanchor="1"><img border="0" data-original-height="450" data-original-width="800" height="180" src="https://i.ytimg.com/vi/TTQaqo2y_ZU/maxresdefault.jpg" width="320" /></a></div><div><br /></div>{{< youtube "videoseries" >}}
 <br />
 <h3><ol><li>House Warming Party [2020]</li><li>House Warming Party (Demo) [2009]</li></ol></h3>
 

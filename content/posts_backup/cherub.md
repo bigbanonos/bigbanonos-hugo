@@ -7,7 +7,7 @@ layout: post
 <p >Updated December 9, 2014, with BigBanonos' favorite track, "Sucker for Love" by Cherub. This funky jam is a highlight from their album *Leftovers*.</p> <!-- Featured Image -->
 <div > <img src="https://www.billboard.com/wp-content/uploads/media/Cherub-hot-100-fest-portraits-2017-billboard-1548.jpg" alt="Cherub - Sucker for Love" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/aoUfpBYg4Ac" title="Cherub - Sucker for Love (Audio)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "aoUfpBYg4Ac" >}}
 </div> <!-- Song Information -->
 <div > <p>"Sucker for Love," released on December 9, 2014, showcases Cherubâ€™s signature electro-funk vibe. This track is a standout from their *Leftovers* album, distributed by Columbia Records.</p>
 </div> <!-- Footer Links -->

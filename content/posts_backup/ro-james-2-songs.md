@@ -3,11 +3,11 @@ title: "ro james 2 songs"
 layout: post
 ---
 <h1>BigBanonos Top Songs by Ro James</h1>
-<img src="https://www.indystar.com/gcdn/-mm-/dbd53552b038d2be4caf18aef7708cd682202274/c=0-0-2282-1289/local/-/media/2016/11/09/INGroup/Indianapolis/636143109457054456-ROJAMESGETTY-1-.jpg?width=2282&height=1289&fit=crop&format=pjpg&auto=webp" alt="Ro James"> <p>Ro James brings a rich blend of neo-soul and contemporary R&B to his music. Here are BigBanonos' top selections:</p> <ol> <li><strong>Be Mine</strong> | <em>MANTIC</em> | ByStorm Entertainment/RCA Records | Released: May 29, 2020</li> <li><strong>Permission</strong> | <em>ELDORADO</em> | ByStorm Entertainment/RCA Records | Released: March 29, 2017</li>
-</ol> <div> <iframe src="https://open.spotify.com/embed/playlist/4aeOhXV1qXVwcoOL4wRbgP?utm_source=generator" width="100%" height="352" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+{{< img-lite src="https://www.indystar.com/gcdn/-mm-/dbd53552b038d2be4caf18aef7708cd682202274/c=0-0-2282-1289/local/-/media/2016/11/09/INGroup/Indianapolis/636143109457054456-ROJAMESGETTY-1-.jpg?width=2282&height=1289&fit=crop&format=pjpg&auto=webp" alt="Ro James" >}} <p>Ro James brings a rich blend of neo-soul and contemporary R&B to his music. Here are BigBanonos' top selections:</p> <ol> <li><strong>Be Mine</strong> | <em>MANTIC</em> | ByStorm Entertainment/RCA Records | Released: May 29, 2020</li> <li><strong>Permission</strong> | <em>ELDORADO</em> | ByStorm Entertainment/RCA Records | Released: March 29, 2017</li>
+</ol> <div> {{< youtube "embed" >}}
 </div> <p>first posted by <a href="https://bigbanonos.blogspot.com/">https://bigbanonos.blogspot.com/</a></p> <div> <p>Explore more BigBanonos content: <a href="https://bigbanonos.blogspot.com/">Website</a> | <a href="https://www.youtube.com/@BigBanonos">YouTube</a> | <a href="https://x.com/bigbanonos">Twitter</a></p>
 </div> <!-- Video for "Permission" -->
-<div> <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLtuNtuTatqI39WCrypUIHxycfQ36jRV7u" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div> {{< youtube "videoseries" >}}
 </div> <!-- Tags -->
 <p>@rojames</p>
 

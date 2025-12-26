@@ -7,7 +7,7 @@ layout: post
 <p >Updated 2002 with BigBanonos' favorite song by Bangs, "Dirty Knives," from the album *Call and Response*. Watch the video and see more details below:</p> <!-- Featured Image -->
 <div > <img src="https://i.ytimg.com/vi/AE53kTTe8jc/maxresdefault.jpg" alt="Bangs - Dirty Knives" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/XrCLdhlwWPs" title="Bangs - Dirty Knives" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "XrCLdhlwWPs" >}}
 </div> <!-- Song Information -->
 <div > <p>"Dirty Knives" by Bangs is a raw and energetic track from the album *Call and Response*. Released in 2002 under Kill Rock Stars, this 3:39-long song embodies the gritty, emotive edge of the band's signature sound.</p>
 </div> <!-- Footer Links -->

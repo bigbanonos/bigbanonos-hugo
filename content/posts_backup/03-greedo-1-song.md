@@ -2,7 +2,7 @@
 title: "03 greedo 1 song"
 layout: post
 ---
-<img src="https://www.rollingstone.com/wp-content/uploads/2019/03/3C53E574-07FB-41E9-AB63-5E5058862B32-54700-00007398EB8BE85F.jpeg" width="600" /> <p>BigBanonos' favorite songs by 03 Greedo, last updated May 22, 2025 with "Boujee" from <em>Crushing On Twin</em>, highlighted in the playlist below:</p> <iframe data-testid="embed-iframe" src="https://open.spotify.com/embed/playlist/1YpOiMSfljdJXo7EmA1Gwg?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> <iframe width="100%" height="400" src="https://www.youtube.com/embed/SQaRWBRbMXQ" title="03 Greedo - Boujee" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> <p><strong>Boujee</strong> Ã¢â‚¬Â 03 Greedo<br/>
+<img src="https://www.rollingstone.com/wp-content/uploads/2019/03/3C53E574-07FB-41E9-AB63-5E5058862B32-54700-00007398EB8BE85F.jpeg" width="600" /> <p>BigBanonos' favorite songs by 03 Greedo, last updated May 22, 2025 with "Boujee" from <em>Crushing On Twin</em>, highlighted in the playlist below:</p> {{< youtube "embed" >}} {{< youtube "SQaRWBRbMXQ" >}} <p><strong>Boujee</strong> Ã¢â‚¬Â 03 Greedo<br/>
 Album: <em>Crushing On Twin</em> Ã¢â‚¬Â Alamo Records Ã¢â‚¬Â 2025<br/>
 Genres: Cali Rap, Melodic Rap, Hip Hop</p> <p><strong>Pourin (feat. BlueBucksClan & Mike Free)</strong> Ã¢â‚¬Â 03 Greedo<br/>
 Album: <em>Single</em> Ã¢â‚¬Â 2023<br/>

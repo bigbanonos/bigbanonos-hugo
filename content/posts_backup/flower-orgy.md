@@ -7,7 +7,7 @@ layout: post
 <p >Updated July 1, 2013, with "Our Song" from Flower Orgy. This dreamy popgaze track delivers lush acoustic vibes, perfect for introspective listening.</p> <!-- Featured Image -->
 <div > <img src="https://i.ytimg.com/vi/05rEZbKWnH4/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBsHzPdx1MoNDw7gak0SZZ7FMGISg" alt="Flower Orgy - Our Song" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/yPHR5w87aAc" title="Flower Orgy - Our Song (Official Audio)" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "yPHR5w87aAc" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Our Song"</em> is a standout track from Flower Orgy's album <em>Conditioning</em>, released under New Camp Records. With its gentle acoustics and dreamy popgaze influences, this song offers a serene and captivating listening experience.</p>
 </div> <!-- Footer Links -->

@@ -7,7 +7,7 @@ layout: post
 <p >Updated May 18, 2015, with "Yellow Taxi" by Madisen Ward and the Mama Bear. This soulful folk track from the album <em>Skeleton Crew</em>, released under Glassnote Entertainment Group, highlights the charm of Missouri indie with its heartfelt melodies and rich storytelling.</p> <!-- Featured Image -->
 <div > <img src="https://i.ytimg.com/vi/k0nyFpcQl-Y/maxresdefault.jpg" alt="Madisen Ward and the Mama Bear - Yellow Taxi" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/3DNOkfnQ-Dg" title="Madisen Ward and The Mama Bear - Yellow Taxi (Official Audio)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "3DNOkfnQ-Dg" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Yellow Taxi"</em> by Madisen Ward and the Mama Bear is a beautifully crafted folk song that exudes warmth and authenticity. From the album <em>Skeleton Crew</em>, this track captures the essence of Missouri indie with its unique blend of acoustic instrumentation and emotive lyrics.</p>
 </div> <!-- Footer Links -->

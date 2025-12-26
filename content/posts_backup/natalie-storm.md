@@ -7,7 +7,7 @@ layout: post
 <p >Updated August 10, 2018, with "Talk the Tings" by Natalie Storm featuring Pamputae and Ms Diva. This remastered track from the album <em>Slackas Riddim [Remastered]</em> brings the energy of dancehall with infectious beats and powerful lyrics that highlight the talents of the featured artists.</p> <!-- Featured Image -->
 <div > <img src="https://i1.sndcdn.com/avatars-000008181408-n2wzr9-t1080x1080.jpg" alt="Natalie Storm - Talk the Tings" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="601" src="https://www.youtube.com/embed/Myfgm2_uqfw" title="Natalie Storm - Talk Di Ting (feat. Pamputae & Ms. Diva)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "Myfgm2_uqfw" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Talk the Tings"</em> by Natalie Storm, featuring Pamputae and Ms Diva, is a dancehall anthem that blends vibrant beats with bold lyrics. From the album <em>Slackas Riddim [Remastered]</em>, this track showcases the powerful voices and infectious energy of the featured artists.</p>
 </div> <!-- Footer Links -->

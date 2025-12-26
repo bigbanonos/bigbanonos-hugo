@@ -3,7 +3,7 @@ title: "fleshtones"
 layout: post
 ---
 #2000s <br />
-<iframe width="95%" height="315" src="https://www.youtube.com/embed/eLshjeN3UhY?list=PLtuNtuTatqI2tz7FsBXwVk9ME-NuTR-3Q" frameborder="0" allowfullscreen></iframe><br />
+{{< youtube "eLshjeN3UhY" >}}<br />
 Do You Swing? 2003
 
 <!--Subscribe and Playlist Links-->

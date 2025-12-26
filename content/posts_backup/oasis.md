@@ -3,7 +3,7 @@ title: "oasis"
 layout: post
 ---
 <p >Oasis, the pioneers of Britpop, brought us anthems like "Don't Look Back In Anger," "Wonderwall," and "Supersonic." Relive the magic of the '90s rock movement with their iconic hits below!</p> <div > <img src="https://i.scdn.co/image/ab6761610000e5eb0522e98a6f0cf1ddbee9a74f" alt="Oasis" />
-</div> <div > <iframe src="https://open.spotify.com/embed/playlist/7giMzmOMKm0nyXWVzVHWZx?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</div> <div > {{< youtube "embed" >}}
 </div> <div > <p><em>"Don't Look Back In Anger"</em> and <em>"Wonderwall"</em> remain timeless classics, perfectly encapsulating the Britpop era. A trip down memory lane awaits!</p>
 </div> <div > <p>For more updates, visit <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Check out our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a> channels for exclusive content!</p>
 </div> 

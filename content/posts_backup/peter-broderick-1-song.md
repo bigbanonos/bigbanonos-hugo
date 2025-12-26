@@ -2,7 +2,7 @@
 title: "peter broderick 1 song"
 layout: post
 ---
-<iframe frameborder="0" height="270" src="https://youtube.com/embed/xrHjeVpV8wc" width="480"></iframe><h2><ol><li>(ft. Bing & Ruth) What Happened to Your Heart [2021]</li></ol></h2>
+{{< youtube "xrHjeVpV8wc" >}}<h2><ol><li>(ft. Bing & Ruth) What Happened to Your Heart [2021]</li></ol></h2>
 
 <!--Subscribe and Playlist Links-->
 <div>

@@ -7,7 +7,7 @@ layout: post
 <p >Updated August 20, 2008, with BigBanonos' favorite song by Andrea True, "More, More, More (Rerecorded)," featured on the album *More, More, More*. Watch the video and see more details below:</p> <!-- Featured Image -->
 <div > <img src="https://m.media-amazon.com/images/I/91Xw4gh4WfL._UF1000,1000_QL80_.jpg" alt="Andrea True - More, More, More (Rerecorded)" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/Io7ixZ5guZ0" title="More, More, More (Re-Recorded - Remastered)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "Io7ixZ5guZ0" >}}
 </div> <!-- Song Information -->
 <div > <p>"More, More, More (Rerecorded)" by Andrea True is a disco classic reimagined for a new era. Released on August 20, 2008, under K-Tel, this track retains its infectious groove and sultry charm, cementing its place as a timeless dancefloor favorite.</p>
 </div> <!-- Footer Links -->

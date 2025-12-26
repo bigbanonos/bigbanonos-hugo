@@ -7,7 +7,7 @@ layout: post
 <p >Updated February 2, 2016, with "Rock & Come In" by Linky First. This energetic soca hit, released under Russion Movements/Priince Muzik, is a vibrant anthem perfect for any dancefloor.</p> <!-- Featured Image -->
 <div > <img src="https://i1.sndcdn.com/artworks-000193436173-vicrw8-t500x500.jpg" alt="Linky First - Rock & Come In" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/I6cEn_9DTgQ" title="Linky First - Rock And Come In (Official Audio)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "I6cEn_9DTgQ" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Rock & Come In"</em> by Linky First is a high-energy soca track that captures the essence of Caribbean rhythms and party vibes. Released under Russion Movements/Priince Muzik, this song is a must-listen for fans of lively and infectious music.</p>
 </div> <!-- Footer Links -->

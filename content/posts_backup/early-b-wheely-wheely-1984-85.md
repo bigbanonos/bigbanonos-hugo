@@ -3,7 +3,7 @@ title: "early b wheely wheely 1984 85"
 layout: post
 ---
 #1980s <br />
-<iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/-ztQJPXuFH4?list=PLtuNtuTatqI3ADcM_zLmgfpkLlcO5e9Pw" width="95%"></iframe><br />
+{{< youtube "-ztQJPXuFH4" >}}<br />
 Wheely Wheely 1984
 
 <!--Subscribe and Playlist Links-->

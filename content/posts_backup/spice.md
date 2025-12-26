@@ -3,10 +3,10 @@ title: "spice"
 layout: post
 ---
 <h3>BigBanonos' Favorite Songs by Spice</h3>
-<div > <a href="https://www.billboard.com/wp-content/uploads/media/Spice-press-by-Spex-Photography-2018-billboard-1548.jpg" target="_blank"> <img src="https://www.billboard.com/wp-content/uploads/media/Spice-press-by-Spex-Photography-2018-billboard-1548.jpg" alt="Spice"> </a>
+<div > <a href="https://www.billboard.com/wp-content/uploads/media/Spice-press-by-Spex-Photography-2018-billboard-1548.jpg" target="_blank"> {{< img-lite src="https://www.billboard.com/wp-content/uploads/media/Spice-press-by-Spex-Photography-2018-billboard-1548.jpg" alt="Spice" >}} </a>
 </div>
 <p>Updated August 26, 2022, with Spice's track <strong>"BAKE A MAN"</strong>. BigBanonos celebrates her vibrant contributions to dancehall music.</p>
-<iframe src="https://open.spotify.com/embed/playlist/0iWIQWtTfIyXgd3yZjTHHO?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+{{< youtube "embed" >}}
 <h4>Top Songs:</h4>
 <ol> <li><strong>BAKE A MAN</strong> | <em>Emancipated</em> | Released: August 26, 2022 | Stealth Music Group</li> <li><strong>Love Triangle (Pum Pum)</strong> | <em>Love Triangle (Pum Pum)</em> | Released: March 18, 2022 | Spice Official ENT</li>
 </ol>

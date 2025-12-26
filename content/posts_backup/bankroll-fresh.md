@@ -7,7 +7,7 @@ layout: post
 <p >Updated July 17, 2015, with BigBanonos' favorite song by Bankroll Fresh, "ESPN," from the mixtape *Life of a Hot Boy*. Watch the video and see more details below:</p> <!-- Featured Image -->
 <div > <img src="https://i.ytimg.com/vi/fLW76aWCy0U/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYACpAWKAgwIABABGEkgVyhlMA8=&rs=AOn4CLAXAc9bYmiVczTE6F3B1bmkMvupvg" alt="Bankroll Fresh - ESPN" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/e5CIhUyJLmw" title="Bankroll Fresh "ESPN" (WSHH Exclusive - Official Music Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "e5CIhUyJLmw" >}}
 </div> <!-- Song Information -->
 <div > <p>"ESPN" by Bankroll Fresh is a high-energy trap anthem that showcases the artist's charisma and streetwise lyricism. Released on July 17, 2015, under Street Money Worldwide / Street Execs, this 3:31-long track from the mixtape *Life of a Hot Boy* is a quintessential example of Atlanta hip hop and dirty south rap.</p>
 </div> <!-- Footer Links -->

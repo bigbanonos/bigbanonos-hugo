@@ -4,7 +4,7 @@ layout: post
 ---
 <div class="separator" >
 <a href="https://ksassets.timeincuk.net/wp/uploads/sites/55/2018/04/rita-ora-avicii-920x584.jpg" imageanchor="1"><img border="0" data-original-height="508" data-original-width="800" height="203" src="https://ksassets.timeincuk.net/wp/uploads/sites/55/2018/04/rita-ora-avicii-920x584.jpg" width="320" /></a></div>
-<iframe allow="autoplay; encrypted-media" allowfullscreen="" frameborder="0" height="500" src="https://www.youtube.com/embed/videoseries?list=PLtuNtuTatqI2OTac_et17vTdER1VnG76x" width="100%"></iframe><br />
+{{< youtube "videoseries" >}}<br />
 <h3>
 (ft. Rita Ora) Lonely Together [2017]</h3>
 

@@ -6,7 +6,7 @@ layout: post
 <div class="separator" ><a href="https://media.pitchfork.com/photos/5cf808197790037363dba0dd/2:1/w_790/Channel-Tres.jpg"><img border="0" data-original-height="395" data-original-width="790" height="200" src="https://media.pitchfork.com/photos/5cf808197790037363dba0dd/2:1/w_790/Channel-Tres.jpg" width="400" /></a></div><br />
 <!--Search Description-->
 <p>BigBanonos presents top picks from Channel Tres, blending escape room, indie soul, and LA pop sounds. Discover the unique, boundary-pushing style in these selected tracks.</p> <!--Spotify Playlist Embed-->
-<iframe allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" allowfullscreen="" frameborder="0" height="352" loading="lazy" src="https://open.spotify.com/embed/playlist/0ZwVZak5zSWaeawqxHw87e?utm_source=generator" width="100%"></iframe> <!--Song Listings-->
+{{< youtube "embed" >}} <!--Song Listings-->
 <ul> <li><strong>Sexy Black Timberlake</strong> - <em>Sexy Black Timberlake</em> - GODMODE MUSIC - 2019-06-06</li> <li><strong>Brilliant Ni*gga</strong> - <em>Brilliant Nigga</em> - GODMODE MUSIC - 2019-03-08</li>
 </ul>
 

@@ -2,7 +2,7 @@
 title: "rochy rd 1 song"
 layout: post
 ---
-<iframe frameborder="0" height="270" src="https://youtube.com/embed/37tmRDUK0FM" width="480"></iframe><h2><ol><li>(ft. Myke Towers x Nicki Nicole) Ella No Es Tuya (Remix) [2021]</li></ol></h2>
+{{< youtube "37tmRDUK0FM" >}}<h2><ol><li>(ft. Myke Towers x Nicki Nicole) Ella No Es Tuya (Remix) [2021]</li></ol></h2>
 
 <!--Subscribe and Playlist Links-->
 <div>

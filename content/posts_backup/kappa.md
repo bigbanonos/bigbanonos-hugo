@@ -7,7 +7,7 @@ layout: post
 <p >Updated June 22, 2018, with "Set So" from <em>Red Bull Riddim</em>. Enjoy the rhythmic beats of Kappa in the playlist below!</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d0000b273cac8e63c72d65c0a08e78d24" alt="Kappa" />
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/1fS0Fu3VvqsWxIQOudisvn?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <div > <p><strong>"Set So"</strong><br> Genre: Dancehall<br> Album: <em>Red Bull Riddim</em><br> Release Date: June 22, 2018<br> Label: Rich Royce Productions & Tropical Blendz</p>
 </div> <!-- Footer Links -->

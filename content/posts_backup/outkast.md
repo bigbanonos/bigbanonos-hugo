@@ -4,9 +4,9 @@ layout: post
 ---
 <!-- Title of the Post -->
 <h1>BigBanonosâ€™ Favorite Songs by Outkast</h1> <!-- Featured Image -->
-<div> <img src="https://i.scdn.co/image/ab67616d00001e022350e31bc346a6c20e9de166" alt="Outkast">
+<div> {{< img-lite src="https://i.scdn.co/image/ab67616d00001e022350e31bc346a6c20e9de166" alt="Outkast" >}}
 </div> <!-- Spotify Embed -->
-<div> <iframe src="https://open.spotify.com/embed/playlist/0YMkZeU6Wegtedd9LxwuyH?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div> {{< youtube "embed" >}}
 </div> <!-- Song Information --> <p><strong>Updated January 24, 2006 with "Hey Ya!" from <em>NOW #1's</em></strong></p> <p><strong>"Hey Ya!"</strong> â€“ <em>NOW #1's</em> (2006)</p>
 <p><strong>"Prototype"</strong> â€“ <em>Speakerboxxx/The Love Below</em> (Arista, 2003)</p>
 <p><strong>"Unhappy"</strong> â€“ <em>Speakerboxxx/The Love Below</em> (Arista, 2003)</p>

@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Blankest Year" by Nada Surf. From the album <em>The Weight Is a Gift</em>, released under Barsuk Records, this track captures the essence of power pop, blending catchy melodies with thoughtful lyrics and an infectious energy.</p> <!-- Featured Image -->
 <div > <img src="https://nadasurf.com/wp-content/uploads/2024/05/NewAlbumSingersV2.jpeg" alt="Nada Surf - Blankest Year" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="514" src="https://www.youtube.com/embed/eNa0uZN-qv0" title="Nada Surf - Blankest Year" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "eNa0uZN-qv0" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Blankest Year"</em> by Nada Surf is an upbeat, introspective power pop anthem from the album <em>The Weight Is a Gift</em>. With its memorable melodies and reflective lyrics, it has become a standout in Nada Surf's discography.</p>
 </div> <!-- Footer Links -->

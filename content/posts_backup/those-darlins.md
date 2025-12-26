@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Screws Get Loose" by Those Darlins, from the album *Screws Get Loose*, released on March 29, 2011, by Oh Wow Dang Records. The track captures the essence of Nashville indie with its raw and energetic folk sound.</p> <!-- Featured Image -->
 <div > <img src="https://m.media-amazon.com/images/I/81cG6gFV0LL._UF1000,1000_QL80_.jpg" alt="Those Darlins - Screws Get Loose" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/0tzfzN0MyhU" title="Those Darlins - 'Screws Get Loose' (OFFICIAL MUSIC VIDEO) HD" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "0tzfzN0MyhU" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Screws Get Loose"</em> by Those Darlins is an energetic and raucous track from their 2011 album *Screws Get Loose*, blending Nashville indie with folk influences. The band's unique sound is full of attitude and character, making this a must-listen.</p>
 </div> <!-- Footer Links -->

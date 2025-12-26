@@ -7,9 +7,9 @@ layout: post
 <p >Updated January 1, 1971, with "Tonight" by The Move. This classic track highlights the bandâ€™s signature blend of rock and pop, with energetic instrumentation and catchy melodies. Watch the video below!</p> <!-- Featured Image -->
 <div > <img src="https://i.discogs.com/xggBkfXW4C_fnLlu1p577JOlw1S-xBcfBB3Ie3Ciq0Q/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI0MTU0/NTEtMTQ5NTkxMzAz/NC0yMDcwLmpwZWc.jpeg" alt="The Move - Tonight" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/aMm3PBJ_-gA?list=PLtuNtuTatqI27rEpl6sppn5M8ja8x3-Rz" width="95%"></iframe>
+<div > {{< youtube "aMm3PBJ_-gA" >}}
 </div> <!-- Additional YouTube Video -->
-<div > <iframe width="560" height="315" src="https://www.youtube.com/embed/SVO-ejTffx8?si=Wcr2nvBsBimmmtjI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "SVO-ejTffx8" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Tonight"</em>, released in 1971, is one of The Moveâ€™s standout tracks that showcases their innovative approach to rock and pop. With its vibrant energy and memorable hooks, the song remains a classic from the bandâ€™s illustrious career.</p>
 </div> <!-- Footer Links -->

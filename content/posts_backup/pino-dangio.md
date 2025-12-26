@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Ma quale idea" by Pino D'AngiÃƒÆ’Ã‚Â², a classic from the *...Balla!* album. This track is a timeless gem of Italo Disco and Neapolitan Funk.</p> <!-- Featured Image -->
 <div > <img src="https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/2024-07/Pino-D-Angio-obituary-the-age-of-love.jpg.webp?itok=D_kj_nVL46783454" alt="Pino D'AngiÃƒÆ’Ã‚Â²" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="514" src="https://www.youtube.com/embed/hg9gvz5n614" title="Pino D'AngiÃƒÆ’Ã‚Â² - Ma quale idea (1981) HQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "hg9gvz5n614" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Ma quale idea"</em> by Pino D'AngiÃƒÆ’Ã‚Â² is a quintessential track of the Italo Disco era, blending vibrant synths with Neapolitan rhythms. A must-listen for fans of retro dance beats.</p>
 </div> <!-- Footer Links -->

@@ -7,7 +7,7 @@ layout: post
 <p >Updated February 18, 2014, with "Antabus" by Makthaverskan. This gripping track from the album <em>II</em>, released under Run For Cover Records, blends Swedish post-punk with Gothenburg indie influences, creating a powerful and evocative sound.</p> <!-- Featured Image -->
 <div > <img src="https://i.discogs.com/O2TylRJQshjT6I9uy-uloIKTP_NkaYwQQ_-P3rrTGA0/rs:fit/g:sm/q:90/h:380/w:380/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NTgz/MDQtMTMzNTIwNzc3/OC5qcGVn.jpeg" alt="Makthaverskan - Antabus" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/8fsDfn8Hz_w" title="Makthaverskan - Antabus (Official Audio)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "8fsDfn8Hz_w" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Antabus"</em> by Makthaverskan is a compelling track that channels the raw energy of Swedish post-punk and indie rock. With its driving melodies and emotional depth, this standout from <em>II</em> captures the essence of Gothenburg indie music.</p>
 </div> <!-- Footer Links -->

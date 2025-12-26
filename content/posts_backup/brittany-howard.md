@@ -4,9 +4,9 @@ layout: post
 ---
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Brittany Howard</h1> <!-- Featured Image -->
-<div > <img src="https://i.scdn.co/image/ab67616d0000b2738bfd1640b83c33dabb356eb2" alt="Brittany Howard">
+<div > {{< img-lite src="https://i.scdn.co/image/ab67616d0000b2738bfd1640b83c33dabb356eb2" alt="Brittany Howard" >}}
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/5FZsSE5Ucy9s43nYgk3A32?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Introductory Text -->
 <p >Brittany Howardâ€™s powerful voice and eclectic style shine in her standout tracks. From the soulful "Stay High" to the reimagined "Stay High again..," here are BigBanonos' favorite picks from this dynamic artist.</p> <!-- Song Highlights -->
 <div > <p>BigBanonos' standout picks:</p> <ol> <li><strong>Stay High</strong> | <em>Stay High</em> | Released: July 16, 2019 | Columbia</li> <li><strong>Stay High again..</strong> (Fred again.. & Joy Anonymous Version) | <em>Jaime (Reimagined)</em> | Released: July 23, 2021 | ATO Records</li> </ol>

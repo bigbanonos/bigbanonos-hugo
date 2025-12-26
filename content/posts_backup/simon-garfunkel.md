@@ -4,7 +4,7 @@ layout: post
 ---
 <h1>BigBanonos Top Songs by Simon & Garfunkel</h1>
 <img alt="Simon & Garfunkel" src="https://m.media-amazon.com/images/I/A1plFcJ+STL._UF1000,1000_QL80_.jpg" /> <p>Simon & Garfunkel are iconic for their harmonious blend of folk and rock, creating timeless classics that resonate across generations. Here are BigBanonos' top selections:</p> <ol> <li><strong>A Heart In New York (Live)</strong> | <em>The Concert in Central Park (Live)</em> | Released: February 16, 1982 | Legacy Recordings</li> <li><strong>Kodachrome / Mabellene (Live)</strong> | <em>The Concert in Central Park (Live)</em> | Released: February 16, 1982 | Legacy Recordings</li> <li><strong>America</strong> | <em>Bookends</em> | Released: April 3, 1968 | Columbia</li> <li><strong>The 59th Street Bridge Song (Feelin' Groovy)</strong> | <em>Parsley, Sage, Rosemary And Thyme</em> | Released: October 10, 1966 | Columbia/Legacy</li> <li><strong>The Sound Of Silence</strong> | <em>Wednesday Morning, 3 A.M.</em> | Released: 1964 | Columbia</li>
-</ol> <div> <iframe src="https://open.spotify.com/embed/playlist/0iOs95EnhjgOceJz3rVG22?utm_source=generator" width="100%" height="352" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</ol> <div> {{< youtube "embed" >}}
 </div> <p>first posted by <a href="https://bigbanonos.blogspot.com/">https://bigbanonos.blogspot.com/</a></p> <div> <p>Explore more BigBanonos content: <a href="https://bigbanonos.blogspot.com/">Website</a> | <a href="https://www.youtube.com/@BigBanonos">YouTube</a> | <a href="https://x.com/bigbanonos">Twitter</a></p>
 </div> <!--Tags-->
 <p>@simonandgarfunkel</p>

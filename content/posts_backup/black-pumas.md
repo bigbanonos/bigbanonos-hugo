@@ -4,7 +4,7 @@ layout: post
 ---
 <h3>BigBanonos' Favorite Song by Black Pumas</h3>
 <div class="separator" > <a href="https://i.scdn.co/image/ab67616d0000b273d4aa79800afc08c96ede2969"> <img alt="Black Pumas" border="0" height="350" src="https://i.scdn.co/image/ab67616d0000b273d4aa79800afc08c96ede2969" /> </a>
-</div> <p>BigBanonos highlights <strong>"Black Moon Rising"</strong> by the soulful and dynamic duo <strong>Black Pumas</strong>. This standout track, released on June 21, 2019, captures their retro-inspired sound and modern flair. Watch the official music video below:</p> <iframe width="685" height="287" src="https://www.youtube.com/embed/bynWXFY5U6U" title="Black Pumas - Black Moon Rising (Official Music Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> <hr />
+</div> <p>BigBanonos highlights <strong>"Black Moon Rising"</strong> by the soulful and dynamic duo <strong>Black Pumas</strong>. This standout track, released on June 21, 2019, captures their retro-inspired sound and modern flair. Watch the official music video below:</p> {{< youtube "bynWXFY5U6U" >}} <hr />
 <p>For more updates, visit <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">BigBanonos</a>. Also, check out our <a href="https://www.youtube.com/@BigBanonos" rel="noopener" target="_new">YouTube</a> and <a href="https://x.com/bigbanonos" rel="noopener" target="_new">X/Twitter</a> channels for more exclusive content!</p>
 
 

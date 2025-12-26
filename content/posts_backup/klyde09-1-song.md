@@ -7,7 +7,7 @@ layout: post
 <p >Updated December 13, 2019, with "palpitations" by klyde09. This track delivers a unique and captivating experience, showcasing the artist's signature style under the GODMODE label.</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab6761610000e5ebe091720c9357e2a2fbb60ac2" alt="klyde09 - palpitations" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/68o3l61XW08" title="klyde09 - palpitations (OFFICIAL VIDEO)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "68o3l61XW08" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"palpitations"</em> by klyde09 is a standout track released under the GODMODE label. Its haunting melody and compelling lyrics make it a must-listen for fans of innovative and emotionally resonant music.</p>
 </div> <!-- Footer Links -->

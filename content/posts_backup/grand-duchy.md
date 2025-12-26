@@ -7,7 +7,7 @@ layout: post
 <p >Updated February 16, 2009, with "Ermesinde" by Grand Duchy. This standout track from the album *Petit Fours* blends Western Mass indie vibes with a rock-driven edge. Watch the video below!</p> <!-- Featured Image -->
 <div > <img src="https://assets.exclaim.ca/dr2uqw6xy/image/upload/c_limit,w_890/f_auto/q_auto/up-1grand?_a=BAVAfVIB0" alt="Grand Duchy - Ermesinde" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="685" height="514" src="https://www.youtube.com/embed/qKD8daLWis4" title="Grand Duchy - Ermesinde" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "qKD8daLWis4" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Ermesinde"</em>, from Grand Duchyâ€™s 2009 album *Petit Fours*, released under Cooking Vinyl, showcases a unique fusion of indie and rock influences. The trackâ€™s captivating melodies and introspective lyrics highlight the bandâ€™s artistic versatility and creativity.</p>
 </div> <!-- Footer Links -->

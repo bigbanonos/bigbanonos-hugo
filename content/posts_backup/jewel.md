@@ -7,7 +7,7 @@ layout: post
 <p >Updated June 25, 2021, with "Intuition - Initial Talk Y2K Remix" from <em>Intuition / Stand (The Remixes)</em>. Relive the heartfelt melodies of Jewel in the playlist below!</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d0000b273582b5f07595d175732669708" alt="Jewel" />
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/7gGWEJV1Ynsk1IVPiYbpqp?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <div > <p><strong>"Intuition - Initial Talk Y2K Remix"</strong><br> Genre: Country, Folk/Acoustic, Rock<br> Album: <em>Intuition / Stand (The Remixes)</em><br> Release Date: June 25, 2021<br> Label: Craft Recordings</p>
 </div> <!-- Footer Links -->

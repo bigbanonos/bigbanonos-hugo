@@ -7,7 +7,7 @@ layout: post
 <p >Updated October 18, 2019, with "Dash Weh" by Don Pree. Originally released by *Garrison Entertainment*, this track is a testament to Don Pree's artistry and contribution to modern reggae and dancehall music.</p> <!-- Featured Image -->
 <div > <img src="https://gp1.wac.edgecastcdn.net/802892/http_public_production/artists/images/3201815/original/crop:x0y0w960h960/hash:1515470432/c01dd7d93cd6c55e7f1b40721cd9dbd5c8bfc0f6.jpg?1515470432" alt="Don Pree - Dash Weh" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/KZ4oSHt-DqM" title="Don Pree - Dash Weh (Official Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "KZ4oSHt-DqM" >}}
 </div> <!-- Song Information -->
 <div > <p>"Dash Weh" blends rhythmic beats with Don Pree's energetic delivery, embodying the vibrant and dynamic essence of dancehall music.</p>
 </div> <!-- Footer Links -->

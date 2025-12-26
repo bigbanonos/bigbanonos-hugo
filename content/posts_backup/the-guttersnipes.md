@@ -7,7 +7,7 @@ layout: post
 <p >Updated May 1, 1989, with "Time of Our Lives" by Guttersnipes. This track from the album *The Poor Dress Up* perfectly captures the raw energy and emotional intensity of late '80s rock. Watch the video below!</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d0000b27329a113efe8b2265983dfe05d" alt="Guttersnipes - Time of Our Lives" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="560" height="315" src="https://www.youtube.com/embed/VIDEO_ID" frameborder="0" allowfullscreen></iframe>
+<div > {{< youtube "VIDEO_ID" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Time of Our Lives"</em>, released on May 1, 1989, as part of *The Poor Dress Up* under DHMG Records, is a standout track that showcases Guttersnipes' dynamic blend of raw instrumentation and poignant lyrics. Its heartfelt delivery and driving rhythm make it a timeless rock anthem.</p>
 </div> <!-- Footer Links -->

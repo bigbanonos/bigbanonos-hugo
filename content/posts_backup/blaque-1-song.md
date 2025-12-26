@@ -2,7 +2,7 @@
 title: "blaque 1 song"
 layout: post
 ---
-<br /><div class="separator" ><iframe allowfullscreen="" class="BLOG_video_class" height="266" src="https://www.youtube.com/embed/AmEO4Qp2mFw" width="320" youtube-src-id="AmEO4Qp2mFw"></iframe></div><h3 ><ol><li>808 [1999]</li></ol></h3>
+<br /><div class="separator" >{{< youtube "AmEO4Qp2mFw" >}}</div><h3 ><ol><li>808 [1999]</li></ol></h3>
 
 <!--Subscribe and Playlist Links-->
 <div>

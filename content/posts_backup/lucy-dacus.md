@@ -7,7 +7,7 @@ layout: post
 <p >Updated March 2, 2018, with "Night Shift" by Lucy Dacus. This deeply emotional track from the album <em>Historian</em>, released under Matador Records, captures the raw beauty of art pop and indie pop, showcasing Dacus' unparalleled storytelling.</p> <!-- Featured Image -->
 <div > <img src="https://static.independent.co.uk/2021/06/17/18/newFile-3.jpg" alt="Lucy Dacus - Night Shift" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/K7gEgIEUj3A" title="Lucy Dacus - "Night Shift" (Official Music Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "K7gEgIEUj3A" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Night Shift"</em> by Lucy Dacus is a heart-wrenching exploration of heartbreak and resilience. With its poignant lyrics and escalating arrangement, this track from <em>Historian</em> is a testament to Dacus' ability to transform personal experiences into universal anthems.</p>
 </div> <!-- Footer Links -->

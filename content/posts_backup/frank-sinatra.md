@@ -7,7 +7,7 @@ layout: post
 <p >Frank Sinatra, the timeless crooner, defined an era with his smooth vocals and impeccable style. Explore BigBanonos' favorite tracks by Sinatra below!</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/fc4e0f474fb4c4cb83617aa884dc9fd9822d4411" alt="Frank Sinatra - BigBanonos Favorite Songs" />
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/0CbRqGuoelDamsAjV72CLh?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"It's Nice To Go Trav'ling"</em> whisks listeners away with its smooth rhythm and Sinatra's classic charm. Remastered for the 1958 album <strong>Come Fly With Me</strong>.</p> <p><em>"Somethin' Stupid"</em>, a beautiful duet with Nancy Sinatra, captures the essence of heartfelt connection. From the 1967 album <strong>The World We Knew</strong>.</p>
 </div> <!-- Footer Links -->

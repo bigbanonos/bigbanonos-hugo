@@ -7,7 +7,7 @@ layout: post
 <p >Updated August 1, 2013, with BigBanonos' favorite song by Barry Mann, "Who Put the Bomp," from the compilation album *Lollipop: The Very Best Bubblegum Pop of the 50s and 60s*. Watch the video and see more details below:</p> <!-- Featured Image -->
 <div > <img src="https://i.ytimg.com/vi/aumW5e28xic/maxresdefault.jpg" alt="Barry Mann - Who Put the Bomp" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/lXmsLe8t_gg" title="Who Put The Bomp - Barry Mann" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "lXmsLe8t_gg" >}}
 </div> <!-- Song Information -->
 <div > <p>"Who Put the Bomp" by Barry Mann is a playful and iconic track that epitomizes the doo-wop style and Brill Building pop era. Released on August 1, 2013, as part of the compilation album *Lollipop: The Very Best Bubblegum Pop of the 50s and 60s* under Golden Oldies, this 2:46-long classic is a delightful throwback to vintage pop melodies.</p>
 </div> <!-- Footer Links -->

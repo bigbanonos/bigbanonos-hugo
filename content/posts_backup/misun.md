@@ -7,7 +7,7 @@ layout: post
 <p >Updated November 11, 2014, with "Baby" by Misun. This track from the album <em>Superstitions</em>, released under Aquawave Records, blends indie pop with a tropical vibe, showcasing Misun's signature soulful vocals and atmospheric production.</p> <!-- Featured Image -->
 <div > <img src="https://eastof8th.com/wp-content/uploads/2015/08/10704008_719474868127209_7926557920844164295_n.jpg" alt="Misun - Baby" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/_1_FixcSoh8" title="Misun - Baby" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "_1_FixcSoh8" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Baby"</em> by Misun is an upbeat indie pop anthem with a catchy chorus and smooth tropical elements. From the album <em>Superstitions</em>, this track combines vibrant production with emotive lyrics, making it a standout in Misun's discography.</p>
 </div> <!-- Footer Links -->

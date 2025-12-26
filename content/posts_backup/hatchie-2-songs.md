@@ -7,7 +7,7 @@ layout: post
 <p >Updated February 23, 2018, with "Sure (Robin Guthrie Remix)" by Hatchie and Robin Guthrie. This ethereal reimagining of Hatchie's original track showcases Robin Guthrie's signature dream pop production, blending shimmering layers with Hatchie's captivating vocals.</p> <!-- Featured Image -->
 <div > <img src="https://d94thh4m1x8qv.cloudfront.net/eyJidWNrZXQiOiJkaXktbWFnYXppbmUiLCJrZXkiOiJkL2RpeS9BcnRpc3RzL0gvSGF0Y2hpZS9MaWdodHNPbl9QcmVzc1BpY2tfSG9yaXpvbnRhbF9XRUItMS5qcGciLCJlZGl0cyI6eyJqcGVnIjp7InF1YWxpdHkiOjEwMCwicHJvZ3Jlc3NpdmUiOnRydWUsInRyZWxsaXNRdWFudGlzYXRpb24iOnRydWUsIm92ZXJzaG9vdERlcmluZ2luZyI6dHJ1ZSwib3B0aW1pemVTY2FucyI6dHJ1ZX0sInJlc2l6ZSI6eyJ3aWR0aCI6MTUwMCwiaGVpZ2h0IjoxMDAwLCJmaXQiOiJjb3ZlciJ9LCJzaGFycGVuIjp0cnVlfX0=" alt="Hatchie - Sure (Robin Guthrie Remix)" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/_1dKOrmBy2Q" title="Hatchie â€ Sure (Robin Guthrie Remix) [Official Audio]" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "_1dKOrmBy2Q" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Sure (Robin Guthrie Remix)"</em> enhances Hatchie's dreamy soundscape with Robin Guthrie's iconic production style. Released on February 23, 2018, the track perfectly marries the nostalgic tones of dream pop with Hatchie's introspective lyrics and Brisbane indie charm.</p>
 </div>

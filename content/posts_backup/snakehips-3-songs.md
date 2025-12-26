@@ -3,8 +3,8 @@ title: "snakehips 3 songs"
 layout: post
 ---
 <h1>BigBanonos Top Songs by Snakehips</h1>
-<img src="https://lh3.googleusercontent.com/uJ9mCekZwY_JDZE-6TgENgtbS7iMMk4HMLkxK0LHKYK2N2mi236RjT4meCJ4qy1Xm7pRAgZSf8xlYOc=w544-h544-p-l90-rj" alt="Snakehips"> <p>Snakehips blend R&B and electronic beats with collaborations. Here are BigBanonos' top tracks:</p> <ol> <li><strong>Summer Fade - Channel Tres Remix</strong> | <em>Summer Fade (Channel Tres Remix)</em> | Released: 2019-09-27 | Hoffman West/Columbia</li> <li><strong>Either Way</strong> (feat. Joey Bada$$) | <em>Either Way (feat. Joey Bada$$)</em> | Released: 2017-07-28 | Hoffman West/Columbia</li> <li><strong>All My Friends</strong> (feat. Tinashe & Chance the Rapper) | <em>All My Friends</em> | Released: 2015-10-21 | Hoffman West/Columbia</li>
-</ol> <div> <iframe src="https://open.spotify.com/embed/playlist/2IMzPnY7S7Siau82u8boYu?utm_source=generator" width="100%" height="352" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+{{< img-lite src="https://lh3.googleusercontent.com/uJ9mCekZwY_JDZE-6TgENgtbS7iMMk4HMLkxK0LHKYK2N2mi236RjT4meCJ4qy1Xm7pRAgZSf8xlYOc=w544-h544-p-l90-rj" alt="Snakehips" >}} <p>Snakehips blend R&B and electronic beats with collaborations. Here are BigBanonos' top tracks:</p> <ol> <li><strong>Summer Fade - Channel Tres Remix</strong> | <em>Summer Fade (Channel Tres Remix)</em> | Released: 2019-09-27 | Hoffman West/Columbia</li> <li><strong>Either Way</strong> (feat. Joey Bada$$) | <em>Either Way (feat. Joey Bada$$)</em> | Released: 2017-07-28 | Hoffman West/Columbia</li> <li><strong>All My Friends</strong> (feat. Tinashe & Chance the Rapper) | <em>All My Friends</em> | Released: 2015-10-21 | Hoffman West/Columbia</li>
+</ol> <div> {{< youtube "embed" >}}
 </div>
 <p>Tags: @snakehips</p>
 

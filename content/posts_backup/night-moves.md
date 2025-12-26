@@ -7,7 +7,7 @@ layout: post
 <p >Updated October 16, 2012, with "Headlights" by Night Moves. This track from the album <em>Colored Emotions</em>, released under Domino Recording Co., blends indie rock with soulful melodies, making it a standout track that captures the essence of Night Moves' unique sound.</p> <!-- Featured Image -->
 <div > <img src="https://f4.bcbits.com/img/a3246235605_10.jpg" alt="Night Moves - Headlights" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="601" src="https://www.youtube.com/embed/_Dg2Ia6N3pk" title="Headlights" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "_Dg2Ia6N3pk" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Headlights"</em> by Night Moves is a captivating indie rock track from the album <em>Colored Emotions</em>, blending soulful melodies with a unique sound that defines Night Movesâ€™ style. Released under Domino Recording Co., this track captures a dreamy atmosphere that is both intimate and expansive.</p>
 </div> <!-- Footer Links -->

@@ -7,7 +7,7 @@ layout: post
 <p >Updated September 14, 2018, with "Rich Life" by Frasswel. This track, released under Temple Swing Records, is a celebration of ambition and the pursuit of a better future, all set to an infectious reggae beat.</p> <!-- Featured Image -->
 <div > <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTb3Omj2BydhAGzHnJbDPfkjHQst856G9-Uyw&s" alt="Frasswel - Rich Life" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/tz9VceRbPcw" title="Frasswel - Rich Life (Official Audio)" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "tz9VceRbPcw" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Rich Life"</em> by Frasswel was released in 2018 under Temple Swing Records. This song encapsulates the vibrant and hopeful essence of reggae, delivering a message of determination and aspiration.</p>
 </div> <!-- Footer Links -->

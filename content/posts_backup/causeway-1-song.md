@@ -2,7 +2,7 @@
 title: "causeway 1 song"
 layout: post
 ---
-<iframe frameborder="0" height="270" src="https://www.youtube.com/embed/zaGtNDe5To4" width="480"></iframe><h2><ol><li>We Were Never Lost [2020]</li></ol></h2>
+{{< youtube "zaGtNDe5To4" >}}<h2><ol><li>We Were Never Lost [2020]</li></ol></h2>
 
 <!--Subscribe and Playlist Links-->
 <div>

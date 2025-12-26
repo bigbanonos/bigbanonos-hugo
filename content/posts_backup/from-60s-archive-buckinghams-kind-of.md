@@ -3,7 +3,7 @@ title: "from 60s archive buckinghams kind of"
 layout: post
 ---
 #1960s <br />
-<iframe width="95%" height="315" src="https://www.youtube.com/embed/luqF2qL47JE?list=PLtuNtuTatqI3X01zTqiujiaUhFaK1PjKA" frameborder="0" allowfullscreen></iframe> <br />
+{{< youtube "luqF2qL47JE" >}} <br />
 Kind Of A Drag 1966
 
 <!--Subscribe and Playlist Links-->

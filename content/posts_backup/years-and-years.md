@@ -3,7 +3,7 @@ title: "years and years"
 layout: post
 ---
 #2014 <br />
-<iframe width="100%" height="auto" src="https://www.youtube.com/embed/VjT4BzLTaJU?list=PLtuNtuTatqI1cR9clFS2SGyRMUnX2VoJk" frameborder="0" allowfullscreen></iframe><br />
+{{< youtube "VjT4BzLTaJU" >}}<br />
 Real 2014
 
 <!--Subscribe and Playlist Links-->

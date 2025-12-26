@@ -7,7 +7,7 @@ layout: post
 <p >Updated March 11, 2016 with BigBanonos' favorite track, "Lucy Mae Blues" by Cecil Barfield. This haunting blues classic from *The George Mitchell Collection Vol. 1* captures the raw emotion and timeless storytelling of the genre.</p> <!-- Featured Image -->
 <div > <img src="https://peterblowry.com/wp-content/uploads/2017/06/cecil-1.jpg?w=584" alt="Cecil Barfield - Lucy Mae Blues" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/vcFBtViZ7eo" title="Cecil Barfield - Lucy Mae Blues" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "vcFBtViZ7eo" >}}
 </div> <!-- Song Information -->
 <div > <p>"Lucy Mae Blues," featured on *The George Mitchell Collection Vol. 1* and released by Fat Possum, showcases Cecil Barfieldâ€™s deep connection to Southern blues tradition and his unforgettable storytelling voice.</p>
 </div> <!-- Footer Links -->

@@ -7,7 +7,7 @@ layout: post
 <p >Updated June 20, 2005, with "I Will Turn Your Money Green (Alternate Take)" by Furry Lewis. This classic blues track, featured on the album <em>In His Prime 1927-1928</em>, captures the raw, heartfelt sound of Memphis blues at its finest.</p> <!-- Featured Image -->
 <div > <img src="https://upload.wikimedia.org/wikipedia/commons/7/74/Furry_Lewis.jpg" alt="Furry Lewis - I Will Turn Your Money Green" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/W07Vj78O6ys" title="I Will Turn Your Money Green (Alternate Take)" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "W07Vj78O6ys" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"I Will Turn Your Money Green (Alternate Take)"</em> is a timeless blues recording by Furry Lewis. Released in 2005 as part of the album <em>In His Prime 1927-1928</em> by Yazoo, it reflects the traditional blues style that defined the Memphis sound.</p>
 </div> <!-- Footer Links -->

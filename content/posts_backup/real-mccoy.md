@@ -3,10 +3,10 @@ title: "real mccoy"
 layout: post
 ---
 <h3>BigBanonos' Favorite Songs by Real McCoy</h3> <!-- Featured Image -->
-<div > <a href="https://fastly-s3.allmusic.com/artist/mn0000408736/400/eEX25Z6ctRoQnJksRiZK0phUoDg0hsvx4F4sL4oO-nA=.jpg" target="_blank"> <img src="https://fastly-s3.allmusic.com/artist/mn0000408736/400/eEX25Z6ctRoQnJksRiZK0phUoDg0hsvx4F4sL4oO-nA=.jpg" alt="Real McCoy - Another Night"> </a>
+<div > <a href="https://fastly-s3.allmusic.com/artist/mn0000408736/400/eEX25Z6ctRoQnJksRiZK0phUoDg0hsvx4F4sL4oO-nA=.jpg" target="_blank"> {{< img-lite src="https://fastly-s3.allmusic.com/artist/mn0000408736/400/eEX25Z6ctRoQnJksRiZK0phUoDg0hsvx4F4sL4oO-nA=.jpg" alt="Real McCoy - Another Night" >}} </a>
 </div> <!-- Introductory Text -->
 <p>Updated March 28, 1995, with tracks from Real McCoy's breakout album <strong>Another Night</strong>. BigBanonos highlights their eurodance and diva house anthems that dominated dance floors worldwide in the '90s.</p> <!-- Spotify Playlist Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/6dia2cOFWj9OseTFfmjpJh?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Song List -->
 <h4>Top Songs:</h4>
 <ol> <li><strong>Another Night</strong> | <em>Another Night</em> | Released: March 28, 1995 | Arista | Genre: eurodance, diva house, german techno, hip house</li> <li><strong>Come and Get Your Love - Radio Edit</strong> | <em>Another Night</em> | Released: March 28, 1995 | Arista | Genre: eurodance, diva house, german techno, hip house</li>

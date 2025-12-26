@@ -7,7 +7,7 @@ layout: post
 <p >"Long Black Veil" from <em>American Originals</em>. Experience the honky-tonk classics of Lefty Frizzell in the playlist below!</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d0000b273dbbb1665c269919b6642d3f8" alt="Lefty Frizzell" />
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/6zKc86XWJMP7pq1Nj9NMvp?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <div > <p><strong>"Long Black Veil"</strong><br> Genre: Country, Pop, Rock<br> Album: <em>American Originals</em><br> Release Date: 1980<br> Label: Columbia</p> <p><strong>"Make That One for the Road a Cup of Coffee"</strong><br> Genre: Country, Pop, Rock<br> Album: <em>The Complete Columbia Recording Sessions, Vol. 7 - 1964-1966</em><br> Release Date: 1964<br> Label: Columbia/Legacy</p> <p><strong>"Saginaw, Michigan"</strong><br> Genre: Country, Pop, Rock<br> Album: <em>The Complete Columbia Recording Sessions, Vol. 6 - 1959-1963</em><br> Release Date: 1959<br> Label: Columbia/Legacy</p>
 </div> <!-- Footer Links -->

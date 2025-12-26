@@ -5,11 +5,11 @@ layout: post
 <div class="post-title"> <h1>BigBanonos' Favorite Songs by Yellowman</h1>
 </div>
 <p>Updated January 1, 2007, with "Zungguzungguguzungguzeng" from the album <i>Most Wanted Series - Yellowman</i>, highlighted in the playlist below:</p>
-<div class="post-image"> <img src="https://www.djyellowman.com/wp-content/uploads/2019/03/yellowman.jpg" alt="Yellowman Album Cover">
+<div class="post-image"> {{< img-lite src="https://www.djyellowman.com/wp-content/uploads/2019/03/yellowman.jpg" alt="Yellowman Album Cover" >}}
 </div>
 <p>Yellowman, a pioneer of dancehall reggae, captivated audiences with his unique style and bold lyrics. Tracks like "Zungguzungguguzungguzeng" and "Mr Chin" exemplify his innovative sound and cultural impact. His music remains a cornerstone of reggae and dancehall history.</p>
 <p>Listen to the playlist below to experience these tracks and more:</p>
-<div class="spotify-embed"> <iframe src="https://open.spotify.com/embed/playlist/7x6PrsRAfoKwYY36jdMUgj?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div class="spotify-embed"> {{< youtube "embed" >}}
 </div>
 <p>Tracks featured:</p>
 <ul> <li>"Zungguzungguguzungguzeng" â€“ <i>Most Wanted Series - Yellowman</i> (January 1, 2007, Greensleeves Records)</li> <li>"Mr Chin" â€“ <i>Mister Yellowman</i> (1982, Greensleeves Records)</li>

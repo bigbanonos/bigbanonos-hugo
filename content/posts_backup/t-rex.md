@@ -12,7 +12,7 @@ layout: post
 <p><strong>"Jeepster"</strong> â€“ <em>Electric Warrior [Expanded & Remastered]</em> (Rhino/Warner Records, 1971)</p>
 <p><strong>"Metal Guru"</strong> â€“ <em>The Slider</em> (T-Rex Catalog, 1972)</p>
 <p><strong>"Telegram Sam"</strong> â€“ <em>The Slider</em> (T-Rex Catalog, 1972)</p>
-<p><strong>"The Slider"</strong> â€“ <em>The Slider</em> (T-Rex Catalog, 1972)</p> <iframe src="https://open.spotify.com/embed/playlist/5M6SuiR6lQu5ErfWCy7DTj?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> <p>@trex</p> <hr /> <!-- Footer -->
+<p><strong>"The Slider"</strong> â€“ <em>The Slider</em> (T-Rex Catalog, 1972)</p> {{< youtube "embed" >}} <p>@trex</p> <hr /> <!-- Footer -->
 <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p> <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist</a></p> <p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
 
 <!--Subscribe and Playlist Links-->

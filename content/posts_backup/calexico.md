@@ -7,7 +7,7 @@ layout: post
 <p >Updated April 13, 2015, with BigBanonos' favorite track, "Cumbia de Donde" by Calexico. This vibrant tune from the acclaimed album *Edge of the Sun* beautifully blends alternative country, chamber pop, and roots rock influences with a Tucson indie flair.</p> <!-- Featured Image -->
 <div > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Calexico_ZMF_2016_IMGP7499.jpg/1200px-Calexico_ZMF_2016_IMGP7499.jpg" alt="Calexico - Cumbia de Donde" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/tjzxxzBTNmw" title="Calexico - "Cumbia de Donde"" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "tjzxxzBTNmw" >}}
 </div> <!-- Song Information -->
 <div > <p>"Cumbia de Donde" by Calexico is featured on their album *Edge of the Sun*, released on April 13, 2015, under the Anti/Epitaph label. This song showcases the bandâ€™s unique fusion of alternative country, chamber pop, roots rock, and Tucson indie sounds.</p>
 </div> <!-- Footer Links -->

@@ -5,9 +5,9 @@ layout: post
 <!-- Title of the Post -->
 <h1>BigBanonosâ€™ Favorite Songs by INXS</h1> <!-- Introductory Text -->
 <p>INXS brought a unique blend of rock, pop, and dance to the world stage. BigBanonos highlights their timeless hits, including fan favorites from the classic album <em>Kick</em>.</p> <!-- Featured Image -->
-<div> <img src="https://www.billboard.com/wp-content/uploads/2022/04/inxs-kick-image-1548.jpg" alt="INXS">
+<div> {{< img-lite src="https://www.billboard.com/wp-content/uploads/2022/04/inxs-kick-image-1548.jpg" alt="INXS" >}}
 </div> <!-- Spotify Embed -->
-<div> <iframe src="https://open.spotify.com/embed/playlist/1xF5bd0ZydQ7hoEiXOsz2y?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div> {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <h3>Top Songs:</h3>
 <ul> <li><strong>Never Tear Us Apart</strong> | Album: <em>Kick</em> | Released: 1987 | Label: Rhino Atlantic</li>

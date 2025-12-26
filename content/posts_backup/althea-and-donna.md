@@ -7,7 +7,7 @@ layout: post
 <p >Updated January 1, 2003, with BigBanonos' favorite song by Althea and Donna, "Uptown Top Ranking," featured on the compilation album *Uptown Top Ranking: Joe Gibbs Reggae Productions 1970-78*. Watch the video and see more details below:</p> <!-- Featured Image -->
 <div > <img src="https://static.wikia.nocookie.net/peel/images/e/e0/Tumblr_lqzsm1m7wl1qam9a3o1_r1_400.jpg/revision/latest?cb=20191110120812" alt="Althea and Donna - Uptown Top Ranking" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/joh37lrvf-s" title="Althea & Donna - Uptown Top Ranking" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "joh37lrvf-s" >}}
 </div> <!-- Song Information -->
 <div > <p>"Uptown Top Ranking" by Althea and Donna is a timeless reggae anthem blending dub and roots reggae styles with a playful and confident flair. Featured on the compilation album *Uptown Top Ranking: Joe Gibbs Reggae Productions 1970-78*, and released under Sanctuary Records on January 1, 2003, this track remains a standout in reggae history.</p>
 </div> <!-- Footer Links -->

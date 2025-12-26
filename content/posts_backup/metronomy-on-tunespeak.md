@@ -2,8 +2,8 @@
 title: "metronomy on tunespeak"
 layout: post
 ---
-<h2>BigBanonos' Favorite Songs by Metronomy</h2> <p><strong>Updated 2008, with "A Thing for Me" from <em>Nights Out</em></strong></p> <img src="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84171ac5304e333af20e75309c" width="100%" alt="Metronomy"> <p>Metronomy's electro-pop sound is as playful as it is innovative. Below is BigBanonos' favorite song.</p> <h3>"A Thing for Me"</h3>
-<p><em>Nights Out</em>, 2008</p> <iframe width="640" height="360" src="https://www.youtube.com/embed/uYB2Mqs24ss" title="Metronomy - A Thing For Me (Official Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> <h3>Breakbot Remix</h3> <iframe width="640" height="360" src="https://www.youtube.com/embed/40kbTXVTyg8" title="Metronomy - A Thing for Me (Breakbot Remix) [Official Audio]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> <hr /> <p><strong>Tags:</strong> @metronomy</p> <hr /> <p><em>First posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+<h2>BigBanonos' Favorite Songs by Metronomy</h2> <p><strong>Updated 2008, with "A Thing for Me" from <em>Nights Out</em></strong></p> {{< img-lite src="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84171ac5304e333af20e75309c" alt="Metronomy" >}} <p>Metronomy's electro-pop sound is as playful as it is innovative. Below is BigBanonos' favorite song.</p> <h3>"A Thing for Me"</h3>
+<p><em>Nights Out</em>, 2008</p> {{< youtube "uYB2Mqs24ss" >}} <h3>Breakbot Remix</h3> {{< youtube "40kbTXVTyg8" >}} <hr /> <p><strong>Tags:</strong> @metronomy</p> <hr /> <p><em>First posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
 
 
 <!--Subscribe and Playlist Links-->

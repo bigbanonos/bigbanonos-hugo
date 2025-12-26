@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "I Want You" by Tayla Parx, from the album *We Need To Talk*, released on April 5, 2019. Tayla Parx delivers an infectious blend of pop and R&B in this track, showcasing her signature songwriting and vocal prowess.</p> <!-- Featured Image -->
 <div > <img src="https://www.billboard.com/wp-content/uploads/media/Tayla-Parx-press-photo-2019-cr-Madeleine-Dalla-billboard-1548.jpg?w=942&h=623&crop=1" alt="Tayla Parx - I Want You" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/9lZ1EVyVLLo" title="Tayla Parx - I Want You (Official Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "9lZ1EVyVLLo" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"I Want You"</em> by Tayla Parx is a catchy, upbeat anthem that perfectly captures the energy of modern pop and R&B. With a memorable hook and playful lyrics, this track showcases Tayla Parxâ€™s unique style and captivating voice.</p>
 </div> <!-- Footer Links -->

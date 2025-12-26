@@ -7,7 +7,7 @@ layout: post
 <p >Updated October 7, 2014, with BigBanonos' favorite track, "Breaker" by Chaos Chaos. This la indie gem comes from their EP *Committed to the Crime* and showcases the duo's unique pop sensibilities.</p> <!-- Featured Image -->
 <div > <img src="https://images.squarespace-cdn.com/content/v1/53bad273e4b04332c190511a/1588023293205-TH8AWDHUFOZ0MMHU764O/Chaos+Chaos+new+songs.jpg" alt="Chaos Chaos - Breaker" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/2VioijRLGcw" title="Chaos Chaos (formerly Smoosh) - Breaker" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "2VioijRLGcw" >}}
 </div> <!-- Song Information -->
 <div > <p>"Breaker," released on October 7, 2014, is a standout indie-pop track that highlights Chaos Chaosâ€™s evolving sound and knack for emotional, catchy melodies.</p>
 </div> <!-- Footer Links -->

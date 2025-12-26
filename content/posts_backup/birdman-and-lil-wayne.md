@@ -7,7 +7,7 @@ layout: post
 <p >Updated January 1, 2006, with BigBanonos' favorite song by Birdman and Lil Wayne, "Stuntin' Like My Daddy." Featured on the album *Like Father Like Son* and released under CM/Republic, this iconic hip-hop track defines the southern rap genre. Watch the video and see more details below:</p> <!-- Featured Image -->
 <div > <img src="https://www.vice.com/wp-content/uploads/sites/2/2016/11/stuntin-like-my-daddy-1.jpg?w=640" alt="Birdman and Lil Wayne - Stuntin' Like My Daddy" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/_hDPUoUi6_s" title="Birdman, Lil Wayne - Stuntin' Like My Daddy (Official Music Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "_hDPUoUi6_s" >}}
 </div> <!-- Song Information -->
 <div > <p>"Stuntin' Like My Daddy" by Birdman and Lil Wayne is a classic hip-hop anthem showcasing their signature dirty south rap and southern hip-hop style. Released on January 1, 2006, as part of the album *Like Father Like Son* under CM/Republic, this 4:27-long track solidified their legacy in rap history.</p>
 </div> <!-- Footer Links -->

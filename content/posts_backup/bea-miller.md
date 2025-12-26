@@ -7,7 +7,7 @@ layout: post
 <p >Updated September 20, 2019, with BigBanonos' favorite song by Bea Miller and Snakehips, "NEVER GONNA LIKE YOU," released under Hollywood Records. Watch the video and see more details below:</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d0000b27360ef3ec089e95b5a9df8fda5" alt="Bea Miller and Snakehips - NEVER GONNA LIKE YOU" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/gg2exL7-S-g" title="Bea Miller, Snakehips - NEVER GONNA LIKE YOU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "gg2exL7-S-g" >}}
 </div> <!-- Song Information -->
 <div > <p>"NEVER GONNA LIKE YOU" by Bea Miller and Snakehips is a sleek blend of pop, electronic, and R&B with a soulful yet edgy vibe. Released on September 20, 2019, under Hollywood Records, this 3:26-long track combines alt z and vapor soul influences with vibrant electropop and UK dance rhythms.</p>
 </div> <!-- Footer Links -->

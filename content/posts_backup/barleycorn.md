@@ -7,7 +7,7 @@ layout: post
 <p >Updated August 7, 2015, with BigBanonos' favorite song by Barleycorn, "Broad Black Brimmer," from the album *Live at the Embankment (Live)*. Watch the video and see more details below:</p> <!-- Featured Image -->
 <div > <img src="https://thenewbarleycorn.com/wp-content/uploads/2022/03/new-barleycorn-music-in-the-woods-640x640.jpg" alt="Barleycorn - Broad Black Brimmer" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/sYJ7184dIZY" title="The Barleycorn - Broad Black Brimmer | Irish Rebel" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "sYJ7184dIZY" >}}
 </div> <!-- Song Information -->
 <div > <p>"Broad Black Brimmer" by Barleycorn is a stirring Irish folk anthem that resonates with heartfelt pride and tradition. Released on August 7, 2015, under Arran Records, this 2:28-long live recording from the album *Live at the Embankment (Live)* showcases the band's mastery of Irish country and folk music.</p>
 </div> <!-- Footer Links -->

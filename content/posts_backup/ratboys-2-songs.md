@@ -4,11 +4,11 @@ layout: post
 ---
 <h1>BigBanonos Top Songs by Ratboys</h1>
 <img alt="Ratboys" src="https://seated.imgix.net/3edf4aa3-8cc0-47e2-8f22-8b5f8f7f5dd8/8ab293ac-d9e2-45ff-ac4d-71ad8298d7fc.jpg" /> <p>Ratboys deliver a fresh indie punk sound, blending Chicago's indie spirit with relatable themes and catchy melodies. Here are BigBanonos' top selections:</p> <ol> <li><strong>Go Outside</strong> | <em>Go Outside</em> | Topshelf Records | Released: March 1, 2021</li> <li><strong>Elvis is in the Freezer</strong> | <em>GN</em> | Topshelf Records | Released: June 30, 2017</li>
-</ol> <div> <iframe allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" frameborder="0" height="352" loading="lazy" src="https://open.spotify.com/embed/playlist/1b4xXzP8TCTzuBvjvC70cj?utm_source=generator" width="100%"></iframe>
+</ol> <div> {{< youtube "embed" >}}
 </div> <p>first posted by <a href="https://bigbanonos.blogspot.com/">https://bigbanonos.blogspot.com/</a></p> <div> <p>Explore more BigBanonos content: <a href="https://bigbanonos.blogspot.com/">Website</a> | <a href="https://www.youtube.com/@BigBanonos">YouTube</a> | <a href="https://x.com/bigbanonos">Twitter</a></p>
 </div> <!--Tags-->
 <p>@ratboys</p> <!--Video Section-->
-<div> <p>Videos for Go Outside [2021] and Elvis in the Freezer [2017]:</p> <iframe frameborder="0" height="360" src="https://youtube.com/embed/O9124c6OHzI?list=PLtuNtuTatqI0E5TQJhqEUHBcyS4eEE5KZ" width="480"></iframe>
+<div> <p>Videos for Go Outside [2021] and Elvis in the Freezer [2017]:</p> {{< youtube "O9124c6OHzI" >}}
 </div>
 
 

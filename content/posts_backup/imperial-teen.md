@@ -7,7 +7,7 @@ layout: post
 <p >Updated April 9, 2002, with "Teacher's Pet" by Imperial Teen. This energetic track from their album *On* blends Bay Area indie vibes with the bold spirit of queercore. Watch the video below!</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d0000b273f74dfcbde17154bd455b71bb" alt="Imperial Teen - Teacher's Pet" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="733" height="480" src="https://www.youtube.com/embed/6afqqMO0EJk" title="Imperial Teen - Teacher's Pet" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "6afqqMO0EJk" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Teacher's Pet"</em>, from Imperial Teenâ€™s 2002 album *On*, released under Merge Records, is a vibrant and playful track that captures the bandâ€™s unique mix of indie rock and queercore influences. Its infectious energy and witty lyrics make it a standout in their discography.</p>
 </div> <!-- Footer Links -->

@@ -2,7 +2,7 @@
 title: "the innocence mission 1 song"
 layout: post
 ---
-<iframe frameborder="0" height="270" src="https://youtube.com/embed/u_1R3I_eFDY?si=2MKoS6apaRlXTCxM" width="480"></iframe><div><br /></div><div>This Thread Is A Green Street [2024]</div><div><br /></div><div class="separator" ><a href="https://wildfiremusic.net/wp-content/uploads/2024/09/78891663_3078798328816543_6886220760457674752_n-e1725919586671.jpg" imageanchor="1"><img border="0" data-original-height="1157" data-original-width="1457" height="1157" src="https://wildfiremusic.net/wp-content/uploads/2024/09/78891663_3078798328816543_6886220760457674752_n-e1725919586671.jpg" width="1457" /></a></div><br /><div><br /></div>
+{{< youtube "u_1R3I_eFDY" >}}<div><br /></div><div>This Thread Is A Green Street [2024]</div><div><br /></div><div class="separator" ><a href="https://wildfiremusic.net/wp-content/uploads/2024/09/78891663_3078798328816543_6886220760457674752_n-e1725919586671.jpg" imageanchor="1"><img border="0" data-original-height="1157" data-original-width="1457" height="1157" src="https://wildfiremusic.net/wp-content/uploads/2024/09/78891663_3078798328816543_6886220760457674752_n-e1725919586671.jpg" width="1457" /></a></div><br /><div><br /></div>
 
 <!--Subscribe and Playlist Links-->
 <div>

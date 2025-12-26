@@ -2,7 +2,7 @@
 title: "bumblebee unlimited 1 song"
 layout: post
 ---
-<iframe allowfullscreen="" frameborder="0" height="270" src="https://www.youtube.com/embed/bxc0f_D58LI" width="480"></iframe><br /><br /><h3><ol><li>
+{{< youtube "bxc0f_D58LI" >}}<br /><br /><h3><ol><li>
 Lady Bug [1979]</li></ol></h3>
 
 <!--Subscribe and Playlist Links-->

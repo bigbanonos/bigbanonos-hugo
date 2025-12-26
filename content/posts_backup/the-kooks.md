@@ -7,7 +7,7 @@ layout: post
 <p >Updated with *Naive*, a track from The Kooks' debut album *Inside In / Inside Out*. Released by Virgin Records on January 1, 2006, this song is one of their most iconic, blending their signature indie rock style with catchy, heartfelt lyrics. It's a perfect example of the band's early sound, combining modern rock and garage rock influences.</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d0000b27324961edce577bdb99d34a538" alt="The Kooks - Naive" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/jkaMiaRLgvY" title="The Kooks - Naive" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "jkaMiaRLgvY" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Naive"</em> is one of The Kooks' signature songs from their debut album *Inside In / Inside Out*, which helped define their sound and influence a generation of indie rock fans. The track stands as a testament to their ability to create both catchy and deeply personal songs.</p>
 </div> <!-- Footer Links -->

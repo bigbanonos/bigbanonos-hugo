@@ -7,7 +7,7 @@ layout: post
 <p >Updated January 17, 2025, with "Women of Creation" from <em>The Affluent Caribbean Series Vol1</em>. Dive into the dancehall vibes of Lisa Hype in the playlist below!</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab6761610000e5eb82f563a9beb7010963cabb08" alt="Lisa Hype" />
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/2wFmVJSVxlYP0xOBsxJL7I?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <div > <p><strong>"Women of Creation"</strong><br> Genre: World/Traditional, Hip Hop<br> Album: <em>The Affluent Caribbean Series Vol1</em><br> Release Date: April 1, 2011<br> Label: Affluent Records</p> <p><strong>"Hohw Yuh Do It Like Dat" (feat. Vybz Kartel)</strong><br> Genre: World/Traditional, Pop, Hip Hop<br> Album: <em>Birch - Baddaz Riddim</em><br> Release Date: November 11, 2009<br> Label: Birchill Records</p>
 </div> <!-- Footer Links -->

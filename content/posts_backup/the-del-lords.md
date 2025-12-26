@@ -7,7 +7,7 @@ layout: post
 <p >Updated March 14, 2013, with "When the Drugs Kick In" by The Del Lords. This track from the album *Elvis Club* showcases their mastery of power pop, released under Gb Music.</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d00001e020ec42d7e110d18d6f0484cb5" alt="The Del Lords - When the Drugs Kick In" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/oQaCEqvC6rU" title="When the Drugs Kick In" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "oQaCEqvC6rU" >}}
 </div> <!-- Song Information -->
 <div > <p>"When the Drugs Kick In" is a standout power pop anthem by The Del Lords, blending catchy melodies with thoughtful lyrics, making it a must-hear from *Elvis Club*.</p>
 </div> <!-- Footer Links -->

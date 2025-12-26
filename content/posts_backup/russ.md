@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "BEST ON EARTH" by Russ featuring BIA, from the album *BEST ON EARTH (feat. BIA) [Bonus]*, released on October 18, 2019, by Columbia.</p> <!-- Featured Image -->
 <div > <img src="https://i.ytimg.com/vi/4HvdGXANdYE/maxresdefault.jpg" alt="Russ - BEST ON EARTH (feat. BIA)" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/4HvdGXANdYE" title="Russ - BEST ON EARTH (Feat. BIA) (Official Video) ft. BIA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "4HvdGXANdYE" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"BEST ON EARTH"</em> by Russ featuring BIA is a track from the album *BEST ON EARTH (feat. BIA) [Bonus]*, released on October 18, 2019. The song blends Hawaiian hip hop, pop rap, and Latin trap influences, offering a smooth yet energetic vibe that highlights the talents of both artists.</p>
 </div> <!-- Footer Links -->

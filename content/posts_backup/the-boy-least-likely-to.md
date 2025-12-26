@@ -5,9 +5,9 @@ layout: post
 <!-- Title of the Post -->
 <h1>BigBanonos' Favorite Songs by The Boy Least Likely To</h1> <!-- Introductory Text -->
 <p>Updated with twee pop classics by The Boy Least Likely To. These charming tracks bring a whimsical and heartfelt touch to indie pop music.</p> <!-- Featured Image -->
-<div> <img src="https://i.scdn.co/image/ab67616d00001e02e6fd727369e3711858227a37" alt="The Boy Least Likely To - The Best Party Ever">
+<div> {{< img-lite src="https://i.scdn.co/image/ab67616d00001e02e6fd727369e3711858227a37" alt="The Boy Least Likely To - The Best Party Ever" >}}
 </div> <!-- Spotify Playlist Embed -->
-<div> <iframe src="https://open.spotify.com/embed/playlist/4fqkMq9CJnSKQnWDgExp02?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div> {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <h3>Top Songs:</h3>
 <ul> <li><strong>God Takes Care Of The Little Things</strong> | <em>The Best Party Ever</em> | Label: Too Young To Die | Released: September 26, 2005 | Genres: Twee Pop</li> <li><strong>I'm Glad I Hitched My Apple Wagon to Your Star</strong> | <em>The Best Party Ever</em> | Label: The Boy Least Likely To | Released: 2005 | Genres: Twee Pop</li>

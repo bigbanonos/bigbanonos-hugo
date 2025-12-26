@@ -2,7 +2,7 @@
 title: "courtney marie andrews 1 song"
 layout: post
 ---
-<iframe frameborder="0" height="270" src="https://www.youtube.com/embed/wz4YY_S3D-g" width="480"></iframe><h2><ol><li>Guilty [2020]</li></ol></h2>
+{{< youtube "wz4YY_S3D-g" >}}<h2><ol><li>Guilty [2020]</li></ol></h2>
 
 <!--Subscribe and Playlist Links-->
 <div>

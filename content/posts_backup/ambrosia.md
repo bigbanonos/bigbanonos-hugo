@@ -7,7 +7,7 @@ layout: post
 <p >Updated August 22, 1980, with "You're The Only Woman" by Ambrosia. This smooth and soulful yacht rock ballad remains one of Ambrosia's most cherished tracks. Watch the video below!</p> <!-- Featured Image -->
 <div > <img src="https://i1.sndcdn.com/artworks-r26QnRB0C1Ri-0-t500x500.jpg" alt="Ambrosia - You're The Only Woman" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/TYJGfrKQ7nU?list=PLtuNtuTatqI3ADcM_zLmgfpkLlcO5e9Pw" width="95%"></iframe>
+<div > {{< youtube "TYJGfrKQ7nU" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"You're The Only Woman"</em>, released on August 22, 1980, is a standout track from Ambrosiaâ€™s album *One Eighty*. This timeless classic combines heartfelt lyrics with the bandâ€™s signature soft rock sound.</p>
 </div> <!-- Footer Links -->

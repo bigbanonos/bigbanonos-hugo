@@ -7,7 +7,7 @@ layout: post
 <p >Updated March 30, 2015, with "Sucker's Shangri-La" by Lower Dens. This mesmerizing track from the album <em>Escape From Evil</em>, released under Ribbon Music, blends elements of Baltimore indie, chillwave, and noise pop to create an unforgettable soundscape.</p> <!-- Featured Image -->
 <div > <img src="https://f4.bcbits.com/img/0016486075_25.jpg" alt="Lower Dens - Sucker's Shangri-La" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/EbsXu7yOXqk" title="Lower Dens - Sucker's Shangri-La (Official Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "EbsXu7yOXqk" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Sucker's Shangri-La"</em> by Lower Dens is a spellbinding mix of dreamlike melodies and textured soundscapes. From their album <em>Escape From Evil</em>, this track stands out as an exploration of nuanced emotion and innovative production, a hallmark of their unique style.</p>
 </div> <!-- Footer Links -->

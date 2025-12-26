@@ -2,7 +2,7 @@
 title: "miranda lambert 1 song"
 layout: post
 ---
-<iframe frameborder="0" height="270" src="https://youtube.com/embed/LUrukGC8TQA" width="480"></iframe><h2><ol><li>(ft. Jack Ingram, Jon Randall) - In His Arms [2021]</li></ol></h2>
+{{< youtube "LUrukGC8TQA" >}}<h2><ol><li>(ft. Jack Ingram, Jon Randall) - In His Arms [2021]</li></ol></h2>
 
 <!--Subscribe and Playlist Links-->
 <div>

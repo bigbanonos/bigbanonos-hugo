@@ -2,8 +2,8 @@
 title: "little roy"
 layout: post
 ---
-<h2>BigBanonos' Favorite Songs by Little Roy</h2> <p><strong>Updated 1971, with "Hardest Fighter" from <em>Rebel Music: A Reggae Anthology</em></strong></p> <img src="https://i.scdn.co/image/ab67616d00001e02d9e41e50c5d8ae5c3a707a1e" width="100%" alt="Little Roy"> <p>Little Roy is a key figure in reggae history, bringing powerful, socially conscious lyrics. Below is BigBanonos' favorite song.</p> <h3>"Hardest Fighter"</h3>
-<p>1971</p> <iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/g8Q_AAZtscA?list=PLtuNtuTatqI27rEpl6sppn5M8ja8x3-Rz" width="95%"></iframe> <hr /> <p><strong>Tags:</strong> @littleroy</p> <hr /> <p><em>First posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+<h2>BigBanonos' Favorite Songs by Little Roy</h2> <p><strong>Updated 1971, with "Hardest Fighter" from <em>Rebel Music: A Reggae Anthology</em></strong></p> {{< img-lite src="https://i.scdn.co/image/ab67616d00001e02d9e41e50c5d8ae5c3a707a1e" alt="Little Roy" >}} <p>Little Roy is a key figure in reggae history, bringing powerful, socially conscious lyrics. Below is BigBanonos' favorite song.</p> <h3>"Hardest Fighter"</h3>
+<p>1971</p> {{< youtube "g8Q_AAZtscA" >}} <hr /> <p><strong>Tags:</strong> @littleroy</p> <hr /> <p><em>First posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
 
 
 <!--Subscribe and Playlist Links-->

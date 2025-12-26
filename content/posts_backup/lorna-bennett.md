@@ -7,7 +7,7 @@ layout: post
 <p >Updated January 18, 2011, with "Breakfast in Bed" by Lorna Bennett. This timeless reggae track, featured on the album <em>Reggae Sunshine</em> and released under EMD, delivers smooth vocals and soulful island vibes.</p> <!-- Featured Image -->
 <div > <img src="https://i1.sndcdn.com/artworks-000050057013-31g835-t500x500.jpg" alt="Lorna Bennett - Breakfast in Bed" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/jG8ciJDDH9Y" title="Lorna Bennet Breakfast in bed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "jG8ciJDDH9Y" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Breakfast in Bed"</em> by Lorna Bennett is a smooth and soulful reggae track that stands as a classic in the genre. With its warm melodies and heartfelt delivery, this song is a must-listen for fans of timeless reggae music.</p>
 </div> <!-- Footer Links -->

@@ -3,7 +3,7 @@ title: "vertebrats"
 layout: post
 ---
 #1990s <br />
-<br /><iframe width="95%" height="315" src="https://www.youtube.com/embed/Wxr33sDcESo?list=PLtuNtuTatqI2GrQ3LrtdNA9IjBPQZbc2O" frameborder="0" allowfullscreen></iframe><br />
+<br />{{< youtube "Wxr33sDcESo" >}}<br />
 Left In The Dark 1992
 
 <!--Subscribe and Playlist Links-->

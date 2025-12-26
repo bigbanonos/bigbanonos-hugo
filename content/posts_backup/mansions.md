@@ -7,7 +7,7 @@ layout: post
 <p >Updated April 5, 2011, with "Dig Up The Dead" by Mansions. This emotionally charged track from the album <em>Dig Up The Dead</em>, released under Burning House Records, exemplifies the raw intensity and introspection of alternative emo.</p> <!-- Featured Image -->
 <div > <img src="https://www.getalternative.com/wp-content/uploads/2020/07/mansions-e1596211021819.jpeg" alt="Mansions - Dig Up The Dead" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/JfOeVTSZSJM" title="Dig Up the Dead" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "JfOeVTSZSJM" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Dig Up The Dead"</em> by Mansions is a powerful exploration of heartbreak and resilience. With its poignant lyrics and raw instrumentation, this track from <em>Dig Up The Dead</em> is a cornerstone of the alternative emo genre.</p>
 </div> <!-- Footer Links -->

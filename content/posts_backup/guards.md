@@ -7,7 +7,7 @@ layout: post
 <p >Updated January 1, 2010, with "I See It Coming" by Guards. This indie rock track delivers a compelling blend of raw energy and infectious melodies, making it a standout in the early 2010s indie scene. Watch the video below!</p> <!-- Featured Image -->
 <div > <img src="https://filepicker-images.genius.com/be19kdlojme" alt="Guards - I See It Coming" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/DhVL5V2WUcU?list=PLtuNtuTatqI1ny5mFEOwA47MZ_XtCE4aH" width="95%"></iframe>
+<div > {{< youtube "DhVL5V2WUcU" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"I See It Coming"</em>, released in 2010, is a quintessential track by Guards, blending heartfelt lyrics with a driving indie rock sound. Its timeless appeal and dynamic production make it a must-listen for fans of the genre.</p>
 </div> <!-- Footer Links -->

@@ -5,7 +5,7 @@ layout: post
 <h3><em>BigBanonos</em> Favorite Songs by Forever:</h3> <p>Updated on February 14, 2020, with the song â€œBlur.â€ <em>BigBanonos</em> brings you Forever's best in Canadian electropop.</p> <!--Image-->
 <div class="separator"> <a href="https://i0.wp.com/consafosmag.com/wp-content/uploads/2020/01/unnamed-38.jpg?resize=1200%2C961&ssl=1" > <img alt="Forever" src="https://i0.wp.com/consafosmag.com/wp-content/uploads/2020/01/unnamed-38.jpg?resize=1200%2C961&ssl=1" /> </a>
 </div> <!--Spotify Playlist Embed-->
-<iframe allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" allowfullscreen="" frameborder="0" height="352" loading="lazy" src="https://open.spotify.com/embed/playlist/7mPWXcS4U9vxvcZXy6uYbt?utm_source=generator" width="100%"></iframe> <!--Song Listings-->
+{{< youtube "embed" >}} <!--Song Listings-->
 <ol> <li><strong>Blur</strong> â€ <em>Close to the Flame</em> â€ February 14, 2020</li> <li><strong>Falling</strong> â€ <em>Falling</em> â€ May 26, 2017Ãƒâ€šÃ‚Â </li></ol> <hr /> <p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
 
 

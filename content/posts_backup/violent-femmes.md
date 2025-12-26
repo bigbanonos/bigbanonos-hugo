@@ -3,7 +3,7 @@ title: "violent femmes"
 layout: post
 ---
 #highlights <br />
-<iframe width="95%" height="315" src="https://www.youtube.com/embed/PVTsBaqiNIg?list=PLtuNtuTatqI3LRvCfOmIQ-5A0ULPy-r1_" frameborder="0" allowfullscreen></iframe><br />
+{{< youtube "PVTsBaqiNIg" >}}<br />
 Add It Up 1983
 Blister In The Sun 1983
 Confessions 1983

@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Money (Raw)" by Propa Fade, featured on the *Zen Riddim* release by UIM Records, released on March 11, 2016.</p> <!-- Featured Image -->
 <div > <img src="https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/db/ab/3f/dbab3fe0-d626-4299-f976-27e514d60509/889326144502.jpg/1200x1200bf-60.jpg" alt="Propa Fade - Money (Raw)" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/FGPgdNdB3x0" title="Propa Fade - Money (Raw) [Zen Riddim]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "FGPgdNdB3x0" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Money (Raw)"</em> by Propa Fade is an electrifying track from the *Zen Riddim*, bringing dancehall vibes with a raw, authentic sound. Released by UIM Records in March 2016.</p>
 </div> <!-- Footer Links -->

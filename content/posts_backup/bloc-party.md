@@ -5,9 +5,9 @@ layout: post
 <!-- Title of the Post -->
 <h1>BigBanonos' Favorite Songs by Bloc Party</h1> <!-- Introductory Text -->
 <p>Updated with tracks like "Blue Light" and "Banquet" by Bloc Party. Their blend of alternative dance and indie rock has made them a cornerstone of modern rock.</p> <!-- Featured Image -->
-<div> <img src="https://i.scdn.co/image/ab67616d0000b273a8bda1a69a570b86793798d6" alt="Bloc Party">
+<div> {{< img-lite src="https://i.scdn.co/image/ab67616d0000b273a8bda1a69a570b86793798d6" alt="Bloc Party" >}}
 </div> <!-- Spotify Playlist Embed -->
-<div> <iframe src="https://open.spotify.com/embed/playlist/2quzE1yo8zSVq8dsuAkeOS?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div> {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <h3>Top Songs:</h3>
 <ol> <li><strong>Blue Light</strong> | <em>Silent Alarm</em> | Label: Vice Records/Atlantic | Released: March 22, 2005 | Genres: Alternative Dance, Indie Rock</li> <li><strong>Banquet</strong> | <em>Banquet</em> | Label: Vice Records/Atlantic | Released: March 15, 2005 | Genres: Alternative Dance, Indie Rock</li>

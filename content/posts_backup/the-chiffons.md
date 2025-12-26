@@ -7,7 +7,7 @@ layout: post
 <p >Updated with *He's So Fine* by The Chiffons, a classic from the golden age of girl groups. Released in 1963 and remastered in 2000, the track has become a signature piece of Brill Building pop. With its sweet harmonies and catchy melody, *He's So Fine* continues to be an anthem of the doo-wop and rock-and-roll era. Featured in their compilation album *The Chiffons Absolutely The Best!*, this timeless track showcases the group's vocal prowess and influence on pop music.</p> <!-- Featured Image -->
 <div > <img src="https://i1.sndcdn.com/avatars-000212349292-uth8pj-t240x240.jpg" alt="The Chiffons - He's So Fine" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/rinz9Avvq6A" title="The Chiffons - He's So Fine" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "rinz9Avvq6A" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"He's So Fine"</em> remains a shining example of classic girl group pop. With its doo-wop roots and infectious melody, this track solidified The Chiffons as one of the most iconic girl groups of the 1960s. It captures the essence of an era and continues to charm listeners worldwide.</p>
 </div> <!-- Footer Links -->

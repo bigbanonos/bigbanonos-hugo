@@ -7,7 +7,7 @@ layout: post
 <p >Updated March 31, 2014, with BigBanonos' favorite collaboration, "Melba's Call," by Bok Bok featuring Kelela. This genre-defying track, released under Night Slugs, merges deconstructed club and experimental R&B elements. Watch the video and see more details below:</p> <!-- Featured Image -->
 <div > <img src="https://i.ytimg.com/vi/iprGdZfZe1k/maxresdefault.jpg" alt="Bok Bok and Kelela - Melba's Call" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/iprGdZfZe1k" title="BOK BOK featuring KELELA - Melba's Call" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "iprGdZfZe1k" >}}
 </div> <!-- Song Information -->
 <div > <p>"Melba's Call" by Bok Bok featuring Kelela is a standout track blending the futuristic vibes of deconstructed club, afrofuturism, and experimental R&B. Released on March 31, 2014, under Night Slugs, this 4:11-long song showcases innovative production and Kelela's mesmerizing vocals.</p>
 </div> <!-- Footer Links -->

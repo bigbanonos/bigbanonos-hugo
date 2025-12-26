@@ -7,7 +7,7 @@ layout: post
 <p >Updated September 1, 2015, with BigBanonos' favorite track, "Lost It" by Circa Waves. A standout indie rock anthem from their *Young Chasers* album.</p> <!-- Featured Image -->
 <div > <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/Circa_Waves.jpg" alt="Circa Waves - Lost It" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/Pa88T_OatSA" title="Lost It" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "Pa88T_OatSA" >}}
 </div> <!-- Song Information -->
 <div > <p>"Lost It" is featured on Circa Waves' debut album *Young Chasers*, released by EMI on September 1, 2015. The track exemplifies the britpop revival and modern indie rock sound, cementing the band's place in the Liverpool indie scene.</p>
 </div> <!-- Footer Links -->

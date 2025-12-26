@@ -7,7 +7,7 @@ layout: post
 <p >Updated March 24, 2015, with "Begin The Mack (Intro)" by JR & PH7 featuring Chuuwee from *The South Sac Mack* album. This track exemplifies the underground boom bap sound that defines Sacramentoâ€™s hip hop scene. With its smooth beats and laid-back flow, itâ€™s a perfect introduction to Chuuweeâ€™s storytelling ability and JR & PH7â€™s production skills.</p> <!-- Featured Image -->
 <div > <img src="https://f4.bcbits.com/img/0004741818_71.jpg" alt="JR & PH7, Chuuwee - Begin The Mack (Intro)" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/LO8CaLvszo4" title="Begin The Mack (Intro)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "LO8CaLvszo4" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Begin The Mack (Intro)"</em> is a powerful opener to *The South Sac Mack* that sets the tone with its underground boom bap production and Chuuweeâ€™s smooth, confident delivery. This track showcases both the distinct style of Sacramento hip hop and the chemistry between JR & PH7 and Chuuwee.</p>
 </div> <!-- Footer Links -->

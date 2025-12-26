@@ -7,7 +7,7 @@ layout: post
 <p >"Goodbye Baby" by The Walters is a catchy indie rock anthem with heartfelt lyrics, blending Chicago indie with a touch of pop sensibility. Featured on *Goodbye Baby*, the track showcases the band's unique sound and heartfelt emotion. Watch the official video below!</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d0000b273479526c8d5cbd3bf8b8f7d07" alt="The Walters - Goodbye Baby" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/ImxNje6oEH4" title="The Walters - 'Goodbye Baby' [Official Video]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "ImxNje6oEH4" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Goodbye Baby"</em> by The Walters is a perfect blend of indie rock and pop, capturing a bittersweet feeling of parting. The Chicago-based band's unique sound and emotional depth shine through in this powerful track.</p>
 </div> <!-- Footer Links -->

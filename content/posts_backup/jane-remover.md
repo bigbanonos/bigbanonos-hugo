@@ -7,7 +7,7 @@ layout: post
 <p >Jane Remover drops a new track, â€œMagic I Want U,â€ blending glitchcore and hyper-rock sounds to create an explosive, genre-bending anthem. Watch the official audio video below!</p> <!-- Featured Image -->
 <div > <img src="https://media.them.us/photos/6532c339965c5987ed3e10d7/1:1/w_1600,h_1600,c_limit/jane_header.jpg" alt="Jane Remover - Magic I Want U" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="480" src="https://www.youtube.com/embed/Ew3WUpPw2nA" title="Jane Remover - Magic I Want U" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "Ew3WUpPw2nA" >}}
 </div> <!-- Song Information -->
 <div > <p><em>Magic I Want U</em> merges glitchcore and hyper-pop influences, bringing a refreshing yet chaotic twist to the genre.</p> <p><strong>Updated on September 4, 2024</strong></p>
 </div> <!-- Footer Links -->

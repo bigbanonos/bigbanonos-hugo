@@ -7,7 +7,7 @@ layout: post
 <p >Updated October 23, 2001, with "You Ain't Mad Iz Ya" from <em>Murder She Spoke</em>. Dive into the raw energy of La Chat's Memphis hip hop sound in the playlist below!</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d0000b273282ebd19a91a0dcad37ddc6c" alt="La Chat" />
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/1XeX8OPkgmGKpjjbxWbr1T?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <div > <p><strong>"You Ain't Mad Iz Ya"</strong><br> Genre: Hip Hop<br> Album: <em>Murder She Spoke</em><br> Release Date: October 23, 2001<br> Label: eOne Music</p> <p><strong>"Ghetto Ballin'"</strong><br> Genre: Hip Hop<br> Album: <em>Murder She Spoke</em><br> Release Date: October 23, 2001<br> Label: eOne Music</p>
 </div> <!-- Footer Links -->

@@ -2,7 +2,7 @@
 title: "beta frontiers"
 layout: post
 ---
-<div class="separator" ><a href="https://f4.bcbits.com/img/a2703044049_10.jpg" imageanchor="1"><img border="0" src="https://f4.bcbits.com/img/a2703044049_10.jpg" width="400" height="400" data-original-width="800" data-original-height="800" /></a></div><iframe width="100%" height="500px" src="https://www.youtube.com/embed/videoseries?list=PLtuNtuTatqI1ufoEEBdrFnnsHeQ8rvPPf" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+<div class="separator" ><a href="https://f4.bcbits.com/img/a2703044049_10.jpg" imageanchor="1"><img border="0" src="https://f4.bcbits.com/img/a2703044049_10.jpg" width="400" height="400" data-original-width="800" data-original-height="800" /></a></div>{{< youtube "videoseries" >}}
 <h3>(ft. Carmen Elle) If I Stayed</h3>
 
 <!--Subscribe and Playlist Links-->

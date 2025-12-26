@@ -7,7 +7,7 @@ layout: post
 <p >Updated December 10, 2010, with "Give Dem Hoes Up" by Max B. This raw and charismatic track from the album <em>Library of a Legend, Vol. 10</em>, released under Stage One Music, showcases Max B's unique flow and storytelling prowess.</p> <!-- Featured Image -->
 <div > <img src="https://i1.sndcdn.com/artworks-000667465462-5awe7g-t500x500.jpg" alt="Max B - Give Dem Hoes Up" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/pZRVJNimllU" title="Max B. - Give Dem Hoes Up" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "pZRVJNimllU" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Give Dem Hoes Up"</em> by Max B is a bold and captivating track that highlights his signature "wave" style. From the album <em>Library of a Legend, Vol. 10</em>, this song reflects his unique place in hip hop and his influence on the genre.</p>
 </div> <!-- Footer Links -->

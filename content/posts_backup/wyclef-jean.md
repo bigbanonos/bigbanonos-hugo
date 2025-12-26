@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Playaz Club 2011 Remix [Another Carjack]" by Wyclef Jean and Rappin' 4-Tay, from the single *Playaz Club 2011 Remix [Another Carjack]*, released on October 11, 2011, by Forte Music. This track blends rap kreyol and G-funk with an upbeat rhythm.</p> <!-- Featured Image -->
 <div > <img src="https://www.billboard.com/wp-content/uploads/2024/07/wylcef-jean-bet-awards-rc-2024-billboard-1548.jpg?w=942&h=623&crop=1" alt="Wyclef Jean - Playaz Club 2011 Remix" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="617" src="https://www.youtube.com/embed/thy0xp9IDfg" title="Playaz Club 2011 Remix - [Another Carjack]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "thy0xp9IDfg" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Playaz Club 2011 Remix [Another Carjack]"</em> by Wyclef Jean and Rappin' 4-Tay is from the single *Playaz Club 2011 Remix [Another Carjack]*, released on October 11, 2011. The track features rap kreyol and G-funk with a smooth flow that brings a fresh vibe to a classic anthem.</p>
 </div> <!-- Footer Links -->

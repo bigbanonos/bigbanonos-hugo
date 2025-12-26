@@ -7,7 +7,7 @@ layout: post
 <p >Updated with BigBanonos' favorite track, "Two Heads Are Better Than One (Original 7'' Version)" by Cube. This standout Italo disco gem showcases infectious beats and timeless melodies.</p> <!-- Featured Image -->
 <div > <img src="https://i.ytimg.com/vi/-TcU14GxvSo/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGGUgUChAMA8=&rs=AOn4CLB1MTRQvurj8P8UDbRM0NcGnwRmwg" alt="Cube - Two Heads Are Better Than One" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/8mDiLzdhLaQ" title="Cube - Two Heads Are Better Than One (Original 7'' Version)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "8mDiLzdhLaQ" >}}
 </div> <!-- Song Information -->
 <div > <p>"Two Heads Are Better Than One" was released on Nocolors in 1982, bringing a classic Italo disco vibe to modern listeners. Its upbeat rhythm and catchy lyrics make it a standout in any disco playlist.</p>
 </div> <!-- Footer Links -->

@@ -3,7 +3,7 @@ title: "clinic"
 layout: post
 ---
 <h2>Clinic â€“ Essential Tracks</h2> <div > <img src="https://media.pitchfork.com/photos/592c654dc0084474cd0c776e/2:1/w_2560%2Cc_limit/620d4ba5.jpg" alt="Clinic" width="500" />
-</div> <iframe src="https://open.spotify.com/embed/playlist/2mwWRqTNo23O2Fo1oCt3UT?utm_source=generator" width="100%" height="352" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> <h3>Tracklist</h3>
+</div> {{< youtube "embed" >}} <h3>Tracklist</h3>
 <ul> <li><strong>Milk & Honey</strong> â€“ <em>Bubblegum</em> (2010)</li> <li><strong>Free Not Free</strong> â€“ <em>Do It!</em> (2008)</li> <li><strong>Memories</strong> â€“ <em>Do It!</em> (2008)</li> <li><strong>Emotions</strong> â€“ <em>Do It!</em> (2008)</li> <li><strong>Walking With Thee</strong> â€“ <em>Walking With Thee</em> (2002)</li> <li><strong>Welcome</strong> â€“ <em>Walking With Thee</em> (2002)</li> <li><strong>Goodnight Georgie</strong> â€“ <em>Internal Wrangler</em> (2000)</li> <li><strong>Distortions</strong> â€“ <em>Internal Wrangler</em> (2000)</li> <li><strong>The Second Line</strong> â€“ <em>Internal Wrangler</em> (2000)</li>
 </ul> <h3>Highlights</h3>
 <ul> <li><strong>Milk & Honey</strong>: A surreal and hypnotic track showcasing Clinic's art-punk sensibilities.</li> <li><strong>Walking With Thee</strong>: The bandâ€™s signature hit blending eerie vocals and minimalist instrumentation.</li> <li><strong>Distortions</strong>: A haunting, melancholic piece with layered textures and poignant lyrics.</li> <li><strong>The Second Line</strong>: A fast-paced, chaotic anthem full of energy and unpredictability.</li>

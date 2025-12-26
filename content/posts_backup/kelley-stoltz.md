@@ -5,9 +5,9 @@ layout: post
 <!-- Title of the Post -->
 <h1>BigBanonosâ€™ Favorite Songs by Kelley Stoltz</h1> <!-- Introductory Text -->
 <p>Kelley Stoltzâ€™s infectious melodies and indie rock vibes make his music a treasure trove for fans of Bay Area indie. BigBanonos highlights his standout tracks from an impressive catalog.</p> <!-- Featured Image -->
-<div> <img src="https://i.scdn.co/image/ab67616d0000b2730a2076034d038e4ca1cc60cc" alt="Kelley Stoltz">
+<div> {{< img-lite src="https://i.scdn.co/image/ab67616d0000b2730a2076034d038e4ca1cc60cc" alt="Kelley Stoltz" >}}
 </div> <!-- Spotify Embed -->
-<div> <iframe src="https://open.spotify.com/embed/playlist/61xEGutXCMWNzVPN6HmHoz?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div> {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <h3>Top Tracks by Kelley Stoltz:</h3>
 <ol> <li><strong>Prank Calls</strong> | Album: <em>Below The Branches</em> | Released: July 2, 2006 | Label: Sub Pop Records</li> <li><strong>Listen Darkly / Fake Day</strong> | Album: <em>Antique Glow</em> | Released: 2003 | Label: Chuffed</li>

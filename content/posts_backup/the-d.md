@@ -4,9 +4,9 @@ layout: post
 ---
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by The DÃƒÆ’Ã‚Â¸</h1> <!-- Featured Image -->
-<div > <img src="https://i.scdn.co/image/0d94f0d43132aa9762a9958e4eba50c049d956ce" alt="The DÃƒÆ’Ã‚Â¸">
+<div > {{< img-lite src="https://i.scdn.co/image/0d94f0d43132aa9762a9958e4eba50c049d956ce" alt="The DÃƒÆ’Ã‚Â¸" >}}
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/6ah1ODihzeImL4M8f1kTHd?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Introductory Text -->
 <p >The DÃƒÆ’Ã‚Â¸ captivates with their French indie pop charm in tracks like "Trustful Hands" and "Opposite Ways," showcasing the duo's experimental and emotive sound from *Shake, Shook, Shaken.*</p> <!-- Song Highlights -->
 <div > <p>BigBanonos' standout picks:</p> <ol> <li><strong>Trustful Hands</strong> | <em>Shake, Shook, Shaken</em> | Released: February 10, 2015 | Something Local</li> <li><strong>Opposite Ways</strong> | <em>Shake, Shook, Shaken</em> | Released: February 10, 2015 | Something Local</li> </ol>

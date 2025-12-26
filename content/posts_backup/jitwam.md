@@ -7,7 +7,7 @@ layout: post
 <p >Updated May 3, 2019, with "Opendoors" by Jitwam. A soulful blend of indie jazz and lo-fi house grooves that captivates listeners with its laid-back charm.</p> <!-- Featured Image -->
 <div > <img src="https://i.guim.co.uk/img/media/d5662af392c0f6f5688059df7f7b893d7a37f83b/0_357_5616_3370/master/5616.jpg?width=465&dpr=1&s=none&crop=none" alt="Jitwam - Opendoors" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/aU0DGauBuwI" title="Jitwam - 'Opendoors'" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "aU0DGauBuwI" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Opendoors"</em> is featured on the album <strong>Honeycomb</strong>, released by Tartelet Records. This track showcases Jitwam's unique fusion of jazz, R&B, and electronic influences, cementing his status as a genre-blurring innovator.</p>
 </div> <!-- Footer Links -->

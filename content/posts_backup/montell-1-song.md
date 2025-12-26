@@ -7,11 +7,11 @@ layout: post
 <p >Montell Fish teams up with dj gummy bear for â€œi canâ€™t tell (love my money),â€ a soulful blend of Pittsburgh rap and experimental hip-hop. Watch the official visualizer below!</p> <!-- Featured Image -->
 <div > <img src="https://i.ytimg.com/vi/PAhxTnlQIYM/maxresdefault.jpg" alt="Montell Fish - i can't tell (love my money)" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="480" src="https://www.youtube.com/embed/pOhh8zZHJG4" title="Montell Fish - i can't tell (love my money)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> <h3>also be sure to check out "talk 2 me" - Montell's gem from 2021</h3> <iframe frameborder="0" height="270" src="https://youtube.com/embed/pcsSxjO-Pk4" width="480"></iframe>
+<div > {{< youtube "pOhh8zZHJG4" >}} <h3>also be sure to check out "talk 2 me" - Montell's gem from 2021</h3> {{< youtube "pcsSxjO-Pk4" >}}
 </div> <!-- Song Information -->
 <div > <p><em>i can't tell (love my money)</em> blends Pittsburgh rap with smooth, experimental beats, creating a sound thatâ€™s both fresh and deep.</p> <p><strong>Updated on November 22, 2024</strong></p>
 </div>
-<iframe src="https://open.spotify.com/embed/playlist/1jBn3teXd2m8HN0pcNWa89?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+{{< youtube "embed" >}}
 <!-- Footer Links -->
 <div > <p>For more updates, visit <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Also, check out our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a> channels for more exclusive content!</p>
 </div> <!-- Tags -->

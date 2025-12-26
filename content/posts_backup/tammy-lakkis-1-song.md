@@ -2,7 +2,7 @@
 title: "tammy lakkis 1 song"
 layout: post
 ---
-<iframe frameborder="0" height="360" src="https://youtube.com/embed/RnRkwcTJi9I" width="480"></iframe><div><h2><ol><li>Notice [2021]</li></ol></h2></div>
+{{< youtube "RnRkwcTJi9I" >}}<div><h2><ol><li>Notice [2021]</li></ol></h2></div>
 
 <!--Subscribe and Playlist Links-->
 <div>

@@ -7,7 +7,7 @@ layout: post
 <p >Updated with the David Todd remix of "Be Thankful for What You've Got" by William DeVaughn, a soulful classic from 1980. Check it out below!</p> <!-- Featured Image -->
 <div > <img src="https://upload.wikimedia.org/wikipedia/en/5/51/Be_Thankful_For_What_You_Got.jpg" alt="William DeVaughn - Be Thankful for What You've Got" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="560" height="315" src="https://www.youtube.com/embed/KDTXljIqxRE" frameborder="0" allowfullscreen></iframe>
+<div > {{< youtube "KDTXljIqxRE" >}}
 </div> <!-- Footer Links -->
 <div > <p>For more updates, visit <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Also, check out our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a> channels for more exclusive content!</p>
 </div> <!-- Tags -->

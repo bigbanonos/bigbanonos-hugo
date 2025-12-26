@@ -2,7 +2,7 @@
 title: "big red machine 1 song"
 layout: post
 ---
-<iframe frameborder="0" height="270" src="https://youtube.com/embed/OhT7Tophch4" width="480"></iframe><h2><ol><li>(ft. Fleet Foxes & Anais Mitchel) Phoenix [2021]</li></ol></h2>
+{{< youtube "OhT7Tophch4" >}}<h2><ol><li>(ft. Fleet Foxes & Anais Mitchel) Phoenix [2021]</li></ol></h2>
 
 <!--Subscribe and Playlist Links-->
 <div>

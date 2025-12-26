@@ -7,7 +7,7 @@ layout: post
 <p >Daffoâ€™s â€œWinter Hatâ€ is a standout indie rock track with deep, introspective vibes. Watch the official lyric video below!</p> <!-- Featured Image -->
 <div > <img src="https://i0.wp.com/first-avenue.com/wp-content/uploads/2023/12/Daffo-photo-P8310398-1080x1729-1.jpg?fit=1080%2C1729&ssl=1" alt="Daffo - Winter Hat" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="480" src="https://www.youtube.com/embed/bY5gv_OoZjU" title="Daffo - Winter Hat" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "bY5gv_OoZjU" >}}
 </div> <!-- Song Information -->
 <div > <p><em>Winter Hat</em> showcases Daffoâ€™s unique take on NYC indie rock, blending thought-provoking lyrics with atmospheric sounds.</p> <p><strong>Updated on November 14, 2024</strong></p>
 </div> <!-- Footer Links -->

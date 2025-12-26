@@ -3,7 +3,7 @@ title: "crazy cousinz"
 layout: post
 ---
 <h6>Dance video version is better</h6><a href="https://i.ytimg.com/vi/B7lSqbD7ZAw/maxresdefault.jpg" imageanchor="1" ><img border="0" src="https://i.ytimg.com/vi/B7lSqbD7ZAw/maxresdefault.jpg" width="320" height="180" data-original-width="800" data-original-height="450" /></a>
-<iframe width="100%" height="500px" src="https://www.youtube.com/embed/videoseries?list=PLtuNtuTatqI1F5xt3-J2xHiTGzVlAmeT2" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe><h3>(ft. Lily McKenzie, Yxng Bane, Mr. Eazi) No Way [2017]</h3>
+{{< youtube "videoseries" >}}<h3>(ft. Lily McKenzie, Yxng Bane, Mr. Eazi) No Way [2017]</h3>
 
 <!--Subscribe and Playlist Links-->
 <div>

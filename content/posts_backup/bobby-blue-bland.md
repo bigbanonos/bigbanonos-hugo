@@ -4,9 +4,9 @@ layout: post
 ---
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Bobby "Blue" Bland</h1> <!-- Featured Image -->
-<div > <img src="https://i.scdn.co/image/ab67616d0000b27316483d14c501878422dbb8c5" alt="Bobby Blue Bland">
+<div > {{< img-lite src="https://i.scdn.co/image/ab67616d0000b27316483d14c501878422dbb8c5" alt="Bobby Blue Bland" >}}
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/2cL9RSHaSL7jbzjXUgxo8p?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Introductory Text -->
 <p >Bobby "Blue" Bland brought unmatched emotion to blues and soul. From "Turn On Your Love Light" to "Little Boy Blue," here are BigBanonos' favorite tracks by this legendary artist.</p> <!-- Song Highlights -->
 <div > <p>BigBanonos' standout picks:</p> <ol> <li><strong>Turn On Your Love Light</strong> | <em>Turn On Your Love Light: The Duke Recordings Volume 2</em> | Released: April 26, 1994 | Geffen</li> <li><strong>Little Boy Blue</strong> | <em>Two Steps from the Blues</em> | Released: 1961 | Amra Record</li> </ol>

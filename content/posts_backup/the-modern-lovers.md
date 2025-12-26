@@ -7,7 +7,7 @@ layout: post
 <p >Updated September 1, 1976, with "Hospital" by The Modern Lovers. This emotionally raw track from their debut album *Modern Lovers (Expanded Version)* captures the unfiltered vulnerability and poetic storytelling of Jonathan Richman. Watch the video below!</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d0000b27309ded8fd464cf38a3bd010c3" alt="The Modern Lovers - Hospital" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="733" height="480" src="https://www.youtube.com/embed/5D_nRtlkqCM" title="The Modern Lovers - Hospital" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "5D_nRtlkqCM" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Hospital"</em>, released on September 1, 1976, under Sanctuary Records as part of the album *Modern Lovers (Expanded Version)*, is a poignant and iconic song. Blending alternative rock with garage rock elements, the trackâ€™s minimalist arrangement and heartfelt lyrics make it a cornerstone of The Modern Loversâ€™ legacy.</p>
 </div> <!-- Footer Links -->

@@ -7,7 +7,7 @@ layout: post
 <p >Updated October 16, 2015, with "Downtown" by Majical Cloudz. This hauntingly beautiful track from the album <em>Are You Alone?</em>, released under Matador Records, blends art pop with Canadian electropop, delivering a heartfelt and introspective experience.</p> <!-- Featured Image -->
 <div > <img src="https://i.ytimg.com/vi/7Rihk7_2BVw/maxresdefault.jpg" alt="Majical Cloudz - Downtown" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/7Rihk7_2BVw" title="Majical Cloudz - Downtown (Official Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "7Rihk7_2BVw" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Downtown"</em> by Majical Cloudz is a stunning exploration of vulnerability and connection. With its minimalist production and poignant lyrics, this track from <em>Are You Alone?</em> stands out as a masterpiece of shiver pop and artful storytelling.</p>
 </div> <!-- Footer Links -->

@@ -7,7 +7,7 @@ layout: post
 <p >Updated September 7, 2018, with "4 1 Nite" by Mike Smiff featuring City Girls. Released under SLIP N SLIDE ENTERPRISES (SAS), this track blends Miami hip hop and trap influences, delivering a bold anthem that showcases the energy of southern rap culture.</p> <!-- Featured Image -->
 <div > <img src="https://images.squarespace-cdn.com/content/v1/53bad273e4b04332c190511a/f68629c0-c810-4fb9-b915-54ad7926fa7e/Mike+Smiff+new+video.jpg" alt="Mike Smiff & City Girls - 4 1 Nite" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/BldiNnAOmhw" title="Mike Smiff Feat. City Girls "4 1 Nite" (WSHH Exclusive - Official Music Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "BldiNnAOmhw" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"4 1 Nite"</em> by Mike Smiff featuring City Girls is a high-energy anthem with catchy hooks and dynamic verses. This collaboration captures the essence of Miami hip hop, combining trap beats with charismatic performances that make it an unforgettable track.</p>
 </div> <!-- Footer Links -->

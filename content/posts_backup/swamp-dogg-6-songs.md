@@ -3,10 +3,10 @@ title: "swamp dogg 6 songs"
 layout: post
 ---
 <h1>BigBanonos Top Songs by Swamp Dogg</h1>
-<img src="https://i8.amplience.net/i/naras/Swamp-Dogg-GettyImages-1255997544.jpg" alt="Swamp Dogg"> <p>Swamp Dogg's unique take on southern soul has made him a cult favorite. BigBanonos' top picks include:</p>
-<iframe frameborder="0" height="360" src="https://youtube.com/embed/wV40ckVxG5M?list=PLtuNtuTatqI0GXFKJJJqrp74XWie3QoIC" width="480"></iframe>
+{{< img-lite src="https://i8.amplience.net/i/naras/Swamp-Dogg-GettyImages-1255997544.jpg" alt="Swamp Dogg" >}} <p>Swamp Dogg's unique take on southern soul has made him a cult favorite. BigBanonos' top picks include:</p>
+{{< youtube "wV40ckVxG5M" >}}
 <ol> <li><strong>Soul to Blessed Soul</strong> | <em>Soul to Blessed Soul</em> | Released: 2022-01-06 | Don Giovanni Records</li> <li><strong>Lonely</strong> | <em>Love, Loss, and Auto-Tune</em> | Released: 2018-09-07 | Joyful Noise Recordings</li> <li><strong>I Love Me More</strong> | <em>Love, Loss, and Auto-Tune</em> | Released: 2018-09-07 | Joyful Noise Recordings</li> <li><strong>I'm Coming with Lovin' on My Mind</strong> | <em>Love, Loss, and Auto-Tune</em> | Released: 2018-09-07 | Joyful Noise Recordings</li> <li><strong>I Had a Ball</strong> | <em>The Excellent Sides of Swamp Dogg Vol. 5</em> | Released: 2008-04-04 | S.D.E.G. Records</li> <li><strong>Today I Got Married</strong> | <em>Resurrection</em> | Released: 2007-03-27 | S.D.E.G.</li>
-</ol> <div> <iframe src="https://open.spotify.com/embed/playlist/4QElJrQCvTPG98o0qvHNNd?utm_source=generator" width="100%" height="352" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</ol> <div> {{< youtube "embed" >}}
 </div>
 <p>Tags: @swampdogg</p>
 

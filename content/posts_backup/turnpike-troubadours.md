@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Long Hot Summer Day" by Turnpike Troubadours, from the album *Diamonds & Gasoline*, released on August 31, 2010, by Bossier City Records. This track is a classic red dirt anthem, capturing the essence of summer in its storytelling and musical arrangement.</p> <!-- Featured Image -->
 <div > <img src="https://d1m6300l53o0vp.cloudfront.net/wp-content/uploads/2019/11/70_DB_Spotlight1_TurnpikeTroubadours_Justin-Voight.jpg" alt="Turnpike Troubadours - Long Hot Summer Day" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="514" src="https://www.youtube.com/embed/Ahmn02Urc0c" title="Long Hot Summer Days - Turnpike Troubadours" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "Ahmn02Urc0c" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Long Hot Summer Day"</em> by Turnpike Troubadours is a standout track from their album *Diamonds & Gasoline*, released on August 31, 2010. This red dirt masterpiece showcases the band's ability to blend storytelling with country-rock energy, making it a quintessential summer anthem.</p>
 </div> <!-- Footer Links -->

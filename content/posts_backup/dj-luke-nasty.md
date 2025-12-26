@@ -7,7 +7,7 @@ layout: post
 <p >Updated March 17, 2016 with "Might Be (Remix)" by DJ Luke Nasty featuring 2 Chainz & Maino. This remix, released under *Othaz Records / EMPIRE*, perfectly encapsulates the essence of North Carolina hip hop with a blend of trap, ATL hip hop, and pop R&B.</p> <!-- Featured Image -->
 <div > <img src="https://i1.sndcdn.com/avatars-000705014821-kt121f-t240x240.jpg" alt="DJ Luke Nasty - Might Be (Remix)" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/zTkqifVfdLU" title="DJ Luke Nasty - Might Be [Remix] (Audio) ft. 2 Chainz, Maino" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "zTkqifVfdLU" >}}
 </div> <!-- Song Information -->
 <div > <p>The "Might Be" remix elevates DJ Luke Nasty's original track with the lyrical finesse of 2 Chainz and Maino, adding depth to its rhythmic foundation and showcasing the vibrant soundscapes of Southern hip hop.</p>
 </div> <!-- Footer Links -->

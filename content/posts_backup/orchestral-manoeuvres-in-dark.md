@@ -7,7 +7,7 @@ layout: post
 <p >OMDâ€™s legendary synth-driven sound paved the way for a new era of music. Explore their timeless classics below!</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d0000b27346c913077ad733cf423eab13" alt="Orchestral Manoeuvres In The Dark" />
 </div> <!-- Spotify Playlist Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/4shBrc4ARxfnFqyYi2SWHs?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Enola Gay"</em> (2020) and its remixes continue to resonate with fans of new wave and synthpop.</p> <p>Timeless hits like <em>"If You Leave"</em> and the 2003 remaster of <em>"Enola Gay"</em> highlight their enduring legacy.</p>
 </div> <!-- Footer Links -->

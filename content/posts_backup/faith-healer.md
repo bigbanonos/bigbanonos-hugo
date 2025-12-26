@@ -7,7 +7,7 @@ layout: post
 <p >Updated March 31, 2015, with "Again" by Faith Healer. This ethereal track from the album <em>Cosmic Troubles</em> captures the introspective charm of Edmonton indie.</p> <!-- Featured Image -->
 <div > <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN16gngTVCrHkxAyeM1s47Lse8-O-MrJs7IA&s" alt="Faith Healer - Again" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/_1TzeiYWMbw" title="Faith Healer- 'Again'" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "_1TzeiYWMbw" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Again"</em> by Faith Healer stands out as a heartfelt, melodic piece from the <em>Cosmic Troubles</em> album. Its blend of indie charm and folk influences makes it a must-listen for fans of introspective, atmospheric music.</p>
 </div> <!-- Footer Links -->

@@ -7,7 +7,7 @@ layout: post
 <p >Updated February 22, 2019, with BigBanonos' favorite song by Beauty Queen, "The Only One," released under Fresh Linens. Watch the video and see more details below:</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab6761610000e5eb001e5d698901928ab6220572" alt="Beauty Queen - The Only One" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/MY_RCXUl3p8" title="Beauty Queen - The Only One" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "MY_RCXUl3p8" >}}
 </div> <!-- Song Information -->
 <div > <p>"The Only One" by Beauty Queen is a dreamy bedroom pop track that exudes warmth and nostalgia. Released on February 22, 2019, under Fresh Linens, this 3:01-long song captures the essence of chill dream pop with its soft melodies and intimate vocals.</p>
 </div> <!-- Footer Links -->

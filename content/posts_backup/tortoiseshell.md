@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "This Girl (Canyons Dub)" by Tortoiseshell, a smooth and groovy remix from 2010 thatâ€™s sure to get you moving. Check out the video below!</p> <!-- Featured Image -->
 <div > <img src="https://i1.sndcdn.com/artworks-000013679891-jq3641-t500x500.jpg" alt="Tortoiseshell - This Girl (Canyons Dub)" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="733" height="480" src="https://www.youtube.com/embed/OTPwFsQ46vQ" title="This Girl (Canyons Dub)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "OTPwFsQ46vQ" >}}
 </div> <!-- Footer Links -->
 <div > <p>For more updates, visit <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Also, check out our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a> channels for more exclusive content!</p>
 </div> <!-- Tags -->

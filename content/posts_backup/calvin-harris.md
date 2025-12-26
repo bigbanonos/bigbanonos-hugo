@@ -4,7 +4,7 @@ layout: post
 ---
 <h2>BigBanonos' Top 3 Tracks by Calvin Harris</h2> <!--Search Description-->
 <p>Discover BigBanonos' top Calvin Harris tracks that feature a blend of dance pop, edm, and house elements. Stream the playlist below to enjoy these standout collaborations.</p> <!--Spotify Playlist Embed-->
-<iframe allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" allowfullscreen="" frameborder="0" height="352" loading="lazy" src="https://open.spotify.com/embed/playlist/5mZYEhxxjkKAjIE2sSuWzH?utm_source=generator" width="100%"></iframe> <!--Song Listings-->
+{{< youtube "embed" >}} <!--Song Listings-->
 <ul> <li>Potion (with Dua Lipa & Young Thug) - <em>Potion</em> - Columbia - 2022-05-27</li> <li>Slide (feat. Frank Ocean & Migos) - <em>Slide</em> - Columbia - 2017-02-24</li> <li>Bounce (feat. Kelis) - Radio Edit - <em>18 Months</em> - Columbia - 2012-10-29</li>
 </ul> <!--Image-->
 <img alt="Calvin Harris" src="https://www.hollywoodreporter.com/wp-content/uploads/2024/02/Calvin-Harris-getty-H-2024.jpg" />

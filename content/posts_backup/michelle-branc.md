@@ -7,7 +7,7 @@ layout: post
 <p >Updated July 31, 2001, with "All You Wanted" by Michelle Branch. This heartfelt track from the album <em>The Spirit Room</em>, released under Maverick Records, showcases Branch's signature blend of pop rock and neo-mellow vibes, making it a timeless favorite.</p> <!-- Featured Image -->
 <div > <img src="https://i.ytimg.com/vi/Cbo2n2MzxxE/maxresdefault.jpg" alt="Michelle Branch - All You Wanted" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/Cbo2n2MzxxE" title="Michelle Branch - All You Wanted (Official Music Video) | Warner Records" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "Cbo2n2MzxxE" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"All You Wanted"</em> by Michelle Branch is a poignant pop rock anthem that beautifully captures themes of love, longing, and hope. From the album <em>The Spirit Room</em>, this track remains a standout from the early 2000s, resonating with listeners through its sincere lyrics and captivating melody.</p>
 </div> <!-- Footer Links -->

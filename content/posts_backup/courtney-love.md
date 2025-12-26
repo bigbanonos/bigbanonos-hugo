@@ -7,7 +7,7 @@ layout: post
 <p >Updated with BigBanonos' favorite track, "Hello" by Courtney Love. This raw and emotional rock anthem from *America's Sweetheart* highlights Love's unique voice and lyrical intensity.</p> <!-- Featured Image -->
 <div > <img src="https://www.revolvermag.com/wp-content/uploads/2019/11/24/gettyimages-566846469_copy.jpg" alt="Courtney Love - Hello" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/cXlEsAa2kvc" title="Hello" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "cXlEsAa2kvc" >}}
 </div> <!-- Song Information -->
 <div > <p>"Hello" is featured on Courtney Love's 2004 solo album *America's Sweetheart*, released by Virgin Records. This alternative rock classic showcases Love's undeniable talent and raw artistic expression.</p>
 </div> <!-- Footer Links -->

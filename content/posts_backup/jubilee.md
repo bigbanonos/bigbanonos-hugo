@@ -7,7 +7,7 @@ layout: post
 <p >Updated August 23, 2019, with "Fulla Curve" by Jubilee featuring IQ. This dancehall banger brings a UK dancehall vibe, combining a hypnotic beat with dynamic flows that will make you want to move. A standout track from *Fulla Curve* on Mixpak Records.</p> <!-- Featured Image -->
 <div > <img src="https://external-preview.redd.it/RbEukbvuFEWabUCssUtZL7caw3WYhg8TcQK3H6t3FEc.png?width=640&crop=smart&format=pjpg&auto=webp&s=12d17dd6e75f7d647f285b7d16122183b32d28bb" alt="Jubilee - Fulla Curve" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/r7SOhMoZd1U" title="Jubilee - Fulla Curve (feat. IQ)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "r7SOhMoZd1U" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Fulla Curve"</em> is a hypnotic dancehall anthem from Jubilee, featuring IQ. The track blends smooth yet commanding flows with infectious rhythms, making it a must-listen for fans of UK dancehall and modern reggae.</p>
 </div> <!-- Footer Links -->

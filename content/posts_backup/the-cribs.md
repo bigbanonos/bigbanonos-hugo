@@ -7,7 +7,7 @@ layout: post
 <p >Updated with *Men's Needs (CSS Remix)* by The Cribs, a remix that brings fresh energy to the band's signature indie rock anthem. This version, remixed by CSS, elevates the track with its electronic flair while staying true to the original's vibrant spirit.</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d0000b273f60a1fcf7dde02a27568df6b" alt="The Cribs - Men's Needs (CSS Remix)" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="514" src="https://www.youtube.com/embed/I-0N063QT7k" title="The Cribs - Men's Need (CSS Remix)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "I-0N063QT7k" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Men's Needs (CSS Remix)"</em> was released on September 18, 2007, as part of *Men's Needs (DMD Maxi)*. This remix adds a catchy, electronic edge to The Cribs' original indie rock hit, maintaining the energy while introducing a fresh sound to fans.</p>
 </div> <!-- Footer Links -->

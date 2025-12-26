@@ -2,7 +2,7 @@
 title: "esperanza spalding 1 song"
 layout: post
 ---
-<iframe frameborder="0" height="270" src="https://youtube.com/embed/MQuxz-veOdY" width="480"></iframe><div>Thang (hips) [2018]</div>
+{{< youtube "MQuxz-veOdY" >}}<div>Thang (hips) [2018]</div>
 
 <!--Subscribe and Playlist Links-->
 <div>

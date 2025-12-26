@@ -2,13 +2,13 @@
 title: "generationals durga ii"
 layout: post
 ---
-<h2>BigBanonos' Favorite Songs by Generationals</h2> <p><strong>Updated March 29, 2011, with "I Promise" from <em>Actor-Caster (Bonus Version)</em></strong></p> <img src="https://images.squarespace-cdn.com/content/v1/5e7e21afd5867b7bafbf8cd6/1586903407746-55XYRRBN2B7YDD3UL04W/image-asset.png?format=2500w" width="100%" alt="Generationals"> <p>Generationals' bright indie pop sound makes for catchy, nostalgic tunes. Below are BigBanonos' favorite songs by Generationals.</p> <h3>"I Promise"</h3>
+<h2>BigBanonos' Favorite Songs by Generationals</h2> <p><strong>Updated March 29, 2011, with "I Promise" from <em>Actor-Caster (Bonus Version)</em></strong></p> {{< img-lite src="https://images.squarespace-cdn.com/content/v1/5e7e21afd5867b7bafbf8cd6/1586903407746-55XYRRBN2B7YDD3UL04W/image-asset.png?format=2500w" alt="Generationals" >}} <p>Generationals' bright indie pop sound makes for catchy, nostalgic tunes. Below are BigBanonos' favorite songs by Generationals.</p> <h3>"I Promise"</h3>
 <p><em>Actor-Caster (Bonus Version)</em>, Park The Van, March 29, 2011</p> <h3>"TenTwentyTen"</h3>
 <p><em>ActorCaster</em>, Generationals, March 29, 2011</p> <h3>"Durga II"</h3>
 <p><em>Heza</em>, Polyvinyl Records, 2013</p> <h3>"Tell Me Now"</h3>
 <p><em>Actor-Caster (Bonus Version)</em>, Park The Van, March 29, 2011</p> <h3>"When They Fight, They Fight"</h3>
 <p><em>Con Law</em>, Generationals, July 21, 2009</p> <h3>"Angry Charlie"</h3>
-<p><em>Con Law</em>, Generationals, July 21, 2009</p> <hr /> <h3>Listen on Spotify</h3> <iframe src="https://open.spotify.com/embed/playlist/0bzZMbP1LxEgfyTc4AGus0?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> <hr /> <p><strong>Tags:</strong> @generationals</p> <hr /> <p><em>First posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+<p><em>Con Law</em>, Generationals, July 21, 2009</p> <hr /> <h3>Listen on Spotify</h3> {{< youtube "embed" >}} <hr /> <p><strong>Tags:</strong> @generationals</p> <hr /> <p><em>First posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
 
 
 <!--Subscribe and Playlist Links-->

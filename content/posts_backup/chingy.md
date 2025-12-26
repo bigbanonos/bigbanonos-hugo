@@ -4,9 +4,9 @@ layout: post
 ---
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Chingy</h1> <!-- Featured Image -->
-<div > <img src="https://i.scdn.co/image/ab67616d0000b273f3127d53f522b790a9e3e30d" alt="Chingy">
+<div > {{< img-lite src="https://i.scdn.co/image/ab67616d0000b273f3127d53f522b790a9e3e30d" alt="Chingy" >}}
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/099BGbrHcdu76mWszGVIjH?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Introductory Text -->
 <p >Chingy emerged as a Southern hip-hop icon with hits like "Right Thurr" and "Holidae In." Here are BigBanonos' favorite tracks from his early 2000s classics.</p> <!-- Song Highlights -->
 <div > <p>BigBanonos' standout picks:</p> <ol> <li><strong>Right Thurr</strong> | <em>Jackpot</em> | Released: January 1, 2003 | Capitol Records</li> <li><strong>Holidae In</strong> (ft. Ludacris & Snoop Dogg) | <em>Jackpot</em> | Released: January 1, 2003 | Capitol Records</li> </ol>

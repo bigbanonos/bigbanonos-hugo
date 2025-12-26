@@ -7,7 +7,7 @@ layout: post
 <p >Updated March 31, 2017, with BigBanonos' favorite song by Beta Frontiers and Carmen Elle, "If I Stayed," released under Buzz Records. Watch the video and see more details below:</p> <!-- Featured Image -->
 <div > <img src="https://thefader-res.cloudinary.com/private_images/w_760,c_limit,f_auto,q_auto:best/BETAFrontiers_presspic1_eajntq/beta-frontiers-carmen-elle-if-i-stayed.jpg" alt="Beta Frontiers and Carmen Elle - If I Stayed" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/8Nn8wNtlPYE" title="Beta Frontiers - If I Stayed ft. Carmen Elle [AUDIO]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "8Nn8wNtlPYE" >}}
 </div> <!-- Song Information -->
 <div > <p>"If I Stayed" by Beta Frontiers featuring Carmen Elle is an emotive track with lush production and introspective lyrics. Released on March 31, 2017, under Buzz Records, this 3:04-long song showcases a harmonious blend of indie pop and electronic influences.</p>
 </div> <!-- Footer Links -->

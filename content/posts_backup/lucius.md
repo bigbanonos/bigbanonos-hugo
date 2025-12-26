@@ -7,7 +7,7 @@ layout: post
 <p >Updated October 19, 2018, with "Ghosting" by Lucius. This enchanting track from the album <em>Ghosting</em>, released under Mom+Pop, blends elements of indie folk, shimmer pop, and new Americana for an evocative and hauntingly beautiful sound.</p> <!-- Featured Image -->
 <div > <img src="https://images.genius.com/f23572cb176e4a37f57516ec12fe0b33.800x800x1.webp" alt="Lucius - Ghosting" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/LtdvbiorPTY" title="Lucius - Old Tape (feat. Adam Granduciel) [Official Video]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "LtdvbiorPTY" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Ghosting"</em> by Lucius is a masterful blend of indie pop and Americana-inspired melodies. With its shimmering production and emotional depth, this track is a standout from their creative catalog, perfect for introspective listening.</p>
 </div> <!-- Footer Links -->

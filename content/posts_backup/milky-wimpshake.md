@@ -7,7 +7,7 @@ layout: post
 <p >Updated April 20, 2015, with "The Beautiful Game" by Milky Wimpshake. This track from the album <em>Encore, Un Effort!</em>, released under Fortuna POP!, blends indie rock with twee pop, offering a perfect dose of upbeat energy and charm.</p> <!-- Featured Image -->
 <div > <img src="https://f4.bcbits.com/img/a2179774330_2.jpg" alt="Milky Wimpshake - The Beautiful Game" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/2PRRyWHldjc" title="The Beautiful Game" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "2PRRyWHldjc" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"The Beautiful Game"</em> by Milky Wimpshake is an indie pop anthem that captures the essence of twee pop while offering a unique blend of charm and catchy melodies. From the album <em>Encore, Un Effort!</em>, this track showcases the band's ability to create fun, energetic songs with a playful spirit.</p>
 </div> <!-- Footer Links -->

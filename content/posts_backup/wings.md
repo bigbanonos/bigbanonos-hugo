@@ -5,11 +5,11 @@ layout: post
 <div class="post-title"> <h1>BigBanonos' Favorite Songs by Wings</h1>
 </div>
 <p>Updated March 25, 1976, with "Silly Love Songs - 2014 Remaster" from the album <i>Wings At The Speed Of Sound (Archive Collection)</i>, highlighted in the playlist below:</p>
-<div class="post-image"> <img src="https://upload.wikimedia.org/wikipedia/en/4/41/Wings_1976.jpg" alt="Wings Album Cover">
+<div class="post-image"> {{< img-lite src="https://upload.wikimedia.org/wikipedia/en/4/41/Wings_1976.jpg" alt="Wings Album Cover" >}}
 </div>
 <p>Wings, led by Paul McCartney, brought a distinctive sound to 1970s rock, blending art rock and classic rock with McCartneyâ€™s legendary songwriting. Tracks like "Silly Love Songs" stand out as anthems of their era, showcasing McCartneyâ€™s talent for crafting unforgettable melodies.</p>
 <p>Listen to the playlist below to experience these tracks and more:</p>
-<div class="spotify-embed"> <iframe src="https://open.spotify.com/embed/playlist/1go2grgHB2shWkn0yDd5tO?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div class="spotify-embed"> {{< youtube "embed" >}}
 </div>
 <p>Track featured:</p>
 <ul> <li>"Silly Love Songs - 2014 Remaster" â€“ <i>Wings At The Speed Of Sound (Archive Collection)</i> (March 25, 1976, Paul McCartney Catalog)</li>

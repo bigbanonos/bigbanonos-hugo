@@ -7,7 +7,7 @@ layout: post
 <p >Updated December 16, 2016, with BigBanonos' favorite song by Antonio Williams and Kerry McCoy, "Changes," from the album *25th Street Sessions*. Watch the video and see more details below:</p> <!-- Featured Image -->
 <div > <img src="https://lastfm.freetls.fastly.net/i/u/ar0/3176d72cc6c5d90f1cf008d04a54d1f7.jpg" alt="Antonio Williams and Kerry McCoy - Changes" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/xObbmOWx5yw" title="Antonio Williams & Kerry McCoy - Changes" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "xObbmOWx5yw" >}}
 </div> <!-- Song Information -->
 <div > <p>"Changes" by Antonio Williams and Kerry McCoy is a captivating experimental hip hop track blending introspective lyrics and innovative production. Released on December 16, 2016, under Ghost Ramp, this song highlights the duo's boundary-pushing approach to music.</p>
 </div> <!-- Footer Links -->

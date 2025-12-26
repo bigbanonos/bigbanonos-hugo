@@ -5,12 +5,12 @@ layout: post
 <!-- Title of the Post -->
 <h1 >BigBanonos' Favorite Songs by Tkay Maidza</h1> <!-- Introductory Text -->
 <p >Updated July 7, 2021, with standout tracks from Tkay Maidza. Blending alternative R&B and Australian hip hop, her dynamic sound continues to captivate fans worldwide. Check out BigBanonos' top picks below!</p> <!-- Featured Image -->
-<div > <img src="https://i.scdn.co/image/ab67616d0000b273778a0fc83d50cf7869169f1c" alt="Tkay Maidza - Featured Image">
+<div > {{< img-lite src="https://i.scdn.co/image/ab67616d0000b273778a0fc83d50cf7869169f1c" alt="Tkay Maidza - Featured Image" >}}
 </div> <!-- Song Information -->
 <h3>Top Songs:</h3>
 <ol> <li><strong>Cashmere</strong> | <em>Cashmere</em> | Released: 2021-06-07 | 4AD</li> <li><strong>Onto Me (with UMI)</strong> | <em>Last Year Was Weird, Vol. 3</em> | Released: 2021-07-09 | Dew Process</li>
 </ol> <!-- Spotify Playlist Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/30rpEyN6ZSqgr8MmMawFMG?utm_source=generator" width="100%" height="352" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Footer Links -->
 <hr />
 <p >For more updates, visit <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Also, check out our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> channel and follow us on <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p> <!-- Tags -->

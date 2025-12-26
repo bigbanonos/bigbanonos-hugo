@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Chop E Line" by ShaqStar, released on November 1, 2019, by Drizzy Beatz Records.</p> <!-- Featured Image -->
 <div > <img src="https://i.ytimg.com/vi/_D7vqzbgoN4/maxresdefault.jpg" alt="ShaqStar - Chop E Line" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/fUyMRBK9j4Q" title="Shaqstar - Chop E Line (Official Audio)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "fUyMRBK9j4Q" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Chop E Line"</em> by ShaqStar is a track released on November 1, 2019, blending elements of dancehall and traphall, representing the contemporary fusion of Jamaican music with trap influences.</p>
 </div> <!-- Footer Links -->

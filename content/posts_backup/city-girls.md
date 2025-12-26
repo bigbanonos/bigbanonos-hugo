@@ -4,13 +4,13 @@ layout: post
 ---
 <h2>BigBanonos' Favorite Songs by City Girls</h2> <!-- Search Description -->
 <p>BigBanonos' favorite City Girls tracks showcase their bold style in scam rap and trap queen anthems.</p> <!-- Spotify Playlist Embed -->
-<iframe src="https://open.spotify.com/embed/playlist/4eUaUlu5kdnauT5ZunG5By?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> <!-- Song Listings -->
+{{< youtube "embed" >}} <!-- Song Listings -->
 <ul> <li><strong>RAW</strong> - <em>RAW</em> - 2023-10-20</li> <li><strong>Tonight</strong> - <em>RAW</em> - 2023-10-20</li> <li><strong>Twerkulator</strong> - <em>Twerkulator</em> - 2021-05-21</li> <li><strong>Not Ya Main</strong> - <em>PERIOD</em> - 2018-05-11</li> <li><strong>Period (We Live)</strong> - <em>PERIOD</em> - 2018-05-11</li> <li><strong>Twerk (feat. Cardi B)</strong> - <em>Girl Code</em> - 2018-11-16</li> <li><strong>Top Notch (feat. Fivio Foreign)</strong> - <em>Top Notch</em> - 2022-04-01</li> <li><strong>JT First Day Out</strong> - <em>JT First Day Out</em> - 2019-10-09</li> <li><strong>Take Yo Man</strong> - <em>PERIOD</em> - 2018-05-11</li> <li><strong>Movie</strong> - <em>PERIOD</em> - 2018-05-11</li> <li><strong>What We Doin'</strong> - <em>Girl Code</em> - 2018-11-16</li>
 </ul> <!-- Additional Not-On-Spotify Track -->
 <p>One of City Girls' best songs, <strong>"F**k On Your"</strong> from 2018, is #NotOnSpotify:</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xBDQf5WOFxM?si=wRIf6aJPxe2KSd5N" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> <!-- Feature on French Montana's Track -->
+{{< youtube "xBDQf5WOFxM" >}} <!-- Feature on French Montana's Track -->
 <p>City Girls are also featured on French Montana's 2019 track <strong>"Wiggle It"</strong>, which made BigBanonos' top 4 tracks by French Montana. Read more about it <a href="https://bigbanonos.blogspot.com/2019/07/french-montana.html">here</a>.</p> <!-- Image -->
-<img src="https://www.vibe.com/wp-content/uploads/2023/10/GettyImages-1482877730-e1697134807569.jpg?w=910&h=511&crop=1" alt="City Girls">
+{{< img-lite src="https://www.vibe.com/wp-content/uploads/2023/10/GettyImages-1482877730-e1697134807569.jpg?w=910&h=511&crop=1" alt="City Girls" >}}
 
 
 <!--Subscribe and Playlist Links-->

@@ -4,7 +4,7 @@ layout: post
 ---
 <h2>BigBanonos' Favorite Songs by Brian Dunne</h2> <!-- Search Description -->
 <p>BigBanonos' top 3 favorite tracks by Brian Dunne, exploring themes from his unique musical narrative.</p> <!-- Spotify Playlist Embed -->
-<iframe src="https://open.spotify.com/embed/playlist/6GQ1Zh4clNfxNxDZW3pTPv?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> <!-- Song Listings -->
+{{< youtube "embed" >}} <!-- Song Listings -->
 <ul> <li>Sometime After This - <em>Sometime After This</em> - Kill Rock Stars (2022-12-13)</li> <li>New Tattoo - <em>New Tattoo</em> - Brian Dunne (2018-11-30)</li> <li>Taxi - <em>Bug Fixes & Performance Improvements</em> - Brian Dunne (2017-05-12)</li>
 </ul> <!-- Image -->
 <img src="https://i.ytimg.com/vi/p1pt_r1OsQc/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAASometimeAfterThis" alt="Brian Dunne"/>

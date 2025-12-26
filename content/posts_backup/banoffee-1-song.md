@@ -7,7 +7,7 @@ layout: post
 <p >Updated October 23, 2019, with BigBanonos' favorite song by Banoffee and Empress Of, "Tennis Fan," released under Cascine. Watch the video and see more details below:</p> <!-- Featured Image -->
 <div > <img src="https://i.ytimg.com/vi/VhS5MB9cLY8/sddefault.jpg" alt="Banoffee and Empress Of - Tennis Fan" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/VhS5MB9cLY8" title="Banoffee - Tennis Fan ft. Empress Of (Official Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "VhS5MB9cLY8" >}}
 </div> <!-- Song Information -->
 <div > <p>"Tennis Fan" by Banoffee featuring Empress Of is a breezy blend of art pop and electropop, layered with dreamy melodies and soulful vocals. Released on October 23, 2019, under Cascine, this 2:50-long track highlights the unique talents of both artists in the realms of Australian pop and etherpop.</p>
 </div> <!-- Footer Links -->

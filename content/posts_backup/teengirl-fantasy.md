@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Cheaters (John Talabot's Classic Vocal Refix)" by Teengirl Fantasy, from the album *Cheaters Remixes*, released on April 28, 2011. This remix by John Talabot brings a classic vocal twist to the original, infusing it with deep house energy and emotional depth.</p> <!-- Featured Image -->
 <div > <img src="https://i1.sndcdn.com/artworks-000006976848-fdi3yg-t500x500.jpg" alt="Teengirl Fantasy - Cheaters (John Talabot's Classic Vocal Refix)" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/crUscoMzgXY" title="Teengirl Fantasy - Cheaters (John Talabot's Classic Vocal Refix)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "crUscoMzgXY" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Cheaters (John Talabot's Classic Vocal Refix)"</em> by Teengirl Fantasy is a deep and atmospheric remix that blends the originalâ€™s melodic elements with Talabotâ€™s signature house style. It brings a new life to the track with emotional vocal chops and a dancefloor-ready groove.</p>
 </div> <!-- Footer Links -->

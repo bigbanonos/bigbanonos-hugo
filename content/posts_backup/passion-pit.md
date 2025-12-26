@@ -3,7 +3,7 @@ title: "passion pit"
 layout: post
 ---
 <h2>BigBanonos' Favorite Songs by Passion Pit</h2>
-<img src="https://i.guim.co.uk/img/static/sys-images/Music/Pix/pictures/2009/5/14/1242318796756/Passion-Pit-001.jpg?width=465&dpr=1&s=none&crop=none" width="100%" /> <p>Updated July 23, 2012, with "Take a Walk" and "Constant Conversations" from <em>Gossamer</em>. Highlights and #NotOnSpotify picks below:</p> <iframe src="https://open.spotify.com/embed/playlist/4NH88qcNxkRgUtN7J5K9dR?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> <hr /> <h3>Full Song List</h3> <ul>
+<img src="https://i.guim.co.uk/img/static/sys-images/Music/Pix/pictures/2009/5/14/1242318796756/Passion-Pit-001.jpg?width=465&dpr=1&s=none&crop=none" width="100%" /> <p>Updated July 23, 2012, with "Take a Walk" and "Constant Conversations" from <em>Gossamer</em>. Highlights and #NotOnSpotify picks below:</p> {{< youtube "embed" >}} <hr /> <h3>Full Song List</h3> <ul>
 <li><strong>"Little Secrets"</strong> (2009, <em>Manners</em>) - Released in 2009 under Columbia. A high-energy, synth-driven anthem with infectious hooks.</li>
 <li><strong>"Take a Walk"</strong> (2012, <em>Gossamer</em>) - Released July 23, 2012, a massive indie hit that balances shimmering synths with deeper lyrical themes.</li>
 <li><strong>"Constant Conversations"</strong> (2012, <em>Gossamer</em>) - A smooth, R&B-inflected indie track, showing a more restrained side of Passion Pit.</li>

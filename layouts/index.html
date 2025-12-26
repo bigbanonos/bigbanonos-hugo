@@ -1,30 +1,21 @@
 {{ define "main" }}
 <main class="main">
-  <header class="page-header">
-    <h1>BigBanonos</h1>
-  </header>
+  <header class="page-header"><h1>BigBanonos</h1></header>
 
-  {{/* all posts in /content/posts, newest first, paginated */}}
   {{ $posts := where .Site.RegularPages "Section" "posts" }}
   {{ $paginator := .Paginate ($posts.ByDate.Reverse) }}
 
   {{ range $paginator.Pages }}
-    <article class="post-entry">
+    <article class="post-entry" style="border-bottom: 1px solid #333; padding: 20px 0;">
       <header class="entry-header">
-        <h2>
-          <a href="{{ .RelPermalink }}">{{ .Title }}</a>
-        </h2>
+        <h2><a href="{{ .RelPermalink }}" style="color: #1DB954;">{{ .Title }}</a></h2>
       </header>
-
-      <div class="entry-content">
-        {{ with .Summary }}{{ . }}{{ else }}{{ .Plain | truncate 200 }}{{ end }}
+      <div class="entry-content" style="font-size: 0.9em; line-height: 1.4;">
+    {{ .Summary | plainify | truncate 300 }}
       </div>
-
-      <footer class="entry-footer">
-        {{ .Date.Format "Jan 2, 2006" }}
+      <footer class="entry-footer" style="font-size: 0.8em; opacity: 0.6;">
+        {{ .Date.Format "Jan 2, 2006" }} | {{ .Params.album }}
       </footer>
-
-      <a class="entry-link" aria-label="post link to {{ .Title | plainify }}" href="{{ .RelPermalink }}"></a>
     </article>
   {{ end }}
 

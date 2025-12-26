@@ -7,7 +7,7 @@ layout: post
 <p >Updated March 24, 2017, with "Perfect Pint" by Mike WiLL Made-It featuring Kendrick Lamar, Gucci Mane, and Rae Sremmurd. From the album <em>Ransom 2</em>, this track is a masterful fusion of Southern hip hop, trap, and melodic rap, showcasing an all-star lineup of artists.</p> <!-- Featured Image -->
 <div > <img src="https://www.rollingstone.com/wp-content/uploads/2023/06/Mike-Will-Diwang-Valdez-min.jpg?w=1581&h=1054&crop=1" alt="Mike WiLL Made-It - Perfect Pint" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/vJgwn7b5Iug" title="Mike WiLL Made-It - Perfect Pint ft. Kendrick Lamar, Gucci Mane, Rae Sremmurd (Official Music Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "vJgwn7b5Iug" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Perfect Pint"</em> by Mike WiLL Made-It features standout performances from Kendrick Lamar, Gucci Mane, and Rae Sremmurd. The track blends heavy-hitting trap beats with smooth, melodic flows, creating a song thatâ€™s both introspective and full of energy. From the album <em>Ransom 2</em>, this collaboration is a must-listen for hip hop fans.</p>
 </div> <!-- Footer Links -->

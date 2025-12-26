@@ -7,7 +7,7 @@ layout: post
 <p >Frances Forever brings a delightful mix of bedroom pop and indie vibes, crafting songs that are both quirky and heartfelt. Explore BigBanonos' favorite tracks below!</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab6761610000e5eb2ebaa817f74f400bf3f6f96c" alt="Frances Forever - BigBanonos Favorite Songs" />
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/1MPcVHfbAzWPwUiUQmuMFp?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"paranoia party"</em> is an upbeat anthem that perfectly captures Frances Foreverâ€™s knack for blending relatable lyrics with dreamy melodies. Released June 2, 2021, on <strong>Mom+Pop</strong>.</p> <p><em>"space girl (feat. chloe moriondo)"</em> is an intergalactic indie-pop gem, radiating charm and wit. Released January 29, 2021, on <strong>Mom+Pop</strong>.</p>
 </div> <!-- Footer Links -->

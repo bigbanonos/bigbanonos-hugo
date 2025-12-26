@@ -7,7 +7,7 @@ layout: post
 <p >Updated September 21, 2004, with "Let Me Love You" by Mario. This timeless track from the album <em>Let Me Love You</em>, released under J Records, is a quintessential R&B hit that blends smooth vocals with urban contemporary and dance-pop elements.</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d0000b273c2248a5b79dededa74edfde0" alt="Mario - Let Me Love You" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/GFzJSV3M4mQ" title="Mario - Let Me Love You (Lyrics)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "GFzJSV3M4mQ" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Let Me Love You"</em> by Mario is an iconic R&B anthem that became a staple of the 2000s. Featuring heartfelt lyrics and a smooth melody, this track is a standout in the genres of dance-pop, R&B, and urban contemporary, capturing the essence of timeless love songs.</p>
 </div> <!-- Footer Links -->

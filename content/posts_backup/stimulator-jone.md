@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Give My All" by Stimulator Jones, from the album *Exotic Worlds and Masterful Treasures*, released on April 27, 2018, by Stones Throw Records.</p> <!-- Featured Image -->
 <div > <img src="https://i.ytimg.com/vi/m8KfOOpeMMM/maxresdefault.jpg" alt="Stimulator Jones - Give My All" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="411" src="https://www.youtube.com/embed/m8KfOOpeMMM" title="Stimulator Jones - Give My All" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "m8KfOOpeMMM" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Give My All"</em> by Stimulator Jones is a track from the album *Exotic Worlds and Masterful Treasures*, released on April 27, 2018. The song blends synth funk with a groovy, soulful vibe that captures the essence of the 80s funk era.</p>
 </div> <!-- Footer Links -->

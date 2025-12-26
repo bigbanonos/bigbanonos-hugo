@@ -2,7 +2,7 @@
 title: "branchez big wet"
 layout: post
 ---
-<div class="separator"><a href="https://i2.wp.com/culturedarm.com/wp-content/uploads/Branchez-Big-Wet-Turn-Up-On-the-Weekend.jpg?fit=1170%2C780"><img border="0" data-original-height="533" data-original-width="800" height="267" src="https://i2.wp.com/culturedarm.com/wp-content/uploads/Branchez-Big-Wet-Turn-Up-On-the-Weekend.jpg?fit=1170%2C780" width="400" /></a></div><div class="separator"><br /></div><iframe allow="encrypted-media" allowfullscreen="" frameborder="0" gesture="media" height="315" src="https://www.youtube.com/embed/videoseries?list=PLtuNtuTatqI3TvhIoLutSpw7GtDq08_yl" width="560"></iframe>
+<div class="separator"><a href="https://i2.wp.com/culturedarm.com/wp-content/uploads/Branchez-Big-Wet-Turn-Up-On-the-Weekend.jpg?fit=1170%2C780"><img border="0" data-original-height="533" data-original-width="800" height="267" src="https://i2.wp.com/culturedarm.com/wp-content/uploads/Branchez-Big-Wet-Turn-Up-On-the-Weekend.jpg?fit=1170%2C780" width="400" /></a></div><div class="separator"><br /></div>{{< youtube "videoseries" >}}
 <h3>(ft. Big Wet) Turn Up On The Weekend (2017)</h3>
 <h3>(ft. Santell) Dreamer (2017)</h3>
 

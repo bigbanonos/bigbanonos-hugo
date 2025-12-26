@@ -7,7 +7,7 @@ layout: post
 <p >Updated August 31, 2008, with "It's Gonna Take Some Time" by The Defectors. This energetic track from the album *Turn Me On!* delivers the raw intensity of Danish punk under Bad Afro Records.</p> <!-- Featured Image -->
 <div > <img src="https://gp1.wac.edgecastcdn.net/802892/http_public_production/artists/images/1211188/original/crop:x0y0w600h600/hash:1467125228/takin_out_the_trash_2009_1294118259.jpg?1467125228" alt="The Defectors - It's Gonna Take Some Time" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/QxMUGBS9yAs" title="The Defectors - It's Gonna Take Some Time (ORIGINAL)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "QxMUGBS9yAs" >}}
 </div> <!-- Song Information -->
 <div > <p>"It's Gonna Take Some Time" exemplifies the vibrant and rebellious spirit of Danish punk, a standout track from The Defectors' discography, marked by their dynamic sound and punk energy.</p>
 </div> <!-- Footer Links -->

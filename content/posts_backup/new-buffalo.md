@@ -7,7 +7,7 @@ layout: post
 <p >Updated August 28, 2007, with "Cheer Me Up Thank You" by New Buffalo. This track from the album <em>Somewhere, Anywhere</em>, released under Arts & Crafts, blends Melbourne indie rock with introspective lyrics and a dreamy sound, showcasing the unique style of New Buffalo.</p> <!-- Featured Image -->
 <div > <img src="https://f4.bcbits.com/img/0019903477_25.jpg" alt="New Buffalo - Cheer Me Up Thank You" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="514" src="https://www.youtube.com/embed/GnCcExPOAdY" title="New Buffalo - Cheer Me Up Thank You" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "GnCcExPOAdY" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Cheer Me Up Thank You"</em> by New Buffalo is a melancholic yet uplifting track from the album <em>Somewhere, Anywhere</em>, blending indie rock with dreamy soundscapes. Released under Arts & Crafts, this track captures the essence of Melbourne indie music and is a standout in New Buffalo's catalog.</p>
 </div> <!-- Footer Links -->

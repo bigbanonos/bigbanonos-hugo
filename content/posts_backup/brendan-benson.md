@@ -5,9 +5,9 @@ layout: post
 <!-- Title of the Post -->
 <h1>BigBanonos' Favorite Songs by Brendan Benson</h1> <!-- Introductory Text -->
 <p>Updated with standout power pop tracks by Brendan Benson. His knack for catchy melodies and heartfelt lyrics continues to captivate fans of the genre.</p> <!-- Featured Image -->
-<div> <img src="https://i.scdn.co/image/ab67616d00001e02963023f296601c18388b986a" alt="Brendan Benson - What Kind of World">
+<div> {{< img-lite src="https://i.scdn.co/image/ab67616d00001e02963023f296601c18388b986a" alt="Brendan Benson - What Kind of World" >}}
 </div> <!-- Spotify Playlist Embed -->
-<div> <iframe src="https://open.spotify.com/embed/playlist/4rGiRgw3ZXMZZVPexn8tx0?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div> {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <h3>Top Songs:</h3>
 <ul> <li><strong>Bad for Me</strong> | <em>What Kind of World (Side A)</em> | Label: Readymade Records | Released: April 24, 2012 | Genres: Jangle Pop, Power Pop</li> <li><strong>Tiny Spark</strong> | <em>Lapalco</em> | Label: Startime | Released: March 3, 2009 | Genres: Jangle Pop, Power Pop</li> <li><strong>Cold Hands (Warm Heart)</strong> | <em>Lapalco / The Alternative To Love</em> | Label: UMC (Universal Music Catalogue) | Released: January 1, 2006 | Genres: Jangle Pop, Power Pop</li>

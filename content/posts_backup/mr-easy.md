@@ -8,7 +8,7 @@ layout: post
 <p >Updated July 21, 2015, with "Drive Me Crazy" from <em>Buy out Riddim</em>. Celebrate Mr. Easy's dancehall vibes in the playlist below!</p> <!-- Featured Image -->
 <div > <img src="https://www.lagosjumpradio.com/wp-content/uploads/2024/04/pr-post-Mr-Eazi.jpg" alt="Mr. Easy" />
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/1M6ricOhNFq2OH86kcI9AP?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <div > <p><strong>"Drive Me Crazy"</strong><br> Genre: World/Traditional, Hip Hop<br> Album: <em>Buy out Riddim</em><br> Release Date: July 21, 2015<br> Label: K-Licious Music</p>
 </div> <!-- Footer Links -->

@@ -7,7 +7,7 @@ layout: post
 <p >Updated October 30, 2015 with BigBanonos' favorite track, "I Like Tuh" by Carnage featuring ILOVEMAKONNEN. This genre-blending hit from the *Papi Gordo* album delivers infectious energy with its mix of electronic trap and hip hop vibes.</p> <!-- Featured Image -->
 <div > <img src="https://edm.com/.image/t_share/MTU0NTQ4MDQ4MDM3NDIyNjA1/carnage-main2.jpg" alt="Carnage and ILOVEMAKONNEN - I Like Tuh" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/65h8TQwzn10" title="Carnage, ILOVEMAKONNEN - I Like Tuh ft. I LOVE MAKONNEN" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "65h8TQwzn10" >}}
 </div> <!-- Song Information -->
 <div > <p>"I Like Tuh," featured on Carnage's *Papi Gordo* album, is a bold fusion of EDM and hip hop. Released in 2015, this track showcases the playful charisma of ILOVEMAKONNEN and the high-energy beats of Carnage, making it a standout in both their discographies.</p>
 </div> <!-- Footer Links -->

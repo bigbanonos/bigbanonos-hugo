@@ -2,7 +2,7 @@
 title: "roches 1 song"
 layout: post
 ---
-<iframe allowfullscreen="" frameborder="0" height="344" src="https://www.youtube.com/embed/EA-U5H4VoX8" width="459"></iframe><br /><br />
+{{< youtube "EA-U5H4VoX8" >}}<br /><br />
 <h3><ol><li>Hammond Song [1979]</li>
 </ol></h3>
 

@@ -4,7 +4,7 @@ layout: post
 ---
 <h2>BigBanonos' Favorite Songs by Coi Leray</h2> <!--Search Description-->
 <p>BigBanonos' top Coi Leray tracks, highlighting her unique style in New Jersey underground rap and trap queen genres. Enjoy the playlist below and <a href="https://bigbanonos.blogspot.com/2024/05/shenseea-top-15-songs.html" target="_blank">be sure to check out Flava (feat. Coi Leray) from Shenseea's 2024 album <i>Never Gets Late Here </i>first published on BigBanonos</a>.</p> <!--Spotify Playlist Embed-->
-<iframe allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" allowfullscreen="" frameborder="0" height="352" loading="lazy" src="https://open.spotify.com/embed/playlist/2zVa4dDCex5SWht2iB0uvg?utm_source=generator" width="100%"></iframe> <!--Song Listings-->
+{{< youtube "embed" >}} <!--Song Listings-->
 <ul> <li><strong>Liquor and Weed</strong> - <em>Blue Moon</em> - 2023-08-30 - Uptown / Republic Records</li> <li><strong>Players</strong> - <em>Players</em> - 2022-11-30 - Uptown / Republic Records</li> <li><strong>TWINNEM</strong> - <em>Trendsetter</em> - 2022-04-08 - Republic Records</li> <li><strong>Blick Blick</strong> (with Nicki Minaj) - <em>Blick Blick</em> - 2022-03-18 - Republic Records</li>
 </ul> <!--Image-->
 <img alt="Coi Leray" src="https://i.iheart.com/v3/re/new_assets/6241f9418902294e742122ad?ops=maxcontain(768,432),quality(80)" />

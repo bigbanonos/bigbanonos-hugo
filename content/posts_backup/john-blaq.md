@@ -7,7 +7,7 @@ layout: post
 <p >Updated May 7, 2019, with "Do Dat" by John Blaq. This Ugandan pop sensation delivers a vibrant and catchy track that's a testament to the growing influence of Ugandan pop on the global stage.</p> <!-- Featured Image -->
 <div > <img src="https://upload.wikimedia.org/wikipedia/commons/2/20/John_Blaq_Ugandan_artist.jpg" alt="John Blaq - Do Dat" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/tY2nTrI4W6w" title="John Blaq - 'Do Dat' (Official Video)" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "tY2nTrI4W6w" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Do Dat"</em> by John Blaq was released under John Blaq Music. Featuring infectious rhythms and a distinctive vocal delivery, this track exemplifies the energy and creativity of the Ugandan pop scene.</p>
 </div> <!-- Footer Links -->

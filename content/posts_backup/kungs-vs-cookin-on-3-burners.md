@@ -7,7 +7,7 @@ layout: post
 <p >Updated February 19, 2016, with "This Girl" by Kungs vs. Cookin' On 3 Burners. This vibrant EDM track fuses instrumental funk with pop dance and UK dance influences, making it an unforgettable anthem.</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d0000b273af72d0856c5527dc97f3ea08" alt="Kungs & Cookin' On 3 Burners - This Girl" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/2Y6Nne8RvaA" title="Kungs vs Cookinâ€™ on 3 Burners - This Girl (Official Music Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "2Y6Nne8RvaA" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"This Girl"</em> by Kungs vs. Cookin' On 3 Burners is an iconic track that blends EDM with elements of instrumental funk, b-boy beats, and pop dance. Released under Universal Music Group, itâ€™s a timeless hit that brings energy to every dance floor.</p>
 </div> <!-- Footer Links -->

@@ -7,7 +7,7 @@ layout: post
 <p >Updated January 1, 2002, with "The Guest - Demo" by Phantom Planet. This raw and captivating version of the title track from their *The Guest* album provides a glimpse into the bandâ€™s creative process and highlights their unmistakable charm. Watch and listen below!</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d0000b2732363bfe35da36e0c27e0c66b" alt="Phantom Planet - The Guest (Demo)" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="733" height="480" src="https://www.youtube.com/embed/YCSDRKoCueg" title="Phantom Planet - The Guest (Demo)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "YCSDRKoCueg" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"The Guest - Demo"</em>, released in 2002 under Epic/Daylight, provides an intimate and stripped-down take on one of Phantom Planetâ€™s iconic tracks. The demo showcases the bandâ€™s raw talent and ability to craft memorable, emotionally resonant music.</p>
 </div> <!-- Footer Links -->

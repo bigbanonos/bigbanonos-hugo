@@ -7,7 +7,7 @@ layout: post
 <p >Updated August 31, 2010, with "Lucy Mae Blues, Pt. 1" by Frankie Lee Sims. This Texas blues classic originally released in 1953 remains a cornerstone of the genre, showcasing Sims' raw guitar sound and powerful storytelling.</p> <!-- Featured Image -->
 <div > <img src="https://arhoolie.org/wp-content/uploads/2020/04/frankie-lee-sims-1.jpg" alt="Frankie Lee Sims - Lucy Mae Blues" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/jsZu1QDD7Ck" title="Frankie Lee Sims Lucy Mae Blues (1953)" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "jsZu1QDD7Ck" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Lucy Mae Blues, Pt. 1"</em> highlights Frankie Lee Sims' Texas blues artistry, originally recorded in 1953 and reissued by Roots Records. With its driving rhythm and emotive vocals, this track is an enduring example of the blues at its finest.</p>
 </div> <!-- Footer Links -->

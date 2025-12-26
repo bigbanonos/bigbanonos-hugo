@@ -7,7 +7,7 @@ layout: post
 <p >Updated October 30, 2017, with "Ric Flair Drip" by Offset and Metro Boomin. This track from the album <em>Without Warning</em> combines hard-hitting trap beats with Offset's distinct flow, featuring Metro Boomin's signature production style.</p> <!-- Featured Image -->
 <div > <img src="https://www.billboard.com/wp-content/uploads/2024/03/Offset-paris-fashion-2023-a-billboard-1548.jpg?w=942&h=623&crop=1" alt="Offset & Metro Boomin - Ric Flair Drip" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/LPTlvQ1Zet0" title="21 Savage, Offset, Metro Boomin - Ric Flair Drip (Official Music Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "LPTlvQ1Zet0" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Ric Flair Drip"</em> is a standout track from Offset and Metro Boominâ€™s collaborative album <em>Without Warning</em>, featuring energetic production from Metro Boomin and a memorable verse from Offset. Released on October 30, 2017, this song remains a trap anthem.</p>
 </div> <!-- Footer Links -->

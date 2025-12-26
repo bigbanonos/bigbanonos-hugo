@@ -7,7 +7,7 @@ layout: post
 <p >Updated October 16, 2015, with "Drinking Peru" by Maritime. This standout track from the album <em>Magnetic Bodies/Maps of Bones</em>, released under Dangerbird Records, combines the energy of emo punk with introspective melodies, showcasing the band's distinctive sound.</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d00001e0287bf9b2bd07826d50c29201e" alt="Maritime - Drinking Peru" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/RGUWSJdSA90" title="Maritime - "Drinking Peru" (Official Audio)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "RGUWSJdSA90" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Drinking Peru"</em> by Maritime is a thoughtful and dynamic track that blends emo punk's raw edge with polished indie rock sensibilities. From the album <em>Magnetic Bodies/Maps of Bones</em>, this song reflects the band's ability to craft emotionally resonant and compelling music.</p>
 </div> <!-- Footer Links -->

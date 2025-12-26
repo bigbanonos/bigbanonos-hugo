@@ -3,7 +3,7 @@ title: "keyahblu"
 layout: post
 ---
 <div class="separator" ><a href="https://media.pitchfork.com/photos/5d0b907fc612b8ddcd6635e0/2:1/w_790/KEYAH:BLU.jpg" imageanchor="1"><img border="0" src="https://media.pitchfork.com/photos/5d0b907fc612b8ddcd6635e0/2:1/w_790/KEYAH:BLU.jpg" width="400" height="200" data-original-width="790" data-original-height="395" /></a></div><br />
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLtuNtuTatqI2yURbddAa-oQqQt31AyO12" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{< youtube "videoseries" >}}
 <br />
 <h3>Choker [2019]</h3>
 

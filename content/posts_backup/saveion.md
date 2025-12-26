@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Perfect Body" by Saveion featuring Serani, Nicky B, and Qraig, from the album *Atmosphere Riddim*, released on March 9, 2018, by Fox Fuse.</p> <!-- Featured Image -->
 <div > <img src="https://i.ytimg.com/vi/3WBlBdNoFXs/hqdefault.jpg" alt="Saveion - Perfect Body" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/5bMiaYIvKJ8" title="Saveion - Perfect Body (Official Music Video) ft. Serani, Nicky B, Qraig" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "5bMiaYIvKJ8" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Perfect Body"</em> by Saveion is a lively track from the album *Atmosphere Riddim*, released on March 9, 2018. The song features collaborations with Serani, Nicky B, and Qraig, blending reggae and dancehall influences for a perfect party anthem.</p>
 </div> <!-- Footer Links -->

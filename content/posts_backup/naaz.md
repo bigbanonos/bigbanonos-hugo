@@ -7,7 +7,7 @@ layout: post
 <p >Updated April 20, 2018, with "Up To Something" by Naaz. This track from the album <em>Bits Of Naaz</em>, released under Top Notch Music BV, showcases the unique sound of Dutch pop, blending catchy melodies with introspective lyrics.</p> <!-- Featured Image -->
 <div > <img src="https://images.universal-music.de/img/assets/483/483791/991/720/naaz-pressefoto-2019.jpg" alt="Naaz - Up To Something" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/SBnpthYBQpo" title="Naaz - Up To Something (Official Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "SBnpthYBQpo" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Up To Something"</em> by Naaz is an upbeat and reflective track from the album <em>Bits Of Naaz</em>. With its fresh take on Dutch pop, it combines vibrant beats with thoughtful lyrics, making it a standout in Naaz's musical repertoire.</p>
 </div> <!-- Footer Links -->

@@ -7,7 +7,7 @@ layout: post
 <p >Updated in 2000 with "It Ain't Over 'Til It's Over" by Lenny Kravitz. This soulful rock classic from his <em>Greatest Hits</em> album captures the essence of permanent wave and timeless rock influences.</p> <!-- Featured Image -->
 <div > <img src="https://i.ytimg.com/vi/UzWHE32IxUc/maxresdefault.jpg" alt="Lenny Kravitz - It Ain't Over 'Til It's Over" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/TmENMZFUU_0" title="Lenny Kravitz - It Ain't Over 'Til It's Over (Official Music Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "TmENMZFUU_0" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"It Ain't Over 'Til It's Over"</em> by Lenny Kravitz is a classic track that blends soulful melodies with rock energy. Featured on his <em>Greatest Hits</em> album and released under Virgin Records, this song remains a timeless anthem.</p>
 </div> <!-- Footer Links -->

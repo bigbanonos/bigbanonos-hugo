@@ -4,8 +4,8 @@ layout: post
 ---
 <h2>Evelyn Champagne King - Top Songs</h2>
 <p>Updated with R&B and soul classics like â€œLove Come Downâ€ and â€œI Don't Know If It's Right.â€</p> <ul> <li><strong>Love Come Down - Single Version</strong> - <em>Essential - Soul Love</em> (1982)</li> <li><strong>I Don't Know If It's Right - 7" Version</strong> - <em>Greatest Hits</em> (1977)</li>
-</ul> <iframe src="https://open.spotify.com/embed/playlist/2cVeptAhIAvqqDdj3SpnaE?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-<img src="https://i.ytimg.com/vi/FySgWAJzJa4/maxresdefault.jpg" alt="Evelyn Champagne King">
+</ul> {{< youtube "embed" >}}
+{{< img-lite src="https://i.ytimg.com/vi/FySgWAJzJa4/maxresdefault.jpg" alt="Evelyn Champagne King" >}}
 
 
 <!--Subscribe and Playlist Links-->

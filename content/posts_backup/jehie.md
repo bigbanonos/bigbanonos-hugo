@@ -7,7 +7,7 @@ layout: post
 <p >Updated September 16, 2019, with "Cash!" by JEHIE. This independent release delivers high-energy beats and confident lyricism, making it a standout in the modern music scene.</p> <!-- Featured Image -->
 <div > <img src="https://i.ytimg.com/vi/7aJQrc1Pn4Q/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAG1DT6n6FWyX0KDY_oHyAzxYscQA" alt="JEHIE - Cash!" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/M07_v7vSie8" title="JEHIE - 'Cash!'" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "M07_v7vSie8" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Cash!"</em> by JEHIE is an electrifying anthem of ambition and hustle. Independently released in 2019, the trackâ€™s infectious rhythm and bold attitude resonate deeply, making it an essential addition to any playlist.</p>
 </div> <!-- Footer Links -->

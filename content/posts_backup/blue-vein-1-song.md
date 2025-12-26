@@ -2,7 +2,7 @@
 title: "blue vein 1 song"
 layout: post
 ---
-<h2><div class="separator"><iframe allowfullscreen="" class="BLOG_video_class" height="266" src="https://www.youtube.com/embed/OJuv3TIlnd4" width="320" youtube-src-id="OJuv3TIlnd4"></iframe></div><br /><ol><li>My Mistakes [2021]</li></ol></h2><br />
+<h2><div class="separator">{{< youtube "OJuv3TIlnd4" >}}</div><br /><ol><li>My Mistakes [2021]</li></ol></h2><br />
 
 <!--Subscribe and Playlist Links-->
 <div>

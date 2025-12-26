@@ -7,7 +7,7 @@ layout: post
 <p >Updated February 22, 1963, with BigBanonos' favorite track, "A Fine, Fine Boy" by Darlene Love. Originally part of the Phil Spector catalog, this timeless classic captures the exuberance of the early '60s Wall of Sound era.</p> <!-- Featured Image -->
 <div > <img src="https://media.npr.org/assets/img/2011/02/16/313_darlene_lo_rected_slide-ffaf6aa105bc67f6503a436bf87b36b2ecddb8a2.jpg" alt="Darlene Love - A Fine, Fine Boy" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/oXUjsMMNMts" title="Darlene Love - A Fine, Fine Boy (Official Audio)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "oXUjsMMNMts" >}}
 </div> <!-- Song Information -->
 <div > <p>Originally released in the early 1960s, "A Fine, Fine Boy" showcases Darlene Love's powerful vocals, backed by Phil Spector's signature Wall of Sound production. This track remains a standout from one of music's most influential eras.</p>
 </div> <!-- Footer Links -->

@@ -7,7 +7,7 @@ layout: post
 <p >Updated August 19, 2013, with "This Is a True Heart" by Julia Holter. A captivating art pop masterpiece from *Loud City Song*, blending chamber pop and experimental textures to create a sonic experience unlike any other.</p> <!-- Featured Image -->
 <div > <img src="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84a40fec29dff4a347ee6cc9a3" alt="Julia Holter - This Is a True Heart" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/IzzpkDPetZU" title="This Is A True Heart" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "IzzpkDPetZU" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"This Is a True Heart"</em> by Julia Holter showcases a stunning combination of experimental pop and chamber music. Its immersive, textured sound elevates it to a unique place within the world of modern pop.</p>
 </div> <!-- Footer Links -->

@@ -3,7 +3,7 @@ title: "twilight sad"
 layout: post
 ---
 #2008 <br />
-<iframe width="95%" height="315" src="https://www.youtube.com/embed/IttRd2zgIvA?list=PLtuNtuTatqI0u1mervWX77QHpXQpVhhd3" frameborder="0" allowfullscreen></iframe><br />
+{{< youtube "IttRd2zgIvA" >}}<br />
 Half A Person 2008
 
 <!--Subscribe and Playlist Links-->

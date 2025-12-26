@@ -7,7 +7,7 @@ layout: post
 <p >Updated April 21, 2015, with "Irl" from <em>Bad Sports</em>. Experience the deep indie-pop vibes of MiniBoone in the playlist below!</p> <!-- Featured Image -->
 <div > <img src="https://media.npr.org/assets/img/2010/07/02/MiniBoone_wide-33ba0b2a35465d71965e290d1bf6f6c396c0d9dc.jpg?s=1400&c=100&f=jpeg" alt="MiniBoone" />
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/1kNEsi1d7ocDfTwithddXR?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <div > <p><strong>"Irl"</strong><br> Genre: Pop<br> Album: <em>Bad Sports</em><br> Release Date: April 21, 2015<br> Label: Ernest Jenning Record Co.</p> <p><strong>"Any Other City"</strong><br> Genre: Pop<br> Album: <em>Bad Sports</em><br> Release Date: April 21, 2015<br> Label: Ernest Jenning Record Co.</p>
 </div> <!-- Footer Links -->

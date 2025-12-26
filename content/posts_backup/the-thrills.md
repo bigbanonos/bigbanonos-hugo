@@ -7,7 +7,7 @@ layout: post
 <p >"Santa Cruz (You're Not That Far)" by The Thrills is a catchy, upbeat track that blends Britpop with a laid-back California vibe. Featured on *So Much For The City*, this song offers a nostalgic journey to the West Coast. Watch the video below!</p> <!-- Featured Image -->
 <div > <img src="https://upload.wikimedia.org/wikipedia/en/5/55/Santa_Cruz_%28You%27re_Not_That_Far%29.jpg" alt="The Thrills - Santa Cruz (You're Not That Far)" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="428" src="https://www.youtube.com/embed/kQlsG9zEX5k" title="The Thrills - Santa Cruz (You're Not That Far)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "kQlsG9zEX5k" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Santa Cruz (You're Not That Far)"</em> from *So Much For The City* by The Thrills captures the band's blend of surf rock and indie pop with its infectious melody and feel-good lyrics, taking listeners on a sunny ride to the California coast.</p>
 </div> <!-- Footer Links -->

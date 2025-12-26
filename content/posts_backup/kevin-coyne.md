@@ -7,7 +7,7 @@ layout: post
 <p >Updated January 17, 1979, with "Are You Deceiving Me?" from <em>Babble</em>. Discover the unique blend of blues and experimental vocals by Kevin Coyne in the playlist below!</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/e9d6053491d597e203a69e61ce94af090efe8019" alt="Kevin Coyne" />
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/2d5Gvm6X5srIWUSW7Fvk4F?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <div > <p><strong>"Are You Deceiving Me?"</strong><br> Genre: Blues, Jazz<br> Album: <em>Babble</em><br> Release Date: January 1, 1979<br> Label: One Up</p> <p><strong>"I Really Love You"</strong><br> Genre: Blues, Jazz<br> Album: <em>Babble</em><br> Release Date: January 1, 1979<br> Label: One Up</p> <p><strong>"Sweetheart"</strong><br> Genre: Blues, Jazz<br> Album: <em>Babble</em><br> Release Date: January 1, 1979<br> Label: One Up</p>
 </div> <!-- Footer Links -->

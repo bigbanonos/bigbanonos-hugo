@@ -7,7 +7,7 @@ layout: post
 <p >Updated January 17, 2021, with "Air Traffic Controllers" from <em>Air Traffic Controllers</em>. Dive into the indie charm of Joey Sweeney in the playlist below!</p> <!-- Featured Image -->
 <div > <img src="https://f4.bcbits.com/img/0013719997_10.jpg" alt="Joey Sweeney" />
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/3ZMM8kdB8DuYWLHqLHtP4p?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <div > <p><strong>"Air Traffic Controllers"</strong><br> Genre: Indie<br> Album: <em>Air Traffic Controllers</em><br> Release Date: June 24, 2021<br> Label: The Giving Groove</p>
 </div> <!-- Footer Links -->

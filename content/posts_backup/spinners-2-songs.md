@@ -3,8 +3,8 @@ title: "spinners 2 songs"
 layout: post
 ---
 <h1>BigBanonos Top Songs by The Spinners</h1>
-<img src="https://m.media-amazon.com/images/I/6152H3PZ57L._UF1000,1000_QL80_.jpg" alt="The Spinners"> <p>The Spinners are known for their soulful harmonies and classic hits. Here are BigBanonos' top selections:</p> <ol> <li><strong>It's A Shame</strong> | <em>The Complete Motown Singles Vol. 10: 1970</em> | Released: 2008-01-01 | Universal Music Special Imports</li> <li><strong>The Rubberband Man</strong> | <em>The Best of the Spinners</em> | Released: 2007-06-26 | Rhino Atlantic</li>
-</ol> <div> <iframe src="https://open.spotify.com/embed/playlist/4RuJWzeO0WQZxpA2L5RCOd?utm_source=generator" width="100%" height="352" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+{{< img-lite src="https://m.media-amazon.com/images/I/6152H3PZ57L._UF1000,1000_QL80_.jpg" alt="The Spinners" >}} <p>The Spinners are known for their soulful harmonies and classic hits. Here are BigBanonos' top selections:</p> <ol> <li><strong>It's A Shame</strong> | <em>The Complete Motown Singles Vol. 10: 1970</em> | Released: 2008-01-01 | Universal Music Special Imports</li> <li><strong>The Rubberband Man</strong> | <em>The Best of the Spinners</em> | Released: 2007-06-26 | Rhino Atlantic</li>
+</ol> <div> {{< youtube "embed" >}}
 </div>
 <p>Tags: @spinners</p>
 

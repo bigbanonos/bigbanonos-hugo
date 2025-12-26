@@ -7,7 +7,7 @@ layout: post
 <p >Pecker Dunneâ€™s heartfelt tales and traditional Irish banjo have made him a folk legend. Listen to his classics below!</p> <!-- Featured Image -->
 <div > <img src="https://kinglaoghaire.com/wp-content/uploads/2013/10/pecker-dunne-300x300.jpg" alt="Pecker Dunne" />
 </div> <!-- Spotify Playlist Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/553uMdWkSDei46SPM4Rxux?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <div> <p><em>"Wexford"</em> from *The Very Best of Pecker Dunne* (2000) brings traditional Irish music to life.</p> <p><em>"Last Of The Travellin' People"</em> (2017), a collaboration with Margaret Barry, highlights the soul of Irish folk.</p>
 </div> <!-- Footer Links -->

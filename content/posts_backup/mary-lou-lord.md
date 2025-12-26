@@ -7,7 +7,7 @@ layout: post
 <p >Updated January 1, 1995, with "Birthday Boy" by Mary Lou Lord. This heartfelt rendition of Ween's classic showcases Lord's emotional delivery and acoustic charm. A gem for fans of indie and folk covers. Watch the video below!</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/b212bcaf3e88235126efb31216b3e1d7d52908d0" alt="Mary Lou Lord - Birthday Boy" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="623" height="467" src="https://www.youtube.com/embed/WY_sA25YyFU" title="Elliott Smith & Mary Lou Lord - Birthday Boy (Ween Cover)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "WY_sA25YyFU" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Birthday Boy"</em>, originally by Ween, is given a tender and introspective twist by Mary Lou Lord. Recorded in 1995, this cover highlights her ability to transform beloved tracks with her own unique style. Note: This track is #NotOnSpotify, so enjoy it here on YouTube!</p>
 </div> <!-- Footer Links -->

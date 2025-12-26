@@ -4,9 +4,9 @@ layout: post
 ---
 <h2 >BigBanonos' Favorite Songs by Caribou</h2> <!-- Introductory Text -->
 <p >Updated July 31, 2024, with "Broke My Heart," Caribouâ€™s latest single that blends intricate production with heartfelt emotion. Dive into BigBanonosâ€™ favorite tracks, featuring standout hits from Caribou's expansive discography. Check out the playlist below!</p> <!-- Featured Image -->
-<div > <img src="https://origin.go.gq.com.au/wp-content/uploads/2020/02/dan-snaith-caribou.jpg" alt="Caribou - Dan Snaith">
+<div > {{< img-lite src="https://origin.go.gq.com.au/wp-content/uploads/2020/02/dan-snaith-caribou.jpg" alt="Caribou - Dan Snaith" >}}
 </div> <!-- Spotify Playlist Embed -->
-<div > <iframe allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" allowfullscreen="" frameborder="0" height="352" loading="lazy" src="https://open.spotify.com/embed/playlist/40byte1vdvKsEE03RYjdAM?utm_source=generator" width="100%"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Song List -->
 <h3 >Top Songs:</h3>
 <ol > <li><strong>Broke My Heart</strong></li> <li><strong>Home</strong></li> <li><strong>New Jade</strong></li> <li><strong>Like I Loved You</strong></li> <li><strong>Magpie</strong></li> <li><strong>Ravi</strong></li> <li><strong>Can't Do Without You</strong></li> <li><strong>Never Come Back</strong></li>

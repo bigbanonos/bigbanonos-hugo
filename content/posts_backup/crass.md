@@ -4,9 +4,9 @@ layout: post
 ---
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Crass</h1> <!-- Featured Image -->
-<div > <img src="https://i.scdn.co/image/ab67616d0000b27308da902d054513244ddc9193" alt="Crass">
+<div > {{< img-lite src="https://i.scdn.co/image/ab67616d0000b27308da902d054513244ddc9193" alt="Crass" >}}
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/72NHBuGjaLvBjwq95rqTiQ?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Introductory Text -->
 <p >Crass embodies anarcho-punk with revolutionary tracks like "Bloody Revolutions" and "Punk Is Dead." BigBanonos highlights their genre-defining hits.</p> <!-- Song Highlights -->
 <div > <p>BigBanonos' standout picks:</p> <ol> <li><strong>Bloody Revolutions</strong> | <em>Best Before 1984 (Remastered)</em> | Released: April 27, 1986 | Crass Records</li> <li><strong>Punk Is Dead</strong> | <em>The Feeding of the Five Thousand (The Crassical Collection)</em> | Released: January 1, 1979 | Crass Records</li> <li><strong>Banned from the Roxy</strong> | <em>The Feeding of the Five Thousand (The Crassical Collection)</em> | Released: January 1, 1979 | Crass Records</li> </ol>

@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Reasons" by Wished Bone, from the album *Cellar Belly*, released on May 11, 2018, by Wished Bone. The track offers a deep, reflective tone that echoes the band's indie rock and small room aesthetic.</p> <!-- Featured Image -->
 <div > <img src="https://f4.bcbits.com/img/a2835047280_65" alt="Wished Bone - Reasons" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/YidTJx4dsD4" title="Wished Bone - Trees We Couldn't Tell The Size Of (Official Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "YidTJx4dsD4" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Reasons"</em> by Wished Bone is from the album *Cellar Belly*, released on May 11, 2018. With its reflective, small room indie rock vibe, itâ€™s a perfect track for moments of introspection.</p>
 </div> <!-- Footer Links -->

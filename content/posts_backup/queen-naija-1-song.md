@@ -2,7 +2,7 @@
 title: "queen naija 1 song"
 layout: post
 ---
-<iframe frameborder="0" height="270" src="https://youtube.com/embed/fnXsEGO1RmI" width="480"></iframe><div><h2><ol><li>(ft. Ari Lennox) Set Him Up [2021]</li></ol></h2></div>
+{{< youtube "fnXsEGO1RmI" >}}<div><h2><ol><li>(ft. Ari Lennox) Set Him Up [2021]</li></ol></h2></div>
 
 <!--Subscribe and Playlist Links-->
 <div>

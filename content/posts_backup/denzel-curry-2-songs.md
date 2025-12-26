@@ -2,7 +2,7 @@
 title: "denzel curry 2 songs"
 layout: post
 ---
-<p>Updated June 25, 2024 with <i>HOT ONE </i>featuring TiaCorine & A$AP FergÃƒâ€šÃ‚Â <iframe allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" allowfullscreen="" frameborder="0" height="352" loading="lazy" src="https://open.spotify.com/embed/playlist/0KwwaGuOoX0F0W41l6nwmJ?utm_source=generator" width="100%"></iframe>
+<p>Updated June 25, 2024 with <i>HOT ONE </i>featuring TiaCorine & A$AP FergÃƒâ€šÃ‚Â {{< youtube "embed" >}}
 </p><div class="separator"><a href="https://jaxmusic.org/wp-content/uploads/2024/06/unnamed-37-e1717679523106.jpg" ><img alt="" border="0" data-original-height="848" data-original-width="1198" src="https://jaxmusic.org/wp-content/uploads/2024/06/unnamed-37-e1717679523106.jpg" width="320" /></a></div> <p></p>
 
 <!--Subscribe and Playlist Links-->

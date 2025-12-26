@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Much to Touch" by Planningtorock, a standout track from the *Powerhouse* album. A stunning mix of electroclash and avant-garde pop.</p> <!-- Featured Image -->
 <div > <img src="https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/Planningtorock_2022_Press_Shot.jpeg/800px-Planningtorock_2022_Press_Shot.jpeg" alt="Planningtorock" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="514" src="https://www.youtube.com/embed/s_Wr1A7NY38" title="Planningtorock 'Much To Touch' feat. Maija Karhunen" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "s_Wr1A7NY38" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Much to Touch"</em> by Planningtorock is a striking track that blends electroclash with avant-garde pop sounds. Featured alongside Maija Karhunen, this song embodies bold artistic expression.</p>
 </div> <!-- Footer Links -->

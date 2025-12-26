@@ -7,7 +7,7 @@ layout: post
 <p >Updated November 11, 2016, with "High On A Rocky Ledge" by Moondog. This track from the album <em>H'art Songs</em> exemplifies Moondog's unique blend of experimental rock and classical music, offering an outsider's perspective on sound and structure.</p> <!-- Featured Image -->
 <div > <img src="https://f4.bcbits.com/img/a0330231166_65" alt="Moondog - High On A Rocky Ledge" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="617" src="https://www.youtube.com/embed/Dijb-zouJd8" title="Moondog - High On A Rocky Ledge (1978)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "Dijb-zouJd8" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"High On A Rocky Ledge"</em> by Moondog is a timeless track that blends experimental rock with classical elements, creating a unique and boundary-pushing sound. Featured on the album <em>H'art Songs</em>, this track showcases Moondog's outsider approach to music, which challenges conventional norms.</p>
 </div> <!-- Footer Links -->

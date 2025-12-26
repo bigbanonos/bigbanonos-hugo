@@ -4,9 +4,9 @@ layout: post
 ---
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by The Chicks</h1> <!-- Featured Image -->
-<div > <img src="https://i.scdn.co/image/ab6761610000e5eb43d9d87bba466538f5c40901" alt="The Chicks">
+<div > {{< img-lite src="https://i.scdn.co/image/ab6761610000e5eb43d9d87bba466538f5c40901" alt="The Chicks" >}}
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/4yHoFDn9OugrNGy2x4Wy3p?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Introductory Text -->
 <p >The Chicks bring timeless storytelling to contemporary country music. BigBanonos highlights their classics like "Goodbye Earl" and "Wide Open Spaces," which resonate with fans worldwide.</p> <!-- Song Highlights -->
 <div > <p>BigBanonos' standout picks:</p> <ol> <li><strong>Goodbye Earl</strong> | <em>Fly</em> | Released: August 27, 1999 | Monument</li> <li><strong>Wide Open Spaces</strong> | <em>Wide Open Spaces</em> | Released: January 27, 1998 | Monument</li> </ol>

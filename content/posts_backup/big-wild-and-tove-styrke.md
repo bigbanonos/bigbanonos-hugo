@@ -7,7 +7,7 @@ layout: post
 <p >Updated March 25, 2016, with BigBanonos' favorite song by Big Wild, "Aftergold," featuring Tove Styrke. Released under Foreign Family Collective, this track combines vibrant pop and R&B elements with Swedish electropop charm. Watch the video and see more details below:</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d00001e02d6dfcd64c8126d5bb56ec268" alt="Big Wild and Tove Styrke - Aftergold" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/nkziIXxfMrg" title="Big Wild - Aftergold feat. Tove Styrke [Official Music Video]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "nkziIXxfMrg" >}}
 </div> <!-- Song Information -->
 <div > <p>"Aftergold" by Big Wild, featuring Tove Styrke, is an energetic fusion of vapor soul and electropop. Released on March 25, 2016, under Foreign Family Collective, this 3:11-long track showcases Swedish synthpop influences with a refreshing, upbeat vibe.</p>
 </div> <!-- Footer Links -->

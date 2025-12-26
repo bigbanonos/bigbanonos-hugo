@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Love Buzz" by Shocking Blue. Released in 1969, this iconic track from *At Home* exemplifies the best of Nederpop and remains a cult classic. Watch the video below!</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d0000b27314644d2d7cf2d09bf288ffee" alt="Shocking Blue - Love Buzz" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="560" height="315" src="https://www.youtube.com/embed/2pLtWBSzB_4" frameborder="0" allowfullscreen></iframe>
+<div > {{< youtube "2pLtWBSzB_4" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Love Buzz"</em> by Shocking Blue, from their 1969 album *At Home*, is a Nederpop masterpiece that later inspired grunge icons like Nirvana. A must-listen for any music lover.</p>
 </div> <!-- Footer Links -->

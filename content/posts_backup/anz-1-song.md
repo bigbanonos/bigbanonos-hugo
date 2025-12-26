@@ -2,7 +2,7 @@
 title: "anz 1 song"
 layout: post
 ---
-<iframe frameborder="0" height="270" src="https://youtube.com/embed/E36658KPKac" width="480"></iframe><h2><ol><li>(ft. George Riley) You Could Be [2021]</li></ol></h2>
+{{< youtube "E36658KPKac" >}}<h2><ol><li>(ft. George Riley) You Could Be [2021]</li></ol></h2>
 
 <!--Subscribe and Playlist Links-->
 <div>

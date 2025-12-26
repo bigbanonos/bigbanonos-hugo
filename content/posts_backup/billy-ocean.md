@@ -4,9 +4,9 @@ layout: post
 ---
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Billy Ocean</h1> <!-- Featured Image -->
-<div > <img src="https://i.scdn.co/image/ab67616d0000b27389ec8c852dee33fe4b50bec5" alt="Billy Ocean">
+<div > {{< img-lite src="https://i.scdn.co/image/ab67616d0000b27389ec8c852dee33fe4b50bec5" alt="Billy Ocean" >}}
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/4T6xf6CRzICupnVW5G0VYC?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Introductory Text -->
 <p >Billy Oceanâ€™s smooth voice and infectious hits have earned him a place among R&B and pop royalty. From "Caribbean Queen" to "Nights (Feel Like Gettin' Down)," here are BigBanonos' top picks by the legendary artist.</p> <!-- Song Highlights -->
 <div > <p>BigBanonos' standout picks:</p> <ol> <li><strong>Caribbean Queen (No More Love On the Run)</strong> | <em>80 Totally 80s Hits</em> | Released: March 3, 2014 | Columbia/Legacy</li> <li><strong>Nights (Feel Like Gettin' Down)</strong> | <em>L.I.F.E. (Love Is For Ever)</em> | Released: 1997 | Jive</li> </ol>

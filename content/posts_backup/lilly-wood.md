@@ -7,7 +7,7 @@ layout: post
 <p >Updated May 16, 2014, with "Prayer in C (Robin Schulz Radio Edit)" by Lilly Wood and The Prick and Robin Schulz. This iconic remix combines French indie pop with deep house and tropical house vibes, creating an enduring EDM classic.</p> <!-- Featured Image -->
 <div > <img src="https://i.ytimg.com/vi/zsUxJD0p9EA/maxresdefault.jpg" alt="Lilly Wood & The Prick and Robin Schulz - Prayer in C (Robin Schulz Remix)" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/fiore9Z5iUg" title="Lilly Wood & The Prick and Robin Schulz - Prayer In C (Robin Schulz Remix) (Official)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "fiore9Z5iUg" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Prayer in C (Robin Schulz Radio Edit)"</em> by Lilly Wood and The Prick & Robin Schulz is a timeless track that masterfully blends French indie pop with the rhythmic pulse of EDM. Released under WM Germany, this remix gained worldwide acclaim for its deep euro house and tropical house elements.</p>
 </div> <!-- Footer Links -->

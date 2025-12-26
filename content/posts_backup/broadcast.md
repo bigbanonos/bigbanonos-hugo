@@ -3,7 +3,7 @@ title: "broadcast"
 layout: post
 ---
 #highlights <br />
-<iframe width="95%" height="315" src="https://www.youtube.com/embed/KzS9ybPMztY?list=PLtuNtuTatqI0WH1xeN3wX6K9aoyT3yuCu" frameborder="0" allowfullscreen></iframe> <br />
+{{< youtube "KzS9ybPMztY" >}} <br />
 Michael A Grammar 2005 <br />
 Tears In The Typing Pool 2006
 

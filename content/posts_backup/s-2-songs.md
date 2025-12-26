@@ -3,8 +3,8 @@ title: "s 2 songs"
 layout: post
 ---
 <h1>BigBanonos Top Songs by S</h1>
-<img src="https://t2.genius.com/unsafe/283x283/https%3A%2F%2Fimages.genius.com%2F93479e96c5e37708d91afb85b8d1c265.1000x1000x1.jpg" alt="S"> <p>S brings introspective, lo-fi indie sounds that capture raw emotion with a minimalist approach. Here are BigBanonos' top selections:</p> <ol> <li><strong>Away Around This</strong> | <em>I'm Not as Good at It as You</em> | Released: April 8, 2010 | Own Records</li> <li><strong>5 Dollars</strong> | <em>Slaying Since 1996</em> | Released: July 25, 2006 | Suicide Squeeze Records</li>
-</ol> <div> <iframe src="https://open.spotify.com/embed/playlist/5ehpkEnXR6BWa7pMBNBSMJ?utm_source=generator" width="100%" height="352" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+{{< img-lite src="https://t2.genius.com/unsafe/283x283/https%3A%2F%2Fimages.genius.com%2F93479e96c5e37708d91afb85b8d1c265.1000x1000x1.jpg" alt="S" >}} <p>S brings introspective, lo-fi indie sounds that capture raw emotion with a minimalist approach. Here are BigBanonos' top selections:</p> <ol> <li><strong>Away Around This</strong> | <em>I'm Not as Good at It as You</em> | Released: April 8, 2010 | Own Records</li> <li><strong>5 Dollars</strong> | <em>Slaying Since 1996</em> | Released: July 25, 2006 | Suicide Squeeze Records</li>
+</ol> <div> {{< youtube "embed" >}}
 </div> <p>first posted by <a href="https://bigbanonos.blogspot.com/">https://bigbanonos.blogspot.com/</a></p> <div> <p>Explore more BigBanonos content: <a href="https://bigbanonos.blogspot.com/">Website</a> | <a href="https://www.youtube.com/@BigBanonos">YouTube</a> | <a href="https://x.com/bigbanonos">Twitter</a></p>
 </div> <!-- Tags -->
 <p>@s</p>

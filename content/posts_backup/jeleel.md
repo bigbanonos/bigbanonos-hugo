@@ -7,7 +7,7 @@ layout: post
 <p >Updated August 4, 2023, with "WAHALA!" from <em>WAHALA!</em>. Feel the high-energy rage rap of JELEEL! in the playlist below!</p> <!-- Featured Image -->
 <div > <img src="https://townsquare.media/site/812/files/2023/02/attachment-jeleel-header.jpg?w=1200&h=0&zc=1&s=0&a=t&q=89" alt="JELEEL!" />
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/6gWQmz7DhtExjxd06ww0fq?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <div > <p><strong>"WAHALA!"</strong><br> Genre: Hip Hop<br> Album: <em>WAHALA!</em><br> Release Date: August 4, 2023<br> Label: 10K Projects</p> <p><strong>"HANDS UP!"</strong><br> Genre: Hip Hop<br> Album: <em>HANDS UP!</em><br> Release Date: July 4, 2023<br> Label: 10K Projects</p>
 </div> <!-- Footer Links -->

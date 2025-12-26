@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Strychnine" by Sonics. This 1965 garage rock anthem delivers unrelenting energy and raw power. Watch the video below!</p> <!-- Featured Image -->
 <div > <img src="https://upload.wikimedia.org/wikipedia/en/7/7d/Herearethesonics.jpg" alt="Sonics - Strychnine" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="733" height="480" src="https://www.youtube.com/embed/YXtuKsbORVY" frameborder="0" allowfullscreen></iframe>
+<div > {{< youtube "YXtuKsbORVY" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Strychnine"</em> by the Sonics, from their iconic album *Here Are the Sonics*, epitomizes the spirit of 1960s garage rock and protopunk.</p>
 </div> <!-- Footer Links -->

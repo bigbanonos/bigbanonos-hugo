@@ -3,8 +3,8 @@ title: "snail mail 3 songs"
 layout: post
 ---
 <h1>BigBanonos Top Songs by Snail Mail</h1>
-<img src="https://www.rollingstone.com/wp-content/uploads/2021/10/Snail_Mail_for_Rolling_Stone_JosefinaSantos_Online1WEB.jpg" alt="Snail Mail"> <p>Snail Mail brings introspective lyrics with indie pop sensibilities. Here are BigBanonos' favorites:</p> <ol> <li><strong>Easy Thing</strong> | <em>Easy Thing</em> | Released: 2023-09-13 | Matador</li> <li><strong>Heat Wave</strong> | <em>Lush</em> | Released: 2018-06-08 | Matador</li> <li><strong>Thinning</strong> | <em>Habit - EP</em> | Released: 2016-07-15 | Sister Polygon Records</li>
-</ol> <div> <iframe src="https://open.spotify.com/embed/playlist/1keAleGFLKSmRna3ZHlb6S?utm_source=generator" width="100%" height="352" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+{{< img-lite src="https://www.rollingstone.com/wp-content/uploads/2021/10/Snail_Mail_for_Rolling_Stone_JosefinaSantos_Online1WEB.jpg" alt="Snail Mail" >}} <p>Snail Mail brings introspective lyrics with indie pop sensibilities. Here are BigBanonos' favorites:</p> <ol> <li><strong>Easy Thing</strong> | <em>Easy Thing</em> | Released: 2023-09-13 | Matador</li> <li><strong>Heat Wave</strong> | <em>Lush</em> | Released: 2018-06-08 | Matador</li> <li><strong>Thinning</strong> | <em>Habit - EP</em> | Released: 2016-07-15 | Sister Polygon Records</li>
+</ol> <div> {{< youtube "embed" >}}
 </div>
 <p>Tags: @snailmail</p>
 

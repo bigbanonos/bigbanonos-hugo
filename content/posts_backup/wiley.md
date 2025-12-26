@@ -5,11 +5,11 @@ layout: post
 <div class="post-title"> <h1>BigBanonos' Favorite Songs by Wiley</h1>
 </div>
 <p>Updated June 22, 2020, with "Givenchy Bag" from the album <i>Boasty Gang - The Album</i>, highlighted in the playlist below:</p>
-<div class="post-image"> <img src="https://ninjatune.net/images/artists/wiley-main.jpg" alt="Wiley Album Cover">
+<div class="post-image"> {{< img-lite src="https://ninjatune.net/images/artists/wiley-main.jpg" alt="Wiley Album Cover" >}}
 </div>
 <p>Wiley, often referred to as the Godfather of Grime, continues to influence the UK music scene with his groundbreaking tracks. Songs like "Givenchy Bag" and "My One" showcase his ability to blend grime, dancehall, and hip hop into electrifying anthems. His collaborations with Kranium, Tory Lanez, and Dappy highlight his global appeal and versatility.</p>
 <p>Listen to the playlist below to experience these tracks and more:</p>
-<div class="spotify-embed"> <iframe src="https://open.spotify.com/embed/playlist/3iGKGaT3jdseZaZ0tcDAAl?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div class="spotify-embed"> {{< youtube "embed" >}}
 </div>
 <p>Tracks featured:</p>
 <ul> <li>"Givenchy Bag" â€“ <i>Boasty Gang - The Album</i> (June 22, 2020, Independent)</li> <li>"My One" (feat. Tory Lanez, Kranium & Dappy) â€“ <i>My One</i> (July 5, 2019, Relentless Records)</li>

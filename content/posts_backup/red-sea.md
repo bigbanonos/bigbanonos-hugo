@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Steam" by Red Sea, from the album *Sugar & Spice*, released on February 22, 2019, by Truly Bald.</p> <!-- Featured Image -->
 <div > <img src="https://shared.cloudflare.steamstatic.com/store_item_assets/steam/apps/2192330/header.jpg?t=1705597421" alt="Red Sea - Steam" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="601" src="https://www.youtube.com/embed/7mMPWlDMfyk" title="Steam" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "7mMPWlDMfyk" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Steam"</em> by Red Sea is a track from the *Sugar & Spice* album, released on February 22, 2019. The song blends experimental indie rock and indie folk with an Atlanta touch, creating a unique and atmospheric vibe.</p>
 </div> <!-- Footer Links -->

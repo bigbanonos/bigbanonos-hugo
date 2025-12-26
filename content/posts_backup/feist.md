@@ -6,7 +6,7 @@ layout: post
 </div> <p><em>BigBanonos</em> celebrates Feistâ€™s unique blend of indie pop and chamber pop, highlighting her most iconic and heartfelt tracks.</p> <h3>Selected Tracks</h3>
 <ol> <li><strong>1 2 3 4</strong> â€“ <em>The Reminder</em> (2007)</li> <li><strong>Mushaboom</strong> â€“ <em>Let It Die</em> (2004)</li> <li><strong>My Moon, My Man</strong> â€“ <em>The Reminder</em> (2007)</li> <li><strong>One Evening</strong> â€“ <em>Let It Die</em> (2004)</li> <li><strong>I Feel It All</strong> â€“ <em>The Reminder</em> (2007)</li> <li><strong>Mushaboom</strong> â€“ <em>Original Release</em> (2003)</li>
 </ol> <p>Feist Playlist:</p>
-<iframe src="https://open.spotify.com/embed/playlist/6PhyKzVr2DTsMj7sEjOpHK?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> <h3>Tags</h3>
+{{< youtube "embed" >}} <h3>Tags</h3>
 <p>@feist</p> <hr />
 <p><em>First posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
 

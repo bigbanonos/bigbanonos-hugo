@@ -7,7 +7,7 @@ layout: post
 <p >Updated in 2005 with "Schrapnell" by IsolÃƒÆ’Ã‚Â©e, a masterful blend of German electronica, microhouse, and minimal techno from the album <em>We Are Monster</em>, released under Pampa Records.</p> <!-- Featured Image -->
 <div > <img src="https://static.ra.co/images/news/2023/isolee.jpg" alt="IsolÃƒÆ’Ã‚Â©e - Schrapnell" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/mBfhQisZDpg" title="IsolÃƒÆ’Ã‚Â©e - Schrapnell" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "mBfhQisZDpg" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Schrapnell"</em> is a defining track in the realm of minimal techno and intelligent dance music. IsolÃƒÆ’Ã‚Â©e's innovative soundscape, released in 2005, continues to influence the electronic music scene.</p>
 </div> <!-- Footer Links -->

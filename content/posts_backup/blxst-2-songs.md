@@ -4,7 +4,7 @@ layout: post
 ---
 <h2>BigBanonos' Favorite Songs by Blxst</h2> <!--Search Description-->
 <p>BigBanonos' favorite picks by Blxst showcase the best of pop rap and West Coast flow with a unique Cali vibe. Enjoy the playlist below, and be sure to check out the songs featuring Blxst from the great American Songbook from <a href="https://bigbanonos.blogspot.com/2019/10/burna-boy.html">BigBanonos' favorite Burna Boy songs</a>, BigBanonos <a href="https://bigbanonos.blogspot.com/2024/08/killer-mike-22-songs.html" target="_blank">22 favorite songs from Killer Mike</a>, and <a href="https://bigbanonos.blogspot.com/2024/05/kendrick-lamar-16-songs.html" target="_blank">BigBanonos favorite songs by Kendrick Lamar</a></p> <!--Spotify Playlist Embed-->
-<iframe allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" allowfullscreen="" frameborder="0" height="352" loading="lazy" src="https://open.spotify.com/embed/playlist/7aKenTZ6RUcxxaH68toH8A?utm_source=generator" width="100%"></iframe> <!--Song Listings-->
+{{< youtube "embed" >}} <!--Song Listings-->
 <ul> <li>Keep Calling (feat. Larry June) - <em>Keep Calling</em> (Red Bull Records Inc/Evgle LLC, 2022-12-09)</li> <li>Chosen (feat. Tyga & Ty Dolla $ign) - <em>No Love Lost (Deluxe)</em> (Red Bull Records Inc. / Evgle LLC, 2020-12-04)</li>
 </ul> <!--Image Placeholder for Blxst-->
 <img alt="Blxst Image" src="https://s1.ticketm.net/dam/a/4c6/8ddb9396-895d-4184-a632-b194cbe454c6_RETINA_PORTRAIT_3_2.jpg" width="100%" /> <!--Tags Section-->

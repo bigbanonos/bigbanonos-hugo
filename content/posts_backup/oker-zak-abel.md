@@ -7,7 +7,7 @@ layout: post
 <p >Updated February 16, 2015, with "Wise Enough" by Joker & Zak Abel. This track from *The Mainframe* seamlessly blends electronic, R&B, and pop influences, featuring Zak Abel's soulful vocals paired with Joker's innovative dubstep production. Itâ€™s a bold exploration of the wonky and contemporary sounds that are making waves in the UK music scene.</p> <!-- Featured Image -->
 <div > <img src="https://conversationsabouther.net/wp-content/uploads/2015/01/Joker-.jpg" alt="Joker & Zak Abel - Wise Enough" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/Tq56g5lTg_w" title="Zak Abel & Joker - Wise Enough [Official Video]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "Tq56g5lTg_w" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Wise Enough"</em> is a testament to the powerful fusion of dubstep, R&B, and pop, bringing together the experimental sounds of Joker with the emotive delivery of Zak Abel. Released as part of *The Mainframe*, the track continues to highlight Joker's unique production style and Zak Abel's soulful vocal ability, cementing their place in the UK electronic and R&B scene.</p>
 </div> <!-- Footer Links -->

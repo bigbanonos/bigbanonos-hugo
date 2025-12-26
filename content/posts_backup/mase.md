@@ -7,7 +7,7 @@ layout: post
 <p >Updated April 20, 2005, with "Welcome Back" by Mase. This upbeat track from the album <em>Welcome Back</em>, released under Bad Boy Records, seamlessly blends hip hop and R&B influences with a playful nod to the classic theme from <em>The Welcome Back, Kotter</em> show.</p> <!-- Featured Image -->
 <div > <img src="https://upload.wikimedia.org/wikipedia/en/0/01/Mase_-_Welcome_Back_single.jpg" alt="Mase - Welcome Back" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/vNey0PR46F4" title="Mase - Welcome Back (Official Music Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "vNey0PR46F4" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Welcome Back"</em> by Mase is a feel-good anthem that reintroduces his signature style with an infectious beat and nostalgic charm. From the album <em>Welcome Back</em>, this track perfectly balances contemporary R&B and hip hop vibes, making it a standout in urban contemporary music.</p>
 </div> <!-- Footer Links -->

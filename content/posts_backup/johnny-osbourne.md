@@ -7,7 +7,7 @@ layout: post
 <p >Updated April 22, 2010, with "Mushroom" by Johnny Osbourne. This track is an iconic hit from *Hi Grade Ganja Anthems Vol. 2*, a compilation that blends the best of reggae, dub, and lovers rock, bringing a timeless classic that embodies the spirit of old school dancehall.</p> <!-- Featured Image -->
 <div > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Johnny_Osbourne_Live_in_Brussels%2C_Belgium%2C_2023.jpg/1200px-Johnny_Osbourne_Live_in_Brussels%2C_Belgium%2C_2023.jpg" alt="Johnny Osbourne - Mushroom" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/ivKXRknd5IE" title="Johnny Osbourne - Mushroom" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "ivKXRknd5IE" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Mushroom"</em> by Johnny Osbourne is a standout track from the *Hi Grade Ganja Anthems Vol. 2* album. A perfect blend of dub and lovers rock, itâ€™s one of the most iconic songs of the reggae and dancehall scene, offering a deep groove that reflects Osbourne's roots in rocksteady and roots reggae.</p>
 </div> <!-- Footer Links -->

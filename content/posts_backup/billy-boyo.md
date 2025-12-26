@@ -7,7 +7,7 @@ layout: post
 <p >Updated April 22, 2010, with BigBanonos' favorite song by Billy Boyo, "One Spliff A Day." Featured on *Hi Grade Ganja Anthems Vol. 2* and released under Greensleeves Records, this track is a classic in the old school dancehall scene. Watch the video and see more details below:</p> <!-- Featured Image -->
 <div > <img src="https://lionafriqradio.com/wp-content/uploads/2020/10/Billy-Boyo.jpg" alt="Billy Boyo - One Spliff A Day" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/tEJ6JVBUBmk" title="Billy Boyo-One Spliff A Day" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "tEJ6JVBUBmk" >}}
 </div> <!-- Song Information -->
 <div > <p>"One Spliff A Day" by Billy Boyo is an iconic track that embodies the essence of old school dancehall. Released on April 22, 2010, as part of *Hi Grade Ganja Anthems Vol. 2* under Greensleeves Records, this 5:37-long song is a reggae classic loved by fans worldwide.</p>
 </div> <!-- Footer Links -->

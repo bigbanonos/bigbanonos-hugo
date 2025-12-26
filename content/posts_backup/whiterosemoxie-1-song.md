@@ -2,7 +2,7 @@
 title: "whiterosemoxie 1 song"
 layout: post
 ---
-<iframe frameborder="0" height="270" src="https://youtube.com/embed/82BoUSAaImQ" width="480"></iframe><br /><h2><ol><li>(ft. Baby Smoove) trix [Remix] [2020]</li></ol></h2>
+{{< youtube "82BoUSAaImQ" >}}<br /><h2><ol><li>(ft. Baby Smoove) trix [Remix] [2020]</li></ol></h2>
 
 <!--Subscribe and Playlist Links-->
 <div>

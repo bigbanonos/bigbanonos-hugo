@@ -7,7 +7,7 @@ layout: post
 <p >Updated with *Bae Sick*, a standout track from *Urallpoor.us* by The Moon Baby, featuring the enigmatic Wise Blood. Released in 2019, this song blends dreamy indie pop and experimental soundscapes to create a captivating track that speaks to the contemporary cultural mood. Check it out below!</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d00001e02412cce08847500f2510a090d" alt="The Moon Baby, Wise Blood - Bae Sick" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="617" src="https://www.youtube.com/embed/-XlGWaw_7vs" title="Bae Sick" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "-XlGWaw_7vs" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Bae Sick"</em> showcases The Moon Baby's unique approach to modern pop, with Wise Blood adding a layer of mystique. The track represents a fusion of raw emotions and experimental melodies, creating a vibe that resonates deeply with listeners.</p>
 </div> <!-- Footer Links -->

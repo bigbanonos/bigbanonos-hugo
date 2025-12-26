@@ -2,7 +2,7 @@
 title: "no rome 1 song"
 layout: post
 ---
-<iframe frameborder="0" height="270" src="https://youtube.com/embed/BoZpmRedKPQ" width="480"></iframe><br /><h2><ol><li>(ft Charli XCX & The 1975) Spinning (A. G. Cook Remix) [2021]</li></ol></h2>
+{{< youtube "BoZpmRedKPQ" >}}<br /><h2><ol><li>(ft Charli XCX & The 1975) Spinning (A. G. Cook Remix) [2021]</li></ol></h2>
 
 <!--Subscribe and Playlist Links-->
 <div>

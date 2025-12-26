@@ -7,7 +7,7 @@ layout: post
 <p >Updated with *Whatever It Takes*, a soulful blues track from The James Hunter Six. This gem, released on February 2, 2018, is featured on their album *Whatever It Takes* under Daptone Records. Known for their British blues sound, this song blends powerful vocals with timeless rhythm and blues.</p> <!-- Featured Image -->
 <div > <img src="https://m.media-amazon.com/images/I/71LP9jrM3WL.jpg" alt="The James Hunter Six - Whatever It Takes" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/ZW2g2HKI6Eg" title="The James Hunter Six 'Whatever It Takes' (Official Audio)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "ZW2g2HKI6Eg" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Whatever It Takes"</em> by The James Hunter Six is a soulful track that channels the British blues tradition, with its smooth groove and heartfelt vocals. Featured on their 2018 album, this song showcases their unique ability to blend rhythm and blues with classic influences.</p>
 </div> <!-- Footer Links -->

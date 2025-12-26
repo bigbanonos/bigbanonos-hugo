@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Candy Girl" by Soviet. This 2001 synth-infused indie track will transport you to another era. Watch the video below!</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d00001e02379cc89623c3d5e086858246" alt="Soviet - Candy Girl" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="733" height="480" src="https://www.youtube.com/embed/wk2IKk4njVM" frameborder="0" allowfullscreen></iframe>
+<div > {{< youtube "wk2IKk4njVM" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Candy Girl"</em> is a standout track from Sovietâ€™s album *We Are Eyes, We Are Builders*, a mix of synthpop and indie flair from 2001.</p>
 </div> <!-- Footer Links -->

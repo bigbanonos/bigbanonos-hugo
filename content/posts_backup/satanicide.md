@@ -3,9 +3,9 @@ title: "satanicide"
 layout: post
 ---
 <h2>Satanicide</h2>
-<img src="https://i.ytimg.com/vi/-UK6kyRew-o/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAUa0BTRE-89Kzd_aYbGsq5Em0zbQ" alt="Satanicide">
+{{< img-lite src="https://i.ytimg.com/vi/-UK6kyRew-o/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAUa0BTRE-89Kzd_aYbGsq5Em0zbQ" alt="Satanicide" >}}
 <p><strong>Heather</strong></p>
-<iframe width="1013" height="570" src="https://www.youtube.com/embed/-UK6kyRew-o" title="SATANICIDE \"Heather\" - Band Performs Love Song About Slut & Almost Kill Their Drummer Doing It!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+{{< youtube "-UK6kyRew-o" >}}
 <p>first posted by <a href="https://bigbanonos.blogspot.com/">https://bigbanonos.blogspot.com/</a></p> <div> <p>Explore more BigBanonos content: <a href="https://bigbanonos.blogspot.com/">Website</a> | <a href="https://www.youtube.com/@BigBanonos">YouTube</a> | <a href="https://x.com/bigbanonos">Twitter</a></p>
 </div>
 

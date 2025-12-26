@@ -7,7 +7,7 @@ layout: post
 <p >Updated January 1, 1980, with "There But For The Grace Of God Go I" by Machine. This timeless deep disco track combines soulful grooves with sharp social commentary, solidifying its place as a dance floor classic. Watch the video below!</p> <!-- Featured Image -->
 <div > <img src="https://i.discogs.com/N8r1EPhy5UUh4fD9skCYlDawaAIoPs8Dqx2qpsDh_Ws/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5MzA4/LTE1NTE2NTYyNjIt/Mjk5MC5qcGVn.jpeg" alt="Machine - There But For The Grace Of God Go I" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="733" height="480" src="https://www.youtube.com/embed/YGBDAxCDLs4" title="Machine - There But for the Grace of God Go I (Original Version)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "YGBDAxCDLs4" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"There But For The Grace Of God Go I"</em>, originally released in 1979 and remixed in 1980 by UNIDISC MUSIC INC., is a standout deep disco anthem. With its soulful beats and powerful lyrics addressing societal issues, the track remains a beloved gem in both R&B and electronic music circles.</p>
 </div> <!-- Footer Links -->

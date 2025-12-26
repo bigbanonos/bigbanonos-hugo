@@ -7,7 +7,7 @@ layout: post
 <p >Updated November 8, 2019, with "West Coast Love" by Emotional Oranges. A smooth indie R&B anthem from their album *The Juice: Vol. II*.</p> <!-- Featured Image -->
 <div > <img src="https://i.ytimg.com/vi/IlkG7Zo5SwA/maxresdefault.jpg" alt="Emotional Oranges - West Coast Love" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/IlkG7Zo5SwA" title="Emotional Oranges - West Coast Love (Lyric Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "IlkG7Zo5SwA" >}}
 </div> <!-- Song Information -->
 <div > <p>"West Coast Love" delivers Emotional Oranges' signature vibe, blending smooth vocals and laid-back production that captures the essence of indie R&B.</p>
 </div> <!-- Footer Links -->

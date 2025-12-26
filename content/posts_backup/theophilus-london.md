@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Only You" by Theophilus London featuring Tame Impala, from the single *Only You*, released on October 31, 2018. This track mixes alternative hip hop with neo-psychedelic and modern rock, delivering a smooth yet captivating vibe.</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d0000b273b292341cb045b303820d5dcd" alt="Theophilus London, Tame Impala - Only You" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/DTR47fI0IKw" title="THEOPHILUS LONDON "ONLY YOU" feat TAME IMPALA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "DTR47fI0IKw" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Only You"</em> by Theophilus London featuring Tame Impala brings together alternative hip hop with Australian psych and neo-psychedelic rock, creating a dreamy, atmospheric soundscape.</p>
 </div> <!-- Footer Links -->

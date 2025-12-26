@@ -7,7 +7,7 @@ layout: post
 <p >Updated March 7, 2011, with "I'll Remember Jimmy" by Miss Cathy Brasher. This nostalgic track from the single <em>Too Late To Be Lovers / I'll Remember Jimmy</em>, released under K-Tel, captures the soulful sentiments of 1964, beautifully expressing themes of love and remembrance.</p> <!-- Featured Image -->
 <div > <img src="https://i.ytimg.com/vi/P4_GZabTkeY/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGHIgRShHMA8=&rs=AOn4CLDpwn4l1wzMyouq7WmzHelUUKUg_Q" alt="Miss Cathy Brasher - I'll Remember Jimmy" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="514" src="https://www.youtube.com/embed/l8WwfoaRSZ8" title="Miss Cathy Brasher - I'll Remember Jimmy (1964)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "l8WwfoaRSZ8" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"I'll Remember Jimmy"</em> by Miss Cathy Brasher is a heartfelt song that blends 1960s pop and soulful sentimentality. Featured on the single <em>Too Late To Be Lovers / I'll Remember Jimmy</em>, this track offers a timeless reflection on love and memory.</p>
 </div> <!-- Footer Links -->

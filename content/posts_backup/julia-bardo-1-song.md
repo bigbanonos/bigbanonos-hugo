@@ -2,7 +2,7 @@
 title: "julia bardo 1 song"
 layout: post
 ---
-<iframe allowfullscreen="" frameborder="0" height="270" src="https://www.youtube.com/embed/ZNdzhKJYyto" width="480"></iframe><br /><br />
+{{< youtube "ZNdzhKJYyto" >}}<br /><br />
 <h3><ol><li>Please Don't Tell Me [2020]</li>
 </ol></h3>
 

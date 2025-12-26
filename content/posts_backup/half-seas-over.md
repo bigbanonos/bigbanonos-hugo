@@ -7,7 +7,7 @@ layout: post
 <p >Updated January 1, 2002, with "Skool Spirit" by Half Seas Over. This track captures the bandâ€™s unique blend of indie rock and introspective storytelling, making it a standout of the early 2000s. Watch the video below!</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d0000b2730e481cba7998848aa280da8e" alt="Half Seas Over - Skool Spirit" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="755" height="618" src="https://www.youtube.com/embed/NtGULjd9opA" title="Half-Seas-Over - "Skool Spirit" Music Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "NtGULjd9opA" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Skool Spirit"</em>, released in 2002, showcases Half Seas Over's talent for crafting dynamic and introspective music. Its engaging lyrics and compelling arrangement make it a must-listen for fans of indie and alternative rock. Check out the official video <a href="https://youtu.be/NtGULjd9opA" target="_blank">here</a>.</p>
 </div> <!-- Footer Links -->

@@ -2,7 +2,7 @@
 title: "samia 1 song"
 layout: post
 ---
-<iframe frameborder="0" height="270" src="https://youtube.com/embed/WF7j73i0xUA" width="480"></iframe><h2><ol><li>As You Are [2021]</li></ol></h2>
+{{< youtube "WF7j73i0xUA" >}}<h2><ol><li>As You Are [2021]</li></ol></h2>
 
 <!--Subscribe and Playlist Links-->
 <div>

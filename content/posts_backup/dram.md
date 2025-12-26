@@ -4,7 +4,7 @@ layout: post
 ---
 <h4>Updated September 28, 2024 with "Blue Hunnids" (ft. Ellis Quinn & Guapdad 4000)</h4>
 <br />
-<iframe src="https://open.spotify.com/embed/playlist/2DYga0sXuFC49X8H1qCRHw?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+{{< youtube "embed" >}}
 <div>Blue Hunnids [2024]</div><div>Broccoli</div><div>$ (ft. Donnie Trumpet)</div><div>The Lay Down (ft. H.E.R. & WATT)</div><div>'93 Acura Vigor with Erykah Badu</div><div>Ride Or Die</div><div>
 Cha Cha [2015]</div><div><br /></div><div class="separator" ><a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaC5uWv3oNDH8R1h-XxjTvwBHEKqXR-pL0UA&s" imageanchor="1"><img border="0" data-original-height="251" data-original-width="201" height="251" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaC5uWv3oNDH8R1h-XxjTvwBHEKqXR-pL0UA&s" width="201" /></a></div><br /><div><br /></div>
 

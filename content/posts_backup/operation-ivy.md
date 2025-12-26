@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Take Warning" by Operation Ivy. A timeless hardcore punk anthem from their self-titled album, blending ska punk influences with the rebellious energy of skate punk.</p> <!-- Featured Image -->
 <div > <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Opivy2.jpg" alt="Operation Ivy - Take Warning" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="514" src="https://www.youtube.com/embed/YyUwEAVEJJ4" title="Take Warning - OPERATION IVY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "YyUwEAVEJJ4" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Take Warning"</em> is one of the standout tracks from Operation Ivy's 1989 album, a defining moment in the hardcore punk and ska punk scene.</p>
 </div> <!-- Footer Links -->

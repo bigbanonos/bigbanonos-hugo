@@ -7,7 +7,7 @@ layout: post
 <p >Updated with *It Starts and Ends With You*, a track from The London Suede's 2013 album *Bloodsports*. This song exemplifies the band's signature blend of Britpop and glam rock. Released on March 19, 2013, by Suede Ltd, it is a powerful anthem for fans of the band, showcasing their unique sound and influence in the UK music scene.</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d0000b2732e6ae364c26e2d0865cb2195" alt="The London Suede - It Starts and Ends With You" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/OJIHBmH-11g" title="Suede - It Starts And Ends With You (Official HD Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "OJIHBmH-11g" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"It Starts and Ends With You"</em> is a standout track from *Bloodsports*, a return to form for The London Suede. This song blends Britpop with glam rock influences, creating an infectious melody that captures the band's timeless energy and style.</p>
 </div> <!-- Footer Links -->

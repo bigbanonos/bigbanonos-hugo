@@ -5,11 +5,11 @@ layout: post
 <div class="post-title"> <h1>BigBanonos' Favorite Songs by YACHT</h1>
 </div>
 <p>Updated May 20, 2010, with "Psychic City - Classixx Remix," highlighted in the playlist below:</p>
-<div class="post-image"> <img src="https://jonabechtolt.com/Jona-Bechtolt-Michael-Raines-2024.jpg" alt="YACHT Album Cover">
+<div class="post-image"> {{< img-lite src="https://jonabechtolt.com/Jona-Bechtolt-Michael-Raines-2024.jpg" alt="YACHT Album Cover" >}}
 </div>
 <p>YACHTâ€™s eclectic mix of dance-punk, indietronica, and neo-synthpop brings a futuristic and playful energy to their music. Tracks like "Psychic City" and its Classixx Remix are prime examples of their innovative sound. With catchy melodies and infectious beats, YACHT continues to push boundaries in electronic and pop music.</p>
 <p>Listen to the playlist below to experience these tracks and more:</p>
-<div class="spotify-embed"> <iframe src="https://open.spotify.com/embed/playlist/0ozv82ZScvl9SnhUmcmjTa?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div class="spotify-embed"> {{< youtube "embed" >}}
 </div>
 <p>Tracks featured:</p>
 <ul> <li>"Psychic City - Classixx Remix" â€“ <i>Psychic City</i> (May 20, 2010, DFA Records)</li> <li>"I Wanna Fuck You Till I'm Dead" â€“ <i>I Thought the Future Would Be Cooler</i> (October 16, 2015, Downtown Records)</li> <li>"Don't Be Rude" â€“ <i>I Thought the Future Would Be Cooler</i> (October 16, 2015, Downtown Records)</li>

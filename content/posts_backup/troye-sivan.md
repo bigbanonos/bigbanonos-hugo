@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "My My My!" by Troye Sivan, from the album *My My My!*, released on January 11, 2018, by Universal Music Group. This electrifying pop anthem showcases Troye's ability to blend emotional depth with an infectious melody.</p> <!-- Featured Image -->
 <div > <img src="https://www.rollingstone.com/wp-content/uploads/2018/07/troye-sivan-from-1318.jpg?w=1581&h=1054&crop=1" alt="Troye Sivan - My My My!" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/k5TqNsr6YuQ" title="Troye Sivan - My My My!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "k5TqNsr6YuQ" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"My My My!"</em> by Troye Sivan is an infectious pop anthem from the album *My My My!*, released on January 11, 2018. The song features a fusion of Australian pop and viral pop elements, delivering a high-energy experience with emotional depth.</p>
 </div> <!-- Footer Links -->

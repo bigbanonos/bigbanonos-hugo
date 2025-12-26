@@ -4,10 +4,10 @@ layout: post
 ---
 <h2>BigBanonos' Favorite Songs by Colleen Green</h2> <!-- Search Description -->
 <p>BigBanonos' top Colleen Green tracks, celebrating her unique style in bubblegrunge, indie punk, and popgaze genres.</p> <!-- Spotify Playlist Embed -->
-<iframe src="https://open.spotify.com/embed/playlist/4gdfF6CyFuBxF93kf9mAOE?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> <!-- Song Listings -->
+{{< youtube "embed" >}} <!-- Song Listings -->
 <ul> <li><strong>It's Nice to Be Nice</strong> - <em>It's Nice to Be Nice</em> - 2021-07-19 - Hardly Art</li> <li><strong>I Wanna Be a Dog</strong> - <em>I Wanna Be a Dog</em> - 2021-06-23 - Hardly Art</li> <li><strong>Wild One</strong> - <em>I Want to Grow Up</em> - 2015-02-24 - Hardly Art</li> <li><strong>Whatever I Want</strong> - <em>I Want to Grow Up</em> - 2015-02-24 - Hardly Art</li> <li><strong>Only One</strong> - <em>Sock it to Me</em> - 2013-03-19 - Hardly Art</li>
 </ul> <!-- Image -->
-<img src="https://s9.limitedrun.com/images/1309136/colleen_cover.jpg" alt="Colleen Green">
+{{< img-lite src="https://s9.limitedrun.com/images/1309136/colleen_cover.jpg" alt="Colleen Green" >}}
 
 
 <!--Subscribe and Playlist Links-->

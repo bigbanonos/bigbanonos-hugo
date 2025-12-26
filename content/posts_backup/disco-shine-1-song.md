@@ -4,7 +4,7 @@ layout: post
 ---
 <div class="separator" >
 <a href="https://www.ladygunn.com/wp-content/uploads/2019/11/Music-Vid13.jpg" imageanchor="1"><img border="0" data-original-height="534" data-original-width="800" height="267" src="https://www.ladygunn.com/wp-content/uploads/2019/11/Music-Vid13.jpg" width="400" /></a></div>
-<iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/videoseries?list=PLtuNtuTatqI3Q4WuavBThta4q9k7NmKMQ" width="560"></iframe> <h3>
+{{< youtube "videoseries" >}} <h3>
 <ol>
 <li>(ft. Magadela Bay) Power [2019]</li>
 </ol>

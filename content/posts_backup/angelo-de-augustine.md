@@ -7,7 +7,7 @@ layout: post
 <p >Updated October 16, 2018, with BigBanonos' favorite song by Angelo De Augustine, "Time," released under Asthmatic Kitty. Watch the video and see more details below:</p> <!-- Featured Image -->
 <div > <img src="https://assets.vogue.com/photos/5891f9c97caf41c472cb5e8e/master/w_2560%2Cc_limit/holding-angelo-de-augustine-premiere.jpg" alt="Angelo De Augustine - Time" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/2JlFauSqXPo" title="Angelo De Augustine - Time" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "2JlFauSqXPo" >}}
 </div> <!-- Song Information -->
 <div > <p>"Time" by Angelo De Augustine is a hauntingly introspective track featuring his delicate vocals and small room acoustics. Released on October 16, 2018, under Asthmatic Kitty, the song showcases his minimalist yet deeply emotional approach to music.</p>
 </div> <!-- Footer Links -->

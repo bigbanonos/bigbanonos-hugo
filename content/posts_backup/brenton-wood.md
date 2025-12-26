@@ -4,9 +4,9 @@ layout: post
 ---
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Brenton Wood</h1> <!-- Featured Image -->
-<div > <img src="https://i.scdn.co/image/ab67616d0000b273af82af61a16d677bf22f37a1" alt="Brenton Wood">
+<div > {{< img-lite src="https://i.scdn.co/image/ab67616d0000b273af82af61a16d677bf22f37a1" alt="Brenton Wood" >}}
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/21gQVLqka64kas1st6HoqH?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Introductory Text -->
 <p >Brenton Wood's soulful classics like "Oogum Boogum Song" and "Gimme Little Sign" have stood the test of time. Here are BigBanonos' favorite tracks from this iconic artist.</p> <!-- Song Highlights -->
 <div > <p>BigBanonos' standout picks:</p> <ol> <li><strong>Oogum Boogum Song</strong> | <em>Oogum Boogum</em> | Released: January 1, 1967 | The Bicycle Music Company</li> <li><strong>Gimme Little Sign</strong> | <em>Oogum Boogum</em> | Released: January 1, 1967 | The Bicycle Music Company</li> </ol>

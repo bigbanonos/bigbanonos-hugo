@@ -2,7 +2,7 @@
 title: "baby youngin you knew ft jeremih"
 layout: post
 ---
-<iframe width="480" height="360" src="https://youtube.com/embed/A5uwX7oy5Vs?si=1zpueyD28s4hZbm1" frameborder="0"></iframe>
+{{< youtube "A5uwX7oy5Vs" >}}
 
 <!--Subscribe and Playlist Links-->
 <div>

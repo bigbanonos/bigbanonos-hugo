@@ -4,10 +4,10 @@ layout: post
 ---
 <h3>BigBanonos: 2 Favorite Songs by Ottilie Wallace</h3> <div class="separator" > <a href="https://images.genius.com/e9c20f129cefc661426b59e64bbaa93d.1000x1000x1.jpg"> <img alt="Ottilie Wallace" border="0" height="350" src="https://images.genius.com/e9c20f129cefc661426b59e64bbaa93d.1000x1000x1.jpg" /> </a>
 </div> <p>BigBanonos highlights two favorite songs by Ottilie Wallace, featuring her distinctive style and emotional resonance. The best version of her artistry can be found on this <a href="https://www.instagram.com/p/DA_yc7KOBT7/"><b><i>Instagram Story</i></b></a>.</p> <h3>Top Tracks:</h3> <h4>"Song 1"</h4>
-<iframe frameborder="0" height="360" src="https://youtube.com/embed/le7JNoQlnBY?si=k0vDh6aS9iJOGEeS" width="480"></iframe> <h4>"Song 2"</h4>
-<iframe frameborder="0" height="360" src="https://www.youtube.com/embed/iDMZNiFVG_U?si=MBWkhVLruJHDhTmR" width="480"></iframe> <h3>Playlist:</h3>
-<iframe src="https://open.spotify.com/embed/playlist/3aE2Aus3Ta5lzG1OELRgfd?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> <h4>Bonus Video: "Gaslighter"</h4>
-<iframe width="1013" height="618" src="https://www.youtube.com/embed/WF0lOtmKVGo" title="Gaslighter" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> <hr />
+{{< youtube "le7JNoQlnBY" >}} <h4>"Song 2"</h4>
+{{< youtube "iDMZNiFVG_U" >}} <h3>Playlist:</h3>
+{{< youtube "embed" >}} <h4>Bonus Video: "Gaslighter"</h4>
+{{< youtube "WF0lOtmKVGo" >}} <hr />
 <p>For more updates, visit <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">BigBanonos</a>. Also, check out our <a href="https://www.youtube.com/@BigBanonos" rel="noopener" target="_new">YouTube</a> and <a href="https://x.com/bigbanonos" rel="noopener" target="_new">X/Twitter</a> channels for more exclusive content!</p>
 
 

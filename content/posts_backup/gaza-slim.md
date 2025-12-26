@@ -5,9 +5,9 @@ layout: post
 <!-- Title of the Post -->
 <h1>BigBanonos' Favorite Songs by Gaza Slim</h1> <!-- Introductory Text -->
 <p>Gaza Slim's emotive voice and compelling tracks have made her a standout in dancehall. Here are BigBanonos' favorite songs from her discography:</p> <!-- Featured Image -->
-<div> <img src="https://i.scdn.co/image/ab67616d00001e0228963140e70661f397e51d22" alt="Gaza Slim">
+<div> {{< img-lite src="https://i.scdn.co/image/ab67616d00001e0228963140e70661f397e51d22" alt="Gaza Slim" >}}
 </div> <!-- Spotify Embed -->
-<div> <iframe src="https://open.spotify.com/embed/playlist/6IOBLJWqAJqAx57VkgtQQM?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div> {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <h3>Top Songs:</h3>
 <ul> <li><strong>Everything Fi Hold Him</strong> | <em>Lost Angel Riddim</em> | Released: 2011-08-24 | Label: Sounique Records | Genres: Dancehall, Riddim</li> <li><strong>Na Give You Bun</strong> | <em>Adidjaheim Records Presents Introducing Vanessa Bling As Gaza Slim (feat. Vybz Kartel)</em> | Released: 2011-04-25 | Label: Adidjaheim/Notnice | Genres: Dancehall, Riddim</li>

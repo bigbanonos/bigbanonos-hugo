@@ -3,8 +3,8 @@ title: "the voidz 2 songs"
 layout: post
 ---
 <h1>BigBanonos Favorite Songs by The Voidz</h1>
-<img src="https://cdn.shopify.com/s/files/1/0259/6253/files/the-voidz_2970352c-a495-40fc-8f73-c07105c3f05a.jpg" alt="The Voidz"> <p>The Voidz are known for their boundary-pushing modern alternative rock, blending experimental sounds with catchy hooks. Here are BigBanonos' favorite tracks from The Voidz:</p> <ol> <li><strong>Did My Best</strong> | <em>Did My Best</em> | Released: 2019-12-13 | The Voidz</li> <li><strong>Human Sadness</strong> | <em>Human Sadness</em> | Released: 2014-09-02 | Cult Records</li>
-</ol> <div> <iframe src="https://open.spotify.com/embed/playlist/4uiJpclCgc6zx7NJL1rmVS?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+{{< img-lite src="https://cdn.shopify.com/s/files/1/0259/6253/files/the-voidz_2970352c-a495-40fc-8f73-c07105c3f05a.jpg" alt="The Voidz" >}} <p>The Voidz are known for their boundary-pushing modern alternative rock, blending experimental sounds with catchy hooks. Here are BigBanonos' favorite tracks from The Voidz:</p> <ol> <li><strong>Did My Best</strong> | <em>Did My Best</em> | Released: 2019-12-13 | The Voidz</li> <li><strong>Human Sadness</strong> | <em>Human Sadness</em> | Released: 2014-09-02 | Cult Records</li>
+</ol> <div> {{< youtube "embed" >}}
 </div> <p><em>First posted by BigBanonos - <a href="https://bigbanonos.blogspot.com/">https://bigbanonos.blogspot.com/</a></em></p>
 <p><em>Last updated November 15, 2024</em></p>
 <p>Follow BigBanonos on <a href="https://www.youtube.com/@BigBanonos">YouTube</a> and <a href="https://x.com/bigbanonos">Twitter</a> for more music content.</p>

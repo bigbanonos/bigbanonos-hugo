@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "SWING" by Quavo featuring Normani & Davido, from the album *QUAVO HUNCHO*, released on October 12, 2018, by Quality Control Music/Motown Records/Capitol Records.</p> <!-- Featured Image -->
 <div > <img src="https://i1.sndcdn.com/avatars-uy4rKuUjvzDbDWye-ZtO6dg-t240x240.jpg" alt="Quavo - SWING (feat. Normani & Davido)" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/6eRMhZz4aHg" title="Normani - SWING (Audio) feat. Quavo, Davido" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "6eRMhZz4aHg" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"SWING"</em> by Quavo featuring Normani & Davido is a track from the 2018 album *QUAVO HUNCHO*, released by Quality Control Music/Motown Records/Capitol Records. It features a fusion of melodic rap, afrobeats, pop, and hip hop influences.</p>
 </div> <!-- Footer Links -->

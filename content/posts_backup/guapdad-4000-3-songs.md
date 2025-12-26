@@ -4,8 +4,8 @@ layout: post
 ---
 <h1>BigBanonos 2 Favorite Songs by Guapdad 4000</h1>
 <img alt="Guapdad 4000" src="https://res.cloudinary.com/dn29xlaeh/image/upload/v1605367702/beatgig-updated/NOAcXAYoNKtqETnh4yUHdSr9im3U8r.jpg" /> <p>This collection of BigBanonos' favorite tracks by Guapdad 4000 was updated December 2, 2021, with his track 'Money' from *TWNSHP*, capturing the unique sound of Oakland hip hop and scam rap. Guapdad is featured in the 2024 standout "Blue Hunnids" by D.R.A.M. - <a href="https://bigbanonos.blogspot.com/2015/05/dram.html" target="_blank">check out D.R.A.M.'s best songs here</a>.</p> <ol> <li>Money - Released: December 2, 2021</li> <li>Chicken Adobo (feat. !llmind) - Released: March 19, 2021</li> <li>Gucci Pajamas (feat. Chance The Rapper & Charlie Wilson) - Released: March 19, 2021</li>
-</ol> <div> <iframe allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" allowfullscreen="" frameborder="0" height="352" loading="lazy" src="https://open.spotify.com/embed/playlist/2fDiumR2xCzJfLJLfBX9Wh?utm_source=generator" width="100%"></iframe>
-</div> <div> <iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/videoseries?list=PLtuNtuTatqI2kXdQGMIym8UjsGRlu_PqZ" width="100%"></iframe>
+</ol> <div> {{< youtube "embed" >}}
+</div> <div> {{< youtube "videoseries" >}}
 </div> <p>first posted by <a href="https://bigbanonos.blogspot.com/">https://bigbanonos.blogspot.com/</a></p>
 
 

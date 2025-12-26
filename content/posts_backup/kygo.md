@@ -7,7 +7,7 @@ layout: post
 <p >Updated June 28, 2019, with "Higher Love" by Kygo and Whitney Houston. This electrifying reimagining of Whitney Houston's classic track brings tropical house and dance pop vibes to a timeless hit, creating a beautiful blend of nostalgia and modern EDM.</p> <!-- Featured Image -->
 <div > <img src="https://i.ytimg.com/vi/dTYOkcRH220/maxresdefault.jpg" alt="Kygo & Whitney Houston - Higher Love" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/dTYOkcRH220" title="Kygo, Whitney Houston - Higher Love (Official Audio)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "dTYOkcRH220" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Higher Love"</em> by Kygo and Whitney Houston is a vibrant track that reintroduces Whitney's unmatched vocals through Kygo's tropical house lens. Released under Kygo/RCA Records, this song masterfully combines classic pop with modern EDM for a powerful and uplifting listening experience.</p>
 </div> <!-- Footer Links -->

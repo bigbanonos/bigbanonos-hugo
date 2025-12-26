@@ -7,7 +7,7 @@ layout: post
 <p >Updated May 4, 2015, with BigBanonos' favorite track, "Whiskey And You" by Chris Stapleton. This deeply moving song from the *Traveller* album exemplifies contemporary country at its most raw and heartfelt.</p> <!-- Featured Image -->
 <div > <img src="https://hips.hearstapps.com/hmg-prod/images/chris-stapleton-1540851181.jpg" alt="Chris Stapleton - Whiskey and You" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/z2uPKDXS8BA" title="Chris Stapleton - Whiskey and You" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "z2uPKDXS8BA" >}}
 </div> <!-- Song Information -->
 <div > <p>"Whiskey And You," from Chris Stapleton's critically acclaimed *Traveller* album, was released on May 4, 2015, by Mercury Nashville. With its haunting lyrics and soul-stirring delivery, this track is a standout in contemporary and outlaw country music.</p>
 </div> <!-- Footer Links -->

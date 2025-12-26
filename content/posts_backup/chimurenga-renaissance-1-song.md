@@ -2,7 +2,7 @@
 title: "chimurenga renaissance 1 song"
 layout: post
 ---
-<iframe frameborder="0" height="360" src="https://youtube.com/embed/Q5cIvAMUJ2Q" width="480"></iframe><h2><ol><li>(ft. King Britt & Nadine Stoddart) Zimbabwe [2021]</li></ol></h2>
+{{< youtube "Q5cIvAMUJ2Q" >}}<h2><ol><li>(ft. King Britt & Nadine Stoddart) Zimbabwe [2021]</li></ol></h2>
 
 <!--Subscribe and Playlist Links-->
 <div>

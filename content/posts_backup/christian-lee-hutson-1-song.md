@@ -4,7 +4,7 @@ layout: post
 ---
 <h2>BigBanonos' 3 Favorite Songs by Christian Lee Hutson</h2> <!--Search Description-->
 <p>BigBanonos' favorite Christian Lee Hutson tracks showcase a blend of countrygaze and deep new Americana. Enjoy these standout songs below.</p> <!--Spotify Playlist Embed-->
-<iframe allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" allowfullscreen="" frameborder="0" height="352" loading="lazy" src="https://open.spotify.com/embed/playlist/2WLpO1MZMw1BC5sKNCmxsf?utm_source=generator" width="100%"></iframe> <!--Song Listings-->
+{{< youtube "embed" >}} <!--Song Listings-->
 <ul> <li><strong>State Bird</strong> - <em>Quitters</em> - 2022-04-01</li> <li><strong>Creature Feature</strong> - <em>Quitters</em> - 2022-04-01</li> <li><strong>Lose This Number</strong> - <em>Lose This Number</em> - 2020-02-06</li>
 </ul> <!--Image-->
 <img alt="Christian Lee Hutson" src="https://img.pastemagazine.com/wp-content/uploads/2024/09/26001835/2B777A81-F53E-4273-81EE-5CB0E6B10E4E.jpeg" />

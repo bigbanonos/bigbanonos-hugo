@@ -7,7 +7,7 @@ layout: post
 <p >Updated in 2015 with BigBanonos' favorite track, "Rather Be" by Clean Bandit featuring Jess Glynne. A timeless hit blending dance pop and UK funky sounds.</p> <!-- Featured Image -->
 <div > <img src="https://www.billboard.com/wp-content/uploads/media/02-Clean-Bandit-press-photo-cr-Rita-Zimmermann-a-2017-billboard-1548.jpg" alt="Clean Bandit - Rather Be" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/m-M1AtrxztU" title="Clean Bandit - Rather Be ft. Jess Glynne [Official Video]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "m-M1AtrxztU" >}}
 </div> <!-- Song Information -->
 <div > <p>"Rather Be," featuring the incredible Jess Glynne, was released by Clean Bandit under Atlantic Records UK. Known for its captivating fusion of pop, electronic, and UK dance elements, the track remains a global anthem and a signature tune for the duo.</p>
 </div> <!-- Footer Links -->

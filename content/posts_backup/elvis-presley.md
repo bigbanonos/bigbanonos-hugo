@@ -4,9 +4,9 @@ layout: post
 ---
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Elvis Presley</h1> <!-- Featured Image -->
-<div > <img src="https://i.scdn.co/image/ab67616d0000b273f45cec7e72b9dec993c18872" alt="Elvis Presley">
+<div > {{< img-lite src="https://i.scdn.co/image/ab67616d0000b273f45cec7e72b9dec993c18872" alt="Elvis Presley" >}}
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/4K37SlZY77ZOko99IlniI5?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Introductory Text -->
 <p >Elvis Presley, the King of Rock and Roll, revolutionized music with electrifying tracks like "C'Mon Everybody" and "Mystery Train."</p> <!-- Song Highlights -->
 <div > <p>BigBanonos' standout picks:</p> <ol> <li><strong>C'Mon Everybody</strong> | <em>Elvis Double Features Viva Las Vegas & Roustabout</em> | Released: February 22, 1993 | RCA Records Label</li> <li><strong>Mystery Train</strong> | <em>For LP Fans Only</em> | Released: January 23, 1959 | RCA Victor</li> </ol>

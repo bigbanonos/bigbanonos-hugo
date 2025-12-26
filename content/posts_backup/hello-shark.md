@@ -7,7 +7,7 @@ layout: post
 <p >Updated September 30, 2016, with "Danny" by Hello Shark. This poignant track from *Delicate* encapsulates the intimate and reflective style of lo-fi indie and philly indie.</p> <!-- Featured Image -->
 <div > <img src="https://images.genius.com/917b38d3bb2942926d8ebb7613739bae.700x700x1.jpg" alt="Hello Shark - Delicate" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/pt7uQSZp0Wg" title="hello shark - danny" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "pt7uQSZp0Wg" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Danny"</em> is a heartfelt track from Hello Shark's *Delicate*, released on September 30, 2016. Its raw, lo-fi aesthetic and small-room intimacy resonate deeply within the philly indie scene.</p>
 </div> <!-- Footer Links -->

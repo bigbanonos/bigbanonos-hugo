@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Older" by Shine 2009, from the single *Older*, released on September 10, 2013, by Cascine.</p> <!-- Featured Image -->
 <div > <img src="https://i.ytimg.com/vi/mQfFVuNssuQ/maxresdefault.jpg" alt="Shine 2009 - Older" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/mQfFVuNssuQ" title="Shine 2009 - Older" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "mQfFVuNssuQ" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Older"</em> by Shine 2009 is a track from the single *Older*, released on September 10, 2013. The song features a balearic electronic sound that immerses the listener in a soothing, melodic atmosphere, characteristic of Shine 2009's style.</p>
 </div> <!-- Footer Links -->

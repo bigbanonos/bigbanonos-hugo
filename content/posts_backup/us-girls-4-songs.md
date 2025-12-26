@@ -3,8 +3,8 @@ title: "us girls 4 songs"
 layout: post
 ---
 <h1>BigBanonos Favorite Songs by U.S. Girls</h1>
-<img src="https://media.pitchfork.com/photos/5a958f2f295e795e002fb3a8/16:9/w_1280,c_limit/Darlene-Shrugg.jpg" alt="U.S. Girls"> <p>U.S. Girls is known for their experimental pop sound and thought-provoking lyrics. Here are BigBanonos' standout tracks from their innovative discography:</p> <ol> <li><strong>Futures Bet</strong> | <em>Futures Bet</em> | Released: 2023-01-10 | 4AD</li> <li><strong>Poem</strong> | <em>In a Poem Unlimited</em> | Released: 2018-02-16 | 4AD</li> <li><strong>Velvet 4 Sale</strong> | <em>Velvet 4 Sale</em> | Released: 2017-11-28 | 4AD</li> <li><strong>Damn That Valley</strong> | <em>Half Free</em> | Released: 2015-09-25 | 4AD</li>
-</ol> <div> <iframe src="https://open.spotify.com/embed/playlist/5mnV9OJDFxnzvOlIEn5cH8?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+{{< img-lite src="https://media.pitchfork.com/photos/5a958f2f295e795e002fb3a8/16:9/w_1280,c_limit/Darlene-Shrugg.jpg" alt="U.S. Girls" >}} <p>U.S. Girls is known for their experimental pop sound and thought-provoking lyrics. Here are BigBanonos' standout tracks from their innovative discography:</p> <ol> <li><strong>Futures Bet</strong> | <em>Futures Bet</em> | Released: 2023-01-10 | 4AD</li> <li><strong>Poem</strong> | <em>In a Poem Unlimited</em> | Released: 2018-02-16 | 4AD</li> <li><strong>Velvet 4 Sale</strong> | <em>Velvet 4 Sale</em> | Released: 2017-11-28 | 4AD</li> <li><strong>Damn That Valley</strong> | <em>Half Free</em> | Released: 2015-09-25 | 4AD</li>
+</ol> <div> {{< youtube "embed" >}}
 </div> <p><em>First posted by BigBanonos - <a href="https://bigbanonos.blogspot.com/">https://bigbanonos.blogspot.com/</a></em></p>
 <p><em>Last updated November 14, 2024</em></p>
 <p>Follow BigBanonos on <a href="https://www.youtube.com/@BigBanonos">YouTube</a> and <a href="https://x.com/bigbanonos">Twitter</a> for more music content.</p>

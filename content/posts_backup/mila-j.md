@@ -7,7 +7,7 @@ layout: post
 <p >Updated October 30, 2018, with "October Nights" by Mila J. This soulful track, released under The Family Business Enterprises, blends R&B with modern trap influences, creating a smooth, reflective vibe perfect for autumn nights.</p> <!-- Featured Image -->
 <div > <img src="https://images.genius.com/5363c0738e8ccd3f9e6b25affe706ecc.783x783x1.jpg" alt="Mila J - October Nights" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/qXOw-arckg0" title="Mila. J - October Nights (Lyrics)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "qXOw-arckg0" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"October Nights"</em> by Mila J is a smooth, atmospheric track that combines R&B with a touch of trap. Released in October 2018, this song is a perfect reflection of the cool, introspective vibes of the fall season, wrapped in sultry vocals and rich production.</p>
 </div> <!-- Footer Links -->

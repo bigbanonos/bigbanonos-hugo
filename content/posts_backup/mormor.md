@@ -5,7 +5,7 @@ layout: post
 <a href="https://i.ytimg.com/vi/9PvIIn6cc1M/maxresdefault.jpg" imageanchor="1"><img border="0" data-original-height="450" data-original-width="800" height="225" src="https://i.ytimg.com/vi/9PvIIn6cc1M/maxresdefault.jpg" width="400" /></a><br />
 <h6>
 </h6>
-<iframe allow="autoplay; encrypted-media" allowfullscreen="" frameborder="0" height="500" src="https://www.youtube.com/embed/videoseries?list=PLtuNtuTatqI0eesPXyqrdLHrItoWs8TST" width="100%"></iframe><br />
+{{< youtube "videoseries" >}}<br />
 <h3>
 <ol>
 <li>Won't Let You [2019]</li>

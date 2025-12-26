@@ -7,7 +7,7 @@ layout: post
 <p >Updated April 1, 2014, with BigBanonos' favorite track, "Now Hear In" by Cloud Nothings. A high-energy anthem showcasing their mastery of indie punk and noise pop.</p> <!-- Featured Image -->
 <div > <img src="https://pyxis.nymag.com/v1/imgs/4d0/5db/6ca5afe28f1925c11cd8bba312a924a64a-22-cloud-nothings.rhorizontal.w700.jpg" alt="Cloud Nothings - Now Hear In" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/Oqd3P0Jy58w" title="Cloud Nothings - 'Now Hear In' (Official Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "Oqd3P0Jy58w" >}}
 </div> <!-- Song Information -->
 <div > <p>"Now Hear In" is part of Cloud Nothings' acclaimed album *Here and Nowhere Else*, released by Carpark Records. This track blends their signature Cleveland indie sound with lo-fi and modern power pop influences, creating a noise-pop masterpiece.</p>
 </div> <!-- Footer Links -->

@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Set Trend" by Trabass, released on January 5, 2016, by Trabass TV LLC. This dancehall track showcases Trabass' unique style and energy, making it a standout hit in the Jamaican dancehall scene.</p> <!-- Featured Image -->
 <div > <img src="https://source.boomplaymusic.com/group10/M00/07/18/7d0c04dbe8c14beaad3f07ed24f45951_320_320.jpg" alt="Trabass - Set Trend" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/zXTRGXYKzk4" title="Trabass - Set Trend (Unofficial Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "zXTRGXYKzk4" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Set Trend"</em> by Trabass is a dancehall track released as a single in 2016. With its catchy rhythm and powerful energy, it has become a popular anthem in the Jamaican dancehall scene.</p>
 </div> <!-- Footer Links -->

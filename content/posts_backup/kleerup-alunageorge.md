@@ -7,7 +7,7 @@ layout: post
 <p >Updated September 18, 2019, with "Lovers Table" by Kleerup and AlunaGeorge. This track blends pop and electronic genres with a smooth mix of Swedish electropop and UK dance vibes.</p> <!-- Featured Image -->
 <div > <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtpR1jXDuki-WiX4rd8oclDe9A2q4J3xZESA&s" alt="Kleerup & AlunaGeorge - Lovers Table" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/xcyOx8VetPw" title="Kleerup feat AlunaGeorge - Lovers Table (official audio)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "xcyOx8VetPw" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Lovers Table"</em> by Kleerup and AlunaGeorge is a captivating pop-electronic fusion from the album <em>Lovers Table</em>, released under Cascine. The track masterfully combines metropopolis, Swedish electropop, and house influences with a touch of UK dance energy.</p>
 </div> <!-- Footer Links -->

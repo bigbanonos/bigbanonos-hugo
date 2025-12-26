@@ -3,7 +3,7 @@ title: "jayblem"
 layout: post
 ---
 <h3>BigBanonos' Favorite Song by JayBlem featuring Chronic Law</h3> <div class="separator" > <a href="https://i.ytimg.com/vi/fEZ8P9P_3AY/maxresdefault.jpg"> <img alt="JayBlem and Chronic Law - Rotten Teeth" border="0" height="350" src="https://i.ytimg.com/vi/fEZ8P9P_3AY/maxresdefault.jpg" /> </a>
-</div> <p>BigBanonos highlights <strong>"Rotten Teeth"</strong> by JayBlem, featuring Chronic Law. Released in 2021, this powerful collaboration showcases the energy and lyrical finesse of two dancehall heavyweights. Watch the official video below:</p> <iframe width="1013" height="618" src="https://www.youtube.com/embed/x5ms7is0UaA" title="JayBlem,Chronic Law - Rotten Teeth" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> <hr />
+</div> <p>BigBanonos highlights <strong>"Rotten Teeth"</strong> by JayBlem, featuring Chronic Law. Released in 2021, this powerful collaboration showcases the energy and lyrical finesse of two dancehall heavyweights. Watch the official video below:</p> {{< youtube "x5ms7is0UaA" >}} <hr />
 <p>For more updates, visit <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">BigBanonos</a>. Also, check out our <a href="https://www.youtube.com/@BigBanonos" rel="noopener" target="_new">YouTube</a> and <a href="https://x.com/bigbanonos" rel="noopener" target="_new">X/Twitter</a> channels for more exclusive content!</p>
 
 

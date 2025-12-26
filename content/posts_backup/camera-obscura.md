@@ -5,9 +5,9 @@ layout: post
 <!-- Title of the Post -->
 <h1>BigBanonos' Favorite Songs by Camera Obscura</h1> <!-- Introductory Text -->
 <p>Updated with standout tracks by Camera Obscura, masters of chamber pop and indie melodies. Their heartfelt lyrics and lush arrangements make these songs unforgettable.</p> <!-- Featured Image -->
-<div> <img src="https://i.scdn.co/image/ab67616d0000b273a436beaab32153e205b62f0a" alt="Camera Obscura">
+<div> {{< img-lite src="https://i.scdn.co/image/ab67616d0000b273a436beaab32153e205b62f0a" alt="Camera Obscura" >}}
 </div> <!-- Spotify Playlist Embed -->
-<div> <iframe src="https://open.spotify.com/embed/playlist/3Qk5K7BVWlMwbKAuMenSJS?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div> {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <h3>Top Songs:</h3>
 <ul> <li><strong>French Navy</strong> | <em>My Maudlin Career</em> | Label: 4AD | Released: April 21, 2009 | Genres: Chamber Pop, Indie Pop</li> <li><strong>I Need All the Friends I Can Get</strong> | <em>Let's Get Out of This Country</em> | Released: 2006 | Genres: Indie Pop</li> <li><strong>If Looks Could Kill</strong> | <em>Let's Get Out of This Country</em> | Released: 2006 | Genres: Indie Pop</li>

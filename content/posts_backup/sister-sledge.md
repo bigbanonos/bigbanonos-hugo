@@ -3,13 +3,13 @@ title: "sister sledge"
 layout: post
 ---
 <h3>BigBanonos' Favorite Songs by Sister Sledge</h3>
-<div > <a href="https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/ec/51/d2/ec51d221-3b08-06a1-1739-a3fba1007793/mzi.rmpkfyzi.jpg/1200x1200bb.jpg" target="_blank"> <img src="https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/ec/51/d2/ec51d221-3b08-06a1-1739-a3fba1007793/mzi.rmpkfyzi.jpg/1200x1200bb.jpg" alt="Sister Sledge"> </a>
+<div > <a href="https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/ec/51/d2/ec51d221-3b08-06a1-1739-a3fba1007793/mzi.rmpkfyzi.jpg/1200x1200bb.jpg" target="_blank"> {{< img-lite src="https://is1-ssl.mzstatic.com/image/thumb/Music114/v4/ec/51/d2/ec51d221-3b08-06a1-1739-a3fba1007793/mzi.rmpkfyzi.jpg/1200x1200bb.jpg" alt="Sister Sledge" >}} </a>
 </div>
 <p>Updated 1983 with Sister Sledge's track <strong>"B.Y.O.B. (Bring Your Own Baby)"</strong>. BigBanonos highlights their iconic disco and soul sound.</p>
-<iframe src="https://open.spotify.com/embed/playlist/0S7620NTv4dWeI81dYf0tp?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+{{< youtube "embed" >}}
 <h4>Top Songs:</h4>
-<iframe width="95%" height="315" src="https://www.youtube.com/embed/kSP-I8YZ4Qo?list=PLtuNtuTatqI3ADcM_zLmgfpkLlcO5e9Pw" frameborder="0" allowfullscreen></iframe><br />
-<iframe src="https://open.spotify.com/embed/playlist/0S7620NTv4dWeI81dYf0tp?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+{{< youtube "kSP-I8YZ4Qo" >}}<br />
+{{< youtube "embed" >}}
 <ol> <li><strong>He's The Greatest Dancer</strong> | <em>We Are Family</em> | Released: 1979 | Rhino Atlantic</li> <li><strong>B.Y.O.B. (Bring Your Own Baby)</strong> | <em>Bet Cha Say That to All the Girls</em> | Released: 1983 | Rhino Atlantic</li>
 </ol>
 <hr />

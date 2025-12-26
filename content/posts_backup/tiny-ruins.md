@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Me at the Museum, You in the Wintergardens" by Tiny Ruins, from the album *Brightly Painted One*, released on May 5, 2014, by Bella Union / Spunk Records / Flying Nun. This beautifully introspective track offers a vivid portrayal of love and memory, anchored by its delicate folk melodies.</p> <!-- Featured Image -->
 <div > <img src="https://f4.bcbits.com/img/0031478926_25.jpg" alt="Tiny Ruins - Me at the Museum, You in the Wintergardens" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/Zc11cmgkQc4" title="Tiny Ruins - Me at the Museum, You in the Winter Gardens" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "Zc11cmgkQc4" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Me at the Museum, You in the Wintergardens"</em> by Tiny Ruins is a stunning blend of chamber pop and indie folk, featured on the album *Brightly Painted One*. This track epitomizes Tiny Ruins' subtle yet powerful storytelling style, weaving together imagery of art, memory, and nature.</p>
 </div> <!-- Footer Links -->

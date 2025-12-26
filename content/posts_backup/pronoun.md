@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "stay" by PRONOUN, a deeply emotional track from the *i'll show you stronger* album, released by Rhyme & Reason Records.</p> <!-- Featured Image -->
 <div > <img src="https://www.dancehallmag.com/assets/2022/12/pro.jpg" alt="PRONOUN - stay" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="601" src="https://www.youtube.com/embed/EEz23G0oaTI" title="stay" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "EEz23G0oaTI" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"stay"</em> by PRONOUN delivers a powerful message, reflecting themes of resilience and self-discovery, with a blend of indie and emo influences from their album *i'll show you stronger*.</p>
 </div> <!-- Footer Links -->

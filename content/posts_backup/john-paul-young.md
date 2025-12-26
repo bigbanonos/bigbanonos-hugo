@@ -7,7 +7,7 @@ layout: post
 <p >Updated September 18, 1978, with "Love Is In The Air" by John Paul Young. This timeless classic continues to define the sound of the late '70s with its infectious melody and iconic chorus.</p> <!-- Featured Image -->
 <div > <img src="https://yt3.googleusercontent.com/YYCQqNrRU6gyodIIo4NP0d1Eni_WWfpo0BIpek8Wr9lboVJoA2SXjTGIrx1PMbDaOZJkbKN7dQ=s900-c-k-c0x00ffffff-no-rj" alt="John Paul Young" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/NNC0kIzM1Fo" title="John Paul Young - Love Is In The Air (1978)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "NNC0kIzM1Fo" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Love Is In The Air"</em> is a standout track from <strong>John Paul Young</strong>, originally released in 1978. With its unforgettable melody and positive energy, this song became an anthem for the era and remains a dancefloor favorite today.</p>
 </div> <!-- Footer Links -->

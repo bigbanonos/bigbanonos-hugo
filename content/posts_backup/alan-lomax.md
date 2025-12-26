@@ -2,10 +2,10 @@
 title: "alan lomax"
 layout: post
 ---
-<div> <img src="https://i.scdn.co/image/ab67616d00001e02520ac3bea2571b3ebe4df65d" width="100%" alt="Alan Lomax - International Songs">
+<div> {{< img-lite src="https://i.scdn.co/image/ab67616d00001e02520ac3bea2571b3ebe4df65d" alt="Alan Lomax - International Songs" >}}
 </div> <p>
 BigBanonos' favorite Alan Lomax recordings:
-</p> <iframe src="https://open.spotify.com/embed/playlist/1VUmGGcOjybssFGkEmGUAI?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> <p>
+</p> {{< youtube "embed" >}} <p>
 <b>Alan Lomax â€“ "Early in the Mornin'"</b> (Negro Prison Songs from the Mississippi State Penitentiary, 2016) â€“ Tradition Records<br>
 <b>Alan Lomax â€“ "Celeste aida"</b> (Traditional Music & Songs of Italy, 1958) â€“ Legacy International<br>
 <b>Alan Lomax â€“ "Ciribiribin"</b> (Traditional Music & Songs of Italy, 1958) â€“ Legacy International<br>

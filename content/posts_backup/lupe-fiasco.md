@@ -7,7 +7,7 @@ layout: post
 <p >Updated September 21, 2018, with "WAV Files" from <em>DROGAS WAVE</em>. Explore the lyrical genius of Lupe Fiasco in the playlist below!</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab6761610000e5eb17e0a43f3aaa0c48410c4b68" alt="Lupe Fiasco" />
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/6XRrlX2S7XMAj1roMnyKio?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <div > <p><strong>"WAV Files"</strong><br> Genre: Hip Hop<br> Album: <em>DROGAS WAVE</em><br> Release Date: September 21, 2018<br> Label: 1st and 15th Productions, Inc.</p> <p><strong>"Dots & Lines"</strong><br> Genre: Hip Hop<br> Album: <em>Tetsuo & Youth</em><br> Release Date: January 20, 2015<br> Label: 1st & 15th/Atlantic</p>
 </div> <!-- Footer Links -->

@@ -7,7 +7,7 @@ layout: post
 <p >Updated May 21, 2007, with BigBanonos' favorite song by Basia Bulat, "Before I Knew," from the album *Oh, My Darling*. Watch the video and see more details below:</p> <!-- Featured Image -->
 <div > <img src="https://cdn.prod.website-files.com/65cfe20094561f14a48e5d22/65cfe20194561f14a48e8d9a_Bulat%20(C)%20Richmond%20Lam.png" alt="Basia Bulat - Before I Knew" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/nE5lHdKWkG8" title="Before I Knew" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "nE5lHdKWkG8" >}}
 </div> <!-- Song Information -->
 <div > <p>"Before I Knew" by Basia Bulat is a brief yet deeply moving track that captures her heartfelt lyricism and distinctive folk-inspired sound. Released on May 21, 2007, as part of the album *Oh, My Darling* under Rough Trade, this 1:12-long song highlights her unique blend of Canadian indie and stomp-and-holler sensibilities.</p>
 </div> <!-- Footer Links -->

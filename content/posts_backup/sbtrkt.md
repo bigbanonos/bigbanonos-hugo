@@ -3,9 +3,9 @@ title: "sbtrkt"
 layout: post
 ---
 <h2>SBTRKT</h2>
-<img src="https://i.guim.co.uk/img/static/sys-images/Music/Pix/pictures/2014/9/17/1410972080806/SBTRKT-014.jpg?width=700&quality=85&auto=format&fit=max&s=6eff86e0a169438bb7993ef8b76a5c04" alt="SBTRKT">
+{{< img-lite src="https://i.guim.co.uk/img/static/sys-images/Music/Pix/pictures/2014/9/17/1410972080806/SBTRKT-014.jpg?width=700&quality=85&auto=format&fit=max&s=6eff86e0a169438bb7993ef8b76a5c04" alt="SBTRKT" >}}
 <p><strong>Wildfire (Stream) [2011]</strong></p>
-<iframe width="864" height="486" src="https://www.youtube.com/embed/ZdUINbi4wSY" title="SBTRKT - Wildfire" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+{{< youtube "ZdUINbi4wSY" >}}
 <p>first posted by <a href="https://bigbanonos.blogspot.com/">https://bigbanonos.blogspot.com/</a></p> <div> <p>Explore more BigBanonos content: <a href="https://bigbanonos.blogspot.com/">Website</a> | <a href="https://www.youtube.com/@BigBanonos">YouTube</a> | <a href="https://x.com/bigbanonos">Twitter</a></p>
 </div>
 

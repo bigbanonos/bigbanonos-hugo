@@ -7,7 +7,7 @@ layout: post
 <p >Updated October 6, 2017, with BigBanonos' favorite song by Blue Hawaii, "No One Like You." From the album *Tenderness* and released under Arbutus Records, this track captures the essence of chillwave and Quebec indie. Watch the video and see more details below:</p> <!-- Featured Image -->
 <div > <img src="https://cdn-images.dzcdn.net/images/cover/1954afaedc5888ed299b2c414a0d8eb1/0x1900-000000-80-0-0.jpg" alt="Blue Hawaii - No One Like You" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/NXsUm0967vU" title="Blue Hawaii - No One Like You (Official Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "NXsUm0967vU" >}}
 </div> <!-- Song Information -->
 <div > <p>"No One Like You" by Blue Hawaii is a mesmerizing blend of chillwave and Quebec indie sounds. Released on October 6, 2017, as part of the album *Tenderness* under Arbutus Records, this 4:30-long track showcases the duo's dreamy and emotive style.</p>
 </div> <!-- Footer Links -->

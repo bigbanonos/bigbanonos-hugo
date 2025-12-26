@@ -7,7 +7,7 @@ layout: post
 <p >Updated with *Peanut Butter* from *The Tao of Steve* soundtrack, originally released in 2000 by Milan Records. This smooth track from The Marathons mixes soul, funk, and catchy rhythms to create a vibe that stays with you long after the song ends. Enjoy the timeless groove with this throwback classic.</p> <!-- Featured Image -->
 <div > <img src="https://f4.bcbits.com/img/a2821255281_65" alt="The Marathons - Peanut Butter" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="514" src="https://www.youtube.com/embed/uh0W-lKlSP8" title="The Marathons - Peanut Butter" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "uh0W-lKlSP8" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Peanut Butter"</em> is a funky groove that has become a favorite in the soundtrack of *The Tao of Steve*. The Marathons' soulful, upbeat sound is perfect for anyone looking for a smooth throwback tune that still brings the energy.</p>
 </div> <!-- Footer Links -->

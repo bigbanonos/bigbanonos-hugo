@@ -3,7 +3,7 @@ title: "jezus million ft pandr eyez"
 layout: post
 ---
 #2013 <br />
-<iframe width="95%" height="315" src="https://www.youtube.com/embed/og_YRWn2_ns?list=PLtuNtuTatqI3Sq0UrOfKvIPT20SzNwgDK" frameborder="0" allowfullscreen></iframe><br />
+{{< youtube "og_YRWn2_ns" >}}<br />
 (ft. Pandr Eyez) That Heat 2013
 
 <!--Subscribe and Playlist Links-->

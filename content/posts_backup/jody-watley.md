@@ -7,7 +7,7 @@ layout: post
 <p >Updated January 1, 2000, with "Looking For A New Love" (Radio Edit) by Jody Watley. A timeless classic blending contemporary R&B and the Minneapolis sound with freestyle vibes.</p> <!-- Featured Image -->
 <div > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Jody_Watley_Capital_Pride_-_10.jpg/640px-Jody_Watley_Capital_Pride_-_10.jpg" alt="Jody Watley - Looking For A New Love" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/YQL-B3PNkeI" title="Jody Watley - 'Looking For A New Love' (Official Music Video)" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "YQL-B3PNkeI" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Looking For A New Love"</em> is featured on the compilation <strong>20th Century Masters: The Millennium Collection: Best Of Jody Watley</strong>, released by Geffen. This radio edit highlights Watley's iconic vocal style, seamlessly blending R&B, freestyle, and urban contemporary influences.</p>
 </div> <!-- Footer Links -->

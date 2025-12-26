@@ -3,8 +3,8 @@ title: "horsegirl 2 songs"
 layout: post
 ---
 <h1>BigBanonos 2 Favorite Songs by Horsegirl</h1>
-<img src="https://townsquare.media/site/833/files/2022/03/attachment-HORSEGIRL-ANTI-GLORY.jpg" alt="Horsegirl"> <p>This collection of BigBanonos' 2 favorite tracks by Horsegirl captures the unique post-punk and slacker rock vibes of this American band, showcasing tracks with a raw, authentic energy.</p> <ol> <li><em>This Is A Song About My Ex</em> - Album: <em>Rough Trade Super-Disc</em>, Label: Matador, Released: November 15, 2022</li> <li><em>History Lesson Part 2</em> - Album: <em>History Lesson Part 2</em>, Label: Matador, Released: October 27, 2022</li>
-</ol> <div> <iframe src="https://open.spotify.com/embed/playlist/0wstQ11MrLbwRSZHxhxMq7?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+{{< img-lite src="https://townsquare.media/site/833/files/2022/03/attachment-HORSEGIRL-ANTI-GLORY.jpg" alt="Horsegirl" >}} <p>This collection of BigBanonos' 2 favorite tracks by Horsegirl captures the unique post-punk and slacker rock vibes of this American band, showcasing tracks with a raw, authentic energy.</p> <ol> <li><em>This Is A Song About My Ex</em> - Album: <em>Rough Trade Super-Disc</em>, Label: Matador, Released: November 15, 2022</li> <li><em>History Lesson Part 2</em> - Album: <em>History Lesson Part 2</em>, Label: Matador, Released: October 27, 2022</li>
+</ol> <div> {{< youtube "embed" >}}
 </div> <p>first posted by https://bigbanonos.blogspot.com/</p> <div> <p>Explore more BigBanonos content: <a href="https://bigbanonos.blogspot.com/">Website</a> | <a href="https://www.youtube.com/@BigBanonos">YouTube</a> | <a href="https://x.com/bigbanonos">Twitter</a></p>
 </div> <!-- Tags -->
 <p>@horsegirl</p>

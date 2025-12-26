@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Crazy" by Patsy Cline from *The Definitive Collection*. A timeless classic that showcases Cline's emotional vocal delivery and the smooth harmony of The Jordanaires.</p> <!-- Featured Image -->
 <div > <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Patsy_Cline_1960_publicity_portrait_-_cropped.jpg" alt="Patsy Cline - Crazy" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/YWKeuYcDAoo" title="Patsy Cline - Crazy (Official Video) ft. The Jordanaires" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "YWKeuYcDAoo" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Crazy"</em> by Patsy Cline, with The Jordanaires, is a hauntingly beautiful ballad that remains one of the most beloved songs in country music.</p>
 </div> <!-- Footer Links -->

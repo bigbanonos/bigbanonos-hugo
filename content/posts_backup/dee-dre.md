@@ -7,7 +7,7 @@ layout: post
 <p >Updated April 5, 2019, with "In These Times - Raw" by Dee DrÃƒÆ’Ã‚Â©. This track, featured on the *Red Zone Riddim*, captures the essence of contemporary Jamaican dancehall with raw emotion and striking lyrical depth.</p> <!-- Featured Image -->
 <div > <img src="https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/54/fc/93/54fc9313-ac2c-1040-6fbf-5a33abf51c34/193483661254.jpg/1200x1200bf-60.jpg" alt="Dee DrÃƒÆ’Ã‚Â© - In These Times" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/QnI4aTH8R-Q" title="Dee DrÃƒÆ’Ã‚Â© - In These Times (Audio)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> <br /> <iframe width="685" height="385" src="https://www.youtube.com/embed/QnI4aTH8R-Q" title="Dee DrÃƒÆ’Ã‚Â© - In These Times (Audio)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "QnI4aTH8R-Q" >}} <br /> {{< youtube "QnI4aTH8R-Q" >}}
 </div> <!-- Song Information -->
 <div > <p>"In These Times - Raw" stands out as a powerful anthem, weaving social commentary with compelling dancehall rhythms that resonate deeply with listeners.</p>
 </div> <!-- Footer Links -->

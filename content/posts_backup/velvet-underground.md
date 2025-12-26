@@ -3,7 +3,7 @@ title: "velvet underground"
 layout: post
 ---
 #highlights <br />
-<iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/V4hf7Ja3wgw?list=PLtuNtuTatqI0PI3H-RceSUiTS8ob7smEr" width="95%"></iframe><br />
+{{< youtube "V4hf7Ja3wgw" >}}<br />
 After Hours 1969<br />
 Beginning To See The Light 1969<br />
 Candy Says 1969 <br />

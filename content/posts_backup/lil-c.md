@@ -7,7 +7,7 @@ layout: post
 <p >Updated February 14, 2010, with "Barre Kelly/Get Money Pro Freestyle [Screwed]" by Lil C, J-Dawg, and Z-Ro. This iconic track from <em>I Ainâ€™t Takin No Loss 2 [Screwed]</em> is a testament to the raw energy of Houston rap and chopped and screwed soundscapes.</p> <!-- Featured Image -->
 <div > <img src="https://m.media-amazon.com/images/I/61qoedQE-VL._UXNaN_FMjpg_QL85_.jpg" alt="Lil C, J-Dawg & Z-Ro - Barre Kelly/Get Money Pro Freestyle [Screwed]" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/Pfo1SV7cRjA" title="Barre Kelly/Get Money Pro Freestyle [Screwed]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "Pfo1SV7cRjA" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Barre Kelly/Get Money Pro Freestyle [Screwed]"</em> by Lil C, J-Dawg, and Z-Ro exemplifies the gritty, atmospheric sound of dirty Texas rap. With its chopped and screwed vibe, it remains a classic representation of Houston rap and dirty south bounce.</p>
 </div> <!-- Footer Links -->

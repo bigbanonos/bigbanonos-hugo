@@ -7,7 +7,7 @@ layout: post
 <p >Updated September 10, 2019, with BigBanonos' favorite song by BOL4, "25." Featured on the album *Two Five* by ÃƒÂ¬Ã¢â‚¬Â¡Ã‚Â¼ÃƒÂ­Ã…â€™Ã…â€™ÃƒÂ«Ã‚Â¥Ã‚Â´ÃƒÂ«Ã‚Â®Ã‚Â¤ÃƒÂ¬Ã‚Â§Ã‚Â, this vibrant K-pop track captures youthful energy and introspection. Watch the video and see more details below:</p> <!-- Featured Image -->
 <div > <img src="https://kpopreviewed.com/wp-content/uploads/2019/09/bol4_workaholic_25.jpg?w=1200&h=607&crop=1" alt="BOL4 - 25" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/SNS2tOGGGRk" title="[MV] BOL4(ÃƒÂ«Ã‚Â³Ã‚Â¼ÃƒÂ«Ã‚Â¹Ã‚Â¨ÃƒÂªÃ‚Â°Ã¢â‚¬Å¾ÃƒÂ¬Ã¢â‚¬Å¡Ã‚Â¬ÃƒÂ¬Ã‚Â¶Ã‹Å“ÃƒÂªÃ‚Â¸Ã‚Â°) _ 25" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "SNS2tOGGGRk" >}}
 </div> <!-- Song Information -->
 <div > <p>"25" by BOL4 is a captivating K-pop track reflecting on lifeâ€™s milestones with a catchy melody and heartfelt lyrics. Released on September 10, 2019, as part of the album *Two Five* by ÃƒÂ¬Ã¢â‚¬Â¡Ã‚Â¼ÃƒÂ­Ã…â€™Ã…â€™ÃƒÂ«Ã‚Â¥Ã‚Â´ÃƒÂ«Ã‚Â®Ã‚Â¤ÃƒÂ¬Ã‚Â§Ã‚Â, this 3:16-long song perfectly encapsulates the charm of the Korean pop duo.</p>
 </div> <!-- Footer Links -->

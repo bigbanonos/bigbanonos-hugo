@@ -6,8 +6,8 @@ layout: post
 <div class="separator"> <a href="https://patch.com/img/cdn20/users/23159742/20190622/014845/styles/patch_image/public/tommy-james-and-the-shondells-crimson-and-clover-picture-sleeve___22133953464.jpg" > <img alt="Tommy James And The Shondells" border="0" width="320" data-original-height="480" data-original-width="640" src="https://patch.com/img/cdn20/users/23159742/20190622/014845/styles/patch_image/public/tommy-james-and-the-shondells-crimson-and-clover-picture-sleeve___22133953464.jpg"/> </a>
 </div>
 <p>Tommy James And The Shondells delivered timeless bubblegum pop and rock classics that defined a generation. Here are BigBanonos' favorite tracks:</p> <ol> <li><strong>Hanky Panky - Single Version</strong> | <em>The Essentials: Tommy James & The Shondells</em> | Released: 2002-06-04 | Rhino</li> <li><strong>Crimson & Clover</strong> | <em>Anthology</em> | Released: 1989 | Parlophone UK</li>
-</ol> <div> <iframe src="https://open.spotify.com/embed/playlist/6e2YrzIj8vhvg3Ku7pfBs2?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-</div> <div> <iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/GpGEeneO-t0?list=PLtuNtuTatqI3X01zTqiujiaUhFaK1PjKA" width="95%"></iframe><br />
+</ol> <div> {{< youtube "embed" >}}
+</div> <div> {{< youtube "GpGEeneO-t0" >}}<br />
 </div> <p>Explore more on <a href="https://bigbanonos.blogspot.com/">BigBanonos</a>, or check out BigBanonos on <a href="https://www.youtube.com/@BigBanonos">YouTube</a> and <a href="https://x.com/bigbanonos">Twitter</a>.</p> <p>Tags: @tommyjamesandtheshondells</p>
 
 

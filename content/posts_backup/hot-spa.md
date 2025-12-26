@@ -3,7 +3,7 @@ title: "hot spa"
 layout: post
 ---
 #notonspotify <br />
-<iframe width="95%" height="315" src="https://www.youtube.com/embed/3gc7471QhTo?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" frameborder="0" allowfullscreen></iframe><br />
+{{< youtube "3gc7471QhTo" >}}<br />
 Kiola Beach 2010
 
 <!--Subscribe and Playlist Links-->

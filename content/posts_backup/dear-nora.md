@@ -7,7 +7,7 @@ layout: post
 <p >Updated November 11, 2008, with "Make You Smile" by Dear Nora. Originally released on November 11, 2008, this track is a heartfelt addition to *Three States: Rarities 1997-2007*, encapsulating the lo-fi charm and emotional resonance of Dear Nora's music.</p> <!-- Featured Image -->
 <div > <img src="https://f4.bcbits.com/img/0031034570_10.jpg" alt="Dear Nora Album Cover" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/he9x24wxgDM" title="Make You Smile" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "he9x24wxgDM" >}}
 </div> <!-- Song Information -->
 <div > <p>Dear Nora's "Make You Smile" is a tender lo-fi gem that perfectly encapsulates the nostalgic and introspective nature of the *Three States* collection. A must-listen for fans of twee pop and tape club aesthetics.</p>
 </div> <!-- Footer Links -->

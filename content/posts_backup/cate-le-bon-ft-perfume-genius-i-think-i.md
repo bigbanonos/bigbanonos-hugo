@@ -7,7 +7,7 @@ layout: post
 <p >Updated November 12, 2013 with BigBanonos' favorite track, "I Think I Knew" by Cate Le Bon featuring Perfume Genius. This stunning piece from *Mug Museum* exemplifies art pop brilliance with a touch of chamber psych magic.</p> <!-- Featured Image -->
 <div > <img src="https://static01.nyt.com/images/2016/04/14/arts/14LEBON/14LEBON-superJumbo.jpg" alt="Cate Le Bon - I Think I Knew" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/gyHQFs2bzL0" title="Cate Le Bon (Ft. Perfume Genius) - I Think I Knew" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "gyHQFs2bzL0" >}}
 </div> <!-- Song Information -->
 <div > <p>"I Think I Knew," a duet with Perfume Genius from *Mug Museum*, blends Cate Le Bonâ€™s ethereal vocals and poetic lyricism with lush chamber pop arrangements, making it a standout in her discography.</p>
 </div> <!-- Footer Links -->

@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Pink & Blue" by Tycho featuring Saint Sinner, from the album *Pink & Blue*, released on May 14, 2019, by Mom+Pop. This track blends chillwave and downtempo electronica, showcasing Tycho's signature downtempo and IDM style.</p> <!-- Featured Image -->
 <div > <img src="https://f4.bcbits.com/img/a0780202568_65" alt="Tycho - Pink & Blue" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/eZ3t-S8JhZM" title="Tycho - Pink & Blue (feat. Saint Sinner) (RAC Mix)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "eZ3t-S8JhZM" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Pink & Blue"</em> by Tycho featuring Saint Sinner is a track from the album *Pink & Blue*, released on May 14, 2019. Known for its chillwave and downtempo vibes, it blends electronica with intelligent dance music for a relaxing, introspective experience.</p>
 </div> <!-- Footer Links -->

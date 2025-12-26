@@ -17,7 +17,7 @@ layout: post
 <li><p>"Kerina" (with Buck Meek)<br />Album: <em>a-sides</em><br />Release Date: May 1, 2014<br />Label: Saddle Creek<br />Genres: Folk/Acoustic, Pop, Rock</p></li>
 <li><p>"Angels" (with Buck Meek)<br />Album: <em>b-sides</em><br />Release Date: May 1, 2014<br />Label: Saddle Creek<br />Genres: Folk/Acoustic, Pop, Rock</p></li>
 </ol>
-<iframe allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" allowfullscreen="" frameborder="0" height="352" loading="lazy" src="https://open.spotify.com/embed/playlist/6oBYaKOYnHflGE5oSBheLM?utm_source=generator" width="100%"></iframe>
+{{< youtube "embed" >}}
 <div class="separator">
 <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Big_Thief_-_Haldern_Pop_Festival_2018-4.jpg/1200px-Big_Thief_-_Haldern_Pop_Festival_2018-4.jpg" >
 <img alt="" border="0" data-original-height="1024" data-original-width="1548" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Big_Thief_-_Haldern_Pop_Festival_2018-4.jpg/1200px-Big_Thief_-_Haldern_Pop_Festival_2018-4.jpg" width="320" />

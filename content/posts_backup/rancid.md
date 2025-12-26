@@ -3,10 +3,10 @@ title: "rancid"
 layout: post
 ---
 <h3>BigBanonos' Favorite Songs by Rancid</h3> <!-- Featured Image -->
-<div > <a href="https://www.rollingstone.com/wp-content/uploads/2018/06/rs-181617-469260791.jpg?w=1581&h=1054&crop=1" target="_blank"> <img src="https://www.rollingstone.com/wp-content/uploads/2018/06/rs-181617-469260791.jpg?w=1581&h=1054&crop=1" alt="Rancid - Band Image"> </a>
+<div > <a href="https://www.rollingstone.com/wp-content/uploads/2018/06/rs-181617-469260791.jpg?w=1581&h=1054&crop=1" target="_blank"> {{< img-lite src="https://www.rollingstone.com/wp-content/uploads/2018/06/rs-181617-469260791.jpg?w=1581&h=1054&crop=1" alt="Rancid - Band Image" >}} </a>
 </div> <!-- Introductory Text -->
 <p>Updated July 14, 1998, with tracks from Rancid's impactful album <strong>Life Won't Wait</strong>. BigBanonos highlights the band's punk and ska roots, showcasing their unique blend of energy and storytelling in these standout tracks.</p> <!-- Spotify Playlist Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/1HBxJIYQf83iJOuEpzFuUa?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Song List -->
 <h4>Top Songs:</h4>
 <ol> <li><strong>Hoover Street</strong> | <em>Life Won't Wait</em> | Released: July 14, 1998 | Epitaph | Genre: punk, ska, skate punk</li> <li><strong>Roots Radical</strong> | <em>...And Out Come The Wolves</em> | Released: August 15, 1995 | Epitaph | Genre: punk, ska, skate punk</li>

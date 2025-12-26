@@ -7,7 +7,7 @@ layout: post
 <p >Updated February 11, 2008, with "Is It You" by Cassie. This smooth and melodic track from the *Step Up 2: The Streets* soundtrack blends elements of dance pop, R&B, and urban contemporary for a captivating listen. Watch the video below!</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d0000b2734810e35538fa83bae2f38f76" alt="Cassie - Is It You" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="560" height="315" src="https://www.youtube.com/embed/VIDEO_ID" frameborder="0" allowfullscreen></iframe>
+<div > {{< youtube "VIDEO_ID" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Is It You"</em>, released on February 11, 2008, under Bad Boy Records, is a standout track by Cassie. Known for its infectious rhythm and sultry vocals, this song blends pop, R&B, and hip-hop influences, making it a favorite for fans of urban contemporary music.</p>
 </div> <!-- Footer Links -->

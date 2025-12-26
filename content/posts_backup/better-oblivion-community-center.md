@@ -7,7 +7,7 @@ layout: post
 <p >Updated January 24, 2019, with BigBanonos' favorite song by Better Oblivion Community Center, "Dylan Thomas," featuring Phoebe Bridgers and Conor Oberst. Released under Dead Oceans, this track is a standout from their self-titled album. Watch the video and see more details below:</p> <!-- Featured Image -->
 <div > <img src="https://www.rollingstone.com/wp-content/uploads/2019/01/better-oblivion-social-club-tour.jpg?w=910&h=511&crop=1" alt="Better Oblivion Community Center - Dylan Thomas" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/UXzReYLuavg" title="Better Oblivion Community Center - Dylan Thomas" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "UXzReYLuavg" >}}
 </div> <!-- Song Information -->
 <div > <p>"Dylan Thomas" by Better Oblivion Community Center is a poignant blend of indie pop and melancholia, showcasing the vocal harmonies of Phoebe Bridgers and Conor Oberst. Released on January 24, 2019, under Dead Oceans, this 3:36-long track from their self-titled album resonates with its introspective lyrics and chamber pop sensibilities, embodying the essence of LA indie and Omaha indie scenes.</p>
 </div> <!-- Footer Links -->

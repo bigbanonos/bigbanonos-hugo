@@ -2,7 +2,7 @@
 title: "sporting life 1 song"
 layout: post
 ---
-<iframe frameborder="0" height="360" src="https://youtube.com/embed/X856vlhWAhE" width="480"></iframe><br /><h2><ol><li>(ft. Saji) DAY for ONE [2020]</li></ol></h2>
+{{< youtube "X856vlhWAhE" >}}<br /><h2><ol><li>(ft. Saji) DAY for ONE [2020]</li></ol></h2>
 
 <!--Subscribe and Playlist Links-->
 <div>

@@ -7,7 +7,7 @@ layout: post
 <p >Updated January 1, 2006, with "The Sweet Escape" by Gwen Stefani featuring Akon. This infectious dance-pop track highlights Gwen's distinct vocal flair alongside Akon's smooth harmonies, creating an unforgettable anthem from her second solo album.</p> <!-- Featured Image -->
 <div > <img src="https://i.ytimg.com/vi/2QzipoIzPWU/hqdefault.jpg" alt="Gwen Stefani & Akon - The Sweet Escape" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/O0lf_fE3HwA" title="Gwen Stefani - The Sweet Escape ft. Akon" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "O0lf_fE3HwA" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"The Sweet Escape"</em> became an instant hit with its catchy hooks and upbeat tempo. Released on January 1, 2006, it stands out as one of the defining tracks of the mid-2000s pop scene, showcasing Gwen Stefani's versatility and Akon's signature touch.</p>
 </div> <!-- Footer Links -->

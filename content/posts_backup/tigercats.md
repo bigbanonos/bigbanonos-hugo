@@ -6,7 +6,7 @@ layout: post
 <div class="separator"> <a href="https://www.neonfiller.com/wordpress/wp-content/uploads/2018/05/tigercats-13-e1526651426282.jpg" > <img alt="Tigercats" border="0" width="320" data-original-height="480" data-original-width="640" src="https://www.neonfiller.com/wordpress/wp-content/uploads/2018/05/tigercats-13-e1526651426282.jpg"/> </a>
 </div>
 <p>Tigercats bring a refreshing mix of indie pop and rock with their clever lyrics and London charm. Here are BigBanonos' favorite tracks:</p> <ol> <li><strong>Konny Huck (Stream)</strong> | Released: 2010</li> <li><strong>Junior Champion</strong> | <em>Rock Mysteries</em> | Released: 2015-02-02 | Fortuna POP!</li> <li><strong>King of Vic</strong> | <em>Rock Mysteries</em> | Released: 2015-02-02 | Fortuna POP!</li>
-</ol> <div> <iframe src="https://open.spotify.com/embed/playlist/6u3HQ9piC2ZDpBDgeWohOv?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</ol> <div> {{< youtube "embed" >}}
 </div> <p>Explore more on <a href="https://bigbanonos.blogspot.com/">BigBanonos</a>, or check out BigBanonos on <a href="https://www.youtube.com/@BigBanonos">YouTube</a> and <a href="https://x.com/bigbanonos">Twitter</a>.</p> <p>Tags: @tigercats</p>
 
 

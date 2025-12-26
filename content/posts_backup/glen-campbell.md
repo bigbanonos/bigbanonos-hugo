@@ -5,9 +5,9 @@ layout: post
  <!-- Title of the Post -->
 <h1>BigBanonos' Top Songs by Glen Campbell</h1> <!-- Introductory Text -->
 <p>Glen Campbell combined heartfelt country melodies with smooth vocals to create timeless classics. Here are BigBanonos' top picks from his storied career:</p> <!-- Featured Image -->
-<div> <img src="https://i.scdn.co/image/ab67616d0000b273461762c15f05e141fe6f3097" alt="Glen Campbell">
+<div> {{< img-lite src="https://i.scdn.co/image/ab67616d0000b273461762c15f05e141fe6f3097" alt="Glen Campbell" >}}
 </div> <!-- Spotify Embed -->
-<div> <iframe src="https://open.spotify.com/embed/playlist/18V8O0VInnLxbugT110VPd?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div> {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <h3>Top Songs:</h3>
 <ul> <li><strong>Wishing Now (Remastered 2001)</strong> | <em>Reunion: The Songs Of Jimmy Webb</em> | Released: 1974 | Label: Capitol Nashville | Genres: Classic Country Pop, Soft Rock, Folk Rock</li> <li><strong>I Keep It Hid (Remastered 2001)</strong> | <em>Reunion: The Songs Of Jimmy Webb</em> | Released: 1974 | Label: Capitol Nashville | Genres: Classic Country Pop, Soft Rock, Folk Rock</li> <li><strong>It's A Sin When You Love Somebody (Remastered 2001)</strong> | <em>Reunion: The Songs Of Jimmy Webb</em> | Released: 1974 | Label: Capitol Nashville | Genres: Classic Country Pop, Soft Rock, Folk Rock</li>

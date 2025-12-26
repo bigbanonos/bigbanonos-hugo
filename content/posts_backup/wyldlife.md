@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Guardian Angels" by WYLDLIFE, from the album *The Time Has Come to Rock & Roll*, released on April 16, 2013, by Wyldlife. The track showcases action rock, glam punk, and modern power pop vibes that deliver an energetic punch.</p> <!-- Featured Image -->
 <div > <img src="https://f4.bcbits.com/img/0036249900_10.jpg" alt="WYLDLIFE - Guardian Angels" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="514" src="https://www.youtube.com/embed/7fTaRss3cCQ" title="WYLDLIFE - Guardian Angels" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "7fTaRss3cCQ" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Guardian Angels"</em> by WYLDLIFE is from the album *The Time Has Come to Rock & Roll*, released on April 16, 2013. This track merges action rock, glam punk, and modern power pop into a high-energy anthem that captures the essence of rebellious spirit.</p>
 </div> <!-- Footer Links -->

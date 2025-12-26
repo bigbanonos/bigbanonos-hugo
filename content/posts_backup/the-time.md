@@ -5,11 +5,11 @@ layout: post
 <div class="post-title"> <h1>BigBanonos' Favorite Songs by The Time</h1>
 </div>
 <p>Updated August 24, 1982, with "777-9311" from the album <i>What Time Is It?</i>, highlighted in the playlist below:</p>
-<div class="post-image"> <img src="https://static.tvtropes.org/pmwiki/pub/images/tt.jpg" alt="The Time Album Cover">
+<div class="post-image"> {{< img-lite src="https://static.tvtropes.org/pmwiki/pub/images/tt.jpg" alt="The Time Album Cover" >}}
 </div>
 <p>The Time's unique blend of funk, rock, and the Minneapolis sound solidified their place in music history. Tracks like "777-9311" and "Gigolos Get Lonely Too" from their second album <i>What Time Is It?</i> highlight the bandâ€™s signature grooves and unforgettable rhythms. Released on August 24, 1982, these songs remain staples of the genre.</p>
 <p>Listen to the playlist below to experience these tracks and more:</p>
-<div class="spotify-embed"> <iframe src="https://open.spotify.com/embed/playlist/4tS5C1A7pXi3474zPPrD3P?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div class="spotify-embed"> {{< youtube "embed" >}}
 </div>
 <p>Tracks featured:</p>
 <ul> <li>"777-9311" â€“ <i>What Time Is It?</i> (August 24, 1982, Warner Records)</li> <li>"Gigolos Get Lonely Too" â€“ <i>What Time Is It?</i> (August 24, 1982, Warner Records)</li>

@@ -7,7 +7,7 @@ layout: post
 <p >Updated December 18, 2015, with BigBanonos' favorite track, "Wickedest Gyal" by Chizzy Ranking. This energetic track, set on the Smoke Machine Riddim, is a must-listen from CD Run.</p> <!-- Featured Image -->
 <div > <img src="https://is1-ssl.mzstatic.com/image/thumb/Music7/v4/e3/8d/f6/e38df643-1497-33d6-bbf1-1173eb103f83/cover.jpg/486x486bb.png" alt="Chizzy Ranking - Wickedest Gyal" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/fx2dLzpvlW4" title="Wickedest Gyal (Smoke Machine Riddim)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "fx2dLzpvlW4" >}}
 </div> <!-- Song Information -->
 <div > <p>"Wickedest Gyal," released on December 18, 2015, showcases Chizzy Ranking's vibrant energy and dancehall charisma. Built on the Smoke Machine Riddim, this track is a highlight from CD Run.</p>
 </div> <!-- Footer Links -->

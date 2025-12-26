@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Pressure Drop" by Toots & The Maytals, from the album *Toots & The Maytals - Pressure Drop*, released on March 15, 2013, by Delta - X5 Music Group. This timeless reggae classic captures the spirit of the genre with its unforgettable rhythm and infectious melody.</p> <!-- Featured Image -->
 <div > <img src="https://m.media-amazon.com/images/I/51ztt383ZnL._UF1000,1000_QL80_.jpg" alt="Toots & The Maytals - Pressure Drop" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="617" src="https://www.youtube.com/embed/DKVB_CtU8XQ" title="Pressure Drop" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "DKVB_CtU8XQ" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Pressure Drop"</em> by Toots & The Maytals is a reggae anthem from their 2013 album *Toots & The Maytals - Pressure Drop*. Released on March 15, the song is a cornerstone of reggae music, blending roots reggae and ska with Toots' distinctive vocal style and rhythmic genius.</p>
 </div> <!-- Footer Links -->

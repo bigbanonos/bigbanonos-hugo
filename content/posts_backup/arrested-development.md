@@ -7,7 +7,7 @@ layout: post
 <p >Updated January 1, 2002, with BigBanonos' favorite song by Arrested Development, "Mr. Wendal - Remastered 2002," from the album *Classic Masters*. Watch the video and see more details below:</p> <!-- Featured Image -->
 <div > <img src="https://i.ytimg.com/vi/GfxvsHpTZWk/mqdefault.jpg" alt="Arrested Development - Mr. Wendal" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/QCDUsMA7O80" title="Arrested Development - Mr. Wendal - [Official Music Video]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "QCDUsMA7O80" >}}
 </div> <!-- Song Information -->
 <div > <p>"Mr. Wendal - Remastered 2002" by Arrested Development is a powerful and thought-provoking track blending conscious and old-school Atlanta hip hop vibes. Originally released in the early 90s and remastered on January 1, 2002, under Capitol Records, this song remains a defining moment in conscious hip hop.</p>
 </div> <!-- Footer Links -->

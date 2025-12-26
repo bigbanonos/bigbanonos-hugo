@@ -7,7 +7,7 @@ layout: post
 <p >Updated March 1, 2019, with "Emergency" by Nonso Amadi. This track from the album <em>Emergency</em>, released under Platoon, blends smooth R&B with Afrobeats and Nigerian pop influences, showcasing Amadiâ€™s ability to fuse genres for a unique sound.</p> <!-- Featured Image -->
 <div > <img src="https://www.okayafrica.com/media-library/nonso-amadi.jpg?id=33775200&width=1245&height=700&quality=85&coordinates=0%2C260%2C0%2C61" alt="Nonso Amadi - Emergency" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/aQKe5uSjTo8" title="Nonso Amadi - Emergency (Official Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "aQKe5uSjTo8" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Emergency"</em> by Nonso Amadi is an Afrobeats-infused R&B track from the album <em>Emergency</em>, blending smooth melodies with Nigerian pop influences. Released under Platoon, this song captures Amadiâ€™s unique sound within the contemporary African music scene.</p>
 </div> <!-- Footer Links -->

@@ -2,7 +2,7 @@
 title: "josephine foster"
 layout: post
 ---
-<h2>BigBanonos' Favorite Songs by Josephine Foster</h2> <p><strong>Updated October 19, 2018, with "Challenger" from <em>Challenger</em></strong></p> <img src="https://i.scdn.co/image/ab6761610000e5eb571cde1325b52c24c47ff589" width="100%" alt="Josephine Foster"> <p>Josephine Foster blends folk traditions with a modern experimental edge. Below are BigBanonos' favorite songs by Josephine Foster.</p> <h3>Listen on Spotify</h3> <iframe src="https://open.spotify.com/embed/playlist/1lL1yXVquhUizswP3hRAJy?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> <h3>"Shay Shay"</h3>
+<h2>BigBanonos' Favorite Songs by Josephine Foster</h2> <p><strong>Updated October 19, 2018, with "Challenger" from <em>Challenger</em></strong></p> {{< img-lite src="https://i.scdn.co/image/ab6761610000e5eb571cde1325b52c24c47ff589" alt="Josephine Foster" >}} <p>Josephine Foster blends folk traditions with a modern experimental edge. Below are BigBanonos' favorite songs by Josephine Foster.</p> <h3>Listen on Spotify</h3> {{< youtube "embed" >}} <h3>"Shay Shay"</h3>
 <p><em>Little Life</em>, Fire Records, March 26, 2001</p> <h3>"Tom Peck, Neighbor Friend"</h3>
 <p><em>Little Life</em>, Fire Records, March 26, 2001</p> <h3>"Three Day Days"</h3>
 <p><em>Little Life</em>, Fire Records, March 26, 2001</p> <h3>"Child of God"</h3>

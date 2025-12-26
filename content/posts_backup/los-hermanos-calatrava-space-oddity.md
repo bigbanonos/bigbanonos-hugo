@@ -3,7 +3,7 @@ title: "los hermanos calatrava space oddity"
 layout: post
 ---
 #covers w/ originals <br />
-<iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/oRllh5H_cCw?list=PLtuNtuTatqI0T_GCRVtVWFUSn_PgEFzjS" width="95%"></iframe> <br />
+{{< youtube "oRllh5H_cCw" >}} <br />
 Space Oddity (David Bowie) 1969 
 
 <!--Subscribe and Playlist Links-->

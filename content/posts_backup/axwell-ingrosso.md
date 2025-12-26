@@ -7,7 +7,7 @@ layout: post
 <p >Updated April 28, 2017, with BigBanonos' favorite song by Axwell /\ Ingrosso and Chace, "I Love You - Chace Remix," released under EMI. Watch the video and see more details below:</p> <!-- Featured Image -->
 <div > <img src="https://i.ytimg.com/vi/nbXgHAzUWB0/maxresdefault.jpg" alt="Axwell /\ Ingrosso and Chace - I Love You Remix" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/l69RpL1msEc" title="Axwell ÃƒÅ½Ã¢â‚¬Âº Ingrosso - I Love You (Chace Remix)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "l69RpL1msEc" >}}
 </div> <!-- Song Information -->
 <div > <p>"I Love You - Chace Remix" by Axwell /\ Ingrosso and Chace is an electrifying EDM anthem with a pop dance twist. Released on April 28, 2017, under EMI, this remix adds a progressive electro house vibe with Chace's signature Chinese electronic style, making it a standout reimagining of the original track.</p>
 </div> <!-- Footer Links -->

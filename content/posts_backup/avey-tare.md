@@ -5,9 +5,9 @@ layout: post
 
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Avey Tare</h1> <!-- Featured Image -->
-<div > <img src="https://i.scdn.co/image/ab6761610000e5eba72c69fdd7e8f0f26130db39" alt="Avey Tare">
+<div > {{< img-lite src="https://i.scdn.co/image/ab6761610000e5eba72c69fdd7e8f0f26130db39" alt="Avey Tare" >}}
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/3Mt7rbnOovkZOjkxkEdb7f?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Introductory Text -->
 <p >Avey Tare's experimental approach to pop music results in a unique, otherworldly sound. From "Lips At Night" to "The Musical," here are BigBanonos' top picks from the innovative artist.</p> <!-- Song Highlights -->
 <div > <p>BigBanonos' standout picks:</p> <ol> <li><strong>Lips At Night</strong> | <em>7s</em> | Released: February 17, 2023 | Domino Recording Co</li> <li><strong>The Musical</strong> | <em>The Musical / Hey Bog</em> | Released: January 13, 2023 | Domino Recording Co</li> <li><strong>Disc One</strong> | <em>Conference of Birds</em> | Released: April 7, 2023 | Domino Recording Co</li> </ol>

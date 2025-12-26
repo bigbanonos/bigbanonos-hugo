@@ -7,7 +7,7 @@ layout: post
 <p >Updated February 22, 2019, with "Who" by Modeselektor featuring Tommy Cash. From the album <em>Who Else</em>, released under Monkeytown Records, this track blends electronica, intelligent dance music, and Estonian hip hop, creating a genre-defying masterpiece.</p> <!-- Featured Image -->
 <div > <img src="https://upload.wikimedia.org/wikipedia/commons/b/bc/Press_Pic_0125asw_modeselektor_2018_photo_birgit_kaulfuss.jpg" alt="Modeselektor & Tommy Cash - Who" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="617" src="https://www.youtube.com/embed/Y5pPkCc3dLM" title="Who" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "Y5pPkCc3dLM" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Who"</em> by Modeselektor and Tommy Cash is a groundbreaking track that merges experimental electronica with Estonian hip hop. Released on the album <em>Who Else</em>, this track pushes the boundaries of IDM with its bold rhythms, innovative beats, and powerful vocal performance from Tommy Cash.</p>
 </div> <!-- Footer Links -->

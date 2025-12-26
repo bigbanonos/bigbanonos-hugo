@@ -7,7 +7,7 @@ layout: post
 <p >Updated January 17, 2025, with "What Part of Me" from <em>Ones and Sixes</em>. Experience the slowcore brilliance of Low in the playlist below!</p> <!-- Featured Image -->
 <div > <img src="https://i.discogs.com/k4N-dF2BHmZcS59qKbRtSR4uKyd4Tr_DBWJDveW-IsQ/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5Nzg5/NzgtMTQ5OTU2NTYw/NC04NjI2LmpwZWc.jpeg" alt="Low" />
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/2ACpfyj8z8YapbA9JAJU7E?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <div > <p><strong>"What Part of Me"</strong><br> Genre: Pop, Folk/Acoustic, Rock<br> Album: <em>Ones and Sixes</em><br> Release Date: September 11, 2015<br> Label: Sub Pop Records</p> <p><strong>"The Innocents"</strong><br> Genre: Pop, Folk/Acoustic, Rock<br> Album: <em>Ones and Sixes</em><br> Release Date: September 11, 2015<br> Label: Sub Pop Records</p> <p><strong>"Kid in the Corner"</strong><br> Genre: Pop, Folk/Acoustic, Rock<br> Album: <em>Ones and Sixes</em><br> Release Date: September 11, 2015<br> Label: Sub Pop Records</p>
 </div> <!-- Footer Links -->

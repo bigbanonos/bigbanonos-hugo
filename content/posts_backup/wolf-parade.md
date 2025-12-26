@@ -5,12 +5,12 @@ layout: post
 <!-- Post Title -->
 <h1>BigBanonos Favorite Songs by Wolf Parade</h1> <!-- Introductory Text -->
 <p>Updated November 27, 2024, with "Dear Sons & Daughters of Hungry Ghosts" from *Apologies to the Queen Mary*, highlighted in the playlist below:</p> <!-- Featured Image -->
-<img src="https://qromag.com/wp-content/uploads/2016/05/wolfparademay17-800x445.jpg" alt="Wolf Parade Featured Image"> <!-- Spotify Playlist Embed -->
-<iframe src="https://open.spotify.com/embed/playlist/2TJCGCqJi7CoKuGRDbYksn?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> <!-- Song Information -->
+{{< img-lite src="https://qromag.com/wp-content/uploads/2016/05/wolfparademay17-800x445.jpg" alt="Wolf Parade Featured Image" >}} <!-- Spotify Playlist Embed -->
+{{< youtube "embed" >}} <!-- Song Information -->
 <ul> <li>"Dear Sons & Daughters of Hungry Ghosts" from *Apologies to the Queen Mary* (September 27, 2005) - Sub Pop Records</li> <li>"You Are a Runner and I Am My Father's Son" from *Apologies to the Queen Mary* (September 27, 2005) - Sub Pop Records</li> <li>"Shine A Light" from *Apologies to the Queen Mary* (September 27, 2005) - Sub Pop Records</li> <li>"Dinner Bells" from *Apologies to the Queen Mary* (September 27, 2005) - Sub Pop Records</li> <li>"Ghost Pressure" from *Expo 86* (June 29, 2010) - Sub Pop Records</li> <li>"Against the Day" from *Against the Day* (October 16, 2019) - Sub Pop Records</li> <li>"Fine Young Cannibals" from *At Mount Zoomer* (June 17, 2008) - Sub Pop Records</li> <li>"I'll Believe in Anything" from *Apologies to the Queen Mary* (September 27, 2005) - Sub Pop Records</li> <li>"Modern World" from *Apologies to the Queen Mary* (September 27, 2005) - Sub Pop Records</li> <li>"Grounds for Divorce" from *Apologies to the Queen Mary* (September 27, 2005) - Sub Pop Records</li>
 </ul> <!-- YouTube Video Embed -->
 <h2>Watch Wolf Parade on YouTube</h2>
-<iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/Kh8-r6O43Rw?list=PLtuNtuTatqI1mkrZjfkcdzhEJFBj5g7ua" width="560"></iframe> <!-- Footer Links -->
+{{< youtube "Kh8-r6O43Rw" >}} <!-- Footer Links -->
 <p>For more updates and playlists, visit <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Connect with us on <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p>
 
 

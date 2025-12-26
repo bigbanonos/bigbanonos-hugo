@@ -4,7 +4,7 @@ layout: post
 ---
 <h1>BigBanonos Top Songs by The Supremes</h1>
 <img alt="The Supremes" src="https://cdn.britannica.com/40/102440-050-4D4C5E29/Supremes-Florence-Ballard-Mary-Wilson-Diana-Ross.jpg" /> <p>The Supremes' classic Motown sound remains timeless. BigBanonos' top picks include:</p> <ol> <li><strong>Baby Love</strong> | <em>Motown: The Complete No. 1's</em> | Released: 2008-12-15 | Motown Records</li> <li><strong>You Keep Me Hangin' On</strong> | <em>Motown: The Complete No. 1's</em> | Released: 2008-12-15 | Motown Records</li><li><span data-sheets-root="1"><span>You Can't Hurry Love (</span><span><a class="in-cell-link" href="https://draft.blogger.com/blog/post/edit/6817930984197672883/8326881601823561461#" target="_blank">Stream</a></span><span>) 1966</span></span></li>
-</ol> <div> <iframe allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" frameborder="0" height="352" loading="lazy" src="https://open.spotify.com/embed/playlist/0Z7qR6ZmD6UsQlssM7zrh2?utm_source=generator" width="100%"></iframe>
+</ol> <div> {{< youtube "embed" >}}
 </div>
 <p>Tags: @supremes,@motown</p>
 

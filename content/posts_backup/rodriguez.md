@@ -7,7 +7,7 @@ layout: post
 <p >Updated July 24, 2012, with "Sugar Man" by RodrÃƒÆ’Ã‚Â­guez. Featured on the *Searching For Sugar Man (Original Motion Picture Soundtrack)*, released under Clarence Avant Catalog, this iconic track combines folk and folk rock elements that have captivated listeners for decades. Watch and listen below!</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/d1d0f4b212e16eb6bf079e8e7bae11828378a2bc" alt="RodrÃƒÆ’Ã‚Â­guez - Sugar Man" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="560" height="315" src="https://www.youtube.com/embed/D1NS1uriYJU" title="RodrÃƒÆ’Ã‚Â­guez - Sugar Man" frameborder="0" allowfullscreen></iframe>
+<div > {{< youtube "D1NS1uriYJU" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Sugar Man"</em>, released on July 24, 2012, as part of the *Searching For Sugar Man* soundtrack, is a timeless masterpiece that reflects RodrÃƒÆ’Ã‚Â­guez's poetic songwriting and soulful melodies. Its rediscovery brought widespread acclaim, affirming its place as a folk rock classic.</p>
 </div> <!-- Footer Links -->

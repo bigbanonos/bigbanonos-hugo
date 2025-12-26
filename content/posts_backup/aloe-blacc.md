@@ -4,9 +4,9 @@ layout: post
 ---
 <h1>BigBanonos 2 Favorite Songs by Aloe Blacc</h1>
 <img alt="Aloe Blacc" src="https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2010/9/16/1284633457930/Aloe-Blacc-006.jpg?width=465&dpr=1&s=none&crop=none" /> <p>This collection of BigBanonos' favorite tracks by Aloe Blacc was updated November 23, 2024, highlighting his soulful blend of pop and R&B, featuring standout tracks like "I Need A Dollar" and "Busking."</p> <ol> <li>I Need A Dollar - Album: <i>Good Things</i>, Label: Urban, Released: January 1, 2010</li> <li>Busking - Album: <i>Shine Through</i>, Label: Stones Throw Records, Released: May 30, 2006</li>
-</ol> <div> <iframe allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" allowfullscreen="" frameborder="0" height="352" loading="lazy" src="https://open.spotify.com/embed/playlist/74H7dNnS9D9QqNRqffcHlj?utm_source=generator" width="100%"></iframe>
+</ol> <div> {{< youtube "embed" >}}
 </div> <h3>Video Playlist</h3>
-<div> <iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/rLFZdexQ-NM?list=PLtuNtuTatqI2Ak13z9CYo9YoLWmjJhMR1" width="95%"></iframe> <p>first posted by https://bigbanonos.blogspot.com/</p></div> <div> <p>Explore more BigBanonos content: <a href="https://bigbanonos.blogspot.com/">Website</a> | <a href="https://www.youtube.com/@BigBanonos">YouTube</a> | <a href="https://x.com/bigbanonos">Twitter</a></p>
+<div> {{< youtube "rLFZdexQ-NM" >}} <p>first posted by https://bigbanonos.blogspot.com/</p></div> <div> <p>Explore more BigBanonos content: <a href="https://bigbanonos.blogspot.com/">Website</a> | <a href="https://www.youtube.com/@BigBanonos">YouTube</a> | <a href="https://x.com/bigbanonos">Twitter</a></p>
 </div> <!--Tags-->
 <p>@aloeblacc</p>
 

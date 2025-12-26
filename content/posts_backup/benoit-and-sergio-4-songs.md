@@ -4,7 +4,7 @@ layout: post
 ---
 <h2>BigBanonos' Favorite Songs by Benoit & Sergio</h2> <!--Search Description-->
 <p>BigBanonos' top tracks by Benoit & Sergio, showcasing their unique deep disco house and nu disco style. Check out favorites like "Still Unfamiliar" and "Walk and Talk." Explore more electronic hits on BigBanonos.</p> <!--Spotify Playlist Embed-->
-<iframe allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" allowfullscreen="" frameborder="0" height="352" loading="lazy" src="https://open.spotify.com/embed/playlist/39qqv1572gVXUSXsfxDfNP?utm_source=generator" width="100%"></iframe> <!--Song Listings-->
+{{< youtube "embed" >}} <!--Song Listings-->
 <ul> <li>Still Unfamiliar - <em>Still Unfamiliar</em> (2022)</li> <li>Bridge So Far (Original Mix) - <em>Bridge So Far</em> (2013)</li> <li>What I've Lost - <em>Boy Trouble</em> (2011)</li> <li>Walk and Talk - <em>Where The Freaks Have No Name</em> (2011)</li>
 </ul> <!--Image-->
 <img alt="Benoit & Sergio" height="auto" src="https://images-prod.dazeddigital.com/900/azure/dazed-prod/730/5/735899.jpg" width="100%" /> <!--Tags Section-->

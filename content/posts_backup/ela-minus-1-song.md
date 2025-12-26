@@ -2,7 +2,7 @@
 title: "ela minus 1 song"
 layout: post
 ---
-<iframe frameborder="0" height="270" src="https://www.youtube.com/embed/3EyDeCvQ8vA" width="480"></iframe><div><br /></div><div><h2><ol><li>dominique [2020]</li></ol></h2></div>
+{{< youtube "3EyDeCvQ8vA" >}}<div><br /></div><div><h2><ol><li>dominique [2020]</li></ol></h2></div>
 
 <!--Subscribe and Playlist Links-->
 <div>

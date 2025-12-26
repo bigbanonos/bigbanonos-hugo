@@ -7,7 +7,7 @@ layout: post
 <p >Updated April 13, 2010, with "Don't You Just Know It?" by Huey "Piano" Smith & His Clowns. This timeless New Orleans blues classic showcases the rhythm and infectious energy of Louisiana blues at its finest.</p> <!-- Featured Image -->
 <div > <img src="https://www.rollingstone.com/wp-content/uploads/2023/02/huey-piano-smith.jpg" alt="Huey Piano Smith - Don't You Just Know It?" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/6sxnXO2RjVg" title="Don't You Just Know It - Huey 'Piano' Smith" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "6sxnXO2RjVg" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Don't You Just Know It?"</em>, released on April 13, 2010, is a reissue of Huey "Piano" Smith & His Clowns' original rhythm and blues gem. The track captures the iconic sound of New Orleans blues with its playful melody and vibrant energy.</p>
 </div> <!-- Footer Links -->

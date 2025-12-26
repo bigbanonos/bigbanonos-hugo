@@ -7,7 +7,7 @@ layout: post
 <p >Updated December 10, 2010 with BigBanonos' favorite track, "Little Red" by Cathy Davey. This enchanting Irish indie piece blends folk-inspired melodies with powerful storytelling.</p> <!-- Featured Image -->
 <div > <img src="https://m.media-amazon.com/images/I/61E+kkLRbaL._UF1000,1000_QL80_.jpg" alt="Cathy Davey - Little Red" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/w3HbIBAdJ9o" title="CATHY DAVEY 'LITTLE RED' OFFICIAL MUSIC VIDEO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "w3HbIBAdJ9o" >}}
 </div> <!-- Song Information -->
 <div > <p>"Little Red," featured on *The Nameless (expanded edition)* and released under Hammer Toe Ltd, showcases Cathy Davey's unique blend of Irish indie, folk, and rock influences.</p>
 </div> <!-- Footer Links -->

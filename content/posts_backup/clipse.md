@@ -3,7 +3,7 @@ title: "clipse"
 layout: post
 ---
 <h2>Clipse â€“ Essential Tracks</h2> <div > <img src="https://media.pitchfork.com/photos/599b1be007b7060c235260a1/master/pass/clipse-2.jpg" alt="Clipse" width="500" />
-</div> <iframe src="https://open.spotify.com/embed/playlist/6DU1RxxlIDQyjqN7sIxief?utm_source=generator" width="100%" height="352" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> <h3>Tracklist</h3>
+</div> {{< youtube "embed" >}} <h3>Tracklist</h3>
 <ul> <li><strong>Grindin'</strong> â€“ <em>Lord Willin'</em> (2002)</li> <li><strong>Ma, I Donâ€™t Love Her</strong> (feat. Faith Evans) â€“ <em>Lord Willin'</em> (2002)</li> <li><strong>Ride Around Shining</strong> (feat. Ab-Liva) â€“ <em>Hell Hath No Fury</em> (2006)</li>
 </ul> <h3>Highlights</h3>
 <ul> <li><strong>Grindin'</strong> â€“ An iconic hip-hop beat that changed the rap game.</li> <li><strong>Ride Around Shining</strong> â€“ A glossy, gritty highlight from <em>Hell Hath No Fury</em>.</li> <li><strong>Ma, I Donâ€™t Love Her</strong> â€“ A reflective collaboration with Faith Evans that showcases Clipse's versatility.</li>

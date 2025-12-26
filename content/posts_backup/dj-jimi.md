@@ -4,9 +4,9 @@ layout: post
 ---
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by DJ Jimi</h1> <!-- Featured Image -->
-<div > <img src="https://i.scdn.co/image/ab67616d0000b273ecf39bc7da0d3fb9b042db4d" alt="DJ Jimi">
+<div > {{< img-lite src="https://i.scdn.co/image/ab67616d0000b273ecf39bc7da0d3fb9b042db4d" alt="DJ Jimi" >}}
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/10cf2gQZBUNDvFff7fHLmA?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Introductory Text -->
 <p >DJ Jimi's tracks "Where They At" and "Bounce (For The Juvenile)" represent the pulse of early New Orleans bounce music, a genre-defining sound that paved the way for southern hip hop.</p> <!-- Song Highlights -->
 <div > <p>BigBanonos' standout picks:</p> <ol> <li><strong>Where They At - Club Version</strong> | <em>Itâ€™s Jimi</em> | Released: October 16, 1992 | Avenue Distribution</li> <li><strong>Bounce (For The Juvenile)</strong> | <em>Itâ€™s Jimi</em> | Released: October 16, 1992 | Avenue Distribution</li> </ol>

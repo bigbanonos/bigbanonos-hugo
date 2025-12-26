@@ -7,7 +7,7 @@ layout: post
 <p >Updated June 1, 2002, with BigBanonos' favorite song by Aventura, "EnseÃƒÆ’Ã‚Â±ame a Olvidar," from the album *We Broke The Rules*. Watch the video and see more details below:</p> <!-- Featured Image -->
 <div > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Agrupaci%C3%B3n_musical_Aventura.jpg/1200px-Agrupaci%C3%B3n_musical_Aventura.jpg" alt="Aventura - EnseÃƒÆ’Ã‚Â±ame a Olvidar" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/uPCZm2Tvjpo" title="Aventura - EnseÃƒÆ’Ã‚Â±ame A Olvidar" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "uPCZm2Tvjpo" >}}
 </div> <!-- Song Information -->
 <div > <p>"EnseÃƒÆ’Ã‚Â±ame a Olvidar" by Aventura is a soulful bachata classic blending heartfelt lyrics and Latin rhythms. Released on June 1, 2002, under Premium Latin Music, this track from the album *We Broke The Rules* highlights Aventuraâ€™s signature blend of bachata dominicana, Latin pop, and tropical influences.</p>
 </div> <!-- Footer Links -->

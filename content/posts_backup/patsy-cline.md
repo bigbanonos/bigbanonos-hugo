@@ -3,7 +3,7 @@ title: "patsy cline"
 layout: post
 ---
 #1960s <br />
-<iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/0LgEDPaITmU?list=PLtuNtuTatqI3X01zTqiujiaUhFaK1PjKA" width="560"></iframe> She's Got You 1962
+{{< youtube "0LgEDPaITmU" >}} She's Got You 1962
 
 <!--Subscribe and Playlist Links-->
 <div>

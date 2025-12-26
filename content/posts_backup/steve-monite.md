@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Only You" by Steve Monite, from the album *Doing It in Lagos: Boogie, Pop & Disco in 1980's Nigeria*, released on December 9, 2016, by Soundway Records.</p> <!-- Featured Image -->
 <div > <img src="https://i.discogs.com/dS4f4en05_6AXh3BMmIMOEYJUl4IV0alvK-Zdn9Whvk/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4OTc2/MzgtMTU3NzQ3ODg5/Ny03MTY4LmpwZWc.jpeg" alt="Steve Monite - Only You" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/wGsSAVz1BBQ" title="Steve Monite - Only You" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "wGsSAVz1BBQ" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Only You"</em> by Steve Monite is a track from the album *Doing It in Lagos: Boogie, Pop & Disco in 1980's Nigeria*, released on December 9, 2016. This iconic afro-funk track reflects the dynamic music scene of Nigeria in the 1980s.</p>
 </div> <!-- Footer Links -->

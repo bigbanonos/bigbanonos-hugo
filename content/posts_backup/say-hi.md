@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Zero to Love" by Say Hi, from the album *The Wishes and the Glitch*, released on November 30, 2010, by Rebel Group.</p> <!-- Featured Image -->
 <div > <img src="https://images.genius.com/53f1fe0d7c696621c0010f1079ac3728.750x750x1.jpg" alt="Say Hi - Zero to Love" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/0hkwULmne3o" title="Say Hi - Zero To Love" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "0hkwULmne3o" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Zero to Love"</em> by Say Hi is a captivating track from the album *The Wishes and the Glitch*, released on November 30, 2010. The song blends Seattle indie rock with emotional depth, perfectly encapsulating the essence of the genre.</p>
 </div> <!-- Footer Links -->

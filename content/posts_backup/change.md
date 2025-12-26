@@ -7,7 +7,7 @@ layout: post
 <p >Updated September 1, 2013, with BigBanonos' favorite track, "Hold Tight" by Change. This infectious disco-funk classic exemplifies the best of the post-disco era, taken from their album *Paradise (Dance Collection)* under Fonte Records.</p> <!-- Featured Image -->
 <div > <img src="https://i.ytimg.com/vi/DIhfnIlg2Uc/sddefault.jpg" alt="Change - Hold Tight" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/rVZ-9t02h90" title="Change - Hold Tight (extended version)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "rVZ-9t02h90" >}}
 </div> <!-- Song Information -->
 <div > <p>"Hold Tight," released on September 1, 2013, is a standout track that showcases Changeâ€™s smooth blend of disco, funk, and the Minneapolis sound, offering a groove perfect for the dance floor.</p>
 </div> <!-- Footer Links -->

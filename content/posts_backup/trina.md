@@ -5,11 +5,11 @@ layout: post
 <div class="post-title"> <h1>BigBanonos' Favorite Songs by Trina</h1>
 </div>
 <p>Updated June 19, 2019, with "BAPS" featuring Nicki Minaj from the single <i>BAPS</i>, highlighted in the playlist below:</p>
-<div class="post-image"> <img src="https://i.scdn.co/image/ab6761610000e5eb305f5f33baf8e7d11ff8b753" alt="Trina Album Cover">
+<div class="post-image"> {{< img-lite src="https://i.scdn.co/image/ab6761610000e5eb305f5f33baf8e7d11ff8b753" alt="Trina Album Cover" >}}
 </div>
 <p>Trina, known as "The Baddest," has been a trailblazer in hip hop with her confident lyricism and infectious beats. Tracks like "Pull Over" and her collaboration with Nicki Minaj on "BAPS" showcase her dynamic range and status as a rap queen. Released between 2000 and 2019, these songs solidify her legacy in the rap and R&B world.</p>
 <p>Listen to the playlist below to experience these tracks and more:</p>
-<div class="spotify-embed"> <iframe src="https://open.spotify.com/embed/playlist/4iLI1O2diurd2ZI7G2H9NA?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div class="spotify-embed"> {{< youtube "embed" >}}
 </div>
 <p>Tracks featured:</p>
 <ul> <li>"BAPS" (feat. Nicki Minaj) â€“ <i>BAPS</i> (June 19, 2019, Rockstarr Music Group)</li> <li>"Pull Over" â€“ <i>Da Baddest Bitch</i> (January 1, 2000, Atlantic/Slip N' Slide)</li>

@@ -2,8 +2,8 @@
 title: "sibylle baier 3 songs"
 layout: post
 ---
-<h1>BigBanonos Top Songs by Sibylle Baier</h1> <img src="https://sibyllebaier.com/wp-content/uploads/2020/01/robby-and-sibylle.jpg" alt="Sibylle Baier"> <p>Sibylle Baierâ€™s folk music offers a melancholic and timeless vibe. Here are BigBanonos' favorite songs:</p> <ol> <li><strong>Tonight</strong> | <em>Colour Green</em> | Released: 2006-01-01 | Orange Twin</li> <li><strong>Remember the Day</strong> | <em>Colour Green</em> | Released: 2006-01-01 | Orange Twin</li> <li><strong>Says Elliott</strong> | <em>Colour Green</em> | Released: 2006-01-01 | Orange Twin</li>
-</ol> <div> <iframe src="https://open.spotify.com/embed/playlist/3kZSNCp6tLffGMwA7lM8yw?utm_source=generator" width="100%" height="352" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<h1>BigBanonos Top Songs by Sibylle Baier</h1> {{< img-lite src="https://sibyllebaier.com/wp-content/uploads/2020/01/robby-and-sibylle.jpg" alt="Sibylle Baier" >}} <p>Sibylle Baierâ€™s folk music offers a melancholic and timeless vibe. Here are BigBanonos' favorite songs:</p> <ol> <li><strong>Tonight</strong> | <em>Colour Green</em> | Released: 2006-01-01 | Orange Twin</li> <li><strong>Remember the Day</strong> | <em>Colour Green</em> | Released: 2006-01-01 | Orange Twin</li> <li><strong>Says Elliott</strong> | <em>Colour Green</em> | Released: 2006-01-01 | Orange Twin</li>
+</ol> <div> {{< youtube "embed" >}}
 </div> <!-- Tags -->
 <p> Tags: @sibyllebaier
 </p>

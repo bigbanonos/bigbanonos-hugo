@@ -5,14 +5,14 @@ layout: post
 <!-- Title of the Post -->
 <h1>BigBanonos' Top Songs by The Damned</h1> <!-- Introductory Text -->
 <p>The Damned, a pioneering force in punk rock and post-punk, are renowned for their high-energy performances and timeless tracks. From the raw punk energy of their debut to the eclectic sounds of their later work, The Damned continues to inspire fans worldwide. Here are BigBanonos' favorite tracks by The Damned.</p> <!-- Featured Image -->
-<div> <img src="https://i.scdn.co/image/ab67616d0000b2734219580253d7866c98b4f56b" alt="The Damned">
+<div> {{< img-lite src="https://i.scdn.co/image/ab67616d0000b2734219580253d7866c98b4f56b" alt="The Damned" >}}
 </div> <!-- Spotify Embed -->
-<div> <iframe src="https://open.spotify.com/embed/playlist/2eSy2v28eW4Xjwc79dHcyV?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div> {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <h3>Top Songs:</h3>
 <ul> <li><strong>Anti-Pope</strong> | <em>Machine Gun Etiquette</em> | Released: 1979 | Label: Ace Records</li> <li><strong>Neat Neat Neat</strong> | <em>Damned Damned Damned</em> | Released: 1977 | Label: Sanctuary Records Group Ltd.</li> <li><strong>I Just Can't Be Happy Today</strong> | Released: 1979</li>
 </ul> <!-- Additional YouTube Embed -->
-<div> <h3>Featured Video:</h3> <iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/s1G1y7_r8bE?list=PLtuNtuTatqI1yfGrPWnFu2G_VZjKD9vAy" width="100%"></iframe>
+<div> <h3>Featured Video:</h3> {{< youtube "s1G1y7_r8bE" >}}
 </div> <!-- Footer Links -->
 <hr />
 <p>For more updates, visit <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Also, check out our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> channel and follow us on <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a> for more exclusive content!</p> <!-- Tags -->

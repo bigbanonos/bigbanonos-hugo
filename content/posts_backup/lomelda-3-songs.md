@@ -3,10 +3,10 @@ title: "lomelda 3 songs"
 layout: post
 ---
 <h1>Lomelda - Top Songs</h1>
-<img src="https://i.ytimg.com/vi/FJ2vJJjHOi0/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCCH4LEvo65aIrSUyt8D6nK6l2UFg" alt="Lomelda"> <p>Lomelda, known for her introspective style blending folk and rock, creates intimate, reflective music in the countrygaze and small room genres. Here are some of her top songs:</p> <ol> <li><strong>Sad 2</strong> | Album: <em>Sad 2 / Slide</em> | Released: October 13, 2021</li> <li><strong>Hannah Sun</strong> | Album: <em>Hannah</em> | Released: September 4, 2020</li> <li><strong>Wonder</strong> | Album: <em>Hannah</em> | Released: September 4, 2020</li>
-</ol> <div> <iframe src="https://open.spotify.com/embed/playlist/7mavsykVoQtDbIATpsEKzg?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+{{< img-lite src="https://i.ytimg.com/vi/FJ2vJJjHOi0/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCCH4LEvo65aIrSUyt8D6nK6l2UFg" alt="Lomelda" >}} <p>Lomelda, known for her introspective style blending folk and rock, creates intimate, reflective music in the countrygaze and small room genres. Here are some of her top songs:</p> <ol> <li><strong>Sad 2</strong> | Album: <em>Sad 2 / Slide</em> | Released: October 13, 2021</li> <li><strong>Hannah Sun</strong> | Album: <em>Hannah</em> | Released: September 4, 2020</li> <li><strong>Wonder</strong> | Album: <em>Hannah</em> | Released: September 4, 2020</li>
+</ol> <div> {{< youtube "embed" >}}
 </div>
-<iframe frameborder="0" height="270" src="https://www.youtube.com/embed/AA7S0fEgwxw" width="480"></iframe> <p>Explore Lomelda's soulful and contemplative music, where raw emotion meets hauntingly beautiful soundscapes.</p> <!-- Tags -->
+{{< youtube "AA7S0fEgwxw" >}} <p>Explore Lomelda's soulful and contemplative music, where raw emotion meets hauntingly beautiful soundscapes.</p> <!-- Tags -->
 <p>@lomelda</p>
 
 

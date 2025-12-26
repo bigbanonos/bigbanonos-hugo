@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Hold" by Saves The Day, from the album *Ups & Downs: Early Recordings and B-Sides*, released on September 7, 2004, by Vagrant.</p> <!-- Featured Image -->
 <div > <img src="https://i.ytimg.com/vi/LcoHUrLcYDg/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCApIYVbhGvBwxAmopwIW4FoyjsoQ" alt="Saves The Day - Hold" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="601" src="https://www.youtube.com/embed/6-rkqpzupGA" title="Hold" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "6-rkqpzupGA" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Hold"</em> by Saves The Day is a compelling track from the album *Ups & Downs: Early Recordings and B-Sides*, released on September 7, 2004. With its emo, pop-punk, and post-hardcore elements, it captures the energy of New Jersey hardcore.</p>
 </div> <!-- Footer Links -->

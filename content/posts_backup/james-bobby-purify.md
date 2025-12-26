@@ -7,7 +7,7 @@ layout: post
 <p >Updated March 26, 2002, with "I'm Your Puppet" by James & Bobby Purify. Featured on *Shake A Tail Feather! The Best Of James And Bobby Purify*, this timeless classic epitomizes the soulful charm of the 1960s.</p> <!-- Featured Image -->
 <div > <img src="https://upload.wikimedia.org/wikipedia/en/a/a0/James_%26_Bobby_Purify.jpeg" alt="James & Bobby Purify - I'm Your Puppet" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/Tyvn3QR7BRk" title="James & Bobby Purify - I'm Your Puppet" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "Tyvn3QR7BRk" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"I'm Your Puppet"</em> is a quintessential southern soul anthem, showcasing the rich harmonies and heartfelt lyrics that made James & Bobby Purify a household name in classic soul.</p>
 </div> <!-- Footer Links -->

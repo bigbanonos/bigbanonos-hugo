@@ -7,7 +7,7 @@ layout: post
 <p >Updated April 28, 2017, with BigBanonos' favorite track by Bugle, "Our World." This uplifting track, produced by Kadeem - UIM Records, highlights the powerful energy of Jamaican dancehall music. Watch the video and learn more below:</p> <!-- Featured Image -->
 <div > <img src="https://i.ytimg.com/vi/htYVrL2oahw/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDQfMXZRRH29Ep3KWUCdDf9C4t6_A" alt="Bugle - Our World" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/htYVrL2oahw" title="Bugle - Our World - May 2017" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "htYVrL2oahw" >}}
 </div> <!-- Song Information -->
 <div > <p>"Our World" by Bugle, released on April 28, 2017, via Kadeem - UIM Records, is a standout anthem in the Jamaican dancehall genre. Its inspiring message and rhythmic groove make it a timeless favorite.</p>
 </div> <!-- Footer Links -->

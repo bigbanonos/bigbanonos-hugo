@@ -3,10 +3,10 @@ title: "red rat"
 layout: post
 ---
 <h3>BigBanonos' Favorite Songs by Red Rat</h3> <!-- Featured Image -->
-<div > <a href="https://cdns-images.dzcdn.net/images/cover/054c881b4d9df75554d346e2f6bec269/0x1900-000000-80-0-0.jpg" target="_blank"> <img src="https://cdns-images.dzcdn.net/images/cover/054c881b4d9df75554d346e2f6bec269/0x1900-000000-80-0-0.jpg" alt="Red Rat - Monsters Of Dancehall"> </a>
+<div > <a href="https://cdns-images.dzcdn.net/images/cover/054c881b4d9df75554d346e2f6bec269/0x1900-000000-80-0-0.jpg" target="_blank"> {{< img-lite src="https://cdns-images.dzcdn.net/images/cover/054c881b4d9df75554d346e2f6bec269/0x1900-000000-80-0-0.jpg" alt="Red Rat - Monsters Of Dancehall" >}} </a>
 </div> <!-- Introductory Text -->
 <p>Updated 2008 with tracks from Red Rat's legendary album <strong>Monsters Of Dancehall</strong>. BigBanonos celebrates his iconic dancehall hits that continue to inspire and energize the genre today.</p> <!-- Spotify Playlist Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/1er7imESZTAoLRJwe2OsUQ?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Song List -->
 <h4>Top Songs:</h4>
 <ol> <li><strong>Shelly Ann</strong> | <em>Monsters Of Dancehall</em> | Released: 2008 | Greensleeves Records | Genre: dancehall</li> <li><strong>Bizzi Blazzi</strong> | <em>Monsters Of Dancehall</em> | Released: 2008 | Greensleeves Records | Genre: dancehall</li>

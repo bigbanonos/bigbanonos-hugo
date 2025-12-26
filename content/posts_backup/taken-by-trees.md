@@ -4,9 +4,9 @@ layout: post
 ---
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Taken By Trees</h1> <!-- Featured Image -->
-<div > <img src="https://assets.exclaim.ca/image/upload/v1703873999/up-Taken_By_Trees_.jpg" alt="Taken By Trees">
+<div > {{< img-lite src="https://assets.exclaim.ca/image/upload/v1703873999/up-Taken_By_Trees_.jpg" alt="Taken By Trees" >}}
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/2C0pSv4BlKrud2FJNhEUzi?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Introductory Text -->
 <p >Updated with "Only You," "Too Young," and more from Taken By Trees. This Swedish synthpop project blends introspective melodies with dreamy production, making each track a unique auditory experience.</p> <!-- Song Highlights -->
 <div > <p>BigBanonos' favorite tracks by Taken By Trees:</p> <ol> <li><strong>Only You</strong> | <em>Other Worlds</em> | Released: October 2, 2012 | Secretly Canadian</li> <li><strong>Too Young</strong> | <em>Open Field</em> | Released: June 18, 2007 | Rough Trade</li> <li><strong>In Other Words</strong> | <em>Other Worlds</em> | Released: October 2, 2012 | Secretly Canadian</li> </ol>

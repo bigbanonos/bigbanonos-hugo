@@ -7,7 +7,7 @@ layout: post
 <p >Updated December 15, 2017, with "Ex Boyfriend" from <em>Ex Boyfriend</em>. Dive into the witty and comedic rap stylings of Lil Dicky in the playlist below!</p> <!-- Featured Image -->
 <div > <img src="https://i1.sndcdn.com/artworks-000062671809-0uow8m-t500x500.jpg" alt="Lil Dicky" />
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/2UQFE63MGLLE0wXbl1SM4c?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <div > <p><strong>"Ex Boyfriend"</strong><br> Genre: Hip Hop<br> Album: <em>Ex Boyfriend</em><br> Release Date: December 15, 2017<br> Label: Commission Records / David Burd Music</p> <p><strong>"Meet the Burds (Interlude)"</strong><br> Genre: Hip Hop<br> Album: <em>Professional Rapper</em><br> Release Date: July 31, 2015<br> Label: CMSN</p> <p><strong>"$ave Dat Money" (feat. Fetty Wap & Rich Homie Quan)</strong><br> Genre: Hip Hop<br> Album: <em>Professional Rapper</em><br> Release Date: July 31, 2015<br> Label: CMSN</p> <p><strong>"Hannibal Interlude" (feat. Hannibal Buress)</strong><br> Genre: R&B, Country, Hip Hop, Latin<br> Album: <em>Professional Rapper</em><br> Release Date: July 31, 2015<br> Label: CMSN</p> <p><strong>"Professional Rapper" (feat. Snoop Dogg)</strong><br> Genre: Hip Hop<br> Album: <em>Professional Rapper</em><br> Release Date: July 31, 2015<br> Label: CMSN</p>
 </div> <!-- Footer Links -->

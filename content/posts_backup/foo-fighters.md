@@ -7,7 +7,7 @@ layout: post
 <p >Foo Fighters have defined rock for generations, delivering anthems full of energy and emotion. Dive into BigBanonos' favorite Foo Fighters tracks that highlight their musical legacy. Listen below!</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d0000b273cdac19bbaee5cc123edcc26f" alt="Foo Fighters - BigBanonos Favorite Songs" />
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/4nNIWVJbk7J5waxhvXBUFy?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"I'll Stick Around"</em> is a quintessential Foo Fighters track, exuding raw energy and powerful riffs. Taken from their debut album <strong>Foo Fighters</strong>, released on July 4, 1995, it showcases the bandâ€™s post-grunge origins.</p>
 </div> <!-- Footer Links -->

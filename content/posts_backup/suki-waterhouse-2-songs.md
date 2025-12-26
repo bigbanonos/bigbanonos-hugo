@@ -3,8 +3,8 @@ title: "suki waterhouse 2 songs"
 layout: post
 ---
 <h1>BigBanonos Top Songs by Suki Waterhouse</h1>
-<img src="https://i.ytimg.com/vi/bkTqDN26efA/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLB0uAoAIik7OR5u5AypY3lAqkAZFg" alt="Suki Waterhouse"> <p>Actress and singer Suki Waterhouse blends indie pop with heartfelt lyrics. BigBanonos' picks for her songs include:</p> <ol> <li><strong>Good Looking</strong> | <em>Good Looking</em> | Released: 2022-08-12 | Sub Pop Records</li> <li><strong>Every Day's A Lesson In Humility</strong> | <em>Every Day's A Lesson In Humility</em> | Released: 2023-06-13 | Sub Pop Records</li>
-</ol> <div> <iframe src="https://open.spotify.com/embed/playlist/6vItDk97CULhU8nAvq4HTt?utm_source=generator" width="100%" height="352" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+{{< img-lite src="https://i.ytimg.com/vi/bkTqDN26efA/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLB0uAoAIik7OR5u5AypY3lAqkAZFg" alt="Suki Waterhouse" >}} <p>Actress and singer Suki Waterhouse blends indie pop with heartfelt lyrics. BigBanonos' picks for her songs include:</p> <ol> <li><strong>Good Looking</strong> | <em>Good Looking</em> | Released: 2022-08-12 | Sub Pop Records</li> <li><strong>Every Day's A Lesson In Humility</strong> | <em>Every Day's A Lesson In Humility</em> | Released: 2023-06-13 | Sub Pop Records</li>
+</ol> <div> {{< youtube "embed" >}}
 </div>
 <p>Tags: @sukiwaterhouse</p>
 

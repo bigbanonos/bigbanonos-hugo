@@ -7,7 +7,7 @@ layout: post
 <p >Updated January 18, 2011, with "Blue Room" by Fernando Viciconte. This track from the album <em>Dreams of the Sun and Sky</em> offers a mesmerizing blend of heartfelt melodies and lyrical depth.</p> <!-- Featured Image -->
 <div > <img src="https://f4.bcbits.com/img/0020819761_10.jpg" alt="Fernando Viciconte - Blue Room" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/3tBmqo2Ws0E" title="Blue Room" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "3tBmqo2Ws0E" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Blue Room"</em> stands as a soulful reflection, bringing rich instrumental tones and emotional depth to Fernando Viciconte's evocative storytelling.</p>
 </div> <!-- Footer Links -->

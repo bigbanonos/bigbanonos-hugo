@@ -7,7 +7,7 @@ layout: post
 <p >Updated January 17, 2025, with "Hinterland" from <em>Hinterland</em>. Explore the chamber psych sound of LoneLady in the playlist below!</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab6761610000e5eb9bf03df030b2ce79d177f12c" alt="LoneLady" />
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/53IBLmLvh2FaGxx9msSBVE?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <div > <p><strong>"Hinterland"</strong><br> Genre: Folk/Acoustic<br> Album: <em>Hinterland</em><br> Release Date: March 23, 2015<br> Label: Warp Records</p> <p><strong>"Flee!"</strong><br> Genre: Folk/Acoustic<br> Album: <em>Hinterland</em><br> Release Date: March 23, 2015<br> Label: Warp Records</p>
 </div> <!-- Footer Links -->

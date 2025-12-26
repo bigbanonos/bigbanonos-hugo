@@ -7,7 +7,7 @@ layout: post
 <p >Updated May 5, 2003, with "Jogi" by Panjabi MC. This electrifying track from *The Album* blends traditional Punjabi sounds with contemporary beats, showcasing Panjabi MCâ€™s groundbreaking approach to global music. Watch the official video below!</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/89214269d2187e6075c1ebe6a47064fe96c27080" alt="Panjabi MC - Jogi" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="733" height="480" src="https://www.youtube.com/embed/3IXwmslIA9I" title="Panjabi MC - Jogi (Official Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "3IXwmslIA9I" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Jogi"</em>, released on May 5, 2003, under Altra Moda Music, is a standout track from *The Album*. Combining hypnotic Punjabi rhythms with infectious beats, Panjabi MC solidifies his role as a pioneer of the global music fusion movement. This song continues to resonate with fans worldwide.</p>
 </div> <!-- Footer Links -->

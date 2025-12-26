@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Throw It Up" by Yelawolf featuring Gangsta Boo and Eminem, from the album *Radioactive* (Explicit Version), released on January 1, 2011, by Ghet-o-vision, Shady, DGC, and Interscope. This track blends Alabama rap with alternative R&B and dirty south rap, showcasing an intense collaboration between hip hop legends.</p> <!-- Featured Image -->
 <div > <img src="https://www.rap-up.com/article/2011/11/11/media_14a285cc00546e5beae542393f16e92a5a4dd7f3a.jpeg?width=750&format=jpeg&optimize=medium" alt="Yelawolf, Gangsta Boo, Eminem - Throw It Up" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/yKJ2GIiBNuI" title="Yelawolf - Throw It Up ft. Gangsta Boo & Eminem" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "yKJ2GIiBNuI" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Throw It Up"</em> by Yelawolf featuring Gangsta Boo and Eminem is from the album *Radioactive* (Explicit Version), released on January 1, 2011. With its mix of Alabama rap, Memphis hip hop, and Detroit hip hop, the song captures a gritty vibe with hard-hitting verses and an unforgettable hook.</p>
 </div> <!-- Footer Links -->

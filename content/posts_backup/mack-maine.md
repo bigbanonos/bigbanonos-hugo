@@ -7,7 +7,7 @@ layout: post
 <p >Updated January 1, 2012, with "Celebrate" by Mack Maine, featuring Talib Kweli and Lil Wayne. This powerful track, released under Cash Money Records/Motown Records, combines conscious hip hop, east coast hip hop, and New Orleans rap into an uplifting anthem.</p> <!-- Featured Image -->
 <div > <img src="https://pbs.twimg.com/profile_images/780156142592942086/5lRtpzI6_400x400.jpg" alt="Mack Maine - Celebrate" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/aSsRhze8quU" title="Mack Maine - Celebrate (Explicit) ft. Talib Kweli, Lil Wayne" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "aSsRhze8quU" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Celebrate"</em> by Mack Maine, Talib Kweli, and Lil Wayne is an energizing hip hop track that bridges uplifting lyrics with dynamic beats. With its blend of conscious and pop rap, this collaboration continues to inspire listeners across generations.</p>
 </div> <!-- Footer Links -->

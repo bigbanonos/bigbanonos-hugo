@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Ingrid" by Spalding Rockwell, from the album *Kate*, released on July 8, 2005, by Defend Music.</p> <!-- Featured Image -->
 <div > <img src="https://static.wixstatic.com/media/b73459_5946f02606ce4d7d81b687ad09794fd1~mv2.jpg/v1/fill/w_280,h_210,fp_0.50_0.50,q_90,enc_auto/b73459_5946f02606ce4d7d81b687ad09794fd1~mv2.webp" alt="Spalding Rockwell - Ingrid" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="601" src="https://www.youtube.com/embed/ytWMiVY6Ivk" title="Ingrid" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "ytWMiVY6Ivk" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Ingrid"</em> by Spalding Rockwell is a track from the album *Kate*, released on July 8, 2005. The song features an electroclash style with a distinctive modern twist, showcasing a fusion of rock and electronic influences.</p>
 </div> <!-- Footer Links -->

@@ -4,9 +4,9 @@ layout: post
 ---
  <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by The Blue Nile</h1> <!-- Featured Image -->
-<div > <img src="https://i.scdn.co/image/ab67616d00001e025ec013cf18cb474b9a9470fe" alt="The Blue Nile">
+<div > {{< img-lite src="https://i.scdn.co/image/ab67616d00001e025ec013cf18cb474b9a9470fe" alt="The Blue Nile" >}}
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/1wZhNATzK1T0bIRVu7ghMZ?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Introductory Text -->
 <p >The Blue Nileâ€™s sophisticated soundscapes and emotional depth resonate through their music. From "A Walk Across the Rooftops" to "The Downtown Lights," here are BigBanonos' favorites.</p> <!-- Song Highlights -->
 <div > <p>BigBanonos' standout picks:</p> <ol> <li><strong>A Walk Across the Rooftops</strong> | <em>A Walk Across the Rooftops (Deluxe Version)</em> | Released: November 19, 2012 | Confetti Records</li> <li><strong>The Downtown Lights</strong> | <em>Hats (Deluxe Version)</em> | Released: October 16, 1989 | Epstein Records</li> </ol>

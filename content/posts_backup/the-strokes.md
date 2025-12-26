@@ -21,7 +21,7 @@ layout: post
 <p><strong>"Reptilia"</strong> â€“ <em>Room On Fire</em> (RCA Records Label, 2003)</p>
 <p><strong>"Between Love & Hate"</strong> â€“ <em>Room On Fire</em> (RCA Records Label, 2003)</p>
 <p><strong>"12:51"</strong> â€“ <em>Room On Fire</em> (RCA Records Label, 2003)</p>
-<p><strong>"Meet Me in the Bathroom"</strong> â€“ <em>Room On Fire</em> (RCA Records Label, 2003)</p> <iframe src="https://open.spotify.com/embed/playlist/4etscCIbZSAY3BYtqEoJuO?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> <iframe width="648" height="486" src="https://www.youtube.com/embed/5qfY5U0-oOo" title="The Strokes- Obstinate (In TRansiT)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> <p>@thestrokes</p> <hr /> <!-- Footer -->
+<p><strong>"Meet Me in the Bathroom"</strong> â€“ <em>Room On Fire</em> (RCA Records Label, 2003)</p> {{< youtube "embed" >}} {{< youtube "5qfY5U0-oOo" >}} <p>@thestrokes</p> <hr /> <!-- Footer -->
 <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p> <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist</a></p> <p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p> 
 
 <!--Subscribe and Playlist Links-->

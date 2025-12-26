@@ -5,14 +5,14 @@ layout: post
 <!-- Title of the Post -->
 <h1>BigBanonos' Favorite Songs by Camila Cabello</h1> <!-- Introductory Text -->
 <p>Updated with standout tracks by Camila Cabello, blending dance-pop energy with heartfelt ballads. Her infectious melodies and captivating vocals shine through in these songs.</p> <!-- Featured Image -->
-<div> <img src="https://i.scdn.co/image/ab67616d00001e028ef2562a1156ea6766e00ecb" alt="Camila Cabello">
+<div> {{< img-lite src="https://i.scdn.co/image/ab67616d00001e028ef2562a1156ea6766e00ecb" alt="Camila Cabello" >}}
 </div> <!-- Spotify Playlist Embed -->
-<div> <iframe src="https://open.spotify.com/embed/playlist/2BR7QCMVb0Lo5oQNeheWKI?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div> {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <h3>Top Songs:</h3>
 <ul> <li><strong>Easy</strong> | <em>Easy</em> | Label: Syco Music/Epic | Released: October 11, 2019 | Genres: Dance Pop</li> <li><strong>Shameless</strong> | <em>Shameless</em> | Label: Syco Music/Epic | Released: September 5, 2019 | Genres: Dance Pop</li> <li><strong>Liar</strong> | <em>Liar</em> | Label: Syco Music/Epic | Released: September 4, 2019 | Genres: Dance Pop</li> <li><strong>Never Be the Same</strong> | <em>Never Be the Same</em> | Label: Syco Music/Epic | Released: December 17, 2017 | Genres: Dance Pop</li>
 </ul> <!-- YouTube Embed -->
-<div> <iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/videoseries?list=PLtuNtuTatqI2YcvYuYplrbfxSoFkV1F7j" width="100%"></iframe>
+<div> {{< youtube "videoseries" >}}
 </div> <!-- Footer Links -->
 <hr />
 <p>For more updates, visit <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Also, check out our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> channel and follow us on <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a> for more exclusive content!</p> <!-- Tags -->

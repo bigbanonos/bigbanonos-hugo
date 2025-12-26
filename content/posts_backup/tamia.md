@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "So Into You" by Tamia, released in 1998 and featured on *1998*, available through Warner Music Group - X5 Music Group. The track blends R&B and pop with a contemporary, urban twist.</p> <!-- Featured Image -->
 <div > <img src="https://upload.wikimedia.org/wikipedia/en/e/ef/So-Into-You.jpg" alt="Tamia - So Into You" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="514" src="https://www.youtube.com/embed/fd0uuy4mDrE" title="Tamia - So Into You (1998) [Official Video]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "fd0uuy4mDrE" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"So Into You"</em> by Tamia is a classic from the album *1998*, blending Canadian pop influences with contemporary R&B and hip hop elements. Its smooth, urban vibe remains a signature track for the artist.</p>
 </div> <!-- Footer Links -->

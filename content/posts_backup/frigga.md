@@ -7,7 +7,7 @@ layout: post
 <p >Frigga's ethereal melodies inspire and captivate listeners with uplifting and dreamy vibes. Dive into BigBanonos' favorite tracks by Frigga below!</p> <!--Featured Image-->
 <div > <img alt="Frigga - BigBanonos Favorite Songs" src="https://i.scdn.co/image/ab67616d0000b273051cd8e9cecfb061fc4e183a" />
 </div> <!--Spotify Embed-->
-<div > <iframe allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" allowfullscreen="" frameborder="0" height="352" loading="lazy" src="https://open.spotify.com/embed/playlist/0DmSNtkivKRYNIgH9DvXpE?utm_source=generator" width="100%"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!--Song Information-->
 <div > <p><em>"Fiercely Fearless"</em> delivers an empowering anthem with a blend of beauty and strength, released October 5, 2018, on <strong>Tiferet Records</strong>.</p> <p><em>"Flower Flower"</em> exudes delicate beauty, a soothing track that resonates with listeners, released September 7, 2018, on <strong>Tiferet Records</strong>.</p>
 </div> <!--Footer Links-->

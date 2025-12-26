@@ -7,7 +7,7 @@ layout: post
 <p >Updated 2001 with BigBanonos' favorite track, "Kung Fu Fighting" by Carl Douglas. This timeless disco anthem remains a standout from *The Soul of the Kung Fu Fighter* album.</p> <!-- Featured Image -->
 <div > <img src="https://upload.wikimedia.org/wikipedia/en/d/d2/KungFuFightingCarlDouglas.jpg" alt="Carl Douglas - Kung Fu Fighting" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/bmfudW7rbG0" title="Carl Douglas Kung Fu Fighting (Original Music Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "bmfudW7rbG0" >}}
 </div> <!-- Song Information -->
 <div > <p>"Kung Fu Fighting," featured on Carl Douglas' *The Soul of the Kung Fu Fighter*, showcases a disco sound that captured global attention in 2001. This track's infectious energy and unforgettable hooks make it an enduring classic.</p>
 </div> <!-- Footer Links -->

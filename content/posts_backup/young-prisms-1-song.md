@@ -2,7 +2,7 @@
 title: "young prisms 1 song"
 layout: post
 ---
-<iframe frameborder="0" height="360" src="https://youtube.com/embed/GEp9wv1Joy0?list=PLtuNtuTatqI3kMmL6S1_Zel8IUnVHXuSi" width="480"></iframe><h2><ol><li>Honeydew [2022]</li></ol></h2>
+{{< youtube "GEp9wv1Joy0" >}}<h2><ol><li>Honeydew [2022]</li></ol></h2>
 
 <!--Subscribe and Playlist Links-->
 <div>

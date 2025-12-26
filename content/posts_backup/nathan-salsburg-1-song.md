@@ -2,7 +2,7 @@
 title: "nathan salsburg 1 song"
 layout: post
 ---
-<iframe frameborder="0" height="360" src="https://youtube.com/embed/gmaGIv9X0zE" width="480"></iframe><h2><ol><li>(ft. Bonnie 'Prince' Billy) Unlearning Chant</li></ol></h2>
+{{< youtube "gmaGIv9X0zE" >}}<h2><ol><li>(ft. Bonnie 'Prince' Billy) Unlearning Chant</li></ol></h2>
 
 <!--Subscribe and Playlist Links-->
 <div>

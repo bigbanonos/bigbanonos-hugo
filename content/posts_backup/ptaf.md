@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Boss Ass Bitch" by PTAF, from the single *Boss Ass Bitch*, released on November 6, 2013, by DeRe Entertainment / DeRe Family Records.</p> <!-- Featured Image -->
 <div > <img src="https://i.ytimg.com/vi/N6ihCQZK-r0/maxresdefault.jpg" alt="PTAF - Boss Ass Bitch" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/N6ihCQZK-r0" title="PTAF - Boss Ass Bitch (Original Version)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "N6ihCQZK-r0" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Boss Ass Bitch"</em> by PTAF is a powerful anthem of female empowerment, showcasing bold lyrics and catchy beats, part of their 2013 single release by DeRe Entertainment / DeRe Family Records.</p>
 </div> <!-- Footer Links -->

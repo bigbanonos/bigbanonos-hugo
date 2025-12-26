@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Ships With Holes Will Sink" by We Were Promised Jetpacks, from the album *These Four Walls*, released on July 7, 2009, by Fat Cat Records. This track blends the power of Scottish rock with indie sensibilities, delivering a dynamic and emotive sound.</p> <!-- Featured Image -->
 <div > <img src="https://f4.bcbits.com/img/0024298391_10.jpg" alt="We Were Promised Jetpacks - Ships With Holes Will Sink" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="514" src="https://www.youtube.com/embed/NOC9L-qDPqE" title="We Were Promised Jetpacks - Ships With Holes Will Sink" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "NOC9L-qDPqE" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Ships With Holes Will Sink"</em> by We Were Promised Jetpacks is from their album *These Four Walls*, released on July 7, 2009. The track captures the essence of Scottish indie rock with introspective lyrics and an atmospheric soundscape.</p>
 </div> <!-- Footer Links -->

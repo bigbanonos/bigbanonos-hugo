@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Work" by Popeye Caution, a track that blends vibrant beats with raw energy, capturing the hustle and grind of everyday life.</p> <!-- Featured Image -->
 <div > <img src="https://magazine-resources.tidal.com/uploads/2019/01/Popeye.jpg" alt="Popeye Caution Work" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="388" src="https://www.youtube.com/embed/ksmTtok5mFY" title="Popeye Caution - Work (Lyric Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "ksmTtok5mFY" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Work"</em> by Popeye Caution offers a fierce, energetic anthem for those pushing themselves in life, with catchy hooks and a powerful message of perseverance.</p>
 </div> <!-- Footer Links -->

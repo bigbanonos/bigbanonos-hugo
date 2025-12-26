@@ -7,7 +7,7 @@ layout: post
 <p >Updated January 1, 2003, with "Pretty Girl" by Delroy Wilson. This timeless track from the *Uptown Top Ranking: Joe Gibbs Reggae Productions 1970-78* collection showcases Delroy Wilson's smooth vocals and masterful contribution to reggae and lovers rock.</p> <!-- Featured Image -->
 <div > <img src="https://www.reggae-vibes.com/wp-content/uploads/2019/07/Delroy-Wilson.jpg" alt="Delroy Wilson - Pretty Girl" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/d00-OUKYmn4" title="Pretty Girl - Delroy Wilson" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "d00-OUKYmn4" >}}
 </div> <!-- Song Information -->
 <div > <p>"Pretty Girl" is a quintessential example of Delroy Wilson's ability to blend soulful melodies with the rhythmic beats of rocksteady and reggae, solidifying his status as one of the pioneers of the genre.</p>
 </div> <!-- Footer Links -->

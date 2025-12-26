@@ -8,7 +8,7 @@ layout: post
 <p >Updated January 19, 2018, with "Last Time That I Checc'd" featuring YG. Celebrate the legacy of Nipsey Hussle in the playlist below!</p> <!-- Featured Image -->
 <div > <img src="https://www.billboard.com/wp-content/uploads/media/nipsey-hussle-press-photo-2018-cr-Norberto-Garcia-billboard-1548.jpg" alt="Nipsey Hussle" />
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/3xkvDLsqxqgzRRGJVDKCE3?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <div> <p><strong>"Last Time That I Checc'd (feat. YG)"</strong><br> Genre: Hip Hop<br> Album: <em>Last Time That I Checc'd (feat. YG)</em><br> Release Date: January 19, 2018<br> Label: All Money In No Money Out</p> <p><strong>Fuck Donald Trump</strong> | <em>Single</em> | Defiant Records | Released: March 30, 2016</p>
 </div> <!-- Footer Links -->

@@ -4,7 +4,7 @@ layout: post
 ---
 <h2>BigBanonos' 4 Favorite Songs by Blair</h2> <!--Search Description-->
 <p>BigBanonos' top picks by Blair showcase their unique lo-fi emo sound in the indie rock genre.</p> <!--Spotify Playlist Embed-->
-<iframe allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" allowfullscreen="" frameborder="0" height="352" loading="lazy" src="https://open.spotify.com/embed/playlist/5jdLeuw0nc7vFJgdWqNsRe?utm_source=generator" width="100%"></iframe> <!--Song Listings-->
+{{< youtube "embed" >}} <!--Song Listings-->
 <ul> <li>By the C - <em>Tears to Grow</em> (blair, 2021-04-02)</li> <li>Day One Homies - <em>Blair.</em> (blair, 2019-04-21)</li> <li>Wake Up Shake Up - <em>Die Young</em> (Catapult, 2010-01-20)</li> <li>Candy in the Kitchen - <em>Die Young</em> (Catapult, 2010-01-20)</li>
 </ul> <!--Image Placeholder for Blair-->
 <img alt="Blair Band Image" src="https://i2.wp.com/newsoundsmag.co.uk/wp-content/uploads/2021/04/blair-band.jpg?resize=1080%2C770&ssl=1" width="100%" /> <!--Tags Section-->

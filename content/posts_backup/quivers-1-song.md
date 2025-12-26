@@ -2,7 +2,7 @@
 title: "quivers 1 song"
 layout: post
 ---
-<iframe frameborder="0" height="270" src="https://youtube.com/embed/qYgyixBuQ4E" width="480"></iframe><div><h2><ol><li>Gutters of Love [2021]</li></ol></h2></div>
+{{< youtube "qYgyixBuQ4E" >}}<div><h2><ol><li>Gutters of Love [2021]</li></ol></h2></div>
 
 <!--Subscribe and Playlist Links-->
 <div>

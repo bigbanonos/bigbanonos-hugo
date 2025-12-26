@@ -4,9 +4,9 @@ layout: post
 ---
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Bush</h1> <!-- Featured Image -->
-<div > <img src="https://i.scdn.co/image/ab6761610000e5ebd209395dc5321f4b5163aed4" alt="Bush">
+<div > {{< img-lite src="https://i.scdn.co/image/ab6761610000e5ebd209395dc5321f4b5163aed4" alt="Bush" >}}
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/0yyg8Hf26Q3Pd2QNVfSDJB?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Introductory Text -->
 <p >Bush's post-grunge sound defined the alternative rock scene of the '90s. From the melancholic "Glycerine" to the raw "Comedown," here are BigBanonos' favorite tracks by this iconic band.</p> <!-- Song Highlights -->
 <div > <p>BigBanonos' standout picks:</p> <ol> <li><strong>Comedown - Remastered</strong> | <em>Sixteen Stone (Remastered)</em> | Released: December 6, 1994 | Craft Recordings</li> <li><strong>Glycerine - Remastered</strong> | <em>Sixteen Stone (Remastered)</em> | Released: December 6, 1994 | Craft Recordings</li> </ol>

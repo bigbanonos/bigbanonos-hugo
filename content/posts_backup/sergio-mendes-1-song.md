@@ -2,7 +2,7 @@
 title: "sergio mendes 1 song"
 layout: post
 ---
-<br /><div class="separator" ><iframe allowfullscreen="" class="BLOG_video_class" height="266" src="https://www.youtube.com/embed/YKbuj_2IU44" width="320" youtube-src-id="YKbuj_2IU44"></iframe></div><div class="separator"><h3><ol><li>Waters Of March [1974]</li></ol></h3></div>
+<br /><div class="separator" >{{< youtube "YKbuj_2IU44" >}}</div><div class="separator"><h3><ol><li>Waters Of March [1974]</li></ol></h3></div>
 
 <!--Subscribe and Playlist Links-->
 <div>

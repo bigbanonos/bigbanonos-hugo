@@ -4,10 +4,10 @@ layout: post
 ---
 <h1>Los Campesinos! - Top Songs</h1>
 <img alt="Los Campesinos!" src="https://media.pitchfork.com/photos/5acee3c0630ffe0c4bbe1851/master/pass/Los-Campesinos.jpg" /> <p>Los Campesinos! is a Welsh indie rock band known for their exuberant, witty lyrics and lively instrumentation. Below is a selection of their top tracks:</p> <ol> <li><strong>Baby I Got the Death Rattle</strong> | Album: Hello Sadness | Released: October 24, 2012</li> <li><strong>Romance Is Boring</strong> | Album: Romance Is Boring | Released: January 26, 2010</li> <li><strong>Knee Deep At ATP</strong> (Remastered) | Album: Hold On Now, Youngster... (Remastered Deluxe Edition) | Released: February 22, 2008</li> <li><strong>You! Me! Dancing!</strong> (Remastered) | Album: Hold On Now, Youngster... (Remastered Deluxe Edition) | Released: February 22, 2008</li> <li><strong>Sweet Dreams, Sweet Cheeks</strong> (Remastered) | Album: Hold On Now, Youngster... (Remastered Deluxe Edition) | Released: February 22, 2008</li> <li><strong>We Throw Parties, You Throw Knives</strong> (Remastered) | Album: Hold On Now, Youngster... (Remastered Deluxe Edition) | Released: February 22, 2008</li> <li><strong>C Is The Heavenly Option</strong> (Remastered) | Album: Hold On Now, Youngster... (Remastered Deluxe Edition) | Released: February 22, 2008</li>
-</ol> <div> <iframe allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" allowfullscreen="" frameborder="0" height="352" loading="lazy" src="https://open.spotify.com/embed/playlist/5pgyY7BILjiYkU7jrYCSRe?utm_source=generator" width="100%"></iframe>
+</ol> <div> {{< youtube "embed" >}}
 </div>
 #covers w/ originals <br />
-<iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/NIg8JrnRTf4?list=PLtuNtuTatqI0T_GCRVtVWFUSn_PgEFzjS" width="560"></iframe><br />
+{{< youtube "NIg8JrnRTf4" >}}<br />
 Also, this song is name-dropped in the bizarre "phallic cake" lyric in "Romance Is Boring"<div></div><div><br /></div><div>
 <iframe allowtransparency="true" frameborder="0" height="380" src="https://embed.spotify.com/?uri=spotify%3Auser%3Ahumanteethmarks%3Aplaylist%3A7ouYdRg3ZdtVruk4mkhtLj" width="300"></iframe></div>
 <p>first posted by <a href="https://bigbanonos.blogspot.com/">https://bigbanonos.blogspot.com/</a></p> <div> <p>Explore more BigBanonos content: <a href="https://bigbanonos.blogspot.com/">Website</a> | <a href="https://www.youtube.com/@BigBanonos">YouTube</a> | <a href="https://x.com/bigbanonos">Twitter</a></p>

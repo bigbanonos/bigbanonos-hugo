@@ -7,7 +7,7 @@ layout: post
 <p >Updated November 18, 2013, with "Freebirds" by Lover Lover. This emotive track from the album <em>There Is a Place</em>, released under Cross Keys Records, captivates with its heartfelt lyrics and ethereal production.</p> <!-- Featured Image -->
 <div > <img src="https://f4.bcbits.com/img/0006374657_10.jpg" alt="Lover Lover - Freebirds" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/FrG-2tB6lFc" title="Lover Lover - Freebirds" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "FrG-2tB6lFc" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Freebirds"</em> by Lover Lover is a beautifully crafted song that balances introspection with atmospheric melodies. Featured on their album <em>There Is a Place</em>, this track stands out as a testament to their artistry and evocative sound.</p>
 </div> <!-- Footer Links -->

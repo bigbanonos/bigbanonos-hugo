@@ -7,7 +7,7 @@ MUNA <!-- Title of the Post -->
 <p >Updated April 17, 2023, with "One That Got Away" from <em>One That Got Away</em>. Immerse yourself in MUNA's indie pop magic in the playlist below!</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d0000b273bb5a3de97d548a649cfafe67" alt="MUNA" />
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/0iqqP6E6ykYhIIKhEoE9Lv?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <div > <p><strong>"One That Got Away"</strong><br> Genre: Pop, Electronic<br> Album: <em>One That Got Away</em><br> Release Date: April 17, 2023<br> Label: Dead Oceans</p>
 </div> <!-- Footer Links -->

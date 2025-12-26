@@ -7,7 +7,7 @@ layout: post
 <p >Updated with BigBanonos' favorite track, "Brimful of Asha" by Cornershop. This Britpop classic celebrates the power of music and nostalgia, blending vibrant melodies with cultural homage.</p> <!-- Featured Image -->
 <div > <img src="https://upload.wikimedia.org/wikipedia/commons/f/f9/Cornershop.jpg" alt="Cornershop - Brimful of Asha" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/lM7H0ooV_o8" title="Cornershop - Brimful of Asha - Official Music Video (Original) (Tjinder Singh)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "lM7H0ooV_o8" >}}
 </div> <!-- Song Information -->
 <div > <p>"Brimful of Asha" is a standout track featured on *Hi-Five: Modern Rock Blender*, released by Rhino Records in 1997. This vibrant Britpop anthem remains a timeless tribute to the beauty of cultural expression through music.</p>
 </div> <!-- Footer Links -->

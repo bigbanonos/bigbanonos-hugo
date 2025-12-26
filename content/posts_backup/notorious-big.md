@@ -7,7 +7,7 @@ layout: post
 <p >Dive into the legendary discography of The Notorious B.I.G., the king of East Coast hip-hop. With iconic tracks like "Juicy," "Hypnotize," and "Mo Money Mo Problems," his influence on rap is unmatched. Explore the playlist below!</p> <!-- Featured Image -->
 <div > <img src="https://www.rollingstone.com/wp-content/uploads/2022/03/notorious-big-biggie-50-best-songs-2.jpg?w=1600&h=900&crop=1" alt="The Notorious B.I.G. - Playlist" />
 </div> <!-- Spotify Playlist Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/2uD8HwZs7bDX9ILVMM8S2O?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <div > <p>Celebrate the legacy of Biggie Smalls through his timeless classics:</p> <ul > <li><em>"Juicy"</em> - The anthem that started it all, from <em>Ready to Die</em>.</li> <li><em>"Hypnotize"</em> - A masterclass in charisma, from <em>Greatest Hits</em>.</li> <li><em>"Mo Money Mo Problems"</em> - Featuring Puff Daddy & Mase, a chart-topping collaboration.</li> </ul> <p>Explore his groundbreaking albums like <em>Ready to Die</em> and <em>Life After Death</em>.</p>
 </div> <!-- Footer Links -->

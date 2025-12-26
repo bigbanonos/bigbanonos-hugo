@@ -7,7 +7,7 @@ layout: post
 <p >Updated November 2, 2018, with BigBanonos' favorite track, "Control Me" by Chezeeko. This dynamic single captures his signature vibe and is released under Sterling Records.</p> <!-- Featured Image -->
 <div > <img src="https://i1.sndcdn.com/avatars-Dy7qeX0yYW5qrjNx-WqAfVg-t240x240.jpg" alt="Chezeeko - Control Me" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/-Jowkwuf5LM" title="Chezeeko - Control Me [Music Video] | GRM Daily" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "-Jowkwuf5LM" >}}
 </div> <!-- Song Information -->
 <div > <p>"Control Me," released on November 2, 2018, demonstrates Chezeeko's lyrical skill and melodic touch. A standout from his catalog, this track comes to us from Sterling Records.</p>
 </div> <!-- Footer Links -->

@@ -7,7 +7,7 @@ layout: post
 <p >Updated June 7, 2004, with "Better Than Most" by A.C. Newman. This indie-rock track from *The Slow Wonder* showcases A.C. Newmanâ€™s signature melodic brilliance and lyrical depth. Watch the video below!</p> <!-- Featured Image -->
 <div > <img src="https://earth-agency.com/app/uploads/2023/06/AC-Newman.jpg" alt="A.C. Newman - Better Than Most" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="685" height="385" src="https://www.youtube.com/embed/t_u5lL4Z6kc" title="A.C. Newman - Better Than Most" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "t_u5lL4Z6kc" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Better Than Most"</em> is a standout track from A.C. Newman's debut solo album, *The Slow Wonder*, released on June 7, 2004, under the Matador label. The songâ€™s intricate instrumentation and introspective lyrics make it a timeless indie favorite.</p>
 </div> <!-- Footer Links -->

@@ -2,10 +2,10 @@
 title: "fannypack"
 layout: post
 ---
-<h2>BigBanonos' Favorite Songs by Fannypack</h2> <p><strong>Updated July 8, 2003, with "Cameltoe" from <em>So Stylistic</em></strong></p> <img src="https://i.scdn.co/image/c7d8d6a30aab25cd8a6b83693b024abf3b117f21" width="100%" alt="Fannypack"> <p>Fannypackâ€™s electroclash and playful attitude made them a unique force in early 2000s pop. Below are BigBanonos' favorite songs by Fannypack.</p> <h3>"Cameltoe"</h3>
+<h2>BigBanonos' Favorite Songs by Fannypack</h2> <p><strong>Updated July 8, 2003, with "Cameltoe" from <em>So Stylistic</em></strong></p> {{< img-lite src="https://i.scdn.co/image/c7d8d6a30aab25cd8a6b83693b024abf3b117f21" alt="Fannypack" >}} <p>Fannypackâ€™s electroclash and playful attitude made them a unique force in early 2000s pop. Below are BigBanonos' favorite songs by Fannypack.</p> <h3>"Cameltoe"</h3>
 <p><em>So Stylistic</em>, Tommy Boy Entertainment, July 8, 2003</p> <h3>"Hey Mami"</h3>
 <p><em>So Stylistic</em>, Tommy Boy Entertainment, July 8, 2003</p> <h3>"Things"</h3>
-<p><em>So Stylistic</em>, Tommy Boy Entertainment, July 8, 2003</p> <hr /> <h3>Listen on Spotify</h3> <iframe src="https://open.spotify.com/embed/playlist/0F0cHIwMHB4b4W6s0jg8NX?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> <hr /> <p><strong>Tags:</strong> @fannypack</p> <hr /> <p><em>First posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+<p><em>So Stylistic</em>, Tommy Boy Entertainment, July 8, 2003</p> <hr /> <h3>Listen on Spotify</h3> {{< youtube "embed" >}} <hr /> <p><strong>Tags:</strong> @fannypack</p> <hr /> <p><em>First posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
 
 
 <!--Subscribe and Playlist Links-->

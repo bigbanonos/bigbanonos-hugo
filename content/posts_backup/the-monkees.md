@@ -6,7 +6,7 @@ layout: post
 <div class="separator"> <a href="https://www.hollywoodreporter.com/wp-content/uploads/2021/09/Mike-Nesmith-of-The-Monkees-Everett-H-2021.jpg?w=1296&h=730&crop=1" > <img alt="The Monkees" border="0" width="320" data-original-height="480" data-original-width="640" src="https://www.hollywoodreporter.com/wp-content/uploads/2021/09/Mike-Nesmith-of-The-Monkees-Everett-H-2021.jpg?w=1296&h=730&crop=1"/> </a>
 </div>
 <p>The Monkees brought a mix of bubblegum pop, folk rock, and Beatlesque charm to the music scene, leaving an enduring legacy of classic hits. Here are BigBanonosâ€™ top selections in order of most recently released:</p> <ol> <li><strong>Me & Magdalena</strong> | Released: 2016-05-27</li> <li><strong>(Theme From) The Monkees</strong> | Released: 2008-07-01</li> <li><strong>Daydream Believer (Stream)</strong> | Released: 1967</li>
-</ol> <div> <iframe src="https://open.spotify.com/embed/playlist/2ybRHR9YVUd7yDHa6tMWfu?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</ol> <div> {{< youtube "embed" >}}
 </div> <p>Explore more on <a href="https://bigbanonos.blogspot.com/">BigBanonos</a>, or check out BigBanonos on <a href="https://www.youtube.com/@BigBanonos">YouTube</a> and <a href="https://x.com/bigbanonos">Twitter</a>.</p> <p>Tags: @themonkees</p>
 
 

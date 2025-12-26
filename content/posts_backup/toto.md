@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Georgy Porgy" by Toto, a 1978 classic blending smooth rock and soulful vibes. Watch the timeless music video below!</p> <!-- Featured Image -->
 <div > <img src="https://i.ytimg.com/vi/EWIgEtkE3GA/maxresdefault.jpg" alt="Toto - Georgy Porgy" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="560" height="315" src="https://www.youtube.com/embed/EWIgEtkE3GA" frameborder="0" allowfullscreen></iframe>
+<div > {{< youtube "EWIgEtkE3GA" >}}
 </div> <!-- Footer Links -->
 <div > <p>For more updates, visit <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Also, check out our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a> channels for more exclusive content!</p>
 </div> <!-- Tags -->

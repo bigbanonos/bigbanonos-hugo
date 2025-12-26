@@ -7,7 +7,7 @@ layout: post
 <p >Updated October 26, 2009, with BigBanonos' favorite song by Bobby Vee, "Come Back When You Grow Up (Rerecorded)." Featured on the album *100 Hits of the Swingin' Sixties* from K-Tel, this timeless track blends pop charm with rock-and-roll nostalgia. Watch the video and see more details below:</p> <!-- Featured Image -->
 <div > <img src="https://static01.nyt.com/images/2016/10/25/arts/25vee-obit-1/25vee-obit-1-superJumbo.jpg" alt="Bobby Vee - Come Back When You Grow Up" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/L_5CUDCNTTA" title="Come Back When You Grow Up (Remastered)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "L_5CUDCNTTA" >}}
 </div> <!-- Song Information -->
 <div > <p>"Come Back When You Grow Up (Rerecorded)" by Bobby Vee is a classic blend of pop, rock-and-roll, and brill building charm. Released on October 26, 2009, as part of *100 Hits of the Swingin' Sixties* under K-Tel, this 2:17-long track captures the heartfelt nostalgia of a bygone era.</p>
 </div> <!-- Footer Links -->

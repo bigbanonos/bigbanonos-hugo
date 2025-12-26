@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Nice Like" by Sheba, from the *Silver Breeze Riddim*, released on February 8, 2019, by Mink Productions.</p> <!-- Featured Image -->
 <div > <img src="https://www.dancehallmag.com/assets/2024/08/Kartel-x-Sheba-x-Notnice-1-900x569.png" alt="Sheba - Nice Like" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="601" src="https://www.youtube.com/embed/3awFLaA4Nt4" title="Gaza Sheba - Nice Like (Official Audio)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "3awFLaA4Nt4" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Nice Like"</em> by Sheba is a track from the *Silver Breeze Riddim*, released on February 8, 2019. The song brings the signature dancehall vibes, featuring riddim influences and capturing the spirit of the genre.</p>
 </div> <!-- Footer Links -->

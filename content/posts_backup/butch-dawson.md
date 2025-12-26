@@ -7,7 +7,7 @@ layout: post
 <p >Updated July 15, 2019, with BigBanonos' favorite track, "Trigger" by Butch Dawson. This standout song showcases Baltimore's vibrant indie scene with its raw energy and unique sound. Watch the video and explore more below:</p> <!-- Featured Image -->
 <div > <img src="https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2019%2F09%2Fbutch-dawson-this-is-your-hood-music-video-00.jpg?w=960&cbr=1&q=90&fit=max" alt="Butch Dawson - Trigger" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/xqmsSB4K1P8" title="Trigger" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "xqmsSB4K1P8" >}}
 </div> <!-- Song Information -->
 <div > <p>"Trigger" by Butch Dawson is featured on the album *Ollieworld*, released on July 15, 2019, under Basement Rap. The track highlights the innovative sound of Baltimore indie music, blending bold rhythms with captivating vocals.</p>
 </div> <!-- Footer Links -->

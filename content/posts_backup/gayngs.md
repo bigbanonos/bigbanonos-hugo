@@ -7,7 +7,7 @@ layout: post
 <p >Updated May 11, 2010, with "Cry" by Gayngs. This captivating track from their album <em>Relayted</em> showcases their unique blend of atmospheric folk and indie influences.</p> <!-- Featured Image -->
 <div > <img src="https://thequietus.com/app/uploads/2024/03/gayngs14-581x385_1272988697.jpg" alt="Gayngs - Cry" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/H4KsWY9XOK0" title="GAYNGS - 'Cry' (Official Video)" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "H4KsWY9XOK0" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Cry"</em> is a beautifully layered track from Gayngs' debut album, <em>Relayted</em>, released on May 11, 2010. Its moody melodies and dreamy production make it a standout in the indie-folk scene.</p>
 </div> <!-- Footer Links -->

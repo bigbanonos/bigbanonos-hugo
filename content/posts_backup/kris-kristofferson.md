@@ -5,12 +5,12 @@ layout: post
 <!-- Title of the Post -->
 <h1 >BigBanonos' Favorite Songs by Kris Kristofferson</h1> <!-- Introductory Text -->
 <p >Updated with timeless classics from Kris Kristofferson, a pioneer of country rock and outlaw country. His heartfelt lyrics and evocative melodies have earned him a place among the greatest singer-songwriters of all time. Check out BigBanonos' top picks below!</p> <!-- Featured Image -->
-<div > <img src="https://i.scdn.co/image/ab67616d0000b273e05f4189e7a970a32f5e386e" alt="Kris Kristofferson">
+<div > {{< img-lite src="https://i.scdn.co/image/ab67616d0000b273e05f4189e7a970a32f5e386e" alt="Kris Kristofferson" >}}
 </div> <!-- Song Information -->
 <h3>Top Songs:</h3>
 <ol> <li><strong>Sunday Mornin' Comin' Down</strong> | <em>Kristofferson</em> | Released: January 1, 1970 | Monument/Legacy</li> <li><strong>The Pilgrim, Chapter 33</strong> | <em>The Silver Tongued Devil and I</em> | Released: 1971 | SMSP</li> <li><strong>Border Lord</strong> | <em>Border Lord</em> | Released: February 15, 1972 | Columbia Nashville</li> <li><strong>Help Me Make It Through the Night</strong> | <em>Kristofferson</em> | Released: January 1, 1970 | Monument/Legacy</li> <li><strong>Just the Other Side of Nowhere</strong> | <em>Kristofferson</em> | Released: January 1, 1970 | Monument/Legacy</li>
 </ol> <!-- Spotify Playlist Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/61sjze0W5gVgKtTPkh8X1v?utm_source=generator" width="100%" height="352" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Footer Links -->
 <hr />
 <p >For more updates, visit <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Also, check out our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> channel and follow us on <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a> for more exclusive content!</p> <!-- Tags -->

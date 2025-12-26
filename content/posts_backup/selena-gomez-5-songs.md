@@ -4,9 +4,9 @@ layout: post
 ---
 <h1>BigBanonos Top 5 Songs by Selena Gomez</h1>
 <img alt="Selena Gomez" src="https://i.ytimg.com/vi/EgT_us6AsDg/maxresdefault.jpg" /> <p>Selena Gomez delivers catchy pop hits and emotional ballads. Here are BigBanonos' top selections:</p> <ol> <li><strong>Single Soon</strong> | <em>Single Soon</em> | Released: 2023-08-25 | Interscope Records</li> <li><strong>Back To You</strong> | <em>13 Reasons Why (Season 2)</em> | Released: 2018-05-18 | UMGRI Interscope</li> <li><strong>Bad Liar</strong> | <em>Bad Liar</em> | Released: 2017-05-18 | Selena Gomez PS</li> <li><strong>Good For You</strong> (feat. A$AP Rocky) | <em>Revival (Deluxe)</em> | Released: 2015-10-09 | Selena Gomez PS</li> <li><strong>Same Old Love</strong> | <em>Revival (Deluxe)</em> | Released: 2015-10-09 | Selena Gomez PS</li>
-</ol> <div> <iframe allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" frameborder="0" height="352" loading="lazy" src="https://open.spotify.com/embed/playlist/1TMOSi3BC7X2Pw0dxPfOja?utm_source=generator" width="100%"></iframe>
+</ol> <div> {{< youtube "embed" >}}
 </div>
-<p> Video for Bad Liar (2017) and Same Old Love (2015):</p> <iframe allow="encrypted-media" allowfullscreen="" frameborder="0" gesture="media" height="500px" src="https://www.youtube.com/embed/videoseries?list=PLtuNtuTatqI1UnM582xKrfHkprGOcPaWm" width="100%"></iframe>
+<p> Video for Bad Liar (2017) and Same Old Love (2015):</p> {{< youtube "videoseries" >}}
 
 <!--Subscribe and Playlist Links-->
 <div>

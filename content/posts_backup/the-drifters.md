@@ -7,7 +7,7 @@ layout: post
 <p >Updated May 31, 2012, with "There Goes My Baby" by The Drifters. This timeless classic from the album "A Live Experience" embodies the rich harmonies and soulful style that define the golden age of doo-wop and rock-and-roll.</p> <!-- Featured Image -->
 <div > <img src="https://m.media-amazon.com/images/I/51Y6ZY4oMGL._UF1000,1000_QL80_.jpg" alt="The Drifters - There Goes My Baby" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/i3HXy9mGPpI" title="the Drifters There Goes my Baby" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "i3HXy9mGPpI" >}}
 </div> <!-- Song Information -->
 <div > <p>"There Goes My Baby" highlights The Drifters' groundbreaking use of orchestral strings in a pop song, blending doo-wop with a soulful balladry that made it a chart-topping hit.</p>
 </div> <!-- Footer Links -->

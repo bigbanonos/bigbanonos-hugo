@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "(No One Knows Me) Like the Piano" by Sampha, from the album *(No One Knows Me) Like the Piano*, released on January 12, 2017, by Young Turks Recordings.</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d0000b273c5b448ab369b6eb7ee1f9bd6" alt="Sampha - (No One Knows Me) Like the Piano" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/_NSuIYwBxu4" title="Sampha - (No One Knows Me) Like The Piano (Official Music Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "_NSuIYwBxu4" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"(No One Knows Me) Like the Piano"</em> by Sampha is a track from the album *(No One Knows Me) Like the Piano*, released on January 12, 2017. This emotionally charged song features a soulful, minimalistic piano-driven arrangement, showcasing Samphaâ€™s unique approach to alternative R&B and indie soul.</p>
 </div> <!-- Footer Links -->

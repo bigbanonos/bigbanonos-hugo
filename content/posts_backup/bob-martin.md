@@ -7,7 +7,7 @@ layout: post
 <p >Updated October 1, 1972, with "Frog Dick, South Dakota" by Bob Martin. This folk storytelling gem from the album *Midwest Farm Disaster* captures Martinâ€™s unique wit and evocative imagery. Watch the video below!</p> <!-- Featured Image -->
 <div > <img src="https://lastfm.freetls.fastly.net/i/u/ar0/60f1e659bb95466798878467e49e9d46.jpg" alt="Bob Martin - Frog Dick, South Dakota" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/Ijzd3qRGWls?list=PLtuNtuTatqI27rEpl6sppn5M8ja8x3-Rz" width="95%"></iframe>
+<div > {{< youtube "Ijzd3qRGWls" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Frog Dick, South Dakota"</em>, from Bob Martinâ€™s 1972 album *Midwest Farm Disaster*, released under RCA/Legacy, is a standout track of the folk genre. Martinâ€™s sharp storytelling and dry humor make this song a beloved piece of Americana.</p>
 </div> <!-- Footer Links -->

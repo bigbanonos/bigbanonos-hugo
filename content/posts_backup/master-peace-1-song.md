@@ -2,7 +2,7 @@
 title: "master peace 1 song"
 layout: post
 ---
-<iframe frameborder="0" height="360" src="https://youtube.com/embed/nBW9-tsfIS0?si=yqVXOBtIq2lx_X60" width="480"></iframe><div><br /></div><div>(ft. Wale) Home [2024]</div><div><br /></div><div class="separator" ><a href="https://media.wonderlandmagazine.com/uploads/2024/07/master-peace-artist-1-1.jpg" imageanchor="1"><img border="0" data-original-height="1270" data-original-width="2000" height="1270" src="https://media.wonderlandmagazine.com/uploads/2024/07/master-peace-artist-1-1.jpg" width="2000" /></a></div><br /><div><br /></div><div><br /></div>
+{{< youtube "nBW9-tsfIS0" >}}<div><br /></div><div>(ft. Wale) Home [2024]</div><div><br /></div><div class="separator" ><a href="https://media.wonderlandmagazine.com/uploads/2024/07/master-peace-artist-1-1.jpg" imageanchor="1"><img border="0" data-original-height="1270" data-original-width="2000" height="1270" src="https://media.wonderlandmagazine.com/uploads/2024/07/master-peace-artist-1-1.jpg" width="2000" /></a></div><br /><div><br /></div><div><br /></div>
 
 <!--Subscribe and Playlist Links-->
 <div>

@@ -7,7 +7,7 @@ layout: post
 <p >Updated October 18, 2016, with "Never In Love" by Nadine Sutherland. This track from the single <em>Never In Love</em>, released under Vexxx Bad Records, blends dancehall queen energy with deep ragga and lovers rock influences, creating a timeless sound in reggae music.</p> <!-- Featured Image -->
 <div > <img src="https://kingsmusicinternational.com/wp-content/uploads/2019/07/NadineSutherland.jpg" alt="Nadine Sutherland - Never In Love" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="617" src="https://www.youtube.com/embed/YKF2oDSZ8bg" title="Never In Love" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "YKF2oDSZ8bg" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Never In Love"</em> by Nadine Sutherland is a powerful reggae track that blends dancehall queen energy with deep ragga and lovers rock influences. Released on the single <em>Never In Love</em>, this track showcases Sutherland's enduring influence on reggae music.</p>
 </div> <!-- Footer Links -->

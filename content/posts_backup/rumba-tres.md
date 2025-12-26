@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "No Se No Se" by Rumba Tres, from the album *Grandes Exitos (Sus Mejores Rumbas)*, released on February 1, 2013, by Divucsa.</p> <!-- Featured Image -->
 <div > <img src="https://i.discogs.com/Lv-jKD3NX7c4juNTIcIZSmtsZBSHEBfEoEtra6okDS4/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMjc4/NDU0LTE1MTM3MDEz/MzUtMjg0NS5qcGVn.jpeg" alt="Rumba Tres - No Se No Se" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/eCdIcDWLcXs" title="Rumba Tres - No sÃƒÆ’Ã‚Â©, No sÃƒÆ’Ã‚Â©" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "eCdIcDWLcXs" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"No Se No Se"</em> by Rumba Tres is a track from the album *Grandes Exitos (Sus Mejores Rumbas)*, released on February 1, 2013. The song is a beautiful example of rumba catalana, showcasing the rhythmic energy and passionate spirit of this traditional Spanish music genre.</p>
 </div> <!-- Footer Links -->

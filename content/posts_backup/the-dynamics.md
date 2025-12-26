@@ -7,7 +7,7 @@ layout: post
 <p >Updated November 15, 2013, with "Music (Disco Version)" by The Dynamics. This fusion of reggae grooves and disco vibes from their "Disco Reggae" album is an energetic and danceable favorite that highlights their unique sound.</p> <!-- Featured Image -->
 <div > <img src="https://f4.bcbits.com/img/a0306861385_10.jpg" alt="The Dynamics - Music (Disco Version)" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/2z-EA3fq7bk" title="The Dynamics - Music" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "2z-EA3fq7bk" >}}
 </div> <!-- Song Information -->
 <div > <p>"Music (Disco Version)" effortlessly blends reggae rhythms with disco elements, making it a standout track for dance floors and music lovers alike. A true testament to The Dynamics' versatility and creativity.</p>
 </div> <!-- Footer Links -->

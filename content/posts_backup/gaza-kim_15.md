@@ -5,9 +5,9 @@ layout: post
 <!-- Title of the Post -->
 <h1>BigBanonos' Favorite Songs by Gaza Kim</h1> <!-- Introductory Text -->
 <p>Gaza Kim brings vibrant energy and unforgettable rhythms to dancehall. Here's a collection of BigBanonos' favorite tracks showcasing her talents:</p> <!-- Featured Image -->
-<div> <img src="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84d9f7430e2b81478fc820ca8d" alt="Gaza Kim">
+<div> {{< img-lite src="https://image-cdn-ak.spotifycdn.com/image/ab67706c0000da84d9f7430e2b81478fc820ca8d" alt="Gaza Kim" >}}
 </div> <!-- Spotify Embed -->
-<div> <iframe src="https://open.spotify.com/embed/playlist/5M2mTrHN9dWwnmtBOcYVYY?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div> {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <h3>Top Songs:</h3>
 <ul> <li><strong>Wickedest Whine</strong> | <em>Mello Shots Riddim</em> | Released: 2019-03-15 | Label: StarrTeam Records | Genres: Riddim, Dancehall</li> <li><strong>Bill</strong> | <em>Russian's Hits Vol.1</em> | Released: 2012-08-14 | Label: Head Concussion | Genres: Riddim, Dancehall</li>

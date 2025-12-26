@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Deserter" by Siskiyou, from the album *Nervous*, released on January 20, 2015, by Constellation.</p> <!-- Featured Image -->
 <div > <img src="https://i.ytimg.com/vi/Ko0L22Od9MA/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AG-B4AC0AWKAgwIABABGGwgbChsMA8=&rs=AOn4CLCjpmqS5GQtLtSaRhVI1NohJzB5-Q" alt="Siskiyou - Deserter" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="514" src="https://www.youtube.com/embed/Ko0L22Od9MA" title="Siskiyou - Deserter" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "Ko0L22Od9MA" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Deserter"</em> by Siskiyou is a track from the *Nervous* album, released on January 20, 2015. The song is a beautiful representation of Canadian indie folk, featuring deep, emotive lyrics accompanied by soft, rustic melodies.</p>
 </div> <!-- Footer Links -->

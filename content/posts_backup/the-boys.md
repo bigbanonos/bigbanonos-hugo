@@ -4,9 +4,9 @@ layout: post
 ---
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by The Boys</h1> <!-- Featured Image -->
-<div > <img src="https://i.scdn.co/image/ab67616d0000b273a19beefa6870198c1b8936c3" alt="The Boys">
+<div > {{< img-lite src="https://i.scdn.co/image/ab67616d0000b273a19beefa6870198c1b8936c3" alt="The Boys" >}}
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/583jFNVqiO8K3XE0lnfKC1?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Introductory Text -->
 <p >The Boys fused punk energy with mod revival vibes, creating timeless rock anthems. Here are BigBanonos' top tracks, from "First Time" to "Punk Rock Girl."</p> <!-- Song Highlights -->
 <div > <p>BigBanonos' standout picks:</p> <ol> <li><strong>First Time</strong> | <em>The Boys (Deluxe Edition)</em> | Released: September 23, 1977 | Fire Records</li> <li><strong>Punk Rock Girl</strong> | <em>Punk Rock Menopause</em> | Released: 2014 | Revolution</li> </ol>

@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Cold Cold Man" by Saint Motel, from the EP *My Type*, released on August 16, 2014, by Parlophone UK.</p> <!-- Featured Image -->
 <div > <img src="https://i1.sndcdn.com/artworks-000111564573-zclzfb-t500x500.jpg" alt="Saint Motel - Cold Cold Man" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/Of3jUuQzH2o" title="Saint Motel - Cold Cold Man (Official Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "Of3jUuQzH2o" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Cold Cold Man"</em> by Saint Motel is a track from the EP *My Type*, released on August 16, 2014. The song blends elements of la indie, modern alternative rock, and indie pop, capturing the essence of Saint Motel's unique sound with a catchy and energetic vibe.</p>
 </div> <!-- Footer Links -->

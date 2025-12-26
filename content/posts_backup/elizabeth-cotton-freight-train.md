@@ -3,7 +3,7 @@ title: "elizabeth cotton freight train"
 layout: post
 ---
 #1950s <br />
-<iframe width="95%" height="315" src="https://www.youtube.com/embed/IUK8emiWabU?list=PLtuNtuTatqI2350OnCF7NhX0o_CRBEi8s" frameborder="0" allowfullscreen></iframe><br />
+{{< youtube "IUK8emiWabU" >}}<br />
 Born in 1895, "By her early teens she was writing her own songs, one of which, 'Freight Train', became one of her most recognized. Cotten wrote "Freight Train" in remembrance of the nearby train that she could hear from her childhood home." - [<a href="https://en.wikipedia.org/wiki/Elizabeth_Cotten">Wiki</a>]
 
 <!--Subscribe and Playlist Links-->

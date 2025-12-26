@@ -2,7 +2,7 @@
 title: "18veno 1 song"
 layout: post
 ---
-<iframe allowfullscreen="" frameborder="0" height="270" src="https://www.youtube.com/embed/cViqfyryMks" width="480"></iframe><br /><br />
+{{< youtube "cViqfyryMks" >}}<br /><br />
 <h3><ol><li>Fuck Rap [2020]</li>
 </ol></h3>
 

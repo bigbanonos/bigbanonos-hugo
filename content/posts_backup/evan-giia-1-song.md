@@ -2,7 +2,7 @@
 title: "evan giia 1 song"
 layout: post
 ---
-<iframe frameborder="0" height="270" src="https://youtube.com/embed/3RPBUR_MwH4" width="480"></iframe><h2><ol><li>Stay Up [2021]</li></ol></h2>
+{{< youtube "3RPBUR_MwH4" >}}<h2><ol><li>Stay Up [2021]</li></ol></h2>
 
 <!--Subscribe and Playlist Links-->
 <div>

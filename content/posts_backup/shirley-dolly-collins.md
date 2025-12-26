@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Ca' the Yowes" by Shirley & Dolly Collins, from the album *The Harvest Years*, released on August 4, 2008, by Parlophone UK.</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d0000b27314c1026194a18deb0ae6f901" alt="Shirley & Dolly Collins - Ca' the Yowes" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/wGabYHdNvnM" title="Shirley & Dolly Collins - Ca' The Yowes (1969)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "wGabYHdNvnM" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Ca' the Yowes"</em> by Shirley & Dolly Collins is a track from the album *The Harvest Years*, released on August 4, 2008. The song captures the essence of British folk, showcasing the duo's intricate harmonies and traditional folk instrumentation.</p>
 </div> <!-- Footer Links -->

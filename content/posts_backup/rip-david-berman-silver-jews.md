@@ -4,7 +4,7 @@ layout: post
 ---
 <div class="separator" ><a href="https://www.rollingstone.com/wp-content/uploads/2019/08/david-berman-sheff.jpg" imageanchor="1"><img border="0" src="https://www.rollingstone.com/wp-content/uploads/2019/08/david-berman-sheff.jpg" width="400" height="267" data-original-width="800" data-original-height="533" /></a></div>
 <p>RIP David Berman</p>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLtuNtuTatqI24BXGrHK3X3ATef1fQkUxF" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{< youtube "videoseries" >}}
 <br />
 <h3>
 Black & Brown Blues [2002]</h3>

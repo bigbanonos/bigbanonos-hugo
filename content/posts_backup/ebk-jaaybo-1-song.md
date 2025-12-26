@@ -2,7 +2,7 @@
 title: "ebk jaaybo 1 song"
 layout: post
 ---
-<iframe frameborder="0" height="270" src="https://youtube.com/embed/KvT7H5-RJGA" width="480"></iframe><h2><ol><li>Death Bedz [2021]</li></ol></h2>
+{{< youtube "KvT7H5-RJGA" >}}<h2><ol><li>Death Bedz [2021]</li></ol></h2>
 
 <!--Subscribe and Playlist Links-->
 <div>

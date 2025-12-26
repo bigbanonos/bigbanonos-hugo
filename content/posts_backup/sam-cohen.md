@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Don't Shoot the Messenger" by Sam Cohen, from the album *Cool It*, released on April 28, 2015, by Easy Sound Recording Company.</p> <!-- Featured Image -->
 <div > <img src="https://www.jambase.com/wp-content/uploads/2019/04/sam-cohen-press-1480x832.jpg" alt="Sam Cohen - Don't Shoot the Messenger" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="601" src="https://www.youtube.com/embed/p8osdMNxf9E" title="Don't Shoot the Messenger" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "p8osdMNxf9E" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Don't Shoot the Messenger"</em> by Sam Cohen is a track from the album *Cool It*, released on April 28, 2015. The song mixes Houston indie folk and Americana vibes, with a reflective and introspective tone.</p>
 </div> <!-- Footer Links -->

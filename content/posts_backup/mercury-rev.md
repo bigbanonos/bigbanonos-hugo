@@ -7,7 +7,7 @@ layout: post
 <p >Updated June 1, 1991, with "Car Wash Hair - Full Pull" from <em>Car Wash Hair</em>. Dive into Mercury Rev's dreamy, shoegaze-filled sounds in the playlist below!</p> <!-- Featured Image -->
 <div > <img src="https://dynamicmedia.livenationinternational.com/y/m/d/749f40e8-9c07-4a96-bb11-e3f21c9adac2.jpg" alt="Mercury Rev" />
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/4PQNfXNEi5f8ESqlgMrhrC?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <div > <p><strong>"Car Wash Hair - Full Pull"</strong><br> Genre: Rock, Pop, Folk/Acoustic<br> Album: <em>Car Wash Hair</em><br> Release Date: June 1, 1991<br> Label: Jungle Records</p>
 </div> <!-- Footer Links -->

@@ -4,9 +4,9 @@ layout: post
 ---
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Tracks by Cassius Clay (Muhammad Ali)</h1> <!-- Featured Image -->
-<div > <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_1YmB0Ld2IvY1ubf91r6My9yQ44bXMiuAyQ&s" alt="Cassius Clay / Muhammad Ali">
+<div > {{< img-lite src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_1YmB0Ld2IvY1ubf91r6My9yQ44bXMiuAyQ&s" alt="Cassius Clay / Muhammad Ali" >}}
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/6ZmFJVOAZlkCQXmflxqXDE?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Introductory Text -->
 <p >Muhammad Ali, formerly known as Cassius Clay, proved he was "The Greatest" both inside and outside the ring. From the self-praising "Round 1: I Am the Greatest" to the iconic "I Am the Greatest," BigBanonos celebrates his legendary spoken word and oratory performances.</p> <!-- Song Highlights -->
 <div > <p>BigBanonos' standout picks:</p> <ol> <li><strong>Round 1: I Am the Greatest</strong> | <em>I Am The Greatest!</em> | Released: 1963 | Columbia/Legacy</li> <li><strong>I Am the Greatest</strong> | <em>I Am The Greatest!</em> | Released: 1963 | Columbia/Legacy</li> </ol>

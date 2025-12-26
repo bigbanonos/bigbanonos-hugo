@@ -3,7 +3,7 @@ title: "j roddy on tunespeak"
 layout: post
 ---
 #highlights <br />
-<iframe width="95%" height="315" src="https://www.youtube.com/embed/ZT4lXNF8UM8?list=PLtuNtuTatqI08rAeL01r54olH3rdB9U2B" frameborder="0" allowfullscreen></iframe><br />
+{{< youtube "ZT4lXNF8UM8" >}}<br />
 Don't Break The Needle 2013 <br />
 I Think Of You (Bonus Track) 2013 
 

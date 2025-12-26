@@ -7,7 +7,7 @@ layout: post
 <p >Updated 2013 with BigBanonos' favorite song by Big Data, "The Business of Emotion," featuring White Sea. Released under Warner Records, this track blends electronic beats with modern alternative rock energy. Watch the video and see more details below:</p> <!-- Featured Image -->
 <div > <img src="https://draw.acharts.net/artist/big_data-551d3f39737ae-l.jpeg" alt="Big Data - The Business of Emotion" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/ckGpFjV5yXA" title="Big Data - "The Business of Emotion (feat. White Sea)" [Official Music Video]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "ckGpFjV5yXA" >}}
 </div> <!-- Song Information -->
 <div > <p>"The Business of Emotion" by Big Data, featuring White Sea, is a provocative track exploring the manipulation of emotions in the digital age. Released in 2013 under Warner Records, this 4:07-long song combines metropopolis vibes with modern alternative rock, creating an electrifying listening experience.</p>
 </div> <!-- Footer Links -->

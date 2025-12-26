@@ -7,7 +7,7 @@ layout: post
 <p >Updated August 8, 2019, with "At the Party" by Hana Vu. This mesmerizing bedroom pop gem offers an intimate and introspective soundscape, capturing the unique essence of her artistry from *At the Party*.</p> <!-- Featured Image -->
 <div > <img src="https://hanavu.com/cdn/shop/files/HV-HERO-DESKTOP_1500x.jpg?v=1710971676" alt="Hana Vu - At the Party" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/lfMWvYqJURc" title="Hana Vu 'At The Party' (Official Music Video)" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> <br /> <iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/videoseries?list=PLtuNtuTatqI2Aq367pWW94k4eKUlvblO3" width="560"></iframe>
+<div > {{< youtube "lfMWvYqJURc" >}} <br /> {{< youtube "videoseries" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"At the Party"</em> showcases Hana Vu's ability to weave atmospheric melodies with poignant lyrics. Released on August 8, 2019, this track stands out as a hauntingly beautiful anthem within the bedroom pop genre.</p>
 </div> <!-- Footer Links -->

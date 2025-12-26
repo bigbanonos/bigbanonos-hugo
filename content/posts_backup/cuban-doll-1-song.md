@@ -2,7 +2,7 @@
 title: "cuban doll 1 song"
 layout: post
 ---
-<iframe frameborder="0" height="270" src="https://youtube.com/embed/YRttJ2Gz8uI" width="480"></iframe><h2><ol><li>Don't Talk [2022]</li></ol></h2>
+{{< youtube "YRttJ2Gz8uI" >}}<h2><ol><li>Don't Talk [2022]</li></ol></h2>
 
 <!--Subscribe and Playlist Links-->
 <div>

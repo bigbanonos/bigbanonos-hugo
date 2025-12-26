@@ -7,7 +7,7 @@ layout: post
 <p >Updated March 5, 1971, with "Here Come The Girls" by Ernie K-Doe. This funky and soulful anthem from his self-titled album captures the joy and groove of the early '70s. Watch the video below!</p> <!-- Featured Image -->
 <div > <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/ErnieK-doe1996.jpg" alt="Ernie K-Doe - Here Come The Girls" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="560" height="315" src="https://www.youtube.com/embed/CejaCa6Eewc" frameborder="0" allowfullscreen></iframe>
+<div > {{< youtube "CejaCa6Eewc" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Here Come The Girls"</em>, from Ernie K-Doeâ€™s 1971 self-titled album released under Janus Records, is a vibrant track that showcases his charisma and talent. Its catchy rhythm and celebratory vibe make it a timeless classic in soul music.</p>
 </div> <!-- Footer Links -->

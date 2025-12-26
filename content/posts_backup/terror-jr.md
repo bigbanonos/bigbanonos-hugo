@@ -2,7 +2,7 @@
 title: "terror jr"
 layout: post
 ---
-<a href="http://terrorjunior.com/images/terror-bg.jpeg" imageanchor="1" ><img border="0" src="http://terrorjunior.com/images/terror-bg.jpeg" width="320" height="180" data-original-width="800" data-original-height="450" /></a><iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLtuNtuTatqI2p5RtNCOUE_MFKvlRd2gSA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe><h3>Pray [2016]</h3>
+<a href="http://terrorjunior.com/images/terror-bg.jpeg" imageanchor="1" ><img border="0" src="http://terrorjunior.com/images/terror-bg.jpeg" width="320" height="180" data-original-width="800" data-original-height="450" /></a>{{< youtube "videoseries" >}}<h3>Pray [2016]</h3>
 
 <!--Subscribe and Playlist Links-->
 <div>

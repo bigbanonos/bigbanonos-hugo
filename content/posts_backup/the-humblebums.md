@@ -7,7 +7,7 @@ layout: post
 <p >Updated with *Patrick* by The Humblebums, a heartfelt folk track from 1969 - *Please Sing a Song for Us: The Transatlantic Anthology*. This song highlights the group's classic British folk style, weaving together evocative lyrics with a soft, acoustic backdrop.</p> <!-- Featured Image -->
 <div > <img src="https://images.genius.com/ce49597554b463b185c57758008d26fd.500x500x1.jpg" alt="The Humblebums - Patrick" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="617" src="https://www.youtube.com/embed/XV8iFk5Bag4" title="Patrick" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "XV8iFk5Bag4" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Patrick"</em> is a standout track from *Please Sing a Song for Us: The Transatlantic Anthology*, where The Humblebums capture the essence of British folk with smooth acoustic melodies and poignant storytelling. Originally released by Castle Communications in 2005, this piece remains a timeless example of their work.</p>
 </div> <!-- Footer Links -->

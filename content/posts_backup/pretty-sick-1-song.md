@@ -2,7 +2,7 @@
 title: "pretty sick 1 song"
 layout: post
 ---
-<iframe frameborder="0" height="270" src="https://youtube.com/embed/36vbWM5m4A8?si=qOqWRrxGS2upXVeP" width="480"></iframe><div><br /></div><h3>Streetwise [2024]</h3><div><br /></div><div><br /></div>
+{{< youtube "36vbWM5m4A8" >}}<div><br /></div><h3>Streetwise [2024]</h3><div><br /></div><div><br /></div>
 
 <!--Subscribe and Playlist Links-->
 <div>

@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Jackrabbit" by San Fermin, from the album *Jackrabbit*, released on April 21, 2015, by Downtown Records.</p> <!-- Featured Image -->
 <div > <img src="https://media.pitchfork.com/photos/5929abf7c0084474cd0c147f/master/pass/cd1bb2b9.jpg" alt="San Fermin - Jackrabbit" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="293" src="https://www.youtube.com/embed/Q_XZmcfq5F8" title="San Fermin - Jackrabbit (OFFICIAL VIDEO)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "Q_XZmcfq5F8" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Jackrabbit"</em> by San Fermin is a track from the album *Jackrabbit*, released on April 21, 2015. The song combines elements of Brooklyn indie and chamber pop, delivering a blend of vibrant orchestration and emotional depth.</p>
 </div> <!-- Footer Links -->

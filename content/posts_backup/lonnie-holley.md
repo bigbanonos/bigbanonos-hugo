@@ -7,7 +7,7 @@ layout: post
 <p >Updated July 12, 2018, with "I Woke Up in a Fucked-Up America" by Lonnie Holley. This powerful track, released under Jagjaguwar, blends afrofuturism and psychedelic soul, offering a poignant reflection on contemporary life in America.</p> <!-- Featured Image -->
 <div > <img src="https://media.pitchfork.com/photos/5efc9ff58813ffa92664ed76/1:1/w_800%2Ch_450%2Cc_limit/National%2520Freedom_Lonnie%2520Holley.jpg" alt="Lonnie Holley - I Woke Up in a Fucked-Up America" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/Ss3cz9FgGnA" title="Lonnie Holley - I Woke Up... (Official Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "Ss3cz9FgGnA" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"I Woke Up in a Fucked-Up America"</em> by Lonnie Holley is an evocative track that fuses afrofuturism with psychedelic soul. Its thought-provoking lyrics and experimental soundscapes make it a standout release that challenges listeners to reflect on societal and cultural issues.</p>
 </div> <!-- Footer Links -->

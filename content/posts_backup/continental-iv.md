@@ -4,9 +4,9 @@ layout: post
 ---
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by The Continental IV</h1> <!-- Featured Image -->
-<div > <img src="https://i.scdn.co/image/ab67616d0000b27367aef122aa89291801c64e27" alt="The Continental IV">
+<div > {{< img-lite src="https://i.scdn.co/image/ab67616d0000b27367aef122aa89291801c64e27" alt="The Continental IV" >}}
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/1JhigVc0tr7QGOxbQB8ZGD?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Introductory Text -->
 <p >The Continental IV brings the smooth sounds of classic soul to life with tracks like "(You're Living in a) Dream World" and "I Don't Have You." Explore BigBanonos' top picks.</p> <!-- Song Highlights -->
 <div > <p>BigBanonos' standout picks:</p> <ol> <li><strong>(You're Living in a) Dream World</strong> | <em>Dream World (Digitally Remastered)</em> | Released: October 4, 1972 | Essential Media Group</li> <li><strong>I Don't Have You</strong> | <em>Dream World (Digitally Remastered)</em> | Released: October 4, 1972 | Essential Media Group</li> </ol>

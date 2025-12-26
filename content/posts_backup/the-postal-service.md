@@ -6,7 +6,7 @@ layout: post
 <p >The Postal Service brought indie electronica to new heights with their blend of emotional lyrics and electronic beats. Revisit their classics below.</p> <!-- Featured Image -->
 <div > <img src="https://ew.com/thmb/cJWLm5kwmLABd8fC_2p_tUaMUUc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/postal-service-2ddbbf9ed44a4f41b05661d3089c5578.jpg" alt="The Postal Service" />
 </div> <!-- Spotify Playlist Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/35kpbylwnqDdKT6LABC2o8?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"The District Sleeps Alone Tonight"</em> and <em>"Such Great Heights"</em> from *Give Up* (2003) remain timeless favorites.</p> <p><em>"We Will Become Silhouettes"</em> reflects the band's signature emotional depth and electronic production.</p>
 </div> <!-- Footer Links -->

@@ -7,7 +7,7 @@ layout: post
 <p >Updated November 4, 2014, with "Why" by Les Sins featuring Nate Salman. This chillwave track from the album <em>Michael</em>, released under Company Records, delivers a smooth and groovy listening experience.</p> <!-- Featured Image -->
 <div > <img src="https://www.carparkrecords.com/wp-content/uploads/2013/01/lesSins-1.jpg" alt="Les Sins - Why (feat. Nate Salman)" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/dhWfKlja7Ys" title="Les Sins - Why (feat. Nate Salman)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "dhWfKlja7Ys" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Why"</em> by Les Sins featuring Nate Salman is a standout chillwave track. With its groovy beats and mellow vibes, itâ€™s a highlight from the album <em>Michael</em>, showcasing Les Sinsâ€™ masterful production and Salmanâ€™s smooth vocals.</p>
 </div> <!-- Footer Links -->

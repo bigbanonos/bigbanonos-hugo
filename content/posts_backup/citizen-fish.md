@@ -7,7 +7,7 @@ layout: post
 <p >Updated January 1, 1991, with "Sink Or Swim" by Citizen Fish. This energetic ska-punk track delivers sharp lyrics and infectious rhythms, showcasing the bandâ€™s signature sound. Watch the video below!</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d0000b273cdb00ab1289b9b109df2825a" alt="Citizen Fish - Sink Or Swim" />
 </div> <!-- YouTube Video Embed -->
-<div ><iframe width="560" height="315" src="https://www.youtube.com/embed/k4-YHAAt9cg?si=1339A404BjxwvhmG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div >{{< youtube "k4-YHAAt9cg" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Sink Or Swim"</em>, released in 1991, is a standout track by Citizen Fish. Known for their ska-punk energy and socially conscious lyrics, this track remains a fan favorite and a staple of their discography.</p>
 </div> <!-- Footer Links -->

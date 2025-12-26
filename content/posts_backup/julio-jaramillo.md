@@ -7,7 +7,7 @@ layout: post
 <p >Updated January 17, 2003, with "Odiame" from <em>30 Mejores</em>. Explore the timeless bolero classics of Julio Jaramillo in the playlist below!</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d00001e02ff2696fd252ddad0cc977b16" alt="Julio Jaramillo" />
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/7nuEWJi9WIivZ012S00okl?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <div > <p><strong>"Odiame"</strong><br> Genre: Latin<br> Album: <em>30 Mejores</em><br> Release Date: 2003<br> Label: Tropisounds</p> <p><strong>"Nuestro Juramento"</strong><br> Genre: Latin<br> Album: <em>15 AÃƒÆ’Ã‚Â±os De Exitos</em><br> Release Date: 1993<br> Label: REMO Records</p>
 </div> <!-- Footer Links -->

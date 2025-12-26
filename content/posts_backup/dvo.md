@@ -4,9 +4,9 @@ layout: post
 ---
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by D'Vo</h1> <!-- Featured Image -->
-<div > <img src="https://i.scdn.co/image/ab67616100005174a0743e9575508e984a6afedd" alt="D'Vo">
+<div > {{< img-lite src="https://i.scdn.co/image/ab67616100005174a0743e9575508e984a6afedd" alt="D'Vo" >}}
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/63RtFiIozBgN8cCkihGXMx?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Introductory Text -->
 <p >D'Vo brings a Houston rap flavor to chopped and screwed tracks like "Dim My Light" and "Court Vision Chopalude." BigBanonos highlights his top picks.</p> <!-- Song Highlights -->
 <div > <p>BigBanonos' standout picks:</p> <ol> <li><strong>Dim My Light - ChopNotSlop Remix</strong> (feat. The Chopstars & OG Ron C) | <em>The Codex: Court Vision (ChopNotSlop Remix)</em> | Released: September 26, 2023 | ChopNotSlop Ent.</li> <li><strong>Court Vision Chopalude</strong> | <em>The Codex: Court Vision (ChopNotSlop Remix)</em> | Released: September 26, 2023 | ChopNotSlop Ent.</li> </ol>

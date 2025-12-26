@@ -3,10 +3,10 @@ title: "miya folick 4 songs"
 layout: post
 ---
 <h1>BigBanonos Top 4 Songs by Miya Folick</h1>
-<img src="https://i.ytimg.com/vi/Zp5aYXL24vo/maxresdefault.jpg" alt="Miya Folick"> <p>Miya Folick brings raw emotion and unique indie pop vibes from LA. Here are BigBanonos' favorite songs from her, capturing her powerful voice and impactful lyrics.</p> <ol> <li><strong>Get Out of My House</strong> | Genre: Pop | Nettwerk Music Group | Released: January 20, 2023</li> <li><strong>I Got Drunk</strong> | Album: <em>Strange Darling - EP</em> | Genre: Pop | Independent Release | Released: December 10, 2015</li> <li><strong>Malibu Barbie</strong> | Released: 2019</li> <li><strong>Thingamajig</strong> | Released: 2018</li>
-</ol> <div> <iframe src="https://open.spotify.com/embed/playlist/5J57nECeoacygMkol4QgmL?utm_source=generator" width="100%" height="352" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy" allowfullscreen></iframe>
+{{< img-lite src="https://i.ytimg.com/vi/Zp5aYXL24vo/maxresdefault.jpg" alt="Miya Folick" >}} <p>Miya Folick brings raw emotion and unique indie pop vibes from LA. Here are BigBanonos' favorite songs from her, capturing her powerful voice and impactful lyrics.</p> <ol> <li><strong>Get Out of My House</strong> | Genre: Pop | Nettwerk Music Group | Released: January 20, 2023</li> <li><strong>I Got Drunk</strong> | Album: <em>Strange Darling - EP</em> | Genre: Pop | Independent Release | Released: December 10, 2015</li> <li><strong>Malibu Barbie</strong> | Released: 2019</li> <li><strong>Thingamajig</strong> | Released: 2018</li>
+</ol> <div> {{< youtube "embed" >}}
 </div> <p>Check out the YouTube playlist of Miya Folick's videos curated by BigBanonos:</p>
-<div> <iframe allow="autoplay; encrypted-media" allowfullscreen="" frameborder="0" height="500" src="https://www.youtube.com/embed/videoseries?list=PLtuNtuTatqI1CD1asyjq6EPYSoFRv7F9g" width="100%"></iframe>
+<div> {{< youtube "videoseries" >}}
 </div> <p>first posted by <a href="https://bigbanonos.blogspot.com/">https://bigbanonos.blogspot.com/</a></p> <div> <p>Explore more BigBanonos content: <a href="https://bigbanonos.blogspot.com/">Website</a> | <a href="https.com/bigbanonos">YouTube</a> | <a href="https://x.com/bigbanonos">Twitter</a></p>
 </div> <!-- Tags -->
 <p>@miyafolick</p>

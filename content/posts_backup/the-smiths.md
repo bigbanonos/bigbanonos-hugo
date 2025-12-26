@@ -4,9 +4,9 @@ layout: post
 ---
 <h1>BigBanonos Top Songs by The Smiths</h1>
 <img alt="The Smiths" src="https://upload.wikimedia.org/wikipedia/commons/6/68/The_Smiths_%281984_Sire_publicity_photo%29_002.jpg" /> <p>The Smiths capture melancholy, wit, and timeless post-punk vibes in their distinctive style. Here are BigBanonos' favorite tracks:</p> <ol> <li><strong>Girlfriend in a Coma</strong> | <em>Strangeways, Here We Come</em> | Released: 1987-09-28 | WM UK</li> <li><strong>Stop Me If You Think You've Heard This One Before</strong> | <em>Strangeways, Here We Come</em> | Released: 1987-09-28 | WM UK</li> <li><strong>Sheila Take A Bow (Stream)</strong> | Released: 1987</li> <li><strong>Ask</strong> - 2011 Remaster | <em>Louder Than Bombs</em> | Released: 1987-00-00 | WM UK</li> <li><strong>Cemetry Gates</strong> - 2011 Remaster | <em>The Queen Is Dead</em> | Released: 1986-06-16 | WM UK</li> <li><strong>Panic (Stream)</strong> | Released: 1986</li> <li><strong>William, It Was Really Nothing</strong> - 2011 Remaster | <em>Hatful of Hollow</em> | Released: 1984-00-00 | WM UK</li> <li><strong>Please, Please, Please Let Me Get What I Want (Stream)</strong> | Released: 1984</li> <li><strong>Heaven Knows I'm Miserable Now</strong> - 2011 Remaster | <em>Hatful of Hollow</em> | Released: 1984-00-00 | WM UK</li> <li><strong>This Night Has Opened My Eyes</strong> - 2011 Remaster | <em>Hatful of Hollow</em> | Released: 1984-00-00 | WM UK</li> <li><strong>Hand in Glove</strong> - 2011 Remaster | <em>The Smiths</em> | Released: 1984-02-20 | WM UK</li> <li><strong>What Difference Does It Make?</strong> - 2011 Remaster | <em>The Smiths</em> | Released: 1984-02-20 | WM UK</li>
-</ol> <div> <iframe allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" frameborder="0" height="352" loading="lazy" src="https://open.spotify.com/embed/playlist/04hUF9FQGptqcpoQikKk36?utm_source=generator" width="100%"></iframe>
+</ol> <div> {{< youtube "embed" >}}
 </div> <p><strong>Live Recording:</strong> <em>Heaven Knows I'm Miserable Now</em> (Live, Hamburg, 1984)</p>
-<div> <iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/y_QOWIJWDaI" width="420"></iframe>
+<div> {{< youtube "y_QOWIJWDaI" >}}
 </div> <!--Tags-->
 <p> Tags: @thesmiths
 </p>

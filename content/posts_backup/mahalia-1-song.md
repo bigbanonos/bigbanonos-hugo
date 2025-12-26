@@ -7,7 +7,7 @@ layout: post
 <p >Updated September 6, 2019, with "I Wish I Missed My Ex" by Mahalia. This standout track from the album <em>LOVE AND COMPROMISE</em>, released under Atlantic Records UK, blends alternative R&B with indie anthem-folk influences, showcasing Mahaliaâ€™s signature style.</p> <!-- Featured Image -->
 <div > <img src="https://subpop-img.s3.amazonaws.com/asset/artist_images/attachments/000/009/897/original/magictrick3.jpg?1680121412" alt="Mahalia - I Wish I Missed My Ex" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/a7kT52xL-7g" title="Mahalia - I Wish I Missed My Ex" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "a7kT52xL-7g" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"I Wish I Missed My Ex"</em> by Mahalia is a refreshingly honest and soulful track that captures the essence of alternative R&B and contemporary UK influences. With its relatable lyrics and smooth delivery, this song from <em>LOVE AND COMPROMISE</em> is a modern classic.</p>
 </div> <!-- Footer Links -->

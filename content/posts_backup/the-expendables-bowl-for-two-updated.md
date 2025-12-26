@@ -7,7 +7,7 @@ layout: post
 <p >Updated with *Bowl For Two* by The Expendables, a reggae rock classic from their *Gettin' Filthy* album. This track is a perfect blend of reggae rhythms and rock energy, capturing the band's laid-back vibe while delivering a catchy, memorable tune.</p> <!-- Featured Image -->
 <div > <img src="https://i.ytimg.com/vi/YGsES4ezxhs/mqdefault.jpg" alt="The Expendables - Gettin' Filthy" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="514" src="https://www.youtube.com/embed/YGsES4ezxhs" title="The Expendables - 'Bowl For Two' (Official Audio)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "YGsES4ezxhs" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Bowl For Two"</em> by The Expendables blends the best of reggae rock with catchy riffs and a carefree vibe. From their *Gettin' Filthy* album, this track has become a staple in their genre, showcasing the band's ability to fuse multiple styles into one seamless sound.</p>
 </div> <!-- Footer Links -->

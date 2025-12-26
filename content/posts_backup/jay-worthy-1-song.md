@@ -2,7 +2,7 @@
 title: "jay worthy 1 song"
 layout: post
 ---
-<iframe frameborder="0" height="270" src="https://youtube.com/embed/QfS1KDXg06U?si=5HksjdP7yddWvWp-" width="480"></iframe><div><br /></div><div>(ft.Ãƒâ€šÃ‚Â Ty Dolla $ign, Channel Tres, DJ Quik & A-Trak) 105 West [2024]</div><div><br /></div><div class="separator"><a href="https://static.stereogum.com/uploads/2024/06/Jay-Worthy-1718981422.jpg" imageanchor="1"><img border="0" data-original-height="680" data-original-width="929" height="680" src="https://static.stereogum.com/uploads/2024/06/Jay-Worthy-1718981422.jpg" width="929" /></a></div><br /><div><br /></div>
+{{< youtube "QfS1KDXg06U" >}}<div><br /></div><div>(ft.Ãƒâ€šÃ‚Â Ty Dolla $ign, Channel Tres, DJ Quik & A-Trak) 105 West [2024]</div><div><br /></div><div class="separator"><a href="https://static.stereogum.com/uploads/2024/06/Jay-Worthy-1718981422.jpg" imageanchor="1"><img border="0" data-original-height="680" data-original-width="929" height="680" src="https://static.stereogum.com/uploads/2024/06/Jay-Worthy-1718981422.jpg" width="929" /></a></div><br /><div><br /></div>
 
 <!--Subscribe and Playlist Links-->
 <div>

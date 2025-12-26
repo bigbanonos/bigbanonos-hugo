@@ -7,7 +7,7 @@ layout: post
 <p >Updated January 6, 2014, with "Somebody" by Natalie La Rose featuring Jeremih. This hit track from the album <em>Somebody</em>, released under Universal Records, blends Chicago rap and R&B with pop and trap influences, creating a catchy anthem for the urban contemporary scene.</p> <!-- Featured Image -->
 <div > <img src="https://upload.wikimedia.org/wikipedia/en/2/21/Somebody_-_Natalie_La_Rose.png" alt="Natalie La Rose - Somebody" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/8zqdo_Umd5c" title="Natalie La Rose - Somebody ft. Jeremih" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "8zqdo_Umd5c" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Somebody"</em> by Natalie La Rose, featuring Jeremih, is a standout track blending Chicago rap, R&B, pop rap, and trap. From the album <em>Somebody</em>, it offers a memorable hook and infectious beats, making it a hit on urban contemporary charts.</p>
 </div> <!-- Footer Links -->

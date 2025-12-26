@@ -5,7 +5,7 @@ layout: post
 <h2>BigBanonos' Favorite 5 Songs by Youth Lagoon</h2>
 <p>These four songs by Youth Lagoon are the top BigBanonos picks for their immersive, dreamy blend of chamber pop and experimental sounds.Ãƒâ€šÃ‚Â </p> <ol> <li><strong>My Beautiful Girl</strong> - Album: <em>Lucy Takes a Picture</em> (2024-10-08)</li> <li><strong>Lucy Takes a Picture</strong> - Album: <em>Lucy Takes a Picture</em> (2024-05-21), 4:19</li> <li><strong>Prizefighter</strong> - Album: <em>Prizefighter</em> (2023-04-04), 2:41</li> <li><strong>Idaho Alien</strong> - Album: <em>Prizefighter</em> (2023-04-04), 3:23</li> <li><strong>17</strong> - Album: <em>The Year of Hibernation</em> (2011-09-27), 3:56</li>
 </ol> <!--Spotify Playlist Embed-->
-<iframe allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" allowfullscreen="" frameborder="0" height="352" loading="lazy" src="https://open.spotify.com/embed/playlist/2J7uFJhrlYu8eGOSnOt1Xq?utm_source=generator" width="100%"></iframe> <!--Image-->
+{{< youtube "embed" >}} <!--Image-->
 <img alt="Youth Lagoon Album Cover" src="https://hashbrandnew.com/Artist/image-thumb__64847__big/0037414819_10.webp" /> <!--Tags-->
 <p>Be sure to check out all of Youth Lagoon's nuanced tracks on this playlist, and explore #NotOnSpotify songs. Join over 650 subscribers and support BigBanonos' latest favorites onÃƒâ€šÃ‚Â <a href="https://www.youtube.com/channel/UCLKYEvwP847OahjcnkYMhjg">YouTube</a>!</p>
 

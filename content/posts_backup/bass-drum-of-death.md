@@ -7,7 +7,7 @@ layout: post
 <p >Updated July 27, 2018, with BigBanonos' favorite song by Bass Drum of Death, "Too High," from the album *Just Business*. Watch the video and see more details below:</p> <!-- Featured Image -->
 <div > <img src="https://yt3.googleusercontent.com/F0IK4klMHA6twXmzEtzFAAmTOZytM659iGTGVjZbCy0K9dMWhu3gUJ_5Y2kHTXyB8OFNlk25fVc=s900-c-k-c0x00ffffff-no-rj" alt="Bass Drum of Death - Too High" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/EX55FkZOxqU" title="Too High" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "EX55FkZOxqU" >}}
 </div> <!-- Song Information -->
 <div > <p>"Too High" by Bass Drum of Death is a gritty garage rock anthem with infectious energy and raw vocals. Released on July 27, 2018, under RED MUSIC, this 3:47-long track from the album *Just Business* blends elements of garage pop, indie garage rock, and noise pop, cementing the band's Mississippi indie roots.</p>
 </div> <!-- Footer Links -->

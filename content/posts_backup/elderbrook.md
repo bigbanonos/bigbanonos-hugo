@@ -7,7 +7,7 @@ layout: post
 <p >Updated October 4, 2019, with "Something About You (Chill Mix)" by Elderbrook and Rudimental. This soulful track combines electronic beats with a soothing vibe, creating a memorable listening experience.</p> <!-- Featured Image -->
 <div > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/POS19_DAY1-339_Elderbrook_%2848486952356%29.jpg/1200px-POS19_DAY1-339_Elderbrook_%2848486952356%29.jpg" alt="Elderbrook & Rudimental - Something About You (Chill Mix)" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/PgLHUSj-UDE" title="Elderbrook - Something About You (Chill Mix)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "PgLHUSj-UDE" >}}
 </div> <!-- Song Information -->
 <div > <p>"Something About You (Chill Mix)" blends Elderbrook's soulful vocals with Rudimental's signature UK dance beats, offering a perfect mix of relaxation and rhythm for electronic music lovers.</p>
 </div> <!-- Footer Links -->

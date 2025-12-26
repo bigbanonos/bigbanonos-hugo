@@ -7,7 +7,7 @@ layout: post
 <p >Updated October 23, 2015, with "In A Broken Dream" by Python Lee Jackson featuring Rod Stewart. Originally recorded in 1972 and later included on *Another Country (Deluxe)*, this hauntingly beautiful track pairs Stewart's powerful vocals with a timeless melody. Watch and listen below!</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d0000b273f23bedfe0b8e6823ebc3250c" alt="Python Lee Jackson - In A Broken Dream" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="733" height="480" src="https://www.youtube.com/embed/dcLlq_DXpY8" title="Python Lee Jackson - In a Broken Dream (1972)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "dcLlq_DXpY8" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"In A Broken Dream"</em>, originally released in 1972 and featured on the 2015 *Another Country (Deluxe)* album by Capitol Records, is a mellow gold classic. Rod Stewart's emotive performance elevates this Python Lee Jackson track, making it a staple of soft rock and an enduring fan favorite.</p>
 </div> <!-- Footer Links -->

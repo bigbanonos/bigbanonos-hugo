@@ -3,7 +3,7 @@ title: "hinds 1 songs"
 layout: post
 ---
 <img border="0" data-original-height="720" data-original-width="1280" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifM9DC3c0yWQHC9eDqzjASxG0wbSdXsDkTnujt2GeiXAYxQXZ44HPefh7AgnpOGVn9urWX6A1c2dRHnPu5MVPZ48HSkV5iWL1IKiq7iKhqTRAcA2fgnIcIcmh0IXoN6S460JkSjuiWIPU/s320/best-songs-by-hinds+%25281%2529.png" width="320" /><br />
-<iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/videoseries?list=PLtuNtuTatqI08LyYcS9iTnNeMg3APP2FG" width="560"></iframe>
+{{< youtube "videoseries" >}}
 <br />
 <h3><ol><li>Burn [2020]</li></ol></h3>
 

@@ -7,7 +7,7 @@ layout: post
 <p >Updated May 7, 2013, with "Shout It Out" from <em>MCII</em>. Explore the garage pop brilliance of Mikal Cronin in the playlist below!</p> <!-- Featured Image -->
 <div > <img src="https://f4.bcbits.com/img/0016983063_10.jpg" alt="Mikal Cronin" />
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/0jSfr5z8KJxb1BSqhEFNdc?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <div > <p><strong>"Shout It Out"</strong><br> Genre: Pop, Folk/Acoustic<br> Album: <em>MCII</em><br> Release Date: May 7, 2013<br> Label: Merge Records</p>
 </div> <!-- Footer Links -->

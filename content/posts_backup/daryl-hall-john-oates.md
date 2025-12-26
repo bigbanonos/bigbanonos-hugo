@@ -4,9 +4,9 @@ layout: post
 ---
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Daryl Hall & John Oates</h1> <!-- Featured Image -->
-<div > <img src="https://i.scdn.co/image/ab67616d0000b273f43547de689aabc4c44ab62d" alt="Daryl Hall & John Oates">
+<div > {{< img-lite src="https://i.scdn.co/image/ab67616d0000b273f43547de689aabc4c44ab62d" alt="Daryl Hall & John Oates" >}}
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/56AdwCrf9bCnjfJu6blKlQ?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Introductory Text -->
 <p >Daryl Hall & John Oates have crafted timeless classics with their signature blend of rock and soul. BigBanonos celebrates their hits like "Private Eyes" and "Maneater," along with standout deep cuts.</p> <!-- Song Highlights -->
 <div > <p>BigBanonos' standout picks:</p> <ol> <li><strong>Private Eyes</strong> | <em>Private Eyes (Expanded Edition)</em> | Released: 1981 | RCA/BMG Heritage</li> <li><strong>Maneater</strong> | <em>H2O</em> | Released: October 4, 1982 | RCA/Legacy</li> <li><strong>Sara Smile</strong> | <em>Daryl Hall & John Oates (The Silver Album)</em> | Released: 1975 | Buddha Records</li> </ol>

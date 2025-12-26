@@ -7,7 +7,7 @@ layout: post
 <p >Updated February 24, 2015, with "Where Are ÃƒÆ’Ã…â€œ Now," a chart-topping collaboration between Jack ÃƒÆ’Ã…â€œ, Skrillex, Diplo, and Justin Bieber, featured on the album <em>Skrillex and Diplo present Jack ÃƒÆ’Ã…â€œ</em>, released under OWSLA/Mad Decent.</p> <!-- Featured Image -->
 <div > <img src="https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/article/image/jack-u-press-pic.jpg.webp?itok=MQGHLoXf" alt="Jack ÃƒÆ’Ã…â€œ - Where Are ÃƒÆ’Ã…â€œ Now" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/nntGTK2Fhb0" title="Skrillex and Diplo - "Where Are ÃƒÆ’Ã…â€œ Now" with Justin Bieber (Official Video)" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "nntGTK2Fhb0" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Where Are ÃƒÆ’Ã…â€œ Now"</em> became an instant classic, merging Jack ÃƒÆ’Ã…â€œ's innovative EDM soundscapes with Justin Bieber's emotive vocals. Featuring electro house, moombahton, and brostep influences, the track solidified its place as a staple of dance pop culture.</p>
 </div> <!-- Footer Links -->

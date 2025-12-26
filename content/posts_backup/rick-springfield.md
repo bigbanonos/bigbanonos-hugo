@@ -3,7 +3,7 @@ title: "rick springfield"
 layout: post
 ---
  <!-- Rick Springfield -->
-<img src="https://i.scdn.co/image/ab67616d0000b2732e3968b22590624b9fc37d4b" /> <p><strong>Updated 1981 with "Jessie's Girl" from <em>Working Class Dog</em></strong></p> <p><strong>"Jessie's Girl"</strong> â€“ <em>Working Class Dog</em> (1981)</p> <iframe width="541" height="406" src="https://www.youtube.com/embed/qYkbTyHXwbs" title="Rick Springfield - Jessie's Girl (Official Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> <p>@rickspringfield</p> <hr />
+<img src="https://i.scdn.co/image/ab67616d0000b2732e3968b22590624b9fc37d4b" /> <p><strong>Updated 1981 with "Jessie's Girl" from <em>Working Class Dog</em></strong></p> <p><strong>"Jessie's Girl"</strong> â€“ <em>Working Class Dog</em> (1981)</p> {{< youtube "qYkbTyHXwbs" >}} <p>@rickspringfield</p> <hr />
 
 <!--Subscribe and Playlist Links-->
 <div>

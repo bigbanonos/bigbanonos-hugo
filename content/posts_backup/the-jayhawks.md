@@ -7,7 +7,7 @@ layout: post
 <p >Updated with *Blue*, a heartfelt country rock anthem by The Jayhawks. Featured on *Music From The North Country: Anthology*, this track showcases their signature blend of alternative country and roots rock. Released by American Recordings Catalog P&D on July 6, 2009, *Blue* is a standout in their rich discography.</p> <!-- Featured Image -->
 <div > <img src="https://npr.brightspotcdn.com/dims4/default/dbcad2d/2147483647/strip/true/crop/960x960+0+0/resize/880x880!/quality/90/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2Flegacy%2Fsites%2Fkmuw%2Ffiles%2F201807%2FTheJayhawks_2018.jpg" alt="The Jayhawks - Blue" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="519" src="https://www.youtube.com/embed/Z9mJ69Tqh84" title="The Jayhawks - Blue (Official Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "Z9mJ69Tqh84" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Blue"</em> is a track from *Music From The North Country: Anthology*, a collection that captures the essence of The Jayhawks' alternative country and roots rock sound. Their emotive storytelling and melodic sensibilities shine through in this 2009 release, a must-listen for fans of Americana and country rock.</p>
 </div> <!-- Footer Links -->

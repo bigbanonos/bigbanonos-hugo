@@ -3,7 +3,7 @@ title: "drama"
 layout: post
 ---
 <h2>Drama â€“ Essential Tracks</h2> <div > <img src="https://i.ytimg.com/vi/rE1ZIfbXVKY/sddefault.jpg" alt="Drama" width="400" />
-</div> <iframe src="https://open.spotify.com/embed/playlist/6l0koeg7aIUXLbJeM2rl7X?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> <h3>Tracklist</h3>
+</div> {{< youtube "embed" >}} <h3>Tracklist</h3>
 <ul> <li><strong>Double Time (Drama's Cadence)</strong> â€“ <em>Causin' Drama</em> (2000)</li> <li><strong>Left, Right, Left</strong> â€“ <em>Causin' Drama</em> (2000)</li> <li><strong>The Plot</strong> â€“ <em>Causin' Drama</em> (2000)</li>
 </ul> <h3>Tags</h3>
 <p>@drama</p> <p>Explore more music and playlists featuring Drama on <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>, and donâ€™t forget to subscribe to our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube channel</a> for additional hip-hop highlights!</p>

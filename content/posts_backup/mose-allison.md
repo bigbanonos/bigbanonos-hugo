@@ -7,7 +7,7 @@ layout: post
 <p >Updated September 23, 2010, with "Parchman Farm" from <em>The Collection</em>. Enjoy Mose Allison's signature jazz-blues style in the playlist below!</p> <!-- Featured Image -->
 <div > <img src="https://static01.nyt.com/images/2016/11/16/arts/16Allison-Obit-web4/16Allison-Obit-web4-superJumbo.jpg" alt="Mose Allison" />
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/5ldBPxRQgKTB3T6Rju1dDz?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <div > <p><strong>"Parchman Farm"</strong><br> Genre: Blues, Jazz<br> Album: <em>The Collection</em><br> Release Date: September 23, 2010<br> Label: Retroworld</p>
 </div> <!-- Footer Links -->

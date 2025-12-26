@@ -7,7 +7,7 @@ layout: post
 <p >Updated October 9, 2019, with "ICEMAN" by Father, from his album <em>Hu$band</em>. This underground hip hop track delivers slick verses and cool production, showcasing Father's unique style.</p> <!-- Featured Image -->
 <div > <img src="https://i.ytimg.com/vi/_2H3TFVZPoA/mqdefault.jpg" alt="Father - ICEMAN" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/_2H3TFVZPoA" title="Father - ICEMAN (Official Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "_2H3TFVZPoA" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"ICEMAN"</em> reflects Father's effortless flow and cool demeanor, perfectly complemented by the crisp beats that define his signature underground hip hop sound.</p>
 </div> <!-- Footer Links -->

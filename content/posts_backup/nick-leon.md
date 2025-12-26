@@ -7,7 +7,7 @@ layout: post
 <p >Nick LeÃƒÆ’Ã‚Â³n and Erika de Casier bring experimental club sounds to life with â€œBikini,â€ blending Latin tek and Scandinavian R&B. Watch the official video below!</p> <!-- Featured Image -->
 <div > <img src="https://media.pitchfork.com/photos/66a15622c292d7e1852da59b/2:1/w_2560%2Cc_limit/Erika-de-Casier-Nick-Leon.jpg" alt="Nick LeÃƒÆ’Ã‚Â³n & Erika de Casier - Bikini" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="480" src="https://www.youtube.com/embed/fIYgtm0JsdA" title="Nick LeÃƒÆ’Ã‚Â³n & Erika de Casier - Bikini" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "fIYgtm0JsdA" >}}
 </div> <!-- Song Information -->
 <div > <p><em>Bikini</em> merges experimental club, Latin tek, and R&B influences, creating an atmospheric track that pushes boundaries.</p> <p><strong>Updated on July 26, 2024</strong></p>
 </div> <!-- Footer Links -->

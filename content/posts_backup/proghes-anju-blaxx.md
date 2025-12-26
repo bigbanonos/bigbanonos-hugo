@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Never Born Uptown" by Proghes and Anju Blaxx, a standout track from the *Morphosis Riddim* album, featuring dancehall and riddim vibes from UIM Records & JBad Productions.</p> <!-- Featured Image -->
 <div > <img src="https://www.dancehallmag.com/assets/2022/12/pro.jpg" alt="Proghes, Anju Blaxx - Never Born Uptown" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/blKAzV-Fgxo" title="Proghes, Anju Blaxx - Never Born Uptown (Official Audio)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "blKAzV-Fgxo" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Never Born Uptown"</em> offers a fresh blend of dancehall and riddim, capturing the essence of the *Morphosis Riddim* album. A true reflection of Jamaican music culture, brought to you by UIM Records and JBad Productions.</p>
 </div> <!-- Footer Links -->

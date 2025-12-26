@@ -7,7 +7,7 @@ layout: post
 <p >Updated May 17, 2019, with BigBanonos' favorite song by Bantu and Alicai Harley, "Which One (feat. Alicai Harley)," released under Blue Future / Virgin EMI Records. Watch the video and see more details below:</p> <!-- Featured Image -->
 <div > <img src="https://i.ytimg.com/vi/9rJd0B7Qs8k/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBLHL_98AYXGB3hLyzq_F_vqBhkQg" alt="Bantu and Alicai Harley - Which One" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/9rJd0B7Qs8k" title="Bantu - Which One ft. AlicaÃƒÆ’Ã‚Â¬ Harley" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "9rJd0B7Qs8k" >}}
 </div> <!-- Song Information -->
 <div > <p>"Which One (feat. Alicai Harley)" by Bantu and Alicai Harley is a vibrant mix of zimdancehall and UK dancehall rhythms, paired with smooth R&B vibes. Released on May 17, 2019, under Blue Future / Virgin EMI Records, this 3:00-long track is a perfect summer anthem that showcases the duoâ€™s infectious energy.</p>
 </div> <!-- Footer Links -->

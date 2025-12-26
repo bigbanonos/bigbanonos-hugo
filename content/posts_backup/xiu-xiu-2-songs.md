@@ -2,7 +2,7 @@
 title: "xiu xiu 2 songs"
 layout: post
 ---
-<iframe frameborder="0" height="360" src="https://youtube.com/embed/yialek4fUUg?list=PLtuNtuTatqI1wBZiyZpLWAY8N1WpAkg1J" width="480"></iframe><h2><ol><li>(ft. Liz Harris) Bottle Of Rum [2021]</li><li>I Luv The Valley OH! [2004]</li></ol></h2>
+{{< youtube "yialek4fUUg" >}}<h2><ol><li>(ft. Liz Harris) Bottle Of Rum [2021]</li><li>I Luv The Valley OH! [2004]</li></ol></h2>
 
 <!--Subscribe and Playlist Links-->
 <div>

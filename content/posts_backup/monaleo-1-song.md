@@ -2,7 +2,7 @@
 title: "monaleo 1 song"
 layout: post
 ---
-<iframe frameborder="0" height="360" src="https://youtube.com/embed/6PhIzrQI2oM?list=PLtuNtuTatqI0ucd_CX9Y-gTqu0aPQjMf5" width="480"></iframe><div><h2><ol><li>We Not Humping [2021]</li></ol></h2></div>
+{{< youtube "6PhIzrQI2oM" >}}<div><h2><ol><li>We Not Humping [2021]</li></ol></h2></div>
 
 <!--Subscribe and Playlist Links-->
 <div>

@@ -4,9 +4,9 @@ layout: post
 ---
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Bear Vs. Shark</h1> <!-- Featured Image -->
-<div > <img src="https://i.scdn.co/image/2a06e60b3c8e99b5d96b2ec8d4b8a53146267072" alt="Bear Vs. Shark">
+<div > {{< img-lite src="https://i.scdn.co/image/2a06e60b3c8e99b5d96b2ec8d4b8a53146267072" alt="Bear Vs. Shark" >}}
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/3vc5gsI00ziqAlQTcg4NkK?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Introductory Text -->
 <p >Bear Vs. Sharkâ€™s explosive emo and post-hardcore energy shine in these tracks. From "Kylie" to "Broken Dog Leg," here are BigBanonos' favorite songs from *Right Now, You're in the Best of Hands*.</p> <!-- Song Highlights -->
 <div > <p>BigBanonos' standout picks:</p> <ol> <li><strong>Kylie</strong> | <em>Right Now, You're in the Best of Hands</em> | Released: 2003 | Equal Vision</li> <li><strong>Broken Dog Leg</strong> | <em>Right Now, You're in the Best of Hands</em> | Released: 2003 | Equal Vision</li> </ol>

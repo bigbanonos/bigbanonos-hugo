@@ -4,10 +4,10 @@ layout: post
 ---
 <h2>BigBanonos' Favorite Songs by Chronixx</h2> <!-- Search Description -->
 <p>BigBanonos' favorite tracks by Chronixx showcase his unique blend of modern reggae and dancehall sounds.</p> <!-- Spotify Playlist Embed -->
-<iframe src="https://open.spotify.com/embed/playlist/6JOCEHZsIzgbA3cEDApll3?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> <!-- Song Listings -->
+{{< youtube "embed" >}} <!-- Song Listings -->
 <ul> <li><strong>COOL AS THE BREEZE/FRIDAY</strong> - <em>COOL AS THE BREEZE/FRIDAY</em> - 2020-07-22</li> <li><strong>Dela Move</strong> - <em>Dela Move</em> - 2020-03-13</li> <li><strong>Likes</strong> - <em>Chronology</em> - 2017-07-07</li>
 </ul> <!-- Image -->
-<img src="https://unitedreggae.com/userfiles/image/upload/201707/chronixx-01.jpg" alt="Chronixx">
+{{< img-lite src="https://unitedreggae.com/userfiles/image/upload/201707/chronixx-01.jpg" alt="Chronixx" >}}
 
 
 <!--Subscribe and Playlist Links-->

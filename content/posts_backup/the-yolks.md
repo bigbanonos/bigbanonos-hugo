@@ -7,7 +7,7 @@ layout: post
 <p >"Jane" by The Yolks is a fast-paced indie track with infectious guitar riffs and energetic vocals. Watch the official video below!</p> <!-- Featured Image -->
 <div > <img src="https://f4.bcbits.com/img/a3882353991_65" alt="The Yolks - Jane" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="617" src="https://www.youtube.com/embed/FI6k6VpXGLU" title="The Yolks - Jane" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "FI6k6VpXGLU" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Jane"</em> from *The Yolks* captures the band's unique blend of garage rock with a modern edge, delivering an energetic track full of catchy hooks and infectious melodies.</p>
 </div> <!-- Footer Links -->

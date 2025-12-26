@@ -5,9 +5,9 @@ layout: post
 <!-- Title of the Post -->
 <h1>BigBanonosâ€™ Favorite Songs by Juvenile</h1> <!-- Introductory Text -->
 <p>Juvenileâ€™s groundbreaking style in Southern hip hop and bounce has left an indelible mark on the rap scene. BigBanonos highlights his best tracks, spanning his prolific career.</p> <!-- Featured Image -->
-<div> <img src="https://i.ytimg.com/vi/WpQrAbkM3dI/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLB10F78_9UztBC-Rj2P8U-A69h_PQ" alt="Juvenile">
+<div> {{< img-lite src="https://i.ytimg.com/vi/WpQrAbkM3dI/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLB10F78_9UztBC-Rj2P8U-A69h_PQ" alt="Juvenile" >}}
 </div> <!-- Spotify Embed -->
-<div> <iframe src="https://open.spotify.com/embed/playlist/3bcdD42d1y4TpLHSX2mP7N?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div> {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <h3>Top Tracks by Juvenile:</h3>
 <ol> <li><strong>Rodeo</strong> | Album: <em>Reality Check</em> | Released: February 27, 2006 | Label: Atlantic Records</li> <li><strong>Ha</strong> | Album: <em>400 Degreez</em> | Released: November 3, 1998 | Label: Cash Money</li> <li><strong>Bounce (For The Juvenile)</strong> | Album: <em>It's Jimi</em> | Released: October 16, 1992 | Label: Avenue Distribution</li> <li><strong>Project Bitch</strong> (with Big Tymers, Lil Wayne) | Album: <em>Baller Blockin'</em> | Released: September 12, 2000 | Label: Cash Money</li> <li><strong>Back That Azz Up</strong> (with Lil Wayne, Mannie Fresh) | Album: <em>400 Degreez</em> | Released: November 3, 1998 | Label: Cash Money</li> <li><strong>In My Life</strong> (ft. Mannie Fresh) | Album: <em>Juve The Great</em> | Released: January 1, 2003 | Label: Cash Money</li>

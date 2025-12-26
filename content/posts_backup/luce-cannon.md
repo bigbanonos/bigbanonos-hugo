@@ -7,7 +7,7 @@ layout: post
 <p >Updated April 6, 2016, with "Watch Me" by Luce Cannon featuring Dymond. This energetic track, released under 101 Distribution, delivers an infectious beat and standout performances that make it a memorable addition to any playlist.</p> <!-- Featured Image -->
 <div > <img src="https://i1.sndcdn.com/avatars-000011491702-ihqn42-t240x240.jpg" alt="Luce Cannon & Dymond - Watch Me" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/6a_Kt1OcGrY" title="LUCE CANNON FT. DYMOND - WATCH ME (DJUMBOZIDE REMIX)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "6a_Kt1OcGrY" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Watch Me"</em> by Luce Cannon featuring Dymond is an upbeat track with an electrifying energy. The vibrant production and dynamic collaboration make it a standout release that continues to resonate with listeners.</p>
 </div> <!-- Footer Links -->

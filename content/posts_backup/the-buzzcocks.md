@@ -5,9 +5,9 @@ layout: post
 <!-- Title of the Post -->
 <h1>BigBanonos' Favorite Songs by Buzzcocks</h1> <!-- Introductory Text -->
 <p>Updated with timeless tracks by Buzzcocks, pioneers of punk and post-punk sounds. Their sharp lyrics and unforgettable melodies continue to inspire generations of rock enthusiasts.</p> <!-- Featured Image -->
-<div> <img src="https://i.scdn.co/image/ab67616100005174694abbe7669a250140e988bf" alt="Buzzcocks">
+<div> {{< img-lite src="https://i.scdn.co/image/ab67616100005174694abbe7669a250140e988bf" alt="Buzzcocks" >}}
 </div> <!-- Spotify Playlist Embed -->
-<div> <iframe src="https://open.spotify.com/embed/playlist/3KWok36qQUqPDTfgEEsMJM?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div> {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <h3>Top Songs:</h3>
 <ul> <li><strong>Whatever Happened To . . . ?</strong> | <em>Buzzcocks Finest</em> | Label: Parlophone UK | Released: 1996 | Genres: Alternative Rock, Punk</li> <li><strong>Why Can't I Touch It? - 2001 Remastered Version</strong> | <em>Singles Going Steady</em> | Label: Domino Recording Co | Released: 1979 | Genres: Punk, Post-Punk</li> <li><strong>Just Lust</strong> | <em>Singles Going Steady</em> | Label: Parlophone UK | Released: 1979 | Genres: Punk, Post-Punk</li>

@@ -5,7 +5,7 @@ layout: post
 <!-- Tennis -->
 <img src="https://i.scdn.co/image/ab6761610000e5eb76d9c0cc8e9bb869a2232d2e" /> <p><strong>Updated September 9, 2014 with "Mean Streets" from <em>Ritual In Repeat (Deluxe)</em></strong></p> <p><strong>"Marathon"</strong> â€“ <em>Cape Dory</em> (Fat Possum, 2011)</p>
 <p><strong>"Mean Streets"</strong> â€“ <em>Ritual In Repeat (Deluxe)</em> (Communion Records - Tennis, 2014)</p>
-<p><strong>"Take Me Somewhere"</strong> â€“ <em>Cape Dory</em> (Fat Possum, 2011)</p> <iframe src="https://open.spotify.com/embed/playlist/58bPVs3xRlcnNcxvAMYKkf?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> <p>@tennis</p> <hr />
+<p><strong>"Take Me Somewhere"</strong> â€“ <em>Cape Dory</em> (Fat Possum, 2011)</p> {{< youtube "embed" >}} <p>@tennis</p> <hr />
 
 <!--Subscribe and Playlist Links-->
 <div>

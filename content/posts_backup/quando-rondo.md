@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Rich Homie Quando" by Quando Rondo featuring Rich Homie Quan, from the album *Life After Fame*, released on September 24, 2018, by QRN / Never Broke Again, LLC / Atlantic Records.</p> <!-- Featured Image -->
 <div > <img src="https://townsquare.media/site/812/files/2018/05/quando-rondo.jpg" alt="Quando Rondo - Rich Homie Quando" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/hAKynSNqBp4" title="Quando Rondo - Rich Homie Quando (feat. Rich Homie Quan) [Official Audio]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "hAKynSNqBp4" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Rich Homie Quando"</em> by Quando Rondo featuring Rich Homie Quan is a melodic rap track from the 2018 album *Life After Fame*, released by QRN / Never Broke Again, LLC / Atlantic Records.</p>
 </div> <!-- Footer Links -->

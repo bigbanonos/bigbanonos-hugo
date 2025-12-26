@@ -7,7 +7,7 @@ layout: post
 <p >Updated with *We Get By* by The Gooch Palms, a track that perfectly captures their raw garage punk style. From their *Novo's* album, this song is full of energy and attitude, blending rock with a touch of blues for a high-energy anthem.</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d00001e023730a4676a67f51f019c847d" alt="The Gooch Palms - Novo's" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/MSxiiY7OaG0" title="THE GOOCH PALMS 'We Get By' OFFICIAL MUSIC VIDEO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "MSxiiY7OaG0" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"We Get By"</em> by The Gooch Palms is a blast of garage punk energy that pulls influences from the blues and early rock. Featured on *Novo's*, this track brings a sense of gritty, down-to-earth rock that leaves a lasting impression with its infectious rhythms and attitude.</p>
 </div> <!-- Footer Links -->

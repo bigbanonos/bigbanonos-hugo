@@ -3,7 +3,7 @@ title: "the flowers"
 layout: post
 ---
 #1970s <br />
-<iframe width="95%" height="315" src="https://www.youtube.com/embed/xhVbmcOM8Sw?list=PLtuNtuTatqI27rEpl6sppn5M8ja8x3-Rz" frameborder="0" allowfullscreen></iframe><br />
+{{< youtube "xhVbmcOM8Sw" >}}<br />
 After Dark 1979
 
 <!--Subscribe and Playlist Links-->

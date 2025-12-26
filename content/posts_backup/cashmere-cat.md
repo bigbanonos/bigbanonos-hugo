@@ -4,9 +4,9 @@ layout: post
 ---
 <h2 >BigBanonos' Favorite Songs by Cashmere Cat</h2> <!-- Introductory Text -->
 <p >Norwegian producer and DJ Cashmere Cat blends downtempo, electropop, and shiver pop to create dreamy, atmospheric tracks. Updated with "EMOTIONS," this post highlights BigBanonos' favorite songs from Cashmere Catâ€™s innovative discography. Watch the video for "EMOTIONS" below!</p> <!-- Featured Image -->
-<div > <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Cashmere_Cat.jpg" alt="Cashmere Cat">
+<div > {{< img-lite src="https://upload.wikimedia.org/wikipedia/commons/0/09/Cashmere_Cat.jpg" alt="Cashmere Cat" >}}
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="1013" height="570" src="https://www.youtube.com/embed/tM3-FaiSAYI" title="Cashmere Cat - EMOTIONS (Official Music Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "tM3-FaiSAYI" >}}
 </div> <!-- Song List -->
 <h3 >Top Songs:</h3>
 <ol > <li><strong>EMOTIONS</strong> - Album: <em>EMOTIONS</em> (2019-08-09) | Mad Love/Interscope Records</li> <li><strong>BACK FOR YOU</strong> - Album: <em>PRINCESS CATGIRL</em> (2019-09-20) | Mad Love/Interscope Records</li> <li><strong>FOR YOUR EYES ONLY</strong> - Album: <em>PRINCESS CATGIRL</em> (2019-09-20) | Mad Love/Interscope Records</li> <li><strong>WATERGIRL</strong> - Album: <em>PRINCESS CATGIRL</em> (2019-09-20) | Mad Love/Interscope Records</li> <li><strong>Throw Myself A Party</strong> (feat. Starrah, 2 Chainz, Tory Lanez) - Album: <em>Throw Myself A Party</em> (2016-12-30) | Benny Blanco Major</li> <li><strong>Adore</strong> (feat. Ariana Grande) - Album: <em>Adore</em> (2015-02-24) | Benny Blanco Major</li>

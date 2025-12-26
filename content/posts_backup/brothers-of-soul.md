@@ -4,9 +4,9 @@ layout: post
 ---
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Brothers Of Soul</h1> <!-- Featured Image -->
-<div > <img src="https://i.scdn.co/image/ab67616d0000b2731b64b929b04f1420a9c6410a" alt="Brothers Of Soul">
+<div > {{< img-lite src="https://i.scdn.co/image/ab67616d0000b2731b64b929b04f1420a9c6410a" alt="Brothers Of Soul" >}}
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/3b6ZjA7CVe34f9Y487RM0t?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Introductory Text -->
 <p >The Brothers Of Soul bring timeless classic soul with smooth melodies and heartfelt lyrics. From "Try It Babe" to "The Love I Found in You," here are BigBanonos' favorite tracks by this legendary group.</p> <!-- Song Highlights -->
 <div > <p>BigBanonos' standout picks:</p> <ol> <li><strong>Try It Babe</strong> | <em>I Guess That Don't Make Me a Loser</em> | Released: October 14, 2008 | S.D.E.G. Records</li> <li><strong>You Better Believe It</strong> | <em>I Guess That Don't Make Me a Loser</em> | Released: October 14, 2008 | S.D.E.G. Records</li> <li><strong>The Love I Found in You</strong> | <em>I Guess That Don't Make Me a Loser</em> | Released: October 14, 2008 | S.D.E.G. Records</li> <li><strong>Can't Get You Off of My Mind</strong> | <em>I Guess That Don't Make Me a Loser</em> | Released: October 14, 2008 | S.D.E.G. Records</li> </ol>

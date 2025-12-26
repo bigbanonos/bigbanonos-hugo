@@ -7,7 +7,7 @@ layout: post
 <p >Updated November 1, 2013, with "Vortexas" by Howe Gelb. This track from the album *The Coincidentalist* is a quintessential piece of alternative country, capturing the rich Tucson indie sound that Howe Gelb is renowned for.</p> <!-- Featured Image -->
 <div > <img src="https://www.firerecords.com/wp/wp-content/uploads/2020/07/Howe-Gelb-Credit-Omer-Kreso-1024x683.jpg" alt="Howe Gelb - Vortexas" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/jqqeVm_IaOg" title="Howe Gelb - Vortexas" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "jqqeVm_IaOg" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Vortexas"</em>, released on November 1, 2013, is part of *The Coincidentalist*. Howe Gelb's introspective storytelling and atmospheric production deliver a unique alternative country experience that is deeply rooted in Tucson's indie sound.</p>
 </div> <!-- Footer Links -->

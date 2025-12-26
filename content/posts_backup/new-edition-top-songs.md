@@ -4,7 +4,7 @@ layout: post
 ---
 <h1>BigBanonos Top Songs by New Edition</h1>
 <img alt="New Edition" src="https://i.ytimg.com/vi/ReI6gvzVP0Y/maxresdefault.jpg" /> <p>New Edition's blend of R&B, pop, and new jack swing has made them one of the most iconic boy bands of the 80s and 90s. Here are BigBanonos' top selections:</p> <ol> <li><strong>If It Isn't Love</strong> | <em>Heart Break</em> | Geffen | Released: January 1, 1988</li> <li><strong>Cool It Now</strong> | <em>New Edition</em> | Geffen | Released: January 1, 1984</li> <li><strong>Candy Girl</strong> | <em>Candy Girl</em> | Warlock Records | Released: 1983</li>
-</ol> <div> <iframe allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" frameborder="0" height="352" loading="lazy" src="https://open.spotify.com/embed/playlist/4ylPX4yPDSF6PFzWxdLeMN?utm_source=generator" width="100%"></iframe>
+</ol> <div> {{< youtube "embed" >}}
 </div> <p>first posted by <a href="https://bigbanonos.blogspot.com/">https://bigbanonos.blogspot.com/</a></p> <div> <p>Explore more BigBanonos content: <a href="https://bigbanonos.blogspot.com/">Website</a> | <a href="https://www.youtube.com/@BigBanonos">YouTube</a> | <a href="https://x.com/bigbanonos">Twitter</a></p>
 </div> <!--Tags-->
 <p>@newedition</p>

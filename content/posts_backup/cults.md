@@ -4,7 +4,7 @@ layout: post
 ---
 <h2>Cults â€“ Essential Tracks</h2>
 <div class="separator"><a href="https://f4.bcbits.com/img/a1912592888_10.jpg" ><img alt="" border="0" width="320" data-original-height="364" data-original-width="452" src="https://f4.bcbits.com/img/a1912592888_10.jpg"/></a></div>
-<iframe src="https://open.spotify.com/embed/playlist/5Iw3pQV14Fo4Gbcv5WLL3R?utm_source=generator" width="100%" height="352" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> <h3>Tracklist</h3>
+{{< youtube "embed" >}} <h3>Tracklist</h3>
 <ul> <li><strong>Rave On</strong> â€“ <em>Cults</em> (2011)</li> <li><strong>Go Outside</strong> â€“ <em>Cults</em> (2011)</li>
 </ul> <h3>Highlights</h3>
 <ul> <li><strong>Rave On</strong> â€“ A lively track blending experimental pop with indie surf vibes, showcasing Cults' playful sound.</li> <li><strong>Go Outside</strong> â€“ A dreamy and iconic anthem that captures the carefree essence of indie pop.</li>

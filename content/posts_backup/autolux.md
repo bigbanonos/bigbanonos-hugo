@@ -7,7 +7,7 @@ layout: post
 <p >Updated October 26, 2004, with "Sugarless" by Autolux. This hauntingly atmospheric track from their debut album captures the bandâ€™s unique fusion of shoegaze and alternative rock. Watch the video below!</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/570dcad88b7fb569ca1911db058a5e963219d61c" alt="Autolux - Sugarless" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="685" height="385" src="https://www.youtube.com/embed/0uGt1n3xERo" title="Autolux - Sugarless" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "0uGt1n3xERo" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Sugarless"</em>, from Autoluxâ€™s debut album *Future Perfect* (2004), is a defining track that highlights the bandâ€™s layered soundscapes, delicate vocals, and gripping rhythms. A quintessential listen for fans of experimental rock.</p>
 </div> <!-- Footer Links -->

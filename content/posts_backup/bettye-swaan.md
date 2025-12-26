@@ -5,9 +5,9 @@ layout: post
 
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Bettye Swann</h1> <!-- Featured Image -->
-<div > <img src="https://i.scdn.co/image/89075f762c28dc8179c71217b1b989ef2cb7914c" alt="Bettye Swann">
+<div > {{< img-lite src="https://i.scdn.co/image/89075f762c28dc8179c71217b1b989ef2cb7914c" alt="Bettye Swann" >}}
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/5uReqKBQsueteb7zq0LbAv?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Introductory Text -->
 <p >Bettye Swann's heartfelt southern soul tracks are timeless. From "(My Heart Is) Closed For The Season" to the classic "Make Me Yours," here are BigBanonos' favorite songs by the soulful singer.</p> <!-- Song Highlights -->
 <div > <p>BigBanonos' standout picks:</p> <ol> <li><strong>(My Heart Is) Closed For The Season</strong> | <em>Bettye Swann</em> | Released: January 1, 2004 | Honest Jons</li> <li><strong>Then You Can Tell Me Goodbye</strong> | <em>Bettye Swann</em> | Released: January 1, 2004 | Honest Jons</li> <li><strong>Make Me Yours</strong> | <em>The Money Recordings</em> | Released: February 6, 1967 | Money Records</li> </ol>

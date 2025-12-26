@@ -7,7 +7,7 @@ layout: post
 <p >Updated December 5, 2019, with "Rock & Groove" by Jaz Elise. A standout track from the *Rock & Groove Riddim* collection, this modern reggae anthem is an uplifting gem that captures the essence of contemporary Jamaican music.</p> <!-- Featured Image -->
 <div > <img src="https://oaccessjamaica.com/wp-content/uploads/2019/08/d4a25b66-7d56-4d72-93ef-1419ce0e4ec7-1.jpg" alt="Jaz Elise - Rock & Groove" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/h933FbXuYLw" title="Jaz Elise - 'Rock & Groove'" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "h933FbXuYLw" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Rock & Groove"</em> by Jaz Elise shines with its smooth vocals and infectious riddim. Released under the In.Digg.Nation Collective, the track pays homage to Jamaica's rich musical heritage while adding a modern twist.</p>
 </div> <!-- Footer Links -->

@@ -7,7 +7,7 @@ layout: post
 <p >Updated October 23, 2015, with BigBanonos' favorite track, "Sitcom" by Coleman Hell. A reflective indie-pop anthem from his debut EP that captures life's bittersweet comedy.</p> <!-- Featured Image -->
 <div > <img src="https://www.604records.com/web/wp-content/uploads/2020/03/IMG_4F53B2247ACF-1-620x620.jpeg" alt="Coleman Hell - Sitcom" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/-CdIFcyaxLY" title="Coleman Hell - 'Sitcom' (Audio)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "-CdIFcyaxLY" >}}
 </div> <!-- Song Information -->
 <div > <p>"Sitcom" is featured on Coleman Hell's debut EP, released under Columbia Records. This track blends introspective lyrics with catchy indie-pop rhythms, defining his unique sound within Canadian pop.</p>
 </div> <!-- Footer Links -->

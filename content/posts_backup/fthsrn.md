@@ -3,7 +3,7 @@ title: "fthsrn"
 layout: post
 ---
 #2010s <br />
-<iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/hOzLutZvrTk?list=PLtuNtuTatqI3--RPs98C0DQRZBUoKQy7L" width="95%"></iframe><br />
+{{< youtube "hOzLutZvrTk" >}}<br />
 Nothing's The Matter 2011
 
 <!--Subscribe and Playlist Links-->

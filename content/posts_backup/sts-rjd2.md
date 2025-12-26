@@ -2,7 +2,7 @@
 title: "sts rjd2"
 layout: post
 ---
-#2015 <iframe width="100%" height="500" src="https://www.youtube.com/embed/Vxe1nNX6ou4?list=PLtuNtuTatqI1WcWJkhHdMy_GAx4qx47JY" frameborder="0" allowfullscreen></iframe>
+#2015 {{< youtube "Vxe1nNX6ou4" >}}
 All I Wanted Was A Caddy 2015
 
 <!--Subscribe and Playlist Links-->

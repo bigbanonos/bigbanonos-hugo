@@ -5,7 +5,7 @@ layout: post
 <div class="separator" >
 <a href="https://i.ytimg.com/vi/Lizdk3u6d2U/maxresdefault.jpg" imageanchor="1"><img border="0" data-original-height="450" data-original-width="800" height="225" src="https://i.ytimg.com/vi/Lizdk3u6d2U/maxresdefault.jpg" width="400" /></a></div>
 <br />
-<iframe allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/videoseries?list=PLtuNtuTatqI2CtZ0YlmbUUoLPSfHuCH0R" width="560"></iframe><br />
+{{< youtube "videoseries" >}}<br />
 <ol>
 <li>Grandmaster [2019]</li>
 </ol>

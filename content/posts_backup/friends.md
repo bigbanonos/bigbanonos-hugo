@@ -7,7 +7,7 @@ layout: post
 <p >Brooklyn-based band Friends blends indie charm with a retro vibe, creating unforgettable tracks. Explore BigBanonos' favorite songs by Friends below!</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab6761610000f1786fdb2519a9397e800fd65b00" alt="Friends - BigBanonos Favorite Songs" />
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/0CbkD1ZWECm2LMVbVFMTCc?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Friend Crush"</em> brings an infectious beat and playful vocals, a quintessential Brooklyn indie anthem from their 2012 album <strong>Manifest!</strong>.</p> <p><em>"Home"</em> combines groovy rhythms and heartfelt lyrics, another standout track from <strong>Manifest!</strong>.</p>
 </div> <!-- Footer Links -->

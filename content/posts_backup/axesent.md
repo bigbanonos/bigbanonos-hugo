@@ -7,7 +7,7 @@ layout: post
 <p >Updated January 4, 2019, with BigBanonos' favorite song by Axesent, "They Wanna Know," from the *High Vibration Riddim*. Watch the video and see more details below:</p> <!-- Featured Image -->
 <div > <img src="https://i1.sndcdn.com/artworks-VDn3G3xMwivJ-0-t240x240.jpg" alt="Axesent - They Wanna Know" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/WB0fCpgC2Os" title="Axesent - They Wanna Know "2019 Soca" (Trinidad)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "WB0fCpgC2Os" >}}
 </div> <!-- Song Information -->
 <div > <p>"They Wanna Know" by Axesent is a vibrant soca track that captures the energetic spirit of Trinidad's music scene. Released on January 4, 2019, as part of the *High Vibration Riddim* under Fox Fuse, this song delivers infectious rhythms and high-energy vibes perfect for the carnival season.</p>
 </div> <!-- Footer Links -->

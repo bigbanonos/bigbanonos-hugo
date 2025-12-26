@@ -5,14 +5,14 @@ layout: post
 <!-- Title of the Post -->
 <h1>BigBanonos' Favorite Songs by Cher</h1> <!-- Introductory Text -->
 <p>Updated with a selection of Cher's iconic tracks that showcase her incredible versatility across pop, dance, and her unmistakable voice that has inspired generations. From her legendary anthem "Believe" to the powerful storytelling of "Half-Breed," these songs highlight her enduring legacy.</p> <!-- Featured Image -->
-<div> <img src="https://i.scdn.co/image/ab67616d0000b27351160dc962f315ca0106ceeb" alt="Cher">
+<div> {{< img-lite src="https://i.scdn.co/image/ab67616d0000b27351160dc962f315ca0106ceeb" alt="Cher" >}}
 </div> <!-- Spotify Playlist Embed -->
-<div> <iframe src="https://open.spotify.com/embed/playlist/5UbeJZvv20zCC4aCIFZwZq?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div> {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <h3>Top Songs:</h3>
 <ul> <li><strong>Believe</strong> | <em>Believe</em> | Label: Warner Records | Released: 1998 | Genres: Dance Pop, Pop</li> <li><strong>Half-Breed</strong> | <em>Half Breed</em> | Label: Geffen | Released: 1985 | Genres: Dance Pop, Pop</li>
 </ul> <!-- YouTube Embed -->
-<div> <iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/zt9XDdzzp2k?list=PLtuNtuTatqI27rEpl6sppn5M8ja8x3-Rz" width="100%"></iframe>
+<div> {{< youtube "zt9XDdzzp2k" >}}
 </div> <!-- Footer Links -->
 <hr />
 <p>For more updates, visit <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Also, check out our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> channel and follow us on <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a> for more exclusive content!</p> <!-- Tags -->

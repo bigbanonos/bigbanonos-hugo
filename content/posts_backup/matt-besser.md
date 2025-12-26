@@ -7,7 +7,7 @@ layout: post
 <p >Updated January 1, 2001, with "Yankees Number" by Matt Besser. This unique track from the album <em>May I Help You (Dumbass)?</em>, released under Don't Think Productions, LLC, blends comedic genius with an unexpected musical twist, showcasing Besser's signature prank style.</p> <!-- Featured Image -->
 <div > <img src="https://i1.sndcdn.com/artworks-072b2CoXKZ78-0-t240x240.jpg" alt="Matt Besser - Yankees Number" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/U2rnuh5ArZM" title="Yankees Number" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "U2rnuh5ArZM" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Yankees Number"</em> by Matt Besser is a hilariously crafted piece that merges prank comedy with rock-inspired elements. From the album <em>May I Help You (Dumbass)?</em>, this track is a testament to Besser's ability to push creative boundaries and deliver laughs in unexpected ways.</p>
 </div> <!-- Footer Links -->

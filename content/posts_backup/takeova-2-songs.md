@@ -4,12 +4,12 @@ layout: post
 ---
 <h1 >BigBanonos' Favorite Songs by TakeOva</h1> <!-- Introductory Text -->
 <p >TakeOva brings authentic dancehall vibes with tracks that resonate deeply with fans of the genre. Here are the standout songs BigBanonos loves:</p> <!-- Featured Image -->
-<div > <img src="https://i.scdn.co/image/ab676161000051742db0aa2dc82b639d606e57a7" alt="TakeOva">
+<div > {{< img-lite src="https://i.scdn.co/image/ab676161000051742db0aa2dc82b639d606e57a7" alt="TakeOva" >}}
 </div> <!-- Song List -->
 <h3>Top Songs:</h3>
 <ol> <li><strong>Rich Lifestyle</strong> | <em>Rich Lifestyle</em> | Released: 2020-07-10 | Wai Fuzion Records</li> <li><strong>Alien Mode</strong> | <em>Alien Mode Riddim</em> | Released: 2020-04-11 | Papi Don Muziq</li>
 </ol> <!-- Spotify Playlist Embed -->
-<div > <iframe allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" frameborder="0" height="352" loading="lazy" src="https://open.spotify.com/embed/playlist/2p3M5OBUUTdiabcmJ7shzU?utm_source=generator" width="100%"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Footer Links -->
 <hr />
 <p >For more updates, visit <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Also, check out our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> channel and follow us on <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p> <!-- Tags -->

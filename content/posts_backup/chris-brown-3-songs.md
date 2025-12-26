@@ -4,10 +4,10 @@ layout: post
 ---
 <h2>BigBanonos' Favorite Songs by Chris Brown</h2> <!-- Search Description -->
 <p>Explore BigBanonos' top Chris Brown tracks, featuring a mix of R&B and hip hop favorites. Check out these hits below.</p> <!-- Spotify Playlist Embed -->
-<iframe src="https://open.spotify.com/embed/playlist/02Y6x7WSZLfeU3hf2JEP0m?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> <!-- Song Listings -->
+{{< youtube "embed" >}} <!-- Song Listings -->
 <ul> <li><strong>Petty</strong> - <em>Breezy (Deluxe)</em> - 2022-07-08</li> <li><strong>Psychic</strong> (feat. Jack Harlow) - <em>Breezy</em> - 2022-06-24</li> <li><strong>Loyal (East Coast Version)</strong> (feat. Lil Wayne & French Montana) - <em>Loyal (East Coast Version)</em> - 2013-12-19</li>
 </ul> <!-- Image -->
-<img src="https://townsquare.media/site/812/files/2023/07/attachment-chris-brown.jpg?w=1200&q=75&format=natural" alt="Chris Brown">
+{{< img-lite src="https://townsquare.media/site/812/files/2023/07/attachment-chris-brown.jpg?w=1200&q=75&format=natural" alt="Chris Brown" >}}
 
 
 <!--Subscribe and Playlist Links-->

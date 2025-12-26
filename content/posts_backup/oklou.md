@@ -4,7 +4,7 @@ layout: post
 ---
 <h3>Oklou</h3>
 <img src="https://officemagazine.net/sites/default/files/styles/article_image_large/public/000542850003.jpg?itok=YFaw4Ivd" />
-<iframe allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" allowfullscreen="" frameborder="0" height="352" loading="lazy" src="https://open.spotify.com/embed/playlist/3iXid6Hf310uye1w70sdZz?utm_source=generator" width="100%"></iframe>
+{{< youtube "embed" >}}
 <p>
 <strong>Oklou â€“ "Blade Bird"</strong> (2025) â€“ <em>Blade Bird</em> â€“ True Panther Records<br />
 <strong>Oklou, Bladee â€“ "Take Me by the Hand"</strong> (2025) â€“ <em>Take Me by the Hand</em> â€“ True Panther Records<br />

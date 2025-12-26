@@ -7,7 +7,7 @@ layout: post
 <p >Updated January 17, 2025, with "Brain Stew" from <em>Insomniac</em>. Dive into the punk rock anthems of Green Day in the playlist below!</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d0000b273db89b08034de626ebee6823d" alt="Green Day" />
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/5ABgDZV7bkkX7QVitB3qZH?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <div > <p><strong>"Brain Stew"</strong><br> Genre: Rock<br> Album: <em>Insomniac</em><br> Release Date: October 10, 1995<br> Label: Reprise</p> <p><strong>"She"</strong><br> Genre: Rock<br> Album: <em>Dookie</em><br> Release Date: February 1, 1994<br> Label: Reprise</p> <p><strong>"When I Come Around"</strong><br> Genre: Rock<br> Album: <em>Dookie</em><br> Release Date: February 1, 1994<br> Label: Reprise</p>
 </div> <!-- Footer Links -->

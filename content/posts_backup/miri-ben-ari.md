@@ -7,7 +7,7 @@ layout: post
 <p >Updated January 1, 2004, with "Sick Wit Da Flip" by Miri Ben-Ari featuring E-40, Lil' Flip, and Czarnok. This track from the album <em>Sick Wit Da Flip</em>, released under Motown, is a unique fusion of hip hop and pop violin, blending the best of gangster rap, hyphy, and West Coast sounds.</p> <!-- Featured Image -->
 <div > <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Miri_Ben-Ari_with_Violin_47b.jpeg" alt="Miri Ben-Ari - Sick Wit Da Flip" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/prt6qbbE3oY" title="Sick Wit Da Flip Feat. Lil' Flip, E-40 & Czar-nok" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "prt6qbbE3oY" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Sick Wit Da Flip"</em> by Miri Ben-Ari, featuring E-40, Lil' Flip, and Czarnok, is an electrifying track that blends pop violin with the intense energy of gangster rap and West Coast hip hop. This collaboration is a standout from the album <em>Sick Wit Da Flip</em>, capturing the essence of hyphy and dirty South rap while adding a classical touch with the violin.</p>
 </div> <!-- Footer Links -->

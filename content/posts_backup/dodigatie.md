@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Rather Be With You" by Slimm Calhoun featuring Dodigatie, from the album *Underground Atlanta*, released in 2009 by SMC Recordings.</p> <!-- Featured Image -->
 <div > <img src="https://is1-ssl.mzstatic.com/image/thumb/Music128/v4/ea/3b/ad/ea3badee-3303-f159-ad78-122fb73f6cfb/075596252065.jpg/1200x1200bf-60.jpg" alt="Slimm Calhoun, Dodigatie - Rather Be With You" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="601" src="https://www.youtube.com/embed/Bi8Sm_5I8uY" title="Rather Be With You" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "Bi8Sm_5I8uY" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Rather Be With You"</em> by Slimm Calhoun featuring Dodigatie is a track from the *Underground Atlanta* album, released in 2009. The song reflects the southern rap sound with smooth vibes and a catchy hook.</p>
 </div> <!-- Footer Links -->

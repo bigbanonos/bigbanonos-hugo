@@ -7,7 +7,7 @@ layout: post
 <p >Updated May 28, 2019, with "What Do You Like In Me" by Nasty Cherry. This track from the album <em>What Do You Like In Me</em>, released under Vroom Vroom Recordings, showcases the band's modern alternative pop style with catchy hooks and edgy lyrics.</p> <!-- Featured Image -->
 <div > <img src="https://www.nastycherryofficial.com/images/music-with-your-dad.jpg" alt="Nasty Cherry - What Do You Like In Me" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/pUhFA1xVRPc" title="Nasty Cherry - What Do You Like In Me (Official Music Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "pUhFA1xVRPc" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"What Do You Like In Me"</em> by Nasty Cherry is a standout track from their album, blending modern alternative pop with infectious melodies and bold lyrics. It's a perfect example of their edgy, energetic style.</p>
 </div> <!-- Footer Links -->

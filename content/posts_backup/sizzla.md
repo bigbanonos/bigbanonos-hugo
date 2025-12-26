@@ -4,7 +4,7 @@ layout: post
 ---
 <h1>BigBanonos Top Songs by Sizzla</h1>
 <img alt="Sizzla" src="https://www.reggaeville.com/fileadmin/artists/sizzla_01.jpg" /> <p>Sizzla is a prominent figure in reggae and dancehall, blending traditional and contemporary styles with themes of love, empowerment, and spirituality. Here are BigBanonos' top selections:</p> <ol> <li><strong>Give Me A Try</strong> | <em>Rise To The Occasion</em> | Released: 2003 | Greensleeves Records</li> <li><strong>Just One Of Those Days</strong> | <em>The Journey - The Very Best Of Sizzla Kalonji</em> | Released: April 15, 2010 | Greensleeves Records</li> <li><strong>Good Ways</strong> | <em>Best Of Sizzla The Story Unfolds......</em> | Released: April 23, 2002 | VP Records</li> <li><strong>No White God</strong> | <em>Best Of Sizzla The Story Unfolds......</em> | Released: April 23, 2002 | VP Records</li>
-</ol> <div> <iframe src="https://open.spotify.com/embed/playlist/7lDBBO7mra0HLbWJ1a9WKM?utm_source=generator" width="100%" height="352" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</ol> <div> {{< youtube "embed" >}}
 </div> <p>first posted by <a href="https://bigbanonos.blogspot.com/">https://bigbanonos.blogspot.com/</a></p> <div> <p>Explore more BigBanonos content: <a href="https://bigbanonos.blogspot.com/">Website</a> | <a href="https://www.youtube.com/@BigBanonos">YouTube</a> | <a href="https://x.com/bigbanonos">Twitter</a></p>
 </div> <!--Tags-->
 <p>@sizzla</p>

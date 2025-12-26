@@ -4,9 +4,9 @@ layout: post
 ---
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Buffalo Springfield</h1> <!-- Featured Image -->
-<div > <img src="https://i.scdn.co/image/ab67616d0000b273d231bd1716b71b6444e25f89" alt="Buffalo Springfield">
+<div > {{< img-lite src="https://i.scdn.co/image/ab67616d0000b273d231bd1716b71b6444e25f89" alt="Buffalo Springfield" >}}
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/5RdUfgaaY8u7GNLXkRxTww?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Introductory Text -->
 <p >Buffalo Springfield's fusion of folk rock and psychedelia captured the spirit of the 1960s. From the iconic "For What It's Worth" to the soulful "Flying on the Ground Is Wrong," here are BigBanonos' standout tracks.</p> <!-- Song Highlights -->
 <div > <p>BigBanonos' standout picks:</p> <ol> <li><strong>For What It's Worth</strong> | <em>Buffalo Springfield</em> | Released: December 5, 1966 | Rhino/Elektra</li> <li><strong>Flying on the Ground Is Wrong</strong> | <em>Buffalo Springfield</em> | Released: December 5, 1966 | Rhino/Elektra</li> </ol>

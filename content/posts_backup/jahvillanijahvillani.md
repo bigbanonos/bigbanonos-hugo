@@ -7,7 +7,7 @@ layout: post
 <p >Updated May 3, 2019, with "No Rate Dem" from <em>G6ixx Riddim</em>. Dive into the dancehall hits of Jahvillani in the playlist below!</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab6761610000e5ebbcffa943745d3205f9f6d86d" alt="Jahvillani" />
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/3ZvTfK8VzgDNtxlKTdqykC?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <div > <p><strong>"No Rate Dem"</strong><br> Genre: Dancehall, Jamaican Dancehall, Traphall<br> Album: <em>G6ixx Riddim</em><br> Release Date: May 3, 2019<br> Label: Shab Don Records</p> <p><strong>"Cemetry"</strong><br> Genre: Dancehall, Jamaican Dancehall, Traphall<br> Album: <em>Cemetry</em><br> Release Date: September 14, 2018<br> Label: Bragga Phelps Records</p> <p><strong>"Every Gyal Vybe" (feat. Konshens)</strong><br> Genre: Dancehall, Jamaican Dancehall, Traphall<br> Album: <em>Every Gyal Vybe - Single</em><br> Release Date: June 28, 2019<br> Label: YGF Records</p>
 </div> <!-- Footer Links -->

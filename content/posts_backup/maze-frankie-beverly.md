@@ -7,7 +7,7 @@ layout: post
 <p >Updated in 2008, with "Before I Let Go" by Maze & Frankie Beverly. This timeless classic, featured on the <em>Welcome Home Roscoe Jenkins</em> soundtrack and released under Massenburg Media, embodies the soulful grooves and heartfelt lyrics that have made it a favorite across generations.</p> <!-- Featured Image -->
 <div > <img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/3b/Maze_-_Before_I_Let_Go_single_cover.jpg/220px-Maze_-_Before_I_Let_Go_single_cover.jpg" alt="Maze & Frankie Beverly - Before I Let Go" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/W5WTjqZuL_c" title="Frankie Beverly And Maze - Before I Let Go" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "W5WTjqZuL_c" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Before I Let Go"</em> by Maze & Frankie Beverly is a quintessential R&B anthem that has become a staple at celebrations and gatherings. Known for its infectious rhythm and soulful energy, this track captures the enduring charm of Maze's music and Frankie Beverly's vocal brilliance.</p>
 </div> <!-- Footer Links -->

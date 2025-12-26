@@ -3,10 +3,10 @@ title: "ziggens 2 songs"
 layout: post
 ---
 <h1>BigBanonos Favorite Songs by The Ziggens</h1>
-<img src="https://theziggensofficial.com/site/wp-content/uploads/2019/03/Brad-Nowell-and-Bert-2-300x205.jpg" alt="The Ziggens"> <p>The Ziggens bring their unique cowpunk style to life with memorable tracks that merge humor and musicality. Here are BigBanonos' favorite songs by The Ziggens:</p> <ol> <li><strong>Outside</strong> | <em>Greatest Zits 1990-2003 + Bonus Surf CD</em> | Released: 2003 | Bert Susanka</li> <li><strong>Big Salty Tears</strong> | <em>Ignore Amos</em> | Released: 1998 | Waitress Records</li>
-</ol> <div> <iframe src="https://open.spotify.com/embed/playlist/6SYhibWHUKk8TD9s6T8jxD?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+{{< img-lite src="https://theziggensofficial.com/site/wp-content/uploads/2019/03/Brad-Nowell-and-Bert-2-300x205.jpg" alt="The Ziggens" >}} <p>The Ziggens bring their unique cowpunk style to life with memorable tracks that merge humor and musicality. Here are BigBanonos' favorite songs by The Ziggens:</p> <ol> <li><strong>Outside</strong> | <em>Greatest Zits 1990-2003 + Bonus Surf CD</em> | Released: 2003 | Bert Susanka</li> <li><strong>Big Salty Tears</strong> | <em>Ignore Amos</em> | Released: 1998 | Waitress Records</li>
+</ol> <div> {{< youtube "embed" >}}
 </div> <h4>Videos for "Outside" [1990] and "Big Salty Tears" [1996]</h4>
-<iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/hyBZ546iWug?list=PLtuNtuTatqI3yC3iZzOkNfuHZwF_HGZaN" width="95%"></iframe> <p><em>First posted by BigBanonos - <a href="https://bigbanonos.blogspot.com/">https://bigbanonos.blogspot.com/</a></em></p>
+{{< youtube "hyBZ546iWug" >}} <p><em>First posted by BigBanonos - <a href="https://bigbanonos.blogspot.com/">https://bigbanonos.blogspot.com/</a></em></p>
 <p><em>Last updated November 15, 2024</em></p>
 <p>Follow BigBanonos on <a href="https://www.youtube.com/@BigBanonos">YouTube</a> and <a href="https://x.com/bigbanonos">Twitter</a> for more music content.</p>
 <p>Tags: @ziggens</p>

@@ -7,7 +7,7 @@ layout: post
 <p >Updated with *Replay* by Zendaya, a catchy pop track that showcases her vocal talent and star power. Released on January 1, 2013, this upbeat song quickly became a fan favorite, offering a perfect blend of post-teen pop vibes with an infectious melody.</p> <!-- Featured Image -->
 <div > <img src="https://i.ytimg.com/vi/O3VPs9b_HZE/maxresdefault.jpg" alt="Zendaya - Replay" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/cyLE48i4XY0" title="Zendaya - Replay" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "cyLE48i4XY0" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Replay"</em> captures Zendaya's signature style, blending infectious pop with a catchy hook that has made this song a standout track in her career. Itâ€™s no surprise this song resonates with fans worldwide!</p>
 </div> <!-- Footer Links -->

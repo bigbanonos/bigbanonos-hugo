@@ -7,7 +7,7 @@ layout: post
 <p >Updated January 1, 2009, with "I Hate Parties" by Charles Hamilton. This introspective hip-hop track captures Hamiltonâ€™s unique lyricism and reflective tone, showcasing his talent for storytelling. Watch the video below!</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/fdb83fd3d9c8c6ea536b2cc69f542a768c47e0ce" alt="Charles Hamilton - I Hate Parties" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="685" height="514" src="https://www.youtube.com/embed/tIYxXgA9RcY" title="Charles Hamilton - I Hate Parties" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "tIYxXgA9RcY" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"I Hate Parties"</em>, a track by Charles Hamilton, highlights his introspective approach to hip-hop. Known for its raw honesty and relatable themes, this song stands out as a fan favorite in his discography.</p>
 </div> <!-- Footer Links -->

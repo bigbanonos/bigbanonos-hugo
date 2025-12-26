@@ -3,8 +3,8 @@ title: "son house 4 songs"
 layout: post
 ---
 <h1>BigBanonos Top Songs by Son House</h1>
-<img src="https://www.explorelouisiana.com/sites/default/files/2024-01/_15Son%2BHouse-2-145.jpg" alt="Son House"> <p>Son House was a pioneer in the Delta blues tradition, known for his raw, passionate voice and powerful slide guitar. Here are BigBanonos' top selections:</p> <ol> <li><strong>Preachin' Blues</strong> | <em>Preachin' Blues</em> | Released: 2021-12-15 | Easy Eye Sound</li> <li><strong>Grinnin' In Your Face</strong> | <em>Son House Revisited Vol. 1</em> | Released: 2006-08-24 | Fuel 2000</li> <li><strong>Death Letter Blues</strong> | <em>Father Of The Delta Blues: The Complete 1965 Sessions</em> | Released: 1992-06-18 | Legacy/Columbia</li> <li><strong>John the Revelator</strong> | <em>Father Of The Delta Blues: The Complete 1965 Sessions</em> | Released: 1992-06-18 | Legacy/Columbia</li>
-</ol> <div> <iframe src="https://open.spotify.com/embed/playlist/4tfh7dF7YsUkocOYM2rEp9?utm_source=generator" width="100%" height="352" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+{{< img-lite src="https://www.explorelouisiana.com/sites/default/files/2024-01/_15Son%2BHouse-2-145.jpg" alt="Son House" >}} <p>Son House was a pioneer in the Delta blues tradition, known for his raw, passionate voice and powerful slide guitar. Here are BigBanonos' top selections:</p> <ol> <li><strong>Preachin' Blues</strong> | <em>Preachin' Blues</em> | Released: 2021-12-15 | Easy Eye Sound</li> <li><strong>Grinnin' In Your Face</strong> | <em>Son House Revisited Vol. 1</em> | Released: 2006-08-24 | Fuel 2000</li> <li><strong>Death Letter Blues</strong> | <em>Father Of The Delta Blues: The Complete 1965 Sessions</em> | Released: 1992-06-18 | Legacy/Columbia</li> <li><strong>John the Revelator</strong> | <em>Father Of The Delta Blues: The Complete 1965 Sessions</em> | Released: 1992-06-18 | Legacy/Columbia</li>
+</ol> <div> {{< youtube "embed" >}}
 </div>
 <p>Tags: @sonhouse</p>
 

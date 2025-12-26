@@ -4,9 +4,9 @@ layout: post
 ---
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Daddy1</h1> <!-- Featured Image -->
-<div > <img src="https://i.scdn.co/image/ab6761610000e5eb86e1fa7f318f6d333ba1c78b" alt="Daddy1">
+<div > {{< img-lite src="https://i.scdn.co/image/ab6761610000e5eb86e1fa7f318f6d333ba1c78b" alt="Daddy1" >}}
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/6JUATabeJNm7WzhiOASyHR?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Introductory Text -->
 <p >Daddy1's traphall vibes deliver dancehall anthems that resonate globally. From the assertive "Anthem" to the bold "Out Here," here are BigBanonos' top picks.</p> <!-- Song Highlights -->
 <div > <p>BigBanonos' standout picks:</p> <ol> <li><strong>Anthem</strong> | <em>Anthem</em> | Released: May 24, 2019 | Attomatic Records - Hemton Music</li> <li><strong>Out Here</strong> | <em>Out Here</em> | Released: November 30, 2018 | Hemton Music</li> </ol>

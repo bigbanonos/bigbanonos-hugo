@@ -2,7 +2,7 @@
 title: "willow 1 song"
 layout: post
 ---
-<iframe frameborder="0" height="270" src="https://youtube.com/embed/jKmM46695sU" width="480"></iframe><h2><ol><li>(ft. Avril Lavigne & Travis Barker) G R O W [2021]</li></ol></h2>
+{{< youtube "jKmM46695sU" >}}<h2><ol><li>(ft. Avril Lavigne & Travis Barker) G R O W [2021]</li></ol></h2>
 
 <!--Subscribe and Playlist Links-->
 <div>

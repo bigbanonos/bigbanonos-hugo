@@ -5,9 +5,9 @@ layout: post
 <!-- Title of the Post -->
 <h1>BigBanonos' Favorite Songs by The Go! Team</h1> <!-- Introductory Text -->
 <p>The Go! Team, with their eclectic mix of genres and high-energy sound, have created some of the most memorable indie anthems. Here are BigBanonos' top picks from their dynamic discography.</p> <!-- Featured Image -->
-<div> <img src="https://i.ytimg.com/vi/68wi5gqM_as/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGBsgEyh_MA8=&rs=AOn4CLAHAh0X-n9DdvbnRWIAGQIUI72YfQ" alt="The Go! Team">
+<div> {{< img-lite src="https://i.ytimg.com/vi/68wi5gqM_as/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGBsgEyh_MA8=&rs=AOn4CLAHAh0X-n9DdvbnRWIAGQIUI72YfQ" alt="The Go! Team" >}}
 </div> <!-- Spotify Embed -->
-<div> <iframe src="https://open.spotify.com/embed/playlist/0H6Pwq6bj0UgjgcbjPfCuJ?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div> {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <h3>Top Songs:</h3>
 <ul> <li><strong>Waking The Jetstream</strong> | Album: <em>The Scene Between</em> | Released: 2015-03-24 | Label: Memphis Industries</li> <li><strong>Huddle Formation</strong> | Album: <em>Thunder, Lightning, Strike</em> | Released: 2004-10-02 | Label: Memphis Industries</li>

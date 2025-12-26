@@ -2,7 +2,7 @@
 title: "cuushe 1 song"
 layout: post
 ---
-<iframe frameborder="0" height="270" src="https://youtube.com/embed/2l8W8ybhpCk" width="480"></iframe><h2><ol><li>Hold Half [2020]</li></ol></h2>
+{{< youtube "2l8W8ybhpCk" >}}<h2><ol><li>Hold Half [2020]</li></ol></h2>
 
 <!--Subscribe and Playlist Links-->
 <div>

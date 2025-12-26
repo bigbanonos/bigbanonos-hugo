@@ -7,7 +7,7 @@ layout: post
 <p >"Beauty" by The Shivers is a haunting track that perfectly captures the essence of gothic country with its melancholic melodies. This powerful song from *Charades* is an introspective piece that showcases the band's distinct style. Check it out below!</p> <!-- Featured Image -->
 <div > <img src="https://www.gothiccountry.se/images/pictures/image24.jpeg" alt="The Shivers - Beauty" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/2SFT2pRi74o" title="The Shivers - Beauty (Official Audio)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "2SFT2pRi74o" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Beauty"</em> is an evocative track from *Charades*, blending gothic country with soulful storytelling, leaving a lasting impression on listeners.</p>
 </div> <!-- Footer Links -->

@@ -5,9 +5,9 @@ layout: post
 <!-- Title of the Post -->
 <h1>BigBanonosâ€™ Favorite Songs by Kranium</h1> <!-- Introductory Text -->
 <p>Kraniumâ€™s fusion of dancehall with modern electronic and R&B influences has earned him global acclaim. BigBanonos revisits some of his best tracks that showcase his versatility and melodic charm.</p> <!-- Featured Image -->
-<div> <img src="https://i.scdn.co/image/ab67616d0000b2731880ece67c766527f6361d04" alt="Kranium">
+<div> {{< img-lite src="https://i.scdn.co/image/ab67616d0000b2731880ece67c766527f6361d04" alt="Kranium" >}}
 </div> <!-- Spotify Embed -->
-<div> <iframe src="https://open.spotify.com/embed/playlist/2ZnjUjhQU0e48t23eZgHNF?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div> {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <h3>Top Tracks by Kranium:</h3>
 <ol> <li><strong>In Charge</strong> | Album: <em>Midnight Sparks</em> | Released: December 6, 2019 | Label: Atlantic Records</li> <li><strong>Nobody Has to Know</strong> | Album: <em>Rumors</em> | Released: October 16, 2015 | Label: Atlantic Records</li> <li><strong>We Can (feat. Tory Lanez)</strong> | Album: <em>We Can</em> | Released: September 23, 2016 | Label: Atlantic Records</li>

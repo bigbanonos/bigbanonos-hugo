@@ -4,7 +4,7 @@ layout: post
 ---
 <div class="separator" >
 <a href="https://img.discogs.com/bDclSJ0xCLzTvszEc6wWQrO6smo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1698679-1286376136.jpeg.jpg" imageanchor="1"><img border="0" data-original-height="600" data-original-width="600" height="320" src="https://img.discogs.com/bDclSJ0xCLzTvszEc6wWQrO6smo=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-1698679-1286376136.jpeg.jpg" width="320" /></a></div>
-<iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/videoseries?list=PLtuNtuTatqI0O3KBsab1OGerdkCqFcbel" width="560"></iframe> <br />
+{{< youtube "videoseries" >}} <br />
 <ol>
 <li>Home [1982]</li>
 </ol>

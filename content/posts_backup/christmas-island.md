@@ -7,7 +7,7 @@ layout: post
 <p >"Twenty Nine" by Christmas Island. This indie lo-fi track captures raw emotion and an authentic sound that resonates deeply with fans of underground music. Watch the video below!</p> <!-- Featured Image -->
 <div > <img src="https://i.ytimg.com/vi/OCIImkopryU/maxresdefault.jpg" alt="Christmas Island - Twenty Nine" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="685" height="514" src="https://www.youtube.com/embed/yvsu90uXWuY" title="Christmas Island - Twenty Nine" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "yvsu90uXWuY" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Twenty Nine"</em> by Christmas Island is a standout track that perfectly embodies the lo-fi indie aesthetic. Its reflective lyrics and stripped-down production make it an unforgettable piece for fans of raw and authentic music.</p>
 </div> <!-- Footer Links -->

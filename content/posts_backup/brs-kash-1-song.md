@@ -2,7 +2,7 @@
 title: "brs kash 1 song"
 layout: post
 ---
-<iframe frameborder="0" height="270" src="https://youtube.com/embed/vBTvfzIYpx8" width="480"></iframe><h2><ol><li>(ft. Mulatto) Kash App [2021]</li></ol></h2>
+{{< youtube "vBTvfzIYpx8" >}}<h2><ol><li>(ft. Mulatto) Kash App [2021]</li></ol></h2>
 
 <!--Subscribe and Playlist Links-->
 <div>

@@ -2,9 +2,9 @@
 title: "abner jay"
 layout: post
 ---
-<iframe width="420" height="315" src="https://www.youtube.com/embed/e0FeqfE0bnw" frameborder="0" allowfullscreen></iframe> <br />
+{{< youtube "e0FeqfE0bnw" >}} <br />
 Bring It With You When You Come <br />
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RKpflHueZAk?list=PLtuNtuTatqI2DSknI_d1c5Lpedo_NntNo" frameborder="0" allowfullscreen></iframe><br />
+{{< youtube "RKpflHueZAk" >}}<br />
 I'm So Depressed <br />
 My Mule
 

@@ -7,7 +7,7 @@ layout: post
 <p >Updated August 5, 2013, with BigBanonos' favorite song by Au Revoir Simone, "Somebody Who," released under Instant Records. Watch the video and see more details below:</p> <!-- Featured Image -->
 <div > <img src="https://f4.bcbits.com/img/0012685554_10.jpg" alt="Au Revoir Simone - Somebody Who" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/kwvvlTKi5cE" title="Au Revoir Simone - Somebody Who (Official Music Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "kwvvlTKi5cE" >}}
 </div> <!-- Song Information -->
 <div > <p>"Somebody Who" by Au Revoir Simone is a mesmerizing track blending dreamlike melodies and introspective lyrics. Released on August 5, 2013, under Instant Records, this song is a standout representation of the Brooklyn indie scene.</p>
 </div> <!-- Footer Links -->

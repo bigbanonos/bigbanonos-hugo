@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Blind" by Rose Windows, from the album *Rose Windows*, released on May 4, 2015, by Sub Pop Records.</p> <!-- Featured Image -->
 <div > <img src="https://i.ytimg.com/vi/hnvd39v29DE/maxresdefault.jpg" alt="Rose Windows - Blind" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/hnvd39v29DE" title="Rose Windows - Blind" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "hnvd39v29DE" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Blind"</em> by Rose Windows is a track from the album *Rose Windows*, released on May 4, 2015. The song features Seattle indie vibes with deep, immersive rock elements and a captivating atmosphere that blends folk, psychedelic rock, and soul influences.</p>
 </div> <!-- Footer Links -->

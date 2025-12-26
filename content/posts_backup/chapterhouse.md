@@ -7,7 +7,7 @@ layout: post
 <p >Updated May 5, 2007, with BigBanonos' favorite track, "Mesmerise" by Chapterhouse. This dreamy shoegaze classic is featured on their *Best Of* compilation released by Sony BMG Music Entertainment.</p> <!-- Featured Image -->
 <div > <img src="https://fastly-s3.allmusic.com/artist/mn0000165294/400/X-TI6NUuxUV1EMVCGOVhVgSijaXJlYnq0St31qpAJWo=.jpg" alt="Chapterhouse - Mesmerise" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/Ecm0BVOt62A" title="Chapterhouse - Mesmerise (Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "Ecm0BVOt62A" >}}
 </div> <!-- Song Information -->
 <div > <p>"Mesmerise," released on May 5, 2007, is a stunning example of Chapterhouse's signature shoegaze style, blending dream pop and nu gaze influences with their Reading indie roots.</p>
 </div> <!-- Footer Links -->

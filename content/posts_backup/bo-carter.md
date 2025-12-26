@@ -7,7 +7,7 @@ layout: post
 <p >From the YEAR 1935: BigBanonos' favorite song by Bo Carter, "Please Warm My Weiner." From the album *Please Warm My Weiner: Old Time Hokum Blues* under Yazoo Records, this track exemplifies the playful spirit of country and delta blues. Watch the video and see more details below:</p> <!-- Featured Image -->
 <div > <img src="https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/ea/d4/4a/ead44ab9-db8b-66d0-6701-c5a2ebd4273b/00016351014320_Cover.jpg/600x600bf-60.jpg" alt="Bo Carter - Please Warm My Weiner" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/MbM4WjjGZEs" title="Please Warm My Weiner" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "MbM4WjjGZEs" >}}
 </div> <!-- Song Information -->
 <div > <p>"Please Warm My Weiner" by Bo Carter is a cheeky and lighthearted tune showcasing his mastery of country and delta blues. As part of *Please Warm My Weiner: Old Time Hokum Blues* under Yazoo Records, this 3:00-long track is a timeless example of traditional blues humor and charm.</p>
 </div> <!-- Footer Links -->

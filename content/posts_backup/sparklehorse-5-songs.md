@@ -3,8 +3,8 @@ title: "sparklehorse 5 songs"
 layout: post
 ---
 <h1>BigBanonos Top Songs by Sparklehorse</h1>
-<img src="https://i0.wp.com/commfailure.com/wp-content/uploads/2023/11/sparklehorse73c2-1.jpg?fit=528%2C310&ssl=1" alt="Sparklehorse"> <p>Sparklehorseâ€™s melancholic and haunting sound captures the essence of alternative rock and chamber pop. Here are BigBanonos' top selections:</p> <ol> <li><strong>Pig</strong> | <em>Good Morning Spider</em> | Released: 1998-01-01 | Capitol Records</li> <li><strong>Painbirds</strong> | <em>Good Morning Spider</em> | Released: 1998-01-01 | Capitol Records</li> <li><strong>Sick Of Goodbyes</strong> | <em>Good Morning Spider</em> | Released: 1998-01-01 | Capitol Records</li> <li><strong>Hey, Joe</strong> | <em>Good Morning Spider</em> | Released: 1998-01-01 | Capitol Records</li> <li><strong>Piano Fire</strong> (feat. PJ Harvey) | <em>It's A Wonderful Life</em> | Released: 2001-08-08 | Capitol Records</li>
-</ol> <div> <iframe src="https://open.spotify.com/embed/playlist/6footZQROMRYADvfbrbVLi?utm_source=generator" width="100%" height="352" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+{{< img-lite src="https://i0.wp.com/commfailure.com/wp-content/uploads/2023/11/sparklehorse73c2-1.jpg?fit=528%2C310&ssl=1" alt="Sparklehorse" >}} <p>Sparklehorseâ€™s melancholic and haunting sound captures the essence of alternative rock and chamber pop. Here are BigBanonos' top selections:</p> <ol> <li><strong>Pig</strong> | <em>Good Morning Spider</em> | Released: 1998-01-01 | Capitol Records</li> <li><strong>Painbirds</strong> | <em>Good Morning Spider</em> | Released: 1998-01-01 | Capitol Records</li> <li><strong>Sick Of Goodbyes</strong> | <em>Good Morning Spider</em> | Released: 1998-01-01 | Capitol Records</li> <li><strong>Hey, Joe</strong> | <em>Good Morning Spider</em> | Released: 1998-01-01 | Capitol Records</li> <li><strong>Piano Fire</strong> (feat. PJ Harvey) | <em>It's A Wonderful Life</em> | Released: 2001-08-08 | Capitol Records</li>
+</ol> <div> {{< youtube "embed" >}}
 </div>
 <p>Tags: @sparklehorse, @pjharvey</p>
 

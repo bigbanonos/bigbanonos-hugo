@@ -3,8 +3,8 @@ title: "sweatheart 2 songs"
 layout: post
 ---
 <h1>BigBanonos Top Songs by Sweatheart</h1>
-<img src="https://highway81revisited.com/wp-content/uploads/2013/08/sweatheart1resize.jpg" alt="Sweatheart"> <p>Sweatheart delivers playful energy and unforgettable tracks. BigBanonos' favorites include:</p> <ol> <li><strong>Call Me Tonight</strong> | <em>Tell Your Sister - EP</em> | Released: 2010-05-04 | Free News Projects</li> <li><strong>Finger Bangin'</strong> | <em>So Cherri</em> | Released: 2006-06-20 | Tonearm</li>
-</ol> <div> <iframe src="https://open.spotify.com/embed/playlist/1ZcVtemARpXgzTRfjXTyPa?utm_source=generator" width="100%" height="352" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+{{< img-lite src="https://highway81revisited.com/wp-content/uploads/2013/08/sweatheart1resize.jpg" alt="Sweatheart" >}} <p>Sweatheart delivers playful energy and unforgettable tracks. BigBanonos' favorites include:</p> <ol> <li><strong>Call Me Tonight</strong> | <em>Tell Your Sister - EP</em> | Released: 2010-05-04 | Free News Projects</li> <li><strong>Finger Bangin'</strong> | <em>So Cherri</em> | Released: 2006-06-20 | Tonearm</li>
+</ol> <div> {{< youtube "embed" >}}
 </div>
 <p>Tags: @sweatheart</p>
 

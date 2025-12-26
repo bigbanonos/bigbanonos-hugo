@@ -2,9 +2,9 @@
 title: "love is all"
 layout: post
 ---
-<h2>BigBanonos' Favorite Songs by Love Is All</h2> <p><strong>Updated 2005, with "Make Out Fall Out Make Up" from <em>Nine Times That Same Song</em></strong></p> <img src="https://i.scdn.co/image/d307cf7c383851618d3a2f74656972c1d797514a" width="100%" alt="Love Is All"> <p>Swedish indie band Love Is All mixed post-punk energy with noisy, joyful melodies. Below are BigBanonos' favorite songs.</p> <h3>"Make Out Fall Out Make Up"</h3>
-<p><em>Nine Times That Same Song</em>, 2005</p> <iframe width="685" height="385" src="https://www.youtube.com/embed/UPy5YG6qQ3s" title="Love Is All - Make Out. Fall Out. Make Up. (Official Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> <h3>"Untitled Bonus Track" #NotOnSpotify</h3>
-<p><em>Nine Times That Same Song</em>, 2006</p> <iframe width="685" height="385" src="https://www.youtube.com/embed/JfpFvOeDmow" title="Love Is All - Untitled Bonus Track" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> <hr /> <p><strong>Tags:</strong> @loveisall</p> <hr /> <p><em>First posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+<h2>BigBanonos' Favorite Songs by Love Is All</h2> <p><strong>Updated 2005, with "Make Out Fall Out Make Up" from <em>Nine Times That Same Song</em></strong></p> {{< img-lite src="https://i.scdn.co/image/d307cf7c383851618d3a2f74656972c1d797514a" alt="Love Is All" >}} <p>Swedish indie band Love Is All mixed post-punk energy with noisy, joyful melodies. Below are BigBanonos' favorite songs.</p> <h3>"Make Out Fall Out Make Up"</h3>
+<p><em>Nine Times That Same Song</em>, 2005</p> {{< youtube "UPy5YG6qQ3s" >}} <h3>"Untitled Bonus Track" #NotOnSpotify</h3>
+<p><em>Nine Times That Same Song</em>, 2006</p> {{< youtube "JfpFvOeDmow" >}} <hr /> <p><strong>Tags:</strong> @loveisall</p> <hr /> <p><em>First posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
 
 
 <!--Subscribe and Playlist Links-->

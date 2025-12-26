@@ -7,7 +7,7 @@ layout: post
 <p >Updated with *Mass Pike* by The Get Up Kids, a powerful track that embodies the essence of midwest emo. From their *Red Letter Day & Woodson (Remastered)* album, this song captures the band's signature heartfelt energy and the raw emotion that defines the emo genre.</p> <!-- Featured Image -->
 <div > <img src="https://images.songmeanings.com/ef5e8dd6-616a-4682-b74f-b8e088a2dc58.webp" alt="The Get Up Kids - Red Letter Day & Woodson" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="514" src="https://www.youtube.com/embed/HUi-poB54HU" title="The Get Up Kids-Mass Pike" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "HUi-poB54HU" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Mass Pike"</em> by The Get Up Kids is an anthem of emotional reflection and youth-driven angst. A standout track from *Red Letter Day & Woodson (Remastered)*, it perfectly captures the band's emotive and earnest style, which helped define the emo scene of the early 2000s.</p>
 </div> <!-- Footer Links -->

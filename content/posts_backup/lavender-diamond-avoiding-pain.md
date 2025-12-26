@@ -7,11 +7,11 @@ layout: post
 <ol> <li><strong>I Don't Recall</strong> â€“ <em>Incorruptible Heart</em> (2012)</li> <li><strong>Moment of Laughter</strong> â€“ <em>Space Ducks: Soundtrack</em> (2012)</li> <li><strong>Open Your Heart</strong> â€“ <em>Imagine Our Love</em> (2007)</li> <li><strong>Here Comes One</strong> â€“ <em>Imagine Our Love</em> (2007)</li> <li><strong>You Broke My Heart</strong> â€“ <em>The Cavalry Of Light</em> (2007)</li> <li><strong>Avoiding The Pain</strong> (2004)</li> <li><strong>There's A Place Where There's No Sorrow</strong> (2003)</li> <li><strong>Wild</strong> (2012) <em>#notonspotify</em></li>
 </ol> <h3>Videos</h3>
 <p>Watch some of Lavender Diamond's highlights below:</p>
-<div> <iframe src="https://www.youtube.com/embed/FqdxD9DQO7I" width="100%" height="344" frameborder="0" allowfullscreen=""></iframe>
+<div> {{< youtube "FqdxD9DQO7I" >}}
 </div>
-<div> <iframe src="https://www.youtube.com/embed/6IKe8jqVmfg?list=PLtuNtuTatqI1aCXxADFLwH5e0xHkienSu" width="100%" height="315" frameborder="0" allowfullscreen=""></iframe>
+<div> {{< youtube "6IKe8jqVmfg" >}}
 </div> <h3>Stream the Playlist</h3>
-<iframe src="https://open.spotify.com/embed/playlist/3dmrYYzranp8C5IjdzKTAd?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen=""></iframe> <h3>Tags</h3>
+{{< youtube "embed" >}} <h3>Tags</h3>
 <p>@lavenderdiamond</p> <hr />
 <p>Check out more BigBanonos content: <a href="https://bigbanonos.blogspot.com/" target="_blank">Website</a> | <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> | <a href="https://x.com/bigbanonos" target="_blank">Twitter</a></p>
 <p><em>First posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>

@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Conditions of My Parole" by Puscifer, from the album *Conditions of My Parole*, released on October 18, 2011, by Puscifer Entertainment LLC.</p> <!-- Featured Image -->
 <div > <img src="https://upload.wikimedia.org/wikipedia/en/e/ec/Puscifer_-_Conditions_Of_My_Parole.jpg" alt="Puscifer - Conditions of My Parole" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/7E-_J5WWkoc" title="Puscifer - 'Conditions of My Parole' (Official Video - Director's Cut)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "7E-_J5WWkoc" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Conditions of My Parole"</em> by Puscifer is an industrial rock track from their 2011 album *Conditions of My Parole*, released by Puscifer Entertainment LLC.</p>
 </div> <!-- Footer Links -->

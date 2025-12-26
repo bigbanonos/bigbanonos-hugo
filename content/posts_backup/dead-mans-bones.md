@@ -7,7 +7,7 @@ layout: post
 <p >"Pa Pa Power" by Dead Man's Bones. Originally released on October 6, 2009, this standout track captures the eerie yet enchanting blend of modern folk rock and haunting choral elements.</p> <!-- Featured Image -->
 <div > <img src="https://res.cloudinary.com/epitaph/image/upload/v1/anti/press/a050b6099837d8eb3e720a908458d76a.jpg" alt="Dead Man's Bones Album Cover" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/lwfzKOeMT6A" title="Dead Man's Bones - Pa Pa Power" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "lwfzKOeMT6A" >}}
 </div> <!-- Song Information -->
 <div > <p>*Dead Man's Bones* is a collaboration between Ryan Gosling and Zach Shields, creating a unique fusion of spectral sounds and choral harmonies. "Pa Pa Power," a track from their self-titled album, exemplifies their ability to craft music that is both poignant and otherworldly.</p>
 </div> <!-- Footer Links -->

@@ -5,7 +5,7 @@ layout: post
 <div class="separator" >
 <a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUhTQ322oBP26Z6hSXSqbeq8str_GwIT832w3TECqJYsEh80jm" imageanchor="1"><img border="0" data-original-height="183" data-original-width="275" height="266" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUhTQ322oBP26Z6hSXSqbeq8str_GwIT832w3TECqJYsEh80jm" width="400" /></a></div>
 <br />
-<iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/videoseries?list=PLtuNtuTatqI1T37SQv929t1nWbAo2dUy_" width="560"></iframe> <h3>
+{{< youtube "videoseries" >}} <h3>
 <ol>
 <li>(ft. A Boogie Wit Da Hoodie) SZNS [2019]</li>
 </ol>

@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Time" by PnB Rock, a standout track showcasing his melodic flow and trap influences that marked the genre's rise in 2017.</p> <!-- Featured Image -->
 <div > <img src="https://i1.sndcdn.com/avatars-8ptczozkEWcZbcin-EZWzvQ-t240x240.jpg" alt="PnB Rock Time" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/3XzFm06sfDE" title="PnB Rock - Time (prod. 1Mind, CP Dubb) [Official Audio]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "3XzFm06sfDE" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Time"</em> by PnB Rock is a standout hit from his 2017 releases, blending melodic rap with trap beats and showcasing his unique sound.</p>
 </div> <!-- Footer Links -->

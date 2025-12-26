@@ -7,7 +7,7 @@ layout: post
 <p >Updated March 12, 2014, with "Cloudline" from *Native Dreamer Kin* by JOSEPH. This folk-pop masterpiece evokes rich harmonies and a captivating atmosphere, showcasing the groupâ€™s ability to blend heartfelt lyrics with smooth melodies. "Cloudline" is a standout track that will resonate with anyone seeking a blend of emotional depth and musical sophistication.</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d0000b27353fe363446cab8ece650892b" alt="JOSEPH - Cloudline" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/WA32E7ECjWw" title="JOSEPH | Cloudline" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "WA32E7ECjWw" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Cloudline"</em> from JOSEPHâ€™s *Native Dreamer Kin* album captures the essence of folk-pop with its warm, layered harmonies and emotional storytelling. The trackâ€™s dreamy sound and introspective lyrics evoke a sense of calm and connection, making it a standout in the genre.</p>
 </div> <!-- Footer Links -->

@@ -7,7 +7,7 @@ layout: post
 <p >Updated January 1, 2010, with "All Yr Songs" by Diamond Rings. This synth-driven track from the album *Special Affections* combines electronic pop elements with heartfelt lyrics, creating an anthem for the metropopolis genre. Watch the video below!</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d0000b273418883ea1d1ab0668276d9cf" alt="Diamond Rings - All Yr Songs" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="560" height="315" src="https://www.youtube.com/embed/o6IUKa25e80" frameborder="0" allowfullscreen></iframe>
+<div > {{< youtube "o6IUKa25e80" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"All Yr Songs"</em>, released as a single in 2009 and featured on the 2010 album *Special Affections* under Astralwerks, is a standout track by Diamond Rings. Its vibrant synths and emotionally resonant lyrics epitomize the metropopolis style, making it a memorable piece in modern electronic music.</p>
 </div> <!-- Footer Links -->

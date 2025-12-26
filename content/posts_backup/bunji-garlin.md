@@ -7,7 +7,7 @@ layout: post
 <p >Updated February 2, 2018, with BigBanonos' favorite collaboration, "Big Bad Soca (Remix)" featuring Shenseea. This energetic track blends soca and dancehall rhythms for an electrifying anthem. Watch the official video and explore more below:</p> <!-- Featured Image -->
 <div > <img src="https://thefader-res.cloudinary.com/images/w_1440,c_limit,f_auto,q_auto:eco/p2orfjnflgplerasbcjs/bunji-garlin.jpg" alt="Bunji Garlin - Big Bad Soca Remix" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/ip37YsfDn_g" title="Bunji Garlin ft. Shenseea - Big Bad Soca Remix | Official Music Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "ip37YsfDn_g" >}}
 </div> <!-- Song Information -->
 <div > <p>"Big Bad Soca (Remix)" by Bunji Garlin, featuring Shenseea, was released on February 2, 2018, via VP Records. This track is a perfect blend of vibrant dancehall and soca beats, showcasing the best of both genres.</p>
 </div> <!-- Footer Links -->

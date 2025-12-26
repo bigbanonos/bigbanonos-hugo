@@ -3,7 +3,7 @@ title: "frida hyvonen"
 layout: post
 ---
 #2000s <br />
-<iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/Z2-riN2PFVI?list=PLtuNtuTatqI2aosjtOrSOx5Hg80ChKkRb" width="95%"></iframe><br />
+{{< youtube "Z2-riN2PFVI" >}}<br />
 I Drive My Friend 2006
 
 <!--Subscribe and Playlist Links-->

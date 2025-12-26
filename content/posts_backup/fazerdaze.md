@@ -7,7 +7,7 @@ layout: post
 <p >Updated February 3, 2017, with "Lucky Girl" by Fazerdaze. This dreamy track captures the essence of NZ indie with its ethereal melodies and introspective lyrics.</p> <!-- Featured Image -->
 <div > <img src="https://i1.sndcdn.com/artworks-OdLE6Yxwo8dZ-0-t500x500.jpg" alt="Fazerdaze - Lucky Girl" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/My4j3vgFxbE" title="Fazerdaze - Lucky Girl (Official Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "My4j3vgFxbE" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Lucky Girl"</em> is a standout in Fazerdaze's catalog, blending dreamo vibes with shimmering indie production, showcasing her signature sound that resonates globally.</p>
 </div> <!-- Footer Links -->

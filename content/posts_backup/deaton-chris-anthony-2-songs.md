@@ -5,7 +5,7 @@ layout: post
 <h3><em>BigBanonos</em> Top 2 Songs by Deaton Chris Anthony:</h3> <p>Updated on April 13, 2022, with the track â€œiScreamâ€ featuring beabadoobee. BigBanonosâ€™ favorite songs by Deaton Chris Anthony showcase his innovative mix of experimental R&B, bedroom pop, and indie influences, with collaborations from notable artists.</p> <!--Image-->
 <div class="separator"> <a href="https://www.famousbirthdays.com/faces/anthony-deaton-image.jpg" > <img alt="Deaton Chris Anthony" src="https://www.famousbirthdays.com/faces/anthony-deaton-image.jpg" /> </a>
 </div> <!--Spotify Playlist Embed-->
-<iframe allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" allowfullscreen="" frameborder="0" height="352" loading="lazy" src="https://open.spotify.com/embed/playlist/2fZnKGY8wdGuBhmTypvpRa?utm_source=generator" width="100%"></iframe> <!--Song Listings-->
+{{< youtube "embed" >}} <!--Song Listings-->
 <ol> <li><strong>iScream</strong> â€ <em>iScream</em> â€ feat. beabadoobee â€ April 13, 2022</li> <li><strong>RACECAR</strong> â€ <em>RACECAR (feat. Clairo, Coco & Clair Clair)</em> â€ feat. Clairo, Coco & Clair Clair â€ September 26, 2019</li>
 </ol> <!--Links to Related Posts-->
 <div> <p>For more music from Deaton Chris Anthonyâ€™s collaborators, explore <a href="https://bigbanonos.blogspot.com/2023/07/beabadoobee-4-songs.html" target="_blank">beabadoobee</a>, <a href="https://bigbanonos.blogspot.com/2022/11/coco-clair-clair-3-songs.html" target="_blank">Coco & Clair Clair</a>, and <a href="https://bigbanonos.blogspot.com/2019/05/clairo.html" target="_blank">Clairo</a> on BigBanonos.</p>

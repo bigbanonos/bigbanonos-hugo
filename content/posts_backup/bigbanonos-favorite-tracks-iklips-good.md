@@ -7,7 +7,7 @@ layout: post
 <p >Updated October 9, 2015, with "Good" by Iklips. This energetic track from the <em>Rub Up Rub Up Riddim</em> showcases Iklips' commanding vocals and Majah Label Music Group's signature dancehall vibe.</p> <!-- Featured Image -->
 <div > <img src="https://i0.wp.com/riddimkilla.com/wp-content/uploads/2015/09/RubUpRiddim.jpg?fit=515%2C515&ssl=1" alt="Iklips - Good" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/PRnKSjrB5JI" title="IKLIPS - GOOD (RAW) - RUB UP RUB UP RIDDIM - MLMG" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "PRnKSjrB5JI" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Good"</em>, released on October 9, 2015, is a highlight from the <em>Rub Up Rub Up Riddim</em> collection by Majah Label Music Group. Featuring vibrant beats and a dancehall groove, this track is sure to get listeners moving.</p>
 </div> <!-- Footer Links -->

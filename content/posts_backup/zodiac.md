@@ -5,7 +5,7 @@ layout: post
 <!--Zodiac & Palmistry-->
 <img src="https://i1.sndcdn.com/artworks-BOipyoFIBYVHt4FF-3ezGVw-t500x500.png" />
 <p>Zodiac teams up with Palmistry for an ethereal, deep-cut track.</p>
-<iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/lLi0-TnwfHU" title="SO DEEP (feat. Palmistry)" width="100%"></iframe> <!--Footer-->
+{{< youtube "lLi0-TnwfHU" >}} <!--Footer-->
 <p>first posted by <a href="https://bigbanonos.blogspot.com/">https://bigbanonos.blogspot.com/</a></p> <div> <p>Explore more BigBanonos content: <a href="https://bigbanonos.blogspot.com/">Website</a> | <a href="https://www.youtube.com/@BigBanonos">YouTube</a> | <a href="https://x.com/bigbanonos">Twitter</a></p>
 </div>
 

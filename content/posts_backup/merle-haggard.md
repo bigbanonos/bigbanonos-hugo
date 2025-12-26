@@ -7,7 +7,7 @@ layout: post
 <p >Updated January 17, 2025, with "If We Make It Through December" from <em>Hag's Christmas</em>. Relive Merle Haggard's timeless country sounds in the playlist below!</p> <!-- Featured Image -->
 <div > <img src="https://sunrecords.com/wp-content/uploads/2021/09/merle-haggard.jpg" alt="Merle Haggard" />
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/4LTDRqJLoE2hhCTIOHMH2L?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <div > <p><strong>"If We Make It Through December"</strong><br> Genre: Country, Rock<br> Album: <em>Hag's Christmas</em><br> Release Date: January 1, 2007<br> Label: Capitol Nashville</p> <p><strong>"That's the Way Love Goes"</strong><br> Genre: Country, Rock<br> Album: <em>The Essential Merle Haggard: The Epic Years</em><br> Release Date: 1981<br> Label: Epic/Legacy</p>
 </div> <!-- Footer Links -->

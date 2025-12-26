@@ -7,7 +7,7 @@ layout: post
 <p >Updated January 17, 2025, with "Wanna Be A Baller" from <em>Sittin' Fat Down South</em>. Relive the Dirty South rap classics of Lil' Troy in the playlist below!</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d0000b27352cc67c87c0bb550c986c158" alt="Lil' Troy" />
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/2RXnhmFdhAIn5Io0PhbGp4?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <div > <p><strong>"Wanna Be A Baller"</strong><br> Genre: Hip Hop<br> Album: <em>Sittin' Fat Down South</em><br> Release Date: 1998<br> Label: Republic</p> <p><strong>"Still A Bitch"</strong><br> Genre: Hip Hop<br> Album: <em>Sittin' Fat Down South</em><br> Release Date: 1998<br> Label: Republic</p>
 </div> <!-- Footer Links -->

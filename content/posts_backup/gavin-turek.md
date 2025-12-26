@@ -7,7 +7,7 @@ layout: post
 <p >Updated January 20, 2017, with "The Distance" by Gavin Turek. This enchanting track blends R&B and pop soul, showcasing Gavin Turek's effortless charisma and silky-smooth vocals.</p> <!-- Featured Image -->
 <div > <img src="https://coveteur.com/media-library/image.jpg?id=52451046&width=800&quality=90" alt="Gavin Turek - The Distance" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/23lM0sLlVHY" title="Gavin Turek - The Distance [Official Music Video]" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "23lM0sLlVHY" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"The Distance"</em> is a standout track from Gavin Turek's repertoire, blending vibrant melodies with soulful rhythms. Released on January 20, 2017, it perfectly captures the warmth and depth of her pop-soul artistry.</p>
 </div> <!-- Footer Links -->

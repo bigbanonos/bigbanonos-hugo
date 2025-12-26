@@ -5,11 +5,11 @@ layout: post
 <div class="post-title"> <h1>BigBanonos' Favorite Songs by Team Rilla</h1>
 </div>
 <p>Updated January 10, 2025 with "Fete Tonight" from the <i>Sun Tann Riddim</i>, highlighted in the playlist below:</p>
-<div class="post-image"> <img src="https://i.scdn.co/image/ab67616d0000b273d5eb9a8b2b8bc4038091c047" alt="Team Rilla DH Songs Cover Art">
+<div class="post-image"> {{< img-lite src="https://i.scdn.co/image/ab67616d0000b273d5eb9a8b2b8bc4038091c047" alt="Team Rilla DH Songs Cover Art" >}}
 </div>
 <p>Team Rilla's contributions to the <i>Sun Tann Riddim</i> continue to shine as standout tracks. Both "Fete Tonight" and "Haunt Me," released on October 4, 2018, by 878333 Records DK, highlight the group's signature energy and creativity. These songs capture the vibrant and dynamic essence of the riddim while showcasing Team Rilla's undeniable talent.</p>
 <p>Listen to the playlist below to experience these tracks and more:</p>
-<div class="spotify-embed"> <iframe src="https://open.spotify.com/embed/playlist/2bqYwaPPovvpyTpPPlg0vu?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div class="spotify-embed"> {{< youtube "embed" >}}
 </div>
 <p>Tracks featured:</p>
 <ul> <li>"Fete Tonight" â€“ <i>Sun Tann Riddim</i> (October 4, 2018, 878333 Records DK)</li> <li>"Haunt Me" â€“ <i>Sun Tann Riddim</i> (October 4, 2018, 878333 Records DK)</li>

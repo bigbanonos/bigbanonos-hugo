@@ -5,11 +5,11 @@ layout: post
 <div class="post-title"> <h1>BigBanonos' Favorite Songs by Yoko Ono</h1>
 </div>
 <p>Updated August 24, 2022, with "Move on Fast" from the album <i>Move on Fast</i>, highlighted in the playlist below:</p>
-<div class="post-image"> <img src="https://phi.ca/uploads/Importation/yokoono_bg-1280x853.jpg" alt="Yoko Ono Album Cover">
+<div class="post-image"> {{< img-lite src="https://phi.ca/uploads/Importation/yokoono_bg-1280x853.jpg" alt="Yoko Ono Album Cover" >}}
 </div>
 <p>Yoko Onoâ€™s avant-garde and experimental approach to music has solidified her place as a trailblazing artist. Tracks like "Move on Fast" and "Have You Seen a Horizon Lately" showcase her ability to merge abstract ideas with compelling melodies, creating a unique listening experience. Her influence on art and music is profound and enduring.</p>
 <p>Listen to the playlist below to experience these tracks and more:</p>
-<div class="spotify-embed"> <iframe src="https://open.spotify.com/embed/playlist/47ssjI8PGxhXaP9ZNxjkbw?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div class="spotify-embed"> {{< youtube "embed" >}}
 </div>
 <p>Tracks featured:</p>
 <ul> <li>"Move on Fast" â€“ <i>Move on Fast</i> (August 24, 2022, SUPER FUJI DISCS)</li> <li>"Have You Seen a Horizon Lately" â€“ <i>Approximately Infinite Universe</i> (January 8, 1973, Secretly Canadian / Chimera Music)</li> <li>"Looking Over From My Hotel Window" â€“ <i>Approximately Infinite Universe</i> (January 8, 1973, Secretly Canadian / Chimera Music)</li>

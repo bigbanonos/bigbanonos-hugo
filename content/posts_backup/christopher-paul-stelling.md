@@ -7,7 +7,7 @@ layout: post
 <p >Updated June 16, 2015, with BigBanonos' favorite track, "Dear Beast" by Christopher Paul Stelling. This powerful live performance from the *Labor Against Waste* album showcases deep new Americana at its finest.</p> <!-- Featured Image -->
 <div > <img src="https://media.npr.org/assets/img/2015/03/30/jennsweeny_wide-852002de387d60639fa513c435699ad776fc1616.jpg?s=1400&c=100&f=jpeg" alt="Christopher Paul Stelling - Dear Beast" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/0NGw6RhuGoo" title="Christopher Paul Stelling - 'Dear Beast' (Live)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "0NGw6RhuGoo" >}}
 </div> <!-- Song Information -->
 <div > <p>"Dear Beast," from Christopher Paul Stelling's *Labor Against Waste* album, was released on June 16, 2015, by Anti/Epitaph. This track resonates with emotional depth and a raw acoustic essence, embodying the spirit of deep new Americana.</p>
 </div> <!-- Footer Links -->

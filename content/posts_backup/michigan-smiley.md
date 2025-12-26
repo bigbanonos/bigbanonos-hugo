@@ -7,7 +7,7 @@ layout: post
 <p >Updated in 2005, with "Diseases" by Michigan & Smiley. This iconic track from the album <em>Uptown Downtown</em>, released under VP Records, is a cornerstone of old school dancehall, showcasing the genre's infectious rhythm and socially conscious lyrics.</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d0000b273db5c20ec2be7e36f7cb8ed1b" alt="Michigan & Smiley - Diseases" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/kMF_gbU4Wh8" title="Michigan & Smiley--Diseases" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "kMF_gbU4Wh8" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Diseases"</em> by Michigan & Smiley is a dancehall classic that pairs an unforgettable groove with sharp commentary on social issues. From the album <em>Uptown Downtown</em>, this track is a testament to the genre's ability to blend entertainment with a message.</p>
 </div> <!-- Footer Links -->

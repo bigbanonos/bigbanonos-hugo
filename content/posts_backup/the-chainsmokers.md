@@ -7,7 +7,7 @@ layout: post
 <p >Updated with *Roses* by The Chainsmokers featuring ROZES, a track that blends indie pop with electropop vibes. Released on June 16, 2015, *Roses* captures the essence of poptimism, characterized by its catchy melody and emotionally charged lyrics. The song quickly became a standout anthem in the pop and alternative z scene, gaining widespread acclaim for its infectious chorus and warm production.</p> <!-- Featured Image -->
 <div > <img src="https://upload.wikimedia.org/wikipedia/en/6/67/Roses_%28featuring_ROZES%29_%28Official_Single_Cover%29_by_The_Chainsmokers.png" alt="The Chainsmokers - Roses" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/mBZdHuZCfic" title="The Chainsmokers - Roses (Lyric Video) ft. ROZES" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "mBZdHuZCfic" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Roses"</em> blends indie pop with electropop, creating a catchy anthem that resonates with listeners. Its warm, uplifting energy makes it a standout hit from The Chainsmokers, and ROZES' contribution adds an emotional layer to the track.</p>
 </div> <!-- Footer Links -->

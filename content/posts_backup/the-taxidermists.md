@@ -3,10 +3,10 @@ title: "the taxidermists"
 layout: post
 ---
 <h3>BigBanonos Favorite Song by The Taxidermists</h3> <!-- Featured Image -->
-<div > <a href="https://assets.rebelmouse.io/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81MTg1MDU3NS9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc4MjIyODg5Nn0.SlOtu1Ziygym7nKtLUoyTkqFFK956cYPhGjZBp4xbls/img.jpg?width=1000&quality=100" target="_blank"> <img src="https://assets.rebelmouse.io/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81MTg1MDU3NS9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc4MjIyODg5Nn0.SlOtu1Ziygym7nKtLUoyTkqFFK956cYPhGjZBp4xbls/img.jpg?width=1000&quality=100" alt="The Taxidermists - Shipwrecked"> </a>
+<div > <a href="https://assets.rebelmouse.io/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81MTg1MDU3NS9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc4MjIyODg5Nn0.SlOtu1Ziygym7nKtLUoyTkqFFK956cYPhGjZBp4xbls/img.jpg?width=1000&quality=100" target="_blank"> {{< img-lite src="https://assets.rebelmouse.io/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy81MTg1MDU3NS9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTc4MjIyODg5Nn0.SlOtu1Ziygym7nKtLUoyTkqFFK956cYPhGjZBp4xbls/img.jpg?width=1000&quality=100" alt="The Taxidermists - Shipwrecked" >}} </a>
 </div> <!-- YouTube Video Embed -->
 <h4>Watch the video for "Shipwrecked":</h4>
-<div > <iframe width="685" height="385" src="https://www.youtube.com/embed/Qlg5L0cSaUQ" title="Taxidermists - "Shipwrecked"" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "Qlg5L0cSaUQ" >}}
 </div> 
 
 <!--Subscribe and Playlist Links-->

@@ -6,7 +6,7 @@ layout: post
 <div class="separator"> <a href="https://i.guim.co.uk/img/media/dc2456e48ee480e3b8d3b010e1cfed17e0621fbc/0_151_3823_2294/master/3823.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=0cf2282c19b73f48d690000ccab8d17b" > <img alt="Tim and Eric" border="0" width="320" data-original-height="480" data-original-width="640" src="https://i.guim.co.uk/img/media/dc2456e48ee480e3b8d3b010e1cfed17e0621fbc/0_151_3823_2294/master/3823.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=0cf2282c19b73f48d690000ccab8d17b"/> </a>
 </div>
 <p>Tim and Eric's absurdist comedy and quirky music have left an unforgettable mark. Here are BigBanonos' favorite tracks:</p> <ol> <li><strong>Shrimp & White Wine (Stream)</strong> | Released: 2008</li> <li><strong>Petite Feet</strong> | <em>Awesome Record, Great Songs</em> | Released: 2008-05-06 | Williams Street Records</li> <li><strong>Rolo Tony - Uncut</strong> | <em>Awesome Record, Great Songs</em> | Released: 2008-05-06 | Williams Street Records</li> <li><strong>I Sit Down When I Pee</strong> | <em>Awesome Record, Great Songs</em> | Released: 2008-05-06 | Williams Street Records</li>
-</ol> <div> <iframe src="https://open.spotify.com/embed/playlist/61KVKL1rfxSyXzysCHWoVF?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</ol> <div> {{< youtube "embed" >}}
 </div> <p>Explore more on <a href="https://bigbanonos.blogspot.com/">BigBanonos</a>, or check out BigBanonos on <a href="https://www.youtube.com/@BigBanonos">YouTube</a> and <a href="https://x.com/bigbanonos">Twitter</a>.</p> <p>Tags: @timanderic</p>
 
 

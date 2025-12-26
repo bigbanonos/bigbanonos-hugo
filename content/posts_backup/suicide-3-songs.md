@@ -3,8 +3,8 @@ title: "suicide 3 songs"
 layout: post
 ---
 <h1>BigBanonos Top Songs by Suicide</h1>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Martin_Rev_and_Alan_Vega.png/1200px-Martin_Rev_and_Alan_Vega.png" alt="Suicide"> <p>Known for their raw, gritty sound, Suicide are pioneers of synth punk and noise rock. BigBanonos' top tracks by Suicide are:</p> <ol> <li><strong>Dream Baby Dream - 2022 - Remaster</strong> | <em>Dream Baby Dream (2022 - Remaster)</em> | Released: 2022-02-14 | Mute, a BMG Company</li> <li><strong>Cheree - 2019 - Remaster</strong> | <em>Suicide (2019 - Remaster)</em> | Released: 1977-12-28 | Mute, a BMG Company</li> <li><strong>Johnny - 2019 - Remaster</strong> | <em>Suicide (2019 - Remaster)</em> | Released: 1977-12-28 | Mute, a BMG Company</li>
-</ol> <div> <iframe src="https://open.spotify.com/embed/playlist/4mGsYIzDz7fICLgK9qG4tF?utm_source=generator" width="100%" height="352" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+{{< img-lite src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Martin_Rev_and_Alan_Vega.png/1200px-Martin_Rev_and_Alan_Vega.png" alt="Suicide" >}} <p>Known for their raw, gritty sound, Suicide are pioneers of synth punk and noise rock. BigBanonos' top tracks by Suicide are:</p> <ol> <li><strong>Dream Baby Dream - 2022 - Remaster</strong> | <em>Dream Baby Dream (2022 - Remaster)</em> | Released: 2022-02-14 | Mute, a BMG Company</li> <li><strong>Cheree - 2019 - Remaster</strong> | <em>Suicide (2019 - Remaster)</em> | Released: 1977-12-28 | Mute, a BMG Company</li> <li><strong>Johnny - 2019 - Remaster</strong> | <em>Suicide (2019 - Remaster)</em> | Released: 1977-12-28 | Mute, a BMG Company</li>
+</ol> <div> {{< youtube "embed" >}}
 </div>
 <p>Tags: @suicide</p>
 

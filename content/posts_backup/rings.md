@@ -7,7 +7,7 @@ layout: post
 <p >Updated January 15, 2007, with "You Remind Me" by Rings. This evocative track from their album *Black Habit*, released under Paw Tracks, delivers a mesmerizing blend of indie experimentation and emotional depth. Watch and listen below!</p> <!-- Featured Image -->
 <div > <img src="https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/25/6f/4d/256f4d4a-50c2-f985-2f52-1bd725a32e7d/677517102055.png/592x592bb.webp" alt="Rings - You Remind Me" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="685" height="617" src="https://www.youtube.com/embed/-gw8JGDqESQ" title="You Remind Me" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "-gw8JGDqESQ" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"You Remind Me"</em>, released on January 15, 2007, by Paw Tracks as part of the album *Black Habit*, showcases Rings' innovative approach to indie music. With its haunting melodies and experimental undertones, this track highlights the bandâ€™s distinctive artistry.</p>
 </div> <!-- Footer Links -->

@@ -4,12 +4,12 @@ layout: post
 ---
 <h2 >BigBanonos' Favorite Songs by Eddington Again</h2> <!-- Introductory Text -->
 <p >Eddington Againâ€™s genre-blending artistry continues to captivate listeners with its soulful, experimental vibes. Updated with BigBanonos' top tracks, including "Fav" and "Sweet," this post highlights the standout moments of Eddington Again's discography.</p> <!-- Featured Image -->
-<div > <img src="https://i.scdn.co/image/ab67616100005174a9d57c1cf1109d923b59678e" alt="Eddington Again Album Cover">
+<div > {{< img-lite src="https://i.scdn.co/image/ab67616100005174a9d57c1cf1109d923b59678e" alt="Eddington Again Album Cover" >}}
 </div> <!-- Spotify Playlist Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/54x2EX2PZTyodvdpaEMnd5?utm_source=generator" width="100%" height="352" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- YouTube Playlist Embed -->
 <h3 >Video Highlights:</h3>
-<div > <iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/videoseries?list=PLtuNtuTatqI3jGgnXwEFQ6ENHTUZDEaub" width="560"></iframe>
+<div > {{< youtube "videoseries" >}}
 </div> <!-- Song List -->
 <h3 >Top Songs:</h3>
 <ul > <li><strong>Fav</strong> (2019)</li> <li><strong>Sweet</strong> (2017)</li>

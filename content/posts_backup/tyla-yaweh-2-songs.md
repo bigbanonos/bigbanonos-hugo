@@ -3,10 +3,10 @@ title: "tyla yaweh 2 songs"
 layout: post
 ---
 <h1>BigBanonos Favorite Songs by Tyla Yaweh</h1>
-<img src="https://d2ljoqkkoec4f6.cloudfront.net/wp-content/uploads/2020/08/25140053/ty1-1-545x750.jpg" alt="Tyla Yaweh"> <p>Tyla Yawehâ€™s energetic blend of melodic rap and hip hop makes his music stand out in the modern rap scene. Check out BigBanonos' favorite picks:</p> <ol> <li><strong>Stuntin' On You (feat. DaBaby)</strong> | <em>Stuntin' On You (feat. DaBaby)</em> | Released: 2020-07-17 | Epic/London Ent.</li> <li><strong>I Think I Luv Her (feat. YG)</strong> | <em>I Think I Luv Her (feat. YG)</em> | Released: 2019-09-27 | Epic/London Ent.</li>
+{{< img-lite src="https://d2ljoqkkoec4f6.cloudfront.net/wp-content/uploads/2020/08/25140053/ty1-1-545x750.jpg" alt="Tyla Yaweh" >}} <p>Tyla Yawehâ€™s energetic blend of melodic rap and hip hop makes his music stand out in the modern rap scene. Check out BigBanonos' favorite picks:</p> <ol> <li><strong>Stuntin' On You (feat. DaBaby)</strong> | <em>Stuntin' On You (feat. DaBaby)</em> | Released: 2020-07-17 | Epic/London Ent.</li> <li><strong>I Think I Luv Her (feat. YG)</strong> | <em>I Think I Luv Her (feat. YG)</em> | Released: 2019-09-27 | Epic/London Ent.</li>
 </ol>
-<iframe allowfullscreen="" class="BLOG_video_class" height="266" src="https://www.youtube.com/embed/aXRjhs7Q5ag" width="320" youtube-src-id="aXRjhs7Q5ag"></iframe>
-<div> <iframe src="https://open.spotify.com/embed/playlist/0IBbmEho2vDX107lv6eWX8?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+{{< youtube "aXRjhs7Q5ag" >}}
+<div> {{< youtube "embed" >}}
 </div> <p><em>First posted by BigBanonos - <a href="https://bigbanonos.blogspot.com/">https://bigbanonos.blogspot.com/</a></em></p>
 <p><em>Last updated November 14, 2024</em></p>
 <p>Follow BigBanonos on <a href="https://www.youtube.com/@BigBanonos">YouTube</a> and <a href="https://x.com/bigbanonos">Twitter</a> for more music content.</p>

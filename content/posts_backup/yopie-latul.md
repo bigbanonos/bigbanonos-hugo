@@ -7,7 +7,7 @@ layout: post
 <p >Updated with *Poco Poco* by Yopie Latul, a standout track from the *Disco Dangdut Pasti Letup 2* album, released on May 23, 2007. This hit combines the energetic feel of lagu timur with infectious rhythms, making it a memorable dance anthem.</p> <!-- Featured Image -->
 <div > <img src="https://m.media-amazon.com/images/I/51cvYG3-eSL._UXNaN_FMjpg_QL85_.jpg" alt="Yopie Latul - Poco Poco" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="514" src="https://www.youtube.com/embed/vzcgQf_5LyQ" title="Yopie Latul - Poco-Poco [Official Music Video]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "vzcgQf_5LyQ" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Poco Poco"</em> showcases Yopie Latul's mastery of lagu timur, blending traditional sounds with modern disco influences. Released in 2007, the track has since become a favorite in the dangdut and pop scenes.</p>
 </div> <!-- Footer Links -->

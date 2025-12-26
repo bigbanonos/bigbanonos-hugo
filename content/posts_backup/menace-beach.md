@@ -7,7 +7,7 @@ layout: post
 <p >Updated January 27, 2015, with "Ratworld" by Menace Beach. This standout track from the album <em>Ratworld</em>, released under Memphis Industries, delivers a grungy, indie rock sound that embodies the raw energy of Leeds' indie music scene.</p> <!-- Featured Image -->
 <div > <img src="https://f4.bcbits.com/img/a1755745574_10.jpg" alt="Menace Beach - Ratworld" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/tqGvow4Vthc" title="Ratworld" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "tqGvow4Vthc" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Ratworld"</em> by Menace Beach is a gritty and infectious indie rock anthem that channels raw emotion and vibrant energy. The title track from their debut album <em>Ratworld</em> perfectly showcases the band's signature sound, blending lo-fi textures with melodic hooks.</p>
 </div> <!-- Footer Links -->

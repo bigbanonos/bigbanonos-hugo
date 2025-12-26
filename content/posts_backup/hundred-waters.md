@@ -2,7 +2,7 @@
 title: "hundred waters"
 layout: post
 ---
-<a href="https://cdn3.pitchfork.com/longform/54/hundredwaters1440.jpg" imageanchor="1" ><img border="0" src="https://cdn3.pitchfork.com/longform/54/hundredwaters1440.jpg" width="320" height="180" data-original-width="800" data-original-height="450" /></a><iframe width="100%" height="315" src="https://www.youtube.com/embed/videoseries?list=PLtuNtuTatqI07jwuowNiKVKSQAJnIhH4S" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe><h3>Blanket Me [2017]</h3>
+<a href="https://cdn3.pitchfork.com/longform/54/hundredwaters1440.jpg" imageanchor="1" ><img border="0" src="https://cdn3.pitchfork.com/longform/54/hundredwaters1440.jpg" width="320" height="180" data-original-width="800" data-original-height="450" /></a>{{< youtube "videoseries" >}}<h3>Blanket Me [2017]</h3>
 
 <!--Subscribe and Playlist Links-->
 <div>

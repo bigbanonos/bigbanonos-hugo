@@ -4,7 +4,7 @@ layout: post
 ---
 <h2>BigBanonos' Favorite Songs by BUMPER</h2> <!-- Search Description -->
 <p>BigBanonos' top 2 favorite tracks by BUMPER, featuring Japanese Breakfast and Ryan Galloway with a mix of art pop, indie pop, and philly indie vibes.</p> <!-- Spotify Playlist Embed -->
-<iframe src="https://open.spotify.com/embed/playlist/5nF3SYKCAO5zXZIL3rQJif?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> <!-- Song Listings -->
+{{< youtube "embed" >}} <!-- Song Listings -->
 <ul> <li>You Can Get It - <em>pop songs 2020</em> - BUMPER (2020-09-04)</li> <li>Red Brick - <em>pop songs 2020</em> - BUMPER (2020-09-04)</li>
 </ul> <!-- Image -->
 <img src="https://images.genius.com/38ab1215e772be0bc3310ced8f41a282.1000x1000x1.jpg" alt="BUMPER Album Art"/>

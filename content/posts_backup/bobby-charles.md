@@ -7,7 +7,7 @@ layout: post
 <p >Updated July 16, 2019, with BigBanonos' favorite song by Bobby Charles, "See You Later Alligator." This swamp pop classic, originally recorded in 1955, is featured on the album *See You Later, Alligator* from M&J Music. Watch the video and see more details below:</p> <!-- Featured Image -->
 <div > <img src="https://www.jazzmessengers.com/52422-large_default/seeyoulater-alligator-1955-61recordings.jpg" alt="Bobby Charles - See You Later Alligator" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/b0VQ0OyX_Fk" title="1st RECORDING OF: See You Later Alligator - Bobby Charles (1955)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "b0VQ0OyX_Fk" >}}
 </div> <!-- Song Information -->
 <div > <p>"See You Later Alligator" by Bobby Charles is a timeless piece of swamp pop history. Released on July 16, 2019, as part of *See You Later, Alligator* under M&J Music, this 2:53-long track blends playful lyrics with an infectious rhythm, cementing its status as a beloved classic.</p>
 </div> <!-- Footer Links -->

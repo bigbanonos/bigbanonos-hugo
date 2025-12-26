@@ -7,7 +7,7 @@ layout: post
 <p >Updated October 11, 2005, with "Barricades of Heaven - Live," a heartfelt performance by Jackson Browne, highlighting his masterful storytelling and timeless sound. From the album *Solo Acoustic, Vol. 1* released under Inside Recordings.</p> <!-- Featured Image -->
 <div > <img src="https://dgpuo8cwvztoe.cloudfront.net/uploads/Musician-Portraits/Guest-Artists/_1200x630_crop_center-center_82_none_ns/JACKSON-BROWNE-2023.jpg?mtime=1686851533" alt="Jackson Browne - Barricades of Heaven" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/vzyQsoAldpw" title="The Barricades of Heaven" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "vzyQsoAldpw" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Barricades of Heaven - Live"</em> reflects Jackson Browne's unique ability to capture emotional depth and connect with audiences. This live version exemplifies the richness of his artistry within the folk and rock genres.</p>
 </div> <!-- Footer Links -->

@@ -5,9 +5,9 @@ layout: post
 
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by DJ Candlestick</h1> <!-- Featured Image -->
-<div > <img src="https://i.scdn.co/image/ab6761610000517406ed9c3a24904467a25722ff" alt="DJ Candlestick">
+<div > {{< img-lite src="https://i.scdn.co/image/ab6761610000517406ed9c3a24904467a25722ff" alt="DJ Candlestick" >}}
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/15OqY0i7ThlF6yKm2Cn0VQ?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Introductory Text -->
 <p >DJ Candlestick serves up hypnotic beats with Houston's signature chopped and screwed style. BigBanonos celebrates tracks like "Big Bank [chopnotslop]" and "Pardon Me [Chopnotslop]" from *Chopstars Radio, Vol. 14*.</p> <!-- Song Highlights -->
 <div > <p>BigBanonos' standout picks:</p> <ol> <li><strong>Big Bank [chopnotslop]</strong> (feat. OG Ron C, DJ X.O.) | <em>Chopstars Radio, Vol. 14 (Chopnotslop)</em> | Released: May 17, 2020 | CHOP NOT SLOP ENT.</li> <li><strong>Pardon Me [Chopnotslop]</strong> (feat. OG Ron C, Jmike) | <em>Chopstars Radio, Vol. 14 (Chopnotslop)</em> | Released: May 17, 2020 | CHOP NOT SLOP ENT.</li> </ol>

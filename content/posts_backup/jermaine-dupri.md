@@ -7,7 +7,7 @@ layout: post
 <p >Updated October 30, 2001, with "Instructions Interlude" from <em>Instructions (Explicit Version)</em>. Revisit the smooth hip hop sounds of Jermaine Dupri in the playlist below!</p> <!-- Featured Image -->
 <div > <img src="https://www.vibe.com/wp-content/uploads/2023/01/GettyImages-1441280586-e1672781541423.jpg" alt="Jermaine Dupri" />
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/5B58TH6TK8YeNHTsCha8tb?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <div > <p><strong>"Instructions Interlude"</strong><br> Genre: Hip Hop, R&B, Pop<br> Album: <em>Instructions (Explicit Version)</em><br> Release Date: October 30, 2001<br> Label: So So Def</p> <p><strong>"Money Ain't a Thang" (feat. JAY-Z)</strong><br> Genre: Hip Hop, R&B, Pop<br> Album: <em>Life In 1472 (The Original Soundtrack)</em><br> Release Date: July 17, 1998<br> Label: So So Def</p>
 </div> <!-- Footer Links -->

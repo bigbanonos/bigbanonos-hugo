@@ -4,9 +4,9 @@ layout: post
 ---
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Adan Diaz</h1> <!-- Featured Image -->
-<div > <img src="https://i.scdn.co/image/ab67616d00001e0251b6a8a6e3343d38b15db74f" alt="Adan Diaz">
+<div > {{< img-lite src="https://i.scdn.co/image/ab67616d00001e0251b6a8a6e3343d38b15db74f" alt="Adan Diaz" >}}
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/6FM4EDwDPDs33X68AksIku?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Introductory Text -->
 <p >Adan Diaz blends introspective lyrics with Godmode's signature production. From "Ripped Jeans" to "Young Picasso," here are BigBanonos' favorite tracks by this rising artist.</p> <!-- Song Highlights -->
 <div > <p>BigBanonos' standout picks:</p> <ol> <li><strong>Ripped Jeans</strong> | <em>Ripped Jeans</em> | Released: April 17, 2020 | GODMODE</li> <li><strong>Three Days</strong> | <em>Three Days</em> | Released: April 21, 2023 | GODMODE</li> <li><strong>Jerk x2</strong> | <em>Ah-Dawn</em> | Released: November 15, 2024 | GODMODE</li> <li><strong>Why Can't It Be Me</strong> | <em>Ah-Dawn</em> | Released: November 15, 2024 | GODMODE</li> <li><strong>Young Picasso</strong> | <em>Ah-Dawn</em> | Released: November 15, 2024 | GODMODE</li> </ol>

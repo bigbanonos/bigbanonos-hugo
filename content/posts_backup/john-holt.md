@@ -7,7 +7,7 @@ layout: post
 <p >Updated January 1, 2003, with "It's A Jam In The Street" by John Holt. This classic reggae tune highlights Holt's soulful voice and a vibrant blend of dub, lovers rock, and reggae.</p> <!-- Featured Image -->
 <div > <img src="https://i.discogs.com/TRyvQxxG6DYKHJM59XP4VXW4K33EPZfc-10PIXLNXIw/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTExMDkw/NTM3LTE1MDk2ODA0/MDctMTUxMC5qcGVn.jpeg" alt="John Holt" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/c62XUfkjZRw" title="John Holt - It's A Jam In The Streets" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "c62XUfkjZRw" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"It's A Jam In The Street"</em> is featured on <strong>Help Me Make It Through The Night: The Best Of John Holt</strong>, released by Sanctuary Records. This track showcases Holt's mastery in blending reggae with elements of rocksteady and roots reggae.</p>
 </div> <!-- Footer Links -->

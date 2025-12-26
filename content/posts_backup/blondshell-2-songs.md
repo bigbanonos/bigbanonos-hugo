@@ -3,17 +3,17 @@ title: "blondshell 2 songs"
 layout: post
 ---
 <h3>BigBanonos' Favorite Songs by Blondshell</h3> <!-- Featured Image -->
-<div > <a href="https://www.nme.com/wp-content/uploads/2023/06/2023_blondshell_jonathanweiner_2000x1270-696x442.jpg" target="_blank"> <img src="https://www.nme.com/wp-content/uploads/2023/06/2023_blondshell_jonathanweiner_2000x1270-696x442.jpg" alt="Blondshell"> </a>
+<div > <a href="https://www.nme.com/wp-content/uploads/2023/06/2023_blondshell_jonathanweiner_2000x1270-696x442.jpg" target="_blank"> {{< img-lite src="https://www.nme.com/wp-content/uploads/2023/06/2023_blondshell_jonathanweiner_2000x1270-696x442.jpg" alt="Blondshell" >}} </a>
 </div> <!-- Introductory Text -->
 <p >Blondshell continues to impress with her raw lyricism and haunting melodies. BigBanonos highlights her standout tracks, including "Kiss City" and "Olympus," along with the remix of Samiâ€™s gem "Charm You."</p> <!-- YouTube Playlist Embed -->
 <h4 >Watch the video playlist featuring Blondshellâ€™s top tracks:</h4>
-<div > <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=6gxImddRM7TDNcnK&list=PLtuNtuTatqI0G9CuOGzhr6ak7IkVANcv5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "videoseries" >}}
 </div> <!-- Song List -->
 <h4>Top Songs:</h4>
 <ol > <li>Kiss City [2022]</li> <li>Olympus [2022]</li>
 </ol> <!-- Spotify Playlist Embed -->
 <h4 >Listen on Spotify:</h4>
-<div > <iframe src="https://open.spotify.com/embed/playlist/6T4lXCl2u7jPYtPfTzILUr?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Footer Links -->
 <hr />
 <p >For more updates, visit <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_blank">BigBanonos</a>. Also, check out our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> channel and follow us on <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a> for exclusive content!</p>

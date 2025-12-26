@@ -5,11 +5,11 @@ layout: post
 <div class="post-title"> <h1>BigBanonos' Favorite Songs by Usher</h1>
 </div>
 <p>Updated March 23, 2004, with "Burn" from the album <i>Confessions (Expanded Edition)</i>, highlighted in the playlist below:</p>
-<div class="post-image"> <img src="https://www.billboard.com/wp-content/uploads/2022/09/usher-press-2022-cr-Bellamy-Brewster-billboard-1548.jpg?w=942&h=623&crop=1" alt="Usher Album Cover">
+<div class="post-image"> {{< img-lite src="https://www.billboard.com/wp-content/uploads/2022/09/usher-press-2022-cr-Bellamy-Brewster-billboard-1548.jpg?w=942&h=623&crop=1" alt="Usher Album Cover" >}}
 </div>
 <p>Usher's smooth vocals and timeless R&B hits have cemented his place as one of the genre's most influential artists. From emotional ballads like "Burn" and "Confessions Part II" to live renditions like "Nice & Slow - Live," his music continues to resonate across generations. These tracks, especially from the 2004 hit album <i>Confessions</i>, showcase his unparalleled artistry.</p>
 <p>Listen to the playlist below to experience these tracks and more:</p>
-<div class="spotify-embed"> <iframe src="https://open.spotify.com/embed/playlist/24IKSv1JssJFbzHOa3xQsY?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div class="spotify-embed"> {{< youtube "embed" >}}
 </div>
 <p>Tracks featured:</p>
 <ul> <li>"Burn" â€“ <i>Confessions (Expanded Edition)</i> (March 23, 2004, LaFace Records)</li> <li>"Confessions Part II" â€“ <i>Confessions (Expanded Edition)</i> (March 23, 2004, LaFace Records)</li> <li>"Bad Girl" â€“ <i>Confessions (Expanded Edition)</i> (March 23, 2004, LaFace Records)</li> <li>"Nice & Slow - Live" â€“ <i>Live</i> (March 23, 1999, Arista/LaFace Records)</li>

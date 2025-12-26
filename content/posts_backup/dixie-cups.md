@@ -7,7 +7,7 @@ layout: post
 <p >Updated January 1, 1965, with "Iko Iko" by The Dixie Cups. This timeless classic combines infectious rhythms with a catchy chant, making it one of the most iconic tracks in New Orleans music history. Watch the video below!</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/124f97105097fe10b8f53ef0cb170fbfd46a8417" alt="The Dixie Cups - Iko Iko" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="683" height="393" src="https://www.youtube.com/embed/gBl2G8Bd-aI" title="The Dixie Cups - Iko Iko" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "gBl2G8Bd-aI" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Iko Iko"</em>, released in 1965, is a standout track by The Dixie Cups. Its playful lyrics and vibrant melodies have made it a cultural staple and a must-hear for fans of classic pop and New Orleans-inspired music.</p>
 </div> <!-- Footer Links -->

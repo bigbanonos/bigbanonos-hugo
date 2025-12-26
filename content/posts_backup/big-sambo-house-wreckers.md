@@ -7,7 +7,7 @@ layout: post
 <p >Updated January 1, 2011, with BigBanonos' favorite song by Big Sambo & The House Wreckers, "The Rains Came," from the album *Rain Songs*. Released under Master Classics Records, this timeless track is a standout in its genre. Watch the video and see more details below:</p> <!-- Featured Image -->
 <div > <img src="https://pickasso.spotifycdn.com/image/ab67c0de0000deef/dt/v1/img/radio/artist/6L1jE5H1gnjlGfkwnAhYwy/en" alt="Big Sambo & The House Wreckers - The Rains Came" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/Si8ZraWkWLM" title="Big Sambo & The House Wreckers - The Rains Came" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "Si8ZraWkWLM" >}}
 </div> <!-- Song Information -->
 <div > <p>"The Rains Came" by Big Sambo & The House Wreckers is a soulful classic that captures the raw emotion and storytelling of its era. Released on January 1, 2011, under Master Classics Records, this 2:16-long track from *Rain Songs* is a true gem in the annals of timeless music.</p>
 </div> <!-- Footer Links -->

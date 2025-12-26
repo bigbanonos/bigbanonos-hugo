@@ -7,7 +7,7 @@ layout: post
 <p >Updated August 9, 2019, with BigBanonos' favorite song by Bazza T, "Born Loyal," released under Deal Wit It Records. Watch the video and see more details below:</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d00001e02a499f3a0214889e1c213209b" alt="Bazza T - Born Loyal" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/ToPupFL7peM" title="Bazza T - Born Loyal - August 2019" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "ToPupFL7peM" >}}
 </div> <!-- Song Information -->
 <div > <p>"Born Loyal" by Bazza T is a powerful and heartfelt track that blends rhythmic storytelling with dynamic production. Released on August 9, 2019, under Deal Wit It Records, this 3:13-long song showcases Bazza T's dedication to authenticity and raw talent.</p>
 </div> <!-- Footer Links -->

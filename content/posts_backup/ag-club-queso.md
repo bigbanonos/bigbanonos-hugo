@@ -2,7 +2,7 @@
 title: "ag club queso"
 layout: post
 ---
-<iframe frameborder="0" height="360" src="https://youtube.com/embed/uETAon915mc?si=Xz2-Pb_NywNMEMtv" width="480"></iframe><div><br /></div><h4>Queso [2022]</h4><div>Donâ€™t forget to check out <a href="https://www.youtube.com/@BigBanonos">BigBanonos on YouTube</a> for more curated music content, especially those tracks #NotOnSpotify!</div>
+{{< youtube "uETAon915mc" >}}<div><br /></div><h4>Queso [2022]</h4><div>Donâ€™t forget to check out <a href="https://www.youtube.com/@BigBanonos">BigBanonos on YouTube</a> for more curated music content, especially those tracks #NotOnSpotify!</div>
 
 <!--Subscribe and Playlist Links-->
 <div>

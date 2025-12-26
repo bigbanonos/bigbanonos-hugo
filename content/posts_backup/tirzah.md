@@ -5,11 +5,11 @@ layout: post
 <div class="post-title"> <h1>BigBanonos' Favorite Songs by Tirzah</h1>
 </div>
 <p>Updated August 10, 2018, with "Holding On" from the album <i>Devotion</i>, highlighted in the playlist below:</p>
-<div class="post-image"> <img src="https://d1rgjmn2wmqeif.cloudfront.net/a/b/47080.jpg" alt="Tirzah Album Cover">
+<div class="post-image"> {{< img-lite src="https://d1rgjmn2wmqeif.cloudfront.net/a/b/47080.jpg" alt="Tirzah Album Cover" >}}
 </div>
 <p>Tirzah's experimental approach to alternative R&B and art pop creates a truly unique listening experience. Tracks like "Holding On" and "Gladly" showcase her ethereal sound and emotional depth. Released in 2018 under Domino Recording Co, these songs remain essential for fans of boundary-pushing music.</p>
 <p>Listen to the playlist below to experience these tracks and more:</p>
-<div class="spotify-embed"> <iframe src="https://open.spotify.com/embed/playlist/3PBYQJMNxkvJQ8c1jAdr42?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div class="spotify-embed"> {{< youtube "embed" >}}
 </div>
 <p>Tracks featured:</p>
 <ul> <li>"Holding On" â€“ <i>Devotion</i> (August 10, 2018, Domino Recording Co)</li> <li>"Gladly" â€“ <i>Gladly</i> (May 3, 2018, Domino Recording Co)</li>

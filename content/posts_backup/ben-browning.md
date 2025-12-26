@@ -7,7 +7,7 @@ layout: post
 <p >Updated December 5, 2011, with "I Can't Stay" by Ben Browning. This indie electronic gem features a breezy melody and infectious rhythm, perfectly capturing Browningâ€™s signature sound. Watch the video below!</p> <!-- Featured Image -->
 <div > <img src="https://www.nme.com/wp-content/uploads/2021/03/Ben-Browning-2014-credit-FilmMagic@2000x1270.jpg" alt="Ben Browning - I Can't Stay" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="719" height="404" src="https://www.youtube.com/embed/--J6_fXuPp4" title="Ben Browning - I Can't Stay" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "--J6_fXuPp4" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"I Can't Stay"</em>, released on December 5, 2011, under Cutters Records, is a standout track from Ben Browning. Known for his work with Cut Copy, Browningâ€™s solo effort delivers a smooth blend of indie pop and electronic vibes that captivates listeners.</p>
 </div> <!-- Footer Links -->

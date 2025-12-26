@@ -11,7 +11,7 @@ layout: post
 <p><strong>"The Christmas Song"</strong> â€“ <em>The Christmas Song</em> (Columbia, 2003)</p>
 <p><strong>"That Great Love Sound"</strong> â€“ <em>That Great Love Sound</em> (Columbia, 2003)</p>
 <p><strong>"Chain Gang of Love"</strong> â€“ <em>Chain Gang Of Love</em> (Columbia, 2003)</p>
-<p><strong>"Beat City"</strong> â€“ <em>Whip It On</em> (Columbia, 2002)</p> <iframe src="https://open.spotify.com/embed/playlist/0ylyd33CKxRX0vbRSVxEaV?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> <iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/sWQ_D0xTJws" width="420"></iframe> <p>@raveonettes</p> <hr /><!-- Footer -->
+<p><strong>"Beat City"</strong> â€“ <em>Whip It On</em> (Columbia, 2002)</p> {{< youtube "embed" >}} {{< youtube "sWQ_D0xTJws" >}} <p>@raveonettes</p> <hr /><!-- Footer -->
 <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p> <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist</a></p> <p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
 
 

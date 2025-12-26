@@ -3,10 +3,10 @@ title: "zipper 2 songs"
 layout: post
 ---
 <h1>BigBanonos Favorite Songs by Zipper</h1>
-<img src="https://static01.nyt.com/images/2017/11/13/arts/music/13cole1/13cole1-superJumbo-v5.jpg" alt="Zipper"> <p>Zipper's classic rock sound defined a unique era of music. These are BigBanonos' favorite tracks from Zipper:</p> <ol> <li><strong>Bullets</strong> | <em>Zipper</em> | Released: 1974-09-30 | Tombstone Records</li> <li><strong>The Same Old Song</strong> | <em>Zipper</em> | Released: 1974-09-30 | Tombstone Records</li>
-</ol> <div> <iframe src="https://open.spotify.com/embed/playlist/5JWhM62d94xMyolsUIgQR5?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+{{< img-lite src="https://static01.nyt.com/images/2017/11/13/arts/music/13cole1/13cole1-superJumbo-v5.jpg" alt="Zipper" >}} <p>Zipper's classic rock sound defined a unique era of music. These are BigBanonos' favorite tracks from Zipper:</p> <ol> <li><strong>Bullets</strong> | <em>Zipper</em> | Released: 1974-09-30 | Tombstone Records</li> <li><strong>The Same Old Song</strong> | <em>Zipper</em> | Released: 1974-09-30 | Tombstone Records</li>
+</ol> <div> {{< youtube "embed" >}}
 </div> <h4>Video for "Bullets" [1974]:</h4>
-<iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/cazOrl09Vx8?list=PLtuNtuTatqI1yV5Xjp5xTFzfmt8giSEzk" width="95%"></iframe><br> <p><em>First posted by BigBanonos - <a href="https://bigbanonos.blogspot.com/">https://bigbanonos.blogspot.com/</a></em></p>
+{{< youtube "cazOrl09Vx8" >}}<br> <p><em>First posted by BigBanonos - <a href="https://bigbanonos.blogspot.com/">https://bigbanonos.blogspot.com/</a></em></p>
 <p><em>Last updated November 14, 2024</em></p>
 <p>Follow BigBanonos on <a href="https://www.youtube.com/@BigBanonos">YouTube</a> and <a href="https://x.com/bigbanonos">Twitter</a> for more music content.</p>
 <p>Tags: @zipper</p>

@@ -4,10 +4,10 @@ layout: post
 ---
 <h2>BigBanonos' Favorite 2 Songs by Ayra Starr</h2>
 <p>BigBanonos explores the soulful rhythms of Nigerian afrobeats artist Ayra Starr, who brings her unique style and depth to each track. BigBanonos' Favorite 2 Songs by Ayra Starr, Last updated August 6, 2021, with â€œBeggie Beggieâ€ highlighted in the playlist below:</p> <ol> <li><strong>Beggie Beggie (feat. CKay)</strong> - Album: <em>19 & Dangerous</em> (August 6, 2021)</li> <li><strong>Sare</strong> - Album: <em>Ayra Starr</em> (January 22, 2021)</li>
-</ol> <img alt="Ayra Starr - Top Songs" src="https://ladunliadinews.com/wp-content/uploads/2024/10/IMG_2538.jpeg" /> <div> <iframe allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" allowfullscreen="" frameborder="0" height="352" loading="lazy" src="https://open.spotify.com/embed/playlist/2eBhAvmDfk9aT6oQIXE93F?utm_source=generator" width="100%"></iframe>
+</ol> <img alt="Ayra Starr - Top Songs" src="https://ladunliadinews.com/wp-content/uploads/2024/10/IMG_2538.jpeg" /> <div> {{< youtube "embed" >}}
 </div> <p>Donâ€™t forget to check out BigBanonos on YouTube for more curated music content, especially those tracks #NotOnSpotify!</p>
 <p><a href="https://www.youtube.com/@BigBanonos">BigBanonos YouTube Channel</a></p>
-<iframe frameborder="0" height="270" src="https://youtube.com/embed/Gm1bpmNKII0" width="480"></iframe>
+{{< youtube "Gm1bpmNKII0" >}}
 
 <!--Subscribe and Playlist Links-->
 <div>

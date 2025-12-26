@@ -7,7 +7,7 @@ layout: post
 <p >Updated with *Sweater Weather*, the iconic track by The Neighbourhood that still resonates with listeners today. Released on *I'm Sorry...* in 2012, this song became a staple of modern alternative rock, capturing the mood of the era. Check out the official video and enjoy the chill vibes!</p> <!-- Featured Image -->
 <div > <img src="https://upload.wikimedia.org/wikipedia/en/6/6c/Sweater_Weather_%28The_Neighborhood_single_cover%29.jpg" alt="The Neighbourhood - Sweater Weather" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/GCdwKhTtNNw" title="The Neighbourhood - Sweater Weather (Official Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "GCdwKhTtNNw" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Sweater Weather"</em> by The Neighbourhood is a defining track of modern alternative rock. With its laid-back vibe and emotionally charged lyrics, it remains a fan favorite. Whether you're revisiting this classic or hearing it for the first time, it's a must-listen.</p>
 </div> <!-- Footer Links -->

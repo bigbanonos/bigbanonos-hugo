@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Die A Happy Man" by Thomas Rhett, from the album *Tangled Up*, released on January 1, 2015. This heartfelt country track blends contemporary country with a touch of modern rock, delivering a powerful message of love and happiness.</p> <!-- Featured Image -->
 <div > <img src="https://i.ytimg.com/vi/w2CELiObPeQ/maxresdefault.jpg" alt="Thomas Rhett - Die A Happy Man" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/w2CELiObPeQ" title="Thomas Rhett - Die A Happy Man" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "w2CELiObPeQ" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Die A Happy Man"</em> by Thomas Rhett is a touching country ballad from his *Tangled Up* album, blending contemporary country, modern rock, and country road vibes to create a song about love, happiness, and fulfillment.</p>
 </div> <!-- Footer Links -->

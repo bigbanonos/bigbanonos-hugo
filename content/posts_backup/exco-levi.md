@@ -7,7 +7,7 @@ layout: post
 <p >Updated July 30, 2017, with "Face Mask" by Exco Levi. This vibrant track showcases the unique fusion of modern reggae and riddim styles.</p> <!-- Featured Image -->
 <div > <img src="https://www.reggaeville.com/fileadmin/user_upload/excolevi.jpg" alt="Exco Levi - Face Mask" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/KorNyUXC4qk" title="Exco Levi - Face Mask [Margarita Riddim] July 2017" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "KorNyUXC4qk" >}}
 </div> <!-- Song Information -->
 <div > <p>From the track <em>"Face Mask"</em>, part of the <em>Margarita Riddim</em>, Exco Levi blends lyrical depth with dynamic reggae beats, a hallmark of modern reggae excellence.</p>
 </div> <!-- Footer Links -->

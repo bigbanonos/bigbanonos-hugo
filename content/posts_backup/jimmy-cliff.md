@@ -7,7 +7,7 @@ layout: post
 <p >Updated January 1, 2003, with "Trapped" by Jimmy Cliff. A reggae anthem that showcases Cliff's profound message and timeless appeal.</p> <!-- Featured Image -->
 <div > <img src="https://upload.wikimedia.org/wikipedia/commons/b/b6/Jimmy_Cliff_-_Festival_du_Bout_du_Monde_2012_-_022.jpg" alt="Jimmy Cliff - Trapped" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/vCgY4Qpl74Q" title="Jimmy Cliff - 'Trapped'" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "vCgY4Qpl74Q" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Trapped"</em> is featured on the compilation album <strong>Anthology</strong>, released by Hip-O (UC). This track underscores Jimmy Cliff's enduring legacy as a reggae pioneer and a voice of resilience.</p>
 </div> <!-- Footer Links -->

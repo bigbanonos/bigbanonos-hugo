@@ -7,7 +7,7 @@ layout: post
 <p >Updated August 2, 2005, with "Blank Generation" by Richard Hell. Originally released in 1977, this iconic track from the *Spurts: The Richard Hell Story (2013 Remaster)*, under Rhino Records, is a defining anthem of early US punk and protopunk. Watch and listen below!</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d00001e022cde81d804869094109ec047" alt="Richard Hell - Blank Generation" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="560" height="315" src="https://www.youtube.com/embed/Rr9LqFpif7k" title="Richard Hell - Blank Generation" frameborder="0" allowfullscreen></iframe>
+<div > {{< youtube "Rr9LqFpif7k" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Blank Generation"</em>, released in 1977 and remastered for the 2005 *Spurts: The Richard Hell Story* compilation, captures the raw, rebellious energy of the early punk movement. Combining post-punk and protopunk influences, this track remains a timeless declaration of individuality and defiance.</p>
 </div> <!-- Footer Links -->

@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Baby" by Os Mutantes, a classic track from their *Everything is Possible!* album. This piece exemplifies the psychedelic rock and Brazilian tropicalia sound that defined their era.</p> <!-- Featured Image -->
 <div > <img src="https://www.psychedelicbabymag.com/wp-content/uploads/2022/03/Os-Mutantes.jpg" alt="Os Mutantes - Baby" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="601" src="https://www.youtube.com/embed/1WYGgoMRYm0" title="Baby (1968)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "1WYGgoMRYm0" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Baby" (1968)</em> showcases the experimental spirit of Os Mutantes, mixing bossa nova, psychedelic rock, and tropicalia to create a truly unique listening experience.</p>
 </div> <!-- Footer Links -->

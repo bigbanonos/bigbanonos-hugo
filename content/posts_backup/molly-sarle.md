@@ -6,7 +6,7 @@ layout: post
 <a href="https://images.theskinny.co.uk/assets/production/000/139/572/139572_widescreen.3.jpg" imageanchor="1"><img border="0" data-original-height="340" data-original-width="800" height="168" src="https://images.theskinny.co.uk/assets/production/000/139/572/139572_widescreen.3.jpg" width="400" /></a></div>
 <div class="separator" >
 </div>
-<iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/videoseries?list=PLtuNtuTatqI3MjWPyswnE5RweYHxjzZvr" width="100%"></iframe><br />
+{{< youtube "videoseries" >}}<br />
 <h3>
 <ol>
 <li>

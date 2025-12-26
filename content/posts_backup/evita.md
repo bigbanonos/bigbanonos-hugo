@@ -7,7 +7,7 @@ layout: post
 <p >Updated March 20, 2019, with "You Already Know" by Evita. This stunning track captures the essence of LA pop with its smooth vocals and lush production.</p> <!-- Featured Image -->
 <div > <img src="https://i.ytimg.com/vi/WdtFcCyvyU0/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGH8gFShqMA8=&rs=AOn4CLCpqhLLpVAAtrRXnJMsPvPFm44bJw" alt="Evita - You Already Know" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/WtkSslwt8JQ" title="Evita - You Already Know (Official Visualizer)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "WtkSslwt8JQ" >}}
 </div> <!-- Song Information -->
 <div > <p>"You Already Know" delivers a heartfelt performance, blending smooth melodies and evocative lyrics, embodying the LA pop vibe.</p>
 </div> <!-- Footer Links -->

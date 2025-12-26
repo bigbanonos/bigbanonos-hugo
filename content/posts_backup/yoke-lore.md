@@ -7,7 +7,7 @@ layout: post
 <p >Updated with *Fake You* by Yoke Lore, an indie pop hit from the artist's *Fake You* release on March 9, 2018. This song stands out with its unique NYC pop style and emotional lyrics, showcasing Yoke Lore's distinctive sound.</p> <!-- Featured Image -->
 <div > <img src="https://www.billboard.com/wp-content/uploads/media/yoke-lore-fake-you-vid-2018-billboard-1548.jpg?w=942&h=623&crop=1" alt="Yoke Lore - Fake You" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/ttKahjcT2M0" title="Yoke Lore - 'Fake You' (Official Music Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "ttKahjcT2M0" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Fake You"</em> offers an intimate look at Yoke Lore's indie pop roots, blending NYC pop with introspective lyrics. Released in 2018, it remains one of the artist's defining tracks.</p>
 </div> <!-- Footer Links -->

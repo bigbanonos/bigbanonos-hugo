@@ -7,7 +7,7 @@ layout: post
 <p >Updated October 2, 2015, with "Purple Rage" by DILLY DALLY. This electrifying track from their album *Sore* (PTKF) showcases the raw intensity and ethereal layers of Canadian shoegaze and indie punk.</p> <!-- Featured Image -->
 <div > <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9aypUYgR_QB4u-o14jbtSmwZ3-AUf70Ioww&s" alt="DILLY DALLY - Purple Rage" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/CGyRZ8wtsdw" title="Dilly Dally - Purple Rage" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "CGyRZ8wtsdw" >}}
 </div> <!-- Song Information -->
 <div > <p>Exploring the unfiltered emotions of indie punk and the haunting beauty of etherpop, "Purple Rage" stands out as a powerful anthem of rebellion and catharsis.</p>
 </div> <!-- Footer Links -->

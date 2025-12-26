@@ -3,7 +3,7 @@ title: "gories kid creole x machine there but"
 layout: post
 ---
 #covers w/ originals <br />
-<iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/3kBc8sjSPHM?list=PLtuNtuTatqI0T_GCRVtVWFUSn_PgEFzjS" width="95%"></iframe><br />
+{{< youtube "3kBc8sjSPHM" >}}<br />
 There But For The Grace Of God Go I (Machine)
 
 <!--Subscribe and Playlist Links-->

@@ -7,7 +7,7 @@ layout: post
 <p >Updated October 25, 2019, with "Everything" by GHSTWRLD & Metaxas. This mesmerizing track from <em>Majestic Casual Records</em> highlights a seamless fusion of intricate production and soulful melodies.</p> <!-- Featured Image -->
 <div > <img src="https://i1.sndcdn.com/avatars-zEFLZuItaeeuKWCL-2SLP5A-t240x240.jpg" alt="GHSTWRLD & Metaxas - Everything" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/QhwWaSXU0Ws" title="GHSTWRLD & Metaxas - 'Everything'" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "QhwWaSXU0Ws" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Everything"</em> represents the captivating artistry of GHSTWRLD and Metaxas, making waves in the alternative electronic music scene. Released on October 25, 2019, this track embodies the ethos of Majestic Casual Records.</p>
 </div> <!-- Footer Links -->

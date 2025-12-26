@@ -3,7 +3,7 @@ title: "saweetie nani official music video"
 layout: post
 ---
 <p>Updated May 17, 2024 with Saweetie's best song to date, "NANi"</p>
-<iframe frameborder="0" height="270" src="https://youtube.com/embed/WMxovx36ctQ?si=jG6Tk3v3wECTIrHq" width="480"></iframe> <div><br /></div><div><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></div>
+{{< youtube "WMxovx36ctQ" >}} <div><br /></div><div><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></div>
 
 <!--Subscribe and Playlist Links-->
 <div>

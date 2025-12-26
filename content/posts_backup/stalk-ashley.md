@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Young" by Stalk Ashley, from the album *Young*, released on December 6, 2019, by Atlantic Records UK.</p> <!-- Featured Image -->
 <div > <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTE4kodWYuvXRC-k1EfpPjRRxkl1N31U-nHQg&s" alt="Stalk Ashley - Young" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/VHY9OV75Ik4" title="Stalk Ashley - Young | Official Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "VHY9OV75Ik4" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Young"</em> by Stalk Ashley is a track from the album *Young*, released on December 6, 2019. The song blends elements of dancehall and dancehall queen styles, capturing the essence of Caribbean vibes and contemporary rhythms.</p>
 </div> <!-- Footer Links -->

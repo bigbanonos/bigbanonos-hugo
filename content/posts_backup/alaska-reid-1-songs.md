@@ -2,7 +2,7 @@
 title: "alaska reid 1 songs"
 layout: post
 ---
-<h3><iframe allowfullscreen="" frameborder="0" height="270" src="https://www.youtube.com/embed/L4pDdE63lV0" width="480"></iframe></h3><div><h3><ol><li>Boys From Town [2020]</li></ol></h3></div>
+<h3>{{< youtube "L4pDdE63lV0" >}}</h3><div><h3><ol><li>Boys From Town [2020]</li></ol></h3></div>
 
 <!--Subscribe and Playlist Links-->
 <div>

@@ -3,7 +3,7 @@ title: "the ojays"
 layout: post
 ---
 <p >The O'Jays are the epitome of classic soul and Philly soul. Songs like "Let Me Make Love To You" and "Darlin' Darlin' Baby" capture the essence of timeless R&B. Dive into their soulful harmonies below!</p> <div > <img src="https://i.scdn.co/image/ab67616d0000b2737bc09ea8d6c7db1993dfb77d" alt="The O'Jays" />
-</div> <div > <iframe src="https://open.spotify.com/embed/playlist/4gsysVRv541pV8mzuIqeQ1?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</div> <div > {{< youtube "embed" >}}
 </div> <div > <p><em>"Let Me Make Love To You"</em> and <em>"Darlin' Darlin' Baby"</em> showcase The O'Jays' unmatched ability to craft soulful and heartfelt music. A must-listen for any R&B enthusiast!</p>
 </div> <div > <p>For more updates, visit <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Check out our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a> channels for exclusive content!</p>
 

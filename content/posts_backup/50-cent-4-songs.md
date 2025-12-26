@@ -3,7 +3,7 @@ title: "50 cent 4 songs"
 layout: post
 ---
 <p>Ãƒâ€šÃ‚Â </p>
-<iframe src="https://open.spotify.com/embed/playlist/4L8RCMaOtyl2OprLhyoXSs?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+{{< youtube "embed" >}}
 
 <!--Subscribe and Playlist Links-->
 <div>

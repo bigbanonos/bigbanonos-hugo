@@ -6,8 +6,8 @@ layout: post
 </div> <p>Ladytron's blend of dark synthpop, electroclash, and electronica has defined their distinct sound in the indietronica genre. This curated list highlights some of their standout tracks.</p> <h3>Selected Tracks</h3>
 <ol> <li><strong>Destroy Everything You Touch</strong> â€“ <em>Witching Hour (Bonus Track Version)</em> (2005)</li> <li><strong>Fire</strong> â€“ <em>Light & Magic</em> (2002)</li> <li><strong>Oops Oh My</strong> â€“ (Single)</li> <li><strong>Paco!</strong> â€“ (2001)</li>
 </ol> <p>Watch Ladytron's music video:</p>
-<iframe src="https://www.youtube.com/embed/d1VKoRBsXwM" width="100%" height="360" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe> <p>Stream Ladytron's playlist:</p>
-<iframe src="https://open.spotify.com/embed/playlist/2fPz1e5d5YSggQbwczCyQE?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> <h3>Tags</h3>
+{{< youtube "d1VKoRBsXwM" >}} <p>Stream Ladytron's playlist:</p>
+{{< youtube "embed" >}} <h3>Tags</h3>
 <p>@ladytron</p> <p>Check out more on <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos' YouTube channel</a> and follow us on <a href="https://twitter.com/BigBanonos" target="_blank">Twitter</a>!</p> <hr />
 <p><em>First posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
 

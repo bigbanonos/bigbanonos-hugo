@@ -7,7 +7,7 @@ layout: post
 <p >Updated February 24, 2015, with "Hummed Low" by Odessa. This track from the album <em>Odessa</em>, released under Chop Shop Music/Republic Records, blends indie pop with electronic vibes, showcasing Odessa's ethereal and captivating sound.</p> <!-- Featured Image -->
 <div > <img src="https://images.rapgenius.com/73a0e5d2149a5f95780cc06b6c047b0f.1000x395x1.jpg" alt="Odessa - Hummed Low" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="325" src="https://www.youtube.com/embed/Hx-Kx_wwyQ8" title="Odessa - Hummed Low Official Music Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "Hx-Kx_wwyQ8" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Hummed Low"</em> by Odessa is a beautifully atmospheric track from the album <em>Odessa</em>. Released on February 24, 2015, it blends dreamy vocals with electronic beats, offering an enchanting listening experience.</p>
 </div> <!-- Footer Links -->

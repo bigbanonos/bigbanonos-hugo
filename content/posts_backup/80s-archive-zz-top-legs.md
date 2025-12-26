@@ -5,9 +5,9 @@ layout: post
 <!-- Post Title -->
 <h1>BigBanonos' Pick for the Best Song by ZZ Top</h1> <!-- Introductory Text -->
 <p>Updated November 27, 2024, with BigBanonos' pick for the best song by ZZ Top: "Legs" from 1983, highlighted in the video below:</p> <!-- Featured Image -->
-<img src="https://m.media-amazon.com/images/M/MV5BYmYwMzhjOTItMGQ1Mi00ZWIxLTk0ZGMtYjI0ODc4MTQ0YWFhXkEyXkFqcGdeQXVyMjY3MjUzNDk%40._V1_FMjpg_UX1000_.jpg" alt="ZZ Top Featured Image"> <!-- YouTube Video Embed -->
+{{< img-lite src="https://m.media-amazon.com/images/M/MV5BYmYwMzhjOTItMGQ1Mi00ZWIxLTk0ZGMtYjI0ODc4MTQ0YWFhXkEyXkFqcGdeQXVyMjY3MjUzNDk%40._V1_FMjpg_UX1000_.jpg" alt="ZZ Top Featured Image" >}} <!-- YouTube Video Embed -->
 <h2>Watch "Legs" by ZZ Top on YouTube</h2>
-<iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/eUDcTLaWJuo?list=PLtuNtuTatqI3ADcM_zLmgfpkLlcO5e9Pw" width="95%"></iframe> <!-- Song Information -->
+{{< youtube "eUDcTLaWJuo" >}} <!-- Song Information -->
 <ul> <li>"Legs" (1983) - A quintessential track showcasing ZZ Top's blend of blues-rock and 1980s pop sensibility.</li>
 </ul> <!-- Footer Links -->
 <p>For more updates and playlists, visit <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Connect with us on <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p>

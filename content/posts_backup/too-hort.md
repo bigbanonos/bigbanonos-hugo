@@ -6,8 +6,8 @@ layout: post
 <div class="separator"> <a href="https://www.okayplayer.com/media-library/too-hort.jpg?id=33161506&width=980" > <img alt="Too $hort" border="0" width="320" data-original-height="480" data-original-width="640" src="https://www.okayplayer.com/media-library/too-hort.jpg?id=33161506&width=980"/> </a>
 </div>
 <p>Too $hortâ€™s West Coast rap legacy spans decades, blending golden age hip hop with hyphy and Oakland grit. Here are BigBanonos' favorite tracks:</p> <ol> <li><strong>I Got Caught (Official Video)</strong> (feat. Martin Luther) | Released: 2012</li> <li><strong>Gettin' It (Stream)</strong> (feat. Parliament Funkadelic) | Released: 1996-05-21 | Jive</li> <li><strong>Cocktales (Stream)</strong> | Released: 1995-01-24 | Jive</li> <li><strong>In The Trunk (Stream)</strong> | Released: 1992-07-14 | Jive</li> <li><strong>Freaky Tales (Stream)</strong> | Released: 1988-09-11 | Jive</li>
-</ol> <div> <iframe src="https://open.spotify.com/embed/playlist/34aJJspamm6PlwVdJuznFh?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-</div> <div> <iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/qbeYZK4pRUQ?list=PLtuNtuTatqI3X01zTqiujiaUhFaK1PjKA" width="95%"></iframe><br />
+</ol> <div> {{< youtube "embed" >}}
+</div> <div> {{< youtube "qbeYZK4pRUQ" >}}<br />
 </div> <p>Explore more on <a href="https://bigbanonos.blogspot.com/">BigBanonos</a>, or check out BigBanonos on <a href="https://www.youtube.com/@BigBanonos">YouTube</a> and <a href="https://x.com/bigbanonos">Twitter</a>.</p> <p>Tags: @tooshort,@martinluther,@parliamentfunkadelic</p>
 
 

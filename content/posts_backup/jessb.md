@@ -7,7 +7,7 @@ layout: post
 <p >Updated May 3, 2019, with "Bump Bump" by JessB featuring Church. This high-energy track represents the best of NZ hip hop, blending sharp lyrics with a powerful beat.</p> <!-- Featured Image -->
 <div > <img src="https://concord.com/wp-content/uploads/2022/12/jessb.jpg" alt="JessB - Bump Bump" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/ft-nT9dizLo" title="JessB - 'Bump Bump'" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "ft-nT9dizLo" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Bump Bump"</em>, released under JessB's self-titled project, is a standout example of her dynamic style. Featuring Church, the track delivers infectious energy and fierce lyricism, making it a must-listen for fans of modern hip hop.</p>
 </div> <!-- Footer Links -->

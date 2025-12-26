@@ -6,8 +6,8 @@ layout: post
 <div class="separator"> <a href="https://freemusicarchive.org/image/?file=images%2Fartists%2FAlmighty_Defenders_-_20100607132254307.jpg&width=290&height=290&type=artist" > <img alt="The Almighty Defenders Album Cover" border="0" height="350" src="https://freemusicarchive.org/image/?file=images%2Fartists%2FAlmighty_Defenders_-_20100607132254307.jpg&width=290&height=290&type=artist" /> </a>
 </div> <p>This list is a <em>BigBanonos</em> selection of The Almighty Defenders' top songs, highlighting tracks from their self-titled album released in 2009."</p> <ol> <li><strong>Bow Down And Die</strong> â€ <em>2009</em> â€ Vice Records</li> <li><strong>Cone Of Light</strong> â€ <em>2009</em> â€ Vice Records</li>
 </ol> <p>Discover more from The Almighty Defenders on Spotify:</p>
-<iframe src="https://open.spotify.com/embed/playlist/7Bj7NYFGB5xS7MCNP1dDzD?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> <p>Watch the official video for "Cone of Light":</p>
-<iframe width="1013" height="618" src="https://www.youtube.com/embed/XKUgHEy45ec" title="The Almighty Defenders - Cone of Light" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> <hr />
+{{< youtube "embed" >}} <p>Watch the official video for "Cone of Light":</p>
+{{< youtube "XKUgHEy45ec" >}} <hr />
 <p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
 
 

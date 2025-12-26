@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "We're Calling U" by Silk. This 1999 R&B classic blends smooth vocals with a groove that remains timeless. Watch the video below!</p> <!-- Featured Image -->
 <div > <img src="https://i.ytimg.com/vi/30wPZ5C5e9g/maxresdefault.jpg" alt="Silk - We're Calling U" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="685" height="457" src="https://www.youtube.com/embed/dPaXYa0m6Qs" frameborder="0" allowfullscreen></iframe>
+<div > {{< youtube "dPaXYa0m6Qs" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"We're Calling U"</em> by Silk, released in 1999, showcases the group's mastery of R&B with lush harmonies and a heartfelt message.</p>
 </div> <!-- Footer Links -->

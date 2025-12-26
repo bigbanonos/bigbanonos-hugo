@@ -2,7 +2,7 @@
 title: "celeste"
 layout: post
 ---
-<br /><div class="separator" ><iframe allowfullscreen="" class="BLOG_video_class" height="266" src="https://www.youtube.com/embed/aKXFqLNFuaI" width="320" youtube-src-id="aKXFqLNFuaI"></iframe></div><h3 ><ol><li>I Can See The Change [2020]</li></ol></h3>
+<br /><div class="separator" >{{< youtube "aKXFqLNFuaI" >}}</div><h3 ><ol><li>I Can See The Change [2020]</li></ol></h3>
 
 <!--Subscribe and Playlist Links-->
 <div>

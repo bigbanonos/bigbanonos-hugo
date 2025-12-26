@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Rumore" by Raffaella CarrÃƒÆ’Ã‚Â , from the album *Raffaella CarrÃƒÆ’Ã‚Â *, released on November 10, 2017, by RCA Records Label.</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab6761610000e5ebb11ef713e00db56ccb769274" alt="Raffaella CarrÃƒÆ’Ã‚Â  - Rumore" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="514" src="https://www.youtube.com/embed/mAXLeF_hpmk" title="Raffaella CarrÃƒÆ’Ã‚Â  - Rumore (60 FPS HQ) 1974" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "mAXLeF_hpmk" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Rumore"</em> by Raffaella CarrÃƒÆ’Ã‚Â  is a track from the album *Raffaella CarrÃƒÆ’Ã‚Â *, released on November 10, 2017. The song is a vibrant piece of classic Italian pop that continues to define the legacy of the beloved singer.</p>
 </div> <!-- Footer Links -->

@@ -2,7 +2,7 @@
 title: "clio 1 song"
 layout: post
 ---
-<iframe frameborder="0" height="360" src="https://youtube.com/embed/Sy_x-KQtuHk" width="480"></iframe><h2><ol><li>Quelqu'un quelque part</li></ol></h2>
+{{< youtube "Sy_x-KQtuHk" >}}<h2><ol><li>Quelqu'un quelque part</li></ol></h2>
 
 <!--Subscribe and Playlist Links-->
 <div>

@@ -5,7 +5,7 @@ layout: post
 <h3>BigBanonos Favorite Song by Rose Gray</h3>
 <p>Updated December 30, 2024</p> <!-- YouTube Video Embed -->
 <h4>Watch "Party People" (Official Visualiser):</h4>
-<div > <iframe width="685" height="385" src="https://www.youtube.com/embed/sMndhNF-nyI" title="Rose Gray - Party People (Official Visualiser)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "sMndhNF-nyI" >}}
 </div> <!-- Footer Links -->
 <hr />
 <p>For more updates, visit <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_blank">BigBanonos</a>. Also, check out our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> channel and follow us on <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a> for exclusive content!</p>

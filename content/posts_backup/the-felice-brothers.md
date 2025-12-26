@@ -4,9 +4,9 @@ layout: post
 ---
 <!-- The Felice Brothers - BigBanonos' Favorite Songs -->
 <h1 >BigBanonosâ€™ Favorite Songs by The Felice Brothers</h1>
-<div > <img src="https://i.scdn.co/image/ab6761610000e5eb9a7482d55f535bfe31fd2498" alt="The Felice Brothers">
+<div > {{< img-lite src="https://i.scdn.co/image/ab6761610000e5eb9a7482d55f535bfe31fd2498" alt="The Felice Brothers" >}}
 </div>
-<div > <iframe src="https://open.spotify.com/embed/playlist/5kFosyD0GGQlrP7JxLE0hb?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div>
 <p >The Felice Brothers combine alternative country with modern folk rock to create deeply evocative tracks. These songs showcase their storytelling prowess and dynamic sound.</p>
 <div > <p>BigBanonos' standout picks:</p> <ol> <li><strong>Frankieâ€™s Gun!</strong> | <em>The Felice Brothers</em> | Released: March 4, 2008 | New York Pro</li> <li><strong>Love Me Tenderly</strong> | <em>The Felice Brothers</em> | Released: March 4, 2008 | New York Pro</li> </ol>

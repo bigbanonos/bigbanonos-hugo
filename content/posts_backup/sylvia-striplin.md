@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "You Can't Turn Me Away" by Sylvia Striplin, from the *Late Night Tales: Another Late Night - Zero 7* compilation, released on March 23, 2012.</p> <!-- Featured Image -->
 <div > <img src="https://i.ytimg.com/vi/L3RkUVnYGnE/sddefault.jpg" alt="Sylvia Striplin - You Can't Turn Me Away" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="601" src="https://www.youtube.com/embed/f1RAGrPqF1s" title="You Can't Turn Me Away" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "f1RAGrPqF1s" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"You Can't Turn Me Away"</em> by Sylvia Striplin is a soulful track featured in the *Late Night Tales: Another Late Night - Zero 7* compilation, released on March 23, 2012. The song embodies a smooth blend of classic soul and jazz influences.</p>
 </div> <!-- Footer Links -->

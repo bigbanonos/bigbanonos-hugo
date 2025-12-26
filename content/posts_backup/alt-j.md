@@ -4,9 +4,9 @@ layout: post
 ---
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by alt-J</h1> <!-- Featured Image -->
-<div > <img src="https://i.scdn.co/image/ab6761610000e5eb3fb5214e667e278a20878a6b" alt="alt-J">
+<div > {{< img-lite src="https://i.scdn.co/image/ab6761610000e5eb3fb5214e667e278a20878a6b" alt="alt-J" >}}
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/1r7FeqnpCSVaX9YSNWJJdt?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Introductory Text -->
 <p >alt-Jâ€™s distinctive blend of indie rock and indietronica has captivated listeners worldwide. From "Breezeblocks" to "Something Good," here are BigBanonos' favorite tracks by this innovative band.</p> <!-- Song Highlights -->
 <div > <p>BigBanonos' standout picks:</p> <ol> <li><strong>Breezeblocks</strong> | <em>An Awesome Wave</em> | Released: May 25, 2012 | Canvasback/ATL</li> <li><strong>Something Good</strong> | <em>An Awesome Wave</em> | Released: May 25, 2012 | Canvasback/ATL</li> </ol>

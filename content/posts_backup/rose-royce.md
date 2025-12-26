@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Ooh Boy" (Edit) by Rose Royce, from the album *Rhino Hi-Five: Rose Royce*, released on May 22, 2007, by Rhino/Warner Records.</p> <!-- Featured Image -->
 <div > <img src="https://i.ytimg.com/vi/4_RQ3eEpuss/maxresdefault.jpg" alt="Rose Royce - Ooh Boy (Edit)" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="601" src="https://www.youtube.com/embed/L--WMUkSfPE" title="Ooh Boy (Edit)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "L--WMUkSfPE" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Ooh Boy"</em> (Edit) by Rose Royce is a track from the album *Rhino Hi-Five: Rose Royce*, released on May 22, 2007. This song embodies the classic soul and funk vibes of Rose Royce, blending elements of disco, Motown, and quiet storm with smooth and infectious rhythms.</p>
 </div> <!-- Footer Links -->

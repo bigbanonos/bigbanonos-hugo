@@ -7,7 +7,7 @@ layout: post
 <p >Updated January 1, 2010, with "Hello Good Morning - Remix" by Diddy - Dirty Money featuring Nicki Minaj and Rick Ross. This energetic remix combines pop rap, southern hip hop, and trap influences, creating a track that dominated club scenes and airwaves alike. Watch the video below!</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d0000b2731936f98ef1f8da7c5b366222" alt="Diddy - Dirty Money (ft. Nicki Minaj & Rick Ross) - Hello Good Morning (Remix)" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="560" height="315" src="https://www.youtube.com/embed/5n9m9sU0pN8" frameborder="0" allowfullscreen></iframe>
+<div > {{< youtube "5n9m9sU0pN8" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Hello Good Morning - Remix"</em>, released on January 1, 2010, under Bad Boy/Interscope, is a dynamic collaboration between Diddy - Dirty Money, Nicki Minaj, and Rick Ross. With its fusion of pop rap, dirty south beats, and high-energy trap influences, the track showcases the star power and stylistic range of its contributors, cementing it as a modern hip-hop classic.</p>
 </div> <!-- Footer Links -->

@@ -7,7 +7,7 @@ layout: post
 <p >Updated August 14, 2001, with "Lifetime" by Maxwell, now available as a 2021 remaster. This soulful track from the album <em>Now</em>, released under Columbia Records, is a stunning example of contemporary R&B and neo-soul, blending emotional depth with smooth production.</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d0000b27315787c89836a4b06c7c7c488" alt="Maxwell - Lifetime (Remastered 2021)" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/gMAHTZ2nBvk" title="Maxwell - Lifetime (Official HD Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "gMAHTZ2nBvk" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Lifetime"</em> by Maxwell is a neo-soul masterpiece, encapsulating the essence of quiet storm and urban contemporary R&B. From the album <em>Now</em>, this 2021 remaster rejuvenates the trackâ€™s lush instrumentation and heartfelt lyrics, making it as timeless as ever.</p>
 </div> <!-- Footer Links -->

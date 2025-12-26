@@ -2,7 +2,7 @@
 title: "quickly quickly 1 song"
 layout: post
 ---
-<iframe frameborder="0" height="360" src="https://youtube.com/embed/z_RFTrb-GyQ" width="480"></iframe><h2><ol><li>Everything is Different (To Me)</li></ol></h2>
+{{< youtube "z_RFTrb-GyQ" >}}<h2><ol><li>Everything is Different (To Me)</li></ol></h2>
 
 <!--Subscribe and Playlist Links-->
 <div>

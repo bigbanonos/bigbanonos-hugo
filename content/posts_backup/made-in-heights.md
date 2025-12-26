@@ -7,7 +7,7 @@ layout: post
 <p >Updated May 26, 2015, with "Ghosts" by Made in Heights. This ethereal track from the album <em>Without My Enemy What Would I Do</em>, released under HEIGHTS, showcases the dreamy blend of gauze pop and vapor pop.</p> <!-- Featured Image -->
 <div > <img src="https://images.genius.com/c843459b0e654dd79f9fb2f262e6ab61.1000x1000x1.jpg" alt="Made in Heights - Ghosts" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/yX9SEkpJ-VQ" title="Ghosts" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "yX9SEkpJ-VQ" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Ghosts"</em> by Made in Heights is a hypnotic fusion of gauze pop and vapor pop. With its airy production and captivating vocals, this track from <em>Without My Enemy What Would I Do</em> delivers a unique sonic experience that lingers long after it ends.</p>
 </div> <!-- Footer Links -->

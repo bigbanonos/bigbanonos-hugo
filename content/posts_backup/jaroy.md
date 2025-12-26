@@ -7,7 +7,7 @@ layout: post
 <p >Updated August 23, 2019, with "Flaunt That" by Ja'roy, Tory Lanez, and Honorebel, a sleek fusion of Canadian hip hop and melodic rap, from the album <em>Flaunt That</em>, released under MaxRoy Music Group.</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d0000b273b49b772abbb35305232f6044" alt="Ja'roy, Tory Lanez & Honorebel - Flaunt That" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/dNlqllyTobo" title="Ja'Roy - Flaunt That ft. Tory Lanez & Honorebel (Official Music Video)" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "dNlqllyTobo" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Flaunt That"</em> is a standout track that blends Canadian hip hop, melodic rap, and trap influences. The collaboration of Ja'roy, Tory Lanez, and Honorebel brings dynamic energy and smooth vibes to this must-hear anthem.</p>
 </div> <!-- Footer Links -->

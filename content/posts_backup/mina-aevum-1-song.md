@@ -2,7 +2,7 @@
 title: "mina aevum 1 song"
 layout: post
 ---
-<iframe frameborder="0" height="360" src="https://youtube.com/embed/Bvoje_dLpb4?list=PLtuNtuTatqI0xzWsdkbu6LzNcit7wvOCG" width="480"></iframe><h2><ol><li>Paparazzi [2022]</li></ol></h2>
+{{< youtube "Bvoje_dLpb4" >}}<h2><ol><li>Paparazzi [2022]</li></ol></h2>
 
 <!--Subscribe and Playlist Links-->
 <div>

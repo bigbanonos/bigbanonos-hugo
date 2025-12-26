@@ -4,9 +4,9 @@ layout: post
 ---
 <!-- Title of the Post -->
 <h1>BigBanonosâ€™ Favorite Songs by Sasha Alex Sloan</h1> <!-- Featured Image -->
-<div> <img src="https://assets.teenvogue.com/photos/5dded0996f44a90008d03600/master/pass/promo_sasha_sloan.jpg" alt="Sasha Alex Sloan">
+<div> {{< img-lite src="https://assets.teenvogue.com/photos/5dded0996f44a90008d03600/master/pass/promo_sasha_sloan.jpg" alt="Sasha Alex Sloan" >}}
 </div> <!-- Spotify Embed -->
-<div> <iframe src="https://open.spotify.com/embed/playlist/2ODkBmjzYPsP79LTOKy2EY?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div> {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <h3>Top Songs by Sasha Alex Sloan:</h3>
 <ol> <li><strong>at least i look cool</strong> | Album: <em>at least i look cool</em> | Released: July 19, 2019 | Label: RCA Records Label</li> <li><strong>Thoughts</strong> | Album: <em>Thoughts</em> | Released: May 31, 2019 | Label: RCA Records Label</li>

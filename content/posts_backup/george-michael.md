@@ -7,7 +7,7 @@ layout: post
 <p >Updated January 17, 2025, with "Freedom! '90" from <em>Ladies And Gentlemen... The Best Of George Michael</em>. Dive into the iconic hits of George Michael in the playlist below!</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab6761610000e5ebd919dbf4e6ed3e695ba6339d" alt="George Michael" />
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/0vaXd5Amllrkdp5Z0PlCrV?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <div > <p><strong>"Freedom! '90"</strong><br> Genre: Pop, Rock<br> Album: <em>Ladies And Gentlemen... The Best Of George Michael</em><br> Release Date: November 9, 1998<br> Label: Sony Music Entertainment</p> <p><strong>"Faith - Remastered"</strong><br> Genre: Pop, Rock<br> Album: <em>Faith</em><br> Release Date: October 30, 1987<br> Label: Epic</p>
 </div> <!-- Footer Links -->

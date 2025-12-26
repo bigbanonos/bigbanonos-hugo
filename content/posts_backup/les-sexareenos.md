@@ -2,7 +2,7 @@
 title: "les sexareenos"
 layout: post
 ---
-<h2>BigBanonos' Favorite Songs by Les Sexareenos</h2> <p><strong>Updated 2001, with "We Gonna Ball" from <em>14 Frenzied Shakers</em></strong></p> <img src="https://i.scdn.co/image/ab67616d0000b273186069b382c05bdfe4cbd371" width="100%" alt="Les Sexareenos"> <p>Les Sexareenos brought wild, raucous garage rock and psychobilly energy. Below are BigBanonos' favorite songs.</p> <h3>Listen on Spotify</h3> <iframe src="https://open.spotify.com/embed/playlist/5FbydUWunGY1mmLrxpvr2e?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> <h3>"We Gonna Ball"</h3>
+<h2>BigBanonos' Favorite Songs by Les Sexareenos</h2> <p><strong>Updated 2001, with "We Gonna Ball" from <em>14 Frenzied Shakers</em></strong></p> {{< img-lite src="https://i.scdn.co/image/ab67616d0000b273186069b382c05bdfe4cbd371" alt="Les Sexareenos" >}} <p>Les Sexareenos brought wild, raucous garage rock and psychobilly energy. Below are BigBanonos' favorite songs.</p> <h3>Listen on Spotify</h3> {{< youtube "embed" >}} <h3>"We Gonna Ball"</h3>
 <p><em>14 Frenzied Shakers</em>, Sympathy for the Record Industry, 2001</p> <h3>"Put Out"</h3>
 <p><em>14 Frenzied Shakers</em>, Sympathy for the Record Industry, 2001</p> <hr /> <p><strong>Tags:</strong> @lessexareenos</p> <hr /> <p><em>First posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
 

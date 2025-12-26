@@ -7,7 +7,7 @@ layout: post
 <p >Updated June 30, 2017, with BigBanonos' favorite track, "Money Topic" by Chase Cross and Flexxx. This standout from the *La Vida Riddim* series is produced by Lee Milla Productions.</p> <!-- Featured Image -->
 <div > <img src="https://i.ytimg.com/vi/pUOcp9MlGCc/sddefault.jpg" alt="Chase Cross and Flexxx - Money Topic" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/Ina8BboD4fA" title="CHASE CROSS & FLEXXX - MONEY A THE TOPIC (Official Audio) | Prod. LEE MILLA | LA VIDA RIDDIM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "Ina8BboD4fA" >}}
 </div> <!-- Song Information -->
 <div > <p>"Money Topic," released on June 30, 2017, is a vibrant track from the *La Vida Riddim* collection. Chase Cross and Flexxx deliver sharp verses, capturing the essence of the riddim genre with Lee Milla's signature production style.</p>
 </div> <!-- Footer Links -->

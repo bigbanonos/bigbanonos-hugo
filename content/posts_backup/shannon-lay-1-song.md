@@ -2,7 +2,7 @@
 title: "shannon lay 1 song"
 layout: post
 ---
-<iframe frameborder="0" height="270" src="https://youtube.com/embed/a0et8HzbbDo" width="480"></iframe><h2><ol><li>Awaken and Allow / Geist [2021]</li></ol></h2>
+{{< youtube "a0et8HzbbDo" >}}<h2><ol><li>Awaken and Allow / Geist [2021]</li></ol></h2>
 
 <!--Subscribe and Playlist Links-->
 <div>

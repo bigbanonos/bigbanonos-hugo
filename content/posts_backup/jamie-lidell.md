@@ -7,7 +7,7 @@ layout: post
 <p >Updated October 27, 2006, with "Multiply" by Jamie Lidell. This soulful track from *Grey's Anatomy Volume 2 Original Soundtrack* seamlessly blends funk, funktronica, and pop soul, showcasing Lidell's vibrant energy and unique vocal stylings.</p> <!-- Featured Image -->
 <div > <img src="https://www.aulart.com/wp-content/uploads/2022/03/Jamie-Lidell-Masterclass-.jpg" alt="Jamie Lidell - Multiply" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/fkqIsSTWSsc" title="Jamie Lidell - Multiply" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "fkqIsSTWSsc" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Multiply"</em> captures the essence of Jamie Lidell's genre-defying approach, merging retro funk grooves with modern funktronica elements. Its inclusion in the *Grey's Anatomy Volume 2* soundtrack further cemented its place as a fan favorite.</p>
 </div> <!-- Footer Links -->

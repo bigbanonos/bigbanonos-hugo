@@ -2,7 +2,7 @@
 title: "mclusky"
 layout: post
 ---
-<h2>BigBanonos' Favorite Songs by McLusky</h2> <p><strong>Updated February 25, 2002, with "To Hell With Good Intentions" from <em>Mclusky Do Dallas</em></strong></p> <img src="https://i.scdn.co/image/ab67616d00001e027000b938f8dcf9a1d21ea595" width="100%" alt="McLusky"> <p>McLusky were loud, aggressive, and brilliant. Below are BigBanonos' favorite songs.</p> <h3>Listen on Spotify</h3> <iframe src="https://open.spotify.com/embed/playlist/0IP1th5aQPxYGaK0sPv1u5?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> <h3>"To Hell With Good Intentions"</h3>
+<h2>BigBanonos' Favorite Songs by McLusky</h2> <p><strong>Updated February 25, 2002, with "To Hell With Good Intentions" from <em>Mclusky Do Dallas</em></strong></p> {{< img-lite src="https://i.scdn.co/image/ab67616d00001e027000b938f8dcf9a1d21ea595" alt="McLusky" >}} <p>McLusky were loud, aggressive, and brilliant. Below are BigBanonos' favorite songs.</p> <h3>Listen on Spotify</h3> {{< youtube "embed" >}} <h3>"To Hell With Good Intentions"</h3>
 <p><em>Mclusky Do Dallas</em>, 2002</p> <h3>"Lightsabre Cocksucking Blues"</h3>
 <p><em>Mclusky Do Dallas</em>, 2002</p> <h3>"She Will Only Bring You Happiness" (2024 Remaster)</h3>
 <p><em>The Difference Between Me and You Is That I'm Not On Fire</em>, 2004</p> <h3>"Collagen Rock"</h3>

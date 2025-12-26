@@ -7,7 +7,7 @@ layout: post
 <p >Updated June 5, 2015, with "Still Someone" by The Deslondes. This track from their self-titled album, released under New West Records, showcases their blend of alternative country and New Orleans-inspired Americana.</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d00001e02eeac039419b675be02377e70" alt="The Deslondes - Still Someone" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/hW7_pMmNNHE" title="Still Someone" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "hW7_pMmNNHE" >}}
 </div> <!-- Song Information -->
 <div > <p>"Still Someone" is a soulful, Americana-infused song that highlights The Deslondes' rich storytelling and roots-inspired sound, making it a standout from their debut album.</p>
 </div> <!-- Footer Links -->

@@ -7,7 +7,7 @@ layout: post
 <p >Updated February 22, 2005, with "Instilled with Mem'ry" by Howling Hex. This standout track from their album *All-Night Fox* blends experimental rock with a hypnotic rhythm and raw, emotive vocals. Watch the video below!</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab6772690000c46c474de984a02a80d370ab25ed" alt="Howling Hex - Instilled with Mem'ry" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="733" height="480" src="https://www.youtube.com/embed/HJBvUoVBi7k" title="Howling Hex - Instilled With Mem'ry" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "HJBvUoVBi7k" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Instilled with Mem'ry"</em>, released on February 22, 2005, as part of the album *All-Night Fox* under Fat Possum Records, showcases Howling Hexâ€™s experimental approach to rock. Its unique blend of intricate guitar work and hauntingly introspective lyrics make it a standout track in their discography.</p>
 </div> <!-- Footer Links -->

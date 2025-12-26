@@ -4,9 +4,9 @@ layout: post
 ---
  <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Dick Diver</h1> <!-- Featured Image -->
-<div > <img src="https://i.scdn.co/image/3e53b0e3dbc76975ccdb6c4701d70e36b8b2db06" alt="Dick Diver">
+<div > {{< img-lite src="https://i.scdn.co/image/3e53b0e3dbc76975ccdb6c4701d70e36b8b2db06" alt="Dick Diver" >}}
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/66FSY6TRFIfs36LQzbcr6y?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Introductory Text -->
 <p >Australian indie band Dick Diver crafts atmospheric melodies with tracks like "Competition" and "Blue & That." BigBanonos celebrates their unique sound from *Melbourne, Florida* and *Calendar Days*.</p> <!-- Song Highlights -->
 <div > <p>BigBanonos' standout picks:</p> <ol> <li><strong>Competition</strong> | <em>Melbourne, Florida</em> | Released: March 9, 2015 | Trouble In Mind Records</li> <li><strong>Blue & That</strong> | <em>Calendar Days</em> | Released: March 15, 2013 | Chapter Music</li> </ol>

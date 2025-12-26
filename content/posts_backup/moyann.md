@@ -7,7 +7,7 @@ layout: post
 <p >Updated September 13, 2019, with "Take Him Over" by Moyann. This track from the album <em>Flammable Riddim</em>, released under Good Good Productions, brings a fresh energy to the dancehall scene, combining a catchy melody with a dancehall queen vibe.</p> <!-- Featured Image -->
 <div > <img src="https://img.redbull.com/images/c_limit,w_1500,h_1000/f_auto,q_auto/redbullcom/2020/9/10/ebl4gpkzpeutakqajbvm/moyann" alt="Moyann - Take Him Over" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/vvkF6cWwx-U" title="Moyann - Take Him Over (Official Audio)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "vvkF6cWwx-U" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Take Him Over"</em> by Moyann is a dynamic dancehall track from the album <em>Flammable Riddim</em>. Released by Good Good Productions, it showcases Moyann's ability to combine infectious beats with dancehall queen energy, making it a perfect anthem for the genre.</p>
 </div> <!-- Footer Links -->

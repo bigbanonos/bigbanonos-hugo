@@ -4,7 +4,7 @@ layout: post
 ---
 <h3>Nick Lowe</h3>
 <img src="https://i.scdn.co/image/ab67616d00001e02cadbfaeb3b6a5afbdcd1acf4">
-<iframe src="https://open.spotify.com/embed/playlist/3o2uP1g7BpN0S75qljGTR9?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+{{< youtube "embed" >}}
 <p>
 <strong>Nick Lowe â€“ "Hope for Us All"</strong> (2007) â€“ <em>At My Age</em> â€“ Yep Roc Records<br>
 <strong>Nick Lowe â€“ "I Love the Sound of Breaking Glass"</strong> (1978) â€“ <em>Jesus of Cool</em> â€“ Yep Roc Records<br>

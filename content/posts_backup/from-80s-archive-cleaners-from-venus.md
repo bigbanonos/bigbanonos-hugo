@@ -3,7 +3,7 @@ title: "from 80s archive cleaners from venus"
 layout: post
 ---
 <h2>Cleaners From Venus â€“ Essential Tracks</h2> <div > <img src="https://i1.wp.com/bandcampdaily.wpcomstaging.com/wp-content/uploads/2018/07/newell-600.jpg?resize=600%2C400&ssl=1" alt="Cleaners From Venus" width="500" />
-</div> <iframe src="https://open.spotify.com/embed/playlist/2Qd0LqF46hQdtZHZk3OHdW?utm_source=generator" width="100%" height="352" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> <h3>Tracklist</h3>
+</div> {{< youtube "embed" >}} <h3>Tracklist</h3>
 <ul> <li><strong>Please Don't Step on My Rainbow</strong> â€“ <em>In the Golden Autumn</em> (1983)</li> <li><strong>Corridor of Dreams</strong> â€“ <em>Midnight Cleaners</em> (1982)</li> <li><strong>Only a Shadow</strong> â€“ <em>Midnight Cleaners</em> (1982)</li> <li><strong>Helpless</strong> â€“ <em>Blow Away Your Troubles</em> (1981)</li>
 </ul> <h3>Highlights</h3>
 <ul> <li><strong>Corridor of Dreams</strong>: A classic lo-fi track blending dreamlike melodies with experimental sounds.</li> <li><strong>Only a Shadow</strong>: A quintessential example of the band's nostalgic, post-punk vibe.</li> <li><strong>Helpless</strong>: An introspective piece showcasing their early experimental roots.</li>

@@ -7,7 +7,7 @@ layout: post
 <p >Updated January 17, 1974, with "Fear Is A Man's Best Friend" from <em>Fear</em>. Discover the innovative artistry of John Cale in the playlist below!</p> <!-- Featured Image -->
 <div > <img src="https://static.tvtropes.org/pmwiki/pub/images/john_cale.jpg" alt="John Cale" />
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/51EPrMjzpmK3NSdpo44UMP?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <div > <p><strong>"Fear Is A Man's Best Friend"</strong><br> Genre: Rock, Folk/Acoustic<br> Album: <em>Fear</em><br> Release Date: January 1, 1974<br> Label: Universal-Island Records Ltd.</p> <p><strong>"You Know More Than I Know"</strong><br> Genre: Rock, Folk/Acoustic<br> Album: <em>Fear</em><br> Release Date: January 1, 1974<br> Label: Universal-Island Records Ltd.</p>
 </div> <!-- Footer Links -->

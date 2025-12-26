@@ -7,7 +7,7 @@ layout: post
 <p >Updated May 12, 2006, with "Rally" by Phoenix. This upbeat and infectious track from *It's Never Been Like That (Deluxe Version)* showcases the bandâ€™s signature blend of indie rock and shimmering pop. Watch and listen below!</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d00001e024ba84e6d1472a0eb41ad2158" alt="Phoenix - Rally" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="733" height="480" src="https://www.youtube.com/embed/BG8zWZpRcS8" title="Rally - Phoenix" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "BG8zWZpRcS8" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Rally"</em>, released on May 12, 2006, under Parlophone (France), is a standout track from Phoenixâ€™s *It's Never Been Like That (Deluxe Version)*. The songâ€™s dynamic instrumentation and polished production make it a timeless favorite, cementing Phoenix as icons of modern indie rock.</p>
 </div> <!-- Footer Links -->

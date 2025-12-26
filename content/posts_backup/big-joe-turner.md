@@ -7,7 +7,7 @@ layout: post
 <p >Updated July 7, 2017, with BigBanonos' favorite song by Big Joe Turner, "Flip, Flop & Fly - Mono." Released under Rhino Atlantic, this timeless track brings the energy of jump blues and rhythm and blues. Watch the video and see more details below:</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d00001e0232ebd864fea683b32f1fddeb" alt="Big Joe Turner - Flip, Flop & Fly" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/aNpvOUmXglM" title="Big Joe Turner Flip Flop & Fly" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "aNpvOUmXglM" >}}
 </div> <!-- Song Information -->
 <div > <p>"Flip, Flop & Fly - Mono" by Big Joe Turner is a vibrant celebration of blues, featuring his powerhouse vocals and an infectious rhythm. Released on July 7, 2017, as part of *Atlantic Rock & Roll* under Rhino Atlantic, this 2:47-long track captures the spirit of jump blues and traditional rhythm and blues, making it a favorite for BigBanonos.</p>
 </div> <!-- Footer Links -->

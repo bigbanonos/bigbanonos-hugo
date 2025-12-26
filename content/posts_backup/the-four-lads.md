@@ -7,7 +7,7 @@ layout: post
 <p >The Four Lads brought vocal harmonies to life with timeless tracks that continue to charm listeners. Explore BigBanonos' favorite songs by The Four Lads below!</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d00001e021808521e2b8591afd37a96ad" alt="The Four Lads - BigBanonos Favorite Songs" />
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/5Ybehm26frSBnrkdPlGAJn?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Standing On the Corner"</em> is a charming tune showcasing their smooth harmonies, from the 1953 release <strong>16 Most Requested Songs</strong>.</p> <p><em>"Istanbul (Not Constantinople)"</em> remains an enduring classic with its quirky rhythm and memorable melody. Featured on <strong>16 Most Requested Songs</strong>, released in 1953.</p>
 </div> <!-- Footer Links -->

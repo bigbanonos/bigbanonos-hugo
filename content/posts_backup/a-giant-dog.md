@@ -7,7 +7,7 @@ layout: post
 <p >Updated February 15, 2013, with BigBanonos' favorite song by A Giant Dog, "Virgin Girl," from their album *Bone*. Watch the video and see more details below:</p> <!-- Featured Image -->
 <div > <img src="https://f4.bcbits.com/img/0032985263_25.jpg" alt="A Giant Dog - Virgin Girl" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/-DLRYskxSmk" title="A Giant Dog - Virgin Girl" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "-DLRYskxSmk" >}}
 </div> <!-- Song Information -->
 <div > <p>Released on February 15, 2013, "Virgin Girl" by A Giant Dog is a fiery blend of Austin rock and Texas punk, showcasing the bandâ€™s raw energy and sharp songwriting. The track is featured on their album *Bone* and was released under the Tic Tac Totally label.</p>
 </div> <!-- Footer Links -->

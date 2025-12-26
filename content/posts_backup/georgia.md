@@ -5,7 +5,7 @@ layout: post
 <div class="separator" >
 <a href="https://static.stereogum.com/uploads/2019/03/georgia-about-work-the-dancefloor-1553802753-620x366.png" imageanchor="1"><img border="0" data-original-height="366" data-original-width="620" height="188" src="https://static.stereogum.com/uploads/2019/03/georgia-about-work-the-dancefloor-1553802753-620x366.png" width="320" /></a></div>
 <br />
-<iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/videoseries?list=PLtuNtuTatqI1AxQdP3Z5tJRlym7yvv9Rl" width="560"></iframe><br />
+{{< youtube "videoseries" >}}<br />
 <h3>
 About Work The Dancefloor [2019]</h3>
 

@@ -4,9 +4,9 @@ layout: post
 ---
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Brenda Russell</h1> <!-- Featured Image -->
-<div > <img src="https://i.scdn.co/image/ab67616d0000b273ceeee53bec31ac86107b1c42" alt="Brenda Russell">
+<div > {{< img-lite src="https://i.scdn.co/image/ab67616d0000b273ceeee53bec31ac86107b1c42" alt="Brenda Russell" >}}
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/05xPnrhf7fRz6VcT0cRGsB?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Introductory Text -->
 <p >Brenda Russell's smooth jazz sound and captivating melodies shine in tracks like "Way Back When" and "A Little Bit Of Love." Here are BigBanonos' favorite picks from this timeless artist.</p> <!-- Song Highlights -->
 <div > <p>BigBanonos' standout picks:</p> <ol> <li><strong>Way Back When</strong> | <em>Brenda Russell</em> | Released: 1979 | Special Products</li> <li><strong>A Little Bit Of Love</strong> | <em>Brenda Russell</em> | Released: 1979 | Special Products</li> </ol>

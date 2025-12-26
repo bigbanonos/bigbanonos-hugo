@@ -3,8 +3,8 @@ title: "nadine shah 2 songs"
 layout: post
 ---
 <h1>BigBanonos Top Songs by Nadine Shah</h1>
-<img src="https://s.wsj.net/public/resources/images/BN-US557_SHAH08_FR_20170817140449.jpg" alt="Nadine Shah"> <p>Nadine Shah's music combines chamber psych with an indie rock sensibility rooted in her North East England origins. Here are BigBanonos' favorite tracks:</p> <ol> <li><strong>Evil</strong> | <em>Holiday Destination</em> | 1965 Records Limited | Released: August 25, 2017</li> <li><strong>Fool</strong> | <em>Fast Food</em> | Apollo | Released: April 6, 2015</li>
-</ol> <div> <iframe src="https://open.spotify.com/embed/playlist/0Gr5vVPIpW4L7Sk8wDa5UX?utm_source=generator" width="100%" height="352" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+{{< img-lite src="https://s.wsj.net/public/resources/images/BN-US557_SHAH08_FR_20170817140449.jpg" alt="Nadine Shah" >}} <p>Nadine Shah's music combines chamber psych with an indie rock sensibility rooted in her North East England origins. Here are BigBanonos' favorite tracks:</p> <ol> <li><strong>Evil</strong> | <em>Holiday Destination</em> | 1965 Records Limited | Released: August 25, 2017</li> <li><strong>Fool</strong> | <em>Fast Food</em> | Apollo | Released: April 6, 2015</li>
+</ol> <div> {{< youtube "embed" >}}
 </div> <p>first posted by <a href="https://bigbanonos.blogspot.com/">https://bigbanonos.blogspot.com/</a></p> <div> <p>Explore more BigBanonos content: <a href="https://bigbanonos.blogspot.com/">Website</a> | <a href="https://www.youtube.com/@BigBanonos">YouTube</a> | <a href="https://x.com/bigbanonos">Twitter</a></p>
 </div> <!-- Tags -->
 <p>@nadineshah</p>

@@ -4,7 +4,7 @@ layout: post
 ---
 <h1>BigBanonos 3 Favorite Songs by Hether</h1>
 <img alt="Hether" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgG01uChssQECVkZYW1URLdehtS3a3JdGL19Vc0igI1bJAHfJlDpKteBcXPfUzcIaQrVKS_dZyiI0hCHdPlmTzj-jai_BH8c4FcRhQOitA9wrOiTNS1iN46rc10-mce3-N512WQilDYO5i9/s812/hether.jpg" /> <p>This collection of BigBanonos' favorite tracks by Hether highlights the artist's distinctive bedroom pop sound, featuring mellow tunes from *play it pretty* and beyond.</p> <ol> <li><em>chem bath</em> - Album: <em>play it pretty</em>, Label: ear slime c/o R&R Digital, Released: June 10, 2022</li> <li><em>When U Loved Me (acoustic)</em> - Album: <em>WULM (acoustic) / Morning Bells</em>, Label: Hether4theweather c/o R&R Digital, Released: December 23, 2020</li> <li><em>Sex Wax</em> - Album: <em>Sex Wax</em>, Label: Hether4theweather c/o R&R Digital, Released: December 9, 2020</li> <li><em>When U Loved Me</em> - Album: <em>When U Loved Me</em>, Label: Hether4theweather, Released: July 10, 2019</li>
-</ol> <div> <iframe allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" allowfullscreen="" frameborder="0" height="352" loading="lazy" src="https://open.spotify.com/embed/playlist/0dqIw7hVAkhfTVCiROVsUv?utm_source=generator" width="100%"></iframe>
+</ol> <div> {{< youtube "embed" >}}
 </div> <p>first posted by https://bigbanonos.blogspot.com/</p> <div> <p>Explore more BigBanonos content: <a href="https://bigbanonos.blogspot.com/">Website</a> | <a href="https://www.youtube.com/@BigBanonos">YouTube</a> | <a href="https://x.com/bigbanonos">Twitter</a></p>
 </div> <!--Tags-->
 <p>@hether</p>

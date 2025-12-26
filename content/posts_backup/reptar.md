@@ -7,7 +7,7 @@ layout: post
 <p >Updated May 1, 2012, with "Houseboat Babies" by Reptar. This vibrant and infectious track from their album *Body Faucet*, released under Vagrant Records, showcases their signature shimmer pop sound and Athens indie roots. Watch and listen below!</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/bd5cec39575ef458d117f0062a6f6e34ba64e40d" alt="Reptar - Houseboat Babies" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="733" height="480" src="https://www.youtube.com/embed/f0fOGcH5Gv8" title="Reptar - Houseboat Babies (Official Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "f0fOGcH5Gv8" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Houseboat Babies"</em>, released on May 1, 2012, by Vagrant Records, is a standout track from Reptarâ€™s *Body Faucet*. With its playful energy, layered instrumentation, and unique blend of Athens indie and shimmer pop, the song is a testament to Reptarâ€™s innovative sound.</p>
 </div> <!-- Footer Links -->

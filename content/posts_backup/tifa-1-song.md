@@ -3,8 +3,8 @@ title: "tifa 1 song"
 layout: post
 ---
 <h1>BigBanonos Favorite Songs by Tifa - DH SONGS</h1>
-<img src="https://urbanislandz.com/wp-content/uploads/2016/02/Tifa-760x760.jpg.webp" alt="Tifa"> <p>Tifa brings energy to the dancehall scene with her unique style and powerful beats. Hereâ€™s BigBanonos' top pick:</p> <ol> <li><strong>My Man</strong> | <em>Divas of the Dancehall, Vol. 2</em> | Released: 2020-03-08 | 21st Hapilos Compilations</li>
-</ol> <div> <iframe src="https://open.spotify.com/embed/playlist/4QlwHbL5dvsCoLtpR8fa5V?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+{{< img-lite src="https://urbanislandz.com/wp-content/uploads/2016/02/Tifa-760x760.jpg.webp" alt="Tifa" >}} <p>Tifa brings energy to the dancehall scene with her unique style and powerful beats. Hereâ€™s BigBanonos' top pick:</p> <ol> <li><strong>My Man</strong> | <em>Divas of the Dancehall, Vol. 2</em> | Released: 2020-03-08 | 21st Hapilos Compilations</li>
+</ol> <div> {{< youtube "embed" >}}
 </div> <p><em>First posted by BigBanonos - <a href="https://bigbanonos.blogspot.com/">https://bigbanonos.blogspot.com/</a></em></p>
 <p><em>Last updated November 14, 2024</em></p>
 <p>Follow BigBanonos on <a href="https://www.youtube.com/@BigBanonos">YouTube</a> and <a href="https://x.com/bigbanonos">Twitter</a> for more music content.</p>

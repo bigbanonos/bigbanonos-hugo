@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Heaven Knows" by Steve Treatment, a 1979 gem blending post-punk energy with introspective lyrics. A standout track from *Picked Apart on Tape, Vol. 1 (Deluxe Edition)*.</p> <!-- Featured Image -->
 <div > <img src="https://i.discogs.com/Y6OlO75my8iQFq8G-AADcmi7fIc9Vlfj_0JYCBBUVsA/rs:fit/g:sm/q:90/h:359/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9BLTY4OTgz/My0xNDYwOTgwNjU2/LTk1OTYucG5n.jpeg" alt="Steve Treatment - Heaven Knows" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="733" height="480" src="https://www.youtube.com/embed/TuyLB85SXUI" title="Heaven Knows" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "TuyLB85SXUI" >}}
 </div> <!-- Footer Links -->
 <div > <p>For more updates, visit <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Also, check out our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a> channels for more exclusive content!</p>
 </div> <!-- Tags -->

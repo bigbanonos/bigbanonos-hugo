@@ -4,8 +4,8 @@ layout: post
 ---
 <h1>BigBanonos Top Songs by Peter Gabriel</h1>
 <img alt="Peter Gabriel" src="https://cdn.britannica.com/29/102829-050-7945D19B/Genesis-Peter-Gabriel-Tony-Banks-Phil-Collins-1974.jpg" /> <p>Peter Gabriel's groundbreaking work in art rock and progressive music has left a lasting legacy. Here are BigBanonos' favorite selections from his extensive discography:</p> <ol> <li><strong>Shock The Monkey</strong> | <em>Peter Gabriel 4: Security (Remastered Version)</em> | Real World Productions | Released: September 6, 1982</li> <li><strong>Games Without Frontiers</strong> | <em>Peter Gabriel 3: Melt (Remastered Version)</em> | Real World Productions | Released: May 23, 1980</li> <li><strong>Solsbury Hill</strong> | <em>Peter Gabriel 1: Car (Remastered Version)</em> | Real World Productions | Released: February 25, 1977</li>
-</ol> <div> <iframe allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" frameborder="0" height="352" loading="lazy" src="https://open.spotify.com/embed/playlist/4Y19wnPV3k0j32uybTjFop?utm_source=generator" width="100%"></iframe>
-</div> <div> <iframe width="95%" height="315" src="https://www.youtube.com/embed/LKb9XQ39-zc?list=PLtuNtuTatqI3ADcM_zLmgfpkLlcO5e9Pw" frameborder="0" allowfullscreen></iframe><br /> <p><strong>Games Without Frontiers</strong> | Released: 1980s</p>
+</ol> <div> {{< youtube "embed" >}}
+</div> <div> {{< youtube "LKb9XQ39-zc" >}}<br /> <p><strong>Games Without Frontiers</strong> | Released: 1980s</p>
 </div> <p>first posted by <a href="https://bigbanonos.blogspot.com/">https://bigbanonos.blogspot.com/</a></p> <div> <p>Explore more BigBanonos content: <a href="https://bigbanonos.blogspot.com/">Website</a> | <a href="https://www.youtube.com/@BigBanonos">YouTube</a> | <a href="https://x.com/bigbanonos">Twitter</a></p>
 </div> <!--Tags-->
 <p>@petergabriel</p>

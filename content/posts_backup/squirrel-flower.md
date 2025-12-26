@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Headlights" by Squirrel Flower, from the album *Headlights*, released on December 3, 2019, by Polyvinyl Records.</p> <!-- Featured Image -->
 <div > <img src="https://static.stereogum.com/uploads/2019/12/squirrel-flower-1575332316-1000x638.png" alt="Squirrel Flower - Headlights" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/JuMgMoF_vf8" title="Squirrel Flower - Headlights [OFFICIAL MUSIC VIDEO]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "JuMgMoF_vf8" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Headlights"</em> by Squirrel Flower is a track from the album *Headlights*, released on December 3, 2019. The song blends elements of bubblegrunge, countrygaze, and shoegaze, capturing the essence of Boston indie and midwest emo styles.</p>
 </div> <!-- Footer Links -->

@@ -7,7 +7,7 @@ layout: post
 <p >Updated in 1992 with BigBanonos' favorite track, "Off To One Side" by Come. A compelling and raw piece from the band's debut album, *11:11*, which remains a milestone in alternative rock.</p> <!-- Featured Image -->
 <div > <img src="https://i.ytimg.com/vi/-Lj3rlli7CU/sddefault.jpg" alt="Come - Off To One Side" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/32ZZT3nFhys" title="Off To One Side" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "32ZZT3nFhys" >}}
 </div> <!-- Song Information -->
 <div > <p>"Off To One Side" is featured on Come's critically acclaimed debut album *11:11*, released by Matador Records. Known for its intense emotional resonance and gritty instrumentation, this track exemplifies the band's unique blend of post-punk and blues-influenced rock.</p>
 </div> <!-- Footer Links -->

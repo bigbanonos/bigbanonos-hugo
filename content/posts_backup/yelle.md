@@ -3,14 +3,14 @@ title: "yelle"
 layout: post
 ---
 <!-- Featured Image -->
-<img src="https://francoleidoscope.wordpress.com/wp-content/uploads/2014/03/yelle-ce-jeu.jpg?w=640" width="640" alt="Yelle - Ce Jeu"> <!-- Introduction -->
+{{< img-lite src="https://francoleidoscope.wordpress.com/wp-content/uploads/2014/03/yelle-ce-jeu.jpg?w=640" alt="Yelle - Ce Jeu" >}} <!-- Introduction -->
 <p><strong>BigBanonos' Favorite Song by Yelle</strong>, last updated March 2, 2007, with <em>"Ce Jeu"</em> from <em>Pop-Up</em>, highlighted in the playlist below:</p> <!-- YouTube Embed -->
-<iframe width="1013" height="570" src="https://www.youtube.com/embed/8QOxKCKC09A" title="YELLE - Ce Jeu (Official Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> <!-- Song Info -->
+{{< youtube "8QOxKCKC09A" >}} <!-- Song Info -->
 <p><strong>Yelle - "Ce Jeu"</strong> <br>
 Album: <em>Pop-Up</em> <br>
 Label: Source Etc. <br>
 Release Year: 2007</p> <!-- Spotify Embed -->
-<iframe src="https://open.spotify.com/embed/track/2KjJhGtseXQBI5Cg6ZZdc9?utm_source=generator" width="100%" height="152" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe> <!-- Links -->
+{{< youtube "embed" >}} <!-- Links -->
 <p><a href="https://bigbanonos.blogspot.com/">BigBanonos</a> | <a href="https://www.youtube.com/@BigBanonos">YouTube</a> | <a href="https://x.com/bigbanonos">X/Twitter</a></p> <!-- Tags -->
 <p>@yelle,</p>
 

@@ -4,9 +4,9 @@ layout: post
 ---
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by The Exiles</h1> <!-- Featured Image -->
-<div > <img src="https://i.scdn.co/image/ab67616d00001e027fcc4ad700d334219c7e955c" alt="The Exiles">
+<div > {{< img-lite src="https://i.scdn.co/image/ab67616d00001e027fcc4ad700d334219c7e955c" alt="The Exiles" >}}
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/3ty9aTy1NorMzkvAoNtVVz?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Introductory Text -->
 <p >The Exiles deliver powerful Irish folk anthems that encapsulate the spirit of storytelling and cultural history. These tracks are timeless representations of Ireland's rich musical tradition.</p> <!-- Song Highlights -->
 <div > <p>BigBanonos' standout picks:</p> <ol> <li><strong>The Pigeon</strong> | <em>Freedom, Come All Ye</em> | Released: 1966 | Topic</li> <li><strong>We're Only Over Here for Exploration</strong> | <em>Freedom, Come All Ye</em> | Released: 1966 | Topic</li> </ol>

@@ -7,7 +7,7 @@ layout: post
 <p >Updated March 17, 2015, with BigBanonos' favorite song by Alison Wonderland, "Games," from her album *Run*. Watch the video and see more details below:</p> <!-- Featured Image -->
 <div > <img src="https://s1.ticketm.net/dam/a/15b/957c9fb3-59e3-485c-ba70-7537f465015b_1603001_RETINA_PORTRAIT_3_2.jpg" alt="Alison Wonderland - Games" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/Qg5lb6-9qW8" title="Alison Wonderland - Games (Official Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "Qg5lb6-9qW8" >}}
 </div> <!-- Song Information -->
 <div > <p>"Games" by Alison Wonderland is an electrifying fusion of aussietronica, EDM, and electronic trap. Released on March 17, 2015, under EMI Recorded Music Australia Pty Ltd, the track is a standout from her debut album *Run*, showcasing her dynamic production and emotive lyricism.</p>
 </div> <!-- Footer Links -->

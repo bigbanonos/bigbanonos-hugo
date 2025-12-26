@@ -3,7 +3,7 @@ title: "scarlett john"
 layout: post
 ---
 #covers w/ originals<br />
-<iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/6q5KHBogDuw?list=PLtuNtuTatqI0T_GCRVtVWFUSn_PgEFzjS" width="95%%"></iframe><br />
+{{< youtube "6q5KHBogDuw" >}}<br />
 Falling Down
 
 

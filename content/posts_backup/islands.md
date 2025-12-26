@@ -2,9 +2,9 @@
 title: "islands"
 layout: post
 ---
-<h2>BigBanonos' Favorite Songs by Islands</h2> <p><strong>Updated November 11, 2016, with "If" from <em>Return to the Sea (10th Anniversary Remaster)</em></strong></p> <img src="https://f4.bcbits.com/img/a2121308818_10.jpg" width="100%" alt="Islands"> <p>Islands crafts eccentric and catchy indie pop. Below are BigBanonos' favorite songs by Islands.</p> <h3>"If"</h3>
+<h2>BigBanonos' Favorite Songs by Islands</h2> <p><strong>Updated November 11, 2016, with "If" from <em>Return to the Sea (10th Anniversary Remaster)</em></strong></p> {{< img-lite src="https://f4.bcbits.com/img/a2121308818_10.jpg" alt="Islands" >}} <p>Islands crafts eccentric and catchy indie pop. Below are BigBanonos' favorite songs by Islands.</p> <h3>"If"</h3>
 <p><em>Return to the Sea (10th Anniversary Remaster)</em>, Manque Music, November 11, 2016</p> <h3>"Rough Gem"</h3>
-<p><em>Return to the Sea (10th Anniversary Remaster)</em>, Manque Music, November 11, 2016</p> <hr /> <h3>Listen on Spotify</h3> <iframe src="https://open.spotify.com/embed/playlist/7q1pYgAEGTt970VhgyjmEq?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> <hr /> <p><strong>Tags:</strong> @islands</p> <hr /> <p><em>First posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+<p><em>Return to the Sea (10th Anniversary Remaster)</em>, Manque Music, November 11, 2016</p> <hr /> <h3>Listen on Spotify</h3> {{< youtube "embed" >}} <hr /> <p><strong>Tags:</strong> @islands</p> <hr /> <p><em>First posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
 
 
 <!--Subscribe and Playlist Links-->

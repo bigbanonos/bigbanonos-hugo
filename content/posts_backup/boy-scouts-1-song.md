@@ -2,7 +2,7 @@
 title: "boy scouts 1 song"
 layout: post
 ---
-<iframe allowfullscreen="" frameborder="0" height="270" src="https://www.youtube.com/embed/rCeKYDkTTRM" width="480"></iframe><br /><br /><h3><ol><li>
+{{< youtube "rCeKYDkTTRM" >}}<br /><br /><h3><ol><li>
 Get Well Soon</li></ol></h3>
 
 <!--Subscribe and Playlist Links-->

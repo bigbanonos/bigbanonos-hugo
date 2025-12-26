@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Raising the Skate" by Speedy Ortiz, from the album *Foil Deer*, released on April 21, 2015, by Carpark Records.</p> <!-- Featured Image -->
 <div > <img src="https://media.npr.org/assets/img/2015/02/11/speedy_wide-d196ad3175d802575406e75795c1afd6b8d213ad.jpg?s=1400&c=100&f=jpeg" alt="Speedy Ortiz - Raising the Skate" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/NdKZDWldEy8" title="Speedy Ortiz - 'Raising the Skate'" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "NdKZDWldEy8" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Raising the Skate"</em> by Speedy Ortiz is a track from the album *Foil Deer*, released on April 21, 2015. The song blends elements of bubblegrunge, indie punk, and slacker rock, capturing the essence of New England's emo and indie scene.</p>
 </div> <!-- Footer Links -->

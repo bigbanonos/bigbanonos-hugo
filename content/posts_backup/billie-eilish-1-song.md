@@ -2,7 +2,7 @@
 title: "billie eilish 1 song"
 layout: post
 ---
-<iframe frameborder="0" height="270" src="https://youtube.com/embed/Dm9Zf1WYQ_A" width="480"></iframe><h2><ol><li>my future [2020]</li></ol></h2>
+{{< youtube "Dm9Zf1WYQ_A" >}}<h2><ol><li>my future [2020]</li></ol></h2>
 
 <!--Subscribe and Playlist Links-->
 <div>

@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "It Wasn't Me" by Shaggy featuring Rik Rok, from the album *Hot Shot*, released on August 8, 2000, by Geffen Records.</p> <!-- Featured Image -->
 <div > <img src="https://upload.wikimedia.org/wikipedia/en/b/b1/Shaggy-wasn%27t-me.jpg" alt="Shaggy - It Wasn't Me" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/2g5Hz17C4is" title="Shaggy - It Wasn't Me (Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "2g5Hz17C4is" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"It Wasn't Me"</em> by Shaggy featuring Rik Rok is a track from the album *Hot Shot*, released on August 8, 2000. The song blends dance pop, pop rap, and reggae fusion, becoming a hallmark of Shaggy's career.</p>
 </div> <!-- Footer Links -->

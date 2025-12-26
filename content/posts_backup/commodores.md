@@ -7,7 +7,7 @@ layout: post
 <p >Updated with BigBanonos' favorite track, "Nightshift" by Commodores. This heartfelt tribute to music legends Marvin Gaye and Jackie Wilson showcases the band's soulful artistry and timeless appeal.</p> <!-- Featured Image -->
 <div > <img src="https://upload.wikimedia.org/wikipedia/en/9/9c/Commodores_nightshift_album_cover.jpg" alt="Commodores - Nightshift Album Cover" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/FrkEDe6Ljqs" title="Commodores - Nightshift (Official Music Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "FrkEDe6Ljqs" >}}
 </div> <!-- Song Information -->
 <div > <p>"Nightshift" from 1985 is a soulful classic by the Commodores from their *The Commodores: The Definitive Collection* album, released by UNI/MOTOWN. The song, steeped in R&B and quiet storm vibes, pays homage to two iconic artists and remains a standout in their discography.</p>
 </div> <!-- Footer Links -->

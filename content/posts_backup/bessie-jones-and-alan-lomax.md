@@ -7,7 +7,7 @@ layout: post
 <p >Updated January 31, 2012, with BigBanonos' favorite song by Bessie Jones and Alan Lomax, "Go to Sleepy Little Baby," from *The Alan Lomax Collection from the American Folklife Center*. Watch the video and see more details below:</p> <!-- Featured Image -->
 <div > <img src="https://archive.culturalequity.org/sites/default/files/2023-11/GTSLB_og.png" alt="Bessie Jones and Alan Lomax - Go to Sleepy Little Baby" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/yz2ICL-tb_o" title="Go to Sleepy Little Baby" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "yz2ICL-tb_o" >}}
 </div> <!-- Song Information -->
 <div > <p>"Go to Sleepy Little Baby" by Bessie Jones and Alan Lomax is a hauntingly beautiful traditional southern folk lullaby. Recorded as part of *The Alan Lomax Collection from the American Folklife Center*, this 0:48-long piece, released on January 31, 2012, captures the essence of spirituals and traditional folk storytelling through its raw and emotive delivery.</p>
 </div> <!-- Footer Links -->

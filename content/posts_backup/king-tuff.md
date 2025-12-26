@@ -7,7 +7,7 @@ layout: post
 <p >Updated May 29, 2012 with "Bad Thing" from <em>King Tuff</em>. Dive into the energetic indie rock of King Tuff in the playlist below!</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d0000b2731266e22c412047bc5ba5e171" alt="King Tuff" />
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/1QJcwdMLhM1A8cGdeLlf8i?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <div > <p><strong>"Bad Thing"</strong><br> Genre: Pop, Rock, Folk/Acoustic<br> Album: <em>King Tuff</em><br> Release Date: May 29, 2012<br> Label: Sub Pop Records</p> <p><strong>"Sun Medallion"</strong><br> Genre: Pop, Rock, Folk/Acoustic<br> Album: <em>Was Dead</em><br> Release Date: October 7, 2008<br> Label: Vegetable Street Records</p>
 </div> <!-- Footer Links -->

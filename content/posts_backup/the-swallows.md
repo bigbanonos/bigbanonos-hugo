@@ -7,7 +7,7 @@ layout: post
 <p >"It Ain't The Meat" by The Swallows is a timeless rhythm and blues classic. Featured on *A-Z: Kitty Daisy & Lewis - 'The Roots of Rock 'n' Roll'*, this track exemplifies the early sounds of rock 'n' roll and rhythm and blues. Watch the performance below!</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d0000b2736e6a3444a25295c3e6bdc4fb" alt="The Swallows - It Ain't The Meat" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="514" src="https://www.youtube.com/embed/lpPeQyT36Tg" title="THE SWALLOWS ~ IT AIN`T THE MEAT ~ 1951" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "lpPeQyT36Tg" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"It Ain't The Meat"</em> is a standout track from *A-Z: Kitty Daisy & Lewis - 'The Roots of Rock 'n' Roll'*, encapsulating the raw energy and soul of rhythm and blues that would shape the future of rock 'n' roll.</p>
 </div> <!-- Footer Links -->

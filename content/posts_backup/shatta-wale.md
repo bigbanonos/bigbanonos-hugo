@@ -4,9 +4,9 @@ layout: post
 ---
 <!-- Title of the Post -->
 <h1>BigBanonosâ€™ Favorite Songs by Shatta Wale</h1> <!-- Featured Image -->
-<div> <img src="https://i.scdn.co/image/ab6761610000e5eb4b9c8478e046551c38920635" alt="Shatta Wale">
+<div> {{< img-lite src="https://i.scdn.co/image/ab6761610000e5eb4b9c8478e046551c38920635" alt="Shatta Wale" >}}
 </div> <!-- Spotify Embed -->
-<div> <iframe src="https://open.spotify.com/embed/playlist/38Tkgy3OoSbaS10XFTiJuv?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div> {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <h3>Top Songs by Shatta Wale:</h3>
 <ol> <li><strong>ON GOD</strong> | Album: <em>ON GOD</em> | Released: May 5, 2022 | Label: Shatta Movement Records</li> <li><strong>Island</strong> | Album: <em>Island - Single</em> | Released: January 11, 2019 | Label: YGF Records</li> <li><strong>Taking Over (feat. Captan, Addi Self, Joint 77)</strong> | Album: <em>Taking Over</em> | Released: March 15, 2017 | Label: Shatta Movement Empire</li>

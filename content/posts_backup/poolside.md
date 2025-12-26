@@ -5,7 +5,7 @@ layout: post
 <div class="separator" >
 <a href="https://i1.sndcdn.com/artworks-000559544055-uuuwln-t500x500.jpg" imageanchor="1"><img border="0" data-original-height="500" data-original-width="500" height="400" src="https://i1.sndcdn.com/artworks-000559544055-uuuwln-t500x500.jpg" width="400" /></a></div>
 <br />
-<iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/videoseries?list=PLtuNtuTatqI3MSNL2UETSGFy4jjUbHi50" width="560"></iframe> <h3>
+{{< youtube "videoseries" >}} <h3>
 <ol>
 <li>(ft. Panama) Can't Stop Your Lovin] [2019]</li>
 </ol>

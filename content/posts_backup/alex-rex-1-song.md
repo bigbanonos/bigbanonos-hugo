@@ -2,7 +2,7 @@
 title: "alex rex 1 song"
 layout: post
 ---
-<iframe frameborder="0" height="360" src="https://youtube.com/embed/4x67nGqwNzY" width="480"></iframe><div><h2></h2><h2><ol><li>Cowards Song [2020]</li></ol></h2></div>
+{{< youtube "4x67nGqwNzY" >}}<div><h2></h2><h2><ol><li>Cowards Song [2020]</li></ol></h2></div>
 
 <!--Subscribe and Playlist Links-->
 <div>

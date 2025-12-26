@@ -4,9 +4,9 @@ layout: post
 ---
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by The Brian Jonestown Massacre</h1> <!-- Featured Image -->
-<div > <img src="https://i.scdn.co/image/ab67616d00001e02060888901fd0c03cded8b639" alt="The Brian Jonestown Massacre">
+<div > {{< img-lite src="https://i.scdn.co/image/ab67616d00001e02060888901fd0c03cded8b639" alt="The Brian Jonestown Massacre" >}}
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/1XLQ5pB8xcUiRikCNKlHkg?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Introductory Text -->
 <p >The Brian Jonestown Massacre delivers a unique blend of neo-psychedelic and indie rock. From the provocative "Bring Me The Head Of Paul McCartney" to the ethereal "Anemone," here are BigBanonos' favorite tracks by this influential band.</p> <!-- Song Highlights -->
 <div > <p>BigBanonos' standout picks:</p> <ol> <li><strong>Bring Me The Head Of Paul McCartney On Heather Mill's Wooden Peg (Dropping Bombs On The White House)</strong> | <em>My Bloody Underground</em> | Released: March 17, 2008 | a' Records</li> <li><strong>Open Heart Surgery</strong> | <em>Zero</em> | Released: 2000 | a' Records</li> <li><strong>Anemone</strong> | <em>Their Satanic Majesties' Second Request</em> | Released: 1996 | a' Records</li> </ol>

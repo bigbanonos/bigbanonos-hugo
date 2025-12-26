@@ -5,7 +5,7 @@ layout: post
 <div class="separator" >
 <a href="https://i.ytimg.com/vi/FQT1gVMUmdw/maxresdefault.jpg" imageanchor="1"><img border="0" data-original-height="450" data-original-width="800" height="225" src="https://i.ytimg.com/vi/FQT1gVMUmdw/maxresdefault.jpg" width="400" /></a></div>
 <br />
-<iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/videoseries?list=PLtuNtuTatqI2CzbIJNvYKHwyZb0S-_e_Q" width="560"></iframe> <br />
+{{< youtube "videoseries" >}} <br />
 <h3>
 <ol>
 <li>

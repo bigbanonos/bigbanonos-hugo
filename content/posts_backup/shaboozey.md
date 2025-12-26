@@ -7,7 +7,7 @@ layout: post
 <p >Shaboozey's "A Bar Song (Tipsy)" blends country vibes with catchy beats, making it the perfect anthem for your next night out. Watch the visualizer below!</p> <!-- Featured Image -->
 <div > <img src="https://hips.hearstapps.com/hmg-prod/images/shaboozey-performs-at-variety-playhouse-on-september-25-news-photo-1731361308.jpg?crop=1.00xw:0.841xh;0,0.119xh&resize=640:*" alt="Shaboozey - A Bar Song" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="343" src="https://www.youtube.com/embed/t7bQwwqW-Hc" title="Shaboozey - A Bar Song (Tipsy) [Official Visualizer]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "t7bQwwqW-Hc" >}}
 </div> <!-- Song Information -->
 <div > <p><em>A Bar Song (Tipsy)</em> brings a fun and infectious energy, with Shaboozey mixing pop rap and modern country influences to create a lively track thatâ€™s sure to get stuck in your head.</p> <p><strong>Updated on May 31, 2024</strong></p>
 </div> <!-- Footer Links -->

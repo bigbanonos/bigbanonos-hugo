@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Acolyte" by Slaughter Beach, Dog, from the album *Birdie*, released on October 27, 2017, by Lame-O Records.</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d0000b273bff875df2edc64c5f4fc9766" alt="Slaughter Beach, Dog - Acolyte" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/87hU5IplaX4" title="Slaughter Beach, Dog - Acolyte" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "87hU5IplaX4" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Acolyte"</em> by Slaughter Beach, Dog is a track from the *Birdie* album, released on October 27, 2017. The song blends alternative emo and lo-fi emo, capturing the introspective and intimate sound of the indie scene.</p>
 </div> <!-- Footer Links -->

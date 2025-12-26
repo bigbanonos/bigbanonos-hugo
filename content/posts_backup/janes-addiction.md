@@ -7,7 +7,7 @@ layout: post
 <p >Updated August 23, 1988, with "Jane Says" from <em>Nothing's Shocking</em>. Explore the bold alternative rock of Jane's Addiction in the playlist below!</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d00001e02d3645a33fd3a839d113f97bd" alt="Jane's Addiction" />
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/41len2UQN3uJFEIiHB4JY5?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <div > <p><strong>"Jane Says"</strong><br> Genre: Metal, Rock<br> Album: <em>Nothing's Shocking</em><br> Release Date: August 23, 1988<br> Label: Rhino/Warner Records</p> <p><strong>"Pigs in Zen"</strong><br> Genre: Metal, Rock<br> Album: <em>Nothing's Shocking</em><br> Release Date: August 23, 1988<br> Label: Rhino/Warner Records</p> <p><strong>"Been Caught Stealing - 12 Remix Version"</strong><br> Genre: Metal, Rock<br> Album: <em>A Cabinet of Curiosities</em><br> Release Date: 2009<br> Label: Rhino/Warner Records</p>
 </div> <!-- Footer Links -->

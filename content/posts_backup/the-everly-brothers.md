@@ -4,9 +4,9 @@ layout: post
 ---
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by The Everly Brothers</h1> <!-- Featured Image -->
-<div > <img src="https://i.scdn.co/image/ab67616d00001e024934c9839ae3bb7494821f75" alt="The Everly Brothers">
+<div > {{< img-lite src="https://i.scdn.co/image/ab67616d00001e024934c9839ae3bb7494821f75" alt="The Everly Brothers" >}}
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/3oH5IyQfWspHxgnALvt6Cp?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Introductory Text -->
 <p >The Everly Brothers brought timeless harmonies to classic hits like "Let It Be Me" and "All I Have to Do Is Dream," making them icons of early rock and roll.</p> <!-- Song Highlights -->
 <div > <p>BigBanonos' standout picks:</p> <ol> <li><strong>Since You Broke My Heart</strong> | <em>The Fabulous Style Of The Everly Brothers</em> | Released: 1960 | Cadence Records</li> <li><strong>Let It Be Me</strong> | <em>The Fabulous Style Of The Everly Brothers</em> | Released: 1960 | Cadence Records</li> <li><strong>All I Have to Do Is Dream (Single Version)</strong> | <em>All I Have to Do Is Dream</em> | Released: July 12, 2019 | Warner Music Group - X5 Music Group</li> <li><strong>Christmas Eve Can Kill You</strong> | <em>Stories We Could Tell</em> | Released: July 26, 1972 | RCA/Legacy</li> <li><strong>Crying in the Rain</strong> | <em>The Golden Hits of The Everly Brothers</em> | Released: June 1, 1962 | Warner Records</li> </ol>

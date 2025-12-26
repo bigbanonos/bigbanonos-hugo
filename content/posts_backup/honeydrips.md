@@ -3,7 +3,7 @@ title: "honeydrips"
 layout: post
 ---
 #highlights <br />
-<iframe width="95%" height="315" src="https://www.youtube.com/embed/WJjDjZekBOc?list=PLtuNtuTatqI39p2afqBHPAEnjrPeAHrmL" frameborder="0" allowfullscreen></iframe><br />
+{{< youtube "WJjDjZekBOc" >}}<br />
 Try Something New 2007 <br /> (Lack Of) Love Will Tear Us Apart 2007 <br /> Fall From A Height 2007
 
 <!--Subscribe and Playlist Links-->

@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Top Shelf" by Tanya Stephens, released on March 6, 2019, from the album *Top Shelf*, available through Simon Pipe. This track combines dancehall, reggae fusion, and classic dancehall queen vibes for an upbeat and infectious sound.</p> <!-- Featured Image -->
 <div > <img src="https://www.dancehall.co.uk/images/albums/tanya-stephens-top-shelf.jpg" alt="Tanya Stephens - Top Shelf" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/NivE7xKkntI" title="Tanya Stephens - Top Shelf" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "NivE7xKkntI" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Top Shelf"</em> by Tanya Stephens showcases a lively blend of dancehall and reggae fusion, with her signature energy and empowering lyrics that make it a standout track in her catalog.</p>
 </div> <!-- Footer Links -->

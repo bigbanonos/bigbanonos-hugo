@@ -7,7 +7,7 @@ layout: post
 <p >Updated September 13, 2013, with "Take Me to Church" by Hozier. This iconic track from the *Take Me to Church EP* blends soulful lyrics with powerful vocals, marking a defining moment in modern rock and indie pop.</p> <!-- Featured Image -->
 <div > <img src="https://www.irishtimes.com/resizer/v2/Z5GBA5SBWZEG7COIWHGPREKYXQ.jpg?auth=8bfe7c40420db3ec5b17bbbb2d5af923a7a6fabfe3cea5aaedfd0d57c2e83ce1&smart=true&width=1024&height=768" alt="Hozier - Take Me to Church" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/PVjiKRfKpPI" title="Hozier - Take Me To Church" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "PVjiKRfKpPI" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Take Me to Church"</em>, released on September 13, 2013, from the *Take Me to Church EP*, showcases Hozier's unique fusion of Irish singer-songwriter traditions with a modern rock and indie perspective. This song became a global anthem of love and resistance.</p>
 </div> <!-- Footer Links -->

@@ -5,11 +5,11 @@ layout: post
 <div class="post-title"> <h1>BigBanonos' Favorite Songs by Tenacious D</h1>
 </div>
 <p>Updated September 25, 2001, with "Tribute" from the album <i>Tenacious D</i>, highlighted in the playlist below:</p>
-<div class="post-image"> <img src="https://www.rollingstone.com/wp-content/uploads/2018/06/rs-9110-td-624-1358363263.jpg?w=624&h=420&crop=1" alt="Tenacious D Album Cover">
+<div class="post-image"> {{< img-lite src="https://www.rollingstone.com/wp-content/uploads/2018/06/rs-9110-td-624-1358363263.jpg?w=624&h=420&crop=1" alt="Tenacious D Album Cover" >}}
 </div>
 <p>Tenacious D's comedic brilliance and rock prowess are unmatched. Their self-titled album, released on September 25, 2001, features anthems like "Tribute," "Karate," and "Double Team." Each track is a testament to the duo's ability to combine humor with serious musical talent, creating a genre-defying masterpiece.</p>
 <p>Listen to the playlist below to experience these tracks and more:</p>
-<div class="spotify-embed"> <iframe src="https://open.spotify.com/embed/playlist/4STFcSrbXnZisScLyUWtO9?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div class="spotify-embed"> {{< youtube "embed" >}}
 </div>
 <p>Tracks featured:</p>
 <ul> <li>"Karate" â€“ <i>Tenacious D</i> (September 25, 2001, Epic)</li> <li>"Drive-Thru" â€“ <i>Tenacious D</i> (September 25, 2001, Epic)</li> <li>"Double Team" â€“ <i>Tenacious D</i> (September 25, 2001, Epic)</li> <li>"City Hall/I Believe/Malibu Nights Medley" â€“ <i>Tenacious D</i> (September 25, 2001, Epic)</li> <li>"Tribute" â€“ <i>Tenacious D</i> (September 25, 2001, Epic)</li>

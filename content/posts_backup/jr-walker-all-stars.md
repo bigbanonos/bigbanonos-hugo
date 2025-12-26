@@ -7,7 +7,7 @@ layout: post
 <p >Updated January 1, 2008, with "Do You See My Love (For You Growing)" by Jr. Walker & The All Stars. A soulful classic from the heart of Motown, this track blends smooth horns, powerful vocals, and a timeless groove that's sure to make an impression. Featured on *The Definitive Collection*.</p> <!-- Featured Image -->
 <div > <img src="https://www.udiscovermusic.com/wp-content/uploads/2020/06/Jr-Walker-the-All-Stars-GettyImages-74298411.jpg" alt="Jr. Walker & The All Stars - Do You See My Love" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/fqAu5xoRXkk" title="Do You See My Love (For You Growing)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "fqAu5xoRXkk" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Do You See My Love (For You Growing)"</em> is a standout soul anthem from Jr. Walker & The All Stars. Known for their classic Motown sound, the track features unforgettable brass, soulful melodies, and a smooth rhythm that makes it a defining moment of the genre.</p>
 </div> <!-- Footer Links -->

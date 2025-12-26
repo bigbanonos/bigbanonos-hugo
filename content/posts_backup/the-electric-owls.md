@@ -7,7 +7,7 @@ layout: post
 <p >Updated January 1, 2009, with "Magic Show" by Electric Owls. This enchanting track from the album *Ainâ€™t Too Bright* blends Asheville indie influences with folk-inspired melodies to create a captivating listening experience. Watch the video below!</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d0000b273fdd132f10b72d1d12357c39c" alt="Electric Owls - Magic Show" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="733" height="480" src="https://www.youtube.com/embed/XqbV0xGXOUk" title="Magic Show-- Electric Owls" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "XqbV0xGXOUk" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Magic Show"</em>, from Electric Owlsâ€™ 2009 album *Ainâ€™t Too Bright*, released under Vagrant Records, is a standout in the Asheville indie scene. Its charming lyrics and delicate instrumentation make it a perfect addition to any folk or acoustic playlist.</p>
 </div> <!-- Footer Links -->

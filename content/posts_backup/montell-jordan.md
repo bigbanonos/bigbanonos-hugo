@@ -7,7 +7,7 @@ layout: post
 <p >Updated September 25, 2015, with "Get It On Tonite" from <em>Best Of Montell Jordan</em>. Dive into Montell Jordan's smooth R&B classics in the playlist below!</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d0000b2733e238a0fe7ab0f744f7ae039" alt="Montell Jordan" />
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/5aItFbdsbga9YpKjhvFGy0?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <div > <p><strong>"Get It On Tonite"</strong><br> Genre: R&B, Pop, Hip Hop<br> Album: <em>Best Of Montell Jordan</em><br> Release Date: September 25, 2015<br> Label: Def Soul</p>
 </div> <!-- Footer Links -->

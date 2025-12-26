@@ -2,7 +2,7 @@
 title: "junior senior"
 layout: post
 ---
-<h2>BigBanonos' Favorite Songs by Junior Senior</h2> <p><strong>Updated December 9, 2005, with "No No No's" from <em>Hey Hey My My Yo Yo</em></strong></p> <img src="https://i.scdn.co/image/213cf201026bea763be5a6e0d2a6defe5ec98763" width="100%" alt="Junior Senior"> <p>Junior Senior mixed infectious dance beats with playful rock energy, making them one of the most fun duos of the early 2000s. Below are BigBanonos' favorite songs.</p> <h3>Listen on Spotify</h3> <iframe src="https://open.spotify.com/embed/playlist/4H61TFqE2Nsg20PmTQXS6i?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> <h3>"Move Your Feet"</h3>
+<h2>BigBanonos' Favorite Songs by Junior Senior</h2> <p><strong>Updated December 9, 2005, with "No No No's" from <em>Hey Hey My My Yo Yo</em></strong></p> {{< img-lite src="https://i.scdn.co/image/213cf201026bea763be5a6e0d2a6defe5ec98763" alt="Junior Senior" >}} <p>Junior Senior mixed infectious dance beats with playful rock energy, making them one of the most fun duos of the early 2000s. Below are BigBanonos' favorite songs.</p> <h3>Listen on Spotify</h3> {{< youtube "embed" >}} <h3>"Move Your Feet"</h3>
 <p><em>D-D-Don't Don't Stop the Beat</em>, Crunchy Frog, April 3, 2002</p> <h3>"Shake Your Coconuts"</h3>
 <p><em>D-D-Don't Don't Stop the Beat</em>, Crunchy Frog, April 3, 2002</p> <h3>"Can I Get Get Get"</h3>
 <p><em>Hey Hey My My Yo Yo</em>, Crunchy Frog, December 9, 2005</p> <h3>"Rhythm Bandits"</h3>

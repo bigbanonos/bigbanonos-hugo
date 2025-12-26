@@ -7,7 +7,7 @@ layout: post
 <p >Updated March 23, 2015, with "Just Come Out Tonight" by Hayden. This heartfelt track from the *Hey Love* album captures Hayden's introspective lyricism and warm, modern folk-rock melodies.</p> <!-- Featured Image -->
 <div > <img src="https://d2l4kn3pfhqw69.cloudfront.net/wp-content/uploads/2018/11/Hayden-FLAT-2.jpg" alt="Hayden - Hey Love" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/XJHZfKoKpwI" title="Just come back (in the woods album)" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "XJHZfKoKpwI" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Just Come Out Tonight"</em> is a standout from Hayden's *Hey Love* album, blending his signature Canadian indie sound with modern folk-rock influences. Released on March 23, 2015, itâ€™s a deeply emotional piece that resonates with listeners who appreciate heartfelt storytelling through music.</p>
 </div> <!-- Footer Links -->

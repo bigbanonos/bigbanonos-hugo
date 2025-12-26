@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Lifestyle" by Rich Gang, featuring Young Thug and Rich Homie Quan, from the album *Lifestyle*, released on June 5, 2014, by Cash Money.</p> <!-- Featured Image -->
 <div > <img src="https://i.ytimg.com/vi/nGt_JGHYEO4/maxresdefault.jpg" alt="Rich Gang - Lifestyle" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/nGt_JGHYEO4" title="Rich Gang - Lifestyle (Official Music Video) ft. Young Thug, Rich Homie Quan" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "nGt_JGHYEO4" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Lifestyle"</em> by Rich Gang, featuring Young Thug and Rich Homie Quan, is a track from the album *Lifestyle*, released on June 5, 2014. The song blends elements of atl hip hop, atl trap, gangster rap, and melodic rap, representing the signature sound of southern hip hop with its trap beats and introspective lyrics.</p>
 </div> <!-- Footer Links -->

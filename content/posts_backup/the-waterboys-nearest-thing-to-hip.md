@@ -7,7 +7,7 @@ layout: post
 <p >"Nearest Thing to Hip" by The Waterboys is a captivating mix of Celtic rock and new wave, creating an anthemic atmosphere that showcases the band's signature blend of musical influences. Watch the official video below!</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d0000b273ef75eb89905d3af790ed2578" alt="The Waterboys - Nearest Thing to Hip" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/MDqVBKp5BfQ" title="The Waterboys - Nearest Thing To Hip" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "MDqVBKp5BfQ" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Nearest Thing to Hip"</em> from *Modern Blues* captures The Waterboys' distinctive style, blending Celtic rock with a modern twist. With its energetic vibe and catchy rhythm, it's a perfect representation of the band's eclectic sound.</p>
 </div> <!-- Footer Links -->

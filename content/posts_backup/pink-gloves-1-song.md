@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Fading Stars" by Pink Gloves from the *Fading Stars* single. This track captures the essence of indie pop with its emotive beats and haunting melodies.</p> <!-- Featured Image -->
 <div > <img src="https://i1.sndcdn.com/artworks-000091770539-odfdh9-t500x500.jpg" alt="Pink Gloves - Fading Stars" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/7y4XkAdo7As" title="Pink Gloves - Fading Stars" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "7y4XkAdo7As" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Fading Stars"</em> by Pink Gloves evokes deep emotion with its ambient sounds and thought-provoking lyrics. A true gem from the indie pop scene.</p>
 </div> <!-- Footer Links -->

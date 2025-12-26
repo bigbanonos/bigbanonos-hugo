@@ -3,7 +3,7 @@ title: "bun b"
 layout: post
 ---
 A 2008 gem - featuring a self-noted change of direction from Lupe Fiasco
-<iframe width="100%" src="https://www.youtube.com/embed/s8IZub7viME" frameborder="0" allowfullscreen></iframe>
+{{< youtube "s8IZub7viME" >}}
 #stlouis <br />
 https://www.youtube.com/watch?v=-yhmLgkudq0 <br />
 Old Rock House - 12/18/2008 <br />

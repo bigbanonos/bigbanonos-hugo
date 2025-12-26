@@ -7,7 +7,7 @@ layout: post
 <p >Updated August 6, 1921, with BigBanonos' favorite track, "White House Blues" by Charlie Poole and The North Carolina Ramblers. This 78rpm classic is featured on the *You Ain't Talkin' To Me: Charlie Poole And The Roots Of Country Music* compilation, released by Columbia/Legacy.</p> <!-- Featured Image -->
 <div > <img src="https://northcarolinahistory.org/wp-content/uploads/2024/04/North-Carolina-Ramblers.jpeg" alt="Charlie Poole and The North Carolina Ramblers - White House Blues" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/Ui6zZEerIX0" title="Charlie Poole & The North Carolina Ramblers - White House Blues" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "Ui6zZEerIX0" >}}
 </div> <!-- Song Information -->
 <div > <p>"White House Blues," released on August 6, 1921, brings Appalachian folk storytelling to life with Charlie Poole's iconic banjo and the Ramblers' rich harmonies. A must-hear track for fans of traditional country and folk.</p>
 </div> <!-- Footer Links -->

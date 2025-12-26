@@ -7,7 +7,7 @@ layout: post
 <p >Updated with BigBanonos' favorite track, "Lugu Lugu Kan-Ibi" by David Darling & The Wulu Bunun. Originally released in 2004, this song blends traditional Bunun tribal music with modern artistry, celebrating the rich heritage of Taiwan's indigenous culture.</p> <!-- Featured Image -->
 <div > <img src="https://worldmusic.net/cdn/shop/products/TUG1032_800x.jpg?v=1536217350" alt="David Darling & The Wulu Bunun - Mudanin Kata" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/U-CwjYwQF8g" title="Lugu Lugu Kan-Ibi" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "U-CwjYwQF8g" >}}
 </div> <!-- Song Information -->
 <div > <p>From the 2004 album *Mudanin Kata*, "Lugu Lugu Kan-Ibi" is a captivating piece that merges the ancient polyphonic chants of the Bunun people with David Darling's ethereal cello arrangements. This unique collaboration bridges the gap between traditional and contemporary music, offering a timeless listening experience.</p>
 </div> <!-- Footer Links -->

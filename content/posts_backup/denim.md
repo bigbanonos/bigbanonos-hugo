@@ -7,7 +7,7 @@ layout: post
 <p >Updated February 11, 2013, with "Middle Of The Road" by Denim. This track from the *70s Rock* collection by Cherry Red Records captures the spirit of britpop and C86 with Denim's distinctive sound.</p> <!-- Featured Image -->
 <div > <img src="https://i.ytimg.com/vi/QP7gnR8zMms/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AG-B4AC0AWKAgwIABABGH8gNSgjMA8=&rs=AOn4CLBDo--xH1orapXjZVzYUeVTYbB_Ww" alt="Denim - Middle Of The Road" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/TDv59XgvtrQ" title="Denim, Middle Of The Road" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "TDv59XgvtrQ" >}}
 </div> <!-- Song Information -->
 <div > <p>"Middle Of The Road" showcases Denim's clever songwriting and catchy melodies, blending britpop's energy with a nod to the nostalgic sounds of the 70s.</p>
 </div> <!-- Footer Links -->

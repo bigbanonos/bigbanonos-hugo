@@ -6,7 +6,7 @@ layout: post
 <p >Phantogramâ€™s ethereal blend of electronic beats and indie vibes has captivated fans worldwide. Discover their highlights below!</p> <!--Featured Image-->
 <div > <img alt="Phantogram" src="https://indeflagration.fr/wp-content/uploads/2016/04/Phantogram-Interview-Indeflagration.jpg" />
 </div> <!--Spotify Playlist Embed-->
-<div > <iframe allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" allowfullscreen="" frameborder="0" height="352" loading="lazy" src="https://open.spotify.com/embed/playlist/5OFGaUjr3D1FOoTJiNzBls?utm_source=generator" width="100%"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!--Song Information-->
 <div > <p><em>"When I'm Small"</em> from *Eyelid Movies* (2010) is a dreamy indietronica masterpiece.</p> <p><em>"You Donâ€™t Get Me High Anymore"</em> from *Three* (2016) dives into dark, captivating beats.</p>
 </div> <!--Footer Links-->

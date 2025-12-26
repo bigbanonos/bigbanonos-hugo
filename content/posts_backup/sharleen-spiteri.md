@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "All The Times I Cried" by Sharleen Spiteri, from the album *All The Times I Cried*, released on January 1, 2008, by EMI.</p> <!-- Featured Image -->
 <div > <img src="https://images.genius.com/af79278f884249e856015f94cd744e73.988x1000x1.jpg" alt="Sharleen Spiteri - All The Times I Cried" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="601" src="https://www.youtube.com/embed/KCL7973CEy4" title="All The Times I Cried" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "KCL7973CEy4" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"All The Times I Cried"</em> by Sharleen Spiteri is a track from the album *All The Times I Cried*, released on January 1, 2008, combining new wave pop influences with Spiteri's signature vocal style.</p>
 </div> <!-- Footer Links -->

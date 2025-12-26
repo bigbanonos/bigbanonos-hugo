@@ -4,9 +4,9 @@ layout: post
 ---
 <h2>BigBanonos' Favorite Song by White Whale - "Yummyman Farewell"</h2> <!--Search Description-->
 <p>BigBanonos' favorite track by White Whale, "Yummyman Farewell" from 2006, known for its explosive sound at the one-minute mark. Featured on the playlist below and video embedded.</p> <!--Spotify Track Embed-->
-<iframe allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" allowfullscreen="" frameborder="0" height="352" loading="lazy" src="https://open.spotify.com/embed/track/72UquIIRt09yaQ8XeKgOGq?utm_source=generator" width="100%"></iframe> <!--Video Embed-->
+{{< youtube "embed" >}} <!--Video Embed-->
 <h3>"Yummyman Farewell" Video</h3>
-<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="315" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/up5_j3h4RHI?si=LejqYsOY8etY6O7p" title="YouTube video player" width="560"></iframe> <!--Image-->
+{{< youtube "up5_j3h4RHI" >}} <!--Image-->
 <img alt="White Whale band" height="auto" src="https://i.scdn.co/image/b10dd6011e62dcbff456fdbb49bca205f2ada618" width="100%" /> <!--Tags Section-->
 <h3>Discover more unique indie favorites on <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Follow <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> for exclusive tracks and check out the curated <a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">#NotOnSpotify Playlist</a>.</h3>
 

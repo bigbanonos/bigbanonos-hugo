@@ -7,7 +7,7 @@ layout: post
 <p >BigBanonos' favorite song by Accents, "Spring Song (New Girl)," from the compilation album *Simply Soul*. Watch the video and see more details below:</p> <!-- Featured Image -->
 <div > <img src="https://i.ytimg.com/vi/XkGO6sNgnf0/hqdefault.jpg" alt="Accents - Spring Song (New Girl)" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/d618a_BjgNk" title="Accents - Spring Song (New Girl)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "d618a_BjgNk" >}}
 </div> <!-- Song Information -->
 <div > <p>"Spring Song (New Girl)" by Accents is a soulful gem, featured on the 2012 compilation album *Simply Soul*, released by Simply / Union Square Music. This track captures the uplifting spirit and emotional resonance of classic soul music.</p>
 </div> <!-- Footer Links -->

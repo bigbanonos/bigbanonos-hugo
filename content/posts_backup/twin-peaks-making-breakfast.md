@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Making Breakfast" by Twin Peaks, from the album *Wild Onion*, released on October 20, 2014, by Communion Music. This track combines elements of indie garage rock and modern power pop, capturing the essence of Chicago's vibrant indie scene.</p> <!-- Featured Image -->
 <div > <img src="https://f4.bcbits.com/img/a1068399208_65" alt="Twin Peaks - Making Breakfast" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/tl9SRsPbWLM" title="Twin Peaks - 'Making Breakfast' [Official Video]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "tl9SRsPbWLM" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Making Breakfast"</em> by Twin Peaks is a track from the album *Wild Onion*, released on October 20, 2014. Blending indie garage rock with modern power pop, it highlights the band's signature Chicago indie sound.</p>
 </div> <!-- Footer Links -->

@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "King City" by Swim Deep, from the *Where the Heaven Are We* album, released on August 5, 2013.</p> <!-- Featured Image -->
 <div > <img src="https://i.ebayimg.com/images/g/nswAAOSwvrFkQVn~/s-l400.jpg" alt="Swim Deep - King City" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/ATxs0N_DFTw" title="Swim Deep - King City" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "ATxs0N_DFTw" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"King City"</em> by Swim Deep is a track from the *Where the Heaven Are We* album, released on August 5, 2013. The song reflects the band's signature Birmingham indie and shiver pop sound.</p>
 </div> <!-- Footer Links -->

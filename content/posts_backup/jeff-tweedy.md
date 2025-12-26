@@ -7,7 +7,7 @@ layout: post
 <p >Updated January 17, 2025, with "Gwendolyn" from <em>Gwendolyn</em>. Discover the heartfelt songwriting of Jeff Tweedy in the playlist below!</p> <!-- Featured Image -->
 <div > <img src="https://variety.com/wp-content/uploads/2019/01/rexfeatures_9241399u-e1546589729722.jpg" alt="Jeff Tweedy" />
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/7orD9R5iX0VbS88rXcaGPW?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <div > <p><strong>"Gwendolyn"</strong><br> Genre: Country, Pop, Rock, Folk/Acoustic<br> Album: <em>Gwendolyn</em><br> Release Date: October 6, 2020<br> Label: dBpm Records</p>
 </div> <!-- Footer Links -->

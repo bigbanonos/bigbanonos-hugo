@@ -4,10 +4,10 @@ layout: post
 ---
 <h2>BigBanonos' Favorite Songs by Coco & Clair Clair</h2> <!-- Search Description -->
 <p>BigBanonos' top picks from Coco & Clair Clair's cloud rap tracks, known for their laid-back beats and catchy style.</p> <!-- Spotify Playlist Embed -->
-<iframe src="https://open.spotify.com/embed/playlist/1h7O6YTqepIik0E84rYLCr?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> <!-- Song Listings -->
+{{< youtube "embed" >}} <!-- Song Listings -->
 <ul> <li><strong>8:00 AM</strong> - <em>Sexy</em> - 2022-11-04 - Nice Girl World via Alternate Side and Many Hats Distribution</li> <li><strong>The Hills</strong> (feat. DEELA) - <em>Sexy</em> - 2022-11-04 - Nice Girl World via Alternate Side and Many Hats Distribution</li> <li><strong>Crushcrushcrush</strong> (feat. Paul Maxwell) - <em>Crushcrushcrush</em> - 2017-11-15 - 678</li>
 </ul> <!-- Image -->
-<img src="https://miro.medium.com/v2/resize:fit:1000/1*2CK92WxW7Jo7f9wof6Prvg.jpeg" alt="Coco & Clair Clair">
+{{< img-lite src="https://miro.medium.com/v2/resize:fit:1000/1*2CK92WxW7Jo7f9wof6Prvg.jpeg" alt="Coco & Clair Clair" >}}
 
 
 <!--Subscribe and Playlist Links-->

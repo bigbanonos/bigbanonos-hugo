@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Fake ID" by Riton & Kah-Lo, from the album *Fake ID*, released on December 16, 2017, by Last Gang.</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d0000b273eefd44a5b2c10d019aeb02f7" alt="Riton & Kah-Lo - Fake ID" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/Lp__a8p0xCY" title="Riton & Kah-Lo - Fake I.D." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "Lp__a8p0xCY" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Fake ID"</em> by Riton & Kah-Lo is a track from the album *Fake ID*, released on December 16, 2017. The song blends house, pop dance, UK dance, and Nigerian pop influences, creating an energetic, dancefloor-ready anthem.</p>
 </div> <!-- Footer Links -->

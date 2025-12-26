@@ -7,7 +7,7 @@ layout: post
 <p >Updated February 29, 2012, with "Sol." by Mausi. This vibrant track from the <em>Sol. - Single</em> release showcases the band's indie psych-pop style, blending uplifting melodies with a dreamy, sun-soaked vibe.</p> <!-- Featured Image -->
 <div > <img src="https://f4.bcbits.com/img/a0372580145_10.jpg" alt="Mausi - Sol." />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/3rkQEmnzFbg" title="Mausi - sol. (Official Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "3rkQEmnzFbg" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Sol."</em> by Mausi is a radiant indie psych-pop gem that captures the essence of carefree summer days. With its infectious rhythm and ethereal production, this track from <em>Sol. - Single</em> delivers an unforgettable listening experience.</p>
 </div> <!-- Footer Links -->

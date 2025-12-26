@@ -7,7 +7,7 @@ layout: post
 <p >Updated with *Show You the Way to Go*, a soulful disco hit by The Jacksons. This track, featured on *The Essential Jacksons*, highlights their Motown roots and the smooth groove that made them icons of the genre. Released by Epic/Legacy on March 5, 2004, it remains one of their standout tracks.</p> <!-- Featured Image -->
 <div > <img src="https://i.ytimg.com/vi/kbcErs_VFT0/maxresdefault.jpg" alt="The Jacksons - Show You the Way to Go" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/n0xcQV12DP0" title="The Jacksons - Show You the Way to Go (Official Audio)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "n0xcQV12DP0" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Show You the Way to Go"</em> is an uplifting anthem by The Jacksons, celebrated for its smooth Motown disco flair. As part of *The Essential Jacksons* album, this track remains a timeless classic in the genre of R&B and disco, giving fans a taste of their unforgettable sound.</p>
 </div> <!-- Footer Links -->

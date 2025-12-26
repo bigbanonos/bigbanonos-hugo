@@ -7,7 +7,7 @@ layout: post
 <p >Updated April 7, 2015, with "Northwood" by John Krautner. This standout track from his album <em>Fun With Gum, Vol. 1</em> captures a nostalgic yet refreshing sound that's hard to resist.</p> <!-- Featured Image -->
 <div > <img src="https://fastly-s3.allmusic.com/artist/mn0001013222/220/Vy9chXfY2ERSjObZHanyzwSijaXJlYnq0St31qpAJWo=.jpg" alt="John Krautner" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/-LySuyJkrgU" title="John Krautner - Northwood" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "-LySuyJkrgU" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Northwood"</em> is a key track from <strong>Fun With Gum, Vol. 1</strong>, released by Chatham Records in 2015. Krautner's style channels a mix of retro vibes with modern twists, making it an enduring favorite.</p>
 </div> <!-- Footer Links -->

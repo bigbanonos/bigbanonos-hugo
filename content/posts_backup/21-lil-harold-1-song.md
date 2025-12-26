@@ -2,7 +2,7 @@
 title: "21 lil harold 1 song"
 layout: post
 ---
-<iframe frameborder="0" height="270" src="https://youtube.com/embed/luqNFkb9Dx0?si=UUQiX9n3ZxhBcAjB" width="480"></iframe><div><br /></div><div>(ft. JID) Sundown [2024]</div><div><br /></div><div class="separator" ><a href="https://cdns-images.dzcdn.net/images/cover/13d0968ad38cae96a1cde6fc5ee337f0/1900x1900-000000-80-0-0.jpg" imageanchor="1"><img border="0" data-original-height="1200" data-original-width="1200" height="1200" src="https://cdns-images.dzcdn.net/images/cover/13d0968ad38cae96a1cde6fc5ee337f0/1900x1900-000000-80-0-0.jpg" width="1200" /></a></div><br /><div><br /></div>
+{{< youtube "luqNFkb9Dx0" >}}<div><br /></div><div>(ft. JID) Sundown [2024]</div><div><br /></div><div class="separator" ><a href="https://cdns-images.dzcdn.net/images/cover/13d0968ad38cae96a1cde6fc5ee337f0/1900x1900-000000-80-0-0.jpg" imageanchor="1"><img border="0" data-original-height="1200" data-original-width="1200" height="1200" src="https://cdns-images.dzcdn.net/images/cover/13d0968ad38cae96a1cde6fc5ee337f0/1900x1900-000000-80-0-0.jpg" width="1200" /></a></div><br /><div><br /></div>
 
 <!--Subscribe and Playlist Links-->
 <div>

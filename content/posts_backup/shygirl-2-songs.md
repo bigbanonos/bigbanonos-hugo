@@ -2,8 +2,8 @@
 title: "shygirl 2 songs"
 layout: post
 ---
-<h1>BigBanonos Top Songs by Shygirl</h1> <img src="https://images.squarespace-cdn.com/content/v1/62273e2d8ee74300fa7aee06/d71bc958-3abb-4689-b868-f2eeafbc54c8/88-Shygirl-2LS.jpg" alt="Shygirl"> <p>Shygirlâ€™s unique sound merges hyperpop with alternative R&B. Here are BigBanonos' top selections:</p> <ol> <li><strong>thicc</strong> | <em>thicc</em> | Released: 2023-11-14 | Because Music Ltd.</li> <li><strong>Coochie (a bedtime story)</strong> | <em>Coochie (a bedtime story)</em> | Released: 2022-07-20 | Because Music Ltd.</li>
-</ol> <div> <iframe src="https://open.spotify.com/embed/playlist/160P4P986cBKR8DYRn4aWX?utm_source=generator" width="100%" height="352" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<h1>BigBanonos Top Songs by Shygirl</h1> {{< img-lite src="https://images.squarespace-cdn.com/content/v1/62273e2d8ee74300fa7aee06/d71bc958-3abb-4689-b868-f2eeafbc54c8/88-Shygirl-2LS.jpg" alt="Shygirl" >}} <p>Shygirlâ€™s unique sound merges hyperpop with alternative R&B. Here are BigBanonos' top selections:</p> <ol> <li><strong>thicc</strong> | <em>thicc</em> | Released: 2023-11-14 | Because Music Ltd.</li> <li><strong>Coochie (a bedtime story)</strong> | <em>Coochie (a bedtime story)</em> | Released: 2022-07-20 | Because Music Ltd.</li>
+</ol> <div> {{< youtube "embed" >}}
 </div> <!-- Tags -->
 <p> Tags: @shygirl, @cosha, @clubshy
 </p>

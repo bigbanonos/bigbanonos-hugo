@@ -4,9 +4,9 @@ layout: post
 ---
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Chris Isaak</h1> <!-- Featured Image -->
-<div > <img src="https://i.scdn.co/image/ab67616d0000b27357937d25cfcbcc05ce04a517" alt="Chris Isaak">
+<div > {{< img-lite src="https://i.scdn.co/image/ab67616d0000b27357937d25cfcbcc05ce04a517" alt="Chris Isaak" >}}
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/099BGbrHcdu76mWszGVIjH?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Introductory Text -->
 <p >Chris Isaak combines haunting melodies and soulful vocals with hits like "First Comes The Night" and "Somebody's Crying." Here are BigBanonos' favorite tracks from the legendary crooner.</p> <!-- Song Highlights -->
 <div > <p>BigBanonos' standout picks:</p> <ol> <li><strong>First Comes The Night</strong> | <em>First Comes The Night</em> | Released: January 1, 2015 | Concord</li> <li><strong>Somebody's Crying</strong> | <em>Best of Chris Isaak (Remastered)</em> | Released: 2006 | Mailboat Records</li> </ol>

@@ -7,7 +7,7 @@ layout: post
 <p >Updated May 16, 2011, with "The Future's Not What It Used to Be" by Mickey Newbury. Originally released in 1971, this poignant track from the album *An American Trilogy* showcases Newburyâ€™s masterful storytelling and emotional depth within the outlaw country genre. Watch the video below!</p> <!-- Featured Image -->
 <div > <img src="https://images.genius.com/0fa04b6285996b6e35fb4de7467de5bc.1000x1000x1.jpg" alt="Mickey Newbury - The Future's Not What It Used to Be" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="733" height="480" src="https://www.youtube.com/embed/uw_v83e8L3E" title="Mickey Newbury - The Future's Not What It Used To Be" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "uw_v83e8L3E" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"The Future's Not What It Used to Be"</em>, originally recorded in 1971 and reissued in 2011 as part of *An American Trilogy* by Saint Cecilia Knows, captures Mickey Newburyâ€™s unparalleled ability to weave heartache and introspection into his outlaw country sound. This timeless classic remains a testament to Newburyâ€™s artistry and influence.</p>
 </div> <!-- Footer Links -->

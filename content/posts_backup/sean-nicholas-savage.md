@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Livin It Up" by Sean Nicholas Savage, from the album *Yummycoma*, released on October 13, 2017, by Arbutus Records.</p> <!-- Featured Image -->
 <div > <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWwPu9tF6ZoBZF6PMGy2fPaR-35J-CPqSUNA&s" alt="Sean Nicholas Savage - Livin It Up" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/a5e5UvKmdsE" title="Sean Nicholas Savage - Livin It Up" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "a5e5UvKmdsE" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Livin It Up"</em> by Sean Nicholas Savage is a track from the album *Yummycoma*, released on October 13, 2017. The song blends experimental pop with shimmer psych elements, creating a unique soundscape that's both dreamy and captivating.</p>
 </div> <!-- Footer Links -->

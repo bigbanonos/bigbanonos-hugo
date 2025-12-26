@@ -4,7 +4,7 @@ layout: post
 ---
 <h2>BigBanonos' 4 Favorite Songs by BROCKHAMPTON</h2> <!--Search Description-->
 <p>BigBanonos' top 4 favorite tracks by BROCKHAMPTON, capturing their unique boy band and rap style.</p> <!--Spotify Playlist Embed-->
-<iframe allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" allowfullscreen="" frameborder="0" height="352" loading="lazy" src="https://open.spotify.com/embed/playlist/59EIVS0lCG10QAL8AyMO5X?utm_source=generator" width="100%"></iframe> <!--Song Listings-->
+{{< youtube "embed" >}} <!--Song Listings-->
 <ul> <li>All That - <em>The Family</em> - Question Everything/RCA Records (2022-11-17)</li> <li>Any Way You Want Me - <em>The Family</em> - Question Everything/RCA Records (2022-11-17)</li> <li>The Family - <em>The Family</em> - Question Everything/RCA Records (2022-11-17)</li> <li>SUGAR - <em>GINGER</em> - Question Everything/RCA Records (2019-08-23)</li>
 </ul> <!--Image-->
 <img alt="BROCKHAMPTON" src="https://thefader-res.cloudinary.com/private_images/w_750,c_limit,f_auto,q_auto:eco/brockhampton_empire_zyf9uk/brockhampton_empire_zyf9uk.jpg" />

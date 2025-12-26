@@ -7,7 +7,7 @@ layout: post
 <p >Updated June 15, 2015, with BigBanonos' favorite track, "Gasoline" by Dave Monks. Taken from his solo debut, this introspective piece reflects the best of Canadian indie folk.</p> <!-- Featured Image -->
 <div > <img src="https://dinealonerecords.com/wp-content/uploads/2015/05/dave-monks.jpg" alt="Dave Monks - Gasoline" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/p7ydjNUiSDs" title="Dave Monks - Gasoline (Official Audio)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "p7ydjNUiSDs" >}}
 </div> <!-- Song Information -->
 <div > <p>Originally released on June 15, 2015, "Gasoline" is a standout track from Dave Monks' *All Signs Point To Yes*. Known for his work with Tokyo Police Club, Monks delivers a stripped-down, heartfelt performance in this solo endeavor.</p>
 </div> <!-- Footer Links -->

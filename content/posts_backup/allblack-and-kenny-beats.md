@@ -7,7 +7,7 @@ layout: post
 <p >Updated November 16, 2018, with BigBanonos' favorite song by ALLBLACK and Kenny Beats, "2 Minute Drills," released under Play Runners Association, D.O.T.S, and EMPIRE. Watch the video and see more details below:</p> <!-- Featured Image -->
 <div > <img src="https://thefader-res.cloudinary.com/private_images/w_1440,c_limit,f_auto,q_auto:best/Photo_Aug_19_12_34_04_PM_jsxxze/allblack-kenny-beats-2-minute-drills-interview-premiere.jpg" alt="ALLBLACK & Kenny Beats - 2 Minute Drills" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/5QkZFEy175E" title="ALLBLACK & Kenny Beats - 2 Minute Drills (Audio)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "5QkZFEy175E" >}}
 </div> <!-- Song Information -->
 <div > <p>"2 Minute Drills" by ALLBLACK and Kenny Beats is a raw and high-energy track blending Cali rap and underground hip hop styles. Released on November 16, 2018, under Play Runners Association, D.O.T.S, and EMPIRE, the song highlights ALLBLACK's sharp lyricism and Kenny Beats' dynamic production.</p>
 </div> <!-- Footer Links -->

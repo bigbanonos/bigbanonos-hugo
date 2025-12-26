@@ -5,7 +5,7 @@ layout: post
 <div class="separator" >
 <a href="https://thefader-res.cloudinary.com/private_images/w_640,c_limit,f_auto,q_auto:eco/ty-dolla-sign-purple-emoji_o593yx/ty-dolla-sign-purple-emoji-video-j-cole.jpg" imageanchor="1"><img border="0" data-original-height="426" data-original-width="600" height="284" src="https://thefader-res.cloudinary.com/private_images/w_640,c_limit,f_auto,q_auto:eco/ty-dolla-sign-purple-emoji_o593yx/ty-dolla-sign-purple-emoji-video-j-cole.jpg" width="400" /></a></div>
 <br />
-<iframe allowfullscreen="" frameborder="0" src="https://www.youtube.com/embed/660YlPoECNk?list=PLtuNtuTatqI1jrJhx283ZFThBny2bBGir" width="100%"></iframe><br />
+{{< youtube "660YlPoECNk" >}}<br />
 <h3>
 <ol>
 <li>(ft. Project Pat, Juicy J) Hottest In The City [2019]</li>

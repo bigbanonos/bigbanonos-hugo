@@ -7,7 +7,7 @@ layout: post
 <p >Updated January 1, 2001, with "Girls And Gasoline" by Marky Ramone and The Speed Kings. This high-octane track captures the raw energy of punk rock, driven by Marky Ramoneâ€™s iconic drumming. Watch the video below!</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d0000b273dfe4d0ce0ad250b015b57f2f" alt="Marky Ramone and The Speed Kings - Girls And Gasoline" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="560" height="315" src="https://www.youtube.com/embed/apEGqkGyltw" frameborder="0" allowfullscreen></iframe>
+<div > {{< youtube "apEGqkGyltw" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Girls And Gasoline"</em>, released in 2001, is a fiery punk rock anthem that showcases Marky Ramoneâ€™s unparalleled drumming skills and The Speed Kingsâ€™ electric energy. The trackâ€™s relentless pace and raw intensity make it a standout in their discography.</p>
 </div> <!-- Footer Links -->

@@ -4,9 +4,9 @@ layout: post
 ---
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Bettie Serveert</h1> <!-- Featured Image -->
-<div > <img src="https://i.scdn.co/image/ab67616d00001e023c309237cf7636f072595106" alt="Bettie Serveert">
+<div > {{< img-lite src="https://i.scdn.co/image/ab67616d00001e023c309237cf7636f072595106" alt="Bettie Serveert" >}}
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/3IoAhuucFPiuDkiajcJFUc?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Introductory Text -->
 <p >Bettie Serveert's Dutch indie rock charms with its blend of heartfelt melodies and raw emotion. From "Rudder" to "Balentine," here are BigBanonos' favorite tracks by the iconic band.</p> <!-- Song Highlights -->
 <div > <p>BigBanonos' standout picks:</p> <ol> <li><strong>Rudder</strong> | <em>Dust Bunnies</em> | Released: 1997 | PIAS Digital Benelux</li> <li><strong>Balentine</strong> | <em>Palomine</em> | Released: 1992 | Palomine Records</li> </ol>

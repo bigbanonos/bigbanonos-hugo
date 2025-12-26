@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Anything For You - All Star Cast Remix" by Snow featuring Nadine Sutherland, Louie Culture, Beenie Man, Buju Banton, Terror Fabulous, and Culture Knox, from the album *Dancehall 101 Vol. 6*, released on August 21, 2009.</p> <!-- Featured Image -->
 <div > <img src="https://i.ytimg.com/vi/5S7IVcNrCcY/maxresdefault.jpg" alt="Anything For You All Star Cast Remix" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/b7U89chEfW8" title="Snow - Anything For You | Official Music Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "b7U89chEfW8" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Anything For You (All Star Cast Remix)"</em> brings together an all-star lineup including Snow, Nadine Sutherland, Louie Culture, Beenie Man, Buju Banton, Terror Fabulous, and Culture Knox, blending Canadian old school hip hop with reggae fusion and dancehall rhythms.</p>
 </div> <!-- Footer Links -->

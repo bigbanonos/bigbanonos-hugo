@@ -3,10 +3,10 @@ title: "lizzo 3 songs"
 layout: post
 ---
 <h1>Lizzo - 3 Songs</h1>
-<img src="https://media.vanityfair.com/photos/64ca898af9a03860a86c23a1/4:3/w_1776,h_1332,c_limit/lizzo-lawsuit.jpg" alt="Lizzo"> <p>Lizzo, known for her empowering music that blends pop, hip hop, and R&B, brings an uplifting vibe with every track. Here are some of her top songs:</p> <ol> <li><strong>The Sign</strong> | Album: <em>Special</em> | Released: July 15, 2022</li> <li><strong>Truth Hurts (DaBaby Remix)</strong> | (feat. DaBaby) | Released: August 23, 2019</li> <li><strong>Special (feat. SZA)</strong> | Released: February 9, 2023</li>
-</ol> <div> <iframe src="https://open.spotify.com/embed/playlist/7kJAjsZA1D1NJ6VU76kcI6?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+{{< img-lite src="https://media.vanityfair.com/photos/64ca898af9a03860a86c23a1/4:3/w_1776,h_1332,c_limit/lizzo-lawsuit.jpg" alt="Lizzo" >}} <p>Lizzo, known for her empowering music that blends pop, hip hop, and R&B, brings an uplifting vibe with every track. Here are some of her top songs:</p> <ol> <li><strong>The Sign</strong> | Album: <em>Special</em> | Released: July 15, 2022</li> <li><strong>Truth Hurts (DaBaby Remix)</strong> | (feat. DaBaby) | Released: August 23, 2019</li> <li><strong>Special (feat. SZA)</strong> | Released: February 9, 2023</li>
+</ol> <div> {{< youtube "embed" >}}
 </div>
-<iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/videoseries?list=PLtuNtuTatqI04n3zHoliH0cvAepNziaAP" width="560"></iframe> <p>Explore Lizzo's powerful music that combines energy, soul, and a touch of sass!</p> <!-- Tags -->
+{{< youtube "videoseries" >}} <p>Explore Lizzo's powerful music that combines energy, soul, and a touch of sass!</p> <!-- Tags -->
 <p>@lizzo, @dababy, @sza</p>
 
 

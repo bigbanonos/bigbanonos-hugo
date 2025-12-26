@@ -3,7 +3,7 @@ title: "the derevolutions take it to hoop"
 layout: post
 ---
 #highlights <br />
-<iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/6c4zPjLANew?list=PLtuNtuTatqI1yENkghRNbQpTNDAqLR1my" width="95%"></iframe> <br />
+{{< youtube "6c4zPjLANew" >}} <br />
 Take It To The Hoop 2013 <br />
 Now You Know My Name 2013
 <hr />

@@ -2,7 +2,7 @@
 title: "ricky reed 1 song"
 layout: post
 ---
-<iframe allowfullscreen="" frameborder="0" height="270" src="https://www.youtube.com/embed/UxAk-J6pSR4" width="480"></iframe><br /><br />
+{{< youtube "UxAk-J6pSR4" >}}<br /><br />
 <h3><ol><li>(ft. Terrace Martin, St. Panther) Real Magic [2020]</li>
 </ol></h3>
 

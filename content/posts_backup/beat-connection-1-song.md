@@ -7,7 +7,7 @@ layout: post
 <p >Updated April 10, 2011, with BigBanonos' favorite song by Beat Connection, "Same Damn Time," from the album *Surf Noir*. Watch the video and see more details below:</p> <!-- Featured Image -->
 <div > <img src="https://res.cloudinary.com/epitaph/image/upload/c_fill,f_auto,h_200,q_auto,w_200/v1/anti/artists/bc.jpg" alt="Beat Connection - Same Damn Time" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/_tZsetp7wgY" title="Same Damn Time" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> <h3>Same Damn Time (Live on KEXP) [2013]</h3> <iframe frameborder="0" height="270" src="https://youtube.com/embed/nvzIPqh1E8k" width="480"></iframe>
+<div > {{< youtube "_tZsetp7wgY" >}} <h3>Same Damn Time (Live on KEXP) [2013]</h3> {{< youtube "nvzIPqh1E8k" >}}
 </div> <!-- Song Information -->
 <div > <p>"Same Damn Time" by Beat Connection is a shimmering blend of chillwave and electrofox, characterized by its vibrant rhythms and ethereal soundscapes. Released on April 10, 2011, under Tender Age/Classic Ills, this 4:34-long track from the album *Surf Noir* is a standout piece in the shimmer pop genre.</p>
 </div> <!-- Footer Links -->

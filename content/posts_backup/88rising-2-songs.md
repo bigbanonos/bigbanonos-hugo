@@ -2,7 +2,7 @@
 title: "88rising 2 songs"
 layout: post
 ---
-<iframe frameborder="0" height="360" src="https://youtube.com/embed/5y2228n8Z4k?list=PLtuNtuTatqI31wMe93VNDt657Mi8nJ_9r" width="480"></iframe><div><ol><li>(ft. NIKI) Split [2021]</li><li>(ft. (Joji & Jackson Wang, Swae Lee, Major Lazer) Walking [2019]</li></ol></div>
+{{< youtube "5y2228n8Z4k" >}}<div><ol><li>(ft. NIKI) Split [2021]</li><li>(ft. (Joji & Jackson Wang, Swae Lee, Major Lazer) Walking [2019]</li></ol></div>
 
 <!--Subscribe and Playlist Links-->
 <div>

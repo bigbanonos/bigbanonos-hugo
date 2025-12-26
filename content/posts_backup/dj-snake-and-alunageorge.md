@@ -7,7 +7,7 @@ layout: post
 <p >Updated October 14, 2014, with "You Know You Like It" by DJ Snake and AlunaGeorge. Originally released on October 14, 2014, this track from *Universal-Island Records Ltd.* seamlessly blends electronic trap and dance pop elements, creating a global hit.</p> <!-- Featured Image -->
 <div > <img src="https://pilerats.com/assets/Uploads/alunageorge-lxury-remix.jpg" alt="DJ Snake and AlunaGeorge - You Know You Like It" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/aBn7bjy9c4U" title="DJ Snake, AlunaGeorge - You Know You Like It" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "aBn7bjy9c4U" >}}
 </div> <!-- Song Information -->
 <div > <p>"You Know You Like It" captures the essence of a modern electronic anthem, combining AlunaGeorge's ethereal vocals with DJ Snake's signature production. It's a standout track in the realms of dance pop and EDM.</p>
 </div> <!-- Footer Links -->

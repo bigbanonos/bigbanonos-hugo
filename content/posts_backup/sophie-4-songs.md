@@ -3,9 +3,9 @@ title: "sophie 4 songs"
 layout: post
 ---
 <h1>BigBanonos Top Songs by SOPHIE</h1>
-<img src="https://i.ytimg.com/vi/m_S0qCeA-pc/maxresdefault.jpg" alt="SOPHIE"> <p>SOPHIE's groundbreaking sound combines elements of hyperpop, art pop, and bubblegum bass. Here are BigBanonos' top selections:</p> <ol> <li><strong>Immaterial</strong> | <em>OIL OF EVERY PEARL'S UN-INSIDES</em> | Released: 2018-06-14 | MSMSMSM/Future Classic</li> <li><strong>It's Okay To Cry</strong> | <em>OIL OF EVERY PEARL'S UN-INSIDES</em> | Released: 2017-06-14 | Future Classic</li> <li><strong>JUST LIKE WE NEVER SAID GOODBYE</strong> | <em>JUST LIKE WE NEVER SAID GOODBYE</em> | Released: 2015-10-16 | Numbers</li> <li><strong>Bipp</strong> | <em>Bipp / Elle - Single</em> | Released: 2013-06-17 | Numbers</li> <li><strong>BIPP - Autechre Mx</strong> | <em>BIPP (Autechre Mx)</em> | Released: 2021-01-14 | Numbers</li>
+{{< img-lite src="https://i.ytimg.com/vi/m_S0qCeA-pc/maxresdefault.jpg" alt="SOPHIE" >}} <p>SOPHIE's groundbreaking sound combines elements of hyperpop, art pop, and bubblegum bass. Here are BigBanonos' top selections:</p> <ol> <li><strong>Immaterial</strong> | <em>OIL OF EVERY PEARL'S UN-INSIDES</em> | Released: 2018-06-14 | MSMSMSM/Future Classic</li> <li><strong>It's Okay To Cry</strong> | <em>OIL OF EVERY PEARL'S UN-INSIDES</em> | Released: 2017-06-14 | Future Classic</li> <li><strong>JUST LIKE WE NEVER SAID GOODBYE</strong> | <em>JUST LIKE WE NEVER SAID GOODBYE</em> | Released: 2015-10-16 | Numbers</li> <li><strong>Bipp</strong> | <em>Bipp / Elle - Single</em> | Released: 2013-06-17 | Numbers</li> <li><strong>BIPP - Autechre Mx</strong> | <em>BIPP (Autechre Mx)</em> | Released: 2021-01-14 | Numbers</li>
 </ol> <h3>Videos for "It's Okay To Cry" (2017) and "Just Like We Never Said Goodbye" (2015)</h3>
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/m_S0qCeA-pc?list=PLtuNtuTatqI1fAQgM4M5R9AFySoMbbrYS" frameborder="0" allowfullscreen></iframe> <div> <iframe src="https://open.spotify.com/embed/playlist/4ZQYvmrFtzxielCFNOCxvj?utm_source=generator" width="100%" height="352" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+{{< youtube "embed" >}}
 </div>
 <p>Tags: @sophie, @autechre</p>
 

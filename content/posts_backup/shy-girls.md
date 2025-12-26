@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Under Attack" by Shy Girls, from the album *Timeshare*, released on October 29, 2013, by Hit City U.S.A.</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d0000b27388e0c800e871268c50020a50" alt="Shy Girls - Under Attack" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/2x-DkCkE82A" title="Shy Girls - 'Under Attack'" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "2x-DkCkE82A" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Under Attack"</em> by Shy Girls is a track from the album *Timeshare*, released on October 29, 2013. The song embodies the Portland hip hop and vapor soul movements, blending atmospheric R&B with introspective lyricism.</p>
 </div> <!-- Footer Links -->

@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "God a God" by Singjah Lion featuring Raspeck, from the album *Humble Heart Riddim*, released on April 13, 2018, by Likkle Peppa Records.</p> <!-- Featured Image -->
 <div > <img src="https://f4.bcbits.com/img/a0439248500_65" alt="Singjah Lion - God a God" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="514" src="https://www.youtube.com/embed/K_8wetKPV1c" title="Singjah Lion ft Raspeck God A God" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "K_8wetKPV1c" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"God a God"</em> by Singjah Lion featuring Raspeck is a track from the *Humble Heart Riddim* album. Released on April 13, 2018, the song showcases a vibrant mix of reggae and dancehall with a powerful message of faith and strength.</p>
 </div> <!-- Footer Links -->

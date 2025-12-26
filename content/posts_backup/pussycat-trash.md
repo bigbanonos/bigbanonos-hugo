@@ -7,7 +7,7 @@ layout: post
 <p >Updated January 1, 1993, with "Hot Bed" by Pussycat Trash. This fiery and unapologetically raw track captures the rebellious spirit of the riot grrrl movement, making it an essential listen for fans of punkâ€™s uncompromising energy. Watch and listen below!</p> <!-- Featured Image -->
 <div > <img src="https://static.wikia.nocookie.net/peel/images/a/a7/Pussycat_Trash.jpg/revision/latest?cb=20220608000459" alt="Pussycat Trash - Hot Bed" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="733" height="480" src="https://www.youtube.com/embed/fcahn6OnNlU" title="Apathy and Excess" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "fcahn6OnNlU" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Hot Bed"</em>, released in 1993, is a signature track by Pussycat Trash, encapsulating the DIY ethos and vibrant chaos of the punk scene. With its raw sound and fierce energy, the song is a powerful testament to the bandâ€™s impact on underground music.</p>
 </div> <!-- Footer Links -->

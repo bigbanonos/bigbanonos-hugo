@@ -7,7 +7,7 @@ layout: post
 <p >Updated July 26, 2019, with BigBanonos' favorite song by Braelyn, "how does one love." This emotive track blends country and chill R&B influences, showcasing Braelyn's signature Alaska indie sound. Watch the video and see more details below:</p> <!-- Featured Image -->
 <div > <img src="https://i1.sndcdn.com/artworks-000356039010-p3fdrx-t500x500.jpg" alt="Braelyn - how does one love" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/n9pjhNZqCw0" title="how does one love" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "n9pjhNZqCw0" >}}
 </div> <!-- Song Information -->
 <div > <p>"how does one love" by Braelyn is a heartfelt fusion of Alaska indie and chill R&B, offering introspection through its tender melodies. Released on July 26, 2019, this 2:17 track captivates with its unique blend of genres.</p>
 </div> <!-- Footer Links -->

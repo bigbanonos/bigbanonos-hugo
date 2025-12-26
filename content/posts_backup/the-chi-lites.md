@@ -4,9 +4,9 @@ layout: post
 ---
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by The Chi-Lites</h1> <!-- Featured Image -->
-<div > <img src="https://i.scdn.co/image/ab6761610000e5eb8548d37fd495839b1c28ccc1" alt="The Chi-Lites">
+<div > {{< img-lite src="https://i.scdn.co/image/ab6761610000e5eb8548d37fd495839b1c28ccc1" alt="The Chi-Lites" >}}
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/7a2TDhsrKwYCJOiUCTK8kp?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Introductory Text -->
 <p >The Chi-Lites, masters of Chicago soul and classic ballads, deliver unforgettable tracks like "Oh Girl" and "Have You Seen Her." Here are BigBanonos' favorite tracks from their legendary catalog.</p> <!-- Song Highlights -->
 <div > <p>BigBanonos' standout picks:</p> <ol> <li><strong>Oh Girl</strong> | <em>The Ultimate Chi-Lites</em> | Released: 2006 | Brunswick Records</li> <li><strong>Have You Seen Her</strong> | <em>20 Greatest Hits</em> | Released: 2001 | Brunswick Records</li> </ol>

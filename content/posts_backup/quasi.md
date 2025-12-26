@@ -7,7 +7,7 @@ layout: post
 <p >Updated September 9, 2003, with "Seven Years Gone" by Quasi. This introspective and raw track from *Hot Shit* highlights the duo's signature lo-fi aesthetic and emotionally charged songwriting. Watch and listen below!</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d00001e024564df08b01f34b5e217ebc8" alt="Quasi - Seven Years Gone" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="733" height="480" src="https://www.youtube.com/embed/Wynz3yq3TBs" title="Seven Years Gone" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "Wynz3yq3TBs" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Seven Years Gone"</em>, released on September 9, 2003, by Touch and Go Records, is a standout track from Quasiâ€™s *Hot Shit*. The song showcases their signature blend of lo-fi production and heartfelt lyrics, cementing their place as a staple in the indie rock scene.</p>
 </div> <!-- Footer Links -->

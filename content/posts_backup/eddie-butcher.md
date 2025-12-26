@@ -7,7 +7,7 @@ layout: post
 <p >Updated August 10, 2012, with "The Naming of the Child" by Eddie Butcher. This traditional Irish ballad from the album "Sings the Titanic and Other Traditional Folk Songs" showcases Butcherâ€™s mastery of storytelling through song.</p> <!-- Featured Image -->
 <div > <img src="https://s3.eu-west-1.amazonaws.com/images.itma.ie/wp-content/uploads/2024/08/30111422/Eddie_Butcher-scaled-e1725016677547.jpg" alt="Eddie Butcher - The Naming of the Child" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/3jwfv3CT3zo" title="Eddie Butcher - The Naming of the Child" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "3jwfv3CT3zo" >}}
 </div> <!-- Song Information -->
 <div > <p>"The Naming of the Child" is a heartfelt piece that captures the essence of traditional Irish singing. Eddie Butcher's authentic voice and lyrical depth bring this cultural gem to life.</p>
 </div> <!-- Footer Links -->

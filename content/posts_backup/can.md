@@ -3,7 +3,7 @@ title: "can"
 layout: post
 ---
 #1960s #notonspotify <br />
-<iframe width="95%" height="315" src="https://www.youtube.com/embed/A-moq-HjQpo?list=PLtuNtuTatqI0ey4ZPQmrIFPup2R9TW1JA" frameborder="0" allowfullscreen></iframe><br />
+{{< youtube "A-moq-HjQpo" >}}<br />
 I'm Hiding My Nightingale 1968
 
 <!--Subscribe and Playlist Links-->

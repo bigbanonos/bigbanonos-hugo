@@ -7,7 +7,7 @@ layout: post
 <p >Updated February 24, 2015, with "Copper Canteen" from <em>Complicated Game</em>. Explore the storytelling genius of James McMurtry in the playlist below!</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d00001e0212d81417c9a503015255fbc4" alt="James McMurtry" />
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/2KyVp465WebauRAXZWg6fC?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <div > <p><strong>"Copper Canteen"</strong><br> Genre: Country, Folk/Acoustic, Rock<br> Album: <em>Complicated Game</em><br> Release Date: February 24, 2015<br> Label: Complicated Game</p> <p><strong>"These Things I've Come to Know"</strong><br> Genre: Country, Folk/Acoustic, Rock<br> Album: <em>Complicated Game</em><br> Release Date: February 24, 2015<br> Label: Complicated Game</p>
 </div> <!-- Footer Links -->

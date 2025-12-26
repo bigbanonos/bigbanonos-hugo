@@ -5,11 +5,11 @@ layout: post
 <div class="post-title"> <h1>BigBanonos' Favorite Songs by Television</h1>
 </div>
 <p>Updated February 8, 1977, with "Marquee Moon" from the album <i>Marquee Moon</i>, highlighted in the playlist below:</p>
-<div class="post-image"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Television%2C_US_rock_band_%281977_Elektra_publicity_photo%29.jpg" alt="Television Band Publicity Photo">
+<div class="post-image"> {{< img-lite src="https://upload.wikimedia.org/wikipedia/commons/a/a0/Television%2C_US_rock_band_%281977_Elektra_publicity_photo%29.jpg" alt="Television Band Publicity Photo" >}}
 </div>
 <p>Television's groundbreaking approach to alternative rock and art punk defined an era. The songs "Marquee Moon" and "Elevation" from their debut album <i>Marquee Moon</i>, released on February 8, 1977, remain timeless classics. Their experimental sound and intricate guitar work have inspired generations of musicians and fans alike.</p>
 <p>Listen to the playlist below to experience these tracks and more:</p>
-<div class="spotify-embed"> <iframe src="https://open.spotify.com/embed/playlist/2TCa06QrL1nRUACEQSuUEE?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div class="spotify-embed"> {{< youtube "embed" >}}
 </div>
 <p>Tracks featured:</p>
 <ul> <li>"Marquee Moon" â€“ <i>Marquee Moon</i> (February 8, 1977, Elektra Records)</li> <li>"Elevation" â€“ <i>Marquee Moon</i> (February 8, 1977, Elektra Records)</li>

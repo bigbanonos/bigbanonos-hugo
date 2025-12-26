@@ -7,7 +7,7 @@ layout: post
 <p >Updated October 2, 2011, with BigBanonos' favorite track, "Let Me Get That Outcha" by Cheeky Blakk. This iconic bounce anthem is a highlight from *Dirty South Essentials, Vol. 1*.</p> <!-- Featured Image -->
 <div > <img src="https://e.snmc.io/i/1200/s/79339ee582916a70c1e762129b7d9a47/2352450" alt="Cheeky Blakk - Let Me Get That Outcha" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/-n7Szl-wQ9Y" title="Cheeky Blakk- let me get dat outcha" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "-n7Szl-wQ9Y" >}}
 </div> <!-- Song Information -->
 <div > <p>"Let Me Get That Outcha," released on October 2, 2011, embodies the vibrant energy of the bounce genre. Featured on *Dirty South Essentials, Vol. 1* and distributed by DWB Records, Cheeky Blakk's classic anthem remains a dancefloor staple.</p>
 </div> <!-- Footer Links -->

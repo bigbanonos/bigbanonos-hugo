@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "D'Evils" by SiR, from the album *November*, released on January 19, 2018, by Top Dawg Entertainment.</p> <!-- Featured Image -->
 <div > <img src="https://i.ytimg.com/vi/txZVJ24UVUs/maxresdefault.jpg" alt="SiR - D'Evils" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/txZVJ24UVUs" title="SiR - D'Evils (Official Music Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "txZVJ24UVUs" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"D'Evils"</em> by SiR is a track from the *November* album. Released on January 19, 2018, the song showcases SiR's distinctive blend of alternative R&B with a deep narrative about life challenges and personal reflections.</p>
 </div> <!-- Footer Links -->

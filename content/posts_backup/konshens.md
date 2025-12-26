@@ -7,7 +7,7 @@ layout: post
 <p >Updated February 4, 2014 with "Dancefloor" from <em>Feenin Riddim</em>. Experience the energetic beats of Konshens in the playlist below!</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d0000b2731a40dbda396e7c5dd82a2a13" alt="Konshens" />
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/140Jf3PXd8daurOD6PAGRB?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <div > <p><strong>"Dancefloor" (feat. Chanelly)</strong><br> Genre: World/Traditional<br> Album: <em>Feenin Riddim</em><br> Release Date: February 4, 2014<br> Label: Subkonshus Music</p> <p><strong>"Pull up to Mi Bumper" (feat. J Capri)</strong><br> Genre: World/Traditional<br> Album: <em>Pull up to Mi Bumper</em><br> Release Date: May 31, 2013<br> Label: Head Concussion - Konshens</p>
 </div> <!-- Footer Links -->

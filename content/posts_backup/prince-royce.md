@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Back It Up" by Prince Royce featuring Jennifer Lopez and Pitbull, an energetic Latin anthem with a perfect blend of bachata and urban vibes.</p> <!-- Featured Image -->
 <div > <img src="https://www.billboard.com/wp-content/uploads/media/Prince-Royce-cr-Elastic-People-2020-billboard-1548.jpg?w=942&h=623&crop=1" alt="Prince Royce Back It Up" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/9w9dXWU5nMI" title="Prince Royce - Back It Up (Official Video) ft. Jennifer Lopez, Pitbull" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "9w9dXWU5nMI" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Back It Up"</em> is a sizzling Latin hit by Prince Royce, featuring Jennifer Lopez and Pitbull. It blends bachata, urban Latino rhythms, and pop into a dance-floor anthem from the "Double Vision (Deluxe Edition)" album.</p>
 </div> <!-- Footer Links -->

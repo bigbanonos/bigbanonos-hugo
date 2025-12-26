@@ -7,7 +7,7 @@ layout: post
 <p >Updated July 12, 2019, with BigBanonos' favorite song by Acegawd, "Crawsis," from the *Tropical Bubble Riddim* compilation. Watch the video and see more details below:</p> <!-- Featured Image -->
 <div > <img src="https://i1.sndcdn.com/artworks-000320311428-lmgvoj-t500x500.jpg" alt="Acegawd - Crawsis" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/2JCpJlEnb6Q?list=RD2JCpJlEnb6Q" title="Acegawd - Crawsis (Lyric Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "2JCpJlEnb6Q" >}}
 </div> <!-- Song Information -->
 <div > <p>Released on July 12, 2019, "Crawsis" by Acegawd is a standout traphall track featured on the *Tropical Bubble Riddim* compilation. Produced by Johnny Wonder and Adde Instrumentals, the song delivers a vibrant and infectious energy that highlights Acegawd's unique style.</p>
 </div> <!-- Footer Links -->

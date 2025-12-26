@@ -4,9 +4,9 @@ layout: post
 ---
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by DJ Douggpound</h1> <!-- Featured Image -->
-<div > <img src="https://i.scdn.co/image/ab6761610000e5eb037eceee8cc183b610cfa98f" alt="DJ Douggpound">
+<div > {{< img-lite src="https://i.scdn.co/image/ab6761610000e5eb037eceee8cc183b610cfa98f" alt="DJ Douggpound" >}}
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/7gOPIKJtqlLzOjkq0EXYkR?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Introductory Text -->
 <p >DJ Douggpound delivers humor and rhythm with tracks like "Jumping Jacks" and "Opposite Knees," blending comedy and beats in *The Body Tight Workout.*</p> <!-- Song Highlights -->
 <div > <p>BigBanonos' standout picks:</p> <ol> <li><strong>Jumping Jacks</strong> | <em>The Body Tight Workout</em> | Released: May 9, 2019 | SBI PRESS</li> <li><strong>Opposite Knees</strong> | <em>The Body Tight Workout</em> | Released: May 9, 2019 | SBI PRESS</li> </ol>

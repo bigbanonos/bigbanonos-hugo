@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Your Ex-Lover Is Dead" by Stars, from the album *Set Yourself On Fire*, released on October 12, 2004, by Arts & Crafts.</p> <!-- Featured Image -->
 <div > <img src="https://i.ytimg.com/vi/r5Or6-HOveg/maxresdefault.jpg" alt="Stars - Your Ex-Lover Is Dead" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="514" src="https://www.youtube.com/embed/r5Or6-HOveg" title="Stars - Your Ex-Lover Is Dead" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "r5Or6-HOveg" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Your Ex-Lover Is Dead"</em> by Stars is a track from the album *Set Yourself On Fire*, released on October 12, 2004. The song features elements of Canadian indie, chamber pop, and indie rock, capturing a melancholy yet melodic soundscape.</p>
 </div> <!-- Footer Links -->

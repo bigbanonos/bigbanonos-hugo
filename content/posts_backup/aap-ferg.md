@@ -7,7 +7,7 @@ layout: post
 <p >Updated April 22, 2016, with BigBanonos' favorite song by A$AP Ferg, "World Is Mine," featuring Big Sean, from the album *ALWAYS STRIVE AND PROSPER*. Watch the video and see more details below:</p> <!-- Featured Image -->
 <div > <img src="https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2018%2F04%2Fasap-ferg-big-sean-world-is-mine-2-tww.jpg?w=1080&cbr=1&q=90&fit=max" alt="A$AP Ferg - World Is Mine" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/siBeCSdZ1OU" title="FERG - World Is Mine (Official Video) ft. Big Sean" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "siBeCSdZ1OU" >}}
 </div> <!-- Song Information -->
 <div > <p>Released on April 22, 2016, "World Is Mine" by A$AP Ferg, featuring Big Sean, blends hip hop, trap, and R&B elements into a powerful anthem of ambition and success. The track is from Fergâ€™s album *ALWAYS STRIVE AND PROSPER*, released under A$AP Worldwide and Polo Grounds Music.</p>
 </div> <!-- Footer Links -->

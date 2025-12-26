@@ -7,7 +7,7 @@ layout: post
 <p >Updated August 8, 2018, with "Beach Break" by Julietta. A smooth and soothing vapor soul track from *Smooth Sailing*, perfect for those relaxing beach moments.</p> <!-- Featured Image -->
 <div > <img src="https://f4.bcbits.com/img/0013679584_10.jpg" alt="Julietta - Beach Break" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/zi9rHsCCF-k" title="Beach Break" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "zi9rHsCCF-k" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Beach Break"</em> by Julietta delivers a smooth vapor soul vibe, blending laid-back sounds with soothing rhythms perfect for the summer.</p>
 </div> <!-- Footer Links -->

@@ -4,9 +4,9 @@ layout: post
 ---
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Bill LaBounty</h1> <!-- Featured Image -->
-<div > <img src="https://i.scdn.co/image/ab67616d0000b273695e765fc5265f56940bf33b" alt="Bill LaBounty">
+<div > {{< img-lite src="https://i.scdn.co/image/ab67616d0000b273695e765fc5265f56940bf33b" alt="Bill LaBounty" >}}
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/32qxF9qOktfOYXoDHXyU8k?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Introductory Text -->
 <p >Bill LaBountyâ€™s smooth yacht rock sound epitomizes the mellow vibes of the late 70s and early 80s. From "Livin' It Up" to "This Night Won't Last Forever," here are BigBanonos' favorite tracks by the master of deep soft rock.</p> <!-- Song Highlights -->
 <div > <p>BigBanonos' standout picks:</p> <ol> <li><strong>Livin' It Up</strong> | <em>Bill LaBounty</em> | Released: January 1, 1982 | Curb Records</li> <li><strong>I Hope You'll Be Very Unhappy Without Me</strong> | <em>This Night Won't Last Forever</em> | Released: July 21, 1978 | Curb Records</li> <li><strong>This Night Won't Last Forever</strong> | <em>This Night Won't Last Forever</em> | Released: July 21, 1978 | Curb Records</li> </ol>

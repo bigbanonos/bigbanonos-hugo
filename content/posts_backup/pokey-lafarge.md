@@ -12,7 +12,7 @@ Catch Pokey @ The Pageant, NYE 2015
 <br />
 <hr />
 #2015 <br />
-<iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/FXzEVLSoVqw?list=PLtuNtuTatqI1WcWJkhHdMy_GAx4qx47JY" width="95%"></iframe><br />
+{{< youtube "FXzEVLSoVqw" >}}<br />
 Something In The Water 2015
 
 <!--Subscribe and Playlist Links-->

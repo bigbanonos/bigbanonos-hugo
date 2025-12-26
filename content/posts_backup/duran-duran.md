@@ -4,9 +4,9 @@ layout: post
 ---
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Duran Duran</h1> <!-- Featured Image -->
-<div > <img src="https://i.scdn.co/image/ab67616d0000b273f94d8df3eae0d0510fc0cf1b" alt="Duran Duran">
+<div > {{< img-lite src="https://i.scdn.co/image/ab67616d0000b273f94d8df3eae0d0510fc0cf1b" alt="Duran Duran" >}}
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/6LvIJg8iinOo56wBBUmuLp?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Introductory Text -->
 <p >Duran Duran masterfully blends new wave and synthpop, as heard in iconic tracks like "Notorious" and the hauntingly beautiful "Come Undone."</p> <!-- Song Highlights -->
 <div > <p>BigBanonos' standout picks:</p> <ol> <li><strong>Notorious</strong> | <em>Greatest</em> | Released: November 9, 1998 | Parlophone UK</li> <li><strong>Come Undone</strong> | <em>Duran Duran</em> | Released: February 15, 1993 | Parlophone UK</li> </ol>

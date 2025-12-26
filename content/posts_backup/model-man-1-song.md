@@ -7,7 +7,7 @@ layout: post
 <p >Updated July 29, 2019, with "Clarity" by Model Man. This track from the album <em>Clarity</em>, released under Apex Faction, features a captivating blend of UK dance influences with atmospheric beats and smooth electronic production.</p> <!-- Featured Image -->
 <div > <img src="https://f4.bcbits.com/img/0033058962_10.jpg" alt="Model Man - Clarity" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/K1L3I_LJc_c" title="Model Man - Clarity" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "K1L3I_LJc_c" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Clarity"</em> by Model Man is a standout track that merges UK dance beats with deep electronic rhythms. From the album <em>Clarity</em>, the song embodies a modern, fresh take on electronic music with a balance of soulful melodies and upbeat tempos.</p>
 </div> <!-- Footer Links -->

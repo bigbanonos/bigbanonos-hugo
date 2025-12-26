@@ -7,7 +7,7 @@ layout: post
 <p >Updated August 8, 2018, with "Garden Kisses" by Giveon. This soulful masterpiece from his <em>Garden Kisses</em> release showcases his unparalleled vocal depth and emotional resonance.</p> <!-- Featured Image -->
 <div > <img src="https://variety.com/wp-content/uploads/2021/03/IMG_4927-e1616457964904.jpeg?w=1000&h=612&crop=1" alt="Giveon - Garden Kisses" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/VvZ-DKP12NY" title="Giveon - Garden Kisses (Music Video)" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "VvZ-DKP12NY" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Garden Kisses"</em> is an exquisite blend of smooth vocals and evocative lyrics, solidifying Giveon as a standout in modern R&B. Released on August 8, 2018, the track remains a timeless addition to any playlist.</p>
 </div> <!-- Footer Links -->

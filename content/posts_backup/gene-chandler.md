@@ -6,9 +6,9 @@ layout: post
 <!-- Title of the Post -->
 <h1>BigBanonos' Favorite Songs by Gene Chandler</h1> <!-- Introductory Text -->
 <p>Gene Chandler's smooth vocals and timeless soul classics have captivated audiences for decades. These are BigBanonos' favorite tracks:</p> <!-- Featured Image -->
-<div> <img src="https://i.scdn.co/image/9d949e4574dee5ee7d1c347bb2fce77dd16c76ba" alt="Gene Chandler">
+<div> {{< img-lite src="https://i.scdn.co/image/9d949e4574dee5ee7d1c347bb2fce77dd16c76ba" alt="Gene Chandler" >}}
 </div> <!-- Spotify Embed -->
-<div> <iframe src="https://open.spotify.com/embed/playlist/7kauiLk0rNFaqKTmpmAw3z?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div> {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <h3>Top Songs:</h3>
 <ul> <li><strong>You Can't Hurt Me No More</strong> | <em>The Girl Don't Care</em> | Released: 1967 | Label: Brunswick Records | Genres: Chicago Soul, Classic Soul</li> <li><strong>Duke of Earl</strong> | <em>The Duke Of Earl</em> | Released: 1962-01-01 | Label: Vee-Jay Records | Genres: Chicago Soul, Classic Soul</li>

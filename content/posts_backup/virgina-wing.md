@@ -4,7 +4,7 @@ layout: post
 ---
 <div class="separator" ><a href="https://i2.wp.com/www.firerecords.com/wp/wp-content/uploads/2019/03/VW2.jpg?fit=810%2C536&ssl=1" imageanchor="1"><img border="0" src="https://i2.wp.com/www.firerecords.com/wp/wp-content/uploads/2019/03/VW2.jpg?fit=810%2C536&ssl=1" width="400" height="265" data-original-width="800" data-original-height="529" /></a></div>
 <br />
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLtuNtuTatqI3RINGgeXt6cDiKb98WcF-u" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{< youtube "videoseries" >}}
 <br />
 <h3>Pale Burnt Lake [2019]</h3>
 

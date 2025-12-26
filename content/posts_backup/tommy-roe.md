@@ -5,11 +5,11 @@ layout: post
 <div class="post-title"> <h1>BigBanonos' Favorite Songs by Tommy Roe</h1>
 </div>
 <p>Updated May 9, 2011, with "Sheila" from the album <i>Still Dizzy - [The Dave Cash Collection]</i>, highlighted in the playlist below:</p>
-<div class="post-image"> <img src="https://lastfm.freetls.fastly.net/i/u/ar0/be5f8292172503d15b61ea6f6dc9e974.jpg" alt="Tommy Roe Album Cover">
+<div class="post-image"> {{< img-lite src="https://lastfm.freetls.fastly.net/i/u/ar0/be5f8292172503d15b61ea6f6dc9e974.jpg" alt="Tommy Roe Album Cover" >}}
 </div>
 <p>Tommy Roe, often called the "King of Bubblegum Pop," delivered timeless hits that defined an era. Tracks like "Sheila," "Dizzy," and "Hanky Panky - Re-Record" continue to captivate listeners with their catchy melodies and nostalgic charm. Released across decades, these songs showcase his enduring appeal.</p>
 <p>Listen to the playlist below to experience these tracks and more:</p>
-<div class="spotify-embed"> <iframe src="https://open.spotify.com/embed/playlist/1SffZLAZTsZ9ePESIMpIyw?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div class="spotify-embed"> {{< youtube "embed" >}}
 </div>
 <p>Tracks featured:</p>
 <ul> <li>"Sheila" â€“ <i>Still Dizzy - [The Dave Cash Collection]</i> (May 9, 2011, The Dave Cash Collection - OMP)</li> <li>"Dizzy" â€“ <i>Tommy's 22 Big Ones</i> (January 1, 2001, Geffen)</li> <li>"Hanky Panky - Re-Record" â€“ <i>All the Hits: Re-Recorded</i> (1992, Good Time Records)</li>

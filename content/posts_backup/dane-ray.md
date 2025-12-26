@@ -7,7 +7,7 @@ layout: post
 <p >Updated September 21, 2018, with BigBanonos' favorite track, "Up Again" by Dane Ray. This vibrant hit exemplifies the best of Jamaican dancehall, showcasing Dane Ray's signature style and production expertise under his label Dane Raychords.</p> <!-- Featured Image -->
 <div > <img src="https://www.dancehallmag.com/assets/2020/12/DaneRay-300x200.jpg" alt="Dane Ray - Up Again" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/qi-tqh0Ob1U" title="Dane Ray - Up Again" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "qi-tqh0Ob1U" >}}
 </div> <!-- Song Information -->
 <div > <p>Originally released on September 21, 2018, "Up Again" is a standout in Jamaican dancehall. Dane Ray delivers an energetic performance with infectious rhythms and lyrical prowess that resonate across the genre.</p>
 </div> <!-- Footer Links -->

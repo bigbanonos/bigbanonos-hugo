@@ -7,7 +7,7 @@ layout: post
 <p >Updated March 15, 2015, with "Daisychained" by Only Real. This track is a vibrant mix of indie rock and hip hop elements, with a catchy rhythm and fresh production, perfectly showcasing the artist's unique style.</p> <!-- Featured Image -->
 <div > <img src="https://i1.sndcdn.com/artworks-1299e209-2ea5-4039-adba-0374b4b788bd-0-t240x240.jpg" alt="Only Real - Daisychained" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="601" src="https://www.youtube.com/embed/0qP_3OpZMCI" title="Only Real - Daisychained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "0qP_3OpZMCI" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Daisychained"</em> is a standout track from Only Real's album <em>Jerk At The End of the Line (Deluxe)</em>, released on March 15, 2015. The song combines catchy melodies with a fun indie vibe that captures the essence of Only Real's innovative sound.</p>
 </div> <!-- Footer Links -->

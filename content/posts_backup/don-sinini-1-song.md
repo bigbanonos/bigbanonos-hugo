@@ -7,7 +7,7 @@ layout: post
 <p >Updated July 26, 2019, with "Lotus" by Don Sinini. Originally released on *Love In The Dance*, this track showcases Don Sinini's smooth fusion of rhythmic grooves and a dancehall vibe.</p> <!-- Featured Image -->
 <div > <img src="https://media.ntslive.co.uk/resize/400x400/45b04289-d416-4722-865d-b83a300fd877_1582761600.jpeg" alt="Don Sinini - Lotus" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/XW1XBCdk7PM" title="Lotus (RAHHH Remix)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "XW1XBCdk7PM" >}}
 </div> <!-- Song Information -->
 <div > <p>"Lotus" brings an effortless blend of dancehall rhythms and lyrical charm, making it a standout track for any playlist.</p>
 </div> <!-- Footer Links -->

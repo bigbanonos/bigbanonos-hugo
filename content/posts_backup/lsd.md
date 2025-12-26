@@ -2,7 +2,7 @@
 title: "lsd"
 layout: post
 ---
-<iframe width="95%" height="315" src="https://www.youtube.com/embed/tjA7nAHOAww" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe><br /><h3>(ft. Diplo, Sia, Labrinth) Audio [2018}</h3>
+{{< youtube "tjA7nAHOAww" >}}<br /><h3>(ft. Diplo, Sia, Labrinth) Audio [2018}</h3>
 
 <!--Subscribe and Playlist Links-->
 <div>

@@ -7,7 +7,7 @@ layout: post
 <p >Updated January 13, 2023, with "County Road" from <em>Strays</em>. Experience the soulful alternative country of Margo Price in the playlist below!</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab6761610000517404ecbe160084bb4d8fc48842" alt="Margo Price" />
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/4flEdKmHdVYKMzwe03eZFc?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <div > <p><strong>"County Road"</strong><br> Genre: Country, Folk/Acoustic<br> Album: <em>Strays</em><br> Release Date: January 13, 2023<br> Label: Loma Vista Recordings</p> <p><strong>"Landfill"</strong><br> Genre: Country, Folk/Acoustic<br> Album: <em>Strays</em><br> Release Date: January 13, 2023<br> Label: Loma Vista Recordings</p>
 </div> <!-- Footer Links -->

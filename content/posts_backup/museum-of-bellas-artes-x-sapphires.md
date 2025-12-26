@@ -7,7 +7,7 @@ layout: post
 <p >Updated June 24, 2009, with "Who Do You Love" by Museum of Bellas Artes. This track from the album <em>Who Do You Love</em>, released under Force Majeure, features a captivating blend of Swedish synthpop, with lush electronic production and catchy melodies.</p> <!-- Featured Image -->
 <div > <img src="https://lastfm.freetls.fastly.net/i/u/ar0/8be70979fdd548c896f2354ff87eda63.jpg" alt="Museum of Bellas Artes - Who Do You Love" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="501" src="https://www.youtube.com/embed/Q5d7HcD_X3Y" title="Museum of Bellas Artes - Who do you love" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> <br .< <iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/Q5d7HcD_X3Y?list=PLtuNtuTatqI0T_GCRVtVWFUSn_PgEFzjS" width="95%"></iframe><br />
+<div > {{< youtube "Q5d7HcD_X3Y" >}} <br .< {{< youtube "Q5d7HcD_X3Y" >}}<br />
 Who Do You Love (Sapphires)
 <hr />
 </div> <!-- Song Information -->

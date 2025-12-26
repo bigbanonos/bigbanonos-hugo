@@ -7,7 +7,7 @@ layout: post
 <p >Updated August 27, 2013, with "Amy (feat. V)" by Goodie Mob. This standout track from their album <em>Age Against The Machine</em> blends the group's signature southern hip hop style with introspective lyrics and a memorable feature from V.</p> <!-- Featured Image -->
 <div > <img src="https://variety.com/wp-content/uploads/2020/10/Goodie-Mob-1.jpg?w=1000&h=562&crop=1" alt="Goodie Mob - Amy (feat. V)" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/zD_23ntsVYU" title="GOODIE MOB - AMY (FEATURING V.)" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "zD_23ntsVYU" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Amy"</em> highlights Goodie Mob's continued evolution, showcasing their ability to weave conscious themes with the gritty sound of southern hip hop. Released on August 27, 2013, it stands as a testament to their relevance in the hip hop landscape.</p>
 </div> <!-- Footer Links -->

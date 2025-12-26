@@ -2,7 +2,7 @@
 title: "normani"
 layout: post
 ---
-<p><iframe allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" allowfullscreen="" frameborder="0" height="352" loading="lazy" src="https://open.spotify.com/embed/playlist/5028vdKuFekFd6ewtJ1afw?utm_source=generator" width="100%"></iframe></p> <p><strong>Updated June 14, 2024 with "Big Boy" feat. Starrah.</strong></p> <p><strong>BigBanonos' favorite Normani tracks</strong> showcase her unique blend of pop and R&B sounds, from chart-topping collaborations to solo gems. Find the full playlist above and follow BigBanonos for more on today's best tracks.</p> <p><strong>Songs:</strong><br />
+<p>{{< youtube "embed" >}}</p> <p><strong>Updated June 14, 2024 with "Big Boy" feat. Starrah.</strong></p> <p><strong>BigBanonos' favorite Normani tracks</strong> showcase her unique blend of pop and R&B sounds, from chart-topping collaborations to solo gems. Find the full playlist above and follow BigBanonos for more on today's best tracks.</p> <p><strong>Songs:</strong><br />
 1. <em>Big Boy (feat. Starrah)</em> â€“ <em>DOPAMINE</em>, 2024-06-14<br />
 2. <em>Candy Paint</em> â€“ <em>Candy Paint</em>, 2024-05-31<br />
 3. <em>Fair</em> â€“ <em>Fair</em>, 2022-03-18<br />

@@ -7,7 +7,7 @@ layout: post
 <p >Updated January 1, 2002, with BigBanonos' favorite song by Baby and Clipse, "What Happened To That Boy," from the album *Birdman*. Watch the video and see more details below:</p> <!-- Featured Image -->
 <div > <img src="https://i.ytimg.com/vi/MX6rC1krGp0/mqdefault.jpg" alt="Baby and Clipse - What Happened To That Boy" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/MX6rC1krGp0" title="Baby ft. Clipse - What Happened To That Boy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "MX6rC1krGp0" >}}
 </div> <!-- Song Information -->
 <div > <p>"What Happened To That Boy" by Baby featuring Clipse is a hard-hitting hip hop anthem that blends alternative and southern hip hop influences with a hardcore edge. Released on January 1, 2002, under Universal Music, this track remains a defining collaboration in early 2000s rap, showcasing Clipse's sharp lyricism and Baby's commanding presence.</p>
 </div> <!-- Footer Links -->

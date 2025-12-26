@@ -7,7 +7,7 @@ layout: post
 <p >Updated July 12, 2019, with "Stew Peas" by Elegant. A lively track from the *Symbiotic Riddim* album, bringing flavorful rhythms and energetic vibes.</p> <!-- Featured Image -->
 <div > <img src="https://mx3.ch/pictures/mx3/file/0094/4291/square_large/12.jpg?1575371354" alt="Elegant - Stew Peas" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/Q3S_lBdczJU" title="Elegant - Stew Peas - Symbiotic Riddim (GoldenVibes Productions)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "Q3S_lBdczJU" >}}
 </div> <!-- Song Information -->
 <div > <p>"Stew Peas" is an uplifting dancehall track that infuses rich production from the *Symbiotic Riddim*, capturing the energy and vibrancy of Elegant's style.</p>
 </div> <!-- Footer Links -->

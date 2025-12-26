@@ -3,8 +3,8 @@ title: "songs ohia 2 songs"
 layout: post
 ---
 <h1>BigBanonos Top Songs by Songs: Ohia</h1>
-<img src="https://i.scdn.co/image/fd59608619178160be661f5027c04afc359255b9" alt="Songs: Ohia"> <p>Songs: Ohia, led by Jason Molina, is known for deeply emotional lyrics and a unique mix of indie rock and alternative country. Here are BigBanonos' favorites:</p> <ol> <li><strong>I've Been Riding With The Ghost</strong> | <em>The Magnolia Electric Co.</em> | Released: 2003-04-03 | Secretly Canadian</li> <li><strong>Farewell Transmission</strong> | <em>Magnolia Electric Co. (Deluxe Edition)</em> | Released: 2003-04-03 | Secretly Canadian</li>
-</ol> <div> <iframe src="https://open.spotify.com/embed/playlist/77Byl1WCNnwtLKqqb0OwFq?utm_source=generator" width="100%" height="352" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+{{< img-lite src="https://i.scdn.co/image/fd59608619178160be661f5027c04afc359255b9" alt="Songs: Ohia" >}} <p>Songs: Ohia, led by Jason Molina, is known for deeply emotional lyrics and a unique mix of indie rock and alternative country. Here are BigBanonos' favorites:</p> <ol> <li><strong>I've Been Riding With The Ghost</strong> | <em>The Magnolia Electric Co.</em> | Released: 2003-04-03 | Secretly Canadian</li> <li><strong>Farewell Transmission</strong> | <em>Magnolia Electric Co. (Deluxe Edition)</em> | Released: 2003-04-03 | Secretly Canadian</li>
+</ol> <div> {{< youtube "embed" >}}
 </div>
 <p>Tags: @songsohia</p>
 

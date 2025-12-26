@@ -2,7 +2,7 @@
 title: "cameron knowler 1 song"
 layout: post
 ---
-<iframe frameborder="0" height="360" src="https://youtube.com/embed/81tSWW01_yQ" width="480"></iframe><h2><ol><li>(ft. Eli Winter) And So I Did</li></ol></h2>
+{{< youtube "81tSWW01_yQ" >}}<h2><ol><li>(ft. Eli Winter) And So I Did</li></ol></h2>
 
 <!--Subscribe and Playlist Links-->
 <div>

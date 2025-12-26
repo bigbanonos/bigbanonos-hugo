@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "The Tracks of My Tears" by Smokey Robinson & The Miracles, from the album *Stevie Wonder/Jimmy Ruffin/Smokey Robinson & The Miracles*, released on July 28, 2003, by Universal International Music B.V.</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d0000b27380c470234f5ffd835eebe5c7" alt="Smokey Robinson & The Miracles - The Tracks of My Tears" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="601" src="https://www.youtube.com/embed/Yf2CB32jDYc" title="The Tracks of My Tears" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "Yf2CB32jDYc" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"The Tracks of My Tears"</em> by Smokey Robinson & The Miracles is a classic Motown track, known for its soul and quiet storm influences. The song has remained a timeless anthem of heartbreak.</p>
 </div> <!-- Footer Links -->

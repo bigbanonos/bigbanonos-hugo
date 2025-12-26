@@ -7,7 +7,7 @@ layout: post
 <p >Updated July 21, 2015, with BigBanonos' favorite track by BUD, "Tonight." This track, featured on the *Buy Out Riddim* released by K-Licious Music, showcases a classic vibe thatâ€™s unforgettable. Watch the video and see more details below:</p> <!-- Featured Image -->
 <div > <img src="https://i.ytimg.com/vi/YmlHxOhfyY0/maxresdefault.jpg" alt="BUD - Tonight" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/EIsFMlDTCHA" title="Bud Tonight Buy Out Riddim" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "EIsFMlDTCHA" >}}
 </div> <!-- Song Information -->
 <div > <p>"Tonight" by BUD, released on July 21, 2015, via K-Licious Music, is a standout track from the iconic *Buy Out Riddim*. This trackâ€™s smooth rhythm and infectious energy make it a favorite on any playlist.</p>
 </div> <!-- Footer Links -->

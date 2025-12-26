@@ -2,7 +2,7 @@
 title: "mando diao"
 layout: post
 ---
-<h2>BigBanonos' Favorite Songs by Mando Diao</h2> <p><strong>Updated September 22, 2004, with "Cut the Rope" from <em>Hurricane Bar</em></strong></p> <img src="https://i.scdn.co/image/ab67616d0000b2735ff4fd2604a173855f640e1b" width="100%" alt="Mando Diao"> <p>Swedish rock band Mando Diao blended garage rock and melodic songwriting. Below are BigBanonos' favorite songs.</p> <h3>Listen on Spotify</h3> <iframe src="https://open.spotify.com/embed/playlist/4o95NPpOTSA57FVSyY01kA?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> <h3>"Cut the Rope"</h3>
+<h2>BigBanonos' Favorite Songs by Mando Diao</h2> <p><strong>Updated September 22, 2004, with "Cut the Rope" from <em>Hurricane Bar</em></strong></p> {{< img-lite src="https://i.scdn.co/image/ab67616d0000b2735ff4fd2604a173855f640e1b" alt="Mando Diao" >}} <p>Swedish rock band Mando Diao blended garage rock and melodic songwriting. Below are BigBanonos' favorite songs.</p> <h3>Listen on Spotify</h3> {{< youtube "embed" >}} <h3>"Cut the Rope"</h3>
 <p><em>Hurricane Bar</em>, 2004</p> <h3>"P.U.S.A."</h3>
 <p><em>Bring 'Em In</em>, 2002</p> <h3>"You Can't Steal My Love"</h3>
 <p><em>Hurricane Bar</em>, 2004</p> <hr /> <p><strong>Tags:</strong> @mandodiao</p> <hr /> <p><em>First posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>

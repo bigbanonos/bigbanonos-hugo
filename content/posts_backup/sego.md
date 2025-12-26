@@ -4,7 +4,7 @@ layout: post
 ---
 <div class="separator" ><a href="https://f4.bcbits.com/img/a2437054594_16.jpg" imageanchor="1"><img border="0" src="https://f4.bcbits.com/img/a2437054594_16.jpg" width="400" height="400" data-original-width="700" data-original-height="700" /></a></div>
 <br />
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLtuNtuTatqI3HusEUKzczu5y14f1cjcAf" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{< youtube "videoseries" >}}
 <br />
 <h3>(ft. Vacationer) YAH. [2019]</h3>
 

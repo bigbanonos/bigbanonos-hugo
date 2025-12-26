@@ -6,7 +6,7 @@ layout: post
 <p >Overmono is redefining electronic music with their innovative future garage soundscapes. Dive into their top tracks below!</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d0000b273dd8fbf4e3c304f6b3602a745" alt="Overmono" />
 </div> <!-- Spotify Playlist Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/0y9uEoiPXVlcBVM63KpqFI?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Gfortune"</em> from *Cash Romantic* (2022) showcases their mastery of the genre.</p> <p>Tracks like <em>"So U Kno"</em> and <em>"If U Ever"</em> highlight their innovative approach to electronic music.</p>
 </div> <!-- Footer Links -->

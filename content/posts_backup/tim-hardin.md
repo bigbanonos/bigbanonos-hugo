@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Reason to Believe" by Tim Hardin, from the album *20th Century Masters: The Millennium Collection: Best of Tim Hardin*, released on January 1, 2002. This timeless folk classic captures Hardin's hauntingly soulful style and influence in the singer-songwriter genre.</p> <!-- Featured Image -->
 <div > <img src="https://i.ytimg.com/vi/dUWZw8uDak4/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDO9pV2fFTJWRV8QSuSdxhZUjpdgA" alt="Tim Hardin - Reason to Believe" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="514" src="https://www.youtube.com/embed/-bW6VZi0ICs" title="Reason to Believe Tim Hardin" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "-bW6VZi0ICs" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Reason to Believe"</em> by Tim Hardin is a signature folk ballad that stands as one of his most influential songs. Featured in the album *20th Century Masters: The Millennium Collection: Best of Tim Hardin*, it beautifully showcases his talent as a singer-songwriter.</p>
 </div> <!-- Footer Links -->

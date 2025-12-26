@@ -7,7 +7,7 @@ layout: post
 </ol> <p>Also check out BigBanonos' posts on:</p>
 <ul> <li><a href="https://bigbanonos.blogspot.com/2024/01/teezo-touchdown-15-songs.html">Top 15 Songs by Teezo Touchdown</a></li> <li><a href="https://bigbanonos.blogspot.com/2020/07/brent-faiyaz-2-songs.html">Top 11 Songs by Brent Faiyaz</a></li> <li><a href="https://bigbanonos.blogspot.com/2024/05/vince-staples-18-songs.html">Top 18 Songs by Vince Staples</a></li> <li><a href="https://bigbanonos.blogspot.com/2024/08/aap-rocky-5-songs.html">Top 5 Songs by A$AP Rocky</a></li>
 </ul> <!--Playlist Embed-->
-<iframe allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" allowfullscreen="" frameborder="0" height="352" loading="lazy" src="https://open.spotify.com/embed/playlist/7mOKWwfnrKhSBqAD1d8xEd?utm_source=generator" width="100%"></iframe> <!--Image-->
+{{< youtube "embed" >}} <!--Image-->
 <img alt="Tyler, The Creator Image" src="https://media.pitchfork.com/photos/5d1a3fa749bcdc0008fbc54f/16:9/w_1680,h_945,c_limit/Tyler-Ice-Cream.jpg" /> 
 
 <!--Subscribe and Playlist Links-->

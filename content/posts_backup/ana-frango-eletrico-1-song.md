@@ -2,7 +2,7 @@
 title: "ana frango eletrico 1 song"
 layout: post
 ---
-<iframe allowfullscreen="" frameborder="0" height="270" src="https://www.youtube.com/embed/ypjv1Qofdfk" width="480"></iframe><br /><br />
+{{< youtube "ypjv1Qofdfk" >}}<br /><br />
 <h3><ol><li>Chocolate [2020]</li>
 </ol></h3>
 

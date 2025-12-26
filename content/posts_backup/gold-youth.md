@@ -5,9 +5,9 @@ layout: post
 <!-- Title of the Post -->
 <h1>BigBanonos' Top Songs by Gold & Youth</h1> <!-- Introductory Text -->
 <p>Gold & Youth blend electronic and indie rock influences to craft atmospheric and evocative tracks. Here are BigBanonos' top picks from their discography:</p> <!-- Featured Image -->
-<div> <img src="https://i.scdn.co/image/ab6761610000e5eb1af7491be83446411667a3f7" alt="Gold & Youth">
+<div> {{< img-lite src="https://i.scdn.co/image/ab6761610000e5eb1af7491be83446411667a3f7" alt="Gold & Youth" >}}
 </div> <!-- Spotify Embed -->
-<div> <iframe src="https://open.spotify.com/embed/playlist/1N5aspq7gSipap8bI4ZzsD?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div> {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <h3>Top Songs:</h3>
 <ul> <li><strong>City of Quartz</strong> | <em>Beyond Wilderness</em> | Released: 2013-05-14 | Label: Arts&Crafts | Genres: Speed Garage, Vancouver Indie</li> <li><strong>Little Wild Love</strong> | <em>Beyond Wilderness</em> | Released: 2013-05-14 | Label: Arts&Crafts | Genres: Speed Garage, Vancouver Indie</li>

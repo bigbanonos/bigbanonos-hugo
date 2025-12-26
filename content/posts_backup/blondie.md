@@ -4,9 +4,9 @@ layout: post
 ---
  <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Blondie</h1> <!-- Featured Image -->
-<div > <img src="https://i.scdn.co/image/ab6761610000e5eb67dc4da82c968767d994f3c3" alt="Blondie">
+<div > {{< img-lite src="https://i.scdn.co/image/ab6761610000e5eb67dc4da82c968767d994f3c3" alt="Blondie" >}}
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/6p7oAQlbZJgdCB7dtdbXl2?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Introductory Text -->
 <p >Blondieâ€™s blend of new wave, punk, and pop created a legacy of timeless hits. From "Heart Of Glass" to "Sunday Girl," here are BigBanonos' favorite tracks by this iconic band.</p> <!-- Song Highlights -->
 <div > <p>BigBanonos' standout picks:</p> <ol> <li><strong>I Love You Honey, Give Me A Beer (Go Through It)</strong> | <em>I Love You Honey, Give Me A Beer (Go Through It)</em> | Released: July 7, 2022 | UMC (Universal Music Catalogue)</li> <li><strong>Heart Of Glass</strong> | <em>Parallel Lines</em> | Released: September 23, 1978 | Chrysalis\EMI Records (USA)</li> <li><strong>Sunday Girl</strong> | <em>Best Of Blondie</em> | Released: October 31, 1981 | Chrysalis\EMI Records (USA)</li> </ol>

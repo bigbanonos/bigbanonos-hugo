@@ -4,10 +4,10 @@ layout: post
 ---
 <h3>BigBanonos Favorite Song by Rajahwild</h3>
 <p>Updated December 25, 2024</p> <!-- Featured Image -->
-<div > <a href="https://static.wixstatic.com/media/10f2e2_b9f67e18ad6b4b94982f7085548602a1~mv2.jpeg/v1/fill/w_980,h_1225,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/10f2e2_b9f67e18ad6b4b94982f7085548602a1~mv2.jpeg" target="_blank"> <img src="https://static.wixstatic.com/media/10f2e2_b9f67e18ad6b4b94982f7085548602a1~mv2.jpeg/v1/fill/w_980,h_1225,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/10f2e2_b9f67e18ad6b4b94982f7085548602a1~mv2.jpeg" alt="Rajahwild - Overflow"> </a>
+<div > <a href="https://static.wixstatic.com/media/10f2e2_b9f67e18ad6b4b94982f7085548602a1~mv2.jpeg/v1/fill/w_980,h_1225,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/10f2e2_b9f67e18ad6b4b94982f7085548602a1~mv2.jpeg" target="_blank"> {{< img-lite src="https://static.wixstatic.com/media/10f2e2_b9f67e18ad6b4b94982f7085548602a1~mv2.jpeg/v1/fill/w_980,h_1225,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/10f2e2_b9f67e18ad6b4b94982f7085548602a1~mv2.jpeg" alt="Rajahwild - Overflow" >}} </a>
 </div> <!-- YouTube Video Embed -->
 <h4>Watch "Overflow" (Official Music Video):</h4>
-<div > <iframe width="685" height="385" src="https://www.youtube.com/embed/0R-Eo7CRzBg" title="RajahWild - Overflow (Official Music Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "0R-Eo7CRzBg" >}}
 </div> <!-- Footer Links -->
 <hr />
 <p>For more updates, visit <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_blank">BigBanonos</a>. Also, check out our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> channel and follow us on <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a> for exclusive content!</p>

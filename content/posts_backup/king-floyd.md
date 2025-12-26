@@ -2,8 +2,8 @@
 title: "king floyd"
 layout: post
 ---
-<h2>BigBanonos' Favorite Songs by King Floyd</h2> <p><strong>Updated 1971, with "Groove Me" from <em>King Floyd</em></strong></p> <img src="https://i.scdn.co/image/ab67616d0000b273304772c154c32c6fb08c731f" width="100%" alt="King Floyd"> <p>King Floyd brought classic soul and funk energy to the early '70s, delivering unforgettable grooves. Below is BigBanonos' favorite song.</p> <h3>"Groove Me"</h3>
-<p>1971</p> <iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/NZG9Sclq_54?list=PLtuNtuTatqI27rEpl6sppn5M8ja8x3-Rz" width="95%"></iframe> <hr /> <p><strong>Tags:</strong> @kingfloyd</p> <hr /> <p><em>First posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+<h2>BigBanonos' Favorite Songs by King Floyd</h2> <p><strong>Updated 1971, with "Groove Me" from <em>King Floyd</em></strong></p> {{< img-lite src="https://i.scdn.co/image/ab67616d0000b273304772c154c32c6fb08c731f" alt="King Floyd" >}} <p>King Floyd brought classic soul and funk energy to the early '70s, delivering unforgettable grooves. Below is BigBanonos' favorite song.</p> <h3>"Groove Me"</h3>
+<p>1971</p> {{< youtube "NZG9Sclq_54" >}} <hr /> <p><strong>Tags:</strong> @kingfloyd</p> <hr /> <p><em>First posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
 
 
 <!--Subscribe and Playlist Links-->

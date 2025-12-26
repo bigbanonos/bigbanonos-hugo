@@ -3,10 +3,10 @@ title: "the raconteurs"
 layout: post
 ---
 <h3>BigBanonos' Favorite Songs by The Raconteurs</h3> <!-- Featured Image -->
-<div > <a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fvinyl.fandom.com%2Fwiki%2FThe_Raconteurs&psig=AOvVaw2UD_1ehgSn-mdyJHiEhNkS&ust=1731106050051000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLCP2N-my4kDFQAAAAAdAAAAABAE" target="_blank"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fvinyl.fandom.com%2Fwiki%2FThe_Raconteurs&psig=AOvVaw2UD_1ehgSn-mdyJHiEhNkS&ust=1731106050051000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLCP2N-my4kDFQAAAAAdAAAAABAE" alt="The Raconteurs"> </a>
+<div > <a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fvinyl.fandom.com%2Fwiki%2FThe_Raconteurs&psig=AOvVaw2UD_1ehgSn-mdyJHiEhNkS&ust=1731106050051000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLCP2N-my4kDFQAAAAAdAAAAABAE" target="_blank"> {{< img-lite src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fvinyl.fandom.com%2Fwiki%2FThe_Raconteurs&psig=AOvVaw2UD_1ehgSn-mdyJHiEhNkS&ust=1731106050051000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLCP2N-my4kDFQAAAAAdAAAAABAE" alt="The Raconteurs" >}} </a>
 </div> <!-- Introductory Text -->
 <p>Updated March 5, 2008, with "Five on the Five." BigBanonos highlights their favorite tracks from The Raconteurs, showcasing the band's unique blend of garage rock, modern blues, and indie rock vibes.</p> <!-- Spotify Playlist Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/6ASEeoCl5B92Im3OLoVr2c?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Song List -->
 <h4>Top Songs:</h4>
 <ol> <li><strong>Five on the Five</strong> | <em>Consolers of the Lonely</em> | Released: March 5, 2008 | Warner Records | Genre: alternative rock, garage rock revival, indie rock, modern blues</li> <li><strong>Broken Boy Soldier</strong> | <em>Broken Boy Soldiers</em> | Released: 2006 | Third Man Records | Genre: alternative rock, garage rock, modern blues, supergroup</li>

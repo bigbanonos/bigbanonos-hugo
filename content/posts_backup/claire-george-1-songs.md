@@ -4,10 +4,10 @@ layout: post
 ---
 <h2>BigBanonos' Favorite Songs by Claire George</h2> <!-- Search Description -->
 <p>BigBanonos' picks from Claire George's emotional, atmospheric tracks off "The Land Beyond the Light."</p> <!-- Spotify Playlist Embed -->
-<iframe src="https://open.spotify.com/embed/playlist/2zTqz1E5oYBPFfWnmMy9VH?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> <!-- Song Listings -->
+{{< youtube "embed" >}} <!-- Song Listings -->
 <ul> <li><strong>Pink Elephants</strong> - <em>The Land Beyond the Light</em> - 2021-05-21</li> <li><strong>Northern Lights</strong> - <em>The Land Beyond the Light</em> - 2021-05-21</li>
 </ul> <!-- Image -->
-<img src="https://i1.sndcdn.com/avatars-QLkLqMszy9iw4pKA-4duKJQ-t1080x1080.jpg" alt="Claire George">
+{{< img-lite src="https://i1.sndcdn.com/avatars-QLkLqMszy9iw4pKA-4duKJQ-t1080x1080.jpg" alt="Claire George" >}}
 
 
 <!--Subscribe and Playlist Links-->

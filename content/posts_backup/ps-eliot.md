@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Incoherent Love Songs" by P.S. Eliot from *Introverted Romance In Our Troubled Minds*. This indie punk gem from Alabamaâ€™s P.S. Eliot explores emotional complexity with raw, vulnerable energy.</p> <!-- Featured Image -->
 <div > <img src="https://media.npr.org/assets/img/2016/09/15/pseliot_irhp_tianatimmerberg15_wide-7b12499e79073dab4703bccb0567d2fab19751e7.jpg" alt="P.S. Eliot - Incoherent Love Songs" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/5Jk3QsqNzuo" title="Incoherent Love Songs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "5Jk3QsqNzuo" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Incoherent Love Songs"</em> from P.S. Eliotâ€™s *Introverted Romance In Our Troubled Minds* brings a unique blend of indie punk and emotional depth, capturing a small room intimacy with loud, earnest passion.</p>
 </div> <!-- Footer Links -->

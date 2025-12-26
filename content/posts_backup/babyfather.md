@@ -4,9 +4,9 @@ layout: post
 ---
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Babyfather</h1> <!-- Featured Image -->
-<div > <img src="https://i.scdn.co/image/ab67616d0000b273197c88ce274bb0228a1979ba" alt="Babyfather">
+<div > {{< img-lite src="https://i.scdn.co/image/ab67616d0000b273197c88ce274bb0228a1979ba" alt="Babyfather" >}}
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/4RtbIU5aVmT0wO3g1tCdVw?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Introductory Text -->
 <p >Babyfather delivers genre-defying fluxwork vibes with experimental flair. From the raw energy of "Snakeman Freestyle" to the introspective "Penelope Freestyle," here are BigBanonos' favorite picks from *419 (Remastered)*.</p> <!-- Song Highlights -->
 <div > <p>BigBanonos' standout picks:</p> <ol> <li><strong>Snakeman Freestyle</strong> | <em>419 (Remastered)</em> | Released: November 26, 2016 | World Music</li> <li><strong>Penelope Freestyle</strong> | <em>419 (Remastered)</em> | Released: November 26, 2016 | World Music</li> </ol>

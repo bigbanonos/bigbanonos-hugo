@@ -3,7 +3,7 @@ title: "trail of dead"
 layout: post
 ---
 <div> <img alt="...And You Will Know Us by the Trail of Dead" src="https://i.scdn.co/image/ab67616d0000b273b9a2d0905980c70ffb110aa4" width="100%" />
-</div> <iframe allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" allowfullscreen="" frameborder="0" height="352" loading="lazy" src="https://open.spotify.com/embed/playlist/0sXXP0nRpoYKnnjoanbigC?utm_source=generator" width="100%"></iframe> <p>
+</div> {{< youtube "embed" >}} <p>
 BigBanonos' favorite ...And You Will Know Us by the Trail of Dead songs, ordered by release date:
 </p> <p></p><ol><li>
 Don't Look Down â€“ <i>Don't Look Down</i>, November 15, 2019, Dine Alone Music Inc.</li><li>

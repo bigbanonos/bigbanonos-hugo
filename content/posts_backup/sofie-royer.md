@@ -3,10 +3,10 @@ title: "sofie royer"
 layout: post
 ---
 <h3>BigBanonos' Favorite Songs by Sofie Royer</h3>
-<div > <a href="https://www.loudandquiet.com/files/2022/09/Sofie-Royer-2022-03-press-shot-credit_-Kyle-Keese.jpeg" target="_blank"> <img src="https://www.loudandquiet.com/files/2022/09/Sofie-Royer-2022-03-press-shot-credit_-Kyle-Keese.jpeg" alt="Sofie Royer"> </a>
+<div > <a href="https://www.loudandquiet.com/files/2022/09/Sofie-Royer-2022-03-press-shot-credit_-Kyle-Keese.jpeg" target="_blank"> {{< img-lite src="https://www.loudandquiet.com/files/2022/09/Sofie-Royer-2022-03-press-shot-credit_-Kyle-Keese.jpeg" alt="Sofie Royer" >}} </a>
 </div>
 <p>Updated August 31, 2022, with Sofie Royer's track <strong>"Klein-Marx"</strong>. BigBanonos highlights her signature Vienna indie style.</p>
-<iframe src="https://open.spotify.com/embed/playlist/4QvVWxzxSVDGUsjPFLOiIX?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+{{< youtube "embed" >}}
 <h4>Top Songs:</h4>
 <ol> <li><strong>Klein-Marx</strong> | <em>Klein-Marx</em> | Released: August 31, 2022 | Stones Throw Records</li> <li><strong>Baker Miller Pink</strong> | <em>Feeling Bad Forsyth Street</em> | Released: July 26, 2022 | Stones Throw Records</li>
 </ol>

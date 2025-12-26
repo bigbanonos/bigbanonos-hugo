@@ -3,7 +3,7 @@ title: "jake leech at apop records 9182013"
 layout: post
 ---
 #stlouis #live <br />
-<iframe width="95%" height="315" src="https://www.youtube.com/embed/fQnorQ8QDqk?list=PLtuNtuTatqI3KDxLZo4RKJRE0i3VgB3vn" frameborder="0" allowfullscreen></iframe>
+{{< youtube "fQnorQ8QDqk" >}}
 <br />
 APOP Records - 9/18/2013
 

@@ -7,7 +7,7 @@ layout: post
 <p >Updated November 24, 2006, with "Tobacco Road" by John D. Loudermilk. This rock-and-roll classic offers a gritty and soulful narrative, showcasing Loudermilk's prowess as a legendary songwriter.</p> <!-- Featured Image -->
 <div > <img src="https://www.tennessean.com/gcdn/-mm-/5d0cd17cc5c53823beb7ebbfc3af05467b66b318/c=0-225-2991-1915/local/-/media/2016/09/22/TennGroup/Nashville/636101329392928525-610316-a.JPG?width=700&height=396&fit=crop&format=pjpg&auto=webp" alt="John D. Loudermilk" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/14R7HpAVUh4" title="John D Loudermilk - Tobacco Road - Songwriter - Nashville" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "14R7HpAVUh4" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Tobacco Road"</em> is featured on <strong>The Open Mind Of John D. Loudermilk</strong>, released by RCA Records Label Nashville. This track captures the raw essence of early rock-and-roll and solidifies Loudermilk's place as a pioneering voice in the genre.</p>
 </div> <!-- Footer Links -->

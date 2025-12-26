@@ -2,7 +2,7 @@
 title: "lola brooke 1 song"
 layout: post
 ---
-<iframe frameborder="0" height="360" src="https://youtube.com/embed/lmKQWX_yELk?si=lq-pfyCRI50-3KcH" width="480"></iframe><div><br /></div><div>(ft. Jeremih) No One Else [2024]</div><div><br /></div><div class="separator" ><a href="https://thatgrapejuice.net/wp-content/uploads/2024/09/jeremih-thatgrapejuice-2024-no-one-else-video-lola-brooke-2-600x300.jpg" imageanchor="1"><img border="0" data-original-height="300" data-original-width="600" height="300" src="https://thatgrapejuice.net/wp-content/uploads/2024/09/jeremih-thatgrapejuice-2024-no-one-else-video-lola-brooke-2-600x300.jpg" width="600" /></a></div><br /><div><br /></div>
+{{< youtube "lmKQWX_yELk" >}}<div><br /></div><div>(ft. Jeremih) No One Else [2024]</div><div><br /></div><div class="separator" ><a href="https://thatgrapejuice.net/wp-content/uploads/2024/09/jeremih-thatgrapejuice-2024-no-one-else-video-lola-brooke-2-600x300.jpg" imageanchor="1"><img border="0" data-original-height="300" data-original-width="600" height="300" src="https://thatgrapejuice.net/wp-content/uploads/2024/09/jeremih-thatgrapejuice-2024-no-one-else-video-lola-brooke-2-600x300.jpg" width="600" /></a></div><br /><div><br /></div>
 
 <!--Subscribe and Playlist Links-->
 <div>

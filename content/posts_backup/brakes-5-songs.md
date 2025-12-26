@@ -2,7 +2,7 @@
 title: "brakes 5 songs"
 layout: post
 ---
-<h2>BigBanonos' Favorite Songs by Brakes</h2><div><a href="https://i.scdn.co/image/ab67616d0000b273cdfd5b5a567df51988c4b6c6" ><img alt="" border="0" data-original-height="640" data-original-width="640" src="https://i.scdn.co/image/ab67616d0000b273cdfd5b5a567df51988c4b6c6" width="320" /></a></div> <div> <iframe allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" allowfullscreen="" frameborder="0" height="352" loading="lazy" src="https://open.spotify.com/embed/playlist/5o4Jooev0ACb3tLo60jsUN?utm_source=generator" width="100%"></iframe>
+<h2>BigBanonos' Favorite Songs by Brakes</h2><div><a href="https://i.scdn.co/image/ab67616d0000b273cdfd5b5a567df51988c4b6c6" ><img alt="" border="0" data-original-height="640" data-original-width="640" src="https://i.scdn.co/image/ab67616d0000b273cdfd5b5a567df51988c4b6c6" width="320" /></a></div> <div> {{< youtube "embed" >}}
 </div>
 <br />
 <h3>Updated Playlist</h3>

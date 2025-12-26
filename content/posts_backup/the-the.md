@@ -7,7 +7,7 @@ layout: post
 <p >"Soul Mining" by The The is an iconic track from the new wave and post-punk genres. Featured on *London Town 1983-1993*, this track reflects the atmospheric, introspective sound that defined the band's legacy. Watch the video below!</p> <!-- Featured Image -->
 <div > <img src="https://m.media-amazon.com/images/I/71OGNOidt9L._UF1000,1000_QL80_.jpg" alt="The The - Soul Mining" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="617" src="https://www.youtube.com/embed/sHcYn5JhArA" title="Soul Mining" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "sHcYn5JhArA" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Soul Mining"</em> is one of The The's defining songs, captured on *London Town 1983-1993*. With its introspective lyrics and atmospheric instrumentation, it exemplifies the band's post-punk roots while exploring themes of alienation and identity.</p>
 </div> <!-- Footer Links -->

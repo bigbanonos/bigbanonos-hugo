@@ -4,7 +4,7 @@ layout: post
 ---
 <div class="separator" >
 <a href="https://i.ytimg.com/vi/aPw75ZqpHJs/hqdefault.jpg" imageanchor="1"><img border="0" data-original-height="360" data-original-width="480" height="240" src="https://i.ytimg.com/vi/aPw75ZqpHJs/hqdefault.jpg" width="320" /></a></div>
-<iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/videoseries?list=PLtuNtuTatqI3bFZ-7HwcXkbbegUtl5WJR" width="560"></iframe><br />
+{{< youtube "videoseries" >}}<br />
 <br />
 <ol>
 <li>This Is The Day [1983]</li>

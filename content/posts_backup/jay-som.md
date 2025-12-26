@@ -7,7 +7,7 @@ layout: post
 <p >Updated March 10, 2017, with "The Bus Song" by Jay Som. A heartfelt indie pop gem from her critically acclaimed album *Everybody Works*, this track captures the charm of Oakland indie and bubblegrunge vibes.</p> <!-- Featured Image -->
 <div > <img src="https://img.apmcdn.org/faae88f92c642dadbb03185adc14e48ea51693aa/uncropped/0f47a6-20170327-jay-som.jpg" alt="Jay Som - The Bus Song" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/k2SluHV2i40" title="Jay Som - 'The Bus Song'" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "k2SluHV2i40" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"The Bus Song"</em> is a tender, introspective anthem that highlights Jay Som's knack for blending art pop and indie pop. The track's warm melodies and sincere lyrics create a beautifully nostalgic listening experience.</p>
 </div> <!-- Footer Links -->

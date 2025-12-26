@@ -3,7 +3,7 @@ title: "roberto surace 1 song"
 layout: post
 ---
 <div class="separator" ><a href="https://www.billboard.com/files/styles/article_main_image/public/media/Robert-Surace-press-by-Nico-Back2Back-Arti-Visive-2019-billboard-1548.jpg" imageanchor="1"><img border="0" src="https://www.billboard.com/files/styles/article_main_image/public/media/Robert-Surace-press-by-Nico-Back2Back-Arti-Visive-2019-billboard-1548.jpg" width="400" height="265" data-original-width="636" data-original-height="421" /></a></div>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLtuNtuTatqI3nXT3Zuecg4ofyoe1LJu1N" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{< youtube "videoseries" >}}
 <br />
 <h3>Joys [2019]</h3>
 

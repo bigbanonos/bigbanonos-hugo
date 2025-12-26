@@ -4,9 +4,9 @@ layout: post
 ---
  <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Destiny's Child</h1> <!-- Featured Image -->
-<div > <img src="https://i.scdn.co/image/ab67616d0000b2738e1909b730c3f8fc483f6047" alt="Destiny's Child">
+<div > {{< img-lite src="https://i.scdn.co/image/ab67616d0000b2738e1909b730c3f8fc483f6047" alt="Destiny's Child" >}}
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/4Q7yHIXCs1YY193sgTewTa?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Introductory Text -->
 <p >Destiny's Child redefined R&B and pop with their empowering anthems. Tracks like "Bills, Bills, Bills," "Jumpin', Jumpin'," and "Say My Name" remain timeless classics. Celebrate these iconic hits with BigBanonos.</p> <!-- Song Highlights -->
 <div > <p>BigBanonos' standout picks:</p> <ol> <li><strong>Bills, Bills, Bills</strong> | <em>The Writing's On The Wall</em> | Released: July 27, 1999 | Columbia</li> <li><strong>Jumpin', Jumpin'</strong> | <em>The Writing's On The Wall</em> | Released: July 27, 1999 | Columbia</li> <li><strong>Say My Name</strong> | <em>The Writing's On The Wall</em> | Released: July 27, 1999 | Columbia</li> </ol>

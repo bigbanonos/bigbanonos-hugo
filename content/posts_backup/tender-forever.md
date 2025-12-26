@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Happy Birthday" by Tender Forever, a poignant and heartfelt indie track from 2005. Celebrate the moment below!</p> <!-- Featured Image -->
 <div > <img src="https://f4.bcbits.com/img/0004364230_10.jpg" alt="Tender Forever - Happy Birthday" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="733" height="480" src="https://www.youtube.com/embed/EGtDzcQ0gnk" title="Tender Forever - Happy Birthday" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "EGtDzcQ0gnk" >}}
 </div> <!-- Footer Links -->
 <div > <p>For more updates, visit <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Also, check out our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a> channels for more exclusive content!</p>
 </div> <!-- Tags -->

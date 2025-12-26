@@ -2,10 +2,10 @@
 title: "2 chainz"
 layout: post
 ---
-<iframe allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" allowfullscreen="" frameborder="0" height="352" loading="lazy" src="https://open.spotify.com/embed/playlist/0tQgGxkg4Gu8ws4Mqr88sv?utm_source=generator" width="100%"></iframe>
+{{< youtube "embed" >}}
 <div class="separator" ><a href="https://i.axs.com/2017/06/35001-image_59401e4beffb2.jpg"><img border="0" data-original-height="450" data-original-width="800" height="225" src="https://i.axs.com/2017/06/35001-image_59401e4beffb2.jpg" width="400" /></a></div>
 <br />
-<iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/videoseries?list=PLtuNtuTatqI0U8EVswgWybQjbktAhMPOw" width="560"></iframe>
+{{< youtube "videoseries" >}}
 
 
 <!--Subscribe and Playlist Links-->

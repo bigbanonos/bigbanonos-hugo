@@ -7,7 +7,7 @@ layout: post
 <p >Updated August 23, 2010, with "Hey Boy" by Magic Kids. This sunny and nostalgic track from their album *Memphis* captures the spirit of 1960s-inspired indie pop with its warm melodies and heartfelt lyrics. Watch the video below!</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d0000b273d53f42ec51d49bd07044b1bd" alt="Magic Kids - Hey Boy" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="560" height="315" src="https://www.youtube.com/embed/9aofoBrFNdg" frameborder="0" allowfullscreen></iframe>
+<div > {{< youtube "9aofoBrFNdg" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Hey Boy"</em>, released on August 23, 2010, under True Panther Sounds, is a standout track from Magic Kids' album *Memphis*. With its bright harmonies and orchestral pop sensibilities, the song is a perfect introduction to the band's retro yet fresh indie sound.</p>
 </div> <!-- Footer Links -->

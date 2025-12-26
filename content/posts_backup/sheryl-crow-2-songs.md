@@ -2,8 +2,8 @@
 title: "sheryl crow 2 songs"
 layout: post
 ---
-<h1>BigBanonos Top Songs by Sheryl Crow</h1> <img src="https://media.pitchfork.com/photos/627542882e3bb7477c934488/16:9/w_1280,c_limit/sherylcrowheader2.jpg" alt="Sheryl Crow"> <p>Sheryl Crow's powerful vocals and blend of pop-rock elements have made her a staple in the music world. Here are BigBanonos' top picks:</p> <ol> <li><strong>Strong Enough</strong> | <em>The Very Best Of</em> | Released: 2003-01-01 | A&M</li> <li><strong>If It Makes You Happy</strong> | <em>Sheryl Crow</em> | Released: 1996-01-01 | A&M</li>
-</ol> <div> <iframe src="https://open.spotify.com/embed/playlist/3A75mmh1ghnIFmfG5L9sbG?utm_source=generator" width="100%" height="352" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<h1>BigBanonos Top Songs by Sheryl Crow</h1> {{< img-lite src="https://media.pitchfork.com/photos/627542882e3bb7477c934488/16:9/w_1280,c_limit/sherylcrowheader2.jpg" alt="Sheryl Crow" >}} <p>Sheryl Crow's powerful vocals and blend of pop-rock elements have made her a staple in the music world. Here are BigBanonos' top picks:</p> <ol> <li><strong>Strong Enough</strong> | <em>The Very Best Of</em> | Released: 2003-01-01 | A&M</li> <li><strong>If It Makes You Happy</strong> | <em>Sheryl Crow</em> | Released: 1996-01-01 | A&M</li>
+</ol> <div> {{< youtube "embed" >}}
 </div> <!-- Tags -->
 <p> Tags: @sherylcrow, @howardstern
 </p>

@@ -4,7 +4,7 @@ layout: post
 ---
 <h1>BigBanonos Top Songs by Plies</h1>
 <img alt="Plies" src="https://i.ytimg.com/vi/YlDgb5wtAdU/maxresdefault.jpg" /> <p>Plies' Southern hip-hop and trap anthems have defined a unique style, blending heartfelt storytelling with club-ready beats. Here are BigBanonos' top picks from Plies:</p> <ol> <li><strong>Hypnotized (feat. Akon)</strong> | <em>The Real Testament</em> | Atlantic/Slip N' Slide | Released: August 6, 2007</li> <li><strong>Want It, Need It (feat. Ashanti)</strong> | <em>Da REAList</em> | Atlantic/Slip N' Slide | Released: December 12, 2008</li> <li><strong>Chef</strong> | <em>Single</em> | Released: N/A</li>
-</ol> <div> <iframe src="https://open.spotify.com/embed/playlist/4g3QnqxqnyQUsaT164qBTN?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</ol> <div> {{< youtube "embed" >}}
 </div> <p>first posted by <a href="https://bigbanonos.blogspot.com/">https://bigbanonos.blogspot.com/</a></p> <div> <p>Explore more BigBanonos content: <a href="https://bigbanonos.blogspot.com/">Website</a> | <a href="https://www.youtube.com/@BigBanonos">YouTube</a> | <a href="https://x.com/bigbanonos">Twitter</a></p>
 </div> <!--Tags-->
 <p>@plies</p>

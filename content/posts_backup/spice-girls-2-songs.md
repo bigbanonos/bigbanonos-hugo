@@ -3,8 +3,8 @@ title: "spice girls 2 songs"
 layout: post
 ---
 <h1>BigBanonos Top Songs by Spice Girls</h1>
-<img src="https://www.thisdayinmusic.com/wp-content/uploads/1972/08/MicrosoftTeams-image-2.webp" alt="Spice Girls"> <p>The Spice Girls brought 'girl power' to pop culture in the '90s. Here are BigBanonos' top tracks:</p> <ol> <li><strong>Say You'll Be There</strong> | <em>Spice</em> | Released: 1996-01-01 | Virgin Records</li> <li><strong>Wannabe</strong> | <em>Spice</em> | Released: 1996-01-01 | Virgin Records</li>
-</ol> <div> <iframe src="https://open.spotify.com/embed/playlist/2uuHdWTAKsE47AilWYwiSp?utm_source=generator" width="100%" height="352" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+{{< img-lite src="https://www.thisdayinmusic.com/wp-content/uploads/1972/08/MicrosoftTeams-image-2.webp" alt="Spice Girls" >}} <p>The Spice Girls brought 'girl power' to pop culture in the '90s. Here are BigBanonos' top tracks:</p> <ol> <li><strong>Say You'll Be There</strong> | <em>Spice</em> | Released: 1996-01-01 | Virgin Records</li> <li><strong>Wannabe</strong> | <em>Spice</em> | Released: 1996-01-01 | Virgin Records</li>
+</ol> <div> {{< youtube "embed" >}}
 </div>
 <p>Tags: @spicegirls</p>
 

@@ -3,7 +3,7 @@ title: "vonns"
 layout: post
 ---
 #1960s <br />
-<iframe width="95%" height="315" src="https://www.youtube.com/embed/VyiYzIYPphU?list=PLtuNtuTatqI3X01zTqiujiaUhFaK1PjKA" frameborder="0" allowfullscreen></iframe> <br />
+{{< youtube "VyiYzIYPphU" >}} <br />
 So Many Days 1963
 
 <!--Subscribe and Playlist Links-->

@@ -5,10 +5,7 @@ disableAliases = true
 disablePathToLower = false
 removePathAccents = true
 
-
-
 ignoreFiles = ['^quarantine/']
-
 
 [pagination]
   pagerSize = 6
@@ -16,7 +13,8 @@ ignoreFiles = ['^quarantine/']
 enableRobotsTXT = true
 
 [markup.goldmark.renderer]
-  unsafe = true   # allow YouTube/Spotify iframes
+  unsafe = true            # Allows your custom HTML/Shortcodes to run
+  hardLineBreak = false
 
 [taxonomies]
   tag = "tags"
@@ -24,9 +22,8 @@ enableRobotsTXT = true
 [permalinks]
   posts = "/:contentbasename/"
 
-
-
 [params]
+  showFullContents = false    # CRITICAL: This stops 6 videos loading at once on Home
   ShowShareButtons = true
   disableThemeToggle = true
   defaultTheme = "light"

@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Two Weeks" by Scott & Charlene's Wedding, from the *Two Weeks EP*, released on March 11, 2013, by Critical Heights.</p> <!-- Featured Image -->
 <div > <img src="https://f4.bcbits.com/img/a3768093702_10.jpg" alt="Scott & Charlene's Wedding - Two Weeks" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="514" src="https://www.youtube.com/embed/f2-79i2O_us" title="Two Weeks - Scott & Charlene's Wedding" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "f2-79i2O_us" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Two Weeks"</em> by Scott & Charlene's Wedding is a standout track from the *Two Weeks EP*, released on March 11, 2013. The song captures the essence of Melbourne indie rock, combining catchy hooks with introspective lyrics.</p>
 </div> <!-- Footer Links -->

@@ -4,7 +4,7 @@ layout: post
 ---
 <h2>BigBanonos' Favorite Songs by boygenius</h2> <!-- Search Description -->
 <p>BigBanonos' top 2 favorite tracks by boygenius, featuring Julien Baker, Phoebe Bridgers, and Lucy Dacus.</p> <!-- Spotify Playlist Embed -->
-<iframe src="https://open.spotify.com/embed/playlist/6RxjdvS8SlYvoyDBqrEGl4?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> <!-- Song Listings -->
+{{< youtube "embed" >}} <!-- Song Listings -->
 <ul> <li>Emily I'm Sorry - <em>the record</em> - boygenius under exclusive license to Interscope Records (2023-03-31)</li> <li>Anti-Curse - <em>the record</em> - boygenius under exclusive license to Interscope Records (2023-03-31)</li>
 </ul> <!-- Image -->
 <img src="https://media.them.us/photos/65bd3e64b81f3f58a8de327e/4:3/w_1704,h_1278,c_limit/boygenius.jpg" alt="boygenius"/>

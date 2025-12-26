@@ -2,7 +2,7 @@
 title: "charlotte day wilson 1 song"
 layout: post
 ---
-<iframe frameborder="0" height="270" src="https://youtube.com/embed/AKXJeoDxeXU" width="480"></iframe><h2><ol><li>Keep Moving [2021]</li></ol></h2>
+{{< youtube "AKXJeoDxeXU" >}}<h2><ol><li>Keep Moving [2021]</li></ol></h2>
 
 <!--Subscribe and Playlist Links-->
 <div>

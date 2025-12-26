@@ -3,7 +3,7 @@ title: "sandra phillips"
 layout: post
 ---
 #1960s <br />
-<iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/ZHiFH0hmnE0?list=PLtuNtuTatqI3X01zTqiujiaUhFaK1PjKA" width="560"></iframe> <br />
+{{< youtube "ZHiFH0hmnE0" >}} <br />
 Sandra Phillips - Some Mother's Son 1967
 
 <!--Subscribe and Playlist Links-->

@@ -4,9 +4,9 @@ layout: post
 ---
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Arctic Monkeys</h1> <!-- Featured Image -->
-<div > <img src="https://i.scdn.co/image/ab6761610000e5eb7da39dea0a72f581535fb11f" alt="Arctic Monkeys">
+<div > {{< img-lite src="https://i.scdn.co/image/ab6761610000e5eb7da39dea0a72f581535fb11f" alt="Arctic Monkeys" >}}
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/4phIeyfRpQsD6EVGVrsqsY?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Introductory Text -->
 <p >Arctic Monkeys have redefined modern rock with their Sheffield indie sound and unforgettable tracks. From "Fluorescent Adolescent" to "Mardy Bum," here are BigBanonos' top picks by the iconic band.</p> <!-- Song Highlights -->
 <div > <p>BigBanonos' standout picks:</p> <ol> <li><strong>Fluorescent Adolescent</strong> | <em>Fluorescent Adolescent</em> | Released: July 6, 2007 | Domino Recording Co</li> <li><strong>Dancing Shoes</strong> | <em>Whatever People Say I Am, That's What I'm Not</em> | Released: January 23, 2006 | Domino Recording Co</li> <li><strong>Mardy Bum</strong> | <em>Whatever People Say I Am, That's What I'm Not</em> | Released: January 23, 2006 | Domino Recording Co</li> <li><strong>I Bet You Look Good On The Dancefloor</strong> | <em>I Bet You Look Good On The Dancefloor</em> | Released: October 14, 2005 | Domino Recording Co</li> </ol>

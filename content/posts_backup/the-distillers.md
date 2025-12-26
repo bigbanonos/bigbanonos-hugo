@@ -5,9 +5,9 @@ layout: post
 <!-- Title of the Post -->
 <h1>BigBanonos' Favorite Songs by The Distillers</h1> <!-- Introductory Text -->
 <p>The Distillers bring raw energy to punk and skate punk scenes. Hereâ€™s a collection of BigBanonos' top picks from their catalog.</p> <!-- Featured Image -->
-<div> <img src="https://i.scdn.co/image/ab6761610000e5eb34f7e41698b038806c2ce7bb" alt="The Distillers">
+<div> {{< img-lite src="https://i.scdn.co/image/ab6761610000e5eb34f7e41698b038806c2ce7bb" alt="The Distillers" >}}
 </div> <!-- Spotify Embed -->
-<div> <iframe src="https://open.spotify.com/embed/playlist/2xtl52YosnhvMr4ucaLvMg?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div> {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <h3>Top Songs:</h3>
 <ul> <li><strong>Dismantle Me</strong> | <em>Coral Fang (Alternate Cover PA Version)</em> | Released: 2003-10-07 | Label: Sire/Warner Records</li> <li><strong>Love Is Paranoid</strong> | <em>Coral Fang (Alternate Cover PA Version)</em> | Released: 2003-10-07 | Label: Sire/Warner Records</li>

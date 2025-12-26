@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Most Space" by Worriers, from the album *Imaginary Life*, released on August 7, 2015, by Don Giovanni Records. This song blends bubblegrunge and indie punk to deliver an energetic and heartfelt anthem.</p> <!-- Featured Image -->
 <div > <img src="https://www.rookiemag.com/wp-content/uploads/2015/08/1438626803IMG_3962.jpg" alt="Worriers - Most Space" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/jyjEQkVMbMg" title="Worriers - Most Space | Music Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "jyjEQkVMbMg" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Most Space"</em> by Worriers is from the album *Imaginary Life*, released on August 7, 2015. Combining elements of bubblegrunge and indie punk, this track is an anthem for the disillusioned and introspective.</p>
 </div> <!-- Footer Links -->

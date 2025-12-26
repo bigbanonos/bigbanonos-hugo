@@ -7,7 +7,7 @@ layout: post
 <p >Updated January 1, 2012, with "Blarney Stone" by Margaret Barry. This timeless track from the album <em>Queen of the Gypsies</em>, released under Emerald Records, captures the heart of Irish folk with its evocative storytelling and spirited banjo performance.</p> <!-- Featured Image -->
 <div > <img src="https://i.ytimg.com/vi/KNZBs7uTLGc/mqdefault.jpg" alt="Margaret Barry - Blarney Stone" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/KNZBs7uTLGc" title="Margaret Barry The Blarney Stone" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "KNZBs7uTLGc" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Blarney Stone"</em> by Margaret Barry is a quintessential Irish folk song that showcases her raw vocal power and masterful banjo skills. From the album <em>Queen of the Gypsies</em>, this track is a beautiful ode to Ireland's rich musical tradition.</p>
 </div> <!-- Footer Links -->

@@ -7,7 +7,7 @@ layout: post
 <p >Updated November 7, 2005, with "Arizona Amp and Alternator Pt. 3" by Arizona Amp and Alternator. This experimental indie track captures the eclectic soundscapes and introspective vibe of Howe Gelbâ€™s side project. Watch the video below!</p> <!-- Featured Image -->
 <div > <img src="https://f4.bcbits.com/img/a0134671521_65" alt="Arizona Amp and Alternator - Arizona Amp and Alternator Pt. 3" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="685" height="617" src="https://www.youtube.com/embed/Hv7PfRSuZfo" title="AAAA 3" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "Hv7PfRSuZfo" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Arizona Amp and Alternator Pt. 3"</em>, from the 2005 release under the Arizona Amp and Alternator project, highlights Howe Gelbâ€™s experimental approach to indie and alternative music. Its layered instrumentation and unique sound make it a standout piece for fans of genre-defying music.</p>
 </div> <!-- Footer Links -->

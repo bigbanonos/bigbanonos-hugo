@@ -7,7 +7,7 @@ layout: post
 <p >Updated June 22, 2017, with "Intrigued" by Nico & Vinz. This track from the album <em>Intrigued</em>, released under Warner Records, blends smooth R&B with the rhythmic influences of Afrobeats, showcasing Nico & Vinzâ€™s unique musical style.</p> <!-- Featured Image -->
 <div > <img src="https://pbs.twimg.com/profile_images/926200687658070016/ipXf2YN8_400x400.jpg" alt="Nico & Vinz - Intrigued" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/iwkth9IdAZE" title="Nico & Vinz - Intrigued (Official Music Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "iwkth9IdAZE" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Intrigued"</em> by Nico & Vinz is a captivating R&B track with Afrobeats influences, blending catchy rhythms and smooth vocals. Released under Warner Records, this track stands out for its unique fusion of genres and the duo's distinct musical style.</p>
 </div> <!-- Footer Links -->

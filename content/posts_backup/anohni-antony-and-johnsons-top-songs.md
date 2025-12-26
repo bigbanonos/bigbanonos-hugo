@@ -7,10 +7,10 @@ layout: post
 <ol> <li><strong>Canâ€™t</strong> - Album: <em>My Back Was A Bridge For You To Cross</em> (July 6, 2023)</li> <li><strong>Sliver Of Ice</strong> - Album: <em>My Back Was A Bridge For You To Cross</em> (July 6, 2023)</li> <li><strong>It's All over Now, Baby Blue</strong> - Album: <em>It's All over Now, Baby Blue b/w Be My Husband</em> (August 4, 2020)</li>
 </ol> <h3>Antony and the Johnsons</h3>
 <ol> <li><strong>Kiss My Name</strong> - Album: <em>Cut The World</em> (August 7, 2012)</li> <li><strong>Epilepsy Is Dancing</strong> - Album: <em>The Crying Light</em> (2009)</li> <li><strong>Aeon</strong> - Album: <em>The Crying Light</em> (2009)</li><li><b>For Today I Am A Boy</b>- Album:Ãƒâ€šÃ‚Â <em>The Crying Light</em>Ãƒâ€šÃ‚Â (2009)</li> <li><strong>Fistful Of Love</strong> - Album: <em>I Am A Bird Now</em> (February 1, 2005)</li>
-</ol> <img alt="ANOHNI and Antony and the Johnsons" src="https://static01.nyt.com/images/2016/04/24/arts/24ANOHNI/24ANOHNI-superJumbo-v2.jpg" /> <div> <iframe allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" allowfullscreen="" frameborder="0" height="352" loading="lazy" src="https://open.spotify.com/embed/playlist/2ZyVuT9S4aL9JhF6AKaSZH?utm_source=generator" width="100%"></iframe>
+</ol> <img alt="ANOHNI and Antony and the Johnsons" src="https://static01.nyt.com/images/2016/04/24/arts/24ANOHNI/24ANOHNI-superJumbo-v2.jpg" /> <div> {{< youtube "embed" >}}
 </div>
 <p>Also, please check out Antony's superb Leonard Cohen cover of <em>If It Be Your Will</em></p>
-<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="315" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/1MDlMdu2gjw?si=RlHQHl7rb5azeUIh" title="YouTube video player" width="560"></iframe> <p>Donâ€™t forget to check out BigBanonos on YouTube for more curated music content, especially those tracks #NotOnSpotify!</p>
+{{< youtube "1MDlMdu2gjw" >}} <p>Donâ€™t forget to check out BigBanonos on YouTube for more curated music content, especially those tracks #NotOnSpotify!</p>
 <p><a href="https://www.youtube.com/@BigBanonos">BigBanonos YouTube Channel</a></p> 
 
 <!--Subscribe and Playlist Links-->

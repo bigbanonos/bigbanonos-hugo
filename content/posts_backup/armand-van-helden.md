@@ -7,7 +7,7 @@ layout: post
 <p >Updated April 23, 2004, with "Hear My Name" by Armand van Helden featuring Spalding Rockwell. This electrifying house track combines funky beats and edgy vocals, solidifying its place as a dance floor classic. Watch the video below!</p> <!-- Featured Image -->
 <div > <img src="https://www.rollingstone.com/wp-content/uploads/2018/06/rs-28132-20140423-armin-x1800-1398291958.jpg" alt="Armand van Helden - Hear My Name" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="685" height="514" src="https://www.youtube.com/embed/zsZ0c-UoDnc" title="Armand Van Helden feat. Spalding Rockwell - Hear My Name" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "zsZ0c-UoDnc" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Hear My Name"</em>, released on April 23, 2004, is a standout track from Armand van Helden. Featuring Spalding Rockwell, this house anthem showcases his iconic production style and continues to be a favorite in electronic music circles.</p>
 </div> <!-- Footer Links -->

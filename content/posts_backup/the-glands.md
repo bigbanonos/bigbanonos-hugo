@@ -5,9 +5,9 @@ layout: post
 <!-- Title of the Post -->
 <h1>BigBanonos' Favorite Songs by The Glands</h1> <!-- Introductory Text -->
 <p>The Glands, a beloved Athens indie rock band, have left a lasting legacy with their self-titled album. Here are BigBanonos' top picks from this influential band.</p> <!-- Featured Image -->
-<div> <img src="https://media.npr.org/assets/img/2018/10/08/glands_36549_7_wide-4942d3f6e02e3684fafc6f5f1b74ba43ddf506af.jpg" alt="The Glands">
+<div> {{< img-lite src="https://media.npr.org/assets/img/2018/10/08/glands_36549_7_wide-4942d3f6e02e3684fafc6f5f1b74ba43ddf506af.jpg" alt="The Glands" >}}
 </div> <!-- Spotify Embed -->
-<div> <iframe src="https://open.spotify.com/embed/playlist/6UgEPTUal2eUcXxeekQFxX?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div> {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <h3>Top Songs:</h3>
 <ul> <li><strong>Lovetown</strong> | Album: <em>The Glands</em> | Released: August 1, 2000 | Label: New West Records</li> <li><strong>Straight Down</strong> | Album: <em>The Glands</em> | Released: August 1, 2000 | Label: New West Records</li> <li><strong>Swim</strong> | Album: <em>The Glands</em> | Released: August 1, 2000 | Label: New West Records</li>

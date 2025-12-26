@@ -7,7 +7,7 @@ layout: post
 <p >Updated September 25, 2019, with "No Bus" by lophiile, Col3trane, and Amber Mark. This alternative R&B track, released under No Tricks/Blue Note Records, combines smooth vocals with a vibrant blend of indie soul and NYC pop.</p> <!-- Featured Image -->
 <div > <img src="https://blog.native-instruments.com/wp-content/uploads/2020/08/Realtalk-lophiile-featured.jpg" alt="lophiile, Col3trane & Amber Mark - No Bus" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/GgCTV4Y6QII" title="lophiile, Col3trane, Amber Mark - No Bus (Visualizer)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "GgCTV4Y6QII" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"No Bus"</em> by lophiile, Col3trane, and Amber Mark is a standout alternative R&B track that combines lush production with soulful performances. With influences from UK contemporary R&B, indie soul, and NYC pop, this collaboration is a seamless blend of style and substance.</p>
 </div> <!-- Footer Links -->

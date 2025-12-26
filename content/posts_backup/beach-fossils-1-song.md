@@ -3,8 +3,8 @@ title: "beach fossils 1 song"
 layout: post
 ---
 <h2>BigBanonos' Favorite Song by Beach Fossils - "Sleep Apnea" (Updated in 2021 with the Piano Versions)</h2> <!--Search Description-->
-<p>BigBanonos' favorite track by Beach Fossils, "Sleep Apnea," in two versionsâ€both the original and the 2021 piano versionâ€highlighted in the playlist below.</p> <iframe width="685" height="601" src="https://www.youtube.com/embed/nuvJSl24wAw" title="Sleep Apnea" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> <!--Spotify Playlist Embed-->
-<iframe allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" allowfullscreen="" frameborder="0" height="352" loading="lazy" src="https://open.spotify.com/embed/playlist/17oGXONEf9j7TqTRDTiiRA?utm_source=generator" width="100%"></iframe> <!--Song List with Album Info-->
+<p>BigBanonos' favorite track by Beach Fossils, "Sleep Apnea," in two versionsâ€both the original and the 2021 piano versionâ€highlighted in the playlist below.</p> {{< youtube "nuvJSl24wAw" >}} <!--Spotify Playlist Embed-->
+{{< youtube "embed" >}} <!--Song List with Album Info-->
 <ul> <li><strong>Sleep Apnea (Piano)</strong> â€“ <em>Bayonet Records</em> â€“ Released November 9, 2021 â€“ Genres: indie rock, shoegaze</li> <li><strong>Sleep Apnea</strong> â€“ <em>Clash the Truth</em> â€“ Released February 19, 2013 â€“ Genres: indie rock, shoegaze</li>
 </ul> <!--Image-->
 <img alt="Beach Fossils band" height="auto" src="https://images.squarespace-cdn.com/content/v1/53fe5933e4b0c9960c0c8f46/c746ea31-a588-48f4-9a6d-b3388c5a25bc/img_6204.jpeg" width="100%" /> <!--Tags Section-->

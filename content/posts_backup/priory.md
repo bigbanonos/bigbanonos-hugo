@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "New Thing" by Priory, an uplifting track from their 2015 album *Need To Know* on Warner Records. Dive into the indie rock sound of this dynamic duo.</p> <!-- Featured Image -->
 <div > <img src="https://townsquare.media/site/443/files/2014/12/priory.jpg" alt="Priory New Thing" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="601" src="https://www.youtube.com/embed/xkmBIkAr-0E" title="Priory - New Thing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "xkmBIkAr-0E" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"New Thing"</em> by Priory brings a refreshing sound from their 2015 *Need To Know* album, blending indie rock with pop elements for a vibrant listening experience.</p>
 </div> <!-- Footer Links -->

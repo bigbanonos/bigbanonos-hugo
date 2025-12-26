@@ -4,7 +4,7 @@ layout: post
 ---
 <h1>BigBanonos 2 Standout Tracks by J Hus</h1>
 <img alt="J Hus" src="https://img.redbull.com/images/c_limit,w_1500,h_1000/f_auto,q_auto/redbullcom/2019/04/12/aa1c9289-fead-48f8-9123-3ef668eb0123/j-hus" /> <p>J Hus has become a powerful force in UK hip hop, blending afroswing, grime, and reggae influences to create a unique sound that resonates globally. These two tracks highlight his dynamic style, combining catchy beats with a fusion of genres.</p> <ol> <li><strong>Must Be</strong> | <em>Must Be</em> | Black Butter | Released: November 8, 2019</li> <li><strong>Repeat</strong> (feat. Koffee) | <em>Repeat (feat. Koffee)</em> | Black Butter | Released: January 23, 2020</li>
-</ol> <div> <iframe allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" allowfullscreen="" frameborder="0" height="352" loading="lazy" src="https://open.spotify.com/embed/playlist/5khzeRZbE57G4MdjprelGD?utm_source=generator" width="100%"></iframe>
+</ol> <div> {{< youtube "embed" >}}
 </div> <p>first posted by <a href="https://bigbanonos.blogspot.com/">https://bigbanonos.blogspot.com/</a></p> <div> <p>Explore more BigBanonos content: <a href="https://bigbanonos.blogspot.com/">Website</a> | <a href="https://www.youtube.com/@BigBanonos">YouTube</a> | <a href="https://x.com/bigbanonos">Twitter</a></p>
 </div> <!--Tags-->
 <p>@jhus,@koffee</p>

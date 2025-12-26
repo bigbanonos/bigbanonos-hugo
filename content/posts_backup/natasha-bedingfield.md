@@ -7,7 +7,7 @@ layout: post
 <p >Updated August 30, 2004, with "Unwritten" by Natasha Bedingfield. This iconic track from the album <em>Unwritten</em>, released under Sony Music CG, blends dance pop with uplifting lyrics, making it a timeless anthem for personal empowerment and freedom.</p> <!-- Featured Image -->
 <div > <img src="https://i.ytimg.com/vi/b7k0a5hYnSI/maxresdefault.jpg" alt="Natasha Bedingfield - Unwritten" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="373" src="https://www.youtube.com/embed/b7k0a5hYnSI" title="Natasha Bedingfield - Unwritten (Official Video) (as featured in Anyone But You)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "b7k0a5hYnSI" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Unwritten"</em> by Natasha Bedingfield is a dance pop anthem that blends empowering lyrics with infectious melodies. From the album <em>Unwritten</em>, it became a global hit and remains a go-to track for personal empowerment and freedom.</p>
 </div> <!-- Footer Links -->

@@ -4,7 +4,7 @@ layout: post
 ---
 <h1>BigBanonos 3 Favorite Songs by Gloss Up</h1>
 <img alt="Gloss Up" src="https://www.okayplayer.com/media-library/gloss-up.png?id=33311013&width=980" /> <p>Explore BigBanonos' favorite tracks by Gloss Up, a showcase of memphis hip hop under Quality Control Music and Glitter Gang ENT.</p> <ol> <li>Stamp Dat - Released: August 11, 2023</li> <li>La La - Released: April 14, 2023</li> <li>Gloss Up Broke Boy (feat. Casino Jizzle) - Released: December 8, 2021</li>
-</ol> <div> <iframe allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" allowfullscreen="" frameborder="0" height="352" loading="lazy" src="https://open.spotify.com/embed/playlist/4FPXkMrzTNvhAxBu9eQJBa?utm_source=generator" width="100%"></iframe>
+</ol> <div> {{< youtube "embed" >}}
 </div>
 
 

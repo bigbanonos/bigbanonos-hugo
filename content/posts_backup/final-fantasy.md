@@ -3,7 +3,7 @@ title: "final fantasy"
 layout: post
 ---
 #2000s <br />
-<iframe width="95%" height="315" src="https://www.youtube.com/embed/sryXWMn81nQ?list=PLtuNtuTatqI00Ak5pbz10qojT7un2Jh8w" frameborder="0" allowfullscreen></iframe><br />
+{{< youtube "sryXWMn81nQ" >}}<br />
 The CN Tower Belongs To The Dead 2005
 
 <!--Subscribe and Playlist Links-->

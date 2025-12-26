@@ -7,7 +7,7 @@ layout: post
 <p >Updated January 17, 2018, with "What Lovers Do" from <em>What Lovers Do (feat. SZA)</em>. Enjoy the energetic tracks by Maroon 5 in the playlist below!</p> <!-- Featured Image -->
 <div > <img src="https://www.udiscovermusic.com/wp-content/uploads/2022/03/Maroon-5-GettyImages-1348668056-1000x600.jpg" alt="Maroon 5" />
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/11fzvsv3pxhMeBJqCrX7Fi?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <div > <p><strong>"Wait (Chromeo Remix)"</strong><br> Genre: Pop, Electronic, Rock, R&B<br> Album: <em>Wait (Chromeo Remix)</em><br> Release Date: January 19, 2018<br> Label: Interscope Records</p> <p><strong>"What Lovers Do (feat. SZA)"</strong><br> Genre: Pop, R&B, Hip Hop<br> Album: <em>What Lovers Do (feat. SZA)</em><br> Release Date: August 30, 2017<br> Label: Universal Music Group</p>
 </div> <!-- Footer Links -->

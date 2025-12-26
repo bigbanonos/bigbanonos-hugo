@@ -4,11 +4,11 @@ layout: post
 ---
 <h2>BigBanonos' Favorite Songs by Camilo</h2> <!--Search Description-->
 <p>Explore BigBanonos' favorite songs by Camilo, featuring popular Colombian and Latin pop hits. Listen to the playlist below and dive into these vibrant tracks that capture the essence of Latin music.</p> <!--Spotify Playlist Embed-->
-<iframe allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" allowfullscreen="" frameborder="0" height="352" loading="lazy" src="https://open.spotify.com/embed/playlist/5D2rRxcPe7iyhkbxMPVf1W?utm_source=generator" width="100%"></iframe> <!--Song Listings-->
+{{< youtube "embed" >}} <!--Song Listings-->
 <ul> <li>KESI - <em>Mis Manos</em> - Sony Music Latin - 2021-03-04</li> <li>Tutu (feat. Pedro CapÃƒÆ’Ã‚Â³) - <em>Tutu</em> - Sony Music Latin - 2019-08-09</li>
 </ul>
-<iframe frameborder="0" height="270" src="https://youtube.com/embed/ZrUrwUwSHR0" width="480"></iframe><div><br />
-<iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/videoseries?list=PLtuNtuTatqI2M5kXfEV0B9-7UuCNgvPjB" width="560"></iframe>
+{{< youtube "ZrUrwUwSHR0" >}}<div><br />
+{{< youtube "videoseries" >}}
 <!--Image-->
 <img alt="Camilo" src="https://www.billboard.com/wp-content/uploads/2022/09/bb-cover-feature-camilo-billboard-2022-david-needleman-01-1260.jpg?w=1260&h=840&crop=1" />
 

@@ -4,9 +4,9 @@ layout: post
 ---
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Adina Howard</h1> <!-- Featured Image -->
-<div > <img src="https://i.scdn.co/image/ab67616d0000b27390dd696c2447379104f80c7a" alt="Adina Howard">
+<div > {{< img-lite src="https://i.scdn.co/image/ab67616d0000b27390dd696c2447379104f80c7a" alt="Adina Howard" >}}
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/08y3ZknMMKDRzbdVFgVf03?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Introductory Text -->
 <p >Adina Howardâ€™s sultry R&B classics, from "Freak Like Me" to "T-Shirt & Panties," showcase her bold and sensual sound. Here are BigBanonos' favorite tracks by this iconic artist.</p> <!-- Song Highlights -->
 <div > <p>BigBanonos' standout picks:</p> <ol> <li><strong>Freak Like Me</strong> | <em>Do You Wanna Ride?</em> | Released: 1995 | Rhino/Elektra</li> <li><strong>T-Shirt & Panties</strong> (ft. Jamie Foxx) | <em>The Second Coming</em> | Released: 2004 | Rufftown Entertainment</li> </ol>

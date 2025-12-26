@@ -7,7 +7,7 @@ layout: post
 <p >Updated February 10, 2004, with "Wagon Wheel" by Old Crow Medicine Show. This iconic track from their album <em>O.C.M.S.</em> blends indie folk with bluegrass and Americana, capturing the spirit of modern old-time music with its catchy, sing-along chorus.</p> <!-- Featured Image -->
 <div > <img src="https://images.discovery-prod.axs.com/2023/08/uploadedimage_64d521fd5ebfc.jpg" alt="Old Crow Medicine Show - Wagon Wheel" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="507" src="https://www.youtube.com/embed/1gX1EP6mG-E" title="Old Crow Medicine Show - Wagon Wheel [Official Music Video]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "1gX1EP6mG-E" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Wagon Wheel"</em> by Old Crow Medicine Show is a staple of Americana, blending folk, country, and bluegrass influences. Released on February 10, 2004, as part of their <em>O.C.M.S.</em> album, the song has become an anthem of the modern folk movement.</p>
 </div> <!-- Footer Links -->

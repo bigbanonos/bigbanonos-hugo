@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Oh No" by Softee, from the single *Oh No*, released on May 24, 2019, by Softee Inc.</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d0000b27329530cd9678bffc2685ef508" alt="Softee - Oh No" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/3KlkQ7_EUVQ" title="Softee - Oh No (Official Music Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "3KlkQ7_EUVQ" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Oh No"</em> by Softee is a track from the single *Oh No*, released on May 24, 2019. With its modern indie pop vibes, the song captures a mellow yet emotionally charged sound that resonates with contemporary pop enthusiasts.</p>
 </div> <!-- Footer Links -->

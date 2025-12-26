@@ -4,9 +4,9 @@ layout: post
 ---
 <h1>BigBanonos 6 Favorite Songs by Tina (Hoodcelebrityy)</h1>
 <img alt="Tina (Hoodcelebrityy)" src="https://www.thehypemagazine.com/wp-content/uploads/2024/05/Tina-Fka-Hoodcelebrityy-Ascends-With-Highly-Anticipated-New-Project-%E2%80%98Tina-Vs-Hoodcelebrityy.jpg" /> <p>This collection of BigBanonos' favorite tracks by Tina, formerly known as Hoodcelebrityy, highlights her dancehall queen vibes, blending trap and reggae influences to create catchy, high-energy anthems.</p> <ol> <li><strong>Catch It</strong> - Album: <strong>Catch It</strong>, Label: KSR Group, Released: January 7, 2022</li> <li><strong>Run Di Road</strong> - Album: <strong>Run Di Road</strong>, Label: Female Shotta Records, Released: March 20, 2020</li> <li><strong>Bum Pon It</strong> - Album: <strong>Bum Pon It</strong>, Label: Epic Records/KSR, Released: August 30, 2019</li> <li><strong>Inside</strong> - Album: <strong>Inside</strong>, Label: Epic Records/KSR, Released: March 1, 2019</li> <li><strong>Walking Trophy</strong> - Album: <strong>Walking Trophy</strong>, Label: Epic Records/KSR, Released: March 23, 2018</li> <li><strong>Vybez</strong> - Album: <strong>Trap vs. Reggae</strong>, Label: KSR Group, Released: August 11, 2017</li>
-</ol> <div> <iframe allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" allowfullscreen="" frameborder="0" height="352" loading="lazy" src="https://open.spotify.com/embed/playlist/4R4OL2Jp4nQndFiFdVmEzz?utm_source=generator" width="100%"></iframe>
+</ol> <div> {{< youtube "embed" >}}
 </div>
-<iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/videoseries?list=PLtuNtuTatqI1VHphPZjNI8Y7Pyyxqns3y" width="560"></iframe><br />
+{{< youtube "videoseries" >}}<br />
 <p>first posted by https://bigbanonos.blogspot.com/</p> <div> <p>Explore more BigBanonos content: <a href="https://bigbanonos.blogspot.com/">Website</a> | <a href="https://www.youtube.com/@BigBanonos">YouTube</a> | <a href="https://x.com/bigbanonos">Twitter</a></p>
 </div> <!--Tags-->
 <p>@tina,@hoodcelebrityy</p>

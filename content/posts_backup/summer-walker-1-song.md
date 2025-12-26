@@ -4,9 +4,9 @@ layout: post
 ---
 <!-- Title of the Post -->
 <h1>BigBanonosâ€™ Favorite Songs by Summer Walker</h1> <!-- Featured Image -->
-<div> <img src="https://www.billboard.com/wp-content/uploads/2022/03/feature-summer-walker-billboard-2022-bb2-gizelle-hernandez-2-1548.jpg?w=1024" alt="Summer Walker">
+<div> {{< img-lite src="https://www.billboard.com/wp-content/uploads/2022/03/feature-summer-walker-billboard-2022-bb2-gizelle-hernandez-2-1548.jpg?w=1024" alt="Summer Walker" >}}
 </div> <!-- Spotify Embed -->
-<div> <iframe src="https://open.spotify.com/embed/playlist/1dgkVtvCupnTABBeVeBRre?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div> {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <h3>Top Songs by Summer Walker:</h3>
 <ol> <li><strong>Baby</strong> | Album: <em>Last Day Of Summer</em> | Released: October 19, 2018 | Label: LVRN/Interscope Records</li> <li><strong>Playing Games</strong> | Album: <em>Playing Games</em> | Released: August 23, 2019 | Label: LVRN Records</li> <li><strong>Ex For A Reason (with JT from City Girls)</strong> | Album: <em>Ex For A Reason</em> | Released: October 15, 2021 | Label: LVRN/Interscope Records</li> <li><strong>No Love (with SZA & Cardi B) - Extended Version</strong> | Album: <em>No Love [Extended Version]</em> | Released: March 25, 2022 | Label: LVRN/Interscope Records</li>

@@ -4,7 +4,7 @@ layout: post
 ---
 <h2>BigBanonos' Top 3 Songs by BigXthaPlug</h2> <!--Search Description-->
 <p>BigBanonos' favorite tracks by BigXthaPlug, featuring top hits from "AMAR" like "Whip It" and "Texas." Dive into these southern hip hop anthems and explore the unique style BigX brings to the genre.</p> <!--Spotify Playlist Embed-->
-<iframe allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" allowfullscreen="" frameborder="0" height="352" loading="lazy" src="https://open.spotify.com/embed/playlist/7zi74yaDcftPgoAdsB9lLH?utm_source=generator" width="100%"></iframe> <!--Song Listings-->
+{{< youtube "embed" >}} <!--Song Listings-->
 <ul> <li>Whip It - <em>AMAR (Deluxe)</em> (2023-04-28)</li> <li>Rush Hour - <em>AMAR</em> (2023-02-10)</li> <li>Texas - <em>AMAR</em> (2023-02-10)</li>
 </ul> <!--Image-->
 <img alt="BigXthaPlug Image" height="auto" src="https://thefestivalvoice.com/wp-content/uploads/2024/03/aotd-bigxthaplug-1024x1024.jpg" width="100%" /> <!--Tags Section-->

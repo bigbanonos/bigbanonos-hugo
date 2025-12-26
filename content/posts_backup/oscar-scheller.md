@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Stay" by Oscar Scheller from his *Beautiful Words EP*. This lo-fi indie track captures the raw emotion and introspective style of Scheller's sound.</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab677762000056b8dbdc26f627a66b09c18949e5" alt="Oscar Scheller - Stay" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="601" src="https://www.youtube.com/embed/4AbQtUCCKwM" title="Stay" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "4AbQtUCCKwM" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Stay"</em> is a lo-fi indie track from Oscar Scheller's *Beautiful Words EP*, featuring mellow guitar strums and intimate lyrics that evoke a sense of vulnerability.</p>
 </div> <!-- Footer Links -->

@@ -7,7 +7,7 @@ layout: post
 <p >Updated September 25, 2015, with "Wish You Well" from <em>Cold Beer Conversation</em>. Explore the country classics of George Strait in the playlist below!</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d0000b273499cf6c0830a1ae6f1ba8275" alt="George Strait" />
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/7sHxcDOWYHiuSFRrFxDwoT?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <div > <p><strong>"Wish You Well"</strong><br> Genre: Country<br> Album: <em>Cold Beer Conversation</em><br> Release Date: September 25, 2015<br> Label: MCA Nashville</p> <p><strong>"Here For A Good Time"</strong><br> Genre: Country<br> Album: <em>Here For A Good Time</em><br> Release Date: January 1, 2011<br> Label: MCA Nashville</p>
 </div> <!-- Footer Links -->

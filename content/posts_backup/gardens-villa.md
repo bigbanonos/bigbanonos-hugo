@@ -7,7 +7,7 @@ layout: post
 <p >Updated August 21, 2015, with "I Already Do" by Gardens & Villa. This standout track from the album <em>Music For Dogs</em> blends chillwave vibes with shimmer pop energy, delivering a reflective and melodic experience.</p> <!-- Featured Image -->
 <div > <img src="https://f4.bcbits.com/img/0020690500_25.jpg" alt="Gardens & Villa - Music For Dogs" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/M_M8WQnHuuU" title="Gardens & Villa - Back to the Garden (Official Video)" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "M_M8WQnHuuU" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"I Already Do"</em> showcases Gardens & Villa's signature chillwave sound, layered with dreamy vocals and shimmering synths. Released on August 21, 2015, under Secretly Canadian, this track solidifies their place in the indie pop landscape.</p>
 </div> <!-- Footer Links -->

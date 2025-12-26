@@ -7,7 +7,7 @@ layout: post
 <p >Updated July 3, 1990, with "Juicy Fruit - Single Version" from <em>Club Epic</em>. Experience the smooth R&B and funk vibes of Mtume in the playlist below!</p> <!-- Featured Image -->
 <div > <img src="https://i.ytimg.com/vi/SNAZetfUWog/maxresdefault.jpg" alt="Mtume" />
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/2tDBuQom3CAlEhX9RDMJiU?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <div > <p><strong>"Juicy Fruit - Single Version"</strong><br> Genre: R&B, Hip Hop<br> Album: <em>Club Epic</em><br> Release Date: July 3, 1990<br> Label: Epic</p>
 </div> <!-- Footer Links -->

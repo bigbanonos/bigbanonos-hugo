@@ -7,7 +7,7 @@ layout: post
 <p >Updated January 1, 2007, with "Get Money" by Montana Trax featuring 8Ball & Ammo. This hard-hitting track delivers powerful beats and sharp lyrics, making it a standout anthem in the hip-hop genre. Watch the video below!</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d00001e0248799dae00e34661e5c48a67" alt="Montana Trax - Get Money" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="733" height="480" src="https://www.youtube.com/embed/cgNLTVRFQ1Y" title="Get Money" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "cgNLTVRFQ1Y" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Get Money"</em>, released in 2007, showcases Montana Traxâ€™s production brilliance with the dynamic contributions of 8Ball and Ammo. This trackâ€™s infectious rhythm and street-smart lyrics make it an enduring favorite in hip-hop circles.</p>
 </div> <!-- Footer Links -->

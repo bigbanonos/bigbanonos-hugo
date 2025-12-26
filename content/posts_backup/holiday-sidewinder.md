@@ -7,7 +7,7 @@ layout: post
 <p >Updated July 6, 2018, with "Leo" by Holiday Sidewinder. This dazzling Australian alternative pop gem showcases Sidewinder's captivating sound, perfectly suited for her Personal Best Records release.</p> <!-- Featured Image -->
 <div > <img src="https://f4.bcbits.com/img/a2753945383_65" alt="Holiday Sidewinder - Leo" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/74giZVQ1NAI" title="Holiday Sidewinder - Leo (Official Video)" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "74giZVQ1NAI" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Leo"</em>, released July 6, 2018, is an enchanting track that embodies Holiday Sidewinderâ€™s playful and vibrant alternative pop style. This standout release from Personal Best Records continues to captivate fans worldwide.</p>
 </div> <!-- Footer Links -->

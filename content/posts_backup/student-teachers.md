@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Looks" by Student Teachers, from the album *Invitation To...The Student Teachers*, released on November 11, 2013.</p> <!-- Featured Image -->
 <div > <img src="https://i.ytimg.com/vi/3rfGKIMwpJk/hqdefault.jpg" alt="Student Teachers - Looks" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="601" src="https://www.youtube.com/embed/VzCSFyIjtsI" title="Student Teachers - 'Looks'" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "VzCSFyIjtsI" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Looks"</em> by Student Teachers is a track from the album *Invitation To...The Student Teachers*, released on November 11, 2013. The song captures the raw energy of early US punk, showcasing the band's dynamic and edgy style.</p>
 </div> <!-- Footer Links -->

@@ -2,7 +2,7 @@
 title: "whu else 1 song"
 layout: post
 ---
-<iframe frameborder="0" height="360" src="https://youtube.com/embed/dTyZbbHNGAM" width="480"></iframe><h2><ol><li>I'm Not Daddy [2020]</li></ol></h2>
+{{< youtube "dTyZbbHNGAM" >}}<h2><ol><li>I'm Not Daddy [2020]</li></ol></h2>
 
 <!--Subscribe and Playlist Links-->
 <div>

@@ -7,7 +7,7 @@ layout: post
 <p >Updated March 7, 2011, with "Half Baked (Live 1977)" by Jimmy Campbell. This live recording captures the introspective brilliance of Campbell's songwriting and heartfelt performance.</p> <!-- Featured Image -->
 <div > <img src="https://45rpy.wordpress.com/wp-content/uploads/2019/02/halfbaked.jpg" alt="Jimmy Campbell - Half Baked Live" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/sP0-wCqxep0" title="Jimmy Campbell - 'Half Baked (Live 1977)'" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "sP0-wCqxep0" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Half Baked (Live 1977)"</em> is featured on the album <strong>Live 1977</strong>, released by The Viper Label. This track highlights Jimmy Campbell's soulful artistry, cementing his legacy as one of the most underrated singer-songwriters of his era.</p>
 </div> <!-- Footer Links -->

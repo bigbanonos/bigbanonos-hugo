@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Be So True" by Total Babes, from the album *Swimming Through Sunlight*, released in 2011 by Old Flame Records. A perfect blend of popgaze and folk/acoustic, this track captures the essence of dreamy indie pop with its infectious melodies and wistful lyrics.</p> <!-- Featured Image -->
 <div > <img src="https://freshheirs.wordpress.com/wp-content/uploads/2011/07/total-babes-band-pic.jpg?w=584" alt="Total Babes - Be So True" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/GL4lATNNflg" title="Total Babes - Be So True (Original Audio)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "GL4lATNNflg" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Be So True"</em> by Total Babes is from their 2011 album *Swimming Through Sunlight*. The song features lush popgaze elements and heartfelt vocals, creating an atmosphere that draws listeners into a world of nostalgic indie pop.</p>
 </div> <!-- Footer Links -->

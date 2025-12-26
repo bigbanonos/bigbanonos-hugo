@@ -7,7 +7,7 @@ layout: post
 <p >Updated January 1, 2003, with "Money In My Pocket" by Dennis Brown. Originally released in 1978, this track from the *Uptown Top Ranking: Joe Gibbs Reggae Productions 1970-78* collection exemplifies Dennis Brown's mastery of lovers rock and roots reggae.</p> <!-- Featured Image -->
 <div > <img src="https://i.redd.it/brwar1hxlw9d1.jpeg" alt="Dennis Brown - Money In My Pocket" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/O1VbRLBY6vA" title="Money In My Pocket - Dennis Brown (1978 version) (official audio)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "O1VbRLBY6vA" >}}
 </div> <!-- Song Information -->
 <div > <p>"Money In My Pocket" remains a timeless reggae anthem, blending Dennis Brown's smooth vocal delivery with a soulful and rhythmic groove that continues to resonate with audiences worldwide.</p>
 </div> <!-- Footer Links -->

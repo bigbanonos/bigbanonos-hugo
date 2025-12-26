@@ -8,7 +8,7 @@ Unconditionally 2013
 <br />
 <hr />
 #live
-<iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/kLZRMKF5P8g?list=PLtuNtuTatqI1XJ8ZHbdF99LJyoVRCCgWN" width="95%"></iframe>
+{{< youtube "kLZRMKF5P8g" >}}
 Terre T's Cherry Blossom Clinic on WFMU
 
 <!--Subscribe and Playlist Links-->

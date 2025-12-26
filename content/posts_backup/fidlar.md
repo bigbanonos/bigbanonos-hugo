@@ -6,8 +6,8 @@ layout: post
 </div> <p><em>BigBanonos</em> highlights the best of FIDLAR's high-energy indie garage rock, capturing their signature blend of noise pop and skate punk.</p> <h3>Selected Tracks</h3>
 <ol> <li><strong>40oz. On Repeat</strong> â€“ <em>Too</em> (2015)</li> <li><strong>West Coast</strong> â€“ <em>Too</em> (2015)</li> <li><strong>Bad Habits</strong> â€“ <em>Too</em> (2015)</li> <li><strong>No Waves</strong> â€“ <em>Standalone Single</em> (2011)</li> <li><strong>Wake Bake Skate</strong> â€“ <em>Standalone Single</em> (2011)</li> <li><strong>40oz On Repeat</strong> â€“ <em>Standalone Single</em> (2015)</li>
 </ol> <p>FIDLAR Playlist:</p>
-<iframe src="https://open.spotify.com/embed/playlist/4eZW64IbyKo6Xn7hzDpApk?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> <p>Watch the video for "40oz On Repeat":</p>
-<iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/iJy8VgB83OQ?list=PLtuNtuTatqI3OW_0EzBXRrGI_BCpydOcB" width="560"></iframe> <h3>Tags</h3>
+{{< youtube "embed" >}} <p>Watch the video for "40oz On Repeat":</p>
+{{< youtube "iJy8VgB83OQ" >}} <h3>Tags</h3>
 <p>@fidlar</p> <hr />
 <p><em>First posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
 

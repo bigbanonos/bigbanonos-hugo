@@ -6,8 +6,8 @@ layout: post
 <h2>BigBanonos' Favorite 4 Songs by A.G. Cook</h2>
 <p>A.G. Cook's blend of hyperpop and bubblegum bass makes him a favorite. </p> <ol> <li><strong>Seeds</strong> - Album: <em>For the Birds: The Birdsong Project, Vol. I</em> (2022-05-20), 3:26</li> <li><strong>Being Harsh</strong> (feat. Oklou) - Album: <em>Being Harsh</em> (2021-05-20), 2:56</li> <li><strong>Oh Yeah</strong> - Album: <em>Oh Yeah</em> (2020-08-19), 3:32</li> <li><strong>Superstar</strong> - Album: <em>PC Music, Vol. 2</em> (2016-11-18), 4:51</li>
 </ol>
-<iframe src="https://open.spotify.com/embed/playlist/0EwpRuijFLX5hLrfzTE0fh?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-<img src="https://pyxis.nymag.com/v1/imgs/a0c/e29/13463b07250d7ec3c8933dd8b25b61c568-ag-cook-4.1x.rsquare.w1400.jpg" alt="A.G. Cook Album Cover" /> <p> Explore these tracks and join BigBanonosâ€™ exploration of sound. For more updates, follow <a href="https://www.youtube.com/channel/UCLKYEvwP847OahjcnkYMhjg">BigBanonos on YouTube</a>!</p>
+{{< youtube "embed" >}}
+{{< img-lite src="https://pyxis.nymag.com/v1/imgs/a0c/e29/13463b07250d7ec3c8933dd8b25b61c568-ag-cook-4.1x.rsquare.w1400.jpg" alt="A.G. Cook Album Cover" /> <p> Explore these tracks and join BigBanonosâ€™ exploration of sound. For more updates, follow <a href="https://www.youtube.com/channel/UCLKYEvwP847OahjcnkYMhjg" >}}BigBanonos on YouTube</a>!</p>
 
 
 <!--Subscribe and Playlist Links-->

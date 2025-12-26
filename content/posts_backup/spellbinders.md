@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "For You" by Spellbinders. This 1965 deep northern soul classic is timeless. Watch the video below!</p> <!-- Featured Image -->
 <div > <img src="https://i.discogs.com/sOs533G4u6C4U4ZePGFTyLD8myAW5CxwqF6Edr9PuZA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY1MjM5/NjQtMTQ5OTM4OTY3/MC01NjQzLmpwZWc.jpeg" alt="Spellbinders - For You" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/k8_dCBNMqy4?list=PLtuNtuTatqI3X01zTqiujiaUhFaK1PjKA" width="95%"></iframe>
+<div > {{< youtube "k8_dCBNMqy4" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"For You"</em> by Spellbinders, featured on their 1966 album *The Magic of the Spellbinders*, is a soulful expression of deep northern soul brilliance.</p>
 </div> <!-- Footer Links -->

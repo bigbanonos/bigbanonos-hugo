@@ -4,9 +4,9 @@ layout: post
 ---
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Dawn Penn</h1> <!-- Featured Image -->
-<div > <img src="https://i.scdn.co/image/ab67616d0000b2733260aeb9dbc740c568a86017" alt="Dawn Penn">
+<div > {{< img-lite src="https://i.scdn.co/image/ab67616d0000b2733260aeb9dbc740c568a86017" alt="Dawn Penn" >}}
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/6FNucRUQvzWio4pg6Gq3gy?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Introductory Text -->
 <p >Dawn Pennâ€™s reggae classics like "You Donâ€™t Love Me (No, No, No)" are unforgettable. BigBanonos celebrates her timeless hits that continue to captivate listeners.</p> <!-- Song Highlights -->
 <div > <p>BigBanonos' standout picks:</p> <ol> <li><strong>Why Did You Lie?</strong> | <em>Trojan Reggae Sisters Collection</em> | Released: March 30, 2009 | Trojan Records</li> <li><strong>You Don't Love Me (No, No, No) - Extended Mix</strong> | <em>No, No, No</em> | Released: 1994 | Rhino Atlantic</li> </ol>

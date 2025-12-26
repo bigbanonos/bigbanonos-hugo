@@ -4,10 +4,10 @@ layout: post
 ---
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by When Saints Go Machine</h1> <!-- Featured Image -->
-<div > <img src="https://www.jambase.com/wp-content/uploads/2023/05/when-saints-go-machine-1480x832.png" alt="When Saints Go Machine">
+<div > {{< img-lite src="https://www.jambase.com/wp-content/uploads/2023/05/when-saints-go-machine-1480x832.png" alt="When Saints Go Machine" >}}
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/6imbj81X5Hsr3Pz9aUEcl6?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-</div> <iframe width="1920" height="1080" src="https://www.youtube.com/embed/Nl5P7ZStjkY" title="When Saints go Machine - Terminal ONE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> <!-- Introductory Text -->
+<div > {{< youtube "embed" >}}
+</div> {{< youtube "Nl5P7ZStjkY" >}} <!-- Introductory Text -->
 <p >When Saints Go Machine craft lush and intricate electropop soundscapes. From their celebrated album *Konkylie*, here are BigBanonos' standout picks.</p> <!-- Song Highlights -->
 <div > <p>BigBanonos' standout picks:</p> <ol> <li><strong>Kelly</strong> | <em>Konkylie</em> | Released: June 6, 2011 | !K7 Records</li> <li><strong>Terminal One</strong> | <em>Konkylie</em> | Released: 2011</li> </ol>
 </div> <!-- Footer Links -->

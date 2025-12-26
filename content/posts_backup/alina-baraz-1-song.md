@@ -3,8 +3,8 @@ title: "alina baraz 1 song"
 layout: post
 ---
 <p>BigBanonos two favorite songs by Alina Baraz - updated on October 29. 2021 with "No Interference" - playlist below</p>
-<iframe frameborder="0" height="270" src="https://youtube.com/embed/htxDCKpXpWU" width="480"></iframe><h2><ol><li>No Interference [2021]</li><li>Alone With You [2021]</li></ol></h2>
-<iframe src="https://open.spotify.com/embed/playlist/3UAbtmjtfu1zyqUhtPmgEX?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+{{< youtube "htxDCKpXpWU" >}}<h2><ol><li>No Interference [2021]</li><li>Alone With You [2021]</li></ol></h2>
+{{< youtube "embed" >}}
 <p>Donâ€™t forget to check out BigBanonos on YouTube for more curated music content, especially those tracks #NotOnSpotify! Join the community for more insights and deep cuts.</p> <p><a href="https://www.youtube.com/@BigBanonos" target="_blank">Subscribe to BigBanonos on YouTube</a></p>
 
 <!--Subscribe and Playlist Links-->

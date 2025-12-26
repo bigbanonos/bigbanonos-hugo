@@ -7,7 +7,7 @@ layout: post
 <p >Noam Chomsky's spoken-word brilliance spans decades of thought-provoking analysis. From "National Security States" to "The Drug War," his oratory skills enlighten and challenge. Explore the playlist below!</p> <!-- Featured Image -->
 <div > <img src="https://lite-images-i.scdn.co/image/ab67656300005f1f55dad131987d47624ce018ea" alt="Noam Chomsky - Playlist" />
 </div> <!-- Spotify Playlist Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/3BXmSswu7ilaXPX0o9dD0q?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <div > <p>Chomsky delves into critical subjects, including U.S. foreign policy and global power dynamics. Featured speeches include <em>When Elites Fail</em> and <em>The Mafia Principle of Global Hegemony</em>. A must-listen for those curious about world politics.</p>
 </div> <!-- Footer Links -->

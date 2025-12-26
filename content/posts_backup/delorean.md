@@ -7,7 +7,7 @@ layout: post
 <p >Updated May 12, 2009, with "Deli" by Delorean. This standout track from the *Ayrton Senna* EP perfectly embodies the balearic and indietronica vibes that Delorean is known for.</p> <!-- Featured Image -->
 <div > <img src="https://i.ytimg.com/vi/43gmbza86AA/maxresdefault.jpg" alt="Delorean - Deli" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/43gmbza86AA" title="Delorean - Deli" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "43gmbza86AA" >}}
 </div> <!-- Song Information -->
 <div > <p>"Deli" captures the shimmering, sun-soaked soundscapes of Delorean's signature style, blending dreamy melodies with danceable rhythms.</p>
 </div> <!-- Footer Links -->

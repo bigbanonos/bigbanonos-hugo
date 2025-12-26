@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "We Don't Need A Cure" by Singleman Affair. This introspective track from the 2010 *Racehorse - EP* showcases poignant songwriting and rich acoustic textures. Watch the video below!</p> <!-- Featured Image -->
 <div > <img src="https://f4.bcbits.com/img/a0315421729_10.jpg" alt="Singleman Affair - We Don't Need A Cure" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="733" height="480" src="https://www.youtube.com/embed/rl1IWFZzRBM" frameborder="0" allowfullscreen></iframe>
+<div > {{< youtube "rl1IWFZzRBM" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"We Don't Need A Cure"</em> by Singleman Affair, released via Cardboard Sangria Records in 2010, is a tender and moving acoustic gem.</p>
 </div> <!-- Footer Links -->

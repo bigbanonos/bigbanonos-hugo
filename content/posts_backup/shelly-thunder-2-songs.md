@@ -4,9 +4,9 @@ layout: post
 ---
 <!-- Title of the Post -->
 <h1>BigBanonosâ€™ Favorite Songs by Shelly Thunder</h1> <!-- Featured Image -->
-<div> <img src="https://i.scdn.co/image/ab67616d0000b2735706906932bb9ff798507198" alt="Shelly Thunder">
+<div> {{< img-lite src="https://i.scdn.co/image/ab67616d0000b2735706906932bb9ff798507198" alt="Shelly Thunder" >}}
 </div> <!-- Spotify Embed -->
-<div> <iframe src="https://open.spotify.com/embed/playlist/4e8KrbeNz3xp0OK8Y42Iea?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div> {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <h3>Top Songs by Shelly Thunder:</h3>
 <ol> <li><strong>Kuff</strong> | Album: <em>The Best of Shelly Thunder</em> | Released: January 31, 2022 | Label: JA (Jamaica Authentic) Records</li> <li><strong>Sound Fi Get Kuff</strong> | Album: <em>Kuff Again!</em> | Released: August 6, 2013 | Label: Tiger Shark Records</li>

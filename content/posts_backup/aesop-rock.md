@@ -7,7 +7,7 @@ layout: post
 <p >Updated August 27, 2007, with BigBanonos' favorite song by Aesop Rock, "None Shall Pass," from the album of the same name. Watch the video and see more details below:</p> <!-- Featured Image -->
 <div > <img src="https://alarm-magazine.com/wp-content/uploads/2012/11/aesop-660x382.jpg" alt="Aesop Rock - None Shall Pass" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/KNrB6--KBqs" title="Aesop Rock - None Shall Pass (Official Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "KNrB6--KBqs" >}}
 </div> <!-- Song Information -->
 <div > <p>Released on August 27, 2007, "None Shall Pass" by Aesop Rock is a standout example of abstract and conscious hip hop. Featured on the album *None Shall Pass*, this track was released under the Rhymesayers label and showcases Aesop Rockâ€™s intricate wordplay and unique production style.</p>
 </div> <!-- Footer Links -->

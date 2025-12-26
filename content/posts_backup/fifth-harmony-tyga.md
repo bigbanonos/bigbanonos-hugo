@@ -7,7 +7,7 @@ layout: post
 <p >Updated January 30, 2015, with "Like Mariah" by Fifth Harmony featuring Tyga. This smooth and playful track pays homage to Mariah Carey's legendary style while showcasing Fifth Harmony's vocal talent and Tyga's dynamic energy.</p> <!-- Featured Image -->
 <div > <img src="https://www.billboard.com/wp-content/uploads/media/fifth-harmony-kiss-fm-2015-billboard-650.jpg?w=650" alt="Fifth Harmony - Like Mariah" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/mffI6dqtXCU" title="Fifth Harmony - Like Mariah ft. Tyga (Music Video)" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "mffI6dqtXCU" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Like Mariah"</em> is a standout track from Fifth Harmony's *Reflection (Deluxe)* album, blending pop harmonies and hip hop vibes for an irresistible anthem.</p>
 </div> <!-- Footer Links -->

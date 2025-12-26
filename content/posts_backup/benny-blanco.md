@@ -4,7 +4,7 @@ layout: post
 ---
 <div class="separator" >
 <a href="https://i.ytimg.com/vi/yNXDxUQ4c9U/maxresdefault.jpg" imageanchor="1"><img border="0" data-original-height="450" data-original-width="800" height="225" src="https://i.ytimg.com/vi/yNXDxUQ4c9U/maxresdefault.jpg" width="400" /></a></div>
-<iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/videoseries?list=PLtuNtuTatqI0lnzOMFo_17BML0H4N20Nm" width="100%"></iframe><br />
+{{< youtube "videoseries" >}}<br />
 <h3>
 (ft. Calvin Harris, Miguel) I Found You [2019]<br />
 (ft. Spank Rock) Shake That [2007]</h3>

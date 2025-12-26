@@ -7,7 +7,7 @@ layout: post
 <p >Updated September 18, 2001, with BigBanonos' favorite track by Buckwheat Zydeco, "Ya Ya." This zydeco classic, featured on the *Buckwheat's Zydeco Party (Deluxe Edition)* released by Rounder Records, is a vibrant celebration of the genre. Watch the video and see more details below:</p> <!-- Featured Image -->
 <div > <img src="https://i.discogs.com/LBfY_NbVbxDqE7vdcpbF0eOFthjixIhmYVa125Nmla8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMyMTQw/NDktMTUxNDExNzE2/NC0zNzMyLmpwZWc.jpeg" alt="Buckwheat Zydeco - Ya Ya" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/u0yMYfxTqX4" title="Buckwheat Zydeco - Ya Ya" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "u0yMYfxTqX4" >}}
 </div> <!-- Song Information -->
 <div > <p>"Ya Ya" by Buckwheat Zydeco, released on September 18, 2001, via Rounder Records, delivers an infectious zydeco vibe perfect for any party playlist. At 3:34, itâ€™s a standout track from the *Buckwheat's Zydeco Party (Deluxe Edition).*</p>
 </div> <!-- Footer Links -->

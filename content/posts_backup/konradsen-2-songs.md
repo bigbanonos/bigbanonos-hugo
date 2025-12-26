@@ -7,9 +7,9 @@ layout: post
 <p >Updated October 2, 2019, with "Dice" by Konradsen. This Oslo indie pop gem is a heartfelt and atmospheric track released under the Cascine label.</p> <!-- Featured Image -->
 <div > <img src="https://f4.bcbits.com/img/0035288986_10.jpg" alt="Konradsen - Dice" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/LJhVYKWPSKg" title="Konradsen - Dice (Music video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "LJhVYKWPSKg" >}}
 </div>
-<iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/videoseries?list=PLtuNtuTatqI2jJH51-xRiRtLMYYIbIJQD" width="560"></iframe>
+{{< youtube "videoseries" >}}
 <!-- Song Information -->
 <div > <p><em>"Dice"</em> by Konradsen is a beautiful indie pop piece that encapsulates the ethereal and introspective soundscape of Oslo indie music. A highlight from the album <em>Dice</em>, itâ€™s a must-listen for fans of thoughtful and melodic pop.</p>
 </div> <!-- Footer Links -->

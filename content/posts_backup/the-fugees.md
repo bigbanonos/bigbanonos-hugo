@@ -7,7 +7,7 @@ layout: post
 <p >The Fugees, with their iconic blend of hip-hop and neo-soul, created timeless classics. Discover BigBanonos' favorite tracks by the legendary group below!</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d0000b2734b7c4561e0f5002b9f5efb7a" alt="Fugees - BigBanonos Favorite Songs" />
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/7lBDPMoRBplt3zPUBMmuAE?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Killing Me Softly With His Song"</em> highlights Lauryn Hill's soulful voice in this unforgettable hit from the album <strong>The Score</strong>, released February 13, 1996, on <strong>Columbia</strong>.</p> <p><em>"Ready or Not"</em> blends bold rap verses with a hauntingly beautiful melody. From the album <strong>The Score</strong>.</p> <p><em>"Fu-Gee-La"</em> showcases the group's unique style with powerful lyrics and rhythms. From the album <strong>The Score</strong>.</p>
 </div> <!-- Footer Links -->

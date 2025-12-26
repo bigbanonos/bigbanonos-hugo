@@ -5,11 +5,11 @@ layout: post
 <div class="post-title"> <h1>BigBanonos' Favorite Songs by Yung Bae</h1>
 </div>
 <p>Updated February 24, 2017, with "This Is It" from the album <i>B4E</i>, highlighted in the playlist below:</p>
-<div class="post-image"> <img src="https://asialive365.com/wp-content/uploads/2018/03/c-yung-bae-asia-tour.jpg" alt="Yung Bae Album Cover">
+<div class="post-image"> {{< img-lite src="https://asialive365.com/wp-content/uploads/2018/03/c-yung-bae-asia-tour.jpg" alt="Yung Bae Album Cover" >}}
 </div>
 <p>Yung Baeâ€™s vibrant future funk sound combines nostalgic grooves with modern electronic beats. Tracks like "This Is It" and "Rainbows" capture his signature style, blending upbeat melodies with funky rhythms. His music offers a refreshing take on funk-inspired electronica.</p>
 <p>Listen to the playlist below to experience these tracks and more:</p>
-<div class="spotify-embed"> <iframe src="https://open.spotify.com/embed/playlist/6InIce7q6Zd5zc8CxZhH9m?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div class="spotify-embed"> {{< youtube "embed" >}}
 </div>
 <p>Tracks featured:</p>
 <ul> <li>"This Is It" â€“ <i>B4E</i> (February 24, 2017, The Future of Funk)</li> <li>"Rainbows" â€“ <i>Skyscraper Anonymous</i> (October 28, 2016, The Future of Funk)</li> <li>"If Only" â€“ <i>Skyscraper Anonymous</i> (October 28, 2016, The Future of Funk)</li>

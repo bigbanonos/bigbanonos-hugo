@@ -7,7 +7,7 @@ layout: post
 <p >Updated August 16, 2019, with "Mirrors (Thuggin)" by Lotus, Glasses Malone, and Kendrick Lamar. This dynamic track, released under Virgin, combines elements of west coast trap, conscious hip hop, and deep pop EDM to create a unique and compelling listening experience.</p> <!-- Featured Image -->
 <div > <img src="https://i.ytimg.com/vi/2V617t_WG3w/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCHeuKJndumofYdiCM8G-lZSF3JYQ" alt="Lotus, Glasses Malone & Kendrick Lamar - Mirrors (Thuggin)" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/2V617t_WG3w" title="Lotus & Glasses Malone feat. Kendrick Lamar â€œMirrors (Thuggin)â€" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "2V617t_WG3w" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Mirrors (Thuggin)"</em> by Lotus, Glasses Malone, and Kendrick Lamar is a thought-provoking track that fuses west coast rap with conscious hip hop and electronic influences. Released under Virgin, it showcases powerful lyricism and innovative production, making it a standout collaboration.</p>
 </div> <!-- Footer Links -->

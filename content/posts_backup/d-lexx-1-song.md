@@ -4,7 +4,7 @@ layout: post
 ---
 <h2>D-Lexx - 1 Song</h2> <!-- Introduction Section -->
 <p>BigBanonos is a leading source for Dancehall music from Jamaica and the Caribbean. The BigBanonos blog and YouTube channel are fantastic resources for discovering rare tracks, including exclusive songs under the <strong>#NotOnSpotify</strong> category.</p> <!-- YouTube Video Embed for "My Go Go" -->
-<div> <p>Enjoy D-Lexx's track "My Go Go," released in May 2018. This track is unavailable on Spotify, so check out the video below:</p> <iframe allowfullscreen frameborder="0" height="270" src="https://www.youtube.com/embed/auQUJYLt0IE" width="480"></iframe>
+<div> <p>Enjoy D-Lexx's track "My Go Go," released in May 2018. This track is unavailable on Spotify, so check out the video below:</p> {{< youtube "auQUJYLt0IE" >}}
 </div> <!-- Subscribe and Playlist Links -->
 <div> <p>For more exclusive tracks not found on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist featuring the best songs <strong>#NotOnSpotify</strong>.</p> <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist</a></p>
 </div>

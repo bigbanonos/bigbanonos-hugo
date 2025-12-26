@@ -3,7 +3,7 @@ title: "cherry glazerr teenage girl"
 layout: post
 ---
 <h2>Cherry Glazerr â€“ Essential Tracks</h2> <div > <img src="https://www.tinymixtapes.com/sites/default/files/imagecache/Article_Width/1710/cherry-glazerr.jpg" alt="Cherry Glazerr" width="500" />
-</div> <iframe src="https://open.spotify.com/embed/playlist/65PkTtECPFV9I9HBGFtaHz?utm_source=generator" width="100%" height="352" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> <h3>Tracklist</h3>
+</div> {{< youtube "embed" >}} <h3>Tracklist</h3>
 <ul> <li><strong>Daddi</strong> â€“ <em>Daddi</em> (2018)</li> <li><strong>Teenage Girl</strong> â€“ <em>Papa Cremp</em> (2013)</li>
 </ul> <h3>Highlights</h3>
 <ul> <li><strong>Daddi</strong> â€“ A playful and rebellious track with Cherry Glazerr's signature indie-punk edge.</li> <li><strong>Teenage Girl</strong> â€“ A cult favorite capturing the raw and quirky energy of their early years.</li>

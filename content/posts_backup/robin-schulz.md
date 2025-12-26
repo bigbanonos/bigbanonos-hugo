@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Sugar" by Robin Schulz featuring Francesco Yates, from the single *Sugar*, released on July 17, 2015, by Tonspiel.</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d0000b2733c9047f9aa5d0d1e03827039" alt="Robin Schulz - Sugar" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/bvC_0foemLY" title="Robin Schulz - Sugar (feat. Francesco Yates)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "bvC_0foemLY" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Sugar"</em> by Robin Schulz featuring Francesco Yates is a track from the single *Sugar*, released on July 17, 2015. The song mixes deep euro house, deep house, EDM, German dance, and tropical house with an upbeat pop dance influence, making it a catchy summer anthem.</p>
 </div> <!-- Footer Links -->

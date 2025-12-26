@@ -7,7 +7,7 @@ layout: post
 <p >Updated August 27, 2018, with "Medley da Gaiola (DENNIS Remix)" by MC Kevin o Chris and DENNIS. This high-energy track, released under Sony Music Entertainment, blends the infectious rhythms of funk carioca with contemporary beats, showcasing the vibrant sound of Brazil's music scene.</p> <!-- Featured Image -->
 <div > <img src="https://lh3.googleusercontent.com/FsEzO6uoBepyaIQ7jx3z9YdhKkfYO3DgTiSL9pHI1v1bv09o3J7ez_B3cWKD1RIxq-llU1hmLY0435XTPA=w544-h544-l90-rj" alt="MC Kevin o Chris & DENNIS - Medley da Gaiola (DENNIS Remix)" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/oi8lt6WXB4U" title="Kevin o Chris - Medley da Gaiola (Dennis Dj Remix)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "oi8lt6WXB4U" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Medley da Gaiola (DENNIS Remix)"</em> by MC Kevin o Chris and DENNIS is an electrifying track that showcases the pulsating energy of funk carioca. Featuring dynamic rhythms and undeniable groove, this remix captures the essence of Brazilian party culture and the innovative sound of funk 150 bpm.</p>
 </div> <!-- Footer Links -->

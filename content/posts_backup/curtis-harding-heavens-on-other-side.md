@@ -3,7 +3,7 @@ title: "curtis harding heavens on other side"
 layout: post
 ---
 #2014 <br />
-<iframe width="95%" height="315" src="https://www.youtube.com/embed/egLkhbIYS6Y?list=PLtuNtuTatqI1cR9clFS2SGyRMUnX2VoJk" frameborder="0" allowfullscreen></iframe><br />
+{{< youtube "egLkhbIYS6Y" >}}<br />
 Heaven's On The Other Side 2014
 
 <!--Subscribe and Playlist Links-->

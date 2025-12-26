@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Satisfied 'n' Tickled Too" by Taj Mahal, a rich blend of blues, folk, and jazz from the 1976 album of the same name. Watch and enjoy the classic vibes below!</p> <!-- Featured Image -->
 <div > <img src="https://upload.wikimedia.org/wikipedia/en/d/d6/Satisfied_n_Tickled_Too.jpg" alt="Taj Mahal - Satisfied 'n' Tickled Too" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="733" height="480" src="https://www.youtube.com/embed/9FImf2qBg5o" title="Satisfied 'N' Tickled Too" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "9FImf2qBg5o" >}}
 </div> <!-- Footer Links -->
 <div > <p>For more updates, visit <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Also, check out our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a> channels for more exclusive content!</p>
 </div> <!-- Tags -->

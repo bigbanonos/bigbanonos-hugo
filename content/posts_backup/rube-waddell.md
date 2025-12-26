@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Six Feet Down" by Rube Waddell, from the album *Hobo Train*, released on September 13, 2009, by Vaccination Records.</p> <!-- Featured Image -->
 <div > <img src="https://bloximages.chicago2.vip.townnews.com/oleantimesherald.com/content/tncms/assets/v3/editorial/3/05/3058437b-9d99-569b-b1c5-2460beeeae6e/5ed848be32300.image.jpg?resize=1200%2C628" alt="Rube Waddell - Six Feet Down" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/V2_hw37h3RE" title="Rube Waddell - Six Feet Down" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "V2_hw37h3RE" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Six Feet Down"</em> by Rube Waddell is a track from the album *Hobo Train*, released on September 13, 2009. This song showcases a blend of Americana and folk, evoking the feeling of the railroad and the hardships of a traveling life.</p>
 </div> <!-- Footer Links -->

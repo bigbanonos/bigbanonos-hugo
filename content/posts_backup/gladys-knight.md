@@ -5,9 +5,9 @@ layout: post
 <!-- Title of the Post -->
 <h1>BigBanonos' Top Songs by Gladys Knight</h1> <!-- Introductory Text -->
 <p>Gladys Knight & The Pips brought soulful melodies and heartfelt lyrics to the forefront of R&B. From "Midnight Train to Georgia" to "Neither One of Us," here are BigBanonos' top picks from their legendary catalog:</p> <!-- Featured Image -->
-<div> <img src="https://i.scdn.co/image/ab67616d0000b273ea973edf96969c84c8461726" alt="Gladys Knight">
+<div> {{< img-lite src="https://i.scdn.co/image/ab67616d0000b273ea973edf96969c84c8461726" alt="Gladys Knight" >}}
 </div> <!-- Spotify Embed -->
-<div> <iframe src="https://open.spotify.com/embed/playlist/2LiZCF3k6TCef4VIjJZ78h?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div> {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <h3>Top Songs:</h3>
 <ul> <li><strong>Still Such a Thing (Live)</strong> | <em>Live At The Roxy</em> | Released: 1998-11-16 | Label: Columbia/Legacy | Genres: Classic Soul, Disco, Funk, Motown</li> <li><strong>Still Such a Thing</strong> | <em>About Love (Expanded Edition)</em> | Released: 1980 | Label: Columbia/Legacy | Genres: Classic Soul, Disco, Funk, Motown</li> <li><strong>Neither One of Us (Wants to Be the First to Say Goodbye)</strong> | <em>Neither One of Us</em> | Released: 1973 | Label: UNI/Motown | Genres: Classic Soul, Funk, Quiet Storm</li> <li><strong>Midnight Train to Georgia</strong> | <em>Imagination (Expanded Edition)</em> | Released: 1973 | Label: Legacy Recordings | Genres: Classic Soul, Motown, Quiet Storm</li>

@@ -2,8 +2,8 @@
 title: "iran"
 layout: post
 ---
-<h2>BigBanonos' Favorite Songs by Iran</h2> <p><strong>Updated November 4, 2008, with "Buddy" from the <em>Buddy EP</em></strong></p> <img src="https://f4.bcbits.com/img/0004181026_25.jpg" width="100%" alt="Iran"> <p>Iran, featuring TV on the Radio's Kyp Malone, blends noise rock with unique production. Below is BigBanonos' favorite song by Iran.</p> <h3>"Buddy"</h3>
-<p><em>Buddy EP</em>, Narnack Records, November 4, 2008</p> <iframe width="685" height="514" src="https://www.youtube.com/embed/8N0MijbCfaM" title="Iran - Buddy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> <hr /> <p><strong>Tags:</strong> @iran</p> <hr /> <p><em>First posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+<h2>BigBanonos' Favorite Songs by Iran</h2> <p><strong>Updated November 4, 2008, with "Buddy" from the <em>Buddy EP</em></strong></p> {{< img-lite src="https://f4.bcbits.com/img/0004181026_25.jpg" alt="Iran" >}} <p>Iran, featuring TV on the Radio's Kyp Malone, blends noise rock with unique production. Below is BigBanonos' favorite song by Iran.</p> <h3>"Buddy"</h3>
+<p><em>Buddy EP</em>, Narnack Records, November 4, 2008</p> {{< youtube "8N0MijbCfaM" >}} <hr /> <p><strong>Tags:</strong> @iran</p> <hr /> <p><em>First posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
 
 
 <!--Subscribe and Playlist Links-->

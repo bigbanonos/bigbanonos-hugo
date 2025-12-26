@@ -7,7 +7,7 @@ layout: post
 <p >Updated with *You're So Fine* by The Falcons, a classic rhythm and blues hit from the late 50s. Featured on *Lost Hits Of The 50's*, this track captures the essence of early rock and roll and the soulful sound of R&B in its golden era.</p> <!-- Featured Image -->
 <div > <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkhzCq1UrsNzoOyetXzKdgS2GeBfgIiUbq4A&s" alt="The Falcons - Lost Hits Of The 50's" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="514" src="https://www.youtube.com/embed/J8HNDaPV7Cc" title="THE FALCONS - 'YOU'RE SO FINE' (1959)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "J8HNDaPV7Cc" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"You're So Fine"</em> by The Falcons is a timeless rhythm and blues track that remains a cornerstone of 50s R&B. Featured on the *Lost Hits Of The 50's* album, this song delivers catchy melodies and smooth vocal harmonies that define the era's soulful music.</p>
 </div> <!-- Footer Links -->

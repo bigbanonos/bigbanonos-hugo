@@ -7,7 +7,7 @@ layout: post
 <p >Updated February 1, 2019, with "Perras Como TÃƒÆ’Ã‚Âº" by FARIANA & Tokischa, from the motion picture <em>Miss Bala</em>. This collaboration blends Colombian pop and Dominican trap with a fierce urbano latino vibe.</p> <!-- Featured Image -->
 <div > <img src="https://thatgrapejuice.net/wp-content/uploads/2013/03/fantasia-lose-to-win-video.jpg" alt="FARIANA & Tokischa - Perras Como TÃƒÆ’Ã‚Âº" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/SXeP-Lpu2I8" title="FARIANA, Tokischa - Perras Como TÃƒÆ’Ã‚Âº (Audio)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "SXeP-Lpu2I8" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Perras Como TÃƒÆ’Ã‚Âº"</em> stands out as a powerful anthem with edgy reggaeton beats and vibrant trap influences. Featured in the soundtrack for <em>Miss Bala</em>, it showcases FARIANA and Tokischa's dynamic artistry.</p>
 </div> <!-- Footer Links -->

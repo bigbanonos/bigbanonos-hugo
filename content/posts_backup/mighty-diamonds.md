@@ -7,7 +7,7 @@ layout: post
 <p >Updated April 22, 2010, with "Pass The Kutchie" by Mighty Diamonds. This reggae classic, featured on the album <em>Hi Grade Ganja Anthems Vol. 2</em>, released under Greensleeves Records, embodies the soulful essence of roots reggae and dub.</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d0000b27369073a9d9cd28634676b799a" alt="Mighty Diamonds - Pass The Kutchie" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/CxPFEJLn_jc" title="Pass The Kouchie" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "CxPFEJLn_jc" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Pass The Kutchie"</em> by Mighty Diamonds is a timeless reggae anthem that celebrates unity and culture through its infectious rhythm and powerful lyrics. As a roots reggae classic, this track continues to resonate with audiences worldwide, blending dub and lovers rock influences seamlessly.</p>
 </div> <!-- Footer Links -->

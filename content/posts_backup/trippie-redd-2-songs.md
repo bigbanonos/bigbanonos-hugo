@@ -5,7 +5,7 @@ layout: post
 <div class="separator" >
 <a href="https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2019%2F11%2Ftrippie-redd-death-dababy-song-video-stream.jpg?w=960&cbr=1&q=90&fit=max" imageanchor="1"><img border="0" data-original-height="533" data-original-width="800" height="266" src="https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2019%2F11%2Ftrippie-redd-death-dababy-song-video-stream.jpg?w=960&cbr=1&q=90&fit=max" width="400" /></a></div>
 <br />
-<iframe allowfullscreen="allowfullscreen" frameborder="0" height="315" src="https://www.youtube.com/embed/videoseries?list=PLtuNtuTatqI23zsNGX5Egu5QSPmcbyBTa" width="560"></iframe><br />
+{{< youtube "videoseries" >}}<br />
 <ol>
 <li>(ft. Russ) The Way [2020]</li>
 <li>Who Needs Love [2019]</li>

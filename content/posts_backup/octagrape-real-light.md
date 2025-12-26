@@ -3,7 +3,7 @@ title: "octagrape real light"
 layout: post
 ---
 <!-- Octa#grape -->
-<img src="https://first-avenue.com/wp-content/uploads/2020/01/octagrape.jpg" /> <p><strong>Updated March 5, 2014 with "Real Light" from <em>Red UFO</em></strong></p> <p><strong>"Real Light"</strong> â€“ <em>Red UFO</em> (Sounds Familyre, 2014)</p> <iframe width="769" height="315" src="https://www.youtube.com/embed/_VhMswwZ75g?list=PLtuNtuTatqI3Sq0UrOfKvIPT20SzNwgDK" title="RCIS PRESENTS Bands With Toys Ep 03 - Octa#grape - Real Light" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> <iframe width="1013" height="618" src="https://www.youtube.com/embed/i6Hac19Et_g" title="Real Light" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> <p>@octagrape</p>
+<img src="https://first-avenue.com/wp-content/uploads/2020/01/octagrape.jpg" /> <p><strong>Updated March 5, 2014 with "Real Light" from <em>Red UFO</em></strong></p> <p><strong>"Real Light"</strong> â€“ <em>Red UFO</em> (Sounds Familyre, 2014)</p> {{< youtube "_VhMswwZ75g" >}} {{< youtube "i6Hac19Et_g" >}} <p>@octagrape</p>
 
 <!--Subscribe and Playlist Links-->
 <div>

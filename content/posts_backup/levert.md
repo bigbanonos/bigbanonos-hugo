@@ -7,7 +7,7 @@ layout: post
 <p >Updated August 29, 2010, with "Casanova" by Levert. This classic R&B track blends contemporary R&B and New Jack Swing, showcasing the group's timeless style from the album <em>The Best of Gerald Levert</em>.</p> <!-- Featured Image -->
 <div > <img src="https://lh6.googleusercontent.com/2mUb9p5g4mV9LsNwNXqCKixBO0uoNgEjp1kD3n9JA0eosKSjiyCa8I1NtoBVDy31AzhanIAgBcrv8KJDSxMFMqCh9665ijnWiHZaH9Tkw89aNKRwwGtTeHqCGzULJg-fP4yUxUId" alt="Levert - Casanova" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/3hXOjXYjSCM" title="Casanova" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "3hXOjXYjSCM" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Casanova"</em> by Levert is a standout track that fuses contemporary R&B and New Jack Swing. From the album <em>The Best of Gerald Levert</em>, this track highlights the group's enduring appeal and dynamic sound.</p>
 </div> <!-- Footer Links -->

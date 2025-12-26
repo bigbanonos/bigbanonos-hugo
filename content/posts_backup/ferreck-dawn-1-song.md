@@ -2,7 +2,7 @@
 title: "ferreck dawn 1 song"
 layout: post
 ---
-<iframe allowfullscreen="" frameborder="0" height="270" src="https://www.youtube.com/embed/mveLa6EVMIs" width="480"></iframe><br /><br /><h3><ol><li>
+{{< youtube "mveLa6EVMIs" >}}<br /><br /><h3><ol><li>
 (ft. Leo Moreno, Alex Mills) Selfish Games</li></ol></h3>
 
 <!--Subscribe and Playlist Links-->

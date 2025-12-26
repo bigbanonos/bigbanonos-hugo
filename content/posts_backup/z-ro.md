@@ -6,11 +6,11 @@ layout: post
 <h1>BigBanonos' Favorite Songs by Z-Ro</h1> <!-- Introductory Text -->
 <p>Updated November 27, 2024, with BigBanonos' favorite tracks by Z-Ro, including the video playlist below and some classics that are unfortunately #NotOnSpotify.</p> <!-- Spotify Playlist Embed -->
 <h2>Listen to Z-Ro on Spotify</h2>
-<iframe allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" allowfullscreen="" frameborder="0" height="352" loading="lazy" src="https://open.spotify.com/embed/playlist/3DDuSSFCH1Q6vXkblk0xiH?utm_source=generator" width="100%"></iframe> <!-- Video Playlist -->
+{{< youtube "embed" >}} <!-- Video Playlist -->
 <h2>Video Playlist</h2>
 <h4>"Haterz Got Me Wrong" (2009) and "Barre Kelly" (2010)</h4>
-<iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/-Eg5ZbYEDFs?list=PLtuNtuTatqI0CB-GGozjQmsc5ZAyqlwuk" width="95%"></iframe><br /> <h4>Check out the Big Moe classic featuring Z-Ro:</h4>
-<iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/dCRgy8P82ys?list=PLtuNtuTatqI2AN5PMXW8Shv4a-9POGwJ3" width="95%"></iframe>
+{{< youtube "-Eg5ZbYEDFs" >}}<br /> <h4>Check out the Big Moe classic featuring Z-Ro:</h4>
+{{< youtube "dCRgy8P82ys" >}}
 <p>"Confidential Playa" by Big Moe (ft. Z-Ro) (2002)</p> <!-- Footer Links -->
 <p>For more updates and playlists, visit <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Connect with us on <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p>
 

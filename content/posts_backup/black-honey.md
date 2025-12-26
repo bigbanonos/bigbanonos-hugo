@@ -7,7 +7,7 @@ layout: post
 <p >Updated September 24, 2015, with BigBanonos' favorite song by Black Honey, "Corrine." Released under Foxfive Records, this track is a vibrant example of Brighton indie and modern alternative rock. Watch the video and see more details below:</p> <!-- Featured Image -->
 <div > <img src="https://i1.sndcdn.com/artworks-000129880642-pr1on9-t500x500.jpg" alt="Black Honey - Corrine" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/IDOFlZg8muo" title="Black Honey - Corrine (Lyrics)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "IDOFlZg8muo" >}}
 </div> <!-- Song Information -->
 <div > <p>"Corrine" by Black Honey is a standout track blending the energy of Brighton indie with English indie rock vibes. Released on September 24, 2015, under Foxfive Records, this 2:53-long song captivates with its catchy melody and modern alternative rock charm.</p>
 </div> <!-- Footer Links -->

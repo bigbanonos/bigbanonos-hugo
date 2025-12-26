@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Dead of Night" by Orville Peck, a haunting yet captivating song from his debut album *Pony*. This track blends alternative country with the unique sounds of queer country.</p> <!-- Featured Image -->
 <div > <img src="https://media.newyorker.com/photos/5d4cabe29984ea00086de304/16:9/w_2520,h_1417,c_limit/Crouch-OrvillePeck.jpg" alt="Orville Peck - Dead of Night" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="421" src="https://www.youtube.com/embed/q3esGD6lcMM" title="Orville Peck - Dead of Night [OFFICIAL VIDEO]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "q3esGD6lcMM" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Dead of Night"</em> is a standout track from Orville Peck's *Pony*, blending cinematic alt-country with a dark, brooding atmosphere, bringing a fresh twist to the genre.</p>
 </div> <!-- Footer Links -->

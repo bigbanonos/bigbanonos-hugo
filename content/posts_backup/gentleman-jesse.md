@@ -2,10 +2,10 @@
 title: "gentleman jesse"
 layout: post
 ---
-<div> <img src="https://i.scdn.co/image/ab67616d0000b27355707a1fee3159f6fe194dcf" width="100%" alt="Gentleman Jesse">
+<div> {{< img-lite src="https://i.scdn.co/image/ab67616d0000b27355707a1fee3159f6fe194dcf" alt="Gentleman Jesse" >}}
 </div> <p>
 BigBanonos' favorite tracks by Gentleman Jesse:
-</p> <p><strong>"Butterfingers"</strong> â€“ From the self-titled album (2008)</p> <iframe width="685" height="385" src="https://www.youtube.com/embed/1So86V5A_cU" title="Gentleman Jesse - Butterfingers" frameborder="0" allowfullscreen></iframe> <p><strong>"Eat Me Alive"</strong> â€“ From *Leaving Atlanta* (2011)</p> <iframe width="685" height="385" src="https://www.youtube.com/embed/MPvBUHvsZJs" title="Gentleman Jesse - Eat Me Alive" frameborder="0" allowfullscreen></iframe> <div> <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.you
+</p> <p><strong>"Butterfingers"</strong> â€“ From the self-titled album (2008)</p> {{< youtube "1So86V5A_cU" >}} <p><strong>"Eat Me Alive"</strong> â€“ From *Leaving Atlanta* (2011)</p> {{< youtube "MPvBUHvsZJs" >}} <div> <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.you
 
 
 <!--Subscribe and Playlist Links-->

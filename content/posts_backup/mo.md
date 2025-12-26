@@ -7,7 +7,7 @@ layout: post
 <p >Updated January 17, 2018, with "Bad Vibes & Going Out Of My Way (ft. Mr. Eazi)." Discover the latest hits from MO in the playlist below!</p> <!-- Featured Image -->
 <div > <img src="https://i.ytimg.com/vi/qcSxMaUNNbM/sddefault.jpg" alt="MO - DH Songs" />
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/4tVH7A2P5YPwNksa64l8ro?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <div > <p><strong>"Bad Vibes & Going Out Of My Way"</strong><br> Genre: World/Traditional<br> Album: <em>Bad Vibes</em><br> Featured Artist: Mr. Eazi</p>
 </div> <!-- Footer Links -->

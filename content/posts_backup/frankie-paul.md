@@ -7,7 +7,7 @@ layout: post
 <p >Updated August 28, 2009, with "Get Ready" by Frankie Paul. This reggae classic originally showcases Paulâ€™s smooth vocals and timeless charm, cementing his legacy in lovers rock and dancehall music.</p> <!-- Featured Image -->
 <div > <img src="https://i.ytimg.com/vi/xVWvNqe_vts/hqdefault.jpg" alt="Frankie Paul - Get Ready" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/OL5JttgbvDg" title="Frankie Paul Get Ready" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "OL5JttgbvDg" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Get Ready"</em> is featured on *Reggae Hits, Vol. 4* by Jet Star Music Ltd. Released in 2009, it blends elements of lovers rock, old-school dancehall, and roots reggae, making it an enduring favorite among reggae enthusiasts.</p>
 </div> <!-- Footer Links -->

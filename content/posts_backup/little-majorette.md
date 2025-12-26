@@ -7,7 +7,7 @@ layout: post
 <p >Updated April 26, 2011, with "Never Be the Same" by Little Majorette. This charming track from their album *Rifle Heart* blends Swedish indie pop with heartfelt melodies and lush instrumentation. Watch the video below!</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab6761610000e5eb7bd85fe37deff5c68b1514d3" alt="Little Majorette - Never Be the Same" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="560" height="315" src="https://www.youtube.com/embed/qCw2jVtDVfA" frameborder="0" allowfullscreen></iframe>
+<div > {{< youtube "qCw2jVtDVfA" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Never Be the Same"</em>, released on April 26, 2011, from the album *Rifle Heart*, showcases Little Majoretteâ€™s signature Swedish indie pop sound. With its dreamy vocals and poignant lyrics, the track is a standout example of the bandâ€™s captivating artistry.</p>
 </div> <!-- Footer Links -->

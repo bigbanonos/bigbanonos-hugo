@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Paramedic!" by SOB X RBE, from *Black Panther: The Album - Music From and Inspired By*, released on February 9, 2018, by Black Panther (TDE/DMG) PS.</p> <!-- Featured Image -->
 <div > <img src="https://www.billboard.com/wp-content/uploads/media/SOB-x-RBE-press-photo-by-Shemp-3-2018-billboard-1548.jpg?w=1024" alt="SOB X RBE - Paramedic!" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/ZiI1ThZ2R2s" title="SOB x RBE - 'Paramedic!' (Official Dance Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "ZiI1ThZ2R2s" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Paramedic!"</em> by SOB X RBE is an energetic track from *Black Panther: The Album - Music From and Inspired By*, released on February 9, 2018. With its catchy Cali rap vibe, this song became a standout on the album, capturing the essence of the hip-hop scene.</p>
 </div> <!-- Footer Links -->

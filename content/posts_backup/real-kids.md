@@ -7,7 +7,7 @@ layout: post
 <p >Updated January 1, 1999, with "Common At Noon" by Real Kids. Originally released in 1977 and later featured on *Better Be Good* by Norton Records, this track perfectly encapsulates the raw energy and timeless spirit of Bostonâ€™s rock scene. Watch and listen below!</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d0000b273c354b277659ddcf98dacf977" alt="Real Kids - Common At Noon" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="733" height="480" src="https://www.youtube.com/embed/3XykLyKs7gs" title="Real Kids - Common At Noon - 1978" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "3XykLyKs7gs" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Common At Noon"</em>, first released in 1977 and later included on the 1999 *Better Be Good* compilation by Norton Records, is a quintessential protopunk anthem. With its rhythm-driven rock style and Boston grit, the song remains a powerful tribute to the Real Kidsâ€™ enduring legacy in the rock genre.</p>
 </div> <!-- Footer Links -->

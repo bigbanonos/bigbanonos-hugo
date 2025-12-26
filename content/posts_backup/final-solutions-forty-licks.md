@@ -3,7 +3,7 @@ title: "final solutions forty licks"
 layout: post
 ---
 #notonspotify <br />
-<iframe width="95%" height="315" src="https://www.youtube.com/embed/t9Ih0v_KDsg?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" frameborder="0" allowfullscreen></iframe><br />
+{{< youtube "t9Ih0v_KDsg" >}}<br />
 Forty Licks 2003
 
 <!--Subscribe and Playlist Links-->

@@ -7,7 +7,7 @@ layout: post
 <p >Updated with BigBanonos' favorite track, "We Gon Make It" by Cordae featuring Meek Mill. This motivational anthem from *The Lost Boy* showcases powerful lyrics and dynamic collaboration between two hip-hop heavyweights.</p> <!-- Featured Image -->
 <div > <img src="https://variety.com/wp-content/uploads/2022/02/Cordae.jpg?w=681&h=383&crop=1" alt="Cordae and Meek Mill - We Gon Make It" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/ysNeqE7bgeg" title="Cordae - We Gon Make It (feat. Meek Mill) [Official Lyric Video]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "ysNeqE7bgeg" >}}
 </div> <!-- Song Information -->
 <div > <p>"We Gon Make It" is a standout track from Cordae's 2019 album *The Lost Boy*, released by Art@War/Atlantic Records. Featuring Meek Mill, the song blends heartfelt lyricism with gritty production, embodying the essence of hip-hop and rap.</p>
 </div> <!-- Footer Links -->

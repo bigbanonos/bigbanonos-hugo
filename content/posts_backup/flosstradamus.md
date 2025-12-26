@@ -7,7 +7,7 @@ layout: post
 <p >Updated January 6, 2017, with "Came Up (feat. Post Malone & Key!) - Casper & B. Remix." This high-energy track fuses EDM and hip-hop, delivering a thrilling remix featuring Post Malone and Key!.</p> <!-- Featured Image -->
 <div > <img src="https://discotech.me/wp-content/uploads/2020/04/flosstadamus.jpg" alt="Flosstradamus - Came Up Remix" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/hWZynQ3Egus" title="Flosstradamus, Fki1st & graves - Came Up feat. Post Malone & Key! (Casper & B. Remix) [Cover Art]" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "hWZynQ3Egus" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Came Up (feat. Post Malone & Key!) - Casper & B. Remix"</em> is a standout track from the remix collection, blending brostep, future bass, and trap elements for an unforgettable soundscape. Released under Ultra Records, LLC, this remix captures the innovation of electronic and hip-hop fusion.</p>
 </div> <!-- Footer Links -->

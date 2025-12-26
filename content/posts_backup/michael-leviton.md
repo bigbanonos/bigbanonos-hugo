@@ -7,7 +7,7 @@ layout: post
 <p >Updated November 15, 2013, with "I Only Want the Sky" from <em>The Bigtop (Original Motion Picture Soundtrack)</em>. Discover the NYC pop stylings of Michael Leviton in the playlist below!</p> <!-- Featured Image -->
 <div > <img src="https://s26162.pcdn.co/wp-content/uploads/2021/01/oWnMgeNE.jpg" alt="Michael Leviton" />
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/0kVbzE5aQ6VT3yreOq3O1t?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <div > <p><strong>"I Only Want the Sky"</strong><br> Genre: Pop<br> Album: <em>The Bigtop (Original Motion Picture Soundtrack)</em><br> Release Date: February 28, 2008<br> Label: Devon Reed</p> <p><strong>"Ships Passing"</strong><br> Genre: Pop<br> Album: <em>A Man of Ideas</em><br> Release Date: November 15, 2013<br> Label: Michael Leviton</p>
 </div> <!-- Footer Links -->

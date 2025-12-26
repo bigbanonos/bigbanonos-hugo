@@ -7,7 +7,7 @@ layout: post
 <p >Updated January 1, 2001, with "Foolish Fool" by Dee Dee Warwick. Originally released as part of *I Want To Be With You*, this powerful southern soul ballad highlights Warwick's emotional depth and vocal prowess.</p> <!-- Featured Image -->
 <div > <img src="https://upload.wikimedia.org/wikipedia/en/4/42/Dee_Dee_Warwick.jpg" alt="Dee Dee Warwick - Foolish Fool" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/xja7NffwPUQ" title="DEE DEE WARWICK - FOOLISH FOOL (RARE CLIP 1969)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "xja7NffwPUQ" >}}
 </div> <!-- Song Information -->
 <div > <p>"Foolish Fool" is a timeless track from Dee Dee Warwick that captures the essence of southern soul with heartfelt lyrics and a stirring melody, cementing her legacy as one of the genre's most expressive voices.</p>
 </div> <!-- Footer Links -->

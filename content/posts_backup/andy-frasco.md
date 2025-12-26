@@ -7,7 +7,7 @@ layout: post
 <p >Updated February 22, 2019, with BigBanonos' favorite song by Andy Frasco & The U.N., "Somedays," from their album *Change of Pace*. Watch the video and see more details below:</p> <!-- Featured Image -->
 <div > <img src="https://i.ytimg.com/vi/WKr_YXdfwe4/maxresdefault.jpg" alt="Andy Frasco & The U.N. - Somedays" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/xwkZIFy3KR0" title="Andy Frasco- Somedays (Official Audio)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "xwkZIFy3KR0" >}}
 </div> <!-- Song Information -->
 <div > <p>"Somedays" by Andy Frasco & The U.N. is a soulful and heartfelt jam blending modern blues rock and jam band vibes. Released on February 22, 2019, under Fun Machine Records, this track is a standout from their album *Change of Pace*, capturing the raw energy and emotional depth of their sound.</p>
 </div> <!-- Footer Links -->

@@ -3,7 +3,7 @@ title: "chris crack 1 song"
 layout: post
 ---
 <img border="0" data-original-height="720" data-original-width="1280" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhgD75RhblXtDBd7V3k_hPjD9TCiD1T0xE0eI5ANPiiDIRPyRin_BN97qAe8wY-3fTPPTFT5t0u604BrSoavNWWwP1wDoXihF1CWruSIjFp6ftrASKlFBzp3UAvl2hA6XWqvZp3PguTBmg/s320/best-songs-by-hinds+%25283%2529.jpg" width="320" /><br />
-<iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/videoseries?list=PLtuNtuTatqI2Kdbi9EPiRdwy-k8hrNNR0" width="560"></iframe>
+{{< youtube "videoseries" >}}
 <br />
 <div><h3><ol><li>Hoes At Trader Joe's [2020]</li></ol></h3></div>
 

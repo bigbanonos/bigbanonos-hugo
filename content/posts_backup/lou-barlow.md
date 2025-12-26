@@ -7,7 +7,7 @@ layout: post
 <p >Updated September 4, 2015, with "Repeat" by Lou Barlow. This introspective lo-fi rock track from the album <em>Brace the Wave</em>, released under Joyful Noise Recordings, showcases Barlow's raw and heartfelt songwriting.</p> <!-- Featured Image -->
 <div > <img src="https://i.ytimg.com/vi/74do4gkye1w/maxresdefault.jpg" alt="Lou Barlow - Repeat" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/gj8EgfUXg3w" title="Lou Barlow - Repeat (Official Music Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "gj8EgfUXg3w" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Repeat"</em> by Lou Barlow is a poignant lo-fi gem that highlights the intimate and unpolished beauty of his music. From the album <em>Brace the Wave</em>, this track is a testament to Barlow's enduring influence in the indie rock scene.</p>
 </div> <!-- Footer Links -->

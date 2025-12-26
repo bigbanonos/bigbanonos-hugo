@@ -7,7 +7,7 @@ layout: post
 <p >"The Best Of Me" by The Starting Line is a pop-punk anthem that captures the angst and emotion of youthful love. Featured on *Say It Like You Mean It*, this track continues to resonate with fans of pop-punk and emo. Watch the video below!</p> <!-- Featured Image -->
 <div > <img src="https://images.genius.com/0e194f7d9e172ce73ad0bc355de1c6aa.593x590x1.jpg" alt="The Starting Line - The Best Of Me" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="514" src="https://www.youtube.com/embed/cvYVmxHzQmw" title="The Starting Line - 'Best Of Me'" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "cvYVmxHzQmw" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"The Best Of Me"</em> is a classic track from *Say It Like You Mean It*, blending pop-punk and emo influences with catchy hooks and heartfelt lyrics that fans of the genre adore.</p>
 </div> <!-- Footer Links -->

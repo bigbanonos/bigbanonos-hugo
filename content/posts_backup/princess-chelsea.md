@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "I Love My Boyfriend" by Princess Chelsea, a quirky and whimsical track from her album "The Loneliest Girl".</p> <!-- Featured Image -->
 <div > <img src="https://i1.sndcdn.com/artworks-000652365160-09s8bl-t500x500.jpg" alt="Princess Chelsea I Love My Boyfriend" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/mDise_Em_Ug" title="Princess Chelsea - I Love My Boyfriend" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "mDise_Em_Ug" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"I Love My Boyfriend"</em> is a delightful track from Princess Chelsea's 2018 album "The Loneliest Girl". With its charming blend of Auckland indie and baroque pop, it delivers catchy melodies and quirky lyrics.</p>
 </div> <!-- Footer Links -->

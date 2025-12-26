@@ -7,7 +7,7 @@ layout: post
 <p >One Direction defined a generation with their catchy melodies and heartfelt lyrics. Relive the magic with their iconic tracks below!</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/289c7f686f5b78ceeb224453cf9a15697a678a79" alt="One Direction" />
 </div> <!-- Spotify Playlist Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/1ElrppFwVt86HdkoQy2kjs?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Perfect"</em> from *Made In The A.M.* (2015) is a testament to their charm and emotional depth.</p> <p><em>"What Makes You Beautiful"</em> from *Up All Night* (2012) remains a timeless anthem for fans everywhere.</p>
 </div> <!-- Footer Links -->

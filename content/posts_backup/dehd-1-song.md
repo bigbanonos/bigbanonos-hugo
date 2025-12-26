@@ -2,8 +2,8 @@
 title: "dehd 1 song"
 layout: post
 ---
-<iframe allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" allowfullscreen="" frameborder="0" height="352" loading="lazy" src="https://open.spotify.com/embed/playlist/5lYyZBVpn1777OaVbtgQVa?utm_source=generator" width="100%"></iframe><br />
-<h3><ol><li>Pure Gold [2024]</li><li>Mood Ring [2024]</li><li>Light On [2024]</li><li>Bad Love [2022]</li><li>Loner [2020]</li><li>Lucky [2019]</li></ol><div class="separator" ><div class="separator" ><a href="https://lightning100.com/wp-content/uploads/5-min-1-1920x830-1.jpg"><img border="0" data-original-height="830" data-original-width="1920" height="830" src="https://lightning100.com/wp-content/uploads/5-min-1-1920x830-1.jpg" width="1920" /></a></div><br /><br /></div><div><iframe allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" allowfullscreen="" frameborder="0" height="352" loading="lazy" src="https://open.spotify.com/embed/playlist/5eJhykgnQORuPWjLD9ZoD0?utm_source=generator" width="100%"></iframe></div></h3>
+{{< youtube "embed" >}}<br />
+<h3><ol><li>Pure Gold [2024]</li><li>Mood Ring [2024]</li><li>Light On [2024]</li><li>Bad Love [2022]</li><li>Loner [2020]</li><li>Lucky [2019]</li></ol><div class="separator" ><div class="separator" ><a href="https://lightning100.com/wp-content/uploads/5-min-1-1920x830-1.jpg"><img border="0" data-original-height="830" data-original-width="1920" height="830" src="https://lightning100.com/wp-content/uploads/5-min-1-1920x830-1.jpg" width="1920" /></a></div><br /><br /></div><div>{{< youtube "embed" >}}</div></h3>
 
 <!--Subscribe and Playlist Links-->
 <div>

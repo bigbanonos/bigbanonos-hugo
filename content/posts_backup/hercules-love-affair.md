@@ -7,7 +7,7 @@ layout: post
 <p >Updated February 25, 2008, with "Raise Me Up" by Hercules & Love Affair. This vibrant track from their self-titled debut album exemplifies the blend of alternative dance and neo-synthpop that defines their sound.</p> <!-- Featured Image -->
 <div > <img src="https://static.ra.co/images/profiles/lg/herculesloveaffair.jpg?dateUpdated=1462915105673" alt="Hercules & Love Affair - Raise Me Up" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/zYpmtO6zC74" title="Raise Me Up" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "zYpmtO6zC74" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Raise Me Up"</em> is a standout track from *Hercules & Love Affair*, released on February 25, 2008. The track masterfully combines alternative dance and indietronica with influences of neo-synthpop and new rave, creating an uplifting and infectious soundscape.</p>
 </div> <!-- Footer Links -->

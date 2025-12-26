@@ -3,7 +3,7 @@ title: "80s archive rubinoos hurts too much"
 layout: post
 ---
 #1980s <br />
-<iframe width="95%" height="315" src="https://www.youtube.com/embed/5sgRHtqD7wU?list=PLtuNtuTatqI3ADcM_zLmgfpkLlcO5e9Pw" frameborder="0" allowfullscreen></iframe>
+{{< youtube "5sgRHtqD7wU" >}}
 Hurts Too Much 1981
 
 <!--Subscribe and Playlist Links-->

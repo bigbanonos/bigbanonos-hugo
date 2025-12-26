@@ -7,7 +7,7 @@ layout: post
 <p >Updated January 17, 1998, with "Heads High" from <em>Heads High</em>. Dive into the reggae and dancehall classics of Mr. Vegas in the playlist below!</p> <!-- Featured Image -->
 <div > <img src="https://www.lagosjumpradio.com/wp-content/uploads/2024/04/pr-post-Mr-Eazi.jpg" alt="Mr. Vegas" />
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/1M6ricOhNFq2OH86kcI9AP?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <div > <p><strong>"Heads High"</strong><br> Genre: World/Traditional, Pop, Hip Hop<br> Album: <em>Heads High</em><br> Release Date: 1998<br> Label: Greensleeves Records</p>
 </div> <!-- Footer Links -->

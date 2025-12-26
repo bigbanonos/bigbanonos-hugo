@@ -7,7 +7,7 @@ layout: post
 <p >Updated January 1, 2013, with "Anxiety's Door" by Merchandise. This track from the album <em>Totale Nite</em>, released under Spunk Records, captures a haunting blend of garage psych and folk-inspired melodies, showcasing the band's ability to push the boundaries of genre.</p> <!-- Featured Image -->
 <div > <img src="https://www.vice.com/wp-content/uploads/sites/2/2013/01/b96c13fb1ae0db5487a299fab0b95064.jpg" alt="Merchandise - Anxiety's Door" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/KRngUy5u--A" title="Merchandise - Anxiety's Door" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "KRngUy5u--A" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Anxiety's Door"</em> by Merchandise is a brooding and atmospheric track that blends garage psych with raw, emotive energy. From the album <em>Totale Nite</em>, this song captures a timeless sound that resonates with both indie and experimental music fans alike.</p>
 </div> <!-- Footer Links -->

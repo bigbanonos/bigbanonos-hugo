@@ -4,9 +4,9 @@ layout: post
 ---
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Devin Di Dakta</h1> <!-- Featured Image -->
-<div > <img src="https://i.scdn.co/image/ab6761610000e5eb5d8b4f33f8f96d36cf0b8de3" alt="Devin Di Dakta">
+<div > {{< img-lite src="https://i.scdn.co/image/ab6761610000e5eb5d8b4f33f8f96d36cf0b8de3" alt="Devin Di Dakta" >}}
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/1qgLcyDV4sccPSm3EzhKbS?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Introductory Text -->
 <p >Devin Di Dakta delivers vibrant riddim-driven tracks like "Agony" and "Beautiful." BigBanonos celebrates his infectious energy and undeniable talent in these standout songs.</p> <!-- Song Highlights -->
 <div > <p>BigBanonos' standout picks:</p> <ol> <li><strong>Agony</strong> | <em>Agony</em> | Released: August 16, 2019 | SAINTkingstonMUSIC / ABRA Records</li> <li><strong>Beautiful</strong> | <em>Beautiful</em> | Released: May 12, 2017 | DZL Records</li> <li><strong>Rev Out Di RR</strong> | <em>Rev Out Di RR - Single</em> | Released: June 10, 2016 | Birchill Records</li> </ol>

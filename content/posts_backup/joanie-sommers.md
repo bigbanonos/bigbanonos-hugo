@@ -2,7 +2,7 @@
 title: "joanie sommers"
 layout: post
 ---
-<h2>BigBanonos' Favorite Songs by Joanie Sommers</h2> <p><strong>Updated 1962, with "Johnny Get Angry"</strong></p> <img src="https://i.scdn.co/image/ab6761610000e5eb9a1f0bb982e258627676cb10" width="100%" alt="Joanie Sommers"> <p>Joanie Sommers' unique vocal style made "Johnny Get Angry" a standout hit in 1962. Below is BigBanonos' favorite song by Joanie Sommers.</p> <h3>"Johnny Get Angry"</h3> <iframe width="685" height="601" src="https://www.youtube.com/embed/wcLXs3Np93s" title="Joanie Sommers -- Johnny Get Angry" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> <hr /> <p><strong>Tags:</strong> @joaniesommers</p> <hr /> <p><em>First posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+<h2>BigBanonos' Favorite Songs by Joanie Sommers</h2> <p><strong>Updated 1962, with "Johnny Get Angry"</strong></p> {{< img-lite src="https://i.scdn.co/image/ab6761610000e5eb9a1f0bb982e258627676cb10" alt="Joanie Sommers" >}} <p>Joanie Sommers' unique vocal style made "Johnny Get Angry" a standout hit in 1962. Below is BigBanonos' favorite song by Joanie Sommers.</p> <h3>"Johnny Get Angry"</h3> {{< youtube "wcLXs3Np93s" >}} <hr /> <p><strong>Tags:</strong> @joaniesommers</p> <hr /> <p><em>First posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
 
 
 <!--Subscribe and Playlist Links-->

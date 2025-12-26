@@ -7,7 +7,7 @@ layout: post
 <p >Updated July 10, 1992, with "Jesus Built My Hotrod" from <em>KE*A*H** (Psalm 69)</em>. Dive into the industrial rock intensity of Ministry in the playlist below!</p> <!-- Featured Image -->
 <div > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Hellfest2017Ministry_14.jpg/1200px-Hellfest2017Ministry_14.jpg" alt="Ministry" />
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/0zOKe0a8PdpSbWijYsDVA6?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <div > <p><strong>"Jesus Built My Hotrod"</strong><br> Genre: Metal, Rock<br> Album: <em>KE*A*H** (Psalm 69)</em><br> Release Date: July 10, 1992<br> Label: Rhino</p>
 </div> <!-- Footer Links -->

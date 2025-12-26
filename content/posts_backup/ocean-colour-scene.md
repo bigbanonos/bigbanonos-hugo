@@ -3,7 +3,7 @@ title: "ocean colour scene"
 layout: post
 ---
 <h1 >Ocean Colour Scene</h1> <p >Ocean Colour Scene captures the heart of Britpop with tracks like "The Day We Caught The Train" and "Oh Collector." Immerse yourself in their infectious melodies below!</p> <div > <img src="https://i.scdn.co/image/ab67616d0000b273b22cc93bb7b38bc8e9b861b3" alt="Ocean Colour Scene" />
-</div> <div > <iframe src="https://open.spotify.com/embed/playlist/3VfkBDEGy90iN5mEv3DYNV?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</div> <div > {{< youtube "embed" >}}
 </div> <div> <p>With tracks like <em>"The Day We Caught The Train"</em>, Ocean Colour Scene shines as a quintessential Britpop act. Dive into their timeless music now!</p>
 </div> <div > <p>For more updates, visit <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Check out our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a> channels for exclusive content!</p>
 </div> @oceancolourscene,

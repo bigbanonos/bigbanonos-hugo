@@ -3,8 +3,8 @@ title: "slick rick top songs"
 layout: post
 ---
 <h1>BigBanonos Top Songs by Slick Rick</h1>
-<img src="https://www.udiscovermusic.com/wp-content/uploads/2020/01/Slick-Rick-Jonathan-Mannion.jpg" alt="Slick Rick"> <p>Slick Rick is a storytelling master in hip-hop with a timeless style. Here are BigBanonos' top picks:</p> <ol> <li><strong>Children's Story</strong> | <em>The Great Adventures Of Slick Rick</em> | Released: 1988-11-03 | Def Jam Recordings</li> <li><strong>Street Talkin'</strong> (feat. Outkast) | <em>The Art Of Storytelling</em> | Released: 1999-01-01 | RAL (Rush Associated Label)</li>
-</ol> <div> <iframe src="https://open.spotify.com/embed/playlist/5EghAyUTxi7N4o7BA73VQM?utm_source=generator" width="100%" height="352" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+{{< img-lite src="https://www.udiscovermusic.com/wp-content/uploads/2020/01/Slick-Rick-Jonathan-Mannion.jpg" alt="Slick Rick" >}} <p>Slick Rick is a storytelling master in hip-hop with a timeless style. Here are BigBanonos' top picks:</p> <ol> <li><strong>Children's Story</strong> | <em>The Great Adventures Of Slick Rick</em> | Released: 1988-11-03 | Def Jam Recordings</li> <li><strong>Street Talkin'</strong> (feat. Outkast) | <em>The Art Of Storytelling</em> | Released: 1999-01-01 | RAL (Rush Associated Label)</li>
+</ol> <div> {{< youtube "embed" >}}
 </div>
 <p>Tags: @slickrick</p>
 

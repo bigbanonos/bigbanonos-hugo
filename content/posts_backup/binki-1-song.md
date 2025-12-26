@@ -7,7 +7,7 @@ layout: post
 <p >Updated October 17, 2019, with BigBanonos' favorite song by binki, "Heybb!" This modern indie pop track showcases binki's distinctive style and catchy energy. Watch the video and see more details below:</p> <!-- Featured Image -->
 <div > <img src="https://pilerats.com/assets/Uploads/binki-heybb-introducing.jpg" alt="binki - Heybb!" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/ywZuL7QAR0I" title="binki - Heybb!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "ywZuL7QAR0I" >}}
 </div> <!-- Song Information -->
 <div > <p>"Heybb!" by binki is an infectious indie pop anthem that perfectly captures his playful and modern sound. Released on October 17, 2019, this 2:28-long track stands out as a favorite for its upbeat vibe and irresistible charm.</p>
 </div> <!-- Footer Links -->

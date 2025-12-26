@@ -5,12 +5,12 @@ layout: post
 <!-- Post Title -->
 <h1>BigBanonos Favorite Songs by Yeasayer</h1> <!-- Introductory Text -->
 <p>Updated November 27, 2024, with "I Remember" from *Odd Blood*, highlighted in the playlist below:</p> <!-- Featured Image -->
-<img src="https://www.interviewmagazine.com/wp-content/uploads/2012/08/img-yeasayer_153616382966.jpg" alt="Yeasayer Featured Image"> <!-- Spotify Playlist Embed -->
-<iframe src="https://open.spotify.com/embed/playlist/7x6PrsRAfoKwYY36jdMUgj?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> <!-- Song Information -->
+{{< img-lite src="https://www.interviewmagazine.com/wp-content/uploads/2012/08/img-yeasayer_153616382966.jpg" alt="Yeasayer Featured Image" >}} <!-- Spotify Playlist Embed -->
+{{< youtube "embed" >}} <!-- Song Information -->
 <ul> <li>"I Remember" from *Odd Blood* (February 8, 2010) - Secretly Canadian</li> <li>"Phoenix Wind" (Stream) (2011)</li> <li>"2080" (Stream) (2007)</li> <li>"O.N.E" (Stream) (2010)</li> <li>"O.N.E. (Live)" from *Live at Ancienne Belgique* (April 23, 2013) - Secretly Canadian</li> <li>"Ambling Alp (Live)" from *Live at Ancienne Belgique* (April 23, 2013) - Secretly Canadian</li>
 </ul> <!-- YouTube Video Embed -->
 <h2>Watch Yeasayer on YouTube</h2>
-<iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/4ZBLZLdKxf8?list=PLtuNtuTatqI22MhajJqJdFlJ0eYJlEAHI" width="95%"></iframe> <!-- Footer Links -->
+{{< youtube "4ZBLZLdKxf8" >}} <!-- Footer Links -->
 <p>For more updates and playlists, visit <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Connect with us on <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p>
 
 

@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Pray For Rain" by Pure Bathing Culture, from the single *Pray For Rain*, released on October 23, 2015, by PTKF.</p> <!-- Featured Image -->
 <div > <img src="https://i.ytimg.com/vi/WMcEtKmBwxE/mqdefault.jpg" alt="Pure Bathing Culture - Pray For Rain" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/Qtc0Rql69Cs" title="Pure Bathing Culture - Pray For Rain (Official Music Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "Qtc0Rql69Cs" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Pray For Rain"</em> by Pure Bathing Culture is an ethereal blend of shiver pop and atmospheric soundscapes, part of their 2015 single release by PTKF.</p>
 </div> <!-- Footer Links -->

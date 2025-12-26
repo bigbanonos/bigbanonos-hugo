@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Jag kommer" by Veronica Maggio, from the album *Satan i gatan*, released on January 1, 2011, by Universal Music AB. A standout track in the realm of Swedish pop, it combines energetic melodies with deeply introspective lyrics.</p> <!-- Featured Image -->
 <div > <img src="https://upload.wikimedia.org/wikipedia/en/5/54/Jagkommer.jpg" alt="Veronica Maggio - Jag kommer" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="617" src="https://www.youtube.com/embed/zNKwziMG5UI" title="Veronica Maggio - Jag kommer" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "zNKwziMG5UI" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Jag kommer"</em> by Veronica Maggio is a track from the album *Satan i gatan*, released on January 1, 2011. This energetic Swedish pop song features catchy hooks and deeply relatable lyrics, solidifying Maggio's place in pop history.</p>
 </div> <!-- Footer Links -->

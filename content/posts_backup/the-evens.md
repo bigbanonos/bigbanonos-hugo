@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Cut From The Cloth" by The Evens, a DC indie anthem that captures the raw spirit of post-hardcore. Watch the video below!</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d0000b273cb14b3753cbe5412dfcfac60" alt="The Evens - Cut From The Cloth" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="560" height="315" src="https://www.youtube.com/embed/SYbvnQK1SX4" frameborder="0" allowfullscreen></iframe>
+<div > {{< youtube "SYbvnQK1SX4" >}}
 </div> <!-- Footer Links -->
 <div > <p>For more updates, visit <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Also, check out our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a> channels for more exclusive content!</p>
 </div> <!-- Tags -->

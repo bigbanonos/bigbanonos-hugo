@@ -7,7 +7,7 @@ layout: post
 <p >Updated August 9, 2017, with BigBanonos' favorite song by Avanzce, "Y Wi Neva," released under CornaStone Entertainment. Watch the video and see more details below:</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d00001e02695409892661e9dcac257fd2" alt="Avanzce - Y Wi Neva" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/9g11vwC61QQ" title="Avanzce - Y Wi Neva - January 2018" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "9g11vwC61QQ" >}}
 </div> <!-- Song Information -->
 <div > <p>"Y Wi Neva" by Avanzce is a dynamic and heartfelt track that captures the essence of their unique sound. Released on August 9, 2017, under CornaStone Entertainment, this single showcases their commitment to creating music that resonates deeply with listeners.</p>
 </div> <!-- Footer Links -->

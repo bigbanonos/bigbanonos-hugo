@@ -7,7 +7,7 @@ layout: post
 <p >Updated February 23, 2010, with "On Giving Up" by High Places. This track blends experimental and atmospheric elements that define the duo's unique sound on their album <em>High Places vs. Mankind</em>.</p> <!-- Featured Image -->
 <div > <img src="https://f4.bcbits.com/img/0008203788_25.jpg" alt="High Places - On Giving Up" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/9rVuZV0jSzA" title="High Places - On Giving Up" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "9rVuZV0jSzA" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"On Giving Up"</em>, released February 23, 2010, showcases High Places' signature mix of experimental soundscapes and rhythmic ingenuity, offering a standout moment from their album <em>High Places vs. Mankind</em>, released by Thrill Jockey.</p>
 </div> <!-- Footer Links -->

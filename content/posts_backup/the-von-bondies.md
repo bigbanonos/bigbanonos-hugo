@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "C'mon C'mon" by Von Bondies, a 2004 garage rock anthem packed with electrifying energy. Watch the video below!</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d0000b2736fbe21e58a4ac5c0a1a6e4d3" alt="Von Bondies - C'mon C'mon" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="560" height="315" src="https://www.youtube.com/embed/Q7aOWIFgIZQ" frameborder="0" allowfullscreen></iframe>
+<div > {{< youtube "Q7aOWIFgIZQ" >}}
 </div> <!-- Footer Links -->
 <div > <p>For more updates, visit <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Also, check out our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a> channels for more exclusive content!</p>
 </div> <!-- Tags -->

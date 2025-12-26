@@ -6,7 +6,7 @@ layout: post
 <p >Paul Simon's timeless melodies and profound storytelling have shaped generations. Explore his best hits below!</p> <!-- Featured Image -->
 <div > <img src="https://i0.wp.com/musicaficionado.blog/wp-content/uploads/2018/02/Paul-simon-1983.jpg?resize=640%2C618&ssl=1" alt="Paul Simon" />
 </div> <!-- Spotify Playlist Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/1PLS8bBAv9qz6hfSR5u1Oe?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"You Can Call Me Al"</em> from *Graceland* (1986) is a classic blending folk rock and African rhythms.</p> <p><em>"50 Ways to Leave Your Lover"</em> from *Still Crazy After All These Years* (1975) is a clever and melodic anthem.</p> <p><em>"Me and Julio Down by the Schoolyard"</em> and <em>"Peace Like a River"</em> from *Paul Simon* (1972) showcase his enduring charm.</p> <p><em>"That Was Your Mother - Gui Boratto Remix"</em> from *Graceland - The Remixes* (2018) is a fresh take on his iconic sound.</p>
 </div> <!-- Footer Links -->

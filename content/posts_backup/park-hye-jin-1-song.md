@@ -2,7 +2,7 @@
 title: "park hye jin 1 song"
 layout: post
 ---
-<iframe frameborder="0" height="270" src="https://youtube.com/embed/I2fno7DEgXI" width="480"></iframe><br /><h2><ol><li>(ft. Clams Casino & Take A Daytrip)' Y DONâ€™T U [2021]</li></ol></h2>
+{{< youtube "I2fno7DEgXI" >}}<br /><h2><ol><li>(ft. Clams Casino & Take A Daytrip)' Y DONâ€™T U [2021]</li></ol></h2>
 
 <!--Subscribe and Playlist Links-->
 <div>

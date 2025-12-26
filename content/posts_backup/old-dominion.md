@@ -7,7 +7,7 @@ layout: post
 <p >Updated November 6, 2015, with "Break Up with Him" by Old Dominion. This hit from their album <em>Meat and Candy</em> blends modern country with a rock edge, featuring catchy lyrics and an upbeat sound that made it an anthem for country music fans.</p> <!-- Featured Image -->
 <div > <img src="https://i.ytimg.com/vi/VrgCwAM06Yg/maxresdefault.jpg" alt="Old Dominion - Break Up with Him" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/VrgCwAM06Yg" title="Old Dominion - Break Up with Him" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "VrgCwAM06Yg" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Break Up with Him"</em> by Old Dominion, from their album <em>Meat and Candy</em>, released on November 6, 2015, is a modern country anthem. The song features a catchy chorus and relatable lyrics, capturing the essence of contemporary country rock.</p>
 </div> <!-- Footer Links -->

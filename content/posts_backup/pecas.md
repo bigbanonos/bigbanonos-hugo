@@ -7,7 +7,7 @@ layout: post
 <div class="separator" >
 <a href="https://f4.bcbits.com/img/0015482848_10.jpg" imageanchor="1"><img border="0" data-original-height="497" data-original-width="800" height="247" src="https://f4.bcbits.com/img/0015482848_10.jpg" width="400" /></a></div>
 <br />
-<iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/videoseries?list=PLtuNtuTatqI1kp7VwLds4tjS6TAfcDBrI" width="100%"></iframe> <h3>
+{{< youtube "videoseries" >}} <h3>
 T-Shirt [2019]</h3>
 
 

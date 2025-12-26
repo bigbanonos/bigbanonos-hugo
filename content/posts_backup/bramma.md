@@ -7,7 +7,7 @@ layout: post
 <p >Updated January 2, 2019, with BigBanonos' favorite track by Bramma, "Enemy." This dynamic song, produced by GOALMIND PRODUCTION and PON DI CORNER RECORDS, captures the intense energy of the riddim genre. Watch the video and see more details below:</p> <!-- Featured Image -->
 <div > <img src="https://jamaica-gleaner.com/sites/default/files/styles/jg_article_image/public/media/article_images/2022/02/04/1631862/5899541.jpg?itok=jD-U3MUi" alt="Bramma - Enemy" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/WspYA42g7ck" title="Bramma - Enemy (Official Audio)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "WspYA42g7ck" >}}
 </div> <!-- Song Information -->
 <div > <p>"Enemy" by Bramma, released on January 2, 2019, through GOALMIND PRODUCTION and PON DI CORNER RECORDS, delivers a high-energy riddim experience packed into just 2:19 of bold beats and commanding lyrics.</p>
 </div> <!-- Footer Links -->

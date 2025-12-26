@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Don't Call Me" by TOKiMONSTA featuring Yuna, from the album *Don't Call Me (feat. Yuna)*, released on June 16, 2017, by Young Art Records. The song blends chillwave, electra, and indietronica to create a captivating atmosphere, highlighted by Yuna's evocative vocals.</p> <!-- Featured Image -->
 <div > <img src="https://i1.sndcdn.com/artworks-BBDIfUS78sSz-0-t500x500.jpg" alt="TOKiMONSTA - Don't Call Me" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/KMpED8Iy7L8" title="TOKiMONSTA - 'Don't Call Me' (feat. Yuna)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "KMpED8Iy7L8" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Don't Call Me"</em> by TOKiMONSTA featuring Yuna is a mesmerizing track from the album *Don't Call Me (feat. Yuna)*, incorporating elements of chillwave, electra, and instrumental hip hop. Itâ€™s a beautifully crafted piece that showcases TOKiMONSTA's experimental approach to production and Yuna's ethereal vocals.</p>
 </div> <!-- Footer Links -->

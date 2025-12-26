@@ -7,7 +7,7 @@ layout: post
 <p >Updated April 11, 2011, with "Surf Hell" by Little Barrie. This energetic indie rock track from the album <em>Surf Hell</em>, released under Bumpman Records, is a standout of Nottingham's indie rock scene.</p> <!-- Featured Image -->
 <div > <img src="https://guitar.com/wp-content/uploads/2015/07/Screen-Shot-2015-07-29-at-09.40.17.png" alt="Little Barrie - Surf Hell" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/OEyhbLqss_k" title="Little Barrie - Surf Hell" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "OEyhbLqss_k" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Surf Hell"</em> by Little Barrie is a high-energy indie rock anthem that captures the raw, unfiltered sound of Nottinghamâ€™s indie scene. With its catchy riff and driving beat, this track is a must-listen for fans of garage-inspired rock.</p>
 </div> <!-- Footer Links -->

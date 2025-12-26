@@ -2,13 +2,13 @@
 title: "mr airplane man"
 layout: post
 ---
-<h2>BigBanonos' Favorite Songs by Mr. Airplane Man</h2> <p><strong>Updated January 1, 2004, with "Don't Know Why" from <em>C'mon DJ</em></strong></p> <img src="https://i.scdn.co/image/ab67616d0000b2738ca1d5d562ed26e7492c4dc2" width="100%" alt="Mr. Airplane Man"> <p>Mr. Airplane Man blends garage rock with modern blues. These are BigBanonos' top picks.</p> <h3>Listen on Spotify</h3> <iframe src="https://open.spotify.com/embed/playlist/07L6mV2dVFFkTmRrEkgjh1?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> <h3>"Don't Know Why"</h3>
+<h2>BigBanonos' Favorite Songs by Mr. Airplane Man</h2> <p><strong>Updated January 1, 2004, with "Don't Know Why" from <em>C'mon DJ</em></strong></p> {{< img-lite src="https://i.scdn.co/image/ab67616d0000b2738ca1d5d562ed26e7492c4dc2" alt="Mr. Airplane Man" >}} <p>Mr. Airplane Man blends garage rock with modern blues. These are BigBanonos' top picks.</p> <h3>Listen on Spotify</h3> {{< youtube "embed" >}} <h3>"Don't Know Why"</h3>
 <p><em>C'mon DJ</em>, 2004</p> <h3>"W*nderin'"</h3>
 <p><em>Moanin'</em>, 2002</p> <h3>"Very Bad Feeling"</h3>
 <p><em>Moanin'</em>, 2002</p> <h3>"Podunk Holler"</h3>
 <p><em>Moanin'</em>, 2002</p> <h3>"Don't Know How to Love"</h3>
 <p><em>C'mon DJ</em>, 2004</p> <h3>#NotOnSpotify: "Lonely For You" (2004)</h3>
-<iframe width="685" height="385" src="https://www.youtube.com/embed/A6PSjji0K_w" title="Mr. Airplane Man - Lonely For You" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> <hr /> <p><strong>Tags:</strong> @mrairplaneman</p> <hr /> <p><em>First posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+{{< youtube "A6PSjji0K_w" >}} <hr /> <p><strong>Tags:</strong> @mrairplaneman</p> <hr /> <p><em>First posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
 
 
 <!--Subscribe and Playlist Links-->

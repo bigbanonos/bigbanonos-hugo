@@ -7,7 +7,7 @@ layout: post
 <p >Updated January 31, 2012, with "Eilean Mo ChrÃƒÆ’Ã‚Â¬dh (Isle Of My Heart)" by John Carlin and Alan Lomax. This spiritual folk classic beautifully captures the essence of traditional melodies and heartfelt storytelling.</p> <!-- Featured Image -->
 <div > <img src="https://m.media-amazon.com/images/I/61deCcUEJXL._UXNaN_FMjpg_QL85_.jpg" alt="Eilean Mo ChrÃƒÆ’Ã‚Â¬dh (Isle Of My Heart)" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/jg-o4-Mk3jk" title="Eilean Mo ChrÃƒÆ’Ã‚Â¬dh (Isle Of My Heart)" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "jg-o4-Mk3jk" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Eilean Mo ChrÃƒÆ’Ã‚Â¬dh (Isle Of My Heart)"</em> is featured on <strong>The Alan Lomax Collection from the American Folklife Center</strong>, released under Global Jukebox. This track is a moving example of spiritual and traditional folk, brought to life through the timeless efforts of Alan Lomax and John Carlin.</p>
 </div> <!-- Footer Links -->

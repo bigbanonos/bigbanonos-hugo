@@ -4,9 +4,9 @@ layout: post
 ---
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Ella Fitzgerald</h1> <!-- Featured Image -->
-<div > <img src="https://i.scdn.co/image/ab7d0c038d876a9ed5a21afb83d6ba760430cf90" alt="Ella Fitzgerald">
+<div > {{< img-lite src="https://i.scdn.co/image/ab7d0c038d876a9ed5a21afb83d6ba760430cf90" alt="Ella Fitzgerald" >}}
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/0rviomxO5R8TG7BTUFwKZz?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Introductory Text -->
 <p >Ella Fitzgerald, the First Lady of Song, delivers timeless classics like "A Tisket A Tasket" and her breathtaking collaborations with Louis Armstrong, including "Dream A Little Dream Of Me."</p> <!-- Song Highlights -->
 <div > <p>BigBanonos' standout picks:</p> <ol> <li><strong>A Tisket A Tasket</strong> | <em>Love, Ella</em> | Released: May 3, 2007 | Verve Reissues</li> <li><strong>Dream A Little Dream Of Me - Single Version</strong> (with Louis Armstrong) | <em>Love, Ella</em> | Released: May 3, 2007 | Verve Reissues</li> <li><strong>Summertime</strong> (with Louis Armstrong) | <em>Porgy And Bess</em> | Released: January 1, 1958 | Verve Reissues</li> <li><strong>Cheek To Cheek</strong> (with Louis Armstrong) | <em>The Complete Ella And Louis On Verve</em> | Released: May 20, 1997 | Verve Reissues</li> </ol>

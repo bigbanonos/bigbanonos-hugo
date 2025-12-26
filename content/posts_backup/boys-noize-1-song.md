@@ -2,7 +2,7 @@
 title: "boys noize 1 song"
 layout: post
 ---
-<iframe frameborder="0" height="360" src="https://youtube.com/embed/Ojf-4u1o3eQ" width="480"></iframe><h2><ol><li>(ft. ABRA) Affection [2021]</li></ol></h2>
+{{< youtube "Ojf-4u1o3eQ" >}}<h2><ol><li>(ft. ABRA) Affection [2021]</li></ol></h2>
 
 <!--Subscribe and Playlist Links-->
 <div>

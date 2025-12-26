@@ -2,7 +2,7 @@
 title: "king gizzard lizard wizards im not man"
 layout: post
 ---
-#2013 <br /><iframe width="95%" height="315" src="https://www.youtube.com/embed/2fPB4uZ3tcM?list=PLtuNtuTatqI3Sq0UrOfKvIPT20SzNwgDK" frameborder="0" allowfullscreen></iframe><br />
+#2013 <br />{{< youtube "2fPB4uZ3tcM" >}}<br />
 I'm Not A Man Unless I Have A Woman 2013
 
 <!--Subscribe and Playlist Links-->

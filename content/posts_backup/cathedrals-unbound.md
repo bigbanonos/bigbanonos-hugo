@@ -7,7 +7,7 @@ layout: post
 <p >Updated September 30, 2013 with BigBanonos' favorite track, "Unbound" by Cathedrals. This dreamy vapor pop anthem captures the essence of ethereal production and enchanting vocals.</p> <!-- Featured Image -->
 <div > <img src="https://f4.bcbits.com/img/0013240512_10.jpg" alt="Cathedrals - Unbound" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/mJevk3zJt64" title="Cathedrals - Unbound (Official Music Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "mJevk3zJt64" >}}
 </div> <!-- Song Information -->
 <div > <p>"Unbound," released under CATHEDRALS, is a lush vapor pop masterpiece that seamlessly blends ethereal vocals with atmospheric production.</p>
 </div> <!-- Footer Links -->

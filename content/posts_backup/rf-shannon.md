@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Angeline" by RF Shannon, from the album *Angeline*, released on June 28, 2019, by Keeled Scales.</p> <!-- Featured Image -->
 <div > <img src="https://vuhaus-production.imgix.net/store/99288f59962bbd78554b2890684157acd5120628e8486e89748271060bb0?ixlib=rb-1.1.0&w=960&h=540&rect=307%2C0%2C3137%2C1764&q=70&dpr=1&fm=jpg" alt="RF Shannon - Angeline" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/9Uy-QNMn15M" title="RF Shannon - Angeline" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "9Uy-QNMn15M" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Angeline"</em> by RF Shannon is a track from the album *Angeline*, released on June 28, 2019. The song embodies modern folk rock, blending deep storytelling with melodic layers that define RF Shannon's unique sound.</p>
 </div> <!-- Footer Links -->

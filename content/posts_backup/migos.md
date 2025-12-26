@@ -5,7 +5,7 @@ layout: post
 <br />
 <div class="separator" >
 <a href="https://upload.wikimedia.org/wikipedia/commons/5/5b/Migos_Veld_festival_2017.jpg" imageanchor="1"><img border="0" data-original-height="567" data-original-width="800" height="282" src="https://upload.wikimedia.org/wikipedia/commons/5/5b/Migos_Veld_festival_2017.jpg" width="400" /></a></div>
-<iframe allow="encrypted-media" allowfullscreen="" frameborder="0" gesture="media" height="500px" src="https://www.youtube.com/embed/videoseries?list=PLtuNtuTatqI2kCTl8wwc7NXVPHGfbfG5a" width="100%"></iframe><br />
+{{< youtube "videoseries" >}}<br />
 <h3>
 Stir Fry (2017)</h3>
 

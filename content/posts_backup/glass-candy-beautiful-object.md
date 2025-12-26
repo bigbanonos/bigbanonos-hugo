@@ -5,14 +5,14 @@ layout: post
 <!-- Title of the Post -->
 <h1>BigBanonos' Favorite Songs by Glass Candy</h1> <!-- Introductory Text -->
 <p>Glass Candy, known for their synth-driven sound and dreamy vocals, remains a standout in the world of electronic pop. Here are BigBanonos' top picks from the duo.</p> <!-- Featured Image -->
-<div> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Glass_Candy_Ida_No_and_Johnny_Jewel.jpg/640px-Glass_Candy_Ida_No_and_Johnny_Jewel.jpg" alt="Glass Candy">
+<div> {{< img-lite src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Glass_Candy_Ida_No_and_Johnny_Jewel.jpg/640px-Glass_Candy_Ida_No_and_Johnny_Jewel.jpg" alt="Glass Candy" >}}
 </div> <!-- Spotify Embed -->
-<div> <iframe src="https://open.spotify.com/embed/playlist/5Hb26pTYBbud7bxVm8HfhF?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div> {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <h3>Top Songs:</h3>
 <ul> <li><strong>Beautiful Object</strong> | Released: 2011</li> <li><strong>Warm In The Winter</strong> | Released: 2011</li>
 </ul> <!-- YouTube Embed -->
-<div> <iframe allowfullscreen="" frameborder="0" height="360" src="//www.youtube.com/embed/DT007Kluw9Q?feature=player_embedded" width="640"></iframe>
+<div> {{< youtube "DT007Kluw9Q" >}}
 </div> <!-- Footer Links -->
 <hr />
 <p>For more updates, visit <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Also, check out our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> channel and follow us on <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a> for more exclusive content!</p> <!-- Tags -->

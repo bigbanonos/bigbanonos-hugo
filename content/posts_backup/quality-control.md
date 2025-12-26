@@ -7,7 +7,7 @@ layout: post
 <p >Quality Control has consistently delivered chart-topping hits with their roster of iconic hip hop stars. Explore some of their biggest tracks below.</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d0000b27314c7e5658e31620bd626c7ca" alt="Quality Control" />
 </div> <!-- Spotify Playlist Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/0UoYABOMi1TpGjgwVWBAuk?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Come On"</em> (2019) featuring City Girls and Saweetie exemplifies their melodic trap sound.</p> <p><em>"Pastor"</em> (2019) with Quavo, City Girls, and Megan Thee Stallion highlights their all-star collaborations.</p>
 </div> <!-- Footer Links -->

@@ -7,7 +7,7 @@ layout: post
 <p >Updated with *This Love That I'm Giving You*, a soulful and classic hit by The Joy Tones. Featured on *The Best of COED Records, Vol. 1*, this track transports listeners to the golden age of R&B. Released on January 18, 2011, this song is a timeless gem of soul and doo-wop.</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d0000b273adef902006d6342a4af4ec31" alt="The Joy Tones - This Love That I'm Giving You" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="514" src="https://www.youtube.com/embed/OXMmTsbVg1w" title="The Joy-Tones - This Love" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "OXMmTsbVg1w" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"This Love That I'm Giving You"</em> is a timeless classic from The Joy Tones, a group known for their smooth doo-wop style and R&B sensibilities. Featured on *The Best of COED Records, Vol. 1*, this track brings together all the elements of classic soul with an upbeat tempo and heartfelt lyrics.</p>
 </div> <!-- Footer Links -->

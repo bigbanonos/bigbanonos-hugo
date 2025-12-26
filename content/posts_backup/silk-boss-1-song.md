@@ -2,7 +2,7 @@
 title: "silk boss 1 song"
 layout: post
 ---
-<iframe frameborder="0" height="270" src="https://youtube.com/embed/P0BiURwt4zg?si=uffXYcvK8dXaZseX" width="480"></iframe><h3>(ft. Chronic Law) Last Breath [2024]</h3><div><br /></div><div class="separator" ><a href="https://i.ytimg.com/vi/78d7yVkQgvU/maxresdefault.jpg" imageanchor="1"><img border="0" data-original-height="720" data-original-width="1280" height="720" src="https://i.ytimg.com/vi/78d7yVkQgvU/maxresdefault.jpg" width="1280" /></a></div><br /><div><br /></div>
+{{< youtube "P0BiURwt4zg" >}}<h3>(ft. Chronic Law) Last Breath [2024]</h3><div><br /></div><div class="separator" ><a href="https://i.ytimg.com/vi/78d7yVkQgvU/maxresdefault.jpg" imageanchor="1"><img border="0" data-original-height="720" data-original-width="1280" height="720" src="https://i.ytimg.com/vi/78d7yVkQgvU/maxresdefault.jpg" width="1280" /></a></div><br /><div><br /></div>
 
 <!--Subscribe and Playlist Links-->
 <div>

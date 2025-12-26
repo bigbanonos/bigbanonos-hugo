@@ -7,7 +7,7 @@ layout: post
 <p >Updated July 15, 2019, with "Dollar" by Electric Guest. This track brings shimmering indie pop vibes with a touch of smooth, laid-back beats.</p> <!-- Featured Image -->
 <div > <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToa2Ke8nEnh7CxLLOkzL6-01RXXoxIzKH1fA&s" alt="Electric Guest - Dollar" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/5rmZPJA3Py0" title="Electric Guest - Dollar (Official Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "5rmZPJA3Py0" >}}
 </div> <!-- Song Information -->
 <div > <p>"Dollar" showcases Electric Guest's knack for crafting catchy hooks and glossy production, making it a standout track for fans of indietronica and shimmer pop.</p>
 </div> <!-- Footer Links -->

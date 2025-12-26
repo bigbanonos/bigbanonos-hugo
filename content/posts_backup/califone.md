@@ -7,7 +7,7 @@ layout: post
 <p >Updated September 3, 2013, with BigBanonos' favorite track, "We Are A Payphone" by Califone. This hauntingly beautiful track from the album *Stitches* showcases the band's unique blend of alternative country and Chicago indie influences.</p> <!-- Featured Image -->
 <div > <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Tim_rutili_and_ben_massarella_0001.jpg" alt="Califone - We Are A Payphone" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/V_j-fCODTX4" title="Califone - "We are a Payphone" (Official Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "V_j-fCODTX4" >}}
 </div> <!-- Song Information -->
 <div > <p>"We Are A Payphone" by Califone appears on their album *Stitches*, released on September 3, 2013, under the Dead Oceans label. This song blends alternative country elements with Chicago indie vibes, offering a rich and introspective listening experience.</p>
 </div> <!-- Footer Links -->

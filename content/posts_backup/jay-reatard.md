@@ -7,7 +7,7 @@ layout: post
 <p >Updated August 17, 2009, with "It Ain't Gonna Save Me" by Jay Reatard. This standout track from *Watch Me Fall* encapsulates Reatard's raw energy, blending garage pop and indie punk in a lo-fi masterpiece.</p> <!-- Featured Image -->
 <div > <img src="https://media.pitchfork.com/photos/592c6a95eb335119a49f1e67/2:1/w_2560%2Cc_limit/9eeacd90.jpg" alt="Jay Reatard - It Ain't Gonna Save Me" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/dG65eqfg6bc" title="Jay Reatard - 'It Ain't Gonna Save Me'" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "dG65eqfg6bc" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"It Ain't Gonna Save Me"</em> is a blistering anthem of defiance, layered with noise pop and punk blues influences. Jay Reatard's unique Memphis indie style shines, making this track a timeless gem in his catalog.</p>
 </div> <!-- Footer Links -->

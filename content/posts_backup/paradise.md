@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Sizzlin' Hot" by Paradise from *Sizzlin' Hot*. A vibrant track that brings a sizzling groove with catchy rhythms and tropical vibes.</p> <!-- Featured Image -->
 <div > <img src="https://f4.bcbits.com/img/a0984517831_10.jpg" alt="Paradise - Sizzlin' Hot" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/_T6Gt5Lgju4" title="Paradise - Sizzlin' Hot" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "_T6Gt5Lgju4" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Sizzlin' Hot"</em> by Paradise delivers a feel-good vibe with tropical rhythms and a catchy hook that will get you moving.</p>
 </div> <!-- Footer Links -->

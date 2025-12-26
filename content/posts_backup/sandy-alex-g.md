@@ -4,7 +4,7 @@ layout: post
 ---
 <div class="separator" >
 <a href="https://images.squarespace-cdn.com/content/v1/578d8a4c414fb5067c923627/1486033130857-GDQWQVE63C90LI335GQZ/ke17ZwdGBToddI8pDm48kNSgtl6A6xfHF9jyNDqHRqV7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UT7MrQ-qtt5olueOg08WtfpoyAo95zadCrDfn7tE-TJKjBkG3vZhrwF2QN_o7hAYtQ/bal-alex-g-ottobar-beach-music-interview-2015.jpg" imageanchor="1"><img border="0" data-original-height="560" data-original-width="800" height="280" src="https://images.squarespace-cdn.com/content/v1/578d8a4c414fb5067c923627/1486033130857-GDQWQVE63C90LI335GQZ/ke17ZwdGBToddI8pDm48kNSgtl6A6xfHF9jyNDqHRqV7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UT7MrQ-qtt5olueOg08WtfpoyAo95zadCrDfn7tE-TJKjBkG3vZhrwF2QN_o7hAYtQ/bal-alex-g-ottobar-beach-music-interview-2015.jpg" width="400" /></a></div>
-<iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/videoseries?list=PLtuNtuTatqI2WzjCq97XSsiVaim3XZtOk" width="560"></iframe> <br />
+{{< youtube "videoseries" >}} <br />
 <h3>
 <ol>
 <li>

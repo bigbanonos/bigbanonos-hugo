@@ -4,8 +4,8 @@ layout: post
 ---
 <h3>BigBanonos' Favorite Song by Jinyus</h3> <div class="separator" > <a href="https://i.ytimg.com/vi/vSQZu2X-PPE/maxresdefault.jpg"> <img alt="Jinyus - Self Destruction" border="0" height="350" src="https://i.ytimg.com/vi/vSQZu2X-PPE/maxresdefault.jpg" /> </a>
 </div> <p>BigBanonos highlights <strong>"Self Destruction"</strong> by the talented artist <strong>Jinyus</strong>, featuring Chronic Law. This powerful track dives deep into introspection and resilience, delivering impactful lyrics and a mesmerizing melody. Watch and listen below:</p> <p>Official Audio on YouTube:</p>
-<iframe width="1013" height="570" src="https://www.youtube.com/embed/vSQZu2X-PPE" title="Jinyus, Chronic Law - Self Destruction | (Official Audio)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> <p>Listen to the track on Spotify:</p>
-<iframe src="https://open.spotify.com/embed/track/40lfVCmZnrRicFEDCUn9jC?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> <hr />
+{{< youtube "vSQZu2X-PPE" >}} <p>Listen to the track on Spotify:</p>
+{{< youtube "embed" >}} <hr />
 <p>For more updates, visit <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">BigBanonos</a>. Also, check out our <a href="https://www.youtube.com/@BigBanonos" rel="noopener" target="_new">YouTube</a> and <a href="https://x.com/bigbanonos" rel="noopener" target="_new">X/Twitter</a> channels for more exclusive content!</p>
 
 

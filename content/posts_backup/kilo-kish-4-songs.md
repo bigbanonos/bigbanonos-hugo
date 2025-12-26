@@ -3,10 +3,10 @@ title: "kilo kish 4 songs"
 layout: post
 ---
 <h1>Kilo Kish: BigBanonos 4 Favorite Tracks</h1>
-<img src="https://media.pitchfork.com/photos/623d5ccb34a9c49d0718286b/master/pass/kilo-kish-american-gurl.jpeg" alt="Kilo Kish American Gurl Cover"> <p>With a unique fusion of alternative R&B and experimental "escape room" sounds, Kilo Kish stands out in the music landscape. Here are five tracks that capture her distinct style and vision:</p> <ol> <li><strong>INCREDIBLE WORLD</strong> | <em>AMERICAN GURL: SUPER DELUXE VALUE SIZE</em> | Release Date: October 21, 2022 | Kisha Soundscapes + Audio</li> <li><strong>CONTINUE?</strong> | <em>AMERICAN GURL</em> | Release Date: March 25, 2022 | Kisha Soundscapes + Audio</li> <li><strong>AMERICAN GURL</strong> | <em>Single</em> | Release Date: July 23, 2021 | Kisha Soundscapes + Audio</li> <li><strong>BOTH SIDES</strong> | <em>REDUX</em> | Release Date: December 6, 2019 | Blacksmith Recordings, Inc.</li>
-</ol> <div> <iframe src="https://open.spotify.com/embed/playlist/5kuluY8EVlYfZFvtL4O1lQ?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+{{< img-lite src="https://media.pitchfork.com/photos/623d5ccb34a9c49d0718286b/master/pass/kilo-kish-american-gurl.jpeg" alt="Kilo Kish American Gurl Cover" >}} <p>With a unique fusion of alternative R&B and experimental "escape room" sounds, Kilo Kish stands out in the music landscape. Here are five tracks that capture her distinct style and vision:</p> <ol> <li><strong>INCREDIBLE WORLD</strong> | <em>AMERICAN GURL: SUPER DELUXE VALUE SIZE</em> | Release Date: October 21, 2022 | Kisha Soundscapes + Audio</li> <li><strong>CONTINUE?</strong> | <em>AMERICAN GURL</em> | Release Date: March 25, 2022 | Kisha Soundscapes + Audio</li> <li><strong>AMERICAN GURL</strong> | <em>Single</em> | Release Date: July 23, 2021 | Kisha Soundscapes + Audio</li> <li><strong>BOTH SIDES</strong> | <em>REDUX</em> | Release Date: December 6, 2019 | Blacksmith Recordings, Inc.</li>
+</ol> <div> {{< youtube "embed" >}}
 </div> <p>These tracks showcase Kilo Kish's bold soundscapes, experimental beats, and innovative approach to R&B and pop, solidifying her place in alternative music.</p>
-<iframe frameborder="0" height="270" src="https://youtube.com/embed/L_m12MnS85k" width="480"></iframe>
+{{< youtube "L_m12MnS85k" >}}
 <div> <p>Explore more from BigBanonos: <a href="https://bigbanonos.blogspot.com/">Website</a> | <a href="https://www.youtube.com/@BigBanonos">YouTube</a> | <a href="https://x.com/bigbanonos">Twitter</a></p>
 </div> <!-- Tags -->
 <p>@kilokish</p>

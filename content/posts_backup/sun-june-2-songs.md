@@ -2,7 +2,7 @@
 title: "sun june 2 songs"
 layout: post
 ---
-<div><iframe frameborder="0" height="360" src="https://youtube.com/embed/Vw1fWgzhhiI?list=PLtuNtuTatqI1lde8AgsH_LfgWfVBmqPbs" width="480"></iframe></div><h2><ol><li>Bad With Time [2021]</li><li>Singing [2020]</li></ol></h2>
+<div>{{< youtube "Vw1fWgzhhiI" >}}</div><h2><ol><li>Bad With Time [2021]</li><li>Singing [2020]</li></ol></h2>
 
 <!--Subscribe and Playlist Links-->
 <div>

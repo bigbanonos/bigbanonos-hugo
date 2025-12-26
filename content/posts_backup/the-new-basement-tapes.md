@@ -7,7 +7,7 @@ layout: post
 <p >Updated with *When I Get My Hands On You*, a powerful track from *Lost On The River* by The New Basement Tapes. Featuring lyrics by Bob Dylan and vocals by Marcus Mumford, this song blends folk and rock in a way that's both timeless and fresh. Watch the video below to experience this captivating collaboration.</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d0000b273e81124204c88882d0343eaee" alt="The New Basement Tapes - Lost On The River" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/BDUDx15KdkI" title="When I Get My Hands On You - Lyrics by Bob Dylan & Vocals by Marcus Mumford" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "BDUDx15KdkI" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"When I Get My Hands On You"</em> by The New Basement Tapes captures the essence of Americana with a modern twist. With Bob Dylan's poignant lyrics and Marcus Mumford's haunting vocals, it's a track that continues to resonate with fans of roots rock and indie folk.</p>
 </div> <!-- Footer Links -->

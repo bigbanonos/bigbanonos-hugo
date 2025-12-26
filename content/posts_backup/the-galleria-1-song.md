@@ -7,7 +7,7 @@ layout: post
 <p >Updated with *Stop & Go* by The Galleria, an experimental pop gem that blends electropop with elements of R&B and country. This track, featured on the *Stop & Go* album, captures the innovative and genre-bending style of The Galleria, a key act in the Canadian music scene.</p> <!-- Featured Image -->
 <div > <img src="https://f4.bcbits.com/img/0017933323_71.jpg" alt="The Galleria - Stop & Go" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/PN1PwDIy9dk" title="The Galleria - Stop & Go" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "PN1PwDIy9dk" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Stop & Go"</em> by The Galleria explores experimental R&B and electropop, blending influences from country and indie. It's a perfect example of their unique sound, with a catchy rhythm and introspective lyrics that make it a standout track from *Stop & Go*.</p>
 </div> <!-- Footer Links -->

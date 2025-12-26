@@ -7,7 +7,7 @@ layout: post
 <p >Updated February 25, 2019, with "Seahorse," a hypnotic track by Jackie Mendoza, blending electronic rhythms with her signature Tijuana-inspired soundscapes. Released under Luminelle Recordings.</p> <!-- Featured Image -->
 <div > <img src="https://adhoc.fm/wp-content/uploads/2019/04/jackie-mendoza3-1-scaled-1.jpg" alt="Jackie Mendoza - Seahorse" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/H4i4jVYDngI" title="Jackie Mendoza - Seahorse" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "H4i4jVYDngI" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Seahorse"</em> is a standout track that showcases Jackie Mendoza's innovative approach to electronic music, weaving tropical and experimental elements into a captivating sound journey.</p>
 </div> <!-- Footer Links -->

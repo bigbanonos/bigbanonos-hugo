@@ -7,7 +7,7 @@ layout: post
 <p >Updated January 1, 2004, with BigBanonos' favorite song by Blaze Foley, "Rainbows and Ridges." From the album *Oval Room* and released under Lost Art Records, this track embodies the heartfelt essence of country and folk. Watch the video and see more details below:</p> <!-- Featured Image -->
 <div > <img src="https://upload.wikimedia.org/wikipedia/en/6/61/Blaze_Foley.jpg" alt="Blaze Foley - Rainbows and Ridges" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/kVmFhIw35SU" title="Rainbows and Ridges" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "kVmFhIw35SU" >}}
 </div> <!-- Song Information -->
 <div > <p>"Rainbows and Ridges" by Blaze Foley is a poetic piece that reflects his signature blend of alternative country and American folk revival. Released on January 1, 2004, as part of the album *Oval Room* under Lost Art Records, this 2:56-long track highlights Foley's timeless storytelling and outlaw country spirit.</p>
 </div> <!-- Footer Links -->

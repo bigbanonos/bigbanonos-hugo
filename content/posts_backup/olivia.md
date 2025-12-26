@@ -7,7 +7,7 @@ layout: post
 <p >Updated June 2, 2001, with "Bizounce" by Olivia. This track from her self-titled album blends R&B and hip-hop with a confident attitude, showcasing Olivia's smooth vocals over a hard-hitting beat. A standout cut from the album that still resonates in the genre.</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d0000b273843808573ab292955a348c19" alt="Olivia - Bizounce" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="484" src="https://www.youtube.com/embed/CEfq4xqWc1g" title="Olivia - Bizounce - (Dirty Rap)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "CEfq4xqWc1g" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Bizounce"</em> by Olivia is a standout track from her 2001 self-titled album, blending R&B with hip-hop. Released on June 2, 2001, itâ€™s a bold anthem that highlights Oliviaâ€™s vocal range and confident persona in the urban music scene.</p>
 </div> <!-- Footer Links -->

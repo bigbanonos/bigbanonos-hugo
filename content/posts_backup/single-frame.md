@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Post Daydream Forecast Endeavour" by Single Frame. This 2002 track from *Wetheads Come Running* blends experimental indie rock with bold creativity. Watch the video below!</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d00001e02f1c1b17d104e7ef5549375c6" alt="Single Frame - Post Daydream Forecast Endeavour" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="560" height="315" src="https://www.youtube.com/embed/Vx1Cthsz9tk" frameborder="0" allowfullscreen></iframe>
+<div > {{< youtube "Vx1Cthsz9tk" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Post Daydream Forecast Endeavour"</em> by Single Frame is a standout track from their 2002 release, combining eclectic melodies with a daring indie rock edge.</p>
 </div> <!-- Footer Links -->

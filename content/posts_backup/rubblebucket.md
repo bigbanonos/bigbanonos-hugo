@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "If U C My Enemies" by Rubblebucket, from the album *If U C My Enemies*, released on January 20, 2017, by Grand Jury Music.</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d00001e029a9e5fd04334717929fd0e85" alt="Rubblebucket - If U C My Enemies" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/Fbnb-HaJ25U" title="Rubblebucket - 'If U C My Enemies' (Official Music Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "Fbnb-HaJ25U" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"If U C My Enemies"</em> by Rubblebucket is a track from the album *If U C My Enemies*, released on January 20, 2017. The song features shimmering pop and funky rhythms with catchy melodies, highlighting the band's unique blend of indie pop and experimental sounds.</p>
 </div> <!-- Footer Links -->

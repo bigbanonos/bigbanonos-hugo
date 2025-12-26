@@ -7,7 +7,7 @@ layout: post
 <p >Updated with *Wait (The Whisper Song)* by Ying Yang Twins, a hit from their *U.S.A. (United State of Atlanta)* album, released on June 28, 2005. This track is a signature blend of ATL hip hop, crunk, and dirty south rap, famous for its whispering style and catchy rhythm.</p> <!-- Featured Image -->
 <div > <img src="https://m.media-amazon.com/images/I/71SsetOTV8L._UF1000,1000_QL80_.jpg" alt="Ying Yang Twins - Wait (The Whisper Song)" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="514" src="https://www.youtube.com/embed/HAnXIIv5He8" title="Ying Yang Twins - Wait (The Whisper Song) (Official Music Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "HAnXIIv5He8" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Wait (The Whisper Song)"</em> is a standout track from Ying Yang Twins' *U.S.A. (United State of Atlanta)*, showcasing the duo's unique style in the southern hip hop scene. Released in 2005, this song helped define crunk and ATL hip hop's influence during that time.</p>
 </div> <!-- Footer Links -->

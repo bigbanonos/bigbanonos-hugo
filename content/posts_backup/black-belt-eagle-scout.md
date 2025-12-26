@@ -7,7 +7,7 @@ layout: post
 <p >Updated September 14, 2018, with BigBanonos' favorite song by Black Belt Eagle Scout, "Soft Stud." From the album *Mother of My Children* and released under Saddle Creek, this track is a powerful blend of bubblegrunge and Portland indie. Watch the video and see more details below:</p> <!-- Featured Image -->
 <div > <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlL3HwbZrjy74wPnRtT8n3eDvfTxVCPXu8Xg&s" alt="Black Belt Eagle Scout - Soft Stud" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/di2rv4gmHlo" title="Black Belt Eagle Scout - Soft Stud [Official Music Video]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "di2rv4gmHlo" >}}
 </div> <!-- Song Information -->
 <div > <p>"Soft Stud" by Black Belt Eagle Scout is a standout track from their album *Mother of My Children*. Released on September 14, 2018, under Saddle Creek, this 6:08-long song captures the intensity of bubblegrunge and the ethereal feel of Cascadia shoegaze.</p>
 </div> <!-- Footer Links -->

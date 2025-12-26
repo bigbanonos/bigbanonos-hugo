@@ -2,7 +2,7 @@
 title: "wild pink 1 song"
 layout: post
 ---
-<iframe frameborder="0" height="270" src="https://youtube.com/embed/mhLAkqqpl3E" width="480"></iframe><h2><ol><li>ILYSM [2022]</li></ol></h2>
+{{< youtube "mhLAkqqpl3E" >}}<h2><ol><li>ILYSM [2022]</li></ol></h2>
 
 <!--Subscribe and Playlist Links-->
 <div>

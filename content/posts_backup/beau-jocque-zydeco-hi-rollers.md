@@ -7,7 +7,7 @@ layout: post
 <p >Updated 2001 with BigBanonos' favorite song by Beau Jocque & The Zydeco Hi-Rollers, "Pop That Coochie," from the album *This Is Beau Jocque!*. Watch the video and see more details below:</p> <!-- Featured Image -->
 <div > <img src="https://cdn.louisianamusicfactory.com/media/wp-content/uploads/2020/06/28114555/beau-jocque-im-coming-home.jpg" alt="Beau Jocque & The Zydeco Hi-Rollers - Pop That Coochie" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/sd5zFVZilNU" title="Pop That Coochie" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "sd5zFVZilNU" >}}
 </div> <!-- Song Information -->
 <div > <p>"Pop That Coochie" by Beau Jocque & The Zydeco Hi-Rollers is a lively and infectious zydeco track that captures the vibrant energy of Louisiana's music scene. Released in 2001 under Mardi Gras Records, this 4:28-long song from the album *This Is Beau Jocque!* is a quintessential example of zydeco brilliance.</p>
 </div> <!-- Footer Links -->

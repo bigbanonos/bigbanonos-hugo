@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "The Clapping Song" by Shirley Ellis. This playful and infectious track, originally released in 1965, remains a northern soul classic that gets everyone moving. Watch the video below!</p> <!-- Featured Image -->
 <div > <img src="https://i.discogs.com/ELATPyeF0bkqWKcmymSW1Mu0E7J3PBJb9DsPJ1mmUpY/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg5NDg3/NTAtMTQ5ODI5OTU3/OC0xNDI1LmpwZWc.jpeg" alt="Shirley Ellis - The Clapping Song" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="560" height="315" src="https://www.youtube.com/embed/9pYux5-d1Es" frameborder="0" allowfullscreen></iframe>
+<div > {{< youtube "9pYux5-d1Es" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"The Clapping Song"</em> by Shirley Ellis, featured on *The Clapping Song... And More* and released via Geffen in 2016, is a northern soul hit that blends rhythmic ingenuity with timeless charm.</p>
 </div> <!-- Footer Links -->

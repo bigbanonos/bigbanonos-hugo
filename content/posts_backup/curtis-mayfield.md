@@ -3,7 +3,7 @@ title: "curtis mayfield"
 layout: post
 ---
 <h2>Curtis Mayfield â€“ Essential Tracks</h2> <div > <img src="https://www.rollingstone.com/wp-content/uploads/2018/06/rs-curtis-mayfield-4b278431-14de-49f5-8ddb-18cdd24aa6e4.jpg" alt="Curtis Mayfield" width="500" />
-</div> <iframe src="https://open.spotify.com/embed/playlist/7l6aDO8spFoPcW0rtxcJQJ?utm_source=generator" width="100%" height="352" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> <h3>Tracklist</h3>
+</div> {{< youtube "embed" >}} <h3>Tracklist</h3>
 <ul> <li><strong>Pusherman</strong> â€“ <em>Superfly</em> (1972)</li> <li><strong>Freddie's Dead</strong> â€“ <em>Superfly</em> (1972)</li> <li><strong>Tripping Out</strong> â€“ <em>Something to Believe In</em> (1980)</li> <li><strong>Keep on Keeping On</strong> â€“ <em>Roots</em> (1971)</li> <li><strong>Move on Up (Extended Version)</strong> â€“ <em>Curtis</em> (1970)</li> <li><strong>The Makings of You</strong> â€“ <em>Curtis</em> (1970)</li> <li><strong>Miss Black America</strong> â€“ <em>Curtis</em> (1970)</li> <li><strong>Little Child Runnin' Wild</strong> â€“ <em>Superfly</em> (1972)</li> <li><strong>This Is My Country</strong> (with The Impressions) â€“ <em>This Is My Country</em> (1968)</li>
 </ul> <h3>Highlights</h3>
 <ul> <li><strong>Right On For the Darkness</strong> â€“ A Curtis classic showcasing his reflective lyrics.</li> <li><strong>Move On Up</strong> â€“ An anthem of perseverance and soul brilliance.</li> <li><strong>The Makings of You</strong> â€“ A tender ballad capturing Curtis's poetic side.</li>

@@ -6,7 +6,7 @@ layout: post
 </div> <p>Karl Blau, a versatile artist known for blending alternative country with soulful melodies, has consistently delivered timeless tracks. Here's a <em>BigBanonos</em> selection of his top songs.</p> <h3>Selected Tracks</h3>
 <ol> <li><strong>Slow Down Joe</strong> â€“ <em>Beneath Waves</em> (2006)</li> <li><strong>Into The Nada</strong> â€“ <em>Beneath Waves</em> (2006)</li>
 </ol> <p>Stream Karl Blau's playlist:</p>
-<iframe src="https://open.spotify.com/embed/playlist/4lttaUH6rMi3kgws89HJUv?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> <h3>Tags</h3>
+{{< youtube "embed" >}} <h3>Tags</h3>
 <p>@karlblau</p> <p>Explore more on <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos' YouTube channel</a> and follow us on <a href="https://twitter.com/BigBanonos" target="_blank">Twitter</a>!</p> <hr />
 <p><em>First posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
 

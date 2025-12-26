@@ -4,9 +4,9 @@ layout: post
 ---
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Alabama Shakes</h1> <!-- Featured Image -->
-<div > <img src="https://i.scdn.co/image/ab6775700000ee85f27236bdb9a200478c8d634c" alt="Alabama Shakes">
+<div > {{< img-lite src="https://i.scdn.co/image/ab6775700000ee85f27236bdb9a200478c8d634c" alt="Alabama Shakes" >}}
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/46DcOGQRhSRNwgeS8GPiuP?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Introductory Text -->
 <p >Alabama Shakes brings soulful energy and modern blues rock to the forefront. Their standout track "Hang Loose" from the album *Boys & Girls (Deluxe Edition)* remains a favorite for fans and critics alike.</p> <!-- Song Highlights -->
 <div > <p>BigBanonos' standout pick:</p> <ol> <li><strong>Hang Loose</strong> | <em>Boys & Girls (Deluxe Edition)</em> | Released: April 9, 2013 (Deluxe Edition) | ATO Records</li> </ol>

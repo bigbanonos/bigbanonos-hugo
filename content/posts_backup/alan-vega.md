@@ -5,9 +5,9 @@ layout: post
 
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Alan Vega</h1> <!-- Featured Image -->
-<div > <img src="https://i.scdn.co/image/ab67616d0000b273d94f21d2e3a6ccb201aed4f8" alt="Alan Vega">
+<div > {{< img-lite src="https://i.scdn.co/image/ab67616d0000b273d94f21d2e3a6ccb201aed4f8" alt="Alan Vega" >}}
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/1VCewIGLCoRONZaPxC9eiT?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Introductory Text -->
 <p >Alan Vega's experimental and synth-punk sound has influenced countless artists. From live performances to iconic tracks, here are BigBanonos' favorite picks by this legendary innovator.</p> <!-- Song Highlights -->
 <div > <p>BigBanonos' standout picks:</p> <ol> <li><strong>Magdalena</strong> (Live at Rockpalast 1982) | <em>Magdalena (Live at Rockpalast 1982)</em> | Released: 1982 | Play Loud! Productions</li> <li><strong>Juke Box Baby</strong> | <em>ZEtrospective 1: Dancing in the Face of Adversity</em> | Released: 1981 | Ze Records</li> <li><strong>VIDEO BABE</strong> | <em>Saturn Strip</em> | Released: 1983 | Rhino/Elektra</li> </ol>

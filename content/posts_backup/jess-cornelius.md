@@ -7,7 +7,7 @@ layout: post
 <p >Updated February 20, 2019, with "No Difference" by Jess Cornelius. This standout track showcases her introspective lyrics and raw vocal delivery, set against a backdrop of Melbourne indie rock.</p> <!-- Featured Image -->
 <div > <img src="https://www.rollingstone.com/wp-content/uploads/2020/06/JessCornelius-Rachael-Pony-Cassells.jpg" alt="Jess Cornelius - No Difference" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/XYDbx6L2Wuk" title="Jess Cornelius - 'No Difference'" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "XYDbx6L2Wuk" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"No Difference"</em>, from Jess Cornelius' self-titled release, captures the essence of Melbourne's indie scene. Cornelius delivers a heartfelt performance, blending introspection with powerful melodies, making this track a favorite for fans of honest and emotional rock music.</p>
 </div> <!-- Footer Links -->

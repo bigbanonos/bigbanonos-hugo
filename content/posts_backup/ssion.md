@@ -2,7 +2,7 @@
 title: "ssion"
 layout: post
 ---
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/jLVWlaGFhXE?list=PLtuNtuTatqI0rWsgdQn5WqN-660JjilAB" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe><h2>
+{{< youtube "jLVWlaGFhXE" >}}<h2>
 Clown 2007<br />Heaven (<a href="http://www.youtube.com/watch?v=I16S5QyehMY">Stream</a>) 2007<br />I Fucking Care About You 2003<br />I Think I Got Something To Prove 2003<br />Street Jizz 2007<br />Earthquake 2011<br />My Love Grows In The Dark 2011<br />PSY-CHIC 2011<br />Luvvbazaar 2011</h2>
 
 

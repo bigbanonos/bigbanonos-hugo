@@ -7,7 +7,7 @@ layout: post
 <p >Updated with BigBanonos' favorite song by Aaron Neville, "Tell It Like It Is," featured on the compilation *The Very Best Of Aaron Neville*. Watch the video and see more details below:</p> <!-- Featured Image -->
 <div > <img src="https://m.media-amazon.com/images/I/6196cjG2+oL._UF1000,1000_QL80_.jpg" alt="Aaron Neville - Tell It Like It Is" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/RPtImg9oYyc" title="Tell It Like It Is - Aaron Neville (1966)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "RPtImg9oYyc" >}}
 </div> <!-- Song Information -->
 <div > <p>"Tell It Like It Is" by Aaron Neville is a timeless classic, showcasing his soulful vocals and emotional depth. Originally recorded in 1966, this iconic track is featured on the compilation album *The Very Best Of Aaron Neville*, released by A&M Records.</p>
 </div> <!-- Footer Links -->

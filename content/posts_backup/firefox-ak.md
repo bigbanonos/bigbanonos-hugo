@@ -3,7 +3,7 @@ title: "firefox ak"
 layout: post
 ---
 #highlights <br />
-<iframe width="95%" height="315" src="https://www.youtube.com/embed/yPCajqLdEyc?list=PLtuNtuTatqI0YfNC8FvsJWxQ86Yo1ROHj" frameborder="0" allowfullscreen></iframe>
+{{< youtube "yPCajqLdEyc" >}}
 <br />
 Cardiac Arrest 2006 <br />
 WhatÃƒâ€šÃ‚Â´s That Sound 2006

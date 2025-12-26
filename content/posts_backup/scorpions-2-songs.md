@@ -3,8 +3,8 @@ title: "scorpions 2 songs"
 layout: post
 ---
 <h1>BigBanonos Top Songs by Scorpions</h1>
-<img src="https://www.udiscovermusic.com/wp-content/uploads/2020/08/Scorpions-GettyImages-74294463-1000x600.jpg" alt="Scorpions"> <p>Scorpions are a legendary rock band known for their heavy riffs and iconic ballads. Here are BigBanonos' top selections:</p> <ol> <li><strong>No One Like You</strong> | <em>Bad For Good: The Very Best Of Scorpions</em> | Released: 2002-01-01 | Strategic Marketing</li> <li><strong>The Sails of Charon</strong> (2015 - Remaster) | <em>Taken by Force</em> | Released: 1977-12-04 | BMG Rights Management GmbH</li>
-</ol> <div> <iframe src="https://open.spotify.com/embed/playlist/4FNq8FQjbvLPc9c0P89j7L?utm_source=generator" width="100%" height="352" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+{{< img-lite src="https://www.udiscovermusic.com/wp-content/uploads/2020/08/Scorpions-GettyImages-74294463-1000x600.jpg" alt="Scorpions" >}} <p>Scorpions are a legendary rock band known for their heavy riffs and iconic ballads. Here are BigBanonos' top selections:</p> <ol> <li><strong>No One Like You</strong> | <em>Bad For Good: The Very Best Of Scorpions</em> | Released: 2002-01-01 | Strategic Marketing</li> <li><strong>The Sails of Charon</strong> (2015 - Remaster) | <em>Taken by Force</em> | Released: 1977-12-04 | BMG Rights Management GmbH</li>
+</ol> <div> {{< youtube "embed" >}}
 </div>
 
 

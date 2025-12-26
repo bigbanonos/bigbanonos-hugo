@@ -4,9 +4,9 @@ layout: post
 ---
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by 2Pac</h1> <!-- Featured Image -->
-<div > <img src="https://i.scdn.co/image/ab67616d0000b273073aebff28f79959d2543596" alt="2Pac">
+<div > {{< img-lite src="https://i.scdn.co/image/ab67616d0000b273073aebff28f79959d2543596" alt="2Pac" >}}
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/6pEVpmWurbIzdPnbZ6hjtw?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Introductory Text -->
 <p >2Pac's music continues to inspire with its powerful messages and West Coast rap brilliance. From iconic tracks like "Keep Ya Head Up" to collaborations with Snoop Dogg, here are BigBanonos' favorite tracks by the legendary rapper.</p> <!-- Song Highlights -->
 <div > <p>BigBanonos' standout picks:</p> <ol> <li><strong>Keep Ya Head Up</strong> | <em>Greatest Hits</em> | Released: January 1, 1998 | 2Pac Greatest Hits</li> <li><strong>Ambitionz Az A Ridah</strong> | <em>All Eyez On Me</em> | Released: February 13, 1996 | Amaru Entertainment, Inc./Interscope Records</li> <li><strong>All Eyez On Me</strong> (ft. Big Syke) | <em>All Eyez On Me</em> | Released: February 13, 1996 | Amaru Entertainment, Inc./Interscope Records</li> <li><strong>2 Of Amerikaz Most Wanted</strong> (ft. Snoop Dogg) | <em>All Eyez On Me</em> | Released: February 13, 1996 | Amaru Entertainment, Inc./Interscope Records</li> </ol>

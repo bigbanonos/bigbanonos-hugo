@@ -4,9 +4,9 @@ layout: post
 ---
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Diana Ross</h1> <!-- Featured Image -->
-<div > <img src="https://i.scdn.co/image/ab67616100005174db59e1c017a93648b119f0cc" alt="Diana Ross">
+<div > {{< img-lite src="https://i.scdn.co/image/ab67616100005174db59e1c017a93648b119f0cc" alt="Diana Ross" >}}
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/635Z6wTmI5x85fIeBzQPys?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Introductory Text -->
 <p >Diana Ross, the Queen of Motown, delivers timeless classics with a soulful edge. "It's My House - 12" Remix" from *The Boss (Expanded Edition)* is a highlight in her storied career. Celebrate her elegance with BigBanonos.</p> <!-- Song Highlights -->
 <div > <p>BigBanonos' standout pick:</p> <ol> <li><strong>It's My House - 12" Remix</strong> | <em>The Boss (Expanded Edition)</em> | Released: May 23, 1979 | Motown</li> </ol>

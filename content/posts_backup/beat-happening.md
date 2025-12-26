@@ -4,9 +4,9 @@ layout: post
 ---
  <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Beat Happening</h1> <!-- Featured Image -->
-<div > <img src="https://i.scdn.co/image/0b4992546b7f1851a19d654c3c435c140eb0fa35" alt="Beat Happening">
+<div > {{< img-lite src="https://i.scdn.co/image/0b4992546b7f1851a19d654c3c435c140eb0fa35" alt="Beat Happening" >}}
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/4idy90NyZqchOTdGtKtTXe?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Introductory Text -->
 <p >Beat Happeningâ€™s lo-fi, twee pop sound is timeless. From "Indian Summer" to "Angel Gone," here are BigBanonos' favorite tracks showcasing their unique blend of indie and alternative rock.</p> <!-- Song Highlights -->
 <div > <p>BigBanonos' standout picks:</p> <ol> <li><strong>Angel Gone</strong> | <em>Music to Climb the Apple Tree By</em> | Released: January 1, 2003 | K Records</li> <li><strong>Left Behind</strong> | <em>Dreamy</em> | Released: January 1, 1991 | K Records</li> <li><strong>Indian Summer</strong> | <em>Jamboree</em> | Released: 1988 | K Records</li> </ol>

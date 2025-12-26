@@ -4,10 +4,10 @@ layout: post
 ---
 <h1>BigBanonos 6 Essential Tracks by The Isley Brothers</h1>
 <img alt="The Isley Brothers" src="https://cdn.britannica.com/84/197084-050-5CB545CA/Isley-Brothers-1975.jpg?w=400&h=300&c=crop" /> <p>The Isley Brothers have a rich legacy in classic soul, funk, and R&B, with timeless tracks that span across decades. Their music has influenced generations, blending smooth vocals and funk-driven rhythms. Here are six tracks that showcase their unique sound and influence.</p> <ol> <li><strong>Make Me Say It Again Girl, Pts. 1 & 2</strong> | <em>The Essential Isley Brothers</em> | Epic | Released: 2004</li> <li><strong>(At Your Best) You Are Love</strong> | <em>It's Your Thing: The Story Of The Isley Brothers</em> | Epic | Released: 1999</li> <li><strong>Between the Sheets</strong> | <em>Between The Sheets</em> | T-Neck | Released: 1983</li> <li><strong>Ain't I Been Good to You, Pts. 1 & 2</strong> | <em>Live It Up</em> | Epic/Legacy | Released: 1974</li> <li><strong>Busted</strong> (feat. JS) | <em>Body Kiss</em> | Universal Music Group | Released: January 1, 2003</li> <li><strong>Friends & Family</strong> (feat. Ronald Isley & Snoop Dogg) | <em>Friends & Family</em> | R. I. Top Ten LLC | Released: April 5, 2021</li>
-</ol> <div> <iframe allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" allowfullscreen="" frameborder="0" height="352" loading="lazy" src="https://open.spotify.com/embed/playlist/21LGfkexJ1K00YW2YMJ3Oa?utm_source=generator" width="100%"></iframe>
+</ol> <div> {{< youtube "embed" >}}
 </div> <p>first posted by <a href="https://bigbanonos.blogspot.com/">https://bigbanonos.blogspot.com/</a></p> <div> <p>Explore more BigBanonos content: <a href="https://bigbanonos.blogspot.com/">Website</a> | <a href="https://www.youtube.com/@BigBanonos">YouTube</a> | <a href="https://x.com/bigbanonos">Twitter</a></p>
 </div>
-<iframe frameborder="0" height="270" src="https://youtube.com/embed/Pq51JmcyBzY" width="480"></iframe>
+{{< youtube "Pq51JmcyBzY" >}}
 <!--Tags-->
 <p>@theisleybrothers,@ronaldisley,@snoopdogg,@js,</p>
 

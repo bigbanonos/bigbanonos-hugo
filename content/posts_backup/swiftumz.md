@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "More Than Sleep" by Swiftumz, a 2011 standout that captures the essence of lo-fi brilliance. This gem is #NotOnSpotify, so check out the video below!</p> <!-- Featured Image -->
 <div > <img src="https://i.discogs.com/5Ru1cT1GIzCSz5A93hLsFzWsZ_XCz_2hywQC5-uVBX0/rs:fit/g:sm/q:90/h:303/w:303/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMjUw/MzMtMTMxNjk0ODgy/OS5qcGVn.jpeg" alt="Swiftumz - More Than Sleep" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="1013" height="570" src="https://www.youtube.com/embed/EDbqq8LzvPg" title="Swiftumz- More Than Sleep" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "EDbqq8LzvPg" >}}
 </div> <!-- Footer Links -->
 <div > <p>For more updates, visit <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Also, check out our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a> channels for more exclusive content!</p>
 </div> <!-- Tags -->

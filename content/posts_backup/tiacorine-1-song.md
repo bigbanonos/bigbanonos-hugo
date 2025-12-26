@@ -2,7 +2,7 @@
 title: "tiacorine 1 song"
 layout: post
 ---
-<iframe frameborder="0" height="270" src="https://youtube.com/embed/519I_rkISBY?si=PmLtfzDkeLF35aug" width="480"></iframe><div><br /></div><div>Different Color Stones [2024]</div><div><br /></div><div class="separator" ><a href="https://frank151.com/wp-content/uploads/2024/09/unnamed-18.jpg" imageanchor="1"><img border="0" data-original-height="715" data-original-width="1073" height="715" src="https://frank151.com/wp-content/uploads/2024/09/unnamed-18.jpg" width="1073" /></a></div><br /><div><br /></div>
+{{< youtube "519I_rkISBY" >}}<div><br /></div><div>Different Color Stones [2024]</div><div><br /></div><div class="separator" ><a href="https://frank151.com/wp-content/uploads/2024/09/unnamed-18.jpg" imageanchor="1"><img border="0" data-original-height="715" data-original-width="1073" height="715" src="https://frank151.com/wp-content/uploads/2024/09/unnamed-18.jpg" width="1073" /></a></div><br /><div><br /></div>
 
 <!--Subscribe and Playlist Links-->
 <div>

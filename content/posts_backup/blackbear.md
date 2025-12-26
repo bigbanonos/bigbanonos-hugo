@@ -7,7 +7,7 @@ layout: post
 <p >Updated November 27, 2017, with BigBanonos' favorite song by blackbear, "up in this," featuring Tinashe. From the album *cybersex* and released under Alamo Records / Interscope, this track blends pop, R&B, and electronic vibes. Watch the video and see more details below:</p> <!-- Featured Image -->
 <div > <img src="https://images.genius.com/bed252de1a9a81caf7ad86182459f063.1000x1000x1.png" alt="blackbear and Tinashe - up in this" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/Jm34tsZAL6o" title="blackbear, Tinashe - up in this (Lyrics)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "Jm34tsZAL6o" >}}
 </div> <!-- Song Information -->
 <div > <p>"up in this" by blackbear, featuring Tinashe, is a dynamic track showcasing their signature styles of pop and alternative R&B. Released on November 27, 2017, as part of the album *cybersex* under Alamo Records / Interscope, this 3:24-long song captivates with its catchy beats and modern metropopolis sound.</p>
 </div> <!-- Footer Links -->

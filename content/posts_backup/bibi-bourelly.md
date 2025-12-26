@@ -7,7 +7,7 @@ layout: post
 <p >Updated April 21, 2017, with BigBanonos' favorite remix of Bibi Bourelly's "Ballin," reimagined by Branchez and Arnold. Released under Circa 13 / Def Jam, this track highlights an innovative take on the original. Watch the video and see more details below:</p> <!-- Featured Image -->
 <div > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Bibi_Bourelly_Bumbershoot_2017_3.jpg/1200px-Bibi_Bourelly_Bumbershoot_2017_3.jpg" alt="Bibi Bourelly - Ballin Remix" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/Sw5b1KYGXG0" title="Bibi Bourelly - Ballin (Branchez and Arnold Remix)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "Sw5b1KYGXG0" >}}
 </div> <!-- Song Information -->
 <div > <p>"Ballin - Branchez and Arnold Remix" by Bibi Bourelly takes the original's bold essence and infuses it with dynamic electronic production. Released on April 21, 2017, under Circa 13 / Def Jam, this 2:51-long remix amplifies the track's energy and delivers a refreshing new vibe.</p>
 </div> <!-- Footer Links -->

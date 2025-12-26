@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "I'm Shakin'" by Rooney, from the album *Rooney*, released on May 20, 2003, by Geffen.</p> <!-- Featured Image -->
 <div > <img src="https://i.ytimg.com/vi/8LhZ6k5VxLw/maxresdefault.jpg" alt="Rooney - I'm Shakin'" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="514" src="https://www.youtube.com/embed/8LhZ6k5VxLw" title="Rooney - I'm Shakin'" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "8LhZ6k5VxLw" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"I'm Shakin'"</em> by Rooney is a track from their self-titled album *Rooney*, released on May 20, 2003. The song features energetic power pop vibes, with infectious guitar riffs and catchy melodies, embodying the spirit of modern power pop.</p>
 </div> <!-- Footer Links -->

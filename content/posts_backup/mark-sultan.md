@@ -4,7 +4,7 @@ layout: post
 ---
 <h1>BigBanonos Top Songs by Mark Sultan</h1>
 <img alt="Mark Sultan" src="https://townsquare.media/site/875/files/2016/11/MarkSultanPressPic-copy.jpg?w=780&q=75" /> <p>Mark Sultan, a key figure in Canadian garage rock and punk blues, delivers raw and soulful energy in his music. Here are BigBanonos' favorite tracks:</p> <ol> <li><strong>Livin' My Life</strong> | <em>Whatever I Want</em> | In The Red | Released: October 25, 2011</li> <li><strong>If I Had A Polaroid</strong> | <em>Whatever I Want</em> | In The Red | Released: October 25, 2011</li> <li><strong>I Get Nothin' From My Girl</strong> | <em>Standalone Single</em> | Released: 2010</li>
-</ol> <div> <iframe allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" frameborder="0" height="352" loading="lazy" src="https://open.spotify.com/embed/playlist/4UOllzndInx9Kk5OsajGzC?utm_source=generator" width="100%"></iframe>
+</ol> <div> {{< youtube "embed" >}}
 </div> <p>first posted by <a href="https://bigbanonos.blogspot.com/">https://bigbanonos.blogspot.com/</a></p> <div> <p>Explore more BigBanonos content: <a href="https://bigbanonos.blogspot.com/">Website</a> | <a href="https://www.youtube.com/@BigBanonos">YouTube</a> | <a href="https://x.com/bigbanonos">Twitter</a></p>
 </div> <!--Tags-->
 <p>@marksultan</p>

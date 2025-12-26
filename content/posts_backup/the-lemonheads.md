@@ -7,7 +7,7 @@ layout: post
 <p >Updated January 17, 1966, with "If I Could Talk I'd Tell You" from <em>Car Button Cloth</em>. Dive into the alternative rock world of The Lemonheads in the playlist below!</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d0000b2735ec18fcf59ec93030660d5f1" alt="The Lemonheads" />
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/1mdzmWQQPHLHw76E2LoWCC?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <div > <p><strong>"If I Could Talk I'd Tell You"</strong><br> Genre: Rock, Pop<br> Album: <em>Car Button Cloth</em><br> Release Date: January 1, 1996<br> Label: Fire Records</p> <p><strong>"Confetti - 2022 Remastered Edition"</strong><br> Genre: Rock, Pop<br> Album: <em>It's a Shame About Ray (Expanded Edition)</em><br> Release Date: January 1, 1992<br> Label: Fire Records</p>
 </div> <!-- Footer Links -->

@@ -6,7 +6,7 @@ layout: post
 </div> <p>John Lennonâ€™s timeless contributions to music continue to inspire generations. Here are <em>BigBanonos'</em> favorite tracks from the legendary artist's solo career.</p> <h3>Selected Tracks</h3>
 <ol> <li><strong>Crippled Inside (Evolution Documentary)</strong> â€“ <em>Crippled Inside</em> (2018)</li> <li><strong>Beautiful Boy (Darling Boy)</strong> â€“ <em>Double Fantasy</em> (1980)</li> <li><strong>Whatever Gets You Thru The Night</strong> â€“ <em>Walls And Bridges</em> (1974)</li> <li><strong>How Do You Sleep?</strong> â€“ <em>Imagine</em> (1971)</li> <li><strong>Jealous Guy</strong> â€“ <em>Imagine</em> (1971)</li> <li><strong>Mother</strong> â€“ <em>Plastic Ono Band</em> (1970)</li> <li><strong>Give Me Some Truth</strong> â€“ <em>Single</em> (1971)</li> <li><strong>Oh Yoko! (Acoustic Demo)</strong> â€“ <em>Demo</em> (1971)</li>
 </ol> <p>Stream John Lennonâ€™s playlist:</p>
-<iframe src="https://open.spotify.com/embed/playlist/3TixZvzXgFqoetXvyL3lf1?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> <h3>Tags</h3>
+{{< youtube "embed" >}} <h3>Tags</h3>
 <p>@johnlennon</p> <p>Discover more music on <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos' YouTube channel</a> and follow us on <a href="https://twitter.com/BigBanonos" target="_blank">Twitter</a>!</p> <hr />
 <p><em>First posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
 

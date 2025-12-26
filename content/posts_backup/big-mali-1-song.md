@@ -2,7 +2,7 @@
 title: "big mali 1 song"
 layout: post
 ---
-<iframe frameborder="0" height="270" src="https://www.youtube.com/embed/fVYuWm39pXM" width="480"></iframe><h2><ol><li>Outro [2020]</li></ol></h2>
+{{< youtube "fVYuWm39pXM" >}}<h2><ol><li>Outro [2020]</li></ol></h2>
 
 <!--Subscribe and Playlist Links-->
 <div>

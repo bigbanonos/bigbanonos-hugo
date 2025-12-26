@@ -7,7 +7,7 @@ layout: post
 <p >Updated January 1, 2014, with BigBanonos' favorite song by Arthur Beatrice, "Midland," released under Harvest Records. Watch the video and see more details below:</p> <!-- Featured Image -->
 <div > <img src="https://nbhap.com/wp-content/uploads//2014/02/Arthur-Beatruce-2014.jpg" alt="Arthur Beatrice - Midland" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/cpCVIg6h_Zo" title="Arthur Beatrice - Midland" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "cpCVIg6h_Zo" >}}
 </div> <!-- Song Information -->
 <div > <p>"Midland" by Arthur Beatrice is an evocative track showcasing the band's introspective lyrics and refined sound. Released on January 1, 2014, under Harvest Records, this song is a standout example of their artistic depth and emotional resonance.</p>
 </div> <!-- Footer Links -->

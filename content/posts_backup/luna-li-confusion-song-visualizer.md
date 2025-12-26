@@ -2,7 +2,7 @@
 title: "luna li confusion song visualizer"
 layout: post
 ---
-<iframe width="480" height="270" src="https://youtube.com/embed/f2SbhZ0KDtY?si=K4T_lqmVnCv_bFg0" frameborder="0"></iframe>
+{{< youtube "f2SbhZ0KDtY" >}}
 
 <!--Subscribe and Playlist Links-->
 <div>

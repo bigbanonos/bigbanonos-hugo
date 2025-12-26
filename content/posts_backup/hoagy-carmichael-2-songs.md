@@ -3,8 +3,8 @@ title: "hoagy carmichael 2 songs"
 layout: post
 ---
 <h1>BigBanonos 2 Essential Songs by Hoagy Carmichael</h1>
-<img src="https://m.media-amazon.com/images/I/71Tju0dX8RL.jpg" alt="Hoagy Carmichael"> <p>Explore two timeless tracks from the legendary Hoagy Carmichael, whose contributions to Tin Pan Alley and vintage jazz continue to captivate listeners. From classic jazz standards to unique storytelling, these songs offer a glimpse into the genius of one of America's beloved songwriters.</p> <ol> <li><strong>Stardust</strong> | <em>The Stardust Road</em> | GRP | Released: January 1, 1947</li> <li><strong>Some Days There Just Ain't No Fish</strong> | <em>Easy Living - Jazzin' with Hoagy</em> | Released: 1950</li>
-</ol> <div> <iframe src="https://open.spotify.com/embed/playlist/43L1EZJ8Rqstpprc6Th88x?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+{{< img-lite src="https://m.media-amazon.com/images/I/71Tju0dX8RL.jpg" alt="Hoagy Carmichael" >}} <p>Explore two timeless tracks from the legendary Hoagy Carmichael, whose contributions to Tin Pan Alley and vintage jazz continue to captivate listeners. From classic jazz standards to unique storytelling, these songs offer a glimpse into the genius of one of America's beloved songwriters.</p> <ol> <li><strong>Stardust</strong> | <em>The Stardust Road</em> | GRP | Released: January 1, 1947</li> <li><strong>Some Days There Just Ain't No Fish</strong> | <em>Easy Living - Jazzin' with Hoagy</em> | Released: 1950</li>
+</ol> <div> {{< youtube "embed" >}}
 </div> <p>first posted by <a href="https://bigbanonos.blogspot.com/">https://bigbanonos.blogspot.com/</a></p> <div> <p>Discover more on BigBanonos: <a href="https://bigbanonos.blogspot.com/">Website</a> | <a href="https://www.youtube.com/@BigBanonos">YouTube</a> | <a href="https://x.com/bigbanonos">Twitter</a></p>
 </div> <!-- Tags -->
 <p>@hoagycarmichael</p>

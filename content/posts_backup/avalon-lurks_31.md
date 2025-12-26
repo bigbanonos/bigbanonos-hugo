@@ -7,7 +7,7 @@ layout: post
 <p >Updated May 31, 2019, with BigBanonos' favorite song by Avalon Lurks, "Papi Chulo," released under Metropolitan Indian. Watch the video and see more details below:</p> <!-- Featured Image -->
 <div > <img src="https://imgproxy.ra.co/_/quality:66/aHR0cHM6Ly9zdGF0aWMucmEuY28vaW1hZ2VzL3Byb2ZpbGVzL3NxdWFyZS9hdmFsb25sdXJrcy5qcGc_ZGF0ZVVwZGF0ZWQ9MTcwMjQwMzA4MjAwMA==" alt="Avalon Lurks - Papi Chulo" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/tIKQmnKewk4" title="avalon lurks - papi chulo (official video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "tIKQmnKewk4" >}}
 </div> <!-- Song Information -->
 <div > <p>"Papi Chulo" by Avalon Lurks is a bold and sultry track that showcases her unique blend of edgy production and captivating vocals. Released on May 31, 2019, under Metropolitan Indian, this song solidifies Avalon Lurks as an artist with a distinct voice and aesthetic.</p>
 </div> <!-- Footer Links -->

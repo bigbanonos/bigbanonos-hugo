@@ -5,7 +5,7 @@ layout: post
 <h2>BigBanonos' Favorite 2 Songs by Winter</h2>
 <p>BigBanonos' Favorite 2 Songs by Winter, Last updated January 17, 2024, with "the lonely girl" from <em>the lonely girl</em>, highlighted in the playlist below:</p> <ol> <li><strong>the lonely girl</strong> - Album: <em>the lonely girl</em> (2024-01-17)</li> <li><strong>Violet Blue</strong> - Album: <em>Violet Blue</em> (2021-02-10)</li>
 </ol> <!--Playlist Embed-->
-<iframe allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" allowfullscreen="" frameborder="0" height="352" loading="lazy" src="https://open.spotify.com/embed/playlist/11VlB6zLUKyQsBE269sq8v?utm_source=generator" width="100%"></iframe> <!--Image-->
+{{< youtube "embed" >}} <!--Image-->
 <img alt="Winter Press Photo by Jaxon Whittington" src="https://i0.wp.com/slrmagazine.com/wp-content/uploads/2024/01/Winter-Press-Photo-1-by-Jaxon-Whittington.jpg?fit=1200%2C799&ssl=1" />
 
 

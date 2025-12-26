@@ -2,8 +2,8 @@
 title: "the masters apprentices"
 layout: post
 ---
-<h2>BigBanonos' Favorite Songs by Masters Apprentices</h2> <p><strong>Updated 1967, with "War or Hands of Time"</strong></p> <img src="https://i.scdn.co/image/ab67616d0000b2731b386cc52183bf56eabe2d82" width="100%" alt="Masters Apprentices"> <p>Australian rock pioneers Masters Apprentices influenced generations of musicians. Below is BigBanonos' favorite song.</p> <h3>"War or Hands of Time"</h3>
-<p>1967</p> <iframe width="685" height="385" src="https://www.youtube.com/embed/Dd07nk4IVCw" title="The Masters Apprentices - War or Hands Of Time" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> <p>The Libertines borrowed from this track on "Last Post on the Bugle": <a href="https://www.youtube.com/watch?v=Q1gycUXL6W4" target="_blank">Watch here</a>.</p> <hr /> <p><strong>Tags:</strong> @mastersapprentices</p> <hr /> <p><em>First posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+<h2>BigBanonos' Favorite Songs by Masters Apprentices</h2> <p><strong>Updated 1967, with "War or Hands of Time"</strong></p> {{< img-lite src="https://i.scdn.co/image/ab67616d0000b2731b386cc52183bf56eabe2d82" alt="Masters Apprentices" >}} <p>Australian rock pioneers Masters Apprentices influenced generations of musicians. Below is BigBanonos' favorite song.</p> <h3>"War or Hands of Time"</h3>
+<p>1967</p> {{< youtube "Dd07nk4IVCw" >}} <p>The Libertines borrowed from this track on "Last Post on the Bugle": <a href="https://www.youtube.com/watch?v=Q1gycUXL6W4" target="_blank">Watch here</a>.</p> <hr /> <p><strong>Tags:</strong> @mastersapprentices</p> <hr /> <p><em>First posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
 
 
 <!--Subscribe and Playlist Links-->

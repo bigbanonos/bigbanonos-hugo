@@ -2,7 +2,7 @@
 title: "precious 1 song"
 layout: post
 ---
-<iframe frameborder="0" height="270" src="https://youtube.com/embed/6DNzHGJq6WQ" width="480"></iframe><h2><ol><li>(ft. Kranium) Time [2021]</li></ol></h2>
+{{< youtube "6DNzHGJq6WQ" >}}<h2><ol><li>(ft. Kranium) Time [2021]</li></ol></h2>
 
 <!--Subscribe and Playlist Links-->
 <div>

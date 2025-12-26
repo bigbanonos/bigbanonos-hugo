@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Nobody's Diary" by Yazoo, a synthpop classic from 1983 that remains a timeless favorite. Watch the video below!</p> <!-- Featured Image -->
 <div > <img src="https://upload.wikimedia.org/wikipedia/en/4/4d/Yazoo_nobodysdiary_statefarm.jpg" alt="Yazoo - Nobody's Diary" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="560" height="315" src="https://www.youtube.com/embed/vh1C1VDlmmk" frameborder="0" allowfullscreen></iframe>
+<div > {{< youtube "vh1C1VDlmmk" >}}
 </div> <!-- Footer Links -->
 <div > <p>For more updates, visit <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Also, check out our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a> channels for more exclusive content!</p>
 </div> <!-- Tags -->

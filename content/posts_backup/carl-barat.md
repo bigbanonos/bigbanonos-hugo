@@ -7,7 +7,7 @@ layout: post
 <p >Updated February 17, 2015, with BigBanonos' favorite track, "Beginning To See" by Carl BarÃƒÆ’Ã‚Â¢t & The Jackals. This standout from the album *Let It Reign* blends British alternative rock and garage rock revival vibes.</p> <!-- Featured Image -->
 <div > <img src="https://i.guim.co.uk/img/media/1052dc9ebf7a39cd795944d067cae20478fdf7ff/188_250_4584_2750/master/4584.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=421ee0327d39565fe01b13d3b6d31929" alt="Carl BarÃƒÆ’Ã‚Â¢t - Beginning To See" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/alvVJNzw38s" title="Carl BarÃƒÆ’Ã‚Â¢t & The Jackals - Beginning To See" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "alvVJNzw38s" >}}
 </div> <!-- Song Information -->
 <div > <p>"Beginning To See" is a high-energy track from Carl BarÃƒÆ’Ã‚Â¢t & The Jackals' 2015 album *Let It Reign*. Released on February 17 by Grand Jury Music, this song captures the spirit of British alternative rock and garage rock revival.</p>
 </div> <!-- Footer Links -->

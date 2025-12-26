@@ -5,9 +5,9 @@ layout: post
 
 <h1>BigBanonos 3 Favorite Songs by Hannah Cohen</h1>
 <img alt="Hannah Cohen" src="https://opositivefestival.org/wp-content/uploads/2024/08/Hannah-Cohen_sq.jpg" /> <p>This collection of BigBanonos' favorite tracks by Hannah Cohen highlights her soulful NYC pop sound. These songs bring an ethereal quality to pop, showcasing her unique vocal style and introspective lyrics.</p> <ol> <li><strong>"This Is Your Life"</strong> - Album: <strong>This Is Your Life</strong>, Label: Bella Union, Released: February 19, 2019</li> <li><strong>California</strong> - Album: <strong>Child Bride</strong>, Label: Bella Union, Released: April 23, 2012</li> <li><strong>Donâ€™t Say</strong> - Album: <strong>Child Bride</strong>, Label: Bella Union, Released: April 23, 2012</li>
-</ol> <div> <iframe allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" allowfullscreen="" frameborder="0" height="352" loading="lazy" src="https://open.spotify.com/embed/playlist/1RrM8bsUgDAJ8mq48QcvUV?utm_source=generator" width="100%"></iframe>
+</ol> <div> {{< youtube "embed" >}}
 </div>
-<p>Enjoy the video for "Don't Say" below:</p> <iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/videoseries?list=PLtuNtuTatqI0Lsq216ca4ku_vzwdNo0GZ" width="560"></iframe> <p>first posted by <a href="https://bigbanonos.blogspot.com/">https://bigbanonos.blogspot.com/</a></p> <div> <p>Explore more BigBanonos content: <a href="https://bigbanonos.blogspot.com/">Website</a> | <a href="https://www.youtube.com/@BigBanonos">YouTube</a> | <a href="https://x.com/bigbanonos">Twitter</a></p>
+<p>Enjoy the video for "Don't Say" below:</p> {{< youtube "videoseries" >}} <p>first posted by <a href="https://bigbanonos.blogspot.com/">https://bigbanonos.blogspot.com/</a></p> <div> <p>Explore more BigBanonos content: <a href="https://bigbanonos.blogspot.com/">Website</a> | <a href="https://www.youtube.com/@BigBanonos">YouTube</a> | <a href="https://x.com/bigbanonos">Twitter</a></p>
 </div> <!--Tags-->
 <p>@hannahcohen</p>
 

@@ -5,7 +5,7 @@ layout: post
 <!-- Title of the Post -->
 <h1 >BigBanonos' Favorite Song by The Stooges: "No Fun"</h1> <!-- Introductory Text -->
 <p >Updated with "No Fun" by The Stooges, a groundbreaking track from their 1969 self-titled album. This song solidified their status as pioneers of protopunk and continues to inspire rock enthusiasts.</p> <!-- Featured Image -->
-<div > <img src="https://i.scdn.co/image/ab67616d0000b273a7d2baa04a56c87de579db69" alt="The Stooges - No Fun">
+<div > {{< img-lite src="https://i.scdn.co/image/ab67616d0000b273a7d2baa04a56c87de579db69" alt="The Stooges - No Fun" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"No Fun"</em> is a quintessential track from *The Stooges*, blending raw energy with anthemic defiance. Released on August 5, 1969, under Rhino/Elektra, it remains a hallmark of Detroit rock and the protopunk movement.</p>
 </div> <!-- Footer Links -->

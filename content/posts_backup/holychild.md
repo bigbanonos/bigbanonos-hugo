@@ -7,7 +7,7 @@ layout: post
 <p >Updated June 2, 2015, with "Happy With Me" by HOLYCHILD. This track defines their unique "brat pop" sound, bringing a playful yet introspective vibe to indie pop from their celebrated album, <em>The Shape of Brat Pop to Come</em>.</p> <!-- Featured Image -->
 <div > <img src="https://images.genius.com/1ce66036099256a65df47a772c597756.848x848x1.jpg" alt="HOLYCHILD - Happy With Me" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/l1RCPzR1qEw" title="HOLYCHILD - Happy With Me ÃƒÂ¢Ã¢â€žÂ¢Ã‚Â¥ÃƒÂ¢Ã¢â€žÂ¢Ã‚Â¥ PART I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "l1RCPzR1qEw" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Happy With Me"</em>, released on June 2, 2015, is a standout track from HOLYCHILDâ€™s <em>The Shape of Brat Pop to Come</em>. The LA indie duo combines catchy hooks with sharp social commentary, creating a sound thatâ€™s as thought-provoking as it is danceable.</p>
 </div> <!-- Footer Links -->

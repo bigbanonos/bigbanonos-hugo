@@ -4,9 +4,9 @@ layout: post
 ---
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by The B-52's</h1> <!-- Featured Image -->
-<div > <img src="https://i.scdn.co/image/ab67616d0000b2739e2d3bc7ecb09e5124cd3f97" alt="The B-52's">
+<div > {{< img-lite src="https://i.scdn.co/image/ab67616d0000b2739e2d3bc7ecb09e5124cd3f97" alt="The B-52's" >}}
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/0PrAUJR5PzqLpE3jRHMfqU?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Introductory Text -->
 <p >The B-52's brought new wave and dance rock to life with their eccentric style and catchy hits. From "Love Shack" to "Deadbeat Club," here are BigBanonos' favorite tracks by the iconic band.</p> <!-- Song Highlights -->
 <div > <p>BigBanonos' standout picks:</p> <ol> <li><strong>Love Shack</strong> | <em>Cosmic Thing</em> | Released: June 23, 1989 | Warner Records</li> <li><strong>Deadbeat Club</strong> | <em>Cosmic Thing</em> | Released: June 23, 1989 | Warner Records</li> <li><strong>Hot Corner</strong> | <em>Funplex</em> | Released: March 25, 2008 | Astralwerks</li> <li><strong>Legal Tender</strong> | <em>Whammy!</em> | Released: April 20, 1983 | Warner Records</li> </ol>

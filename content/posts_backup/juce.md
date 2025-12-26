@@ -7,7 +7,7 @@ layout: post
 <p >Updated October 27, 2014, with "Call You Out" by Juce. A catchy and vibrant anthem from the girl group, blending infectious pop with upbeat energy. Featured on *Taste The JUCE!*, this track captures the essence of indie pop with undeniable flair.</p> <!-- Featured Image -->
 <div > <img src="https://i.ytimg.com/vi/3xZb7Piwbhs/maxresdefault.jpg" alt="Juce - Call You Out" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/hFz_EBJlp5U" title="Call You Out" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "hFz_EBJlp5U" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Call You Out"</em> by Juce is an irresistibly catchy track that showcases the group's fresh take on pop. With its vibrant energy and unique girl group vibe, it's the perfect song to get you in the groove.</p>
 </div> <!-- Footer Links -->

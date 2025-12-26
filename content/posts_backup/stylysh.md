@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Mi Nuh Worry" by Stylysh, from the *Rub Up Rub Up Riddim* album, released on October 9, 2015.</p> <!-- Featured Image -->
 <div > <img src="https://i.ytimg.com/vi/QdNjrmvD_w8/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAdZsou6oGxy9i9mhUY76PvDzpdSg" alt="Stylysh - Mi Nuh Worry" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/FvhmGVCZIwg" title="Stylysh - STILL NAH LEF / MI NUH WORRY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "FvhmGVCZIwg" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Mi Nuh Worry"</em> by Stylysh is a track from the *Rub Up Rub Up Riddim* album, released on October 9, 2015. This energetic dancehall song is a standout hit that showcases Stylysh's powerful presence in the dancehall queen genre.</p>
 </div> <!-- Footer Links -->

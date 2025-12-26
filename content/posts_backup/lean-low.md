@@ -7,7 +7,7 @@ layout: post
 <p >Lean Low teams up with Jaydonclover for â€œOut Of Rhythm,â€ an experimental R&B track that pushes the boundaries of the genre. Watch the official video below!</p> <!-- Featured Image -->
 <div > <img src="https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/24/c1/3f/24c13fd6-2c9c-18ea-da6a-991498bbf8d6/5065002176219.png/1200x1200bb.jpg" alt="Lean Low - Out Of Rhythm" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="480" src="https://www.youtube.com/embed/X2KYWGlNsis" title="Lean Low - Out Of Rhythm (feat. Jaydonclover)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "X2KYWGlNsis" >}}
 </div> <!-- Song Information -->
 <div > <p><em>Out Of Rhythm</em> features a unique collaboration between Lean Low and Jaydonclover, blending experimental R&B with an infectious groove.</p> <p><strong>Updated on November 21, 2024</strong></p>
 </div> <!-- Footer Links -->

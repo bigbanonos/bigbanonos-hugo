@@ -7,7 +7,7 @@ layout: post
 <p >Updated May 20, 2016, with "Pop See Ko" by Koo Koo. This fun and energetic kids' hip hop track from <em>Cafetorium Songs, Vol. 1</em> is a favorite for all ages, bringing joy and movement to listeners everywhere.</p> <!-- Featured Image -->
 <div > <img src="https://i.ytimg.com/vi/OPLWyZMRNn0/maxresdefault.jpg" alt="Koo Koo - Pop See Ko" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/OPLWyZMRNn0" title="Koo Koo - Pop See Ko" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "OPLWyZMRNn0" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Pop See Ko"</em> by Koo Koo is a lively hip hop track for kids that captures the playful and interactive spirit of childrenâ€™s music. Featured on the album <em>Cafetorium Songs, Vol. 1</em>, itâ€™s a delightful anthem that gets everyone dancing.</p>
 </div> <!-- Footer Links -->

@@ -7,7 +7,7 @@ layout: post
 <p >Updated November 6, 2015, with BigBanonos' favorite song by Bill Ryder-Jones, "Catharine and Huskisson." Released under Domino Recording Co, this track is a reflective gem from his album *West Kirby County Primary*. Watch the video and see more details below:</p> <!-- Featured Image -->
 <div > <img src="https://www.sunburnsout.com/wp-content/uploads/2015/11/bill-ryder-jones-Catharine-and-Huskisson.jpg" alt="Bill Ryder-Jones - Catharine and Huskisson" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/EELxIqztYwY" title="Catharine and Huskisson - Bill Ryder-Jones" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "EELxIqztYwY" >}}
 </div> <!-- Song Information -->
 <div > <p>"Catharine and Huskisson" by Bill Ryder-Jones is a poignant track blending liverpool indie and solo wave influences. Released on November 6, 2015, as part of the album *West Kirby County Primary* under Domino Recording Co, this 4:01-long song captivates with its introspective lyrics and emotive melody.</p>
 </div> <!-- Footer Links -->

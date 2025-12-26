@@ -14,7 +14,7 @@ Last updated August 15, 2025 with **"Imaginary Playerz"** from the upcoming albu
 
 ## 🎵 Imaginary Playerz — Atlantic Records (2025)  
 Official Music Video:  
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/cg2MY3F2iAk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>  
+{{< youtube "cg2MY3F2iAk" >}}  
 
 Cardi B drops her newest single ahead of her 2025 album *Am I The Drama?* due September 19.  
 Production credits span Greece, Paris, and NYC — reflecting the scale of Cardi’s global rollout.  
@@ -59,7 +59,7 @@ Production credits span Greece, Paris, and NYC — reflecting the scale of Cardi
 ## 🎧 Playlist  
 BigBanonos Cardi B Essentials  
 
-<iframe src="https://open.spotify.com/embed/playlist/5LefC57emh5ifUUnEMoCiS?utm_source=generator" width="100%" height="352" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>  
+{{< youtube "embed" >}}  
 
 ---
 

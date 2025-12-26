@@ -7,7 +7,7 @@ layout: post
 <p >Updated September 10, 2021, with "Nested" from <em>K Bay</em>. Immerse yourself in the unique sounds of Matthew E. White in the playlist below!</p> <!-- Featured Image -->
 <div > <img src="https://i.ytimg.com/vi/co4krl2xge0/maxresdefault.jpg" alt="Matthew E. White" />
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/4YgVk3gHRyXUaButW7MsSQ?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <div > <p><strong>"Nested"</strong><br> Genre: Rock<br> Album: <em>K Bay</em><br> Release Date: September 10, 2021<br> Label: Domino Recording Co</p>
 </div> <!-- Footer Links -->

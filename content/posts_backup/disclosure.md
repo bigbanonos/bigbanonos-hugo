@@ -4,9 +4,9 @@ layout: post
 ---
 <p >Tags: <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Disclosure</h1> <!-- Featured Image -->
-<div > <img src="https://i.scdn.co/image/ab676161000051743faf416d3be99d63fec18baa" alt="Disclosure">
+<div > {{< img-lite src="https://i.scdn.co/image/ab676161000051743faf416d3be99d63fec18baa" alt="Disclosure" >}}
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/42Upuj1Nu7OjOptYvGSWQU?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Introductory Text -->
 <p >Disclosure consistently sets the dancefloor ablaze with their vibrant EDM and house tracks. From "Where You Come From" to their collaborations like "You & Me - Flume Remix," BigBanonos celebrates their genre-defining hits.</p> <!-- Song Highlights -->
 <div > <p>BigBanonos' standout picks:</p> <ol> <li><strong>Where You Come From</strong> | <em>Where You Come From</em> | Released: August 24, 2018 | Universal-Island Records Ltd.</li> <li><strong>When A Fire Starts To Burn</strong> | <em>Settle (Deluxe Version)</em> | Released: January 1, 2013 | Universal Music Group</li> <li><strong>You & Me - Flume Remix</strong> (feat. Eliza Doolittle) | <em>Settle (The Remixes)</em> | Released: June 11, 2013 | Universal-Island Records Ltd.</li> <li><strong>Waterfall</strong> (feat. RAYE) | <em>Waterfall</em> | Released: March 22, 2022 | Apollo Records</li> <li><strong>Waterfall - TOKiMONSTA Remix</strong> (feat. RAYE, TOKiMONSTA) | <em>Waterfall (TOKiMONSTA Remix)</em> | Released: July 15, 2022 | Apollo Records</li> </ol>

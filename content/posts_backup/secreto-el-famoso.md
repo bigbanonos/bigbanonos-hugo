@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Vamos Amanecer" by Secreto El Famoso Biberon, from the album *Vamos Amanecer*, released on July 18, 2018, by Humildad Records.</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d0000b2735fe4b941c64cd64912d20a6c" alt="Secreto El Famoso Biberon - Vamos Amanecer" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/z5zpzYikao4" title="Secreto El Famoso Biberon - Vamos Amanecer (Video Oficial)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "z5zpzYikao4" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Vamos Amanecer"</em> by Secreto El Famoso Biberon is a track from the album *Vamos Amanecer*, released on July 18, 2018. The song blends dembow with rap dominicano, capturing the essence of Latin urban music.</p>
 </div> <!-- Footer Links -->

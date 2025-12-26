@@ -7,7 +7,7 @@ layout: post
 <p >Updated June 13, 2019, with "Molly Go Down" by Octavian. This track from the album <em>Endorphins</em>, released under Black Butter, blends Afroswing with UK alternative hip hop, showcasing Octavianâ€™s signature sound and dynamic flow.</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d00001e024c1ec579e8b37fab31036f10" alt="Octavian - Molly Go Down" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/lRZIQwe8tt0" title="OCTAVIAN - MOLLY GO DOWN [432HZ]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "lRZIQwe8tt0" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Molly Go Down"</em> by Octavian is an energetic track from the album <em>Endorphins</em>, blending Afroswing with UK hip hop influences. Released under Black Butter, this song highlights Octavianâ€™s unique fusion of genres, capturing the essence of the London rap scene.</p>
 </div> <!-- Footer Links -->

@@ -6,7 +6,7 @@ layout: post
 <p >Patti Smithâ€™s raw energy and poetic lyrics have defined an era. Explore her influential tracks below!</p> <!-- Featured Image -->
 <div > <img src="https://faroutmagazine.co.uk/static/uploads/1/2018/01/Patti-Smiths-punk-cover-of-the-Velvet-Underground-song-Pale-Blue-Eyes-in-1976.jpg" alt="Patti Smith" />
 </div> <!-- Spotify Playlist Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/0UsWhbm0hRK5AbM6qhv6D6?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"We Three"</em> from *Easter* (1978) captures her unyielding spirit.</p> <p><em>"Redondo Beach"</em> and <em>"Land: Horses / Land of a Thousand Dances / La Mer(de)"</em> from *Horses* (Legacy Edition, 1975) showcase her poetic brilliance and enduring influence.</p> <p><em>"Piss Factory"</em> (1974) stands as an early testament to her rebellious artistry and raw punk energy.</p>
 </div> <!-- Footer Links -->

@@ -7,7 +7,7 @@ layout: post
 <p >Updated March 16, 2015, with "I'm a Ruin" by MARINA. This emotional track from the album <em>Froot</em>, released under Neon Gold / Elektra, blends shimmering pop with introspective lyrics, showcasing MARINAâ€™s signature style in UK alternative pop.</p> <!-- Featured Image -->
 <div > <img src="https://i.ytimg.com/vi/ZT_skmohD-c/maxresdefault.jpg" alt="MARINA - I'm a Ruin" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/ZT_skmohD-c" title="MARINA AND THE DIAMONDS - Iâ€™m A Ruin [Official Music Video]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "ZT_skmohD-c" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"I'm a Ruin"</em> by MARINA is a poignant and elegant track that explores themes of vulnerability and self-reflection. From the critically acclaimed album <em>Froot</em>, this song combines heartfelt vocals with lush production, solidifying MARINAâ€™s place in UK alternative pop.</p>
 </div> <!-- Footer Links -->

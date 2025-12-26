@@ -5,11 +5,11 @@ layout: post
 <div class="post-title"> <h1>BigBanonos' Favorite Songs by Tenor Saw</h1>
 </div>
 <p>Updated September 27, 2013, with "Pumpkin Belly" from the compilation <i>Reggae Vibration Massive Hits</i>, highlighted in the playlist below:</p>
-<div class="post-image"> <img src="https://www.dancehallmag.com/assets/2023/12/Tenor-Saw-Toronto-1985-Beth-Lesser-1200x800.jpg" alt="Tenor Saw Toronto 1985">
+<div class="post-image"> {{< img-lite src="https://www.dancehallmag.com/assets/2023/12/Tenor-Saw-Toronto-1985-Beth-Lesser-1200x800.jpg" alt="Tenor Saw Toronto 1985" >}}
 </div>
 <p>Tenor Saw is a legend of old-school dancehall and roots reggae. Iconic tracks like "Pumpkin Belly," "Ring The Alarm," and "Rub-A-Dub Market" cemented his legacy as one of the pioneers of the genre. Released across various albums and compilations, his songs remain timeless classics in the reggae world.</p>
 <p>Listen to the playlist below to experience these tracks and more:</p>
-<div class="spotify-embed"> <iframe src="https://open.spotify.com/embed/playlist/0PNj09WAS23knHrWZCMldN?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div class="spotify-embed"> {{< youtube "embed" >}}
 </div>
 <p>Tracks featured:</p>
 <ul> <li>"Pumpkin Belly" â€“ <i>Reggae Vibration Massive Hits</i> (September 27, 2013, Roots and Culture)</li> <li>"Ring The Alarm" â€“ <i>Dancehall 101 - Vol. 3</i> (August 27, 2002, VP Records)</li> <li>"Roll Call" â€“ <i>Fever</i> (1985, Tafari Records)</li> <li>"Rub-A-Dub Market" â€“ <i>Fever</i> (1985, Tafari Records)</li>

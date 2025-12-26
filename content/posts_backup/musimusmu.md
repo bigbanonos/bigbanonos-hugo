@@ -7,7 +7,7 @@ layout: post
 <p >Updated March 17, 2015, with "Need" by musimusmu. This track stands out on the album <em>Ghost Modern</em>, highlighting the artist's skillful blend of bay area indie, chillwave, and shimmer pop.</p> <!-- Featured Image -->
 <div > <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Mike_Deni_and_Geographer_2009.jpg" alt="musimusmu - Need" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/aDAowqQ7tHo" title="Geographer - 'Need'" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "aDAowqQ7tHo" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Need"</em> offers an immersive journey through lush indietronica and chillwave sounds. Featured on the album <em>Ghost Modern</em>, released on March 17, 2015, this song captures musimusmuâ€™s innovative style in the indie music scene.</p>
 </div> <!-- Footer Links -->

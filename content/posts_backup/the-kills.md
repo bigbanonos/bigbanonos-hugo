@@ -7,7 +7,7 @@ layout: post
 <p >Updated May 3, 2011, with "Future Starts Slow" from <em>Blood Pressures</em>. Dive into the gritty indie rock of The Kills in the playlist below!</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616100005174dc72312190b3742e1ff2783a" alt="The Kills" />
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/4kdxfLP9ndj0XonKy7dAC8?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <div > <p><strong>"Future Starts Slow"</strong><br> Genre: Rock, Blues, Pop<br> Album: <em>Blood Pressures</em><br> Release Date: May 3, 2011<br> Label: Domino Recording Co</p> <p><strong>"No Wow"</strong><br> Genre: Rock, Blues, Pop<br> Album: <em>No Wow</em><br> Release Date: February 19, 2005<br> Label: Domino Recording Co</p> <p><strong>"Cat Claw"</strong><br> Genre: Rock, Blues, Pop<br> Album: <em>Keep On Your Mean Side</em><br> Release Date: February 1, 2003<br> Label: Domino Recording Co</p>
 </div> <!-- Footer Links -->

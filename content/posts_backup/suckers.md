@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Black Sheep" by Suckers, a 2010 gem blending baroque pop with Brooklyn indie charm. This track from *Wild Smile* is an unforgettable favorite.</p> <!-- Featured Image -->
 <div > <img src="https://i.ytimg.com/vi/2_NuxaKBMIg/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDTfnSHbK6CF69eK3vea3FBoeXUQQ" alt="Suckers - Black Sheep" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="733" height="480" src="https://www.youtube.com/embed/i5dQ4AVCan8" title="Suckers - "Black Sheep" (Official Music Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "i5dQ4AVCan8" >}}
 </div> <!-- Footer Links -->
 <div > <p>For more updates, visit <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Also, check out our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a> channels for more exclusive content!</p>
 </div> <!-- Tags -->

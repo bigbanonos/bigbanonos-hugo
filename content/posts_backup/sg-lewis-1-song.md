@@ -2,7 +2,7 @@
 title: "sg lewis 1 song"
 layout: post
 ---
-<iframe frameborder="0" height="360" src="https://youtube.com/embed/A0fsoHX8f2Y" width="480"></iframe><h2><ol><li>Time [2021]</li></ol></h2>
+{{< youtube "A0fsoHX8f2Y" >}}<h2><ol><li>Time [2021]</li></ol></h2>
 
 <!--Subscribe and Playlist Links-->
 <div>

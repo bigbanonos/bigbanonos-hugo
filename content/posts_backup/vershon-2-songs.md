@@ -3,8 +3,8 @@ title: "vershon 2 songs"
 layout: post
 ---
 <h1>BigBanonos Favorite Songs by Vershon</h1>
-<img src="https://i.ytimg.com/vi/bzXCEvUdCBw/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGH8gFigTMA8=&rs=AOn4CLCViFQl2Ra6WsVrJwatQVgkeHEEMw" alt="Vershon"> <p>Vershon's unique take on dancehall blends traditional rhythms with contemporary flair. Here are BigBanonos' favorite tracks from Vershon:</p> <ol> <li><strong>Top Class</strong> (feat. Krysie) | <em>Top Class</em> | Released: 2019-06-28 | Warriors Musick Productions - Johnny Wonder</li> <li><strong>On & Off Switch</strong> (feat. One Time Music) | <em>on & Off Switch</em> | Released: 2019-01-08 | One Time Music - Sonovic Music</li>
-</ol> <div> <iframe src="https://open.spotify.com/embed/playlist/6SrVAEfqUePgORiEYtd11N?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+{{< img-lite src="https://i.ytimg.com/vi/bzXCEvUdCBw/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGH8gFigTMA8=&rs=AOn4CLCViFQl2Ra6WsVrJwatQVgkeHEEMw" alt="Vershon" >}} <p>Vershon's unique take on dancehall blends traditional rhythms with contemporary flair. Here are BigBanonos' favorite tracks from Vershon:</p> <ol> <li><strong>Top Class</strong> (feat. Krysie) | <em>Top Class</em> | Released: 2019-06-28 | Warriors Musick Productions - Johnny Wonder</li> <li><strong>On & Off Switch</strong> (feat. One Time Music) | <em>on & Off Switch</em> | Released: 2019-01-08 | One Time Music - Sonovic Music</li>
+</ol> <div> {{< youtube "embed" >}}
 </div> <p><em>First posted by BigBanonos - <a href="https://bigbanonos.blogspot.com/">https://bigbanonos.blogspot.com/</a></em></p>
 <p><em>Last updated November 15, 2024</em></p>
 <p>Follow BigBanonos on <a href="https://www.youtube.com/@BigBanonos">YouTube</a> and <a href="https://x.com/bigbanonos">Twitter</a> for more music content.</p>

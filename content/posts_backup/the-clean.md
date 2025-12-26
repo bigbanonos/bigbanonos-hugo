@@ -5,14 +5,14 @@ layout: post
 <!-- Title of the Post -->
 <h1>BigBanonos' Top Songs by The Clean</h1> <!-- Introductory Text -->
 <p>The Clean, pioneers of the Dunedin Sound, captivated listeners with their lo-fi, indie aesthetic. With classics like "Anything Could Happen" and their iconic single "Tally Ho," their influence continues to resonate in indie rock circles.</p> <!-- Featured Image -->
-<div> <img src="https://i.scdn.co/image/b3fd8796c9ea521980ddb0d068cfd115984eba88" alt="The Clean">
+<div> {{< img-lite src="https://i.scdn.co/image/b3fd8796c9ea521980ddb0d068cfd115984eba88" alt="The Clean" >}}
 </div> <!-- Spotify Embed -->
-<div> <iframe src="https://open.spotify.com/embed/playlist/0yBHUUx81djs90oZvBM7w6?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div> {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <h3>Top Songs:</h3>
 <ul> <li><strong>Anything Could Happen</strong> | <em>Anthology</em> | Released: 2003-01-21 | Label: Merge Records | Genres: Dunedin Indie, Dunedin Sound, Lo-Fi</li> <li><strong>Tally Ho</strong> | Released: 1981</li> <li><strong>End Of My Dream</strong> | Released: 1983</li>
 </ul> <!-- Additional YouTube Embed -->
-<div> <h3>Featured Video:</h3> <iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/QM-8PtnjPvQ?list=PLtuNtuTatqI24x7AcXCLziZzXB76tr0g4" width="100%"></iframe>
+<div> <h3>Featured Video:</h3> {{< youtube "QM-8PtnjPvQ" >}}
 </div> <!-- Footer Links -->
 <hr />
 <p>For more updates, visit <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Also, check out our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> channel and follow us on <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a> for more exclusive content!</p> <!-- Tags -->

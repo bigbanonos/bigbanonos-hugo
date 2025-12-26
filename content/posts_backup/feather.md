@@ -4,10 +4,10 @@ layout: post
 ---
 <h3>BigBanonos Favorite Song by Feather</h3>
 <p>Updated December 13, 2024</p> <!-- Featured Image -->
-<div > <a href="https://i.scdn.co/image/ab67616d00001e028e8d88bc9ce81d1fbf6df923" target="_blank"> <img src="https://i.scdn.co/image/ab67616d00001e028e8d88bc9ce81d1fbf6df923" alt="Feather - Deep In Remix with Jeremih"> </a>
+<div > <a href="https://i.scdn.co/image/ab67616d00001e028e8d88bc9ce81d1fbf6df923" target="_blank"> {{< img-lite src="https://i.scdn.co/image/ab67616d00001e028e8d88bc9ce81d1fbf6df923" alt="Feather - Deep In Remix with Jeremih" >}} </a>
 </div> <!-- YouTube Video Embed -->
 <h4>Watch the video for "Deep In (Remix)" with Jeremih:</h4>
-<div > <iframe width="824" height="618" src="https://www.youtube.com/embed/pbt1vPn4L90" title="Feather & Jeremih - Deep In (Remix) [Official Audio]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "pbt1vPn4L90" >}}
 </div> <hr />
 <p>For more updates, visit <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_blank">BigBanonos</a>. Also, check out our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> channel and follow us on <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a> for exclusive content!</p>
 

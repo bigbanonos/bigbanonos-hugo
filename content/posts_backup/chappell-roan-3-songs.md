@@ -4,7 +4,7 @@ layout: post
 ---
 <h2>BigBanonos' 3 Favorite Songs by Chappell Roan</h2> <!--Search Description-->
 <p>BigBanonos brings you Chappell Roan's top indie pop tracks, full of unique style and lyrical depth. Experience these favorite tracks in one playlist.</p> <!--Spotify Playlist Embed-->
-<iframe allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" allowfullscreen="" frameborder="0" height="352" loading="lazy" src="https://open.spotify.com/embed/playlist/7gki7838YXPBpEaa3kNKoL?utm_source=generator" width="100%"></iframe> <!--Song Listings-->
+{{< youtube "embed" >}} <!--Song Listings-->
 <ul> <li><strong>Red Wine Supernova</strong> - <em>Red Wine Supernova</em> - 2023-05-17</li> <li><strong>Casual</strong> - <em>Casual</em> - 2022-10-28</li> <li><strong>My Kink Is Karma</strong> - <em>My Kink Is Karma</em> - 2022-05-06</li>
 </ul> <!--Image-->
 <img alt="Chappell Roan" src="https://media.wbur.org/wp/2023/07/1-1-e1690481425878.jpg" />

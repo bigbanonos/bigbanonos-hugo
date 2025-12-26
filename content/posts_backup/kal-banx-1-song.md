@@ -2,7 +2,7 @@
 title: "kal banx 1 song"
 layout: post
 ---
-<iframe frameborder="0" height="360" src="https://youtube.com/embed/coCjYLzzJws?si=t5re98f_yi3GsSL6" width="480"></iframe><div><br /></div><div>(ft Smino & Buddy) HOP OUT CHO FEELINGS [2024]</div><div><br /></div><div class="separator" ><a href="https://i.ytimg.com/vi/coCjYLzzJws/maxresdefault.jpg" imageanchor="1"><img border="0" data-original-height="720" data-original-width="1280" height="720" src="https://i.ytimg.com/vi/coCjYLzzJws/maxresdefault.jpg" width="1280" /></a></div><br /><div><br /></div><div><br /></div><div><br /></div>
+{{< youtube "coCjYLzzJws" >}}<div><br /></div><div>(ft Smino & Buddy) HOP OUT CHO FEELINGS [2024]</div><div><br /></div><div class="separator" ><a href="https://i.ytimg.com/vi/coCjYLzzJws/maxresdefault.jpg" imageanchor="1"><img border="0" data-original-height="720" data-original-width="1280" height="720" src="https://i.ytimg.com/vi/coCjYLzzJws/maxresdefault.jpg" width="1280" /></a></div><br /><div><br /></div><div><br /></div><div><br /></div>
 
 <!--Subscribe and Playlist Links-->
 <div>

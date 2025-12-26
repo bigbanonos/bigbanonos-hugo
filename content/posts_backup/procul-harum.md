@@ -7,7 +7,7 @@ layout: post
 <p >Updated May 3, 2019, with "A Whiter Shade Of Pale" by Procol Harum. Originally released in 1967, this timeless classic from *Hits'n'Flips* blends art rock with a soulful, baroque-inspired melody that has captivated listeners for decades. Watch and listen below!</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d0000b2732c3bbeab9e49048e07945a8d" alt="Procol Harum - A Whiter Shade Of Pale" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="560" height="315" src="https://www.youtube.com/embed/St6jyEFe5WM" frameborder="0" allowfullscreen></iframe>
+<div > {{< youtube "St6jyEFe5WM" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"A Whiter Shade Of Pale"</em>, released in 1967 and re-released on May 3, 2019, under Fly Records, remains one of the most iconic tracks in rock history. Featured on *Hits'n'Flips*, the song's ethereal organ melody, haunting vocals, and poetic lyrics continue to resonate, making it a masterpiece of progressive and psychedelic rock.</p>
 </div> <!-- Footer Links -->

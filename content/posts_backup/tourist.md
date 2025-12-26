@@ -3,7 +3,7 @@ title: "tourist"
 layout: post
 ---
 <a href="http://stoneyroads.com/wp-content/uploads/2017/08/Screen-Shot-2017-08-24-at-10.35.25-am-480x320.png" imageanchor="1" ><img border="0" src="http://stoneyroads.com/wp-content/uploads/2017/08/Screen-Shot-2017-08-24-at-10.35.25-am-480x320.png" width="320" height="213" data-original-width="480" data-original-height="320" /></a><h6>*Updated w/ Official Music Video, Aug 23, 2017</h6>
-<iframe width="100%" height="500" src="https://www.youtube.com/embed/videoseries?list=PLtuNtuTatqI1bP87w23z5P_Mw7qiJCjzM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe><h3>(ft. Ardyn) We Stayed Up All Night</h3>
+{{< youtube "videoseries" >}}<h3>(ft. Ardyn) We Stayed Up All Night</h3>
 
 <!--Subscribe and Playlist Links-->
 <div>

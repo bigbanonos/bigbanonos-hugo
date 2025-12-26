@@ -7,7 +7,7 @@ layout: post
 <p >Updated January 1, 2001, with "50 Playaz Deep (Album Version - Edited)" by Drunken Master featuring Lola Damone. Originally released under *Universal (MT)*, this track is a classic example of early 2000s hip hop storytelling and collaboration.</p> <!-- Featured Image -->
 <div > <img src="https://vital.queenslibrary.org/vital/access/services/Thumbnail/aql:24820" alt="Drunken Master - 50 Playaz Deep" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/cuVS1P5HtzM" title="50 Ni**** Deep" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "cuVS1P5HtzM" >}}
 </div> <!-- Song Information -->
 <div > <p>"50 Playaz Deep" brings together the gritty lyricism of Drunken Master and Lola Damone's sharp delivery. This track stands out for its engaging narrative and beats that encapsulate the early 2000s hip hop vibe, featured on *FB Entertainment Presents: The Good Life*.</p>
 </div> <!-- Footer Links -->

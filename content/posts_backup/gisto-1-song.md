@@ -2,7 +2,7 @@
 title: "gisto 1 song"
 layout: post
 ---
-<iframe allowfullscreen="" frameborder="0" height="344" src="https://www.youtube.com/embed/4vCkTlglSRk" width="459"></iframe><br /><br />
+{{< youtube "4vCkTlglSRk" >}}<br /><br />
 <h3><ol><li>(ft. Gyptian)Ãƒâ€šÃ‚Â Move It That Way [2020]</li>
 </ol></h3>
 

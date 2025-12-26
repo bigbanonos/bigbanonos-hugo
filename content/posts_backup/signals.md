@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Spector" by Signals. This 2009 track from *True to These Times and Those Times, Too* showcases the band's innovative and dynamic sound. Watch the video below!</p> <!-- Featured Image -->
 <div > <img src="https://media.pitchfork.com/photos/5929fed0eb335119a49f06b0/1:1/w_450%2Cc_limit/d1818833.jpg" alt="Signals - Spector" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="560" height="315" src="https://www.youtube.com/embed/jQHSzEUQgLU" frameborder="0" allowfullscreen></iframe>
+<div > {{< youtube "jQHSzEUQgLU" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Spector"</em> by Signals is a standout from their 2009 release *True to These Times and Those Times, Too*, showcasing their ability to merge genres seamlessly.</p>
 </div> <!-- Footer Links -->

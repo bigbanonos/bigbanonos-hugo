@@ -7,7 +7,7 @@ layout: post
 <p >Updated January 17, 2025, with "Men Are Gettin' Scarce" from <em>Wanted: Joe Tex</em>. Feel the soulful rhythms of Joe Tex in the playlist below!</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d0000b2730ead67e243f8080c586ad6be" alt="Joe Tex" />
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/23rHbdBbxLnYiLGVHsdOty?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <div > <p><strong>"Men Are Gettin' Scarce"</strong><br> Genre: R&B<br> Album: <em>Wanted: Joe Tex</em><br> Release Date: March 24, 2014<br> Label: Red Bus Digital</p> <p><strong>"I GOTCHA"</strong><br> Genre: R&B<br> Album: <em>The Very Best of, Volume 2</em><br> Release Date: January 1, 1969<br> Label: Sony ATV</p>
 </div> <!-- Footer Links -->

@@ -7,9 +7,9 @@ layout: post
 <p >Updated June 18, 2018, with "Doesn't Matter (Remix)" featuring A$AP Ferg. This remix elevates Gallant's original alternative R&B hit with a dynamic hip-hop verse by A$AP Ferg, blending soulful vocals and rhythmic intensity.</p> <!-- Featured Image -->
 <div > <img src="https://www.billboard.com/wp-content/uploads/media/gallant-asap-ferg-doesnt-matter-remix-MV-vid-2018-billboard-1548.jpg?w=942&h=623&crop=1" alt="Gallant x A$AP Ferg - Doesn't Matter Remix" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/XFpGQfa7OAs" title="Gallant x A$AP Ferg - Doesn't Matter Remix (Official Video)" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "XFpGQfa7OAs" >}}
 </div>
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/-e-xXN-tcFU" title="Gallant - Doesn't Matter (Official Video)" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "-e-xXN-tcFU" >}}
 </div>
 <!-- Song Information -->
 <div > <p><em>"Doesn't Matter (Remix)"</em> pairs Gallant's emotive falsetto and alternative R&B style with A$AP Ferg's hard-hitting rap delivery. Released on June 18, 2018, under Mind of a Genius/Warner Records, this collaboration perfectly fuses genres, creating a track that resonates with fans of both R&B and hip-hop.</p>

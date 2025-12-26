@@ -3,11 +3,11 @@ title: "black francis frank black"
 layout: post
 ---
 <h1>BigBanonos' Favorite Songs by Black Francis</h1>
-<img src="https://www.bigissue.com/wp-content/uploads/2022/09/1533-YS_GettyImages-169243132.jpg" alt="Black Francis"> <p>BigBanonos celebrates the raw energy and brilliance of Black Francis. From his solo works to his time with Frank Black & The Catholics, this collection features some of the most electrifying alternative rock tracks.</p> <ol> <li><strong>Coastline</strong> - Album: <i>Show Me Your Tears</i>, Released: January 1, 2003</li> <li><strong>Stupid Me</strong> - Album: <i>Dog In The Sand</i>, Released: January 1, 2001</li> <li><strong>If It Takes All Night</strong> - Album: <i>Dog In The Sand</i>, Released: January 1, 2001</li> <li><strong>Lolita</strong> - Album: <i>Bluefinger</i>, Released: 2007</li> <li><strong>Serious Curious</strong> - Album: <i>Bluefinger</i>, Released: 2007</li>
-</ol> <div> <iframe src="https://open.spotify.com/embed/playlist/20D6qBIELhRR7CcMmDXKOO?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+{{< img-lite src="https://www.bigissue.com/wp-content/uploads/2022/09/1533-YS_GettyImages-169243132.jpg" alt="Black Francis" >}} <p>BigBanonos celebrates the raw energy and brilliance of Black Francis. From his solo works to his time with Frank Black & The Catholics, this collection features some of the most electrifying alternative rock tracks.</p> <ol> <li><strong>Coastline</strong> - Album: <i>Show Me Your Tears</i>, Released: January 1, 2003</li> <li><strong>Stupid Me</strong> - Album: <i>Dog In The Sand</i>, Released: January 1, 2001</li> <li><strong>If It Takes All Night</strong> - Album: <i>Dog In The Sand</i>, Released: January 1, 2001</li> <li><strong>Lolita</strong> - Album: <i>Bluefinger</i>, Released: 2007</li> <li><strong>Serious Curious</strong> - Album: <i>Bluefinger</i>, Released: 2007</li>
+</ol> <div> {{< youtube "embed" >}}
 </div>
 <h3>Cover of Love and Rockets "All In My Mind"</h3>
-<iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/BsZJh5vD_bI?list=PLtuNtuTatqI1oY-ZnO5J01Fxiy77W-ACc" width="560"></iframe>
+{{< youtube "BsZJh5vD_bI" >}}
 <p>first posted by <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_blank">https://bigbanonos.blogspot.com/</a></p> <div> <p>Explore more BigBanonos content: <a href="https://bigbanonos.blogspot.com/">Website</a> | <a href="https://www.youtube.com/@BigBanonos">YouTube</a> | <a href="https://x.com/bigbanonos">Twitter</a></p>
 </div> <!-- Tags -->
 <p>@blackfrancis,@frankblack,@frankblackandthecatholics</p>

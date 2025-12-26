@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Since I Met You Baby" by Sid Selvidge, live from the album *Live At Otherlands*, released on June 7, 2005, by Archer Records.</p> <!-- Featured Image -->
 <div > <img src="https://i0.wp.com/singout.org/wp-content/uploads/2013/05/sidselvidge2.jpg" alt="Sid Selvidge - Since I Met You Baby" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="601" src="https://www.youtube.com/embed/Skyu7dPtdn8" title="Since I Met You Baby" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "Skyu7dPtdn8" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Since I Met You Baby"</em> by Sid Selvidge is a live rendition from the album *Live At Otherlands*, showcasing Selvidgeâ€™s soulful performance. Released on June 7, 2005, the album captures the essence of his heartfelt blues and folk fusion.</p>
 </div> <!-- Footer Links -->

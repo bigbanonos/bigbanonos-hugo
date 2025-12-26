@@ -3,7 +3,7 @@ title: "tears for fears"
 layout: post
 ---
 #1980s <br />
-<iframe width="95%" height="315" src="https://www.youtube.com/embed/3gFl2OXySs8?list=PLtuNtuTatqI3ADcM_zLmgfpkLlcO5e9Pw" frameborder="0" allowfullscreen></iframe><br />
+{{< youtube "3gFl2OXySs8" >}}<br />
 Mad World 1983
 
 <!--Subscribe and Playlist Links-->

@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "If I Do It" by Tiffany Foxx, from the single *If I Do It*, released on February 23, 2018. This track brings a fresh take on St. Louis rap with a strong trap influence.</p> <!-- Featured Image -->
 <div > <img src="https://i.ytimg.com/vi/2xbuJwVgbIc/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCMIy0feIvReZ_umeue65zVAY6ZYw" alt="Tiffany Foxx - If I Do It" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="617" src="https://www.youtube.com/embed/DsDwHuTmM6E" title="Tiffany Foxx - If I Do It (Visuals)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "DsDwHuTmM6E" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"If I Do It"</em> by Tiffany Foxx is a powerful track blending St. Louis rap with trap elements. Released on February 23, 2018, it showcases Foxx's fierce delivery and unique style in the hip hop and R&B scene.</p>
 </div> <!-- Footer Links -->

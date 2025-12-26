@@ -6,8 +6,8 @@ layout: post
 </div> <p><em>BigBanonos</em> presents its selection of top tracks by Foxygen, capturing the band's unique blend of baroque pop, neo-psychedelic rock, and experimental pop sounds. Updated with a mix of classic and fan-favorite songs.</p> <h3>Selected Tracks</h3>
 <ol> <li><strong>No Destruction</strong> â€“ <em>We Are the 21st Century Ambassadors of Peace & Magic</em> (2013)</li> <li><strong>San Francisco</strong> â€“ <em>We Are the 21st Century Ambassadors of Peace & Magic</em> (2013)</li> <li><strong>Make It Known</strong> â€“ <em>Take The Kids Off Broadway</em> (2012)</li> <li><strong>Waitin' 4 U</strong> â€“ <em>Take The Kids Off Broadway</em> (2012)</li> <li><strong>Middle School Dance (Song For Richard Swift)</strong> â€“ <em>Take The Kids Off Broadway</em> (2012)</li> <li><strong>Oh Yeah</strong> â€“ <em>We Are the 21st Century Ambassadors of Peace & Magic</em> (2013)</li> <li><strong>Shuggie</strong> â€“ <em>We Are the 21st Century Ambassadors of Peace & Magic</em> (2013)</li>
 </ol> <p>Discover more from Foxygen on Spotify:</p>
-<iframe src="https://open.spotify.com/embed/playlist/6nkNdsFuHainH58ajwcFtw?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> <p>Watch the music video for "No Destruction" below:</p>
-<iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/QPmAO4xpQcE" width="560"></iframe> <hr />
+{{< youtube "embed" >}} <p>Watch the music video for "No Destruction" below:</p>
+{{< youtube "QPmAO4xpQcE" >}} <hr />
 <p><em>First posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
 
 

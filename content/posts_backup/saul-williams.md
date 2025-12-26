@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "List of Demands (Reparations)" by Saul Williams, from the album *Saul Williams*, released on September 21, 2004, by FADER Label.</p> <!-- Featured Image -->
 <div > <img src="https://i.ytimg.com/vi/zDMtaIcrfQ0/maxresdefault.jpg" alt="Saul Williams - List of Demands (Reparations)" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/zDMtaIcrfQ0" title="Saul Williams - List Of Demands(Reparations)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "zDMtaIcrfQ0" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"List of Demands (Reparations)"</em> by Saul Williams is a powerful track from the album *Saul Williams*, released on September 21, 2004. Known for its industrial hip hop sound and politically charged lyrics, it remains a standout in the genre of alternative and conscious hip hop.</p>
 </div> <!-- Footer Links -->

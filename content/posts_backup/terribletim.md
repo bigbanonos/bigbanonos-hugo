@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Brothermanbill" by TerribleTim, from the album *Terribletim Spreads Love*, released on October 16, 2007. This track is a comedic rock gem, delivering humor alongside its rock-infused beats.</p> <!-- Featured Image -->
 <div > <img src="https://images.genius.com/ed5e37019c6b01a497f31039bf890752.755x755x1.png" alt="TerribleTim - Brothermanbill" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="617" src="https://www.youtube.com/embed/6UQ-M6nLfLI" title="TerribleTim - Brothermanbill" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "6UQ-M6nLfLI" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Brothermanbill"</em> by TerribleTim is a fun, comedic rock track from the album *Terribletim Spreads Love*, bringing a lighthearted and energetic twist to the world of rock music.</p>
 </div> <!-- Footer Links -->

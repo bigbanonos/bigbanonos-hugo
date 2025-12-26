@@ -4,9 +4,9 @@ layout: post
 ---
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Chuck Berry</h1> <!-- Featured Image -->
-<div > <img src="https://www.billboard.com/wp-content/uploads/media/01-Chuck-Berry-performs-Saint-Louis-bb8-2017-a-billboard-1548.jpg?w=1024" alt="Chuck Berry">
+<div > {{< img-lite src="https://www.billboard.com/wp-content/uploads/media/01-Chuck-Berry-performs-Saint-Louis-bb8-2017-a-billboard-1548.jpg?w=1024" alt="Chuck Berry" >}}
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/5TBrgfSzDa93BfBTYMNl4m?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Introductory Text -->
 <p >Chuck Berry, a pioneer of rock-and-roll, captivates audiences with timeless tracks like "Little Queenie." Here are BigBanonos' top picks from the trailblazing legend.</p> <!-- Song Highlights -->
 <div > <p>BigBanonos' standout picks:</p> <ol> <li><strong>Little Queenie</strong> | <em>Berry Is On Top</em> | Released: July 1, 1959 | Geffen</li> </ol>

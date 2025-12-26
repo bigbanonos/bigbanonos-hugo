@@ -7,7 +7,7 @@ layout: post
 <p >Updated January 17, 2025, with "She Rides Wild Horses" from <em>She Rides Wild Horses</em>. Celebrate the classic country charm of Kenny Rogers in the playlist below!</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d0000b27392089ddbc4ebd1f4d7e85bdb" alt="Kenny Rogers" />
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/60yD05XBytStD1E4wbB7Wm?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <div > <p><strong>"She Rides Wild Horses"</strong><br> Genre: Pop, Country, Rock<br> Album: <em>She Rides Wild Horses</em><br> Release Date: May 11, 1999<br> Label: eOne Music</p> <p><strong>"Midsummer Nights"</strong><br> Genre: Pop, Country, Rock<br> Album: <em>Eyes That See In The Dark</em><br> Release Date: August 22, 1983<br> Label: EMI Music Nashville (ERN)</p>
 </div> <!-- Footer Links -->

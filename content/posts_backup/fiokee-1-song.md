@@ -2,7 +2,7 @@
 title: "fiokee 1 song"
 layout: post
 ---
-<iframe allowfullscreen="" frameborder="0" height="270" src="https://www.youtube.com/embed/xWx7m4D3DkU" width="480"></iframe><br /><br />
+{{< youtube "xWx7m4D3DkU" >}}<br /><br />
 <h3><ol><li>(ft.Ãƒâ€šÃ‚Â Teni, DJ Coublon) OSAN [2020]</li>
 </ol></h3>
 

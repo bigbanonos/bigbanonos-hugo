@@ -7,7 +7,7 @@ layout: post
 <p >Updated November 22, 2019, with BigBanonos' favorite track, "Mud" by Capolow. This West Coast banger from the album *Sandman* showcases Capolow's Oakland-rooted style and smooth westcoast flow.</p> <!-- Featured Image -->
 <div > <img src="https://townsquare.media/site/812/files/2020/03/capolow.jpg?w=780&q=75" alt="Capolow - Mud" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/e9tNRARuPmA" title="Capolow - MUD (OFFICIAL MUSIC VIDEO) | Dir. ShotBy806Nick" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "e9tNRARuPmA" >}}
 </div> <!-- Song Information -->
 <div > <p>"Mud" by Capolow is a standout track from the *Sandman* album, released on November 22, 2019, by Cinematic Music Group. With Cali rap vibes and Oakland hip hop influences, this track brings undeniable West Coast energy.</p>
 </div> <!-- Footer Links -->

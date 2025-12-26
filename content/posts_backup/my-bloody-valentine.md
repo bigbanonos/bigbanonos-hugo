@@ -7,7 +7,7 @@ layout: post
 <p >Updated November 4, 1991, with "Only Shallow" from <em>Loveless</em>. Discover the dreamlike shoegaze sound of My Bloody Valentine in the playlist below!</p> <!-- Featured Image -->
 <div > <img src="https://parqex.com/wp-content/uploads/My-Bloody-Valentine.jpg" alt="My Bloody Valentine" />
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/42dA5lfUe8FFarD02olESU?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <div > <p><strong>"Only Shallow"</strong><br> Genre: Rock, Pop<br> Album: <em>Loveless</em><br> Release Date: November 4, 1991<br> Label: Rhino/Warner Records</p>
 </div> <!-- Footer Links -->

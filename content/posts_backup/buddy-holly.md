@@ -4,9 +4,9 @@ layout: post
 ---
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Buddy Holly</h1> <!-- Featured Image -->
-<div > <img src="https://i.scdn.co/image/ab67616d00001e02c099cd3b29b67fa997eee513" alt="Buddy Holly">
+<div > {{< img-lite src="https://i.scdn.co/image/ab67616d00001e02c099cd3b29b67fa997eee513" alt="Buddy Holly" >}}
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/1zbSjiTTe3drquxoNpFID5?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Introductory Text -->
 <p >Buddy Holly's timeless rock-and-roll continues to inspire generations. From the energetic "Slippin' And Slidin'" to the poignant "Peggy Sue Got Married," here are BigBanonos' favorite picks from the legendary artist.</p> <!-- Song Highlights -->
 <div > <p>BigBanonos' standout picks:</p> <ol> <li><strong>Slippin' And Slidin' - Original</strong> | <em>Slippin' And Slidin'</em> | Released: January 1, 2012 | Verve Reissues</li> <li><strong>Peggy Sue Got Married - Single Version</strong> | <em>Raving On â€“ The Originals</em> | Released: January 1, 2011 | Strategic Marketing</li> </ol>

@@ -5,9 +5,9 @@ layout: post
 <!-- Title of the Post -->
 <h1>BigBanonos' Favorite Songs by George Clanton</h1> <!-- Introductory Text -->
 <p>George Clanton masterfully blends hypnagogic pop and vaporwave to create immersive sonic landscapes. Here are BigBanonos' top tracks:</p> <!-- Featured Image -->
-<div> <img src="https://i.scdn.co/image/ab6761610000e5ebc94ec048c28b12693d1297f9" alt="George Clanton">
+<div> {{< img-lite src="https://i.scdn.co/image/ab6761610000e5ebc94ec048c28b12693d1297f9" alt="George Clanton" >}}
 </div> <!-- Spotify Embed -->
-<div> <iframe src="https://open.spotify.com/embed/playlist/1g8oqKy0I53ccrEM1RD6ap?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div> {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <h3>Top Songs:</h3>
 <ul> <li><strong>King for a Day</strong> | <em>Crash Pad/King for a Day</em> | Released: 2019-09-27 | Label: 100% Electronica LLC | Genres: Hypnagogic Pop, Vaporwave</li> <li><strong>Dumb</strong> | <em>Slide</em> | Released: 2018-08-17 | Label: 100% Electronica | Genres: Hypnagogic Pop, Vaporwave</li>

@@ -2,7 +2,7 @@
 title: "boy pablo 1 song"
 layout: post
 ---
-<br /><div class="separator" ><iframe allowfullscreen="" class="BLOG_video_class" height="266" src="https://www.youtube.com/embed/HZ4bTlHjA_I" width="320" youtube-src-id="HZ4bTlHjA_I"></iframe></div><div class="separator" ><br /></div><div class="separator" ><ol><li>Hey Girl [2020]</li></ol></div>
+<br /><div class="separator" >{{< youtube "HZ4bTlHjA_I" >}}</div><div class="separator" ><br /></div><div class="separator" ><ol><li>Hey Girl [2020]</li></ol></div>
 
 <!--Subscribe and Playlist Links-->
 <div>

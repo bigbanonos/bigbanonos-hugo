@@ -7,7 +7,7 @@ layout: post
 <p >Updated September 20, 1994, with "Black Betty" from <em>Lead Belly's Last Sessions</em>. Dive into the blues legacy of Lead Belly in the playlist below!</p> <!-- Featured Image -->
 <div > <img src="https://cdn.britannica.com/69/2069-004-87429E14/Lead-Belly.jpg" alt="Lead Belly" />
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/2ysqxkY2wrRUeOFwirK6iX?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <div > <p><strong>"Black Betty"</strong><br> Genre: Blues<br> Album: <em>Lead Belly's Last Sessions</em><br> Release Date: September 20, 1994<br> Label: Smithsonian Folkways Recordings</p> <p><strong>"Where Did You Sleep Last Night"</strong><br> Genre: Blues<br> Album: <em>Tradition Masters Series</em><br> Release Date: May 7, 1959<br> Label: Everest Records</p> <p><strong>"Old Hannah"</strong><br> Genre: Blues<br> Album: <em>Leadbelly Live New York, 1947 & Austin, Texas, 1949</em><br> Release Date: 1949<br> Label: Document Records</p>
 </div> <!-- Footer Links -->

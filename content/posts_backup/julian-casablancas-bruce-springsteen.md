@@ -2,7 +2,7 @@
 title: "julian casablancas bruce springsteen"
 layout: post
 ---
-<h2>BigBanonos' Favorite Songs by Julian Casablancas</h2> <p><strong>Updated 2009, with "11th Dimension" from <em>Phrazes for the Young</em></strong></p> <img src="https://i.scdn.co/image/ab6761610000e5eb97357a72fc531a2c2d3ee47a" width="100%" alt="Julian Casablancas"> <p>Julian Casablancas brought a unique solo sound following his work with The Strokes. Below is BigBanonos' favorite song by Julian Casablancas.</p> <h3>"11th Dimension"</h3> <iframe width="685" height="385" src="https://www.youtube.com/embed/pl15PlIXHIk" title="Julian Casablancas - 11th Dimension" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> <hr /> <p><strong>Tags:</strong> @juliancasablancas</p> <hr /> <p><em>First posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+<h2>BigBanonos' Favorite Songs by Julian Casablancas</h2> <p><strong>Updated 2009, with "11th Dimension" from <em>Phrazes for the Young</em></strong></p> {{< img-lite src="https://i.scdn.co/image/ab6761610000e5eb97357a72fc531a2c2d3ee47a" alt="Julian Casablancas" >}} <p>Julian Casablancas brought a unique solo sound following his work with The Strokes. Below is BigBanonos' favorite song by Julian Casablancas.</p> <h3>"11th Dimension"</h3> {{< youtube "pl15PlIXHIk" >}} <hr /> <p><strong>Tags:</strong> @juliancasablancas</p> <hr /> <p><em>First posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
 
 
 <!--Subscribe and Playlist Links-->

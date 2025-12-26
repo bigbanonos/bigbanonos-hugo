@@ -7,7 +7,7 @@ layout: post
 <p >Updated November 9, 2018, with BigBanonos' favorite song by Bamson, "Pretty Looks," released under One Mission Entertainment. Watch the video and see more details below:</p> <!-- Featured Image -->
 <div > <img src="https://i.ytimg.com/vi/WHjxHU8J8bI/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAho6OHEOog7j5em0KuJzoCIKk1dA" alt="Bamson - Pretty Looks" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/MvJXOZ7kLVs" title="Bamson - Pretty Looks - October 2018" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "MvJXOZ7kLVs" >}}
 </div> <!-- Song Information -->
 <div > <p>"Pretty Looks" by Bamson is a smooth and captivating track that blends heartfelt lyrics with infectious rhythms. Released on November 9, 2018, under One Mission Entertainment, this 3:25-long song highlights Bamson's unique sound and artistic flair.</p>
 </div> <!-- Footer Links -->

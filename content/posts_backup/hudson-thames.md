@@ -7,7 +7,7 @@ layout: post
 <p >Updated December 11, 2015, with "How I Want Ya (Dawin Remix)" by Hudson Thames, Hailee Steinfeld, and Dawin. This high-energy pop anthem perfectly blends NYC and LA vibes with an electrifying remix by Dawin.</p> <!-- Featured Image -->
 <div > <img src="https://static.wikia.nocookie.net/disney/images/0/0d/Hudson_Thames.jpg/revision/latest?cb=20210908181958" alt="Hudson Thames - How I Want Ya (Dawin Remix)" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/VWo_-3yMtIA" title="Hudson Thames - How I Want Ya (Dawin Remix - Audio) ft. Hailee Steinfeld" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "VWo_-3yMtIA" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"How I Want Ya (Dawin Remix)"</em>, released on December 11, 2015, is a standout track from Hudson Thames featuring Hailee Steinfeld and remixed by Dawin. This remix elevates the original pop tune with vibrant beats and an infectious rhythm that captures the essence of contemporary pop.</p>
 </div> <!-- Footer Links -->

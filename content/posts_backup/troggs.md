@@ -5,8 +5,8 @@ layout: post
 <h1>BigBanonos Top Songs by The Troggs</h1>
 <div class="separator"> <a href="https://static01.nyt.com/images/2013/02/06/arts/PRESLEY-obit/PRESLEY-obit-superJumbo.jpg" > <img alt="The Troggs" border="0" width="320" data-original-height="480" data-original-width="640" src="https://static01.nyt.com/images/2013/02/06/arts/PRESLEY-obit/PRESLEY-obit-superJumbo.jpg"/> </a>
 </div>
-<p>The Troggs were key players in the British Invasion, delivering timeless rock hits with raw energy and charm. Here are BigBanonos' favorite tracks:</p> <ol> <li><strong>Love Is All Around</strong> | Released: 1967</li> <li><strong>I Can't Control Myself</strong> | Released: 1966</li> </ol> <div> <iframe src="https://open.spotify.com/embed/playlist/76g0V5yCcHnNBSL46AE2EV?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-</div> <div> <iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/rzHpGjvRgTc?list=PLtuNtuTatqI0xR9G9CMK3pjHMkHpZjgGz" width="95%"></iframe><br />
+<p>The Troggs were key players in the British Invasion, delivering timeless rock hits with raw energy and charm. Here are BigBanonos' favorite tracks:</p> <ol> <li><strong>Love Is All Around</strong> | Released: 1967</li> <li><strong>I Can't Control Myself</strong> | Released: 1966</li> </ol> <div> {{< youtube "embed" >}}
+</div> <div> {{< youtube "rzHpGjvRgTc" >}}<br />
 </div> <p>Explore more on <a href="https://bigbanonos.blogspot.com/">BigBanonos</a>, or check out BigBanonos on <a href="https://www.youtube.com/@BigBanonos">YouTube</a> and <a href="https://x.com/bigbanonos">Twitter</a>.</p> <p>Tags: @thetroggs</p>
 
 

@@ -7,7 +7,7 @@ layout: post
 <p >Updated September 12, 2001, with "Slighted By Mirah" by Microphones. This track from the album *Blood* showcases the band's signature blend of indie rock, lo-fi, and noise pop, creating an immersive and introspective sound. Watch the video below!</p> <!-- Featured Image -->
 <div > <img src="https://f4.bcbits.com/img/a1386266170_10.jpg" alt="Microphones - Slighted By Mirah" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="733" height="480" src="https://www.youtube.com/embed/lzyHeOONoyA" title="Slighted By Mirah" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "lzyHeOONoyA" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Slighted By Mirah"</em>, released on September 12, 2001, under P.W. Elverum & Sun, is a standout track from the Microphones' album *Blood*. With its lo-fi textures, noise pop influences, and shoegaze aesthetics, the song captures the essence of the Olympia indie rock scene and leaves a lasting emotional impact.</p>
 </div> <!-- Footer Links -->

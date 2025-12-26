@@ -7,7 +7,7 @@ layout: post
 <p >Updated November 13, 2015, with "Lord Willin'" by Logic. This introspective track from the album <em>The Incredible True Story</em>, released under Def Jam Recordings, showcases Logic's mastery of conscious hip hop and pop rap.</p> <!-- Featured Image -->
 <div > <img src="https://img.merchbar.com/product/crop/1616/348473/AHNI22-1713225863-1024x1024-1713225842-true.jpg?q=40&fit=crop&crop=faces,entropy&w=1600&h=900" alt="Logic - Lord Willin'" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/cqTrC1fEnUk" title="Logic - Lord Willin' (Official Audio)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "cqTrC1fEnUk" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Lord Willin'"</em> by Logic is a standout track that delves into themes of ambition and self-reflection. With its compelling lyricism and smooth beats, this track from <em>The Incredible True Story</em> highlights Logic's blend of conscious hip hop and pop rap, cementing his place in modern hip hop.</p>
 </div> <!-- Footer Links -->

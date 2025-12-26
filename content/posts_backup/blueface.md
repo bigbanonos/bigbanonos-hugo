@@ -7,7 +7,7 @@ layout: post
 <p >Updated October 11, 2019, with BigBanonos' favorite track, "Close Up," featuring Blueface and Jeremih. Released under Cash Money Records Inc., this track is a perfect fusion of hip hop and R&B. Watch the video and see more details below:</p> <!-- Featured Image -->
 <div > <img src="https://i.ytimg.com/vi/-8hg_ftztI0/maxresdefault.jpg" alt="Blueface and Jeremih - Close Up" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/-8hg_ftztI0" title="Blueface - Close Up ft. Jeremih (Official Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "-8hg_ftztI0" >}}
 </div> <!-- Song Information -->
 <div > <p>"Close Up" by Blueface and Jeremih is a slick, melodic track that merges the best of cali rap and R&B influences. Released on October 11, 2019, under Cash Money Records Inc., this 2:55-long song is a standout for its smooth production and catchy hooks.</p>
 </div> <!-- Footer Links -->

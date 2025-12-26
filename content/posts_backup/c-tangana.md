@@ -5,7 +5,7 @@ layout: post
 <div class="separator" >
 <a href="https://www.musicaroots.com/wp-content/uploads/2019/11/C.Tangana.jpg" imageanchor="1"><img border="0" data-original-height="450" data-original-width="800" height="180" src="https://www.musicaroots.com/wp-content/uploads/2019/11/C.Tangana.jpg" width="320" /></a></div>
 <br />
-<iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/videoseries?list=PLtuNtuTatqI0v4a0o3E1uFAz8igaX3Lif" width="560"></iframe> <div>
+{{< youtube "videoseries" >}} <div>
 <ol>
 <li>Nunco Estoy [2020]</li>
 </ol>

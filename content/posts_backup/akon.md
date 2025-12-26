@@ -4,9 +4,9 @@ layout: post
 ---
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Akon</h1> <!-- Featured Image -->
-<div > <img src="https://i.scdn.co/image/ab6761610000e5eb3b6ab4190c7435238735b59d" alt="Akon">
+<div > {{< img-lite src="https://i.scdn.co/image/ab6761610000e5eb3b6ab4190c7435238735b59d" alt="Akon" >}}
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/0uvjJFVl8CW9ZfwPkTor3a?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Introductory Text -->
 <p >Akonâ€™s smooth vocals and infectious hooks make his tracks unforgettable. From "Donâ€™t Matter" to "I Wanna Love You," here are BigBanonos' favorite tracks by the global star.</p> <!-- Song Highlights -->
 <div > <p>BigBanonos' standout picks:</p> <ol> <li><strong>Donâ€™t Matter</strong> | <em>Konvicted</em> | Konvict/Upfront/SRC/Universal Records</li> <li><strong>I Wanna Love You</strong> (ft. Snoop Dogg) | <em>Konvicted</em> | Konvict/Upfront/SRC/Universal Records</li> </ol>

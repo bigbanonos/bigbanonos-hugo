@@ -4,9 +4,9 @@ layout: post
 ---
 <!-- Title of the Post -->
 <h1>BigBanonosâ€™ Favorite Songs by Ought</h1> <!-- Featured Image -->
-<div> <img src="https://i.scdn.co/image/ab6761610000e5ebb6dd67b20cbb1d16fbbf6403" alt="Ought">
+<div> {{< img-lite src="https://i.scdn.co/image/ab6761610000e5ebb6dd67b20cbb1d16fbbf6403" alt="Ought" >}}
 </div> <!-- Spotify Embed -->
-<div> <iframe src="https://open.spotify.com/embed/playlist/26HDrkC2c7EpSPhkfalHN6?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div> {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <h3>Top Songs by Ought:</h3>
 <ol> <li><strong>Desire</strong> | Album: <em>Desire</em> | Released: February 6, 2018 | Label: Merge Records</li> <li><strong>Habit</strong> | Album: <em>More Than Any Other Day</em> | Released: April 29, 2014 | Label: Constellation</li>

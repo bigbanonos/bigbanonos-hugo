@@ -4,9 +4,9 @@ layout: post
 ---
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Dion</h1> <!-- Featured Image -->
-<div > <img src="https://i.scdn.co/image/ab67616d0000b273860a3b044d1715635ad2bad7" alt="Dion">
+<div > {{< img-lite src="https://i.scdn.co/image/ab67616d0000b273860a3b044d1715635ad2bad7" alt="Dion" >}}
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/3ZSsnonldEaHoyLP6TRWqM?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Introductory Text -->
 <p >Dion, a rock-and-roll legend, brings timeless charm to tracks like "Drip Drop" and "Runaround Sue." BigBanonos celebrates his classics that continue to captivate fans of doo-wop and rockabilly.</p> <!-- Song Highlights -->
 <div > <p>BigBanonos' standout picks:</p> <ol> <li><strong>Drip Drop</strong> | <em>The Essential Dion</em> | Released: April 18, 2005 | Columbia/Legacy</li> <li><strong>Runaround Sue</strong> | <em>Runaround Sue</em> | Released: 1961 | The Right Stuff</li> </ol>

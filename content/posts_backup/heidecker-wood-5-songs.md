@@ -4,7 +4,7 @@ layout: post
 ---
 <h1>BigBanonos 5 Favorite Songs by Heidecker & Wood</h1>
 <img alt="Heidecker & Wood" src="https://f4.bcbits.com/img/0013064496_10.jpg" /> <p>This collection of BigBanonos' favorite tracks by Heidecker & Wood highlights the duo's eclectic sound, with a mix of nostalgic and modern vibes. These songs showcase their unique approach to storytelling and melody.</p> <ol> <li><strong>Next Ten Years</strong> | <em>Some Things Never Stay The Same</em> | Little Record Company | Released: December 10, 2013</li> <li><strong>This Is Life</strong> | <em>Some Things Never Stay The Same</em> | Little Record Company | Released: December 10, 2013</li> <li><strong>Wedding Song</strong> | <em>Starting From Nowhere</em> | Little Record Company | Released: March 15, 2011</li> <li><strong>Weatherman</strong> | <em>Starting From Nowhere</em> | Little Record Company | Released: March 15, 2011</li> <li><strong>Right To The Minute</strong> | <em>Starting From Nowhere</em> | Little Record Company | Released: March 15, 2011</li>
-</ol> <div> <iframe allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" allowfullscreen="" frameborder="0" height="352" loading="lazy" src="https://open.spotify.com/embed/playlist/1ARieNGUJvFNNZfGIyG3yq?utm_source=generator" width="100%"></iframe>
+</ol> <div> {{< youtube "embed" >}}
 </div> <p>first posted by <a href="https://bigbanonos.blogspot.com/">https://bigbanonos.blogspot.com/</a></p> <div> <p>Explore more BigBanonos content: <a href="https://bigbanonos.blogspot.com/">Website</a> | <a href="https://www.youtube.com/@BigBanonos">YouTube</a> | <a href="https://x.com/bigbanonos">Twitter</a></p>
 </div> <!--Tags-->
 <p>@heideckerandwood</p>

@@ -3,12 +3,12 @@ title: "angry angles"
 layout: post
 ---
 <h1>BigBanonos Favorite Songs by Angry Angles</h1>
-<img src="https://c1.staticflickr.com/3/2709/4278158607_6b21b841b9.jpg" alt="Angry Angles"> <p>This collection of BigBanonos' favorite tracks by Angry Angles was updated November 23, 2024, showcasing the band's raw, energetic sound, including covers and original tracks from the 2000s garage rock scene.</p> <ol> <li>The 15th (Wire cover) - Album: Single, Released: 2005</li> <li>You Call It Love - Album: Single, Released: 2005</li>
-</ol> <div> <iframe src="https://open.spotify.com/embed/playlist/0GsCES0PLbfJaIzYBx8u5u?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+{{< img-lite src="https://c1.staticflickr.com/3/2709/4278158607_6b21b841b9.jpg" alt="Angry Angles" >}} <p>This collection of BigBanonos' favorite tracks by Angry Angles was updated November 23, 2024, showcasing the band's raw, energetic sound, including covers and original tracks from the 2000s garage rock scene.</p> <ol> <li>The 15th (Wire cover) - Album: Single, Released: 2005</li> <li>You Call It Love - Album: Single, Released: 2005</li>
+</ol> <div> {{< youtube "embed" >}}
 </div> <h3>#Covers with Originals</h3>
-<div> <iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/y0UJWWlZWA4?list=PLtuNtuTatqI0T_GCRVtVWFUSn_PgEFzjS" width="95%"></iframe> <p>The 15th (Wire)</p>
+<div> {{< youtube "y0UJWWlZWA4" >}} <p>The 15th (Wire)</p>
 </div> <h3>#2000s Originals</h3>
-<div> <iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/CNkvO_A9ejo?list=PLtuNtuTatqI00Ak5pbz10qojT7un2Jh8w" width="95%"></iframe> <p>You Call It Love (2005)</p>
+<div> {{< youtube "CNkvO_A9ejo" >}} <p>You Call It Love (2005)</p>
 </div> <p>first posted by https://bigbanonos.blogspot.com/</p> <div> <p>Explore more BigBanonos content: <a href="https://bigbanonos.blogspot.com/">Website</a> | <a href="https://www.youtube.com/@BigBanonos">YouTube</a> | <a href="https://x.com/bigbanonos">Twitter</a></p>
 </div> <!-- Tags -->
 <p>@angryangles</p>

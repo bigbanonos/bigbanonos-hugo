@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Not The Same" by SnaveBasquiat featuring YG, released on September 13, 2019.</p> <!-- Featured Image -->
 <div > <img src="https://m.media-amazon.com/images/I/31QnPIfq0IL._UXNaN_FMjpg_QL85_.jpg" alt="Not The Same by SnaveBasquiat" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="601" src="https://www.youtube.com/embed/T7rqr4f9I7U" title="Not The Same" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "T7rqr4f9I7U" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Not The Same"</em> by SnaveBasquiat featuring YG blends the sounds of Cali rap and southern hip hop with a trap vibe, offering a fresh perspective in modern hip hop.</p>
 </div> <!-- Footer Links -->

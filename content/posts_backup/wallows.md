@@ -7,13 +7,13 @@ layout: post
 <p >Updated with "Are You Bored Yet?" by Wallows featuring Clairo, from the album *Nothing Happens*, released on March 22, 2019, by Atlantic Records. The track captures the essence of bedroom pop with its dreamy melodies and introspective lyrics.</p> <!-- Featured Image -->
 <div > <img src="https://i1.sndcdn.com/artworks-6geq8K2A5GxGtFm9-mJPAfA-t500x500.jpg" alt="Wallows - Are You Bored Yet?" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/wjbAsm48oTA" title="Wallows - Are You Bored Yet? (feat. Clairo)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "wjbAsm48oTA" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Are You Bored Yet?"</em> by Wallows featuring Clairo is from the album *Nothing Happens*, released on March 22, 2019. This indie pop anthem captures the playful yet reflective mood of youth and longing.</p>
 </div> <!-- Remix Section -->
 <h2 >Remix Version</h2>
 <p >Also, check out the Mura Masa Remix of *Are You Bored Yet?* featuring Clairo, released on August 28, 2020. This version adds a fresh electronic touch while retaining the track's nostalgic vibe.</p> <!-- YouTube Video Embed for Remix -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/GmQct4Yhbts" title="Wallows - Are You Bored Yet? (feat. Clairo) [Mura Masa Remix]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "GmQct4Yhbts" >}}
 </div> <!-- Song Information for Remix -->
 <div > <p><em>"Are You Bored Yet?" (Mura Masa Remix)</em> by Wallows featuring Clairo adds an energetic and experimental edge to the original track, blending elements of hyperpop and indie soul.</p>
 </div> <!-- Footer Links -->

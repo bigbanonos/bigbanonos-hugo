@@ -7,7 +7,7 @@ layout: post
 <p >Updated January 17, 2025, with "So Alive" from <em>Love and Rockets</em>. Experience the gothic rock brilliance of Love and Rockets in the playlist below!</p> <!-- Featured Image -->
 <div > <img src="https://lastfm.freetls.fastly.net/i/u/ar0/166664079dcbd0074e72d260825af773.jpg" alt="Love and Rockets" />
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/3WXMwFgaROaJdVlAFqhX4w?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <div > <p><strong>"So Alive"</strong><br> Genre: Rock<br> Album: <em>Love and Rockets</em><br> Release Date: September 4, 1989<br> Label: Beggars Banquet</p> <p><strong>"All in My Mind"</strong><br> Genre: Rock<br> Album: <em>Express</em><br> Release Date: September 15, 1986<br> Label: Beggars Banquet</p> </div> <!-- Footer Links -->
 <div > <p>For more updates, visit <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Also, check out our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a> channels for more exclusive content!</p>

@@ -7,7 +7,7 @@ layout: post
 <p >Updated November 6, 2019, with "Cowgirl Bebop" by HANA. This atmospheric dark pop track blends futuristic vibes with emotional depth, making it a standout from her critically acclaimed album, *HANADRIEL*.</p> <!-- Featured Image -->
 <div > <img src="https://f4.bcbits.com/img/0017909307_10.jpg" alt="HANA - Cowgirl Bebop" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/tKPqTJq-w40" title="Cowgirl Bebop" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "tKPqTJq-w40" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Cowgirl Bebop"</em> highlights HANA's unique ability to create immersive soundscapes. Released on November 6, 2019, it features intricate production, emotive lyrics, and a blend of dark pop elements that captivate listeners.</p>
 </div> <!-- Footer Links -->

@@ -7,7 +7,7 @@ layout: post
 <p >Updated March 27, 2020, with "Big Black Train" from <em>Big Black Train</em>. Explore the soulful sounds of Lucinda Williams in the playlist below!</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d0000b2731392b88fe5fd1f39ecdd17be" alt="Lucinda Williams" />
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/5tVOMUmCI3U9WSOjGhQ4G8?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <div > <p><strong>"Big Black Train"</strong><br> Genre: Country, Folk/Acoustic, Rock<br> Album: <em>Big Black Train</em><br> Release Date: March 27, 2020<br> Label: Highway 20 Records</p> <p><strong>"Drunken Angel"</strong><br> Genre: Country, Folk/Acoustic, Rock<br> Album: <em>Car Wheels On A Gravel Road</em><br> Release Date: January 1, 2006<br> Label: Island Def Jam</p> <p><strong>"Greenville"</strong><br> Genre: Country, Folk/Acoustic, Rock<br> Album: <em>Car Wheels On A Gravel Road</em><br> Release Date: January 1, 2006<br> Label: Island Def Jam</p> <p><strong>"Fruits Of My Labor"</strong><br> Genre: Country, Folk/Acoustic, Rock<br> Album: <em>World Without Tears</em><br> Release Date: January 1, 2003<br> Label: Lost Highway Records</p>
 </div> <!-- Footer Links -->

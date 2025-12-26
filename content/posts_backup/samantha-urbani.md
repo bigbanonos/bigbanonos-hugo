@@ -3,10 +3,10 @@ title: "samantha urbani"
 layout: post
 ---
 <h3>BigBanonos' Favorite Songs by Samantha Urbani</h3> <!-- Featured Image -->
-<div > <a href="https://www.luckynumbermusic.com/wordpress/wp-content/uploads/2023/06/IMG_0444-1024x1024.jpg" target="_blank"> <img src="https://www.luckynumbermusic.com/wordpress/wp-content/uploads/2023/06/IMG_0444-1024x1024.jpg" alt="Samantha Urbani - Showing Up"> </a>
+<div > <a href="https://www.luckynumbermusic.com/wordpress/wp-content/uploads/2023/06/IMG_0444-1024x1024.jpg" target="_blank"> {{< img-lite src="https://www.luckynumbermusic.com/wordpress/wp-content/uploads/2023/06/IMG_0444-1024x1024.jpg" alt="Samantha Urbani - Showing Up" >}} </a>
 </div> <!-- Introductory Text -->
 <p>Updated September 22, 2023, with tracks from Samantha Urbani's latest release <strong>Showing Up</strong>. BigBanonos celebrates her captivating indie pop sound that blends introspection and vibrant melodies.</p> <!-- Spotify Playlist Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/1QAQc4srSZ0BBqHnjTPjId?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Song List -->
 <h4>Top Songs:</h4>
 <ol> <li><strong>Fine Lines</strong> | <em>Showing Up</em> | Released: September 22, 2023 | Lucky Number | Genre: indie pop | Duration: 3:43</li> <li><strong>c u clear</strong> | <em>Showing Up</em> | Released: September 22, 2023 | Lucky Number | Genre: indie pop | Duration: 3:17</li> <li><strong>More Than a Feeling</strong> | <em>Showing Up</em> | Released: August 22, 2023 | Lucky Number | Genre: indie pop | Duration: 4:36</li> <li><strong>Showing Up</strong> | <em>Showing Up</em> | Released: August 22, 2023 | Lucky Number | Genre: indie pop | Duration: 3:54</li>

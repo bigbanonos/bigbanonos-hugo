@@ -7,7 +7,7 @@ layout: post
 <p >Updated October 10, 2018 with "Yeah Yeah" by DJ Moiz, Tribal Kush, Walshy Fire, and featuring Doktor. This track, released under *Flex Up*, is a rhythmic blend of Dutch moombahton and instrumental funk that showcases infectious beats and vibrant energy.</p> <!-- Featured Image -->
 <div > <img src="https://news.djcity.com/eu/wp-content/sites/5/DJ-Moiz-featured-image.jpg" alt="DJ Moiz, Tribal Kush, Walshy Fire - Yeah Yeah" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/_9OsVY05v_4" title="DJ Moiz, Tribal Kush, Walshy Fire - Yeah Yeah ft. Doktor" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "_9OsVY05v_4" >}}
 </div> <!-- Song Information -->
 <div > <p>"Yeah Yeah" is a collaboration that blends international flavors with high-energy production, featuring Doktor's dynamic vocals layered over pulsating beats from this powerhouse group of artists.</p>
 </div> <!-- Footer Links -->

@@ -4,10 +4,10 @@ layout: post
 ---
 <h2>BigBanonos' Favorite Songs by Couch Prints</h2> <!-- Search Description -->
 <p>BigBanonos' top Couch Prints tracks, exploring their unique bedroom pop sound in this curated selection.</p> <!-- Spotify Playlist Embed -->
-<iframe src="https://open.spotify.com/embed/playlist/0NGItn2xeGDuNa6ajkkVLN?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> <!-- Song Listings -->
+{{< youtube "embed" >}} <!-- Song Listings -->
 <ul> <li><strong>Horsepower</strong> - <em>Horsepower</em> - 2022-03-11 - Couch Prints</li> <li><strong>Impressions</strong> - <em>Impressions</em> - 2022-02-04 - Couch Prints</li> <li><strong>Of Drawing</strong> - <em>Of Drawing</em> - 2020-01-31 - Couch Prints</li> <li><strong>Tell U</strong> - <em>Tell U</em> - 2019-07-12 - Couch Prints</li>
 </ul> <!-- Image -->
-<img src="https://atwoodmagazine.com/wp-content/uploads/2020/02/Couch-Prints_Of-Drawing_Press_02.jpg" alt="Couch Prints">
+{{< img-lite src="https://atwoodmagazine.com/wp-content/uploads/2020/02/Couch-Prints_Of-Drawing_Press_02.jpg" alt="Couch Prints" >}}
 
 
 <!--Subscribe and Playlist Links-->

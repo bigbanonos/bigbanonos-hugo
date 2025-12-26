@@ -7,7 +7,7 @@ layout: post
 <p >Updated July 6, 2010, with BigBanonos' favorite song by Blake Mills, "Wintersong." From his self-titled album *Blake Mills* and released under Record Collection, this track is a beautiful blend of modern folk rock. Watch the video and see more details below:</p> <!-- Featured Image -->
 <div > <img src="https://media.pitchfork.com/photos/64f0a8962f211db3848f57cd/master/w_1600%2Cc_limit/blakemills2press.jpeg" alt="Blake Mills - Wintersong" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/cnIjr8gaN64" title="Wintersong" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "cnIjr8gaN64" >}}
 </div> <!-- Song Information -->
 <div > <p>"Wintersong" by Blake Mills is a heartfelt modern folk rock track from his self-titled album *Blake Mills*. Released on July 6, 2010, under Record Collection, this 4:16-long piece showcases Mills' skillful guitar work and emotional depth.</p>
 </div> <!-- Footer Links -->

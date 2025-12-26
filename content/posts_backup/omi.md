@@ -7,7 +7,7 @@ layout: post
 <p >Updated March 6, 2015, with "Cheerleader" by OMI, featuring the Felix Jaehn Remix. This global hit blends reggae fusion with a catchy tropical vibe, making it an anthem thatâ€™s still loved worldwide. The remix brought a fresh danceable twist to OMIâ€™s already infectious melody.</p> <!-- Featured Image -->
 <div > <img src="https://i.ytimg.com/vi/jGflUbPQfW8/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGEgZShbMA8=&rs=AOn4CLBquu55z_sn7EnM6ExY-ltYn-B1eA" alt="OMI - Cheerleader" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/jGflUbPQfW8" title="OMI - Cheerleader (Felix Jaehn Remix) (Official Video) [Ultra Records]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "jGflUbPQfW8" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Cheerleader" (Felix Jaehn Remix)</em> by OMI is a reggae fusion track from the album <em>Cheerleader (Remixes)</em>, released on March 6, 2015. The track gained massive popularity worldwide for its infectious melody and the vibrant remix that blends Caribbean influences with modern dance beats.</p>
 </div> <!-- Footer Links -->

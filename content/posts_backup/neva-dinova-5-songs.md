@@ -3,8 +3,8 @@ title: "neva dinova 5 songs"
 layout: post
 ---
 <h1>BigBanonos Top Songs by Neva Dinova</h1>
-<img src="https://i.ticketweb.com/i/00/09/75/75/88/Artist.jpg?v=2" alt="Neva Dinova"> <p>Neva Dinova, an indie rock band from Omaha, is known for their evocative soundscapes and introspective lyrics. Here are BigBanonos' favorite picks from their discography:</p> <ol> <li><strong>Love From Below</strong> | <em>You May Already Be Dreaming</em> | Saddle Creek | Released: April 8, 2008</li> <li><strong>Squirrels</strong> | <em>You May Already Be Dreaming</em> | Saddle Creek | Released: April 8, 2008</li> <li><strong>Poison</strong> | Single | Released: 2004</li> <li><strong>She Can't Change</strong> | Single | Released: 2005</li> <li><strong>Yellow Datsun</strong> | Single | Released: 2005</li>
-</ol> <div> <iframe src="https://open.spotify.com/embed/playlist/3ddJZYLQiQBjGl4Ak8aolJ?utm_source=generator" width="100%" height="352" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+{{< img-lite src="https://i.ticketweb.com/i/00/09/75/75/88/Artist.jpg?v=2" alt="Neva Dinova" >}} <p>Neva Dinova, an indie rock band from Omaha, is known for their evocative soundscapes and introspective lyrics. Here are BigBanonos' favorite picks from their discography:</p> <ol> <li><strong>Love From Below</strong> | <em>You May Already Be Dreaming</em> | Saddle Creek | Released: April 8, 2008</li> <li><strong>Squirrels</strong> | <em>You May Already Be Dreaming</em> | Saddle Creek | Released: April 8, 2008</li> <li><strong>Poison</strong> | Single | Released: 2004</li> <li><strong>She Can't Change</strong> | Single | Released: 2005</li> <li><strong>Yellow Datsun</strong> | Single | Released: 2005</li>
+</ol> <div> {{< youtube "embed" >}}
 </div> <p>first posted by <a href="https://bigbanonos.blogspot.com/">https://bigbanonos.blogspot.com/</a></p> <div> <p>Explore more BigBanonos content: <a href="https://bigbanonos.blogspot.com/">Website</a> | <a href="https://www.youtube.com/@BigBanonos">YouTube</a> | <a href="https://x.com/bigbanonos">Twitter</a></p>
 </div> <!-- Tags -->
 <p>@nevadinova</p>

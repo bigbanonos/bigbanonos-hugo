@@ -4,7 +4,7 @@ layout: post
 ---
 <h2>BigBanonos' Favorite Songs by Bryson Tiller</h2> <!-- Search Description -->
 <p>BigBanonos' top 4 favorite tracks by Bryson Tiller, showcasing his signature Kentucky hip hop, R&B, and rap sound.</p> <!-- Spotify Playlist Embed -->
-<iframe src="https://open.spotify.com/embed/playlist/0hXooJ7xCLJ7PCZ1PdBaE0?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> <!-- Song Listings -->
+{{< youtube "embed" >}} <!-- Song Listings -->
 <ul> <li>Outside - <em>Outside</em> - TrapSoul/RCA Records (2022-09-08)</li> <li>Inhale - <em>Inhale</em> - RCA Records Label (2020-09-03)</li> <li>Run Me Dry - <em>True to Self</em> - TrapSoul/RCA Records (2017-05-26)</li> <li>Don't - <em>Don't</em> - TrapSoul/RCA Records (2015-05-20)</li>
 </ul> <!-- Image -->
 <img src="https://cdn-p.smehost.net/sites/8e1f40b762984a27a20f577d99b7ac97/wp-content/uploads/2015/08/bryson-press-Ro.Lexx_.jpg" alt="Bryson Tiller"/>

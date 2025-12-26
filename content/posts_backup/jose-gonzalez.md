@@ -7,7 +7,7 @@ layout: post
 <p >Updated February 17, 2015, with "Every Age" by JosÃƒÆ’Ã‚Â© GonzÃƒÆ’Ã‚Â¡lez. This hauntingly beautiful track showcases GonzÃƒÆ’Ã‚Â¡lez's signature style of introspective folk with delicate acoustic melodies and poignant lyrics. "Every Age" is a prime example of his ability to capture profound emotions through minimalistic yet powerful arrangements.</p> <!-- Featured Image -->
 <div > <img src="https://media.npr.org/assets/img/2015/04/28/josegonzalez_sq-6dc4c5073d8721ce2eb73e55d54e89c3e05dd87d.jpg?s=800&c=85&f=jpeg" alt="JosÃƒÆ’Ã‚Â© GonzÃƒÆ’Ã‚Â¡lez - Every Age" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/I_iY2RQWNzM" title="JosÃƒÆ’Ã‚Â© GonzÃƒÆ’Ã‚Â¡lez - Every Age" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "I_iY2RQWNzM" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Every Age"</em> from JosÃƒÆ’Ã‚Â© GonzÃƒÆ’Ã‚Â¡lez's *Vestiges & Claws* album is a beautiful reflection on time, change, and self-discovery. GonzÃƒÆ’Ã‚Â¡lez's Swedish indie folk style shines in this chamber pop ballad, making it a standout track in both his career and the genre.</p>
 </div> <!-- Footer Links -->

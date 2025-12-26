@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "My Me" by T. Hardy Morris, from the album *Hardy & The Hardknocks: Drownin on a Mountaintop*, released on June 23, 2015, by Dangerbird Records.</p> <!-- Featured Image -->
 <div > <img src="https://images.genius.com/d461243b7875e9295fcf4d8a83998b5f.610x610x1.jpg" alt="T. Hardy Morris - My Me" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/-qihtz9X-r0" title="T. Hardy Morris - 'My Me' (Music Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "-qihtz9X-r0" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"My Me"</em> by T. Hardy Morris is a track from the album *Hardy & The Hardknocks: Drownin on a Mountaintop*, released on June 23, 2015. The song captures a deep new americana sound, blending country with modern influences.</p>
 </div> <!-- Footer Links -->

@@ -5,7 +5,7 @@ layout: post
 <h3><em>BigBanonos</em> Favorite Songs by Dexta Daps:</h3> <p>Updated on September 30, 2021, with the track â€œWar Seasonâ€ featuring Chronic Law and Blakk Man. BigBanonosâ€™ favorite songs by Dexta Daps highlight his dancehall and riddim influence, bringing infectious beats and authentic vibes.</p> <!--Image-->
 <div class="separator"> <a href="https://www.dancehallmag.com/assets/2023/11/dexta-daps.jpg" > <img alt="Dexta Daps" src="https://www.dancehallmag.com/assets/2023/11/dexta-daps.jpg" /> </a>
 </div> <!--Spotify Playlist Embed-->
-<iframe allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" allowfullscreen="" frameborder="0" height="352" loading="lazy" src="https://open.spotify.com/embed/playlist/0fD6mkXqg6TNYSyni7fj1r?utm_source=generator" width="100%"></iframe> <!--Song Listings-->
+{{< youtube "embed" >}} <!--Song Listings-->
 <ol> <li><strong>War Season</strong> â€ <em>VENT DELUXE</em> â€ feat. Chronic Law, Blakk Man â€ September 30, 2021</li> <li><strong>Breaking News</strong> â€ <em>VENT</em> â€ July 31, 2020</li> <li><strong>Triangle</strong> â€ <em>Triangle</em> â€ feat. ZJ Liquid â€ May 18, 2018</li> <li><strong>Morning Love</strong> â€ <em>Morning Love - Single</em> â€ May 20, 2014</li>
 </ol> <!--Link to Chronic Law Guide-->
 <div> <p>For more on featured artist Chronic Law, check out the <a href="https://bigbanonos.blogspot.com/2024/10/chronic-law-105-songs.html" target="_blank">BigBanonos guide to Chronic Lawâ€™s top 100+ songs</a>.</p>

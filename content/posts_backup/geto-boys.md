@@ -7,7 +7,7 @@ layout: post
 <p >Updated August 15, 2013, with "Damn It Feels Good 2 Be A Gangsta" by Geto Boys. This iconic track, featured on the compilation *Best of Geto Boys & Scarface*, captures the essence of golden age hip hop with its laid-back flow and razor-sharp commentary. Watch the video below!</p> <!-- Featured Image -->
 <div > <img src="https://www.usatoday.com/gcdn/presto/2019/06/09/USAT/56951445-c7e4-4cd0-9824-160d7da375d0-d_getoboys_houston_dcov_21.jpg?width=1200&disable=upscale&format=pjpg&auto=webp" alt="Geto Boys - Damn It Feels Good 2 Be A Gangsta" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="733" height="480" src="https://www.youtube.com/embed/6IJCFc_qkHw" title="Geto Boys - Damn It Feels Good To Be A Gangsta (Official Video) [Explicit]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "6IJCFc_qkHw" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Damn It Feels Good 2 Be A Gangsta"</em>, originally released in 1992 and later included on the 2013 compilation *Best of Geto Boys & Scarface* under Rap-A-Lot Records, is a defining track in gangster rap. Known for its introspective lyrics and smooth G-funk-inspired beat, it has become an anthem for authenticity in hip hop.</p>
 </div> <!-- Footer Links -->

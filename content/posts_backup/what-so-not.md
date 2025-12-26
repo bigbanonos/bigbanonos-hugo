@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Stuck In Orbit" by What So Not featuring BUOY, from the album *Stuck In Orbit*, released on January 30, 2018, by Counter Records. This track merges electronic trap, brostep, and vapor twitch for a futuristic sound experience.</p> <!-- Featured Image -->
 <div > <img src="https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/12/f6/11/12f61127-043b-4352-064a-e4e0b6d09d32/5054429136425.png/1200x1200bb.jpg" alt="What So Not - Stuck In Orbit" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/nT5aRgRDQkQ" title="What So Not - Stuck In Orbit feat. BUOY (Official Lyric Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "nT5aRgRDQkQ" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Stuck In Orbit"</em> by What So Not featuring BUOY is from their album *Stuck In Orbit*, released on January 30, 2018. The track blends aussietronica and electronic trap, creating a dynamic, modern soundscape.</p>
 </div> <!-- Footer Links -->

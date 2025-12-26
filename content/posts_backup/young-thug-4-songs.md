@@ -3,10 +3,10 @@ title: "young thug 4 songs"
 layout: post
 ---
 <h1>BigBanonos Favorite Songs byv</h1>
-<img src="https://themusicessentials.com/wp-content/uploads/2024/11/young-thug-net-worth-696x460.webp" alt="Young Thug"> <p>Young Thug is one of the most innovative artists in the rap game, blending melodic rap with trap and hip hop elements. Here are BigBanonos' favorite tracks from Young Thug, listed in order of most recently released:</p> <ol> <li><strong>Icy Hot (with Doja Cat)</strong> | <em>Punk</em> | Released: 2021-10-15 | 300 Entertainment/Atl</li> <li><strong>Love You More (with Nate Ruess, Gunna & Jeff Bhasker)</strong> | <em>Punk</em> | Released: 2021-10-15 | 300 Entertainment/Atl</li> <li><strong>High (feat. Elton John)</strong> | <em>On the Run</em> | Released: 2018-09-24 | 300 Entertainment/Atl</li> <li><strong>Kanye West (feat. Wyclef Jean)</strong> | <em>JEFFERY</em> | Released: 2016-08-26 | 300 Entertainment/Atl</li>
-</ol> <div> <iframe src="https://open.spotify.com/embed/playlist/5Q8YmnqWRcjAJCLQZtDCh0?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+{{< img-lite src="https://themusicessentials.com/wp-content/uploads/2024/11/young-thug-net-worth-696x460.webp" alt="Young Thug" >}} <p>Young Thug is one of the most innovative artists in the rap game, blending melodic rap with trap and hip hop elements. Here are BigBanonos' favorite tracks from Young Thug, listed in order of most recently released:</p> <ol> <li><strong>Icy Hot (with Doja Cat)</strong> | <em>Punk</em> | Released: 2021-10-15 | 300 Entertainment/Atl</li> <li><strong>Love You More (with Nate Ruess, Gunna & Jeff Bhasker)</strong> | <em>Punk</em> | Released: 2021-10-15 | 300 Entertainment/Atl</li> <li><strong>High (feat. Elton John)</strong> | <em>On the Run</em> | Released: 2018-09-24 | 300 Entertainment/Atl</li> <li><strong>Kanye West (feat. Wyclef Jean)</strong> | <em>JEFFERY</em> | Released: 2016-08-26 | 300 Entertainment/Atl</li>
+</ol> <div> {{< youtube "embed" >}}
 </div> <h3>Video for the song "Kanye West" (feat. Wyclef Jean)</h3>
-<div> <iframe width="95%" height="500" src="https://www.youtube.com/embed/wAhNZO7Fwd0?list=PLtuNtuTatqI3wo06kWds9qH_WcEWHVwia" frameborder="0" allowfullscreen></iframe>
+<div> {{< youtube "wAhNZO7Fwd0" >}}
 </div> <p><em>First posted by BigBanonos - <a href="https://bigbanonos.blogspot.com/">https://bigbanonos.blogspot.com/</a></em></p>
 <p><em>Last updated November 15, 2024</em></p>
 <p>Follow BigBanonos on <a href="https://www.youtube.com/@BigBanonos">YouTube</a> and <a href="https://x.com/bigbanonos">Twitter</a> for more music content.</p>

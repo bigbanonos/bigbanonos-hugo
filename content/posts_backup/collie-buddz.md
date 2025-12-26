@@ -7,7 +7,7 @@ layout: post
 <p >Updated July 2, 2007, with BigBanonos' favorite track, "My Everything" by Collie Buddz. A timeless dancehall-reggae fusion hit from his self-titled debut album that continues to resonate worldwide.</p> <!-- Featured Image -->
 <div > <img src="https://www.billboard.com/wp-content/uploads/media/collie-buddz-2019-cr-Phil-Emerson-billboard-1548.jpg" alt="Collie Buddz - My Everything" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/Oh_2ipocjnc" title="My Everything - Collie Buddz [Collie Buddz]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "Oh_2ipocjnc" >}}
 </div> <!-- Song Information -->
 <div > <p>"My Everything" is a standout track from Collie Buddz's debut album, released under Columbia Records. This smooth blend of dancehall and reggae fusion showcases Buddz's unique voice and signature island vibe.</p>
 </div> <!-- Footer Links -->

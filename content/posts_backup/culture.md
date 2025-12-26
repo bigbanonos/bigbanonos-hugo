@@ -7,7 +7,7 @@ layout: post
 <p >Updated with BigBanonos' favorite track, "Humble African" by Culture. This roots reggae masterpiece embodies a spirit of humility and resilience, making it an unforgettable classic.</p> <!-- Featured Image -->
 <div > <img src="https://is1-ssl.mzstatic.com/image/thumb/Music/7c/46/9f/mzi.xajtxqeo.jpg/600x600bf-60.jpg" alt="Culture - Humble African" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/vJePBn22CX8" title="Culture - Humble African" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "vJePBn22CX8" >}}
 </div> <!-- Song Information -->
 <div > <p>"Humble African," released under VP Records in 2000, is a hallmark of Culture's legacy in reggae music. Its profound message and authentic roots reggae sound continue to inspire listeners worldwide.</p>
 </div> <!-- Footer Links -->

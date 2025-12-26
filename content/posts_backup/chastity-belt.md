@@ -4,9 +4,9 @@ layout: post
 ---
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Tracks by Chastity Belt</h1> <!-- Featured Image -->
-<div > <img src="https://i.scdn.co/image/ab67616d0000b2734531d329f5a25af6116ebde6" alt="Chastity Belt">
+<div > {{< img-lite src="https://i.scdn.co/image/ab67616d0000b2734531d329f5a25af6116ebde6" alt="Chastity Belt" >}}
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/0UHZ56Ub3xLMRLBh99WNTH?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Introductory Text -->
 <p >Chastity Belt delivers raw emotional depth with their bubblegrunge and indie rock sound. From "Different Now" to "IDC," here are BigBanonos' top picks from this iconic band.</p> <!-- Song Highlights -->
 <div > <p>BigBanonos' standout picks:</p> <ol> <li><strong>Different Now</strong> | <em>I Used to Spend So Much Time Alone</em> | Released: June 2, 2017 | Hardly Art</li> <li><strong>Joke</strong> | <em>Time to Go Home</em> | Released: March 23, 2015 | Hardly Art</li> <li><strong>IDC</strong> | <em>Time to Go Home</em> | Released: March 23, 2015 | Hardly Art</li> </ol>

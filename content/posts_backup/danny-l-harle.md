@@ -5,14 +5,14 @@ layout: post
 <!-- Title of the Post -->
 <h1>BigBanonos' Top Songs by Danny L Harle</h1> <!-- Introductory Text -->
 <p>Danny L Harle, a pioneer of hyperpop and proto-hyperpop, creates experimental yet accessible tracks. Here's BigBanonos' favorite songs from this unique artist.</p> <!-- Featured Image -->
-<div> <img src="https://i.scdn.co/image/ab6775700000ee858c1aad1e92e0dd5535a7264b" alt="Danny L Harle">
+<div> {{< img-lite src="https://i.scdn.co/image/ab6775700000ee858c1aad1e92e0dd5535a7264b" alt="Danny L Harle" >}}
 </div> <!-- Spotify Embed -->
-<div> <iframe src="https://open.spotify.com/embed/playlist/4LMiKzHmIMolTmGqJjsYPl?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div> {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <h3>Top Songs:</h3>
 <ul> <li><strong>Heavy Eyelids</strong> | <em>1UL EP</em> | Released: 2017-05-19 | Label: PC Music</li> <li><strong>Broken Flowers</strong> | <em>Broken Flowers - EP</em> | Released: 2015-11-20 | Label: PC Music/Columbia</li>
 </ul> <!-- Additional YouTube Embed -->
-<div> <iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/videoseries?list=PLtuNtuTatqI3SJ5eZ1-hFChrqPOFIbk8W" width="100%"></iframe>
+<div> {{< youtube "videoseries" >}}
 </div> <!-- Footer Links -->
 <hr />
 <p>For more updates, visit <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Also, check out our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> channel and follow us on <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a> for more exclusive content!</p> <!-- Tags -->

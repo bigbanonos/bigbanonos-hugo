@@ -7,7 +7,7 @@ layout: post
 <p >Updated January 17, 2025, with "Mansplainer" from <em>Hey, Killer</em>. Dive into the grungy vibes of Local H in the playlist below!</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d0000b273f5504d1dd44f61d6e8fd8625" alt="Local H" />
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/5IAFyzOfoOBk3zYRXrm1se?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <div > <p><strong>"Mansplainer"</strong><br> Genre: Rock, Metal<br> Album: <em>Hey, Killer</em><br> Release Date: April 14, 2015<br> Label: G&P Records</p> <p><strong>"All The Kids Are Right"</strong><br> Genre: Rock, Metal<br> Album: <em>Best Of Local H â€“ The Island Years</em><br> Release Date: January 1, 2011<br> Label: Island Records</p> <p><strong>"Bound For The Floor"</strong><br> Genre: Rock, Metal<br> Album: <em>Best Of Local H â€“ The Island Years</em><br> Release Date: January 1, 2011<br> Label: Island Records</p> <p><strong>"Wolf Like Me"</strong><br> Genre: Rock, Metal<br> Album: <em>Local H's Awesome Mix Tape #1</em><br> Release Date: October 19, 2010<br> Label: G&P Records</p>
 </div> <!-- Footer Links -->

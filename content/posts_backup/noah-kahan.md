@@ -7,7 +7,7 @@ layout: post
 <p >Noah Kahan's "Stick Season (Live From Fenway Park)" captures the essence of his live performance with raw emotion and infectious energy. Watch the full live performance video below!</p> <!-- Featured Image -->
 <div > <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyNyXV-zPKuuwW0xsECAOopMcF1vHMBWiLOw&s" alt="Noah Kahan - Stick Season" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="480" src="https://www.youtube.com/embed/YdkTEtQBCWs" title="Stick Season (Live From Fenway Park)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "YdkTEtQBCWs" >}}
 </div> <!-- Song Information -->
 <div > <p><em>Stick Season (Live From Fenway Park)</em> is a beautiful live rendition that showcases Noah Kahan's ability to connect with his audience. The performance gives fans a chance to experience the raw emotion behind his popular song from his *Stick Season* album.</p> <p><strong>Updated on August 30, 2024</strong></p>
 </div> <!-- Footer Links -->

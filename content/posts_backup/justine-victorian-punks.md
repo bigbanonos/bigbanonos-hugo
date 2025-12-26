@@ -7,7 +7,7 @@ layout: post
 <p >Updated November 9, 2010, with "Still You" by Justine & The Victorian Punks. A mesmerizing track from *Beautiful Dreamer / Still You*, blending retro charm with modern punk energy.</p> <!-- Featured Image -->
 <div > <img src="https://images.artnet.com/artwork_images/425934057/718098.jpg" alt="Justine & The Victorian Punks - Still You" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/5pByDTsv2CA" title="Still You" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "5pByDTsv2CA" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Still You"</em> by Justine & The Victorian Punks delivers a mix of post-punk and retro vibes that feel both nostalgic and fresh, capturing the essence of a timeless indie sound.</p>
 </div> <!-- Footer Links -->

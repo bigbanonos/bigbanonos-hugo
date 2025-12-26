@@ -7,7 +7,7 @@ layout: post
 <p >Updated November 6, 2015, with "Drunk Girls Don't Cry" by Maren Morris. This cheeky and empowering track from the <em>Maren Morris - EP</em>, released under Columbia Nashville, blends classic Texas country with contemporary influences to create a modern country anthem.</p> <!-- Featured Image -->
 <div > <img src="https://i.ytimg.com/vi/ouWQ25O-Mcg/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBboXN9rSnKzZBIB2MgO7iDsVM_dA" alt="Maren Morris - Drunk Girls Don't Cry" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/tVPwWF34u2U" title="Maren Morris - Drunk Girls Don't Cry (Official Audio)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "tVPwWF34u2U" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Drunk Girls Don't Cry"</em> by Maren Morris is a sassy and relatable track that showcases her ability to blend humor with heartfelt country storytelling. From her <em>Maren Morris - EP</em>, this song captures the essence of contemporary country with a nod to classic Texas roots.</p>
 </div> <!-- Footer Links -->

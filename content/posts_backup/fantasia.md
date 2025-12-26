@@ -7,7 +7,7 @@ layout: post
 <p >Updated April 22, 2013, with "Lose to Win" by Fantasia. This soulful ballad from the album <em>Side Effects of You</em> delivers an empowering message wrapped in contemporary R&B excellence.</p> <!-- Featured Image -->
 <div > <img src="https://thatgrapejuice.net/wp-content/uploads/2013/03/fantasia-lose-to-win-video.jpg" alt="Fantasia - Lose to Win" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/_cp-AK8ETdg" title="Fantasia - Lose to Win (Official Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "_cp-AK8ETdg" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Lose to Win"</em> showcases Fantasia's powerful vocals and emotional depth, perfectly blending elements of contemporary R&B, hip pop, and urban soul. The track remains a standout from her critically acclaimed album <em>Side Effects of You</em>.</p>
 </div> <!-- Footer Links -->

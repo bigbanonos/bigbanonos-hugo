@@ -4,7 +4,7 @@ layout: post
 ---
 <h2>BigBanonos' 2 Favorite Songs by Charly Bliss</h2> <!--Search Description-->
 <p>BigBanonos brings you top tracks from Charly Bliss, showcasing the best of bubblegrunge and indie punk in their unique sound. Dive into these favorite tunes below.</p> <!--Spotify Playlist Embed-->
-<iframe allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" allowfullscreen="" frameborder="0" height="352" loading="lazy" src="https://open.spotify.com/embed/playlist/6dsK4jlzP6dO9F5msak2xr?utm_source=generator" width="100%"></iframe> <!--Song Listings-->
+{{< youtube "embed" >}} <!--Song Listings-->
 <ul> <li><strong>You Don't Even Know Me Anymore</strong> - <em>You Don't Even Know Me Anymore</em> - 2023-06-21</li> <li><strong>Heaven</strong> - <em>Heaven</em> - 2018-09-19</li>
 </ul> <!--Image-->
 <img alt="Charly Bliss" src="https://static.stereogum.com/uploads/2019/05/charly-bliss-1557436962-scaled.jpeg" />

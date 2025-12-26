@@ -7,7 +7,7 @@ layout: post
 <p >Updated January 12, 2018, with "That's What Friends Are For" by Likkle Miss featuring Shawn Storm. This heartfelt dancehall track, released under Kwashawna Records, highlights the essence of Jamaican dancehall and riddim vibes.</p> <!-- Featured Image -->
 <div > <img src="https://i.ytimg.com/vi/qsVWEHxYSeg/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAKwZih80dzWxQesuctydv-YNArQw" alt="Likkle Miss - That's What Friends Are For" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/qsVWEHxYSeg" title="Likkle Miss - That's What Friends are For ft. Shawn Storm" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "qsVWEHxYSeg" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"That's What Friends Are For"</em> by Likkle Miss featuring Shawn Storm is a powerful dancehall anthem that reflects themes of friendship and loyalty. With its rhythmic beats and soulful lyrics, itâ€™s a standout release from Kwashawna Records.</p>
 </div> <!-- Footer Links -->

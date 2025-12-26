@@ -3,7 +3,7 @@ title: "yardbirds"
 layout: post
 ---
 #highlights (I suppose you could call these #covers) <br />
-<iframe width="95%" height="315" src="https://www.youtube.com/embed/Y45aHGWoQGs?list=PLtuNtuTatqI0jkKv6ZtOwU8W68H8HT67D" frameborder="0" allowfullscreen></iframe> <br />
+{{< youtube "Y45aHGWoQGs" >}} <br />
 Evil-Hearted You 1965 <br />
 Heart Full Of Soul 1965 <br />
 Mr. You're Better Man Than I 1965

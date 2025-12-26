@@ -2,7 +2,7 @@
 title: "nardo wick 1 song"
 layout: post
 ---
-<iframe frameborder="0" height="360" src="https://youtube.com/embed/olKxFg0j-Ow?list=PLtuNtuTatqI2zvShDm4NrcI4TX6u2-1yn" width="480"></iframe><h2><ol><li>Me Or Sum [2021]</li></ol></h2>
+{{< youtube "olKxFg0j-Ow" >}}<h2><ol><li>Me Or Sum [2021]</li></ol></h2>
 
 <!--Subscribe and Playlist Links-->
 <div>

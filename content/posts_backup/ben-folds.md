@@ -5,9 +5,9 @@ layout: post
 
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Ben Folds</h1> <!-- Featured Image -->
-<div > <img src="https://i.scdn.co/image/ab67616d0000b27353bea47f99592d7232724ed3" alt="Ben Folds">
+<div > {{< img-lite src="https://i.scdn.co/image/ab67616d0000b27353bea47f99592d7232724ed3" alt="Ben Folds" >}}
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/6dRiIKM3QeRneCEYzw1435?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Introductory Text -->
 <p >Ben Folds and Ben Folds Five deliver timeless piano rock gems. From "Phone In A Pool" to the unforgettable "Brick," here are BigBanonos' top picks from this exceptional artist and band.</p> <!-- Song Highlights -->
 <div > <p>BigBanonos' standout picks:</p> <ol> <li><strong>Phone In A Pool</strong> | <em>So There</em> | Released: September 11, 2015 | New West Records</li> <li><strong>Army</strong> | <em>The Unauthorized Biography Of Reinhold Messner</em> | Released: April 27, 1999 | 550 Music</li> <li><strong>Brick</strong> | <em>Whatever And Ever Amen (Remastered Edition)</em> | Released: March 18, 1997 | Epic</li> </ol>

@@ -7,7 +7,7 @@ layout: post
 <p >Updated October 15, 2013, with "Crazy for You" by La La Brooks. This track from her album <em>All or Nothing</em> is a timeless showcase of soulful vocals and emotional depth, released under Norton Records Inc.</p> <!-- Featured Image -->
 <div > <img src="https://scpr.brightspotcdn.com/dims4/default/7481bff/2147483647/strip/true/crop/2738x2170+0+0/resize/792x628!/quality/90/?url=https%3A%2F%2Fa.scpr.org%2F73949_52f5a09eda0d4d446f7e144d6f47fd33_original.jpg" alt="La La Brooks - Crazy for You" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/ApFqaqtPfxA" title="Crazy for You" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "ApFqaqtPfxA" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Crazy for You"</em> by La La Brooks captures the timeless essence of soulful music. Released under Norton Records Inc., it stands as a testament to her remarkable vocal talent and emotional artistry.</p>
 </div> <!-- Footer Links -->

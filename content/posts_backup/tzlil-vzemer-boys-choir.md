@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Brochos" by Tzlil V'zemer Boys Choir, from the album *Hooked on Chanukah*, released on September 16, 2010, by Sameach Music Inc. This beautiful piece blends jazz and Judaica, capturing the essence of Chanukah with harmonious choral arrangements.</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d00001e0218a657877edcbcc7540c826a" alt="Tzlil V'zemer Boys Choir - Brochos" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="617" src="https://www.youtube.com/embed/ieDrczuH7yE" title="Brochos" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "ieDrczuH7yE" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Brochos"</em> by Tzlil V'zemer Boys Choir is a track from the album *Hooked on Chanukah*, released on September 16, 2010. The song offers a serene blend of jazz and Judaica, perfect for celebrating the Chanukah season.</p>
 </div> <!-- Footer Links -->

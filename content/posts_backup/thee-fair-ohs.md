@@ -7,7 +7,7 @@ layout: post
 <p >Updated September 26, 2011, with "I'm a Woman I'm Your Wife" by Fair Ohs. This track from <em>Pacific Rim: Early Recordings</em> offers a unique blend of folk and popgaze, making it a timeless gem.</p> <!-- Featured Image -->
 <div > <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQV7rMmbSjPxRPwVCT6MB4ZvmmqiVXtZQa_Tw&s" alt="Fair Ohs - I'm a Woman I'm Your Wife" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/Tk64B3PLP-c" title="Thee Fair Ohs - I'm Your Woman, I'm Your Wife" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "Tk64B3PLP-c" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"I'm a Woman I'm Your Wife"</em> by Fair Ohs is a standout track that highlights their experimental approach, seamlessly blending folk roots with a popgaze aesthetic.</p>
 </div> <!-- Footer Links -->

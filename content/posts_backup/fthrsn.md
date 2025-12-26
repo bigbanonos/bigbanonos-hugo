@@ -7,7 +7,7 @@ layout: post
 <p >Updated March 1, 2011, with "Nothing's the Matter" by FTHRSN. This dreamy, ethereal track blends soothing melodies with introspective vibes, making it a standout in indie music. Watch the video below!</p> <!-- Featured Image -->
 <div > <img src="https://i1.sndcdn.com/artworks-000036233384-dcpzok-t1080x1080.jpg" alt="FTHRSN - Nothing's the Matter" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="685" height="385" src="https://www.youtube.com/embed/3CrAiKaRdow" title="FTHRSN: NOTHING'S THE MATTER" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "3CrAiKaRdow" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Nothing's the Matter"</em> is a reflective track that showcases FTHRSN's ability to create atmospheric and emotive music. Its lush instrumentation and heartfelt delivery make it a must-listen for fans of introspective indie sounds.</p>
 </div> <!-- Footer Links -->

@@ -7,7 +7,7 @@ layout: post
 <p >Updated March 3, 2015, with "Flex" by DJ RPM and Rich Homie Quan. Originally released on March 3, 2015, this standout track from *Dirty Money Part 6* via *101 Distribution* captures the essence of ATL hip hop and southern trap vibes.</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d00001e02acaa9c594294dc56182a4f61" alt="DJ RPM and Rich Homie Quan - Flex" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/bWMw4vE3J8s" title="Rich Homie Quan - Flex (Ooh, Ooh, Ooh)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "bWMw4vE3J8s" >}}
 </div> <!-- Song Information -->
 <div > <p>"Flex" delivers Rich Homie Quan's signature smooth flow paired with DJ RPM's electrifying production, cementing its place as a southern hip-hop anthem.</p>
 </div> <!-- Footer Links -->

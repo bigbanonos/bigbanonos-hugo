@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "You Swan, Go On" by Mount Eerie, featuring Julie Doiron and Fred Squire. From the album <em>Lost Wisdom</em>, this track merges art pop, chamber pop, and lo-fi melancholy, showcasing the raw and intimate songwriting style of Mount Eerie.</p> <!-- Featured Image -->
 <div > <img src="https://static01.nyt.com/images/2017/03/23/arts/23MOUNTEERIE1/23MOUNTEERIE1-superJumbo.jpg" alt="Mount Eerie, Julie Doiron & Fred Squire - You Swan, Go On" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="617" src="https://www.youtube.com/embed/1gfMJTs717Y" title="You Swan, Go On" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "1gfMJTs717Y" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"You Swan, Go On"</em> by Mount Eerie, featuring Julie Doiron and Fred Squire, is a lo-fi ballad that encapsulates the melancholy and introspective nature of Mount Eerie's music. From the album <em>Lost Wisdom</em>, this track blends slowcore, art pop, and noise pop influences, offering a deep, reflective listening experience.</p>
 </div> <!-- Footer Links -->

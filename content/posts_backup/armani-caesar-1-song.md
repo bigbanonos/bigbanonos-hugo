@@ -2,7 +2,7 @@
 title: "armani caesar 1 song"
 layout: post
 ---
-<iframe frameborder="0" height="270" src="https://youtube.com/embed/OuH4LtIgCNo" width="480"></iframe><h2><ol><li>(ft. Benny The Butcher) Simply Done [2020]</li></ol></h2>
+{{< youtube "OuH4LtIgCNo" >}}<h2><ol><li>(ft. Benny The Butcher) Simply Done [2020]</li></ol></h2>
 
 <!--Subscribe and Playlist Links-->
 <div>

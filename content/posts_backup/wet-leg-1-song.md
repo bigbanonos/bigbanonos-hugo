@@ -4,9 +4,9 @@ layout: post
 ---
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Wet Leg</h1> <!-- Featured Image -->
-<div > <img src="https://guitar.com/wp-content/uploads/2022/10/wet-leg@2000x1500.jpg" alt="Wet Leg">
+<div > {{< img-lite src="https://guitar.com/wp-content/uploads/2022/10/wet-leg@2000x1500.jpg" alt="Wet Leg" >}}
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/1TsVZviKe5acwRZdMBWrle?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Introductory Text -->
 <p >Wet Leg burst onto the indie scene with their infectious blend of crank wave and cheeky lyrics. From the smash hit *Chaise Longue* to the dreamy *Wet Dream*, here are BigBanonos' favorite tracks by this breakout band.</p> <!-- Song Highlights -->
 <div > <p>BigBanonos' standout picks:</p> <ol> <li><strong>Wet Dream</strong> | <em>Wet Dream</em> | Released: September 28, 2021 | Domino Recording Co</li> <li><strong>Chaise Longue</strong> | <em>Chaise Longue</em> | Released: June 15, 2021 | Domino Recording Co</li> </ol>

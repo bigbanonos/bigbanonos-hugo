@@ -7,7 +7,7 @@ layout: post
 <p >Updated January 25, 2019, with BigBanonos' favorite track, "Cry for Another" by Claude Fontaine. A beautifully nostalgic journey into tropical alternativo vibes.</p> <!-- Featured Image -->
 <div > <img src="https://f4.bcbits.com/img/a1449192581_65" alt="Claude Fontaine - Cry for Another" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/ztHTOL_EJWM" title="Claude Fontaine - Cry for Another (Official Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "ztHTOL_EJWM" >}}
 </div> <!-- Song Information -->
 <div > <p>"Cry for Another" is a standout track from Claude Fontaine, released by Innovative Leisure on January 25, 2019. With its tropical alternativo charm, this song showcases a unique blend of Latin influences and a vintage aesthetic.</p>
 </div> <!-- Footer Links -->

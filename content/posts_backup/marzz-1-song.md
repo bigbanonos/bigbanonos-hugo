@@ -2,7 +2,7 @@
 title: "marzz 1 song"
 layout: post
 ---
-<iframe frameborder="0" height="270" src="https://youtube.com/embed/eSt_FCD0uZc" width="480"></iframe><h2><ol><li>Feelin' Me [2021'</li></ol></h2>
+{{< youtube "eSt_FCD0uZc" >}}<h2><ol><li>Feelin' Me [2021'</li></ol></h2>
 
 <!--Subscribe and Playlist Links-->
 <div>

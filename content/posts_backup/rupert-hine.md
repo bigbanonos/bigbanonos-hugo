@@ -7,7 +7,7 @@ layout: post
 <p >Updated in 1981 with "Misplaced Love" by Rupert Hine. This evocative track, a standout from his album, captures the atmospheric and experimental sound Rupert Hine was renowned for in the 80s. Watch and listen below!</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d0000b27329abdd8669999b92d0d333b9" alt="Rupert Hine - Misplaced Love" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="95%" height="315" src="https://www.youtube.com/embed/uME5bODkl9k?list=PLtuNtuTatqI3ADcM_zLmgfpkLlcO5e9Pw" title="Rupert Hine - Misplaced Love" frameborder="0" allowfullscreen></iframe>
+<div > {{< youtube "uME5bODkl9k" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Misplaced Love"</em>, released in 1981, showcases Rupert Hineâ€™s innovative artistry. The track blends haunting melodies and reflective lyrics, embodying the introspective and experimental spirit of the early 80s.</p>
 </div> <!-- Footer Links -->

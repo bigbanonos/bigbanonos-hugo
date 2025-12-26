@@ -2,7 +2,7 @@
 title: "glume 1 song"
 layout: post
 ---
-<iframe frameborder="0" height="270" src="https://youtube.com/embed/qKy2e92DzNU" width="480"></iframe><h2><ol><li>Get Low [2021]</li></ol></h2>
+{{< youtube "qKy2e92DzNU" >}}<h2><ol><li>Get Low [2021]</li></ol></h2>
 
 <!--Subscribe and Playlist Links-->
 <div>

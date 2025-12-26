@@ -7,9 +7,9 @@ layout: post
 <p >Updated April 6, 2016, with "Honey (Medasin Remix)" by KUÃƒâ€žÃ…â€™KA. This remix elevates the original track with Medasin's unique electra-pop style, creating a fresh and mesmerizing listening experience.</p> <!-- Featured Image -->
 <div > <img src="https://img.redbull.com/images/c_fill,g_auto,w_1200,h_600/f_auto,q_auto/redbullcom/2021/4/29/jqw1zdmhmgqo3nwyh37v/kucka-2021" alt="KUÃƒâ€žÃ…â€™KA - Honey (Medasin Remix)" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/HCXW-Wbfn4U" title="KuÃƒâ€žÃ‚Âka - Honey (Medasin Remix)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "HCXW-Wbfn4U" >}}
 </div>
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/HCXW-Wbfn4U" title="KuÃƒâ€žÃ‚Âka - Honey (Medasin Remix)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "HCXW-Wbfn4U" >}}
 </div>
 <!-- Song Information -->
 <div > <p><em>"Honey (Medasin Remix)"</em> by KUÃƒâ€žÃ…â€™KA offers an ethereal reimagining of the original track. With its intricate production and captivating sound, itâ€™s a standout from the album <em>Honey Remixed</em>, released under Midnight Feature.</p>

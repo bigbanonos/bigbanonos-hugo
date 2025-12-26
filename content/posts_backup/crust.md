@@ -7,7 +7,7 @@ layout: post
 <p >Updated with BigBanonos' favorite track, "New Software" by Crust. This experimental gem brings a fresh, forward-thinking sound to the indie scene.</p> <!-- Featured Image -->
 <div > <img src="https://f4.bcbits.com/img/a0118017329_16.jpg" alt="Crust - New Software" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/y-dLO95UbJw" title="Crust - New Software" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "y-dLO95UbJw" >}}
 </div> <!-- Song Information -->
 <div > <p>"New Software" is featured on Crust's self-titled 2017 release. Its innovative approach reflects the band's commitment to pushing boundaries within their genre.</p>
 </div> <!-- Footer Links -->

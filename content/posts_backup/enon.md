@@ -7,7 +7,7 @@ layout: post
 <p >Updated February 22, 2005, with "Knock That Door" by Enon. A standout track from their compilation album *Lost Marbles and Exploded Evidence*, showcasing experimental indie rock at its finest.</p> <!-- Featured Image -->
 <div > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Enon_4.JPG/1200px-Enon_4.JPG" alt="Enon - Knock That Door" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/DjwDL6OgRMA" title="Enon - Knock That Door" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "DjwDL6OgRMA" >}}
 </div> <!-- Song Information -->
 <div > <p>"Knock That Door" blends Enon's experimental rock approach with layered production and inventive rhythms, offering a unique listening experience.</p>
 </div> <!-- Footer Links -->

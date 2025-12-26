@@ -2,8 +2,8 @@
 title: "fuzz"
 layout: post
 ---
-<h2>BigBanonos' Favorite Songs by Fuzz</h2> <p><strong>Updated 2013, with "What's in My Head" from <em>Fuzz</em></strong></p> <img src="https://i.scdn.co/image/ab67616d00001e022fb3e191d2a6e51f839afbdd" width="100%" alt="Fuzz"> <p>Fuzz, fronted by Ty Segall, delivers heavy, psychedelic rock. Below is BigBanonos' favorite song by Fuzz.</p> <h3>"What's in My Head"</h3>
-<p><em>Fuzz</em>, 2013</p> <iframe width="824" height="618" src="https://www.youtube.com/embed/JeOrBXEhOSA" title="Fuzz - What's In My Head?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> <hr /> <p><strong>Tags:</strong> @fuzz</p> <hr /> <p><em>First posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+<h2>BigBanonos' Favorite Songs by Fuzz</h2> <p><strong>Updated 2013, with "What's in My Head" from <em>Fuzz</em></strong></p> {{< img-lite src="https://i.scdn.co/image/ab67616d00001e022fb3e191d2a6e51f839afbdd" alt="Fuzz" >}} <p>Fuzz, fronted by Ty Segall, delivers heavy, psychedelic rock. Below is BigBanonos' favorite song by Fuzz.</p> <h3>"What's in My Head"</h3>
+<p><em>Fuzz</em>, 2013</p> {{< youtube "JeOrBXEhOSA" >}} <hr /> <p><strong>Tags:</strong> @fuzz</p> <hr /> <p><em>First posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
 
 
 <!--Subscribe and Playlist Links-->

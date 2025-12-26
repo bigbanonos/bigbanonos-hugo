@@ -4,7 +4,7 @@ layout: post
 ---
 <h2>BigBanonos' Top 2 Songs by Billie Marten</h2> <!--Search Description-->
 <p>BigBanonos' favorite picks by Billie Marten, highlighting her unique indie anthem-folk style. Featuring popular tracks "This Is How We Move" and "Mice."</p> <!--Spotify Playlist Embed-->
-<iframe allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" allowfullscreen="" frameborder="0" height="352" loading="lazy" src="https://open.spotify.com/embed/playlist/6K8g5r8M2ZT79RUMXPXWJc?utm_source=generator" width="100%"></iframe> <!--Song Listings-->
+{{< youtube "embed" >}} <!--Song Listings-->
 <ul> <li>This Is How We Move - <em>Fiction</em> (2023-01-18)</li> <li>Mice - <em>Chess Club/RCA Victor</em> (2018-09-09)</li>
 </ul> <!--Image-->
 <img alt="Billie Marten" height="auto" src="https://static.independent.co.uk/2021/05/14/11/newFile-5.jpg" width="100%" /> <!--Tags Section-->

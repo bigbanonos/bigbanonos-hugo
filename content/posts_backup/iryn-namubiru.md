@@ -7,7 +7,7 @@ layout: post
 <p >Updated August 6, 2019, with "Makanika" by Iryn Namubiru. This captivating Ugandan pop hit showcases Iryn Namubiru's vibrant artistry under 806322 Records DK.</p> <!-- Featured Image -->
 <div > <img src="https://yt3.googleusercontent.com/ytc/AIdro_no02X0TlfTJADtKgSJIkUWyNEpVaWATIRAZlHa3dNjhA=s900-c-k-c0x00ffffff-no-rj" alt="Iryn Namubiru - Makanika" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/sDv2N7A2K9A" title="John Blaq Ft Iren Namubiru Makanika Official Video" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "sDv2N7A2K9A" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Makanika"</em>, released on August 6, 2019, is a standout track in Ugandan pop. Featuring her powerful vocals and unique style, Iryn Namubiru delivers a memorable performance that's impossible to ignore.</p>
 </div> <!-- Footer Links -->

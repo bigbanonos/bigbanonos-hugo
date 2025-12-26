@@ -7,7 +7,7 @@ layout: post
 <p >Updated January 1, 2004, with "Darling" by Entrance. This soulful track from the album *Wandering Stranger* blends the haunting beauty of new weird America with folk and acoustic roots. Watch the video below!</p> <!-- Featured Image -->
 <div > <img src="https://i.ytimg.com/vi/T939u9LXzbE/maxresdefault.jpg" alt="Entrance - Darling" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="733" height="480" src="https://www.youtube.com/embed/70IAhRo1cAQ" title="Darling" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "70IAhRo1cAQ" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Darling"</em>, from Entranceâ€™s 2004 album *Wandering Stranger*, released under Fat Possum Records, captures the ethereal essence of the new weird America genre. Its emotional depth and sparse yet striking arrangements make it an unforgettable addition to any folk/acoustic playlist.</p>
 </div> <!-- Footer Links -->

@@ -7,7 +7,7 @@ layout: post
 <p >Updated July 24, 2012, with "Faithless" by Heavenly Beat. This dreamy track from the *Talent* album perfectly encapsulates the chillwave and indie dream pop vibes that define Heavenly Beat's sound.</p> <!-- Featured Image -->
 <div > <img src="https://capturedtracks.com/files/Heavenly-Beat.jpg" alt="Heavenly Beat - Talent" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/uTA0o0DUEqw" title="Heavenly Beat - Faithless" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "uTA0o0DUEqw" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Faithless"</em> is a standout track from Heavenly Beat's *Talent*, released on July 24, 2012. With its lush instrumentation and ethereal vocals, the song is a masterclass in blending chillwave with indie dream pop elements.</p>
 </div> <!-- Footer Links -->

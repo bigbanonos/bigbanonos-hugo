@@ -3,7 +3,7 @@ title: "12 rods 1 song"
 layout: post
 ---
 <p>Ãƒâ€šÃ‚Â </p>
-<iframe allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" allowfullscreen="" frameborder="0" height="352" loading="lazy" src="https://open.spotify.com/embed/playlist/5hHHWUdbgtWvESuRXN5og4?utm_source=generator" width="100%"></iframe><br />
+{{< youtube "embed" >}}<br />
 <h3><ol><li>Twice [2023]</li><li>My Year</li><li>All I Can Thinks About</li></ol></h3><div class="separator" ><a href="https://static.stereogum.com/uploads/2023/06/unnamed-10-1687272866.jpg"><img border="0" data-original-height="575" data-original-width="800" height="575" src="https://static.stereogum.com/uploads/2023/06/unnamed-10-1687272866.jpg" width="800" /></a></div><br /><div><br /></div>
 
 

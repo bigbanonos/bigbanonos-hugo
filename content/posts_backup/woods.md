@@ -4,9 +4,9 @@ layout: post
 ---
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Woods</h1> <!-- Featured Image -->
-<div > <img src="https://f4.bcbits.com/img/0032718067_10.jpg" alt="Woods">
+<div > {{< img-lite src="https://f4.bcbits.com/img/0032718067_10.jpg" alt="Woods" >}}
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/153lsh7hS8AFgos0lnYaJ4?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Introductory Text -->
 <p >Woods deliver a unique blend of Brooklyn indie, freak folk, and neo-psychedelia. These tracks showcase the bandâ€™s ability to craft intimate yet expansive songs.</p> <!-- Song Highlights -->
 <div > <p>BigBanonos' standout picks:</p> <ol> <li><strong>Can't Get Out</strong> | <em>Can't Get Out</em> | Released: May 5, 2020 | Woodsist</li> </ol>

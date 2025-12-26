@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Coast Is Clear" by Skrillex featuring Chance the Rapper and The Social Experiment, from the album *Recess*, released on March 14, 2014, by OWSLA/Big Beat/ATL.</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d00001e02f9c294eb4a9faee9abedbdc6" alt="Skrillex - Coast Is Clear" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/Nu3cezCkzf4" title="Skrillex - Coast Is Clear with Chance The Rapper and the Social Experiment [AUDIO]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "Nu3cezCkzf4" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Coast Is Clear"</em> by Skrillex featuring Chance the Rapper and The Social Experiment is a track from the *Recess* album, released on March 14, 2014. The song blends elements of brostep, complextro, and pop dance with conscious hip hop and trap, making it a standout track in both the EDM and hip hop scenes.</p>
 </div> <!-- Footer Links -->

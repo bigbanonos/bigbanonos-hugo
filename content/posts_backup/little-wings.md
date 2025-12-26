@@ -5,9 +5,9 @@ layout: post
 <!-- Title of the Post -->
 <h1>BigBanonosâ€™ Favorite Songs by Little Wings</h1> <!-- Introductory Text -->
 <p>Little Wings brings a whimsical touch to indie folk, weaving poetic lyrics with warm acoustics. BigBanonos dives into their standout tracks that define their unique sound.</p> <!-- Featured Image -->
-<div> <img src="https://i.scdn.co/image/ab67616d0000b27300a0460da4b5c58b358da7a7" alt="Little Wings">
+<div> {{< img-lite src="https://i.scdn.co/image/ab67616d0000b27300a0460da4b5c58b358da7a7" alt="Little Wings" >}}
 </div> <!-- Spotify Embed -->
-<div> <iframe src="https://open.spotify.com/embed/playlist/7e17WmdrHSmGGCkPLhlP8A?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div> {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <h3>Top Tracks by Little Wings:</h3>
 <ol> <li><strong>Uncle Kyle Says - Re-Issue</strong> | Album: <em>Magic Wand</em> | Released: April 6, 2015 | Label: Digisquad</li> <li><strong>Look at What the Light Did Now - Re-Issue</strong> | Album: <em>Light Green Leaves</em> | Released: April 6, 2015 | Label: Digisquad</li> <li><strong>Boom! - Re-Issue</strong> | Album: <em>Light Green Leaves</em> | Released: April 6, 2015 | Label: Digisquad</li>

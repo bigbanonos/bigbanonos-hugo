@@ -2,7 +2,7 @@
 title: "casper caan 1 song"
 layout: post
 ---
-<iframe frameborder="0" height="270" src="https://youtube.com/embed/ne16Ij3japA" width="480"></iframe><h2><ol><li>Last Chance (Hot Chip Remix) [2021]</li></ol></h2>
+{{< youtube "ne16Ij3japA" >}}<h2><ol><li>Last Chance (Hot Chip Remix) [2021]</li></ol></h2>
 
 <!--Subscribe and Playlist Links-->
 <div>

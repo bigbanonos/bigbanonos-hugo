@@ -7,7 +7,7 @@ layout: post
 <p >Updated August 21, 2015, with BigBanonos' favorite song by Advance Base, "Summon Satan," from the album *Nephew in the Wild (Deluxe Edition)*. Watch the video and see more details below:</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab6761610000e5eb76faef2d87f931a184074c30" alt="Advance Base - Summon Satan" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/c9lIsU7VT-Y" title="Advance Base - Summon Satan" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "c9lIsU7VT-Y" >}}
 </div> <!-- Song Information -->
 <div > <p>Released on August 21, 2015, "Summon Satan" by Advance Base is a hauntingly beautiful blend of indie psych-pop and autoharp-driven melodies. Featured on the album *Nephew in the Wild (Deluxe Edition)*, this track showcases the intimate, emotive style that defines Advance Baseâ€™s sound.</p>
 </div> <!-- Footer Links -->

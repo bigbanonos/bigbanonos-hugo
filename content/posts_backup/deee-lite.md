@@ -7,7 +7,7 @@ layout: post
 <p >Updated April 19, 2005, with "Groove Is in the Heart" by Deee-Lite. This iconic track from the *Rhino Hi-Five: Deee-Lite* collection represents the peak of hip house, blending infectious beats with unforgettable vocals and grooves.</p> <!-- Featured Image -->
 <div > <img src="https://static.wikia.nocookie.net/singmovie/images/e/e4/Deee-lite.jpg/revision/latest?cb=20190701234123" alt="Deee-Lite - Groove Is in the Heart" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/etviGf1uWlg" title="Deee-Lite - Groove Is In The Heart (Official Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "etviGf1uWlg" >}}
 </div> <!-- Song Information -->
 <div > <p>"Groove Is in the Heart" is a timeless anthem, combining Deee-Lite's playful energy with a funky, danceable beat that continues to resonate with audiences worldwide.</p>
 </div> <!-- Footer Links -->

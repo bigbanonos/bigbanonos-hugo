@@ -6,8 +6,8 @@ layout: post
 </div> <p><em>BigBanonos</em> celebrates the artistry of Frank Ocean with a selection of his top tracks that blend neo-soul, R&B, and hip-hop influences. Updated to include standout moments from his iconic albums and singles.</p> <h3>Selected Tracks</h3>
 <ol> <li><strong>Moon River</strong> â€“ <em>Moon River</em> (2018)</li> <li><strong>Biking (Solo)</strong> â€“ <em>Biking (Solo)</em> (2017)</li> <li><strong>Chanel</strong> â€“ <em>Chanel</em> (2017)</li> <li><strong>Nikes</strong> â€“ <em>Blonde</em> (2016)</li> <li><strong>Ivy</strong> â€“ <em>Blonde</em> (2016)</li> <li><strong>Pink + White</strong> â€“ <em>Blonde</em> (2016)</li> <li><strong>Nights</strong> â€“ <em>Blonde</em> (2016)</li> <li><strong>Lost</strong> â€“ <em>channel ORANGE</em> (2012)</li> <li><strong>Hero</strong> (ft. Mick Jagger, Paul Simonon, Diplo) â€“ <em>Hero</em> (2014)</li>
 </ol> <p>Frank Ocean Top Songs Playlist:</p>
-<iframe src="https://open.spotify.com/embed/playlist/4ahYrksvtFkGe6Pv9BMBx4?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> <p>Watch the music video for "Lost" and other performances below:</p>
-<iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/x-3MYRdgla4?list=PLtuNtuTatqI0Med_jrgsPvqmG827KNGZJ" width="560"></iframe> <h3>Tags</h3>
+{{< youtube "embed" >}} <p>Watch the music video for "Lost" and other performances below:</p>
+{{< youtube "x-3MYRdgla4" >}} <h3>Tags</h3>
 <p>@frankocean,@mickjagger,@paulsimonon,@diplo</p> <hr />
 <p><em>First posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
 

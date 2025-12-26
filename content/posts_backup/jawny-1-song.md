@@ -2,7 +2,7 @@
 title: "jawny 1 song"
 layout: post
 ---
-<iframe frameborder="0" height="270" src="https://youtube.com/embed/e3Ez2DOC7aM" width="480"></iframe><h2><ol><li>Best Thing [2021]</li></ol></h2>
+{{< youtube "e3Ez2DOC7aM" >}}<h2><ol><li>Best Thing [2021]</li></ol></h2>
 
 <!--Subscribe and Playlist Links-->
 <div>

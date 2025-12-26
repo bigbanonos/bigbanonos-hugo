@@ -3,7 +3,7 @@ title: "orion"
 layout: post
 ---
 <div class="separator" ><a href="https://i.ytimg.com/vi/ukcM5Oendpg/maxresdefault.jpg" imageanchor="1"><img border="0" src="https://i.ytimg.com/vi/ukcM5Oendpg/maxresdefault.jpg" width="400" height="225" data-original-width="800" data-original-height="450" /></a></div><br />
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLtuNtuTatqI1XEDviBsYDV19cnojOGgNW" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br />
+{{< youtube "videoseries" >}}<br />
 <h2>Very Cool Video</h2>
 <h3>Time For Chrime [2019]</h3>
 

@@ -3,7 +3,7 @@ title: "the slits top songs"
 layout: post
 ---
 <h1>BigBanonos Top Songs by The Slits</h1>
-<img alt="The Slits" src="https://www.billboard.com/wp-content/uploads/media/the-slits-1980s-billboard-1548.jpg?w=942&h=623&crop=1" /> <p>The Slits brought a punk rock edge with experimental and riot grrrl influences. Here is BigBanonos' top track:</p> <ol> <li><strong>Shoplifting</strong> | <em>Cut (Deluxe Edition)</em> | Released: 1979-09-07 | UMC (Universal Music Catalogue)</li><li>Ping Pong Affair</li></ol><div></div> <div> <iframe allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" frameborder="0" height="352" loading="lazy" src="https://open.spotify.com/embed/playlist/163MFjhHUTFcr5m9EDOVNf?utm_source=generator" width="100%"></iframe>
+<img alt="The Slits" src="https://www.billboard.com/wp-content/uploads/media/the-slits-1980s-billboard-1548.jpg?w=942&h=623&crop=1" /> <p>The Slits brought a punk rock edge with experimental and riot grrrl influences. Here is BigBanonos' top track:</p> <ol> <li><strong>Shoplifting</strong> | <em>Cut (Deluxe Edition)</em> | Released: 1979-09-07 | UMC (Universal Music Catalogue)</li><li>Ping Pong Affair</li></ol><div></div> <div> {{< youtube "embed" >}}
 </div>
 <p>Tags: @theslits</p>
 

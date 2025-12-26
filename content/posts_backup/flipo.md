@@ -7,7 +7,7 @@ layout: post
 <p >Updated December 10, 2014, with "Doh Tell Meh Dat" by Flipo. This soca anthem brings vibrant energy and rhythmic beats that capture the heart of Caribbean music lovers worldwide.</p> <!-- Featured Image -->
 <div > <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSi2Lhve9wV3slaYFqWossWViQQD_zxXio2qg&s" alt="Flipo - Doh Tell Meh Dat" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/jxxsd5eNN90" title="Flipo - Doh Tell Meh Dat [Soca 2014]" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "jxxsd5eNN90" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Doh Tell Meh Dat"</em> is a standout single that showcases Flipo's charisma and the infectious spirit of soca music. Released under Spinnup, this track continues to energize dancefloors.</p>
 </div> <!-- Footer Links -->

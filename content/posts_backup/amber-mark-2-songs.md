@@ -2,7 +2,7 @@
 title: "amber mark 2 songs"
 layout: post
 ---
-<iframe frameborder="0" height="360" src="https://youtube.com/embed/Uw6QHtUeqe8?list=PLtuNtuTatqI20nfSZP5Smq3L80PyjrUVk" width="480"></iframe><div><h2><ol><li>Foreign Things [2021]</li><li>What If [2019]</li></ol></h2></div>
+{{< youtube "Uw6QHtUeqe8" >}}<div><h2><ol><li>Foreign Things [2021]</li><li>What If [2019]</li></ol></h2></div>
 
 <!--Subscribe and Playlist Links-->
 <div>

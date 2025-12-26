@@ -7,7 +7,7 @@ layout: post
 <p >Updated July 19, 2019, with BigBanonos' favorite collaboration, "BROWN SKIN GIRL," featuring Blue Ivy, SAINt JHN, BeyoncÃƒÆ’Ã‚Â©, and Wizkid. From *The Lion King: The Gift* album, this track celebrates beauty, culture, and pride. Watch the video and see more details below:</p> <!-- Featured Image -->
 <div > <img src="https://static01.nyt.com/images/2021/03/14/arts/14grammys-live-blog-blue-ivy1/14grammys-live-blog-blue-ivy1-superJumbo.jpg" alt="BROWN SKIN GIRL" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/vRFS0MYTC1I" title="BeyoncÃƒÆ’Ã‚Â©, Blue Ivy, SAINt JHN, WizKid - BROWN SKIN GIRL (Official Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "vRFS0MYTC1I" >}}
 </div> <!-- Song Information -->
 <div > <p>"BROWN SKIN GIRL," featuring Blue Ivy, SAINt JHN, BeyoncÃƒÆ’Ã‚Â©, and Wizkid, is an anthem of empowerment and celebration. Released on July 19, 2019, as part of *The Lion King: The Gift* under Parkwood Entertainment/Columbia, this 4:08-long track blends R&B, afrobeats, and melodic rap, making it a standout tribute to diversity and heritage.</p>
 </div> <!-- Footer Links -->

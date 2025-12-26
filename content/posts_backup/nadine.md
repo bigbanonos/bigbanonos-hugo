@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Got a Feeling" by Nadine. From the album <em>Strange Seasons</em>, released under Fundamental Records, this track combines Afrikaans influences with hip hop, creating a unique and vibrant sound.</p> <!-- Featured Image -->
 <div > <img src="https://static.wixstatic.com/media/b5c7de_00762b6146fd4cde919cc8e00258e519.jpg/v1/fill/w_568,h_380,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/b5c7de_00762b6146fd4cde919cc8e00258e519.jpg" alt="Nadine - Got a Feeling" />
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/track/42RchiS40jaj92YJzMECim?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Got a Feeling"</em> by Nadine is a dynamic track from the album <em>Strange Seasons</em>, blending Afrikaans musical elements with hip hop to create a fresh and infectious sound that stands out in the genre.</p>
 </div> <!-- Footer Links -->

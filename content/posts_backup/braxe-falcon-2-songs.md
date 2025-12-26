@@ -4,7 +4,7 @@ layout: post
 ---
 <h2>BigBanonos' Favorite Songs by Braxe + Falcon</h2> <!-- Search Description -->
 <p>BigBanonos' top 2 favorite tracks by Braxe + Falcon, featuring Alan Braxe, DJ Falcon, and Panda Bear.</p> <!-- Spotify Playlist Embed -->
-<iframe src="https://open.spotify.com/embed/playlist/3Yk7wJt1mIgI0kXVTTOpsv?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> <!-- Song Listings -->
+{{< youtube "embed" >}} <!-- Song Listings -->
 <ul> <li>Creative Source - <em>Step by Step / Creative Source</em> - Smugglers Way (2022-03-29)</li> <li>Step By Step - <em>Step by Step / Creative Source</em> - Smugglers Way (2022-03-29)</li>
 </ul> <!-- Image -->
 <img src="https://i1.sndcdn.com/artworks-AlXzcmp9n6pXrRHJ-IAfytw-t500x500.jpg" alt="Braxe + Falcon"/>

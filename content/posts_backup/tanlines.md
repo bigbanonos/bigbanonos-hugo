@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "All of Me" by Tanlines, released on March 1, 2012, from the album *Mixed Emotions*, available through True Panther Sounds. The track captures a blend of electronic, rock, and pop with a unique chillwave and shimmer pop vibe.</p> <!-- Featured Image -->
 <div > <img src="https://media.pitchfork.com/photos/5929f6540c2bba1b7de038f4/1:1/w_450%2Cc_limit/4b2b2a57.jpg" alt="Tanlines - All Of Me" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/kKJ3z9Pa7AU" title="Tanlines - All Of Me" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "kKJ3z9Pa7AU" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"All of Me"</em> by Tanlines is a track from their album *Mixed Emotions*, which blends elements of balearic beats, Brooklyn indie, and shimmer pop for a laid-back yet dynamic listening experience.</p>
 </div> <!-- Footer Links -->

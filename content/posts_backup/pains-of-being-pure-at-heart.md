@@ -7,7 +7,7 @@ layout: post
 <p >Updated February 3, 2009, with "This Love Is Fucking Right" by The Pains of Being Pure at Heart. This dreamy and emotive track from their self-titled album beautifully blends shoegaze and noise pop elements, creating an unforgettable listening experience. Watch the video below!</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d0000b2735b3d33f22faf0a8d56275116" alt="The Pains of Being Pure at Heart - This Love Is Fucking Right" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="733" height="480" src="https://www.youtube.com/embed/DXEoaXiH9Wk" title="This Love Is Fucking Right!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "DXEoaXiH9Wk" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"This Love Is Fucking Right"</em>, released on February 3, 2009, under Slumberland Records, is a standout track from The Pains of Being Pure at Heart's self-titled debut album. With its lush dream pop aesthetics and heartfelt lyrics, this song has become a beloved anthem for fans of shoegaze and noise pop.</p>
 </div> <!-- Footer Links -->

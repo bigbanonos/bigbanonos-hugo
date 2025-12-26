@@ -7,7 +7,7 @@ layout: post
 <p >Updated January 27, 2004, with "Diary of the Originator: Chapter 12 - June 27th" by DJ Screw, Demo, Big Moe, Youngsta, Big Pokey, and Key-C. Originally released on January 27, 2004, this masterpiece from *Official S.U.C.* epitomizes the chopped and screwed sound of Houston rap.</p> <!-- Featured Image -->
 <div > <img src="https://img.texasmonthly.com/2022/09/dj-screw-slow-life-texas-feat.jpg?auto=compress&crop=faces&fit=fit&fm=pjpg&ixlib=php-3.3.1&q=45" alt="DJ Screw - Diary of the Originator: Chapter 12" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/Jpi-WgivrQY" title="DJ Screw - June 27th (Freestyle 1) Feat. Big Moe, Bird, Demo & Key-C" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "Jpi-WgivrQY" >}}
 </div> <!-- Song Information -->
 <div > <p>This legendary freestyle session brings together Houston's finest, with DJ Screw's signature chopped and screwed production creating a timeless southern rap anthem.</p>
 </div> <!-- Footer Links -->

@@ -2,7 +2,7 @@
 title: "riches 1 song"
 layout: post
 ---
-<iframe frameborder="0" height="270" src="https://youtube.com/embed/y5IGOewbVpU" width="480"></iframe><h2><ol><li>Light Of Dawn [2022]</li></ol></h2>
+{{< youtube "y5IGOewbVpU" >}}<h2><ol><li>Light Of Dawn [2022]</li></ol></h2>
 
 <!--Subscribe and Playlist Links-->
 <div>

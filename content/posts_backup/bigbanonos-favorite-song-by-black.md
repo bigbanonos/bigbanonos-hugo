@@ -7,7 +7,7 @@ layout: post
 <p >BigBanonos' favorite song by Black Sabbath, "War Pigs." Featured on *The Ultimate Collection* and released under Rhino/Warner Records, this track is a monumental piece of rock and metal history. Watch the video and see more details below:</p> <!-- Featured Image -->
 <div > <img src="https://m.media-amazon.com/images/M/MV5BNDkyMTVkZWEtNjgzMy00OWE4LTg0ZDAtMzQwNWI5NmVhOTRiXkEyXkFqcGc@._V1_.jpg" alt="Black Sabbath - War Pigs" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/bc5Nk1DXyEY" title="War Pigs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "bc5Nk1DXyEY" >}}
 </div> <!-- Song Information -->
 <div > <p>"War Pigs" by Black Sabbath is an epic rock anthem that defines the band's legacy in the realms of classic and heavy metal. Under Rhino/Warner Records, this 7:54-long track is a cornerstone of album rock and Birmingham metal.</p>
 </div> <!-- Footer Links -->

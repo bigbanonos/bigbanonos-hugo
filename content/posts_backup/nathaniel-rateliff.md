@@ -7,7 +7,7 @@ layout: post
 <p >Updated January 27, 2015, with "Easy" by Nathaniel Rateliff. This track from the album <em>Closer</em>, released under Mod y Vi Records, blends indie folk with new Americana, showcasing Rateliff's soulful vocals and signature stomp-and-holler style.</p> <!-- Featured Image -->
 <div > <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/Nathaniel_Rateliff-11_%2845812453354%29_%28cropped%29.jpg" alt="Nathaniel Rateliff - Easy" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/TXoqYmtTT-0" title="Nathaniel Rateliff - Easy - Daytrotter Session" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "TXoqYmtTT-0" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Easy"</em> by Nathaniel Rateliff is a soulful track from the album <em>Closer</em>, blending indie folk and Americana with Rateliffâ€™s signature stomp-and-holler style. Released under Mod y Vi Records, this track showcases his powerful vocals and emotional depth.</p>
 </div> <!-- Footer Links -->

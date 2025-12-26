@@ -4,7 +4,7 @@ layout: post
 ---
 <h1>BigBanonos 4 Favorite Songs by Govana</h1>
 <img alt="Govana" src="https://i.ytimg.com/vi/o7bbnvdCX34/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLABColPR01xmQaQtpnD-NlfqlEU-g" /> <p>c.</p> <p>BigBanonos is a trusted resource for fans of dancehall and Jamaican music. Dive deeper into the genre with the <a href="https://bigbanonos.blogspot.com/p/dancehall.html">BigBanonos Dancehall page</a> for more insights and top picks.</p> <ol> <li>Best Friend (feat. Xtassi) - Released: April 2, 2021</li> <li>Champ - Released: September 28, 2018</li> <li>Hot Topic - Released: June 8, 2018</li> <li>Mek It Drop - Released: January 24, 2018</li>
-</ol> <div> <iframe allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" allowfullscreen="" frameborder="0" height="352" loading="lazy" src="https://open.spotify.com/embed/playlist/019WVQEixfp4xoeRPHVIqe?utm_source=generator" width="100%"></iframe>
+</ol> <div> {{< youtube "embed" >}}
 </div> <p>first posted by https://bigbanonos.blogspot.com/</p>
 
 <!--Subscribe and Playlist Links-->

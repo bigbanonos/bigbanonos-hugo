@@ -7,7 +7,7 @@ layout: post
 <p >Updated January 17, 2025, with "Headsprung" from <em>THE DEFinition</em>. Experience the timeless beats of LL COOL J in the playlist below!</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d00001e022ecb3443d8533eab9c85f830" alt="LL COOL J" />
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/6nWyg2dC6DDOLkgXjkZQUg?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <div > <p><strong>"Headsprung"</strong><br> Genre: Hip Hop<br> Album: <em>THE DEFinition</em><br> Release Date: August 31, 2004<br> Label: Mercury Records</p> <p><strong>"Doin' It"</strong><br> Genre: Hip Hop<br> Album: <em>Mr. Smith</em><br> Release Date: January 1, 1995<br> Label: Def Jam Recordings</p> <p><strong>"Mama Said Knock You Out"</strong><br> Genre: Hip Hop<br> Album: <em>Mama Said Knock You Out</em><br> Release Date: August 27, 1990<br> Label: LL Cool J</p> <p><strong>"Around The Way Girl"</strong><br> Genre: Hip Hop<br> Album: <em>Mama Said Knock You Out</em><br> Release Date: August 27, 1990<br> Label: Def Jam Recordings</p> <p><strong>"Big Ole Butt"</strong><br> Genre: Hip Hop<br> Album: <em>Walking With A Panther</em><br> Release Date: June 9, 1989<br> Label: Def Jam Recordings</p> <p><strong>"Doin' It" (feat. Leshaun)</strong><br> Genre: Hip Hop<br> Album: <em>Mr. Smith (Deluxe Edition)</em><br> Release Date: November 21, 1995<br> Label: LL Cool J</p>
 </div> <!-- Footer Links -->

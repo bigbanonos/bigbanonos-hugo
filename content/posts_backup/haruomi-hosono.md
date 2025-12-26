@@ -7,7 +7,7 @@ layout: post
 <p >Updated March 6, 2019, with "ÃƒÂ§Ã¢â‚¬ÂºÃ‚Â¸ÃƒÂ¥Ã‚ÂÃ‹â€ ÃƒÂ¥Ã¢â‚¬Å¡Ã‹Å“ (Aiaigasa) - Broken Radio Version" by Haruomi Hosono. This reflective track from *HOCHONO HOUSE* blends elements of classic J-rock and Japanese folk, offering a uniquely nostalgic and ambient experience.</p> <!-- Featured Image -->
 <div > <img src="https://media.pitchfork.com/photos/5b0620dc55ea5e2348702237/master/pass/Hosono_197303_233-Courtesy_of_Mike_Nogami.jpg" alt="Haruomi Hosono - Aiaigasa" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/lEblOs_opu4" title="Haruomi Hosono - ÃƒÂ§Ã¢â‚¬ÂºÃ‚Â¸ÃƒÂ¥Ã‚ÂÃ‹â€ ÃƒÂ¥Ã¢â‚¬Å¡Ã‹Å“ Aiaigasa (Broken Radio Version)" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "lEblOs_opu4" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"ÃƒÂ§Ã¢â‚¬ÂºÃ‚Â¸ÃƒÂ¥Ã‚ÂÃ‹â€ ÃƒÂ¥Ã¢â‚¬Å¡Ã‹Å“ (Aiaigasa) - Broken Radio Version"</em> demonstrates Haruomi Hosono's mastery of melding heartfelt melodies with innovative production. Released on March 6, 2019, this track is a standout on *HOCHONO HOUSE*, paying homage to Japanese folk traditions while incorporating a modern ambient twist.</p>
 </div> <!-- Footer Links -->

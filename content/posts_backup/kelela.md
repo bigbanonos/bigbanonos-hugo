@@ -5,9 +5,9 @@ layout: post
 <h1 >BigBanonos Favorite Songs by Kelela</h1> <p><strong>Last updated February 11, 2025</strong> with â€œWaitinâ€™ (unplugged)â€ from <em>In The Blue Light</em>. Experience the experimental R&B brilliance of Kelela in the playlist and videos below.</p> <!-- Featured Image -->
 <div> <img src="https://i.scdn.co/image/ab6761610000e5eb6fa269e34810c08f562967de" alt="Kelela" />
 </div> <!-- Featured 2025 YouTube Embed -->
-<div> <iframe width="100%" height="400" src="https://www.youtube.com/embed/I-BBK5BEFxY" title="Kelela - Waitin' (Unplugged)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div> {{< youtube "I-BBK5BEFxY" >}}
 </div> <!-- Spotify Embed -->
-<div> <iframe src="https://open.spotify.com/embed/playlist/47Lfj9T3BUk3ubGfpx4TMN?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div> {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <h3>Essential Tracks:</h3>
 <p><strong>Waitinâ€™ (unplugged)</strong><br>

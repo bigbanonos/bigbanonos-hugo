@@ -7,7 +7,7 @@ layout: post
 <p >Updated December 1, 2018, with BigBanonos' favorite track, "When Sunny Gets Blue" by Chris Connor. This timeless torch song showcases her exceptional vocal jazz talents and emotional depth.</p> <!-- Featured Image -->
 <div > <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Chris_Connor_1957.JPG" alt="Chris Connor - When Sunny Gets Blue" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/kjOc34iH-t0" title="" When Sunny Gets Blue " Chris Connor" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "kjOc34iH-t0" >}}
 </div> <!-- Song Information -->
 <div > <p>"When Sunny Gets Blue," from the album of the same name, was released on December 1, 2018, by Premium Audio. This iconic vocal jazz piece is a shining example of Chris Connor's ability to convey profound emotion and sophistication in her music.</p>
 </div> <!-- Footer Links -->

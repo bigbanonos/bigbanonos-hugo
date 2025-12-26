@@ -3,7 +3,7 @@ title: "big gigantic"
 layout: post
 ---
 <div class="separator" ><a href="https://edm.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTY0ODY5NTgzMjUxOTczNDM0/big-gigantic.png" imageanchor="1"><img border="0" src="https://edm.com/.image/ar_16:9%2Cc_fill%2Ccs_srgb%2Cg_faces:center%2Cq_auto:good%2Cw_768/MTY0ODY5NTgzMjUxOTczNDM0/big-gigantic.png" width="400" height="225" data-original-width="768" data-original-height="432" /></a></div>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLtuNtuTatqI0h4nnB42gSiJUniO3tdmzC" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{< youtube "videoseries" >}}
 <br />
 <h3>(ft. Nevve) You're The One [2019]</h3>
 

@@ -4,10 +4,10 @@ layout: post
 ---
 <h2>BigBanonos' Favorite Songs by Craig Finn</h2> <!-- Search Description -->
 <p>BigBanonos' top Craig Finn tracks, showcasing his unique storytelling in this handpicked selection.</p> <!-- Spotify Playlist Embed -->
-<iframe src="https://open.spotify.com/embed/playlist/5fyfxJPTEpKGsSn2D8GTLR?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> <!-- Song Listings -->
+{{< youtube "embed" >}} <!-- Song Listings -->
 <ul> <li><strong>The Amarillo Kid</strong> - <em>A Legacy of Rentals</em> - 2022-05-20 - Positive Jams</li> <li><strong>Balcony</strong> - <em>Clear Heart Full Eyes</em> - 2012-01-24 - Vagrant</li> <li><strong>Not Much Left Of Us</strong> - <em>Clear Heart Full Eyes</em> - 2012-01-24 - Vagrant</li>
 </ul> <!-- Image -->
-<img src="https://media.gq.com/photos/5582d6f209f0bee5644022aa/4:3/w_576,h_432,c_limit/entertainment-2012-02-craig-finn-craig-finn-628.jpg" alt="Craig Finn">
+{{< img-lite src="https://media.gq.com/photos/5582d6f209f0bee5644022aa/4:3/w_576,h_432,c_limit/entertainment-2012-02-craig-finn-craig-finn-628.jpg" alt="Craig Finn" >}}
 
 
 <!--Subscribe and Playlist Links-->

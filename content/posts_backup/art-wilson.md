@@ -7,7 +7,7 @@ layout: post
 <p >Updated April 30, 2014, with BigBanonos' favorite song by A.R.T. Wilson, "Rebecca's Theme (Water)," from the album *Overworld*. Watch the video and see more details below:</p> <!-- Featured Image -->
 <div > <img src="https://f4.bcbits.com/img/a1118075827_65" alt="A.R.T. Wilson - Rebecca's Theme (Water)" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/QExmqIKufIY" title="A.r.t Wilson - Rebecca's Theme (Water)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "QExmqIKufIY" >}}
 </div> <!-- Song Information -->
 <div > <p>Released on April 30, 2014, "Rebecca's Theme (Water)" by A.R.T. Wilson is a soothing blend of Australian ambient and fourth world influences. This track is featured on the critically acclaimed album *Overworld* and was released by the Numero Group label.</p>
 </div> <!-- Footer Links -->

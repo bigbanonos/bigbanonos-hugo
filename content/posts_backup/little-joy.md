@@ -7,7 +7,7 @@ layout: post
 <p >Updated in 2008 with "No One's Better Sake" by Little Joy. This charming indie pop track from their self-titled album <em>Little Joy</em>, released under Som Livre, perfectly embodies the relaxed vibes of LA indie music.</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/e2fd41df681682dd5939ae81805e53ce2d18374b" alt="Little Joy - No One's Better Sake" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/mhPREStJlTg" title="Little Joy - "No One's Better Sake"" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "mhPREStJlTg" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"No One's Better Sake"</em> by Little Joy is a mellow and heartfelt indie pop tune. From their self-titled debut album, this track exudes the breezy, sun-soaked charm of LA indie music, making it a must-listen for fans of laid-back yet poignant melodies.</p>
 </div> <!-- Footer Links -->

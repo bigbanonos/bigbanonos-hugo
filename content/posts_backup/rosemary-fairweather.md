@@ -2,7 +2,7 @@
 title: "rosemary fairweather"
 layout: post
 ---
-<div class="separator" ><a href="https://i.ytimg.com/vi/mGrcG-7EeVk/maxresdefault.jpg" imageanchor="1"><img border="0" src="https://i.ytimg.com/vi/mGrcG-7EeVk/maxresdefault.jpg" width="640" height="360" data-original-width="800" data-original-height="450" /></a></div><iframe width="100%" height="500" src="https://www.youtube.com/embed/qNRzaGU3p1o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br />
+<div class="separator" ><a href="https://i.ytimg.com/vi/mGrcG-7EeVk/maxresdefault.jpg" imageanchor="1"><img border="0" src="https://i.ytimg.com/vi/mGrcG-7EeVk/maxresdefault.jpg" width="640" height="360" data-original-width="800" data-original-height="450" /></a></div>{{< youtube "qNRzaGU3p1o" >}}<br />
 <h3>MTV [2018]</h3>
 
 <!--Subscribe and Playlist Links-->

@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Sentimental Heart" by She & Him. This gentle and heartfelt track from *Volume One*, released in 2008, showcases the duo's talent for crafting emotional and timeless melodies. Watch the video below!</p> <!-- Featured Image -->
 <div > <img src="https://c-fa.cdn.smule.com/rs-s37/arr/01/9f/fe26be1a-8a5b-4a80-8ddc-d0af74d76c28.jpg" alt="She & Him - Sentimental Heart" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="560" height="315" src="https://www.youtube.com/embed/1cT-P6w5wfc" frameborder="0" allowfullscreen></iframe>
+<div > {{< youtube "1cT-P6w5wfc" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Sentimental Heart"</em> by She & Him is a delicate ballad that captures the spirit of bittersweet nostalgia. Featured on *Volume One* and released via Merge Records, this 2008 gem is a standout in the indie folk scene.</p>
 </div> <!-- Footer Links -->

@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "The Truth" by Precious Bryant, a soulful track that reflects the deep spirit of Piedmont Blues.</p> <!-- Featured Image -->
 <div > <img src="https://images.squarespace-cdn.com/content/v1/5faf1608f44df56affc3aa7c/1621005265436-BUMRAUD2OXYHMSWA490J/005.jpeg?format=1500w" alt="Precious Bryant The Truth" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="514" src="https://www.youtube.com/embed/evSmGl2XD4c" title="The Truth - Precious Bryant" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "evSmGl2XD4c" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"The Truth"</em> by Precious Bryant showcases a blend of rich Piedmont blues, with heartfelt lyrics and soulful guitar work.</p>
 </div> <!-- Footer Links -->

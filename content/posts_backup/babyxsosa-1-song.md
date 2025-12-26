@@ -2,7 +2,7 @@
 title: "babyxsosa 1 song"
 layout: post
 ---
-<iframe frameborder="0" height="360" src="https://youtube.com/embed/40uEZ7axRQg" width="480"></iframe><h2><ol><li>LONELY NIGHTS IN NY [2020]</li></ol></h2>
+{{< youtube "40uEZ7axRQg" >}}<h2><ol><li>LONELY NIGHTS IN NY [2020]</li></ol></h2>
 
 <!--Subscribe and Playlist Links-->
 <div>

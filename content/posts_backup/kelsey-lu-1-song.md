@@ -2,7 +2,7 @@
 title: "kelsey lu 1 song"
 layout: post
 ---
-<iframe frameborder="0" height="270" src="https://youtube.com/embed/SxdbSt5mnRs" width="480"></iframe><h2><ol><li>I'm Not In Love [2019]</li></ol></h2>
+{{< youtube "SxdbSt5mnRs" >}}<h2><ol><li>I'm Not In Love [2019]</li></ol></h2>
 
 <!--Subscribe and Playlist Links-->
 <div>

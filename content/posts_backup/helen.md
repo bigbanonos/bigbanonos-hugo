@@ -7,7 +7,7 @@ layout: post
 <p >Updated September 4, 2015, with "Right Outside" by Helen. This atmospheric track from *The Original Faces* captures the ethereal essence of modern dream pop.</p> <!-- Featured Image -->
 <div > <img src="https://f4.bcbits.com/img/0007954133_25.jpg" alt="Helen - The Original Faces" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/euZk2VEAcGI" title="Helen - Right Outside" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "euZk2VEAcGI" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Right Outside"</em> is a mesmerizing track from Helen's *The Original Faces*, released on September 4, 2015. Its layered soundscapes and dreamy vocals epitomize the modern dream pop genre.</p>
 </div> <!-- Footer Links -->

@@ -2,7 +2,7 @@
 title: "nick haim 1 song"
 layout: post
 ---
-<div class="separator" ><iframe allowfullscreen="" class="BLOG_video_class" height="266" src="https://www.youtube.com/embed/PqzFi6PwTGA" width="320" youtube-src-id="PqzFi6PwTGA"></iframe></div><div class="separator" ><ol><li>Qadir [2020]</li></ol></div>
+<div class="separator" >{{< youtube "PqzFi6PwTGA" >}}</div><div class="separator" ><ol><li>Qadir [2020]</li></ol></div>
 
 <!--Subscribe and Playlist Links-->
 <div>

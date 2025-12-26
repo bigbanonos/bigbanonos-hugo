@@ -7,7 +7,7 @@ layout: post
 <p >Updated January 26, 2018, with BigBanonos' favorite song by 6 Dogs, "Buttcheeks," from the album of the same name. Watch the video and see more details below:</p> <!-- Featured Image -->
 <div > <img src="https://i1.sndcdn.com/artworks-bSUs8bv8XGpm-0-t500x500.jpg" alt="6 Dogs - Buttcheeks" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/IkQvssxj3x8" title="6 Dogs - Buttcheeks (Official Music Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "IkQvssxj3x8" >}}
 </div> <!-- Song Information -->
 <div > <p>Released on January 26, 2018, "Buttcheeks" by 6 Dogs blends cloud rap, dark trap, and melodic rap into a hypnotic track that quickly became a standout from his debut album, *Buttcheeks*. The song was released under Benny Blanco's Mad Love label.</p>
 </div> <!-- Footer Links -->

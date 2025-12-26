@@ -7,7 +7,7 @@ layout: post
 <p >Updated January 20, 2017, with "Anyweh Doh" from <em>Anyweh Doh</em>. Dive into the energetic beats of Lexxus in the playlist below!</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab6761610000517428bb968e36c15d4a8e9b6887" alt="Lexxus" />
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/3wBMMDtvOPrue6QnFmftfD?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <div > <p><strong>"Anyweh Doh"</strong><br> Genre: World/Traditional, R&B, Hip Hop<br> Album: <em>Anyweh Doh</em><br> Release Date: January 20, 2017<br> Label: Bassrunner Productions</p> <p><strong>"Call U" (feat. Lady Saw)</strong><br> Genre: World/Traditional, R&B, Pop, Hip Hop<br> Album: <em>Mr. Lex</em><br> Release Date: 2005<br> Label: VP Records</p>
 </div> <!-- Footer Links -->

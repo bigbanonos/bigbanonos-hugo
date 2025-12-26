@@ -2,7 +2,7 @@
 title: "clothing 1 song"
 layout: post
 ---
-<iframe allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" allowfullscreen="" frameborder="0" height="352" loading="lazy" src="https://open.spotify.com/embed/track/4pU8p1H78WyQloyJBR6KWE?utm_source=generator" width="100%"></iframe>
+{{< youtube "embed" >}}
 <h3><ul><li> (ft. Amber Coffman) Kingdom) [2024]</li></ul></h3>
 <p>what do i know? - a turnaround jumpshot, a magnetic pose</p><div class="separator" ><a href="https://i.ytimg.com/vi/-Jl-4pqyxzo/maxresdefault.jpg" imageanchor="1"><img border="0" data-original-height="450" data-original-width="800" height="450" src="https://i.ytimg.com/vi/-Jl-4pqyxzo/maxresdefault.jpg" width="800" /></a></div><br /><p><br /></p>
 

@@ -4,7 +4,7 @@ layout: post
 ---
 <h1>BigBanonos 6 Favorite Songs by Gossip</h1>
 <img alt="Gossip" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Beth_Ditto_-_Gossip_-_Roskilde_Festival_2012.jpg/238px-Beth_Ditto_-_Gossip_-_Roskilde_Festival_2012.jpg" /> <p>This collection of BigBanonos' favorite tracks by Gossip was updated November 17, 2023, with their latest release 'Crazy Again' from *Columbia Local*, capturing the energy of alternative dance and new rave.</p> <ol> <li>Crazy Again - Released: November 17, 2023</li> <li>Get Lost - Released: May 14, 2012</li> <li>Into the Wild - Released: May 14, 2012</li> <li>For Keeps - Released: June 22, 2009</li> <li>Love Long Distance - Released: June 22, 2009</li> <li>Men In Love - Released: June 22, 2009</li> <li>Coal To Diamonds - Released: October 11, 2005</li>
-</ol> <div> <iframe allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" allowfullscreen="" frameborder="0" height="352" loading="lazy" src="https://open.spotify.com/embed/playlist/4bfe4CyUCHzUFdKp1ywlFh?utm_source=generator" width="100%"></iframe>
+</ol> <div> {{< youtube "embed" >}}
 </div> <p>first posted by https://bigbanonos.blogspot.com/</p> 
 
 <!--Subscribe and Playlist Links-->

@@ -5,9 +5,9 @@ layout: post
 
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Arthur Russell</h1> <!-- Featured Image -->
-<div > <img src="https://i.scdn.co/image/ab67616d0000b273de8d964b97a77d617ff64381" alt="Arthur Russell">
+<div > {{< img-lite src="https://i.scdn.co/image/ab67616d0000b273de8d964b97a77d617ff64381" alt="Arthur Russell" >}}
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/1oNvnZI2I5VeMllECe8X19?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Introductory Text -->
 <p >Arthur Russell's experimental genius blended art pop with minimalism, creating timeless classics. From "This Is How We Walk On The Moon" to "You Did It Yourself," here are BigBanonos' favorites by the eclectic artist.</p> <!-- Song Highlights -->
 <div > <p>BigBanonos' standout picks:</p> <ol> <li><strong>You Did It Yourself</strong> | <em>You Did It Yourself</em> | Released: April 3, 2006 | Audika Records</li> <li><strong>Keeping Up</strong> | <em>Corn</em> | Released: June 9, 2015 | Audika Records</li> <li><strong>This Is How We Walk On The Moon</strong> | <em>Another Thought</em> | Released: November 29, 1994 | The Estate of Arthur Russell</li> </ol>

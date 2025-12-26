@@ -7,7 +7,7 @@ layout: post
 <p >Updated with *Good Day*, a hit track by Yellow Claw featuring DJ Snake and Elliphant. Released on February 24, 2017, through Mad Decent, this track is a blend of Dutch house, electro house, and dance pop, making waves with its infectious beats and energetic vibes.</p> <!-- Featured Image -->
 <div > <img src="https://scandipop.co.uk/wp-content/uploads/2017/02/elliphantgoodday.jpg" alt="Yellow Claw - Good Day ft. DJ Snake & Elliphant" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/RyMqplmQ_fE" title="Yellow Claw - Good Day ft. DJ Snake & Elliphant [OFFICIAL MUSIC VIDEO]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "RyMqplmQ_fE" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Good Day"</em> features Yellow Claw, DJ Snake, and Elliphant and is from the *Good Day* single released on February 24, 2017. This track blends EDM, pop dance, electro house, and Swedish indie pop, bringing a refreshing energy to the dance music scene.</p>
 </div> <!-- Footer Links -->

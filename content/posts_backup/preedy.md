@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Walk Out" by Preedy, a high-energy Soca track that brings the rhythm of Trinidad straight to the dancefloor.</p> <!-- Featured Image -->
 <div > <img src="https://i.ytimg.com/vi/ez_2FsIoHOc/maxresdefault.jpg" alt="Preedy Walk Out" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/ez_2FsIoHOc" title="Preedy - Walk Out (Set Good Riddim) '2016 Soca' (Trinidad)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "ez_2FsIoHOc" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Walk Out"</em> by Preedy is a catchy Soca tune with a vibrant Trinidadian rhythm. Feel the energy and the beats that will keep you moving!</p>
 </div> <!-- Footer Links -->

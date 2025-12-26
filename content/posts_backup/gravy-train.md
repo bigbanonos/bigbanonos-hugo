@@ -2,9 +2,9 @@
 title: "gravy train"
 layout: post
 ---
-<h2>BigBanonos' Favorite Songs by Gravy Train!!!</h2> <p><strong>Updated November 3, 2002, with "Sippin' 40z" from <em>The Menz - EP</em></strong></p> <img src="https://i.scdn.co/image/ab6761610000e5ebed6d95a783658ab8f9b577c3" width="100%" alt="Gravy Train!!!"> <p>Gravy Train!!!'s electroclash energy and irreverent lyrics make them a standout. Below are BigBanonos' favorite songs by Gravy Train!!!.</p> <h3>"Sippin' 40z"</h3>
+<h2>BigBanonos' Favorite Songs by Gravy Train!!!</h2> <p><strong>Updated November 3, 2002, with "Sippin' 40z" from <em>The Menz - EP</em></strong></p> {{< img-lite src="https://i.scdn.co/image/ab6761610000e5ebed6d95a783658ab8f9b577c3" alt="Gravy Train!!!" >}} <p>Gravy Train!!!'s electroclash energy and irreverent lyrics make them a standout. Below are BigBanonos' favorite songs by Gravy Train!!!.</p> <h3>"Sippin' 40z"</h3>
 <p><em>The Menz - EP</em>, Gravy Train!!!, November 3, 2002</p> <h3>"Hella Nervous"</h3>
-<p><em>Hello Doctor</em>, Kill Rock Stars, March 18, 2003</p> <hr /> <h3>Listen on Spotify</h3> <iframe src="https://open.spotify.com/embed/playlist/2ts0ixR4YIkmD7Y95rypvm?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> <hr /> <p><strong>Tags:</strong> @gravytrain</p> <hr /> <p><em>First posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+<p><em>Hello Doctor</em>, Kill Rock Stars, March 18, 2003</p> <hr /> <h3>Listen on Spotify</h3> {{< youtube "embed" >}} <hr /> <p><strong>Tags:</strong> @gravytrain</p> <hr /> <p><em>First posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
 
 
 <!--Subscribe and Playlist Links-->

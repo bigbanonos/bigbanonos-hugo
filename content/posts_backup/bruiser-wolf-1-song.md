@@ -2,7 +2,7 @@
 title: "bruiser wolf 1 song"
 layout: post
 ---
-<iframe frameborder="0" height="360" src="https://youtube.com/embed/4SfEcyXGg_s?si=Wk6kxhDLWPAYXY8r" width="480"></iframe><div><br /></div><div>Brick Up [2024]</div><div><br /></div><div class="separator" ><a href="https://images.genius.com/d3ba1b60075d7933dd34ae6f74b36d13.436x436x1.jpg" imageanchor="1"><img border="0" data-original-height="436" data-original-width="436" height="436" src="https://images.genius.com/d3ba1b60075d7933dd34ae6f74b36d13.436x436x1.jpg" width="436" /></a></div><br /><div><br /></div>
+{{< youtube "4SfEcyXGg_s" >}}<div><br /></div><div>Brick Up [2024]</div><div><br /></div><div class="separator" ><a href="https://images.genius.com/d3ba1b60075d7933dd34ae6f74b36d13.436x436x1.jpg" imageanchor="1"><img border="0" data-original-height="436" data-original-width="436" height="436" src="https://images.genius.com/d3ba1b60075d7933dd34ae6f74b36d13.436x436x1.jpg" width="436" /></a></div><br /><div><br /></div>
 
 <!--Subscribe and Playlist Links-->
 <div>

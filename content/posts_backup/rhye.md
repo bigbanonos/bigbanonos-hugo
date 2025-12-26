@@ -4,7 +4,7 @@ layout: post
 ---
 <h1>BigBanonos Top Songs by Rhye</h1>
 <img alt="Rhye" src="https://media.pitchfork.com/photos/5f98734a87cdfc873e5aae59/4:3/w_1332,h_999,c_limit/Rhye.jpg" /> <p>Rhye blends smooth indie soul with art pop and downtempo electronica, delivering heartfelt melodies and lush instrumentals. Here are BigBanonos' favorite tracks:</p> <ol> <li><strong>Taste</strong> | <em>Blood</em> | Released: February 2, 2018</li> <li><strong>Song For You</strong> | <em>Blood</em> | Released: February 2, 2018</li> <li><strong>Summer Days</strong> | <em>Please</em> | Released: July 7, 2017</li> <li><strong>Open</strong> | <em>Woman</em> | Released: January 1, 2013</li> <li><strong>The Fall</strong> | <em>Woman</em> | Released: January 1, 2013</li> <li><strong>3 Days</strong> | <em>Woman</em> | Released: January 1, 2013</li>
-</ol> <div> <iframe src="https://open.spotify.com/embed/playlist/6gQE1dD0NIJARiPs4io7lt?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</ol> <div> {{< youtube "embed" >}}
 </div> <p>first posted by <a href="https://bigbanonos.blogspot.com/">https://bigbanonos.blogspot.com/</a></p> <div> <p>Explore more BigBanonos content: <a href="https://bigbanonos.blogspot.com/">Website</a> | <a href="https://www.youtube.com/@BigBanonos">YouTube</a> | <a href="https://x.com/bigbanonos">Twitter</a></p>
 </div> <!--Tags-->
 <p>@rhye</p>

@@ -5,9 +5,9 @@ layout: post
 <!-- Title of the Post -->
 <h1>BigBanonosâ€™ Favorite Songs by Lightning Dust</h1> <!-- Introductory Text -->
 <p>Lightning Dustâ€™s ethereal soundscapes blend indie rock and psychedelic rock into a mesmerizing experience. BigBanonos shares the top tracks from their introspective discography.</p> <!-- Featured Image -->
-<div> <img src="https://westernvinyl.com/images/artists/lightning-dust.jpg" alt="Lightning Dust">
+<div> {{< img-lite src="https://westernvinyl.com/images/artists/lightning-dust.jpg" alt="Lightning Dust" >}}
 </div> <!-- Spotify Embed -->
-<div> <iframe src="https://open.spotify.com/embed/playlist/5nV81mSqUErgKEHGeqObTI?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div> {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <h3>Top Tracks by Lightning Dust:</h3>
 <ol> <li><strong>When It Rains</strong> | Album: <em>Spectre</em> | Released: October 4, 2019 | Label: Western Vinyl</li> <li><strong>Led Astray</strong> | Album: <em>Led Astray</em> | Released: August 16, 2019 | Label: Western Vinyl</li> <li><strong>Devoted To</strong> | Album: <em>Devoted To</em> | Released: June 28, 2019 | Label: Western Vinyl</li> <li><strong>Never Again</strong> | Album: <em>Fantasy</em> | Released: June 25, 2013 | Label: Jagjaguwar</li>

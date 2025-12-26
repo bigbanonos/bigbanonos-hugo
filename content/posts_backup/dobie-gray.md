@@ -7,7 +7,7 @@ layout: post
 <p >Updated January 1, 2000, with "Soul Days" by Dobie Gray. Released as part of *Soul Days* from *LocoBop Records*, this northern soul classic showcases Gray's unmistakable vocal charisma and timeless style.</p> <!-- Featured Image -->
 <div > <img src="https://www.billboard.com/wp-content/uploads/stylus/1363309-dobie-gray-obit-617-409.jpg?w=617" alt="Dobie Gray - Soul Days" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/weverNwNRMk" title="Dobie Gray~Soul Days" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "weverNwNRMk" >}}
 </div> <!-- Song Information -->
 <div > <p>"Soul Days" is a nostalgic journey through the golden era of northern soul. Dobie Gray's passionate delivery and soulful artistry make this track a standout in his remarkable discography.</p>
 </div> <!-- Footer Links -->

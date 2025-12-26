@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "You Put It In, I'll Take It Out" by Papa Charlie Jackson from *Please Warm My Weiner: Old Time Hokum Blues*. A vintage track full of playful blues and country rhythms, delivering a unique blend of classic sound.</p> <!-- Featured Image -->
 <div > <img src="https://i.ytimg.com/vi/_4Ij9EFGJS4/maxresdefault.jpg" alt="Papa Charlie Jackson - You Put It In, I'll Take It Out" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/NddWd6_FDlw" title="You Put It in, I'll Take It Out" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "NddWd6_FDlw" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"You Put It In, I'll Take It Out"</em> by Papa Charlie Jackson is a great example of traditional blues, featuring catchy banjo lines and playful lyrics.</p>
 </div> <!-- Footer Links -->

@@ -7,7 +7,7 @@ layout: post
 <p><strong>"Come Back Little Star"</strong> â€“ <em>Heat Lightning Rumbles In The Distance</em> (ATO Records, 2012)</p>
 <p><strong>"Disappear"</strong> â€“ <em>Heat Lightning Rumbles In The Distance</em> (ATO Records, 2012)</p>
 <p><strong>"Back of a Bible"</strong> â€“ <em>Murdering Oscar (And Other Love Songs)</em> (Ruth St. Records, 2009)</p>
-<p><strong>"I Understand Now"</strong> â€“ <em>Murdering Oscar (And Other Love Songs)</em> (Ruth St. Records, 2009)</p> <iframe src="https://open.spotify.com/embed/playlist/5j7OJgExH9Wbgcb0vkInHV?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> <p>@pattersonhood</p> <!-- Footer -->
+<p><strong>"I Understand Now"</strong> â€“ <em>Murdering Oscar (And Other Love Songs)</em> (Ruth St. Records, 2009)</p> {{< youtube "embed" >}} <p>@pattersonhood</p> <!-- Footer -->
 <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p> <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist</a></p> <p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
 
 <!--Subscribe and Playlist Links-->

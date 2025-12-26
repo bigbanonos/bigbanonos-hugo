@@ -3,7 +3,7 @@ title: "new wine"
 layout: post
 ---
 <!-- New Wine -->
-<img src="https://i1.sndcdn.com/artworks-000004600081-zva5p9-t500x500.jpg" /> <p><strong>Updated 2009 with "Revolving Cylinder"</strong></p> <iframe width="685" height="514" src="https://www.youtube.com/embed/C7_BNVru3hY" title="The New Wine - Revolving Cylinder" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> <p>@newwine</p>
+<img src="https://i1.sndcdn.com/artworks-000004600081-zva5p9-t500x500.jpg" /> <p><strong>Updated 2009 with "Revolving Cylinder"</strong></p> {{< youtube "C7_BNVru3hY" >}} <p>@newwine</p>
 
 
 <!--Subscribe and Playlist Links-->

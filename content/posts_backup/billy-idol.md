@@ -4,9 +4,9 @@ layout: post
 ---
  <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Billy Idol</h1> <!-- Featured Image -->
-<div > <img src="https://i.scdn.co/image/ab67616d0000b273a20464e6697dc1149d3a5cdc" alt="Billy Idol">
+<div > {{< img-lite src="https://i.scdn.co/image/ab67616d0000b273a20464e6697dc1149d3a5cdc" alt="Billy Idol" >}}
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/5to1c1ak87HZFcw0KH9RTK?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Introductory Text -->
 <p >Billy Idolâ€™s blend of punk attitude and pop hooks defined a generation. From "Rebel Yell" to "Eyes Without A Face," here are BigBanonos' favorite songs by the iconic rocker.</p> <!-- Song Highlights -->
 <div > <p>BigBanonos' standout picks:</p> <ol> <li><strong>Eyes Without A Face</strong> | <em>Rebel Yell</em> | Released: November 1, 1983 | CAPITOL CATALOG MKT (C92)</li> <li><strong>Rebel Yell</strong> | <em>Rebel Yell</em> | Released: November 1, 1983 | CAPITOL CATALOG MKT (C92)</li> <li><strong>Dancing With Myself</strong> (ft. Generation X) | <em>Greatest Hits</em> | Released: January 1, 2001 | Chrysalis\EMI Records (USA)</li> </ol>

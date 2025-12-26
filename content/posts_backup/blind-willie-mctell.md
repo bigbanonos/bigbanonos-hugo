@@ -3,7 +3,7 @@ title: "blind willie mctell"
 layout: post
 ---
 #1930s <br />
-<iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/-S4gHtVTYMg?list=PLtuNtuTatqI0K8aWpZ8PC5u3LDvDkPFqf" width="560"></iframe> <br />
+{{< youtube "-S4gHtVTYMg" >}} <br />
 East St. Louis 1933
 
 <!--Subscribe and Playlist Links-->

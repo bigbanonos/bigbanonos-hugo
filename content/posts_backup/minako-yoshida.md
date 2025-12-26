@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "MIDNIGHT DRIVER" by Minako Yoshida. This timeless track from the album <em>MONOCHROME</em>, released under Sony Music Direct (Japan) Inc., is a quintessential example of classic city pop, blending smooth melodies with a nostalgic urban vibe.</p> <!-- Featured Image -->
 <div > <img src="https://m.media-amazon.com/images/I/41xke6xqkAL._UXNaN_FMjpg_QL85_.jpg" alt="Minako Yoshida - MIDNIGHT DRIVER" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/tp_ojywTBWE" title="Minako Yoshida - Midnight Driver (Official Audio)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "tp_ojywTBWE" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"MIDNIGHT DRIVER"</em> by Minako Yoshida is a smooth, atmospheric city pop anthem that transports listeners to the heart of 80s Tokyo. From the album <em>MONOCHROME</em>, this track exemplifies the genre's signature blend of catchy hooks and nostalgic, synth-driven soundscapes.</p>
 </div> <!-- Footer Links -->

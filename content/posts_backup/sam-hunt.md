@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "House Party (Acoustic Mixtape)" by Sam Hunt, from the album *Between The Pines (Acoustic Mixtape)*, released on October 23, 2015, by MCA Nashville.</p> <!-- Featured Image -->
 <div > <img src="https://i1.sndcdn.com/artworks-WU7ryn6mI2Kn-0-t500x500.jpg" alt="Sam Hunt - House Party (Acoustic Mixtape)" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="601" src="https://www.youtube.com/embed/lI6LPnzjjdE" title="House Party (Acoustic Mixtape)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "lI6LPnzjjdE" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"House Party (Acoustic Mixtape)"</em> by Sam Hunt is a track from the album *Between The Pines (Acoustic Mixtape)*, released on October 23, 2015. The song showcases a stripped-back acoustic version of Hunt's contemporary country style, offering an intimate take on his signature sound.</p>
 </div> <!-- Footer Links -->

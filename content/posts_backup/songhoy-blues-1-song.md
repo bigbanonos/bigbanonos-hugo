@@ -2,7 +2,7 @@
 title: "songhoy blues 1 song"
 layout: post
 ---
-<iframe frameborder="0" height="360" src="https://youtube.com/embed/RMZoeLO9IM4" width="480"></iframe><h2><ol><li>Bon BonÃƒâ€šÃ‚Â (Mike Lindsay Remix) [2021]</li></ol></h2>
+{{< youtube "RMZoeLO9IM4" >}}<h2><ol><li>Bon BonÃƒâ€šÃ‚Â (Mike Lindsay Remix) [2021]</li></ol></h2>
 
 <!--Subscribe and Playlist Links-->
 <div>

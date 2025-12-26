@@ -5,7 +5,7 @@ layout: post
 <div class="separator" >
 <a href="https://cdn.cltampa.com/files/base/scomm/cltampa/image/2019/07/960w/rylorodriguez_IG.5d2f613a6d5a8.jpg" imageanchor="1"><img border="0" data-original-height="800" data-original-width="800" height="400" src="https://cdn.cltampa.com/files/base/scomm/cltampa/image/2019/07/960w/rylorodriguez_IG.5d2f613a6d5a8.jpg" width="400" /></a></div>
 <br />
-<iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/videoseries?list=PLtuNtuTatqI1zncB6wa1h6ElhjaDc5Xn7" width="560"></iframe><br />
+{{< youtube "videoseries" >}}<br />
 <br />
 <ol>
 <li>Yesterday [2020]</li>

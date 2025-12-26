@@ -7,7 +7,7 @@ layout: post
 <p >Updated with *Lush Life* by Zara Larsson, a vibrant and infectious pop anthem that showcases her signature style. Released on June 9, 2015, this track catapulted Zara to international fame, blending Swedish electropop with a catchy melody that's perfect for summer.</p> <!-- Featured Image -->
 <div > <img src="https://i.ytimg.com/vi/TMTDML5pLno/maxresdefault.jpg" alt="Zara Larsson - Lush Life" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/tD4HCZe-tew" title="Zara Larsson - Lush Life" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "tD4HCZe-tew" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Lush Life"</em> is Zara Larsson's breakout hit, offering a blend of scandipop influences with modern dance-pop. This track is an upbeat, feel-good anthem, a perfect match for Zara's confident and empowering style.</p>
 </div> <!-- Footer Links -->

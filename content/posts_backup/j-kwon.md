@@ -5,9 +5,9 @@ layout: post
 <!-- Title of the Post -->
 <h1>BigBanonosâ€™ Favorite Songs by J-Kwon</h1> <!-- Introductory Text -->
 <p>J-Kwon became a staple in the early 2000s hip-hop scene with his infectious beats and party anthems. BigBanonos revisits his classic tracks that still resonate today.</p> <!-- Featured Image -->
-<div> <img src="https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/5/eb/5ebcebe4-8e3f-11ef-b3f3-17899f69939d/6717cb9d560be.preview.jpg" alt="J-Kwon">
+<div> {{< img-lite src="https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/5/eb/5ebcebe4-8e3f-11ef-b3f3-17899f69939d/6717cb9d560be.preview.jpg" alt="J-Kwon" >}}
 </div> <!-- Spotify Embed -->
-<div> <iframe src="https://open.spotify.com/embed/playlist/3H0awejr59R5w4jBVsW9TY?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div> {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <h3>Top Songs:</h3>
 <ul> <li><strong>Tipsy - Club Mix</strong> | Album: <em>Hood Hop</em> | Released: 2002 | Label: Arista</li> <li><strong>Show Your Ass (feat. Eboni Eyes)</strong> | Album: <em>Hood Hop</em> | Released: 2004 | Label: Arista</li>

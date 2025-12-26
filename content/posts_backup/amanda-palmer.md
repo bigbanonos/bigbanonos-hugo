@@ -7,7 +7,7 @@ layout: post
 <p >Updated September 16, 2008, with "Runs In The Family" by Amanda Palmer. This intense and emotionally charged track showcases Palmerâ€™s raw lyricism and bold performance style. Watch the video below!</p> <!-- Featured Image -->
 <div > <img src="https://talkstar-photos.s3.amazonaws.com/uploads/6905d7a9-89d0-4e29-81aa-a9c4e6170456/AmandaPalmer_2013-stageshot.jpg" alt="Amanda Palmer - Runs In The Family" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="685" height="514" src="https://www.youtube.com/embed/5i0o3JRaF2g" title="Amanda Palmer - Runs In The Family [OFFICIAL VIDEO]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "5i0o3JRaF2g" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Runs In The Family"</em>, released on September 16, 2008, is a standout track from Amanda Palmerâ€™s solo album *Who Killed Amanda Palmer*. With its frenetic pace and deeply personal lyrics, itâ€™s a quintessential example of her fearless artistry.</p>
 </div> <!-- Footer Links -->

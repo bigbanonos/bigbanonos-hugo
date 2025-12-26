@@ -4,9 +4,9 @@ layout: post
 ---
  <!-- Fiona Apple - BigBanonos' Favorite Songs -->
 <h1 >BigBanonosâ€™ Favorite Songs by Fiona Apple</h1>
-<div > <img src="https://i.scdn.co/image/ab6761610000e5ebf178cbda9bd9a389581ff021" alt="Fiona Apple">
+<div > {{< img-lite src="https://i.scdn.co/image/ab6761610000e5ebf178cbda9bd9a389581ff021" alt="Fiona Apple" >}}
 </div>
-<div > <iframe src="https://open.spotify.com/embed/playlist/5RErtZlSRV8Q5m63mEjYvD?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div>
 <p >Fiona Appleâ€™s art pop and piano-driven melodies deliver unmatched depth and emotion. These tracks showcase her storytelling and vocal brilliance.</p>
 <div > <p>BigBanonos' standout picks:</p> <ol> <li><strong>Fast As You Can</strong> | <em>When The Pawn...</em> | Released: November 9, 1999 | Clean Slate/Epic</li> <li><strong>Limp</strong> | <em>When The Pawn...</em> | Released: November 9, 1999 | Clean Slate/Epic</li> <li><strong>Criminal</strong> | <em>Tidal</em> | Released: July 23, 1996 | Clean Slate/Work</li> </ol>

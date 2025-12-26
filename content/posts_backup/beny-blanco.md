@@ -4,9 +4,9 @@ layout: post
 ---
  <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Benny Blanco</h1> <!-- Featured Image -->
-<div > <img src="https://i.scdn.co/image/ab6761610000e5eb860c37890942e05e58c19372" alt="Benny Blanco">
+<div > {{< img-lite src="https://i.scdn.co/image/ab6761610000e5eb860c37890942e05e58c19372" alt="Benny Blanco" >}}
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/3MlpDKutAHXPF3NxgclU9Y?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Introductory Text -->
 <p >Benny Blanco's infectious pop tracks and collaborations with Spank Rock are must-listens. From "Shake That" to the playful "Loose," here are BigBanonos' favorite songs by the hitmaker.</p> <!-- Song Highlights -->
 <div > <p>BigBanonos' standout picks:</p> <ol> <li><strong>Shake That</strong> (ft. Spank Rock) | <em>Bangers & Cash</em> | Released: October 1, 2007 | Downtown Records - Catalog</li> <li><strong>Loose</strong> (ft. Spank Rock & Amanda Mallory) | <em>Bangers & Cash</em> | Released: October 1, 2007 | Downtown Records - Catalog</li> </ol>

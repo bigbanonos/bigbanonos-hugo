@@ -4,7 +4,7 @@ layout: post
 ---
 <h2>BigBanonos' Top 10 Favorite Songs by Beenie Man</h2> <!--Search Description-->
 <p>BigBanonos' top 10 favorite tracks by the dancehall king Beenie Man, capturing the energy of dancehall and reggae fusion. Includes iconic songs and a few rare gems from his vast discography.</p> <!--Spotify Playlist Embed-->
-<iframe allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" allowfullscreen="" frameborder="0" height="352" loading="lazy" src="https://open.spotify.com/embed/playlist/5i4WJP931J1dtq1WoplVRU?utm_source=generator" width="100%"></iframe> <!--Song Listings-->
+{{< youtube "embed" >}} <!--Song Listings-->
 <ul> <li>Want Some - <em>Donsome Records LLC</em> (2022)</li> <li>Turn Mi Loose - <em>Hans Mullings Entertainment</em> (2019)</li> <li>Dangerous Bwoy - <em>Lockecity Music Group</em> (2017)</li> <li>No Apology (feat. Craigy T) - <em>Gafjam Records / VPAL Music</em> (2016)</li> <li>Miss L.A.P. - <em>K-Licious Music</em> (2015)</li> <li>Who Am I - <em>Virgin Records</em> (2005)</li> <li>Rum & Redbull (feat. Future Fambo, Seanizzle) - <em>Seanizzle Record</em> (2011)</li> <li>Gospel Time - <em>VP Music Group, Inc</em> (1998)</li> <li>One Pound A Day (feat. John Holt, Cornell Campbell) - <em>Jet Star</em> (2005)</li> <li>Girls Dem Sugar (feat. MÃƒÆ’Ã‚Â½a) - <em>Virgin Records</em> (2005)</li>
 </ul> <!--Image-->
 <img alt="Beenie Man" height="auto" src="https://www.dancehallmag.com/assets/2023/08/Beenie-Man-scaled.jpg" width="100%" /> <!--Tags Section-->

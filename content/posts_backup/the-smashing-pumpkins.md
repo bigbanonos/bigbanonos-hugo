@@ -7,7 +7,7 @@ layout: post
 <p >"1979" by The Smashing Pumpkins remains a timeless anthem of the '90s, capturing the essence of youth and nostalgia with its signature spacegrunge sound. Originally featured on *Rotten Apples*, this track continues to resonate with listeners worldwide. Watch the official music video below!</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d0000b273431ac6e6f393acf475730ec6" alt="The Smashing Pumpkins - 1979" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/4aeETEoNfOg" title="The Smashing Pumpkins - 1979 (Official Music Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "4aeETEoNfOg" >}}
 </div> <!-- Song Information -->
 <ul> <li><strong>Ugly</strong> | <em>Aeroplane Flies High (Deluxe Edition)</em> | SMASHING PUMPKINS - DEAL #1 DIGITAL | Released: January 1, 2013</li> <li><strong>Thirty-Three (Remastered 2012)</strong> | <em>Mellon Collie And The Infinite Sadness (Deluxe Edition)</em> | Virgin Records | Released: 1995</li> <li><strong>Disarm (2011 Remaster)</strong> | <em>Siamese Dream (Deluxe Edition)</em> | Virgin Records | Released: 1993</li> <li><strong>Tonight, Tonight (Remastered 2012)</strong> | <em>Mellon Collie And The Infinite Sadness (Deluxe Edition)</em> | Virgin Records | Released: 1995</li> <li><strong>1979 (Remastered 2012)</strong> | <em>Mellon Collie And The Infinite Sadness (Deluxe Edition)</em> | Virgin Records | Released: 1995</li>
 </ul> <!-- Footer Links -->

@@ -7,7 +7,7 @@ layout: post
 <p >Updated July 30, 2013, with "Tibbie Dunbar" by Ewan MacColl. This classic track highlights the timeless charm of the British folk tradition.</p> <!-- Featured Image -->
 <div > <img src="https://f4.bcbits.com/img/a2996898244_10.jpg" alt="Ewan MacColl - Tibbie Dunbar" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/6MlktdrOrZI" title="Tibbie Dunbar" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "6MlktdrOrZI" >}}
 </div> <!-- Song Information -->
 <div > <p>From the album <em>Whiskey In The Jar</em>, "Tibbie Dunbar" reflects Ewan MacColl's artistry in capturing the essence of traditional British and Irish folk music.</p>
 </div> <!-- Footer Links -->

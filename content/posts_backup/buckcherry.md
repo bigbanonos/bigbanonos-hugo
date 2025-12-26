@@ -7,7 +7,7 @@ layout: post
 <p >Updated January 1, 1999, with "For The Movies" by Buckcherry. This heartfelt ballad from their self-titled debut album showcases the band's blend of hard rock and glam metal, delivering raw emotion and powerful melodies. Watch the video below!</p> <!-- Featured Image -->
 <div > <img src="https://www.billboard.com/wp-content/uploads/media/buckcherry-2019-press-billboard-1548.jpg" alt="Buckcherry - For The Movies" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="560" height="315" src="https://www.youtube.com/embed/7Abr1z5hOHQ" frameborder="0" allowfullscreen></iframe>
+<div > {{< youtube "7Abr1z5hOHQ" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"For The Movies"</em>, from Buckcherryâ€™s self-titled debut album, released under DreamWorks in 1999, is a standout track in the hard rock and glam metal genres. Its poignant lyrics and captivating melody continue to resonate with fans of sleaze rock and post-grunge.</p>
 </div> <!-- Footer Links -->

@@ -7,7 +7,7 @@ layout: post
 <p >Updated October 26, 2018, with "Smoking Song" by Mick Jenkins featuring BADBADNOTGOOD. This smooth and introspective track from the album <em>Pieces of a Man</em>, released under Cinematic Music Group, blends alternative hip hop, jazz, and R&B for a truly unique listening experience.</p> <!-- Featured Image -->
 <div > <img src="https://i1.sndcdn.com/avatars-000750260299-uf0gq3-t240x240.jpg" alt="Mick Jenkins - Smoking Song (feat. BadBadNotGood)" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/Ggg2kDKcnw8" title="Mick Jenkins - Smoking Song (Feat. BadBadNotGood) [Official Audio]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "Ggg2kDKcnw8" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Smoking Song"</em> by Mick Jenkins, featuring the jazz stylings of BADBADNOTGOOD, is a thought-provoking track that seamlessly combines elements of alternative hip hop, Chicago rap, and modern jazz. From the album <em>Pieces of a Man</em>, this song explores themes of self-reflection and calm amidst life's chaos.</p>
 </div> <!-- Footer Links -->

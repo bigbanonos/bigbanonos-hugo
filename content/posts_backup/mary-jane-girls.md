@@ -7,7 +7,7 @@ layout: post
 <p >Updated January 17, 2025, with "All Night Long" from <em>In My House</em>. Dive into the funky grooves of Mary Jane Girls in the playlist below!</p> <!-- Featured Image -->
 <div > <img src="https://celebritytalentagency.com/wp-content/uploads/2023/12/IMG_2466-1024x1024.jpg" alt="Mary Jane Girls" />
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/5ZOMYWCpI3WADZM6bvutxb?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <div > <p><strong>"All Night Long"</strong><br> Genre: R&B, Hip Hop<br> Album: <em>In My House</em><br> Release Date: January 1, 1994<br> Label: Motown</p> <p><strong>"In My House"</strong><br> Genre: R&B, Hip Hop<br> Album: <em>Only Four You</em><br> Release Date: January 1, 1985<br> Label: UNI/MOTOWN</p>
 </div> <!-- Footer Links -->

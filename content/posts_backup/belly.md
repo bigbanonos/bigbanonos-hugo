@@ -4,9 +4,9 @@ layout: post
 ---
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Belly</h1> <!-- Featured Image -->
-<div > <img src="https://i.scdn.co/image/ab67616100005174bff23b49045aa4099d7264ed" alt="Belly">
+<div > {{< img-lite src="https://i.scdn.co/image/ab67616100005174bff23b49045aa4099d7264ed" alt="Belly" >}}
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/1XaWRz0GYGwBp8bHvOol4y?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Introductory Text -->
 <p >Belly's captivating blend of alternative pop and rock is evident in these standout tracks. From "Super-Connected" to the moody collaboration with The Weeknd, "Might Not," here are BigBanonos' favorite picks from the band and artist.</p> <!-- Song Highlights -->
 <div > <p>BigBanonos' standout picks:</p> <ol> <li><strong>Super-Connected</strong> | <em>King</em> | Released: February 10, 1995 | Reprise</li> <li><strong>Might Not</strong> (ft. The Weeknd) | <em>Might Not</em> | Released: December 18, 2015 | Republic Records</li> </ol>

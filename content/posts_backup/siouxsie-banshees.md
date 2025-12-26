@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Swimming Horses" by Siouxsie & the Banshees. This 1984 post-punk gem combines haunting vocals and intricate arrangements. Watch the video below!</p> <!-- Featured Image -->
 <div > <img src="https://upload.wikimedia.org/wikipedia/en/d/dc/Siouxsie_SwimmingHorses.jpg" alt="Siouxsie & the Banshees - Swimming Horses" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="560" height="315" src="https://www.youtube.com/embed/Xv_LUvscGl0" frameborder="0" allowfullscreen></iframe>
+<div > {{< youtube "Xv_LUvscGl0" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Swimming Horses"</em> is a standout track from Siouxsie & the Banshees' 1984 album *Hyaena (Remastered And Expanded)*, a captivating mix of post-punk and dream pop.</p>
 </div> <!-- Footer Links -->

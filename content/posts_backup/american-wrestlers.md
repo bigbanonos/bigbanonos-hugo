@@ -7,7 +7,7 @@ layout: post
 <p >Updated April 7, 2015, with BigBanonos' favorite song by American Wrestlers, "Cheapshot," from their self-titled album *American Wrestlers*. Watch the video and see more details below:</p> <!-- Featured Image -->
 <div > <img src="https://fatpossum.com/cdn/shop/collections/IMG_6795_8bc67461-7f9a-4179-84f6-dfa3efd7fbf9_1200x1200.jpg?v=1626716900" alt="American Wrestlers - Cheapshot" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/Ceb_mchSsFw" title="Cheapshot" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "Ceb_mchSsFw" >}}
 </div> <!-- Song Information -->
 <div > <p>"Cheapshot" by American Wrestlers is a raw and melodic indie track, blending jangly guitar riffs with heartfelt vocals. Released on April 7, 2015, under Fat Possum Records, this song is a highlight from their self-titled debut album, showcasing their lo-fi and emotional sound.</p>
 </div> <!-- Footer Links -->

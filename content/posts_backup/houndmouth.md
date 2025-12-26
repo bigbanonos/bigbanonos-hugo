@@ -7,7 +7,7 @@ layout: post
 <p >Updated March 17, 2015, with "Otis" by Houndmouth. This standout track from the album *Little Neon Limelight* perfectly captures the band's indie folk and stomp-and-holler vibe, making it a modern Americana classic.</p> <!-- Featured Image -->
 <div > <img src="https://media.npr.org/assets/img/2014/11/10/houndmouth_wide-fb06e0f68c40048681296f296cbbaa1730b15c25.jpg" alt="Houndmouth - Otis" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/r6Bygcox6YE" title="Houndmouth - "Otis"" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "r6Bygcox6YE" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Otis"</em>, released on March 17, 2015, as part of *Little Neon Limelight*, showcases Houndmouth's unique blend of indie folk, modern Americana, and stomp-and-holler energy. A track full of storytelling charm and infectious melodies.</p>
 </div> <!-- Footer Links -->

@@ -7,7 +7,7 @@ layout: post
 <p >Updated October 30, 2012, with "Baby" by Donnie & Joe Emerson. Originally released on *Light In The Attic 10 Year Anniversary*, this soulful ballad blends soft rock and traditional soul, creating a timeless classic.</p> <!-- Featured Image -->
 <div > <img src="https://i.guim.co.uk/img/static/sys-images/Arts/Arts_/Pictures/2014/7/28/1406560305757/The-cover-of-Dreamin--Wil-004.jpg?width=445&dpr=1&s=none&crop=none" alt="Donnie & Joe Emerson - Baby" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/wUgPbRC2peA" title="Baby - Donnie & Joe Emerson | Music Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "wUgPbRC2peA" >}}
 </div> <!-- Song Information -->
 <div > <p>"Baby" captures a tender, heartfelt essence with its soft rock melodies and soulful harmonies, making it a standout track in Donnie & Joe Emerson's catalog.</p>
 </div> <!-- Footer Links -->

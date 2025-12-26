@@ -2,8 +2,8 @@
 title: "avalanches 4 songs"
 layout: post
 ---
-<iframe frameborder="0" height="360" src="https://youtube.com/embed/939w8RwaLSY?list=PLtuNtuTatqI1lvOF958dB-a1sjARC7_tO" width="480"></iframe><h3><ol><li>(ft. Jamie XX, Neneh Cherry, Clypso) Wherever You Go [2020]Ãƒâ€šÃ‚Â </li><li>(ft. Cola Boyy, Mick Jones) We Go OnÃƒâ€šÃ‚Â [2020]</li><li>(ft. Prince Paul) Since I Left YouÃƒâ€šÃ‚Â </li><li>Ãƒâ€šÃ‚Â Because I'm Me [2000]</li><li>Frontier Pyschiatrist [2000]</li></ol></h3>
-<iframe allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" allowfullscreen="" frameborder="0" height="352" loading="lazy" src="https://open.spotify.com/embed/playlist/0e8H6Z8viJcUVPjuDMds4M?utm_source=generator" width="100%"></iframe>
+{{< youtube "939w8RwaLSY" >}}<h3><ol><li>(ft. Jamie XX, Neneh Cherry, Clypso) Wherever You Go [2020]Ãƒâ€šÃ‚Â </li><li>(ft. Cola Boyy, Mick Jones) We Go OnÃƒâ€šÃ‚Â [2020]</li><li>(ft. Prince Paul) Since I Left YouÃƒâ€šÃ‚Â </li><li>Ãƒâ€šÃ‚Â Because I'm Me [2000]</li><li>Frontier Pyschiatrist [2000]</li></ol></h3>
+{{< youtube "embed" >}}
 
 <!--Subscribe and Playlist Links-->
 <div>

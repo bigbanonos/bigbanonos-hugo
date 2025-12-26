@@ -7,7 +7,7 @@ layout: post
 <p >Updated September 27, 2019, with "empty" by maxime. This heartfelt track from the album <em>pity party</em> captures the essence of Ottawa indie music, blending tender acoustic melodies with introspective lyrics.</p> <!-- Featured Image -->
 <div > <img src="https://i.ytimg.com/vi/XePE-WLZgEI/sddefault.jpg" alt="maxime. - empty" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/XePE-WLZgEI" title="maxime. â€“ empty (official video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "XePE-WLZgEI" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"empty"</em> by maxime. is an evocative indie folk piece that invites listeners into a world of raw emotion and vulnerability. From the album <em>pity party</em>, this track resonates with anyone who appreciates minimalist yet deeply impactful music.</p>
 </div> <!-- Footer Links -->

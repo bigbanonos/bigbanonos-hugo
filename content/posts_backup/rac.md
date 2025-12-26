@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Let Go" by RAC featuring Kele and MNDR, from the album *Let Go*, released on January 1, 2013, by Cherrytree / Interscope.</p> <!-- Featured Image -->
 <div > <img src="https://ninjatune.net/images/artists/rac-main.jpg" alt="RAC - Let Go" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/SeXBiXcEBkY" title="RAC - Let Go ft. Kele, MNDR" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "SeXBiXcEBkY" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Let Go"</em> by RAC featuring Kele and MNDR is a track from the album *Let Go*, released on January 1, 2013. The song blends elements of indietronica, metropopolis, nu disco, and shimmer pop, capturing the essence of the new rave movement.</p>
 </div> <!-- Footer Links -->

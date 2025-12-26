@@ -7,7 +7,7 @@ layout: post
 <p >Updated April 14, 2017, with "Da Vibes Yeah" by Faital. This energetic track from the <em>Fete Riddim</em> compilation showcases Faital's dynamic artistry and feel-good vibes.</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d0000b27322629c5f5f6258f9476ae353" alt="Faital - Da Vibes Yeah" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/bdYQwR9xobw" title="Faital - Da Vibes Yeah [Fete Riddim] April 2017" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "bdYQwR9xobw" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Da Vibes Yeah"</em> by Faital is a vibrant addition to the <em>Fete Riddim</em> collection. This track radiates festive energy, making it a perfect pick for dancehall and riddim enthusiasts.</p>
 </div> <!-- Footer Links -->

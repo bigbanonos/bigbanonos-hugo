@@ -7,7 +7,7 @@ layout: post
 <p >Updated July 25, 2017, with "Sweetest Life" by KWAYE. This soulful and vibrant R&B track is a standout from his debut project <em>Solar</em>, blending smooth UK contemporary R&B influences with a timeless sound.</p> <!-- Featured Image -->
 <div > <img src="https://magazine-resources.tidal.com/uploads/2018/08/Kwaye.jpg" alt="KWAYE - Sweetest Life" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/Oje0Z4SNLzk" title="KWAYE - Sweetest Life [Official Music Video]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "Oje0Z4SNLzk" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Sweetest Life"</em> by KWAYE is an expressive R&B track that captures the beauty of contemporary UK R&B. From his debut project <em>Solar</em>, released under Mind of a Genius/Warner Records, this song delivers both emotional depth and a vibrant groove.</p>
 </div> <!-- Footer Links -->

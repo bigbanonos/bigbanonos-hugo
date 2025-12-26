@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Bank Rolls (Remix)" by Tate Kobang, released on August 21, 2015, from the album *Bank Rolls (Remix)*. This track brings the energy of Baltimore hip hop, delivering smooth flows and hard-hitting beats that define the city's signature style.</p> <!-- Featured Image -->
 <div > <img src="https://i.ytimg.com/vi/RT0GKX-Pfkg/maxresdefault.jpg" alt="Tate Kobang - Bank Rolls (Remix)" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/RT0GKX-Pfkg" title="Tate Kobang - Bank Rolls Remix [Official Video]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "RT0GKX-Pfkg" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Bank Rolls (Remix)"</em> by Tate Kobang features a gritty yet infectious beat that showcases Baltimore's unique sound in the hip hop scene. With a catchy hook and confident verses, the track solidifies Tate Kobang's place in the spotlight.</p>
 </div> <!-- Footer Links -->

@@ -7,7 +7,7 @@ layout: post
 <p >"Ahprahran" by The Sugargliders is an iconic track from the twee pop genre. Featured on *A Nest With A View*, this song captures the essence of indie pop with its catchy melodies and nostalgic vibes. Watch the video below!</p> <!-- Featured Image -->
 <div > <img src="https://f4.bcbits.com/img/0014291021_25.jpg" alt="The Sugargliders - Ahprahran" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="514" src="https://www.youtube.com/embed/L4AO1Nyqw0k" title="The Sugargliders - Ahprahran" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "L4AO1Nyqw0k" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Ahprahran"</em> is a standout track from *A Nest With A View*, a perfect example of the twee pop movement, featuring sweet harmonies and jangly guitars that transport listeners to a nostalgic time.</p>
 </div> <!-- Footer Links -->

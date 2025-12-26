@@ -2,8 +2,8 @@
 title: "6ths 3 songs"
 layout: post
 ---
-<div> <img src="https://thisis-images.spotifycdn.com/37i9dQZF1DZ06evO4ySY8U-default.jpg" width="100%" alt="The 6ths">
-</div> <iframe src="https://open.spotify.com/embed/playlist/5ggOXIbcntApmZznKsrueO?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> <p>
+<div> {{< img-lite src="https://thisis-images.spotifycdn.com/37i9dQZF1DZ06evO4ySY8U-default.jpg" alt="The 6ths" >}}
+</div> {{< youtube "embed" >}} <p>
 BigBanonos' favorite The 6ths songs, ordered by release date:
 </p> <p>
 All Dressed Up In Dreams â€“ <i>Wasps' Nests</i>, January 1, 1995, Universal (MT)<br>

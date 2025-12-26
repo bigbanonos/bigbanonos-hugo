@@ -7,7 +7,7 @@ layout: post
 <p >Updated August 12, 2016, with "I Don't Wanna Know (2016 Remaster)" by Mario Winans, featuring Enya and Diddy. This iconic track from the <em>Bad Boy 20th Anniversary Box Set Edition</em>, released under Rhino Atlantic, masterfully blends elements of pop, hip hop, and world music into a hauntingly beautiful collaboration.</p> <!-- Featured Image -->
 <div > <img src="https://i.iheart.com/v3/catalog/artist/36301?ops=fit(720%2C720)" alt="Mario Winans, Enya & Diddy - I Don't Wanna Know (2016 Remaster)" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/T0BH9THi0-0" title="I Don't Wanna Know (feat. Enya & P. Diddy) (2016 Remaster)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "T0BH9THi0-0" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"I Don't Wanna Know"</em> by Mario Winans, Enya, and Diddy is a genre-defying track that fuses the atmospheric beauty of Celtic and operatic pop with the rhythmic edge of hip hop and pop rap. From the <em>Bad Boy 20th Anniversary Box Set Edition</em>, this 2016 remaster showcases timeless production and emotional depth.</p>
 </div> <!-- Footer Links -->

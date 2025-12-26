@@ -7,7 +7,7 @@ layout: post
 <p >Updated November 13, 2015, with "Wanna Be Happy?" by Kirk Franklin. This uplifting gospel R&B track radiates inspiration and faith, a highlight from his album <em>Losing My Religion</em>.</p> <!-- Featured Image -->
 <div > <img src="https://i.ytimg.com/vi/Ci-0k9GojM4/maxresdefault.jpg" alt="Kirk Franklin - Wanna Be Happy?" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/Ci-0k9GojM4" title="Kirk Franklin - Wanna Be Happy? (Official Music Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "Ci-0k9GojM4" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Wanna Be Happy?"</em> is a soulful anthem by Kirk Franklin that blends R&B with gospel elements, offering a profound message of hope and self-reflection. Released under Fo Yo Soul Recordings/RCA Records, it stands as a testament to his musical legacy.</p>
 </div> <!-- Footer Links -->

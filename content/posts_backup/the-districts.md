@@ -5,9 +5,9 @@ layout: post
 
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by The Districts</h1> <!-- Featured Image -->
-<div > <img src="https://i.scdn.co/image/ab676161000051749f4013bf7a84aac2e867961d" alt="The Districts">
+<div > {{< img-lite src="https://i.scdn.co/image/ab676161000051749f4013bf7a84aac2e867961d" alt="The Districts" >}}
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/1rbRDV5zNixExfwkNSwlef?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Introductory Text -->
 <p >The Districts deliver indie rock at its finest, capturing raw emotion and vivid storytelling. BigBanonos highlights their unforgettable tracks like "Suburban Smell" and "6:00 AM" from *A Flourish and a Spoil*.</p> <!-- Song Highlights -->
 <div > <p>BigBanonos' standout picks:</p> <ol> <li><strong>Suburban Smell</strong> | <em>A Flourish and a Spoil</em> | Released: February 10, 2015 | Fat Possum</li> <li><strong>6:00 AM</strong> | <em>A Flourish and a Spoil</em> | Released: February 10, 2015 | Fat Possum</li> </ol>

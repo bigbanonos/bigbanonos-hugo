@@ -4,9 +4,9 @@ layout: post
 ---
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Darkoo</h1> <!-- Featured Image -->
-<div > <img src="https://i.scdn.co/image/ab6761610000e5ebdb583aec530ee00398fdd375" alt="Darkoo">
+<div > {{< img-lite src="https://i.scdn.co/image/ab6761610000e5ebdb583aec530ee00398fdd375" alt="Darkoo" >}}
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/5KSHyRGk7VvCOQXYEOwmwm?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Introductory Text -->
 <p >Darkooâ€™s afrobeats and afroswing anthems like "Gangsta" bring global vibes. BigBanonos highlights their best with these irresistible tracks.</p> <!-- Song Highlights -->
 <div > <p>BigBanonos' standout picks:</p> <ol> <li><strong>Gangsta - Remix</strong> (feat. Davido, Tion Wayne, SL) | <em>Gangsta (Remix)</em> | Released: December 27, 2019 | Virgin EMI</li> <li><strong>Gangsta</strong> | <em>Gangsta</em> | Released: November 8, 2019 | Darkoo</li> </ol>

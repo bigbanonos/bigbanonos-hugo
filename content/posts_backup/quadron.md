@@ -6,7 +6,7 @@ layout: post
 <p >Quadron blends soulful melodies with lush production, redefining Scandinavian R&B. Dive into their standout tracks below.</p> <!--Featured Image-->
 <div > <img alt="Quadron" src="https://pbs.twimg.com/profile_images/1370341545447133188/uASd5J2q_400x400.jpg" />
 </div> <!--Spotify Playlist Embed-->
-<div > <iframe allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" allowfullscreen="" frameborder="0" height="352" loading="lazy" src="https://open.spotify.com/embed/playlist/4eYebZGOPciKULMIMvBEji?utm_source=generator" width="100%"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!--Song Information-->
 <div > <p><em>"Favorite Star"</em> (2013) from *Avalanche* is a shimmering R&B gem.</p> <p><em>"Slippin"</em> (2010) highlights their unique sound on their self-titled debut.</p>
 </div> <!--Footer Links-->

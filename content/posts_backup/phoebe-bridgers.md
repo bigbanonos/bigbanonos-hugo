@@ -6,7 +6,7 @@ layout: post
 <p >Phoebe Bridgers weaves introspective lyrics with ethereal melodies. Explore some of her most poignant tracks below.</p> <!-- Featured Image -->
 <div > <img src="https://i.ytimg.com/vi/W-Khe7DInxo/maxresdefault.jpg" alt="Phoebe Bridgers" />
 </div> <!-- Spotify Playlist Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/0VQ7xUTuE07BdEtPqXDOdg?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Chinese Satellite"</em> and <em>"Garden Song"</em> from *Punisher* (2020) showcase her emotional depth.</p> <p><em>"Goodbye To Love"</em> (2022) adds a haunting touch to the *Minions* soundtrack.</p> <p><em>"Kyoto"</em> (2020) pairs an upbeat sound with poignant lyrics.</p>
 </div> <!-- Footer Links -->

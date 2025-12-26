@@ -7,7 +7,7 @@ layout: post
 <p >Updated March 27, 2015, with "The Ghosts of Beverly Drive" by Death Cab for Cutie. Originally released on March 27, 2015, this track is a standout from their album *Kintsugi*, blending emotional depth with their signature indie rock sound.</p> <!-- Featured Image -->
 <div > <img src="https://images.squarespace-cdn.com/content/v1/58a7c8522994ca3986975c4c/1654578414150-IOYISC24RP74RXXB5LEQ/DCFC_4_19_221085_websize+%281%29.jpeg" alt="Death Cab for Cutie - Kintsugi Album Cover" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/srvcc8izHSU" title="Death Cab for Cutie - The Ghosts of Beverly Drive [Official Video]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "srvcc8izHSU" >}}
 </div> <!-- Song Information -->
 <div > <p>"The Ghosts of Beverly Drive" is a poignant exploration of nostalgia and loss, wrapped in Death Cab for Cutie's signature chamber pop and indie rock aesthetic. A timeless piece from their *Kintsugi* album, it captures the band's evolution and emotional resonance.</p>
 </div> <!-- Footer Links -->

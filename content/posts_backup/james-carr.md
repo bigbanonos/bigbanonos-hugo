@@ -7,7 +7,7 @@ layout: post
 <p >Updated January 2, 2013, with "Pouring Water on a Drowning Man" from <em>You Got My Mind Messed Up</em>. Relive the soulful classics of James Carr in the playlist below!</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d0000b273dea645be43789c069f962a07" alt="James Carr" />
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/3UTZrqa136afTkP9Il5rxp?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <div > <p><strong>"Pouring Water on a Drowning Man"</strong><br> Genre: R&B<br> Album: <em>You Got My Mind Messed Up</em><br> Release Date: January 2, 2013<br> Label: Ace Records</p> <p><strong>"These Ain't Raindrops"</strong><br> Genre: R&B<br> Album: <em>You Got My Mind Messed Up</em><br> Release Date: January 2, 2013<br> Label: Ace Records</p> <p><strong>"The Dark End of the Street"</strong><br> Genre: R&B<br> Album: <em>You Got My Mind Messed Up</em><br> Release Date: January 2, 2013<br> Label: Ace Records</p> <p><strong>"You've Got My Mind Messed Up"</strong><br> Genre: R&B<br> Album: <em>You Got My Mind Messed Up</em><br> Release Date: January 2, 2013<br> Label: Ace Records</p>
 </div> <!-- Footer Links -->

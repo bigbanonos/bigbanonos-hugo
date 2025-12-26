@@ -2,8 +2,8 @@
 title: "the sidekicks 2 songs"
 layout: post
 ---
-<h1>BigBanonos Top Songs by The Sidekicks</h1> <img src="https://i.ytimg.com/vi/G7Az4pasoVI/sddefault.jpg" alt="The Sidekicks"> <p>The Sidekicks mix indie punk with a touch of alternative emo. Here are BigBanonos' top picks:</p> <ol> <li><strong>Don't Feel Like Dancing</strong> | <em>Happiness Hours</em> | Released: 2018-05-18 | Epitaph</li> <li><strong>Hell Is Warm</strong> | <em>Runners In The Nerved World</em> | Released: 2015-01-16 | Epitaph</li>
-</ol> <div> <iframe src="https://open.spotify.com/embed/playlist/0m7LPp2jIt0UrYWTOryRWA?utm_source=generator" width="100%" height="352" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<h1>BigBanonos Top Songs by The Sidekicks</h1> {{< img-lite src="https://i.ytimg.com/vi/G7Az4pasoVI/sddefault.jpg" alt="The Sidekicks" >}} <p>The Sidekicks mix indie punk with a touch of alternative emo. Here are BigBanonos' top picks:</p> <ol> <li><strong>Don't Feel Like Dancing</strong> | <em>Happiness Hours</em> | Released: 2018-05-18 | Epitaph</li> <li><strong>Hell Is Warm</strong> | <em>Runners In The Nerved World</em> | Released: 2015-01-16 | Epitaph</li>
+</ol> <div> {{< youtube "embed" >}}
 </div> <!-- Tags -->
 <p> Tags: @thesidekicks
 </p>

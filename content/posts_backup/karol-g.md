@@ -3,7 +3,7 @@ title: "karol g"
 layout: post
 ---
 <h3>BigBanonos' Favorite Song by Karol G</h3> <div class="separator" > <a href="https://i.ytimg.com/vi/Mvn4KIOxcoE/maxresdefault.jpg"> <img alt="Karol G - Si Antes Te Hubiera Conocido" border="0" height="350" src="https://i.ytimg.com/vi/Mvn4KIOxcoE/maxresdefault.jpg" /> </a>
-</div> <p>BigBanonos highlights <strong>"Si Antes Te Hubiera Conocido"</strong> by Karol G, a heartfelt track that blends her signature style with emotional depth and stunning visuals. Watch the official video below:</p> <iframe width="815" height="618" src="https://www.youtube.com/embed/MgsdDfdGdHc" title="KAROL G - Si Antes Te Hubiera Conocido (Official Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> <hr />
+</div> <p>BigBanonos highlights <strong>"Si Antes Te Hubiera Conocido"</strong> by Karol G, a heartfelt track that blends her signature style with emotional depth and stunning visuals. Watch the official video below:</p> {{< youtube "MgsdDfdGdHc" >}} <hr />
 <p>For more updates, visit <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">BigBanonos</a>. Also, check out our <a href="https://www.youtube.com/@BigBanonos" rel="noopener" target="_new">YouTube</a> and <a href="https://x.com/bigbanonos" rel="noopener" target="_new">X/Twitter</a> channels for more exclusive content!</p>
 
 

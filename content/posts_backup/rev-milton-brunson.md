@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "It's Gonna Rain" by Rev. Milton Brunson and The Thompson Community Singers, from *The Ultimate Collection*, released on January 24, 2012, by Special Markets/Word.</p> <!-- Featured Image -->
 <div > <img src="https://www.malaco.com/wp-content/uploads/2017/03/952f7a59e2bbd779c9d12fd92e7c41ba.jpg" alt="Rev. Milton Brunson - It's Gonna Rain" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="601" src="https://www.youtube.com/embed/4NKVgT37b9E" title="It's Gonna Rain" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "4NKVgT37b9E" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"It's Gonna Rain"</em> by Rev. Milton Brunson and The Thompson Community Singers is a powerful gospel track from *The Ultimate Collection*, released on January 24, 2012. The song captures the essence of traditional gospel with a timeless message of hope and faith.</p>
 </div> <!-- Footer Links -->

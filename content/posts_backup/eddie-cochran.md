@@ -4,12 +4,12 @@ layout: post
 ---
 <h2 >BigBanonos' Favorite Songs by Eddie Cochran</h2> <!-- Introductory Text -->
 <p >Eddie Cochran's groundbreaking rock and roll anthems defined the 1950s and continue to resonate across generations. Updated with BigBanonos' favorite tracks, this post highlights his timeless hits like "C'mon Everybody" and "Summertime Blues." Dive into the playlist and enjoy the classics!</p> <!-- Featured Image -->
-<div > <img src="https://i.scdn.co/image/ab67616d0000b2734a64741e1fb3df563bdacdd5" alt="Eddie Cochran">
+<div > {{< img-lite src="https://i.scdn.co/image/ab67616d0000b2734a64741e1fb3df563bdacdd5" alt="Eddie Cochran" >}}
 </div> <!-- Spotify Playlist Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/4QzzVSv2OknYqFxGpUcnjn?utm_source=generator" width="100%" height="352" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- YouTube Video Embed -->
 <h3 >Video Highlights:</h3>
-<div > <iframe width="560" height="315" src="https://www.youtube.com/embed/ncbdW9bI27o?list=PLtuNtuTatqI1PgF7-Ld5rGEHiOP00NMRJ" frameborder="0" allowfullscreen></iframe>
+<div > {{< youtube "ncbdW9bI27o" >}}
 </div> <!-- Song List -->
 <h3 >Top Songs:</h3>
 <ul > <li><strong>C'mon Everybody</strong> (1958)</li> <li><strong>Summertime Blues</strong> (1958)</li>

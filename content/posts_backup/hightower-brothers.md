@@ -3,7 +3,7 @@ title: "hightower brothers"
 layout: post
 ---
 #1950s <br />
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8hctDzej2AY?list=PLtuNtuTatqI2350OnCF7NhX0o_CRBEi8s" frameborder="0" allowfullscreen></iframe>
+{{< youtube "8hctDzej2AY" >}}
 Seat in the Kingdom 1958
 
 <!--Subscribe and Playlist Links-->

@@ -7,7 +7,7 @@ layout: post
 <p >Updated January 17, 2014, with "Hard Working Girl" from <em>Juveniles</em>. Groove to the French indie pop of Juveniles in the playlist below!</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab676161000051748d126ebff8766d8280a37e0c" alt="Juveniles" />
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/5T8rdUrSrNFIKB0GuPVRdl?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <div > <p><strong>"Hard Working Girl"</strong><br> Genre: Rock, Pop<br> Album: <em>Juveniles</em><br> Release Date: 2014<br> Label: Paradis Records</p> <p><strong>"Let Me Tell You Girl"</strong><br> Genre: Rock, Pop<br> Album: <em>Train to Nowhere!: Unissued Sixties Garage Acetates, Volume Three</em><br> Release Date: July 7, 2009<br> Label: Norton Records</p>
 </div> <!-- Footer Links -->

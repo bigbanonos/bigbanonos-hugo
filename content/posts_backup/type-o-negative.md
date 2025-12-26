@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Black No. 1 (Edit)" by Type O Negative, from the album *The Best of Type O Negative*, released on September 11, 2006, by Roadrunner Records. This track features the band's signature blend of alternative metal, gothic metal, and industrial rock, creating a hauntingly dark atmosphere.</p> <!-- Featured Image -->
 <div > <img src="https://e.snmc.io/i/1200/s/5f486aa9a90a94f8494b366027192c4b/11643073" alt="Type O Negative - Black No. 1" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/vFwYJYl5GUQ" title="Type O Negative - Black No. 1 (Little Miss Scare -All) [HD Remaster] [OFFICIAL VIDEO]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "vFwYJYl5GUQ" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Black No. 1 (Edit)"</em> by Type O Negative is a track from the album *The Best of Type O Negative*, released on September 11, 2006. A quintessential piece of gothic metal, this track blends alternative metal with industrial rock for a dark, atmospheric experience.</p>
 </div> <!-- Footer Links -->

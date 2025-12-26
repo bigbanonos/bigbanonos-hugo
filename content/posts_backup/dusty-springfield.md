@@ -4,9 +4,9 @@ layout: post
 ---
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Dusty Springfield</h1> <!-- Featured Image -->
-<div > <img src="https://i.scdn.co/image/ab67616d0000b27347a2a6b7f276cdc3d67d1361" alt="Dusty Springfield">
+<div > {{< img-lite src="https://i.scdn.co/image/ab67616d0000b27347a2a6b7f276cdc3d67d1361" alt="Dusty Springfield" >}}
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/0lI5HzQTbvl7GMiBPYfzrj?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Introductory Text -->
 <p >Dusty Springfieldâ€™s soulful voice and emotional depth shine through classics like "I Don't Want to Hear It Anymore" and "It Was Easier To Hurt Him."</p> <!-- Song Highlights -->
 <div > <p>BigBanonos' standout picks:</p> <ol> <li><strong>I Don't Want to Hear It Anymore</strong> | <em>Dusty In Memphis [Deluxe Edition]</em> | Released: March 31, 1969 | Rhino Atlantic</li> <li><strong>It Was Easier To Hurt Him</strong> | <em>You Don't Have To Say You Love Me</em> | Released: July 1966 | Island Mercury</li> </ol>

@@ -7,7 +7,7 @@ layout: post
 <p >Updated June 11, 2013, with "BKNY" by Fat Tony, from his album <em>Smart Ass Black Boy</em>. This Houston rap track blends sharp lyrics with a slick production by Tom Cruz.</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d00001e02ec75cbf9bbce42fba7b9c0f2" alt="Fat Tony - BKNY" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/GQleVZ60thk" title="Fat Tony feat. Old Money - 'BKNY' (Prod. by Tom Cruz) (Official Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "GQleVZ60thk" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"BKNY"</em> brings the vibrancy of Brooklyn and Houston together in a dynamic rap collaboration. Fat Tony's charisma and Old Money's feature shine on this standout track.</p>
 </div> <!-- Footer Links -->

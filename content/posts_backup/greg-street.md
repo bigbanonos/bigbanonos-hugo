@@ -2,8 +2,8 @@
 title: "greg street"
 layout: post
 ---
-<h2>BigBanonos' Favorite Songs by Greg Street</h2> <p><strong>Updated November 22, 2009, with "Good Day"</strong></p> <img src="https://i.scdn.co/image/ffe9350f9afb5c2008bad0d7f111fbf34df9a97b" width="100%" alt="Greg Street"> <p>Greg Street's production work and DJ skills made him a key figure in Southern hip-hop. Below is BigBanonos' favorite song by Greg Street.</p> <h3>"Good Day"</h3>
-<p><em>2008, Interscope Records</em></p> <iframe width="1013" height="570" src="https://www.youtube.com/embed/hjPLkPsLxc4" title="Greg Street - Good Day (Original Performance Version) ft. Nappy Roots" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> <hr /> <p><strong>Tags:</strong> @gregstreet</p> <hr /> <p><em>First posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+<h2>BigBanonos' Favorite Songs by Greg Street</h2> <p><strong>Updated November 22, 2009, with "Good Day"</strong></p> {{< img-lite src="https://i.scdn.co/image/ffe9350f9afb5c2008bad0d7f111fbf34df9a97b" alt="Greg Street" >}} <p>Greg Street's production work and DJ skills made him a key figure in Southern hip-hop. Below is BigBanonos' favorite song by Greg Street.</p> <h3>"Good Day"</h3>
+<p><em>2008, Interscope Records</em></p> {{< youtube "hjPLkPsLxc4" >}} <hr /> <p><strong>Tags:</strong> @gregstreet</p> <hr /> <p><em>First posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
 
 
 <!--Subscribe and Playlist Links-->

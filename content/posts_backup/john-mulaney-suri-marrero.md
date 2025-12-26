@@ -7,7 +7,7 @@ layout: post
 <p >Updated December 24, 2019, with "Do You Wanna Play Restaurant?" by John Mulaney & Suri Marrero. This whimsical and comedic gem from <em>John Mulaney & The Sack Lunch Bunch</em> highlights the lighter side of musical storytelling.</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d00001e0260b13e520d217213d992112d" alt="John Mulaney & The Sack Lunch Bunch" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/YQHUj39rzwQ" title="Do You Wanna Play Restaurant?" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "YQHUj39rzwQ" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Do You Wanna Play Restaurant?"</em> is a delightful comedic piece from <strong>John Mulaney & The Sack Lunch Bunch</strong>, released by Drag City Records. This song creatively merges playful storytelling with an unmistakable comedic charm, making it a standout track in the world of musical comedy.</p>
 </div> <!-- Footer Links -->

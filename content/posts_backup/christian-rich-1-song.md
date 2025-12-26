@@ -2,7 +2,7 @@
 title: "christian rich 1 song"
 layout: post
 ---
-<iframe frameborder="0" height="270" src="https://youtube.com/embed/amu2cY0V8aI" width="480"></iframe><h2><ol><li>Cactus Flowers - 1 Song [2021]</li></ol></h2>
+{{< youtube "amu2cY0V8aI" >}}<h2><ol><li>Cactus Flowers - 1 Song [2021]</li></ol></h2>
 
 <!--Subscribe and Playlist Links-->
 <div>

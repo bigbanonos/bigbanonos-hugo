@@ -7,7 +7,7 @@ layout: post
 <p >"You Can Laugh" by The Springers is an uplifting soul track that shines with its eccentric style. Featured on *Eccentric Soul: The Way Out Label Bonus LP*, this track showcases the soulful grooves of the '70s with a modern twist. Check it out below!</p> <!-- Featured Image -->
 <div > <img src="https://is1-ssl.mzstatic.com/image/thumb/Music/5e/8a/4b/mzi.jjongpmp.tif/1200x1200bf-60.jpg" alt="The Springers - You Can Laugh" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="617" src="https://www.youtube.com/embed/Uaco1a305DE" title="You Can Laugh" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "Uaco1a305DE" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"You Can Laugh"</em> is an unforgettable soul classic from *Eccentric Soul: The Way Out Label Bonus LP*, filled with energetic melodies and charismatic vocals that capture the spirit of the era.</p>
 </div> <!-- Footer Links -->

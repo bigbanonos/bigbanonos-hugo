@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Heartbeat (Club Version)" by Taana Gardner, from the album *Larry Levans Classic West End Records Remixes Made Famous At The Legendary Paradise Garage*, released in 2011 by Ultra Records, LLC.</p> <!-- Featured Image -->
 <div > <img src="https://i.ytimg.com/vi/VoZCANbmJJY/sddefault.jpg?sqp=-oaymwEmCIAFEOAD8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGEIgVChlMA8=&rs=AOn4CLDdKKrSFnbzbzbUICKXgNbg-xEnmw" alt="Taana Gardner - Heartbeat (Club Version)" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="514" src="https://www.youtube.com/embed/7NiqRRaCp_o" title="Taana Gardner - Heartbeat (12'' Club Version) [With Lyrics]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "7NiqRRaCp_o" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Heartbeat (Club Version)"</em> by Taana Gardner is a standout track from the album *Larry Levans Classic West End Records Remixes Made Famous At The Legendary Paradise Garage*, released in 2011. This club version offers a signature post-disco, rare groove vibe that was iconic at the Paradise Garage.</p>
 </div> <!-- Footer Links -->

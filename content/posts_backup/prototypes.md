@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Danse sur la merde" by Prototypes, from the album *Prototypes*, released by Minty Fresh Records in 2006.</p> <!-- Featured Image -->
 <div > <img src="https://m.media-amazon.com/images/I/41288SVWG1L._UF1000,1000_QL80_.jpg" alt="Prototypes - Danse sur la merde" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="514" src="https://www.youtube.com/embed/GAJq-BkJFY4" title="Prototypes - Danse sur la merde" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "GAJq-BkJFY4" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Danse sur la merde"</em> by Prototypes is a classic example of French independent rock, blending raw energy with distinct local influences, featured on their 2006 album *Prototypes*, released by Minty Fresh Records.</p>
 </div> <!-- Footer Links -->

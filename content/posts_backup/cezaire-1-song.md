@@ -2,7 +2,7 @@
 title: "cezaire 1 song"
 layout: post
 ---
-<iframe frameborder="0" height="360" src="https://youtube.com/embed/YmOAhdvA1wE?si=4748FFJGMistVOLU" width="480"></iframe><div><br /></div><div>(ft. Leven Kali) Nirvana [2024]</div><div><br /></div><div class="separator" ><a href="https://i.scdn.co/image/ab67616d00001e028fd0758f475057c775a40025" imageanchor="1"><img border="0" data-original-height="300" data-original-width="300" height="300" src="https://i.scdn.co/image/ab67616d00001e028fd0758f475057c775a40025" width="300" /></a></div><br /><div><br /></div><div><br /></div>
+{{< youtube "YmOAhdvA1wE" >}}<div><br /></div><div>(ft. Leven Kali) Nirvana [2024]</div><div><br /></div><div class="separator" ><a href="https://i.scdn.co/image/ab67616d00001e028fd0758f475057c775a40025" imageanchor="1"><img border="0" data-original-height="300" data-original-width="300" height="300" src="https://i.scdn.co/image/ab67616d00001e028fd0758f475057c775a40025" width="300" /></a></div><br /><div><br /></div><div><br /></div>
 
 <!--Subscribe and Playlist Links-->
 <div>

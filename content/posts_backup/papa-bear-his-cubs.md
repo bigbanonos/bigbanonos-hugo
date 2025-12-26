@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "You're so Fine" by Papa Bear & His Cubs from *Athens Of The North*. A classic soul track that carries the timeless sound of the genre with smooth rhythms and heartfelt vocals.</p> <!-- Featured Image -->
 <div > <img src="https://f4.bcbits.com/img/a1128608903_65" alt="Papa Bear & His Cubs - You're so Fine" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/PUD1_sz3UoM" title="You're so Fine" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "PUD1_sz3UoM" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"You're so Fine"</em> by Papa Bear & His Cubs is a vibrant soul classic that effortlessly captures the spirit of classic soul with its catchy melodies and rich harmonies.</p>
 </div> <!-- Footer Links -->

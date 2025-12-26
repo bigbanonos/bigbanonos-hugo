@@ -3,7 +3,7 @@ title: "james k"
 layout: post
 ---
 <h1>BigBanonosâ€™ Favorite Track by james K</h1> <img src="https://townsquare.media/site/833/files/2025/06/attachment-james-k-play-vid.jpg" alt="james K - Play" /> <p>BigBanonos highlights <strong>â€œPlayâ€</strong>, the hallucinatory new single from james Kâ€™s upcoming album <em>Friend</em>, out via AD 93. With its shimmering breakbeat textures and dreamlike vocal delivery, â€œPlayâ€ captures james Kâ€™s uncanny ability to merge ambient pop with deconstructed club energy.</p> <p><em>Last updated July 24, 2025 with â€œPlay,â€ the lead single from <em>Doom Bikini</em>.</em></p> <!-- YouTube Embed -->
-<div> <iframe width="100%" height="400" src="https://www.youtube.com/embed/2chmQiR8R10" title="james K - Play (Official Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div> {{< youtube "2chmQiR8R10" >}}
 </div> <h3>Track Details</h3>
 <p><strong>Play</strong><br>
 Album: <em>Doom Bikini</em><br>

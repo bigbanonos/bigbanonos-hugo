@@ -3,7 +3,7 @@ title: "fgs 2 songs"
 layout: post
 ---
 <p>Updated September 16, 2024 with "Beth's Deth"</p>
-<iframe allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" allowfullscreen="" frameborder="0" height="352" loading="lazy" src="https://open.spotify.com/embed/playlist/4nDp3fP2q15AugL1vT2vTE?utm_source=generator" width="100%"></iframe>Ãƒâ€šÃ‚Â <div><h3><ol><li>Beth's Deth [2024]</li><li>Passions [2022]
+{{< youtube "embed" >}}Ãƒâ€šÃ‚Â <div><h3><ol><li>Beth's Deth [2024]</li><li>Passions [2022]
 </li></ol><div class="separator" ><a href="https://i.ytimg.com/vi/0Zr9wq_VAC8/sddefault.jpg"><img border="0" data-original-height="480" data-original-width="640" height="480" src="https://i.ytimg.com/vi/0Zr9wq_VAC8/sddefault.jpg" width="640" /></a></div><br /><div><br /></div></h3></div>
 
 <!--Subscribe and Playlist Links-->

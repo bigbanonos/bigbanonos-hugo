@@ -7,7 +7,7 @@ layout: post
 <p >"...and It's Not So Pretty" by The Wrong Words brings a mix of garage rock and catchy melodies, showcasing their raw energy and retro-inspired sound. Watch the official video below!</p> <!-- Featured Image -->
 <div > <img src="https://f4.bcbits.com/img/a2345821755_2.jpg" alt="The Wrong Words - ...and It's Not So Pretty" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="514" src="https://www.youtube.com/embed/xY0emnSntbM" title="The Wrong Words - ...and It's Not So Pretty" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "xY0emnSntbM" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"...and It's Not So Pretty"</em> from *Everything Is Free* embodies The Wrong Words' vibrant garage rock style, blending energetic riffs with catchy, lo-fi vocals. It's a true testament to their unique sound and approach to modern rock.</p>
 </div> <!-- Footer Links -->

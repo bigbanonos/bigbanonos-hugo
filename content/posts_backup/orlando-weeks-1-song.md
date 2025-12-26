@@ -2,7 +2,7 @@
 title: "orlando weeks 1 song"
 layout: post
 ---
-<iframe frameborder="0" height="270" src="https://youtube.com/embed/1d5x90tsyZY" width="480"></iframe><h2><ol><li>Big Skies, Silly Faces [2021]</li></ol></h2>
+{{< youtube "1d5x90tsyZY" >}}<h2><ol><li>Big Skies, Silly Faces [2021]</li></ol></h2>
 
 <!--Subscribe and Playlist Links-->
 <div>

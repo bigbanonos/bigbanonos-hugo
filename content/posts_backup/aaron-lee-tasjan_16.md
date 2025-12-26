@@ -7,7 +7,7 @@ layout: post
 <p >Updated October 6, 2015, with BigBanonos' favorite song by Aaron Lee Tasjan, "The Trouble With Drinkin'," from the album *In the Blazes*. Watch the video and see more details below:</p> <!-- Featured Image -->
 <div > <img src="https://i.ytimg.com/vi/qUt-hGSm2e0/sddefault.jpg" alt="Aaron Lee Tasjan - The Trouble With Drinkin'" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/KTndKykPYNo" title="Aaron Lee Tasjan - The Trouble With Drinking" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "KTndKykPYNo" >}}
 </div> <!-- Song Information -->
 <div > <p>Released on October 6, 2015, "The Trouble With Drinkin'" by Aaron Lee Tasjan is a heartfelt alternative country ballad, blending Nashville Americana and Southern Americana influences. The track is from the album *In the Blazes*, released under First of 3 Records.</p>
 </div> <!-- Footer Links -->

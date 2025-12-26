@@ -2,7 +2,7 @@
 title: "charlift"
 layout: post
 ---
-<iframe width="100%" height="545" src="https://www.youtube.com/embed/8QfUuVyJlbg?list=PLtuNtuTatqI3wo06kWds9qH_WcEWHVwia" frameborder="0" allowfullscreen></iframe><br />
+{{< youtube "8QfUuVyJlbg" >}}<br />
 Moth To A Flame 2016
 
 <!--Subscribe and Playlist Links-->

@@ -3,7 +3,7 @@ title: "lord huron on tunespeak"
 layout: post
 ---
 #2010s <br />
-<iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/3Rdiy9IzATQ?list=PLtuNtuTatqI1WcWJkhHdMy_GAx4qx47JY" width="95%"></iframe><br />
+{{< youtube "3Rdiy9IzATQ" >}}<br />
 The World Ender 2015
 <hr />
 #tunespeak <br />

@@ -7,7 +7,7 @@ layout: post
 <p >Updated January 17, 2005, with "Like That" from <em>534</em>. Dive into Memphis Bleek's east coast hip-hop vibe in the playlist below!</p> <!-- Featured Image -->
 <div > <img src="https://i.ytimg.com/vi/lRLJvUXr7F0/maxresdefault.jpg" alt="Memphis Bleek" />
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/3bbm7bVe5KZQMPK3KUvQtt?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <div > <p><strong>"Like That"</strong><br> Genre: Hip Hop<br> Album: <em>534</em><br> Release Date: January 1, 2005<br> Label: Roc-A-Fella</p> <p><strong>"Dear Summer"</strong><br> Genre: Hip Hop<br> Album: <em>534</em><br> Release Date: January 1, 2005<br> Label: Roc-A-Fella</p>
 </div> <!-- Footer Links -->

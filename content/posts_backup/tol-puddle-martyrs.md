@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Time Will Come" by Tol-Puddle Martyrs, a psychedelic gem from the '60s that's stood the test of time. Listen and transport yourself below!</p> <!-- Featured Image -->
 <div > <img src="https://i1.sndcdn.com/artworks-000151167384-aeud6p-t500x500.jpg" alt="Tol-Puddle Martyrs - Time Will Come" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="733" height="480" src="https://www.youtube.com/embed/MtUJkihHkko" title="Tol-Puddle Martyrs - Time Will Come" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "MtUJkihHkko" >}}
 </div> <!-- Footer Links -->
 <div > <p>For more updates, visit <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Also, check out our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a> channels for more exclusive content!</p>
 </div> <!-- Tags -->

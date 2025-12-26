@@ -2,7 +2,7 @@
 title: "maybe babs 1 song"
 layout: post
 ---
-<iframe frameborder="0" height="344" src="https://www.youtube.com/embed/xJ_dMKK0J2Y" width="459"></iframe><h2><ol><li>Simple Life [2020]</li></ol></h2>
+{{< youtube "xJ_dMKK0J2Y" >}}<h2><ol><li>Simple Life [2020]</li></ol></h2>
 
 <!--Subscribe and Playlist Links-->
 <div>

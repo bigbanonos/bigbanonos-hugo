@@ -7,7 +7,7 @@ layout: post
 <p >Updated September 18, 2015, with "McCormack's Wall" by Glen Hansard. This poignant track from his acclaimed album <em>Didn't He Ramble</em> encapsulates the depth of Irish storytelling through song.</p> <!-- Featured Image -->
 <div > <img src="https://www.rollingstone.com/wp-content/uploads/2019/05/glen-hansard.jpg" alt="Glen Hansard - McCormack's Wall" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/ghxweF1WuZ8" title="Glen Hansard - "McCormack's Wall"" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "ghxweF1WuZ8" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"McCormack's Wall"</em> delivers a raw and heartfelt performance, exemplifying Glen Hansard's signature blend of Irish rock and melancholic balladry. Released on September 18, 2015, the song is a must-listen for fans of evocative and soulful storytelling.</p>
 </div> <!-- Footer Links -->

@@ -7,7 +7,7 @@ layout: post
 <p >Updated January 20, 2019, with BigBanonos' favorite song by Blaster DJ and PALA, "Suave." Released under ATR, this track delivers infectious Latin beats and vibrant energy. Watch the video and see more details below:</p> <!-- Featured Image -->
 <div > <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRfRUol1rsJZ3PodWX_iWM89IuUPwghgOXRMQ&s" alt="Blaster DJ and PALA - Suave" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/-QL9hUc78mg" title="Muevelo (feat. Pala)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "-QL9hUc78mg" >}}
 </div> <!-- Song Information -->
 <div > <p>"Suave" by Blaster DJ and PALA is a pulsating Latin track that showcases the irresistible groove of rkt rhythms. Released on January 20, 2019, under ATR, this 6:11-long song is a standout dance anthem.</p>
 </div> <!-- Footer Links -->

@@ -2,7 +2,7 @@
 title: "lorange 1 song"
 layout: post
 ---
-<iframe frameborder="0" height="360" src="https://youtube.com/embed/WjQcl7Y-OLU" width="480"></iframe><br /><h2></h2><h2><ol><li>(ft. Namir Blade & Quelle Chris) Point to Point [2021]</li></ol></h2>
+{{< youtube "WjQcl7Y-OLU" >}}<br /><h2></h2><h2><ol><li>(ft. Namir Blade & Quelle Chris) Point to Point [2021]</li></ol></h2>
 
 <!--Subscribe and Playlist Links-->
 <div>

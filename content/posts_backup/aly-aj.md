@@ -7,7 +7,7 @@ layout: post
 <p >Updated August 18, 2017, with BigBanonos' favorite song by Aly & AJ, "Take Me," released under Aly & AJ Music LLC. Watch the video and see more details below:</p> <!-- Featured Image -->
 <div > <img src="https://assets.teenvogue.com/photos/599731b15f6fa02c8d62543b/4:3/w_1180,h_885,c_limit/Instagram_AlyAJ.png" alt="Aly & AJ - Take Me" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/UqmxHwLI9yg" title="Aly & AJ - Take Me" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "UqmxHwLI9yg" >}}
 </div> <!-- Song Information -->
 <div > <p>"Take Me" by Aly & AJ is a sparkling blend of dance pop and post-teen pop, infused with the duo's signature girl group energy. Released on August 18, 2017, under Aly & AJ Music LLC, this track marked their triumphant return to the music scene with a polished, retro-inspired sound.</p>
 </div> <!-- Footer Links -->

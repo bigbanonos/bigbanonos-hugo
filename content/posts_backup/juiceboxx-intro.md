@@ -6,8 +6,8 @@ layout: post
 </div> <p>Juiceboxxx brings high-energy music that blends genres and pushes boundaries. Here are <em>BigBanonos'</em> favorite tracks from the bold and dynamic artist.</p> <h3>Selected Tracks</h3>
 <ol> <li><strong>Like a Renegade</strong> â€“ <em>I Don't Wanna Go into the Darkness</em> (2012)</li> <li><strong>Intro</strong> â€“ <em>Highlights</em></li> <li><strong>Thunder</strong> â€“ <em>Highlights</em></li> <li><strong>Never Surrender</strong> â€“ <em>Highlights</em></li> <li><strong>The Feature with Folk Bellion</strong> â€“ <em>Highlights</em></li>
 </ol> <p>Stream Juiceboxxxâ€™s playlist:</p>
-<iframe src="https://open.spotify.com/embed/playlist/34bwdlgoG5GGxRvLXXKOFl?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> <p>Watch Juiceboxxx in action:</p>
-<iframe allowfullscreen="" frameborder="0" height="344" src="https://www.youtube.com/embed/6FTZWnZD3Oo" width="459"></iframe> <h3>Tags</h3>
+{{< youtube "embed" >}} <p>Watch Juiceboxxx in action:</p>
+{{< youtube "6FTZWnZD3Oo" >}} <h3>Tags</h3>
 <p>@juiceboxxx</p> <p>Explore more music on <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos' YouTube channel</a> and follow us on <a href="https://twitter.com/BigBanonos" target="_blank">Twitter</a>!</p> <hr />
 <p><em>First posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
 

@@ -7,7 +7,7 @@ layout: post
 <p >Updated September 18, 2019, with "Natural Born Killers (Ride for Me)" by James Massiah. This track, blending slam poetry with a soulful R&B vibe, is a standout from his release under Levels.</p> <!-- Featured Image -->
 <div > <img src="https://images-prod.dazeddigital.com/640/0-0-1000-854/azure/dazed-prod/1200/8/1208451.jpg" alt="James Massiah - Natural Born Killers (Ride for Me)" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/bCqDTJfBmF8" title="James Massiah - Natural Born Killers (Ride for Me)" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "bCqDTJfBmF8" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Natural Born Killers (Ride for Me)"</em> is a compelling fusion of poetic lyricism and rhythmic depth. James Massiah's unique style and introspective themes resonate powerfully, making this track a must-listen.</p>
 </div> <!-- Footer Links -->

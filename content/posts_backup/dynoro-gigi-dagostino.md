@@ -7,7 +7,7 @@ layout: post
 <p >Updated June 8, 2018, with "In My Mind" by Dynoro and Gigi D'Agostino. This global hit merges classic Italo dance vibes with modern EDM flair, making it a standout release under Columbia/B1 Recordings.</p> <!-- Featured Image -->
 <div > <img src="https://cdn-images.dzcdn.net/images/artist/7c92f4d57ae16865003eed59750104d9/1900x1900-000000-80-0-0.jpg" alt="Dynoro & Gigi D'Agostino - In My Mind" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/fCoIP5ICfx8" title="Dynoro, Gigi Dâ€™Agostino - In My Mind (Official Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "fCoIP5ICfx8" >}}
 </div> <!-- Song Information -->
 <div > <p>"In My Mind" captures the essence of modern electronic dance music, blending the nostalgic tones of Gigi Dâ€™Agostinoâ€™s signature Italo dance with Dynoroâ€™s contemporary EDM production. A perfect track for both festivals and club nights.</p>
 </div> <!-- Footer Links -->

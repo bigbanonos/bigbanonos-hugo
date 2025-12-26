@@ -7,7 +7,7 @@ layout: post
 <p >Updated September 14, 2009, with "Tell It (In My Ear)" by Fergus & Geronimo. This track is a quirky blend of Denton TX indie vibes, rich with storytelling and a unique sonic edge.</p> <!-- Featured Image -->
 <div > <img src="https://subpop-img.s3.amazonaws.com/asset/artist_images/attachments/000/009/818/max_600_400/fergus2.jpg?1680120573" alt="Fergus & Geronimo - Tell It (In My Ear)" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/pGBz-6kH4rs" title="Fergus & Geronimo - Tell It (In My Ear)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "pGBz-6kH4rs" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Tell It (In My Ear)"</em> captures the essence of indie creativity, drawing listeners into the offbeat and charming world of Fergus & Geronimo's unique sound.</p>
 </div> <!-- Footer Links -->

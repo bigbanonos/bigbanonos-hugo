@@ -4,9 +4,9 @@ layout: post
 ---
 <!-- Title of the Post -->
 <h1>BigBanonosâ€™ Favorite Songs by Tei Shi</h1> <!-- Featured Image -->
-<div> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Minu_downtownrecords-teishibloodorange-050.jpg" alt="Tei Shi">
+<div> {{< img-lite src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Minu_downtownrecords-teishibloodorange-050.jpg" alt="Tei Shi" >}}
 </div> <!-- Spotify Embed -->
-<div> <iframe src="https://open.spotify.com/embed/playlist/2xDS8y0tmb77tIqLdYgXfj?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div> {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <h3>Top Songs by Tei Shi:</h3>
 <ol> <li><strong>Even If It Hurts (feat. Blood Orange)</strong> | Album: <em>Even If It Hurts</em> | Released: September 27, 2019 | Label: Downtown Records</li> <li><strong>Say You Do - Nick Talos Remix</strong> | Album: <em>Say You Do (The Remixes)</em> | Released: December 8, 2017 | Label: Downtown JV</li> <li><strong>Nevermind The End</strong> | Released: 2013</li>

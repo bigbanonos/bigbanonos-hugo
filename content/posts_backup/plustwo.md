@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Melody (1983 Club Vinyl Mix)" by Plustwo, a defining track of the Italo Disco genre that captures the essence of early 80s dance music.</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d0000b2734463766d27bbb06e798f54f3" alt="Plustwo Melody" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/rk47HPLdQa8" title="Plustwo - Melody (1983 club vinyl mix)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "rk47HPLdQa8" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Melody (1983 Club Vinyl Mix)"</em> by Plustwo is an iconic track from the Italo Disco era, showcasing the genre's infectious melodies and timeless energy.</p>
 </div> <!-- Footer Links -->

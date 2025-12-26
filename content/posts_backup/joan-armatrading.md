@@ -7,7 +7,7 @@ layout: post
 <p >Updated January 1, 1977, with "Willow" from <em>Show Some Emotion</em>. Discover the timeless folk music of Joan Armatrading in the playlist below!</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d0000b27315ba138a939eac2c01d3508d" alt="Joan Armatrading" />
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/3LWQkilfLGMZ9L2MeU5Z7C?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <div > <p><strong>"Willow"</strong><br> Genre: Folk/Acoustic<br> Album: <em>Show Some Emotion</em><br> Release Date: January 1, 1977<br> Label: A&M</p> <p><strong>"Woncha Come On Home"</strong><br> Genre: Folk/Acoustic<br> Album: <em>Show Some Emotion</em><br> Release Date: January 1, 1977<br> Label: A&M</p> <p><strong>"Love And Affection"</strong><br> Genre: Folk/Acoustic<br> Album: <em>Joan Armatrading</em><br> Release Date: January 1, 1976<br> Label: A&M</p>
 </div> <!-- Footer Links -->

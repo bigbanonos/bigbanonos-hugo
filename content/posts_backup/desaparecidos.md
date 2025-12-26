@@ -4,9 +4,9 @@ layout: post
 ---
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Desaparecidos</h1> <!-- Featured Image -->
-<div > <img src="https://i.scdn.co/image/ab6772690000dd229737d48c50c9c19c95970d39" alt="Desaparecidos">
+<div > {{< img-lite src="https://i.scdn.co/image/ab6772690000dd229737d48c50c9c19c95970d39" alt="Desaparecidos" >}}
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/67oCdALa8QA1VaiWumx29f?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Introductory Text -->
 <p >Desaparecidos bring fiery energy and sharp lyrics to the indie rock scene with tracks like "The Left is Right" and "10 Steps Behind." BigBanonos highlights these standout tracks from *Payola*.</p> <!-- Song Highlights -->
 <div > <p>BigBanonos' standout picks:</p> <ol> <li><strong>The Left is Right</strong> | <em>Payola</em> | Released: June 23, 2015 | Epitaph</li> <li><strong>10 Steps Behind</strong> | <em>Payola</em> | Released: June 23, 2015 | Epitaph</li> </ol>

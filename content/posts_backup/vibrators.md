@@ -3,7 +3,7 @@ title: "vibrators"
 layout: post
 ---
 #1970s <br />
-<iframe width="95%" height="315" src="https://www.youtube.com/embed/fWHgcBIqdJ8?list=PLtuNtuTatqI27rEpl6sppn5M8ja8x3-Rz" frameborder="0" allowfullscreen></iframe><br />
+{{< youtube "fWHgcBIqdJ8" >}}<br />
 Baby Baby 1977
 
 <!--Subscribe and Playlist Links-->

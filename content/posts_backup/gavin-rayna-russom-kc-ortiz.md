@@ -7,7 +7,7 @@ layout: post
 <p >Updated August 5, 2019, with "Heaven's Highways" by Gavin Rayna Russom & KC Ortiz. This evocative track explores the intersections of LGBTQ+ hip hop and transpop, offering a deeply resonant and empowering sound.</p> <!-- Featured Image -->
 <div > <img src="https://media.pitchfork.com/photos/5d3872a642b8ff0009345f9c/2:1/w_2560%2Cc_limit/Gavin-Rayna-Russom.jpg" alt="Gavin Rayna Russom - Heaven's Highways" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/7PuF0w7tI3w" title="Heaven's Highways" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "7PuF0w7tI3w" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Heaven's Highways"</em> is a powerful collaboration between Gavin Rayna Russom and KC Ortiz, blending elements of hip hop and pop with an authentic LGBTQ+ perspective. Released on August 5, 2019, this track shines with its bold and heartfelt delivery.</p>
 </div> <!-- Footer Links -->

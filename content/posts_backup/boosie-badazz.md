@@ -4,9 +4,9 @@ layout: post
 ---
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Boosie Badazz</h1> <!-- Featured Image -->
-<div > <img src="https://i.scdn.co/image/ab67616d0000b273c8dcec15cb16910b47abedde" alt="Boosie Badazz">
+<div > {{< img-lite src="https://i.scdn.co/image/ab67616d0000b273c8dcec15cb16910b47abedde" alt="Boosie Badazz" >}}
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/6ShFVwpn7LMklc2ek9vmIc?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Introductory Text -->
 <p >Boosie Badazz is a cornerstone of Southern hip-hop, delivering raw emotion and authentic storytelling. From "I'm Sorry" to "Smoking On Purple," here are BigBanonos' standout tracks from the Baton Rouge rapper.</p> <!-- Song Highlights -->
 <div > <p>BigBanonos' standout picks:</p> <ol> <li><strong>I'm Sorry</strong> | <em>Touch Down 2 Cause Hell</em> | Released: May 26, 2015 | Atlantic/Trill</li> <li><strong>Smoking On Purple</strong> (feat. Webbie) | <em>Bad Azz</em> | Released: October 24, 2006 | Asylum/Trill Entertainment</li> </ol>

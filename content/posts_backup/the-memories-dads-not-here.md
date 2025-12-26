@@ -2,7 +2,7 @@
 title: "the memories dads not here"
 layout: post
 ---
-<h2>BigBanonos' Favorite Songs by Memories</h2> <p><strong>Updated April 10, 2013, with "Go Down on You" from <em>Love Is the Law</em></strong></p> <img src="https://i.scdn.co/image/ab67616d0000b2730e7830c2d89bb382237d22e6" width="100%" alt="Memories"> <p>The Memories bring hazy lo-fi rock to the forefront. Below are BigBanonos' favorite songs.</p> <h3>Listen on Spotify</h3> <iframe src="https://open.spotify.com/embed/playlist/65RJxkvGgvb1Qsy2H5EDsB?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> <h3>"Go Down on You"</h3>
+<h2>BigBanonos' Favorite Songs by Memories</h2> <p><strong>Updated April 10, 2013, with "Go Down on You" from <em>Love Is the Law</em></strong></p> {{< img-lite src="https://i.scdn.co/image/ab67616d0000b2730e7830c2d89bb382237d22e6" alt="Memories" >}} <p>The Memories bring hazy lo-fi rock to the forefront. Below are BigBanonos' favorite songs.</p> <h3>Listen on Spotify</h3> {{< youtube "embed" >}} <h3>"Go Down on You"</h3>
 <p><em>Love Is the Law</em>, 2013</p> <h3>"Labor of Love"</h3>
 <p><em>Home Style</em>, 2015</p> <h3>"It Was a Hot Afternoon"</h3>
 <p><em>Hot Afternoon</em>, 2014</p> <h3>"Touched by an Angel"</h3>

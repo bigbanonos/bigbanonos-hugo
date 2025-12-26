@@ -8,7 +8,7 @@ layout: post
 <div class="separator" > <a href="https://media.timeout.com/images/105569806/image.jpg"> <img border="0" data-original-height="385" data-original-width="685" height="300" src="https://media.timeout.com/images/105569806/image.jpg" width="400" alt="!!! (Chk Chk Chk) - Couldn't Have Known" /> </a>
 </div> <!-- YouTube Video Embed -->
 <h2>Watch "Couldn't Have Known" by !!! (Chk Chk Chk) on YouTube</h2>
-<iframe width="685" height="385" src="https://www.youtube.com/embed/nSzCG2xeUMw" title="!!! (Chk Chk Chk) - Couldn't Have Known [Official Video]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> <!-- Song Information -->
+{{< youtube "nSzCG2xeUMw" >}} <!-- Song Information -->
 <ul> <li>"Couldn't Have Known" from *Wallop* (March 9, 2018) - Warp Records</li> <li>Genres: Alternative dance, dance rock, dance-punk, neo-synthpop, new rave, Sacramento indie</li>
 </ul> <!-- Footer Links -->
 <p>For more updates and playlists, visit <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Connect with us on <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p>

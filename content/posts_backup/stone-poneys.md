@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Different Drum" by Stone Poneys, a timeless 1967 classic featuring Linda Ronstadt. This track from *Evergreen, Vol. 2* showcases their signature blend of folk and country rock.</p> <!-- Featured Image -->
 <div > <img src="https://americansongwriter.com/wp-content/uploads/2019/08/R-2222895-1270816874.jpeg.jpg" alt="Stone Poneys - Different Drum" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="733" height="480" src="https://www.youtube.com/embed/w9qsDgA1q8Y" title="Different Drum" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "w9qsDgA1q8Y" >}}
 </div> <!-- Footer Links -->
 <div > <p>For more updates, visit <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Also, check out our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a> channels for more exclusive content!</p>
 </div> <!-- Tags -->

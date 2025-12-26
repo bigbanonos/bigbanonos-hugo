@@ -5,9 +5,9 @@ layout: post
 <!-- Title of the Post -->
 <h1>BigBanonos' Top Songs by Golden Smog</h1> <!-- Introductory Text -->
 <p>Golden Smog is a supergroup blending roots rock and alternative country to create timeless tracks. Here are BigBanonos' favorite songs by Golden Smog:</p> <!-- Featured Image -->
-<div> <img src="https://i.scdn.co/image/ab67616d0000b27356884da6d760a375c90b268d" alt="Golden Smog">
+<div> {{< img-lite src="https://i.scdn.co/image/ab67616d0000b27356884da6d760a375c90b268d" alt="Golden Smog" >}}
 </div> <!-- Spotify Embed -->
-<div> <iframe src="https://open.spotify.com/embed/playlist/14w9Ct0XRA5hn8Siu0nU92?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div> {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <h3>Top Songs:</h3>
 <ul> <li><strong>Long Time Ago</strong> | <em>Another Fine Day</em> | Released: 2006-01-01 | Label: Lost Highway Records | Genres: Alternative Country, Roots Rock</li> <li><strong>Radio King</strong> | <em>Down By The Old Mainstream</em> | Released: 1995 | Label: Ryko/Rhino | Genres: Alternative Country, Roots Rock</li>

@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "When Somebody Loves You Back" by Teddy Pendergrass, from the album *The Essential Teddy Pendergrass*, released on November 5, 2007. This soulful classic encapsulates the magic of Pendergrass' timeless voice, blending elements of soul, funk, and Philly soul.</p> <!-- Featured Image -->
 <div > <img src="https://i1.sndcdn.com/artworks-000407010486-9kl4eh-t500x500.jpg" alt="Teddy Pendergrass - When Somebody Loves You Back" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/im992Vt4uZw" title="Teddy Pendergrass - When Somebody Loves You Back (Official Audio)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "im992Vt4uZw" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"When Somebody Loves You Back"</em> is a classic track from Teddy Pendergrassâ€™ *The Essential Teddy Pendergrass*, showcasing his iconic Philly soul sound. It's a song that resonates with soulful emotion, blending rich vocals and smooth funk grooves.</p>
 </div> <!-- Footer Links -->

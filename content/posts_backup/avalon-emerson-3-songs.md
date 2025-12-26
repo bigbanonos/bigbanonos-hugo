@@ -4,7 +4,7 @@ layout: post
 ---
 <h2>BigBanonos' Favorite 3 Songs by Avalon Emerson</h2>
 <p>BigBanonos presents a top selection of Avalon Emerson's work, showcasing her unique blend of electronic and pop influences. BigBanonos' Favorite 3 Songs by Avalon Emerson, Last updated April 5, 2023, with â€œKaraoke Songâ€ highlighted in the playlist below:</p> <ol> <li><strong>Karaoke Song</strong> - Album: <em>Karaoke Song</em> (April 5, 2023)</li> <li><strong>Hot Evening</strong> - Album: <em>Hot Evening</em> (March 1, 2023)</li> <li><strong>Sandrail Silhouette</strong> - Album: <em>Hot Evening</em> (March 1, 2023)</li>
-</ol> <img alt="Avalon Emerson - Top Songs" src="https://www.interviewmagazine.com/wp-content/uploads/2020/12/Avalon-Emerson-by-David-Black-2020-3-1.jpg" /> <div> <iframe allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" allowfullscreen="" frameborder="0" height="352" loading="lazy" src="https://open.spotify.com/embed/playlist/5eUfOwxFsvz3SnVQEJ0UTB?utm_source=generator" width="100%"></iframe>
+</ol> <img alt="Avalon Emerson - Top Songs" src="https://www.interviewmagazine.com/wp-content/uploads/2020/12/Avalon-Emerson-by-David-Black-2020-3-1.jpg" /> <div> {{< youtube "embed" >}}
 </div> <p>Donâ€™t forget to check out BigBanonos on YouTube for more curated music content, especially those tracks #NotOnSpotify!</p>
 <p><a href="https://www.youtube.com/@BigBanonos">BigBanonos YouTube Channel</a></p>
 

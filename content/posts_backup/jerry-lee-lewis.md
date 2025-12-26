@@ -7,7 +7,7 @@ layout: post
 <p >Updated January 17, 1969, with "Whole Lotta Shakin' Going On" from <em>Original Golden Hits - Volume 1</em>. Celebrate the electrifying energy of Jerry Lee Lewis in the playlist below!</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab6761610000e5eb01ff3e4f94ff73cab6c4c0bb" alt="Jerry Lee Lewis" />
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/56AqriD4dBXbp8uY6OdYBT?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <div > <p><strong>"Whole Lotta Shakin' Going On"</strong><br> Genre: Rock<br> Album: <em>Original Golden Hits - Volume 1</em><br> Release Date: January 1, 1969<br> Label: Sun International</p>
 </div> <!-- Footer Links -->

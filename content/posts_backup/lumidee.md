@@ -7,7 +7,7 @@ layout: post
 <p >Updated January 1, 2003, with "Never Leave You (Uh Oooh, Uh Oooh)" by Lumidee. This iconic track from the album <em>Almost Famous</em>, released under Universal Records, blends hip pop with a signature rhythm that defined the early 2000s soundscape.</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d0000b27380621fa8d5a85d3e94869671" alt="Lumidee - Never Leave You (Uh Oooh, Uh Oooh)" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/QhKj93rPIDo" title="Never Leave You (Uh Oooh, Uh Oooh) [Official Music Video]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "QhKj93rPIDo" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Never Leave You (Uh Oooh, Uh Oooh)"</em> by Lumidee is a timeless hip pop classic that captured the essence of early 2000s music. With its infectious rhythm and catchy hooks, this track remains a nostalgic favorite for fans of the era.</p>
 </div> <!-- Footer Links -->

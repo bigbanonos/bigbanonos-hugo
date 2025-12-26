@@ -7,7 +7,7 @@ layout: post
 <p >Updated September 6, 2019, with "King of the Nile" by Luciano, Lutan Fyah, Natural Black, and Addis Records. This powerful reggae track, released under Evidence Music, blends modern reggae, roots reggae, and lovers rock for a timeless tribute.</p> <!-- Featured Image -->
 <div > <img src="https://covers-ng1.hosting-media.net/art/r204/8693.jpg" alt="King of the Nile" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/9leHr03zWGk" title="King of the Nile" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "9leHr03zWGk" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"King of the Nile"</em> by Luciano, Lutan Fyah, Natural Black, and Addis Records is a roots reggae masterpiece. With its deep riddim and heartfelt vocals, this track stands out as a celebration of traditional reggae and its enduring legacy.</p>
 </div> <!-- Footer Links -->

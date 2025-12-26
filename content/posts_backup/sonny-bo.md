@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Stargazing" by Sonny Bo featuring Tinashe, from the album *Evolution (Deluxe Edition)*, released on August 25, 2015, by Bullyworld Music.</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/fda2af349a5f44731f0057fe8dbaf75bb31ba613" alt="Sonny Bo & Tinashe - Stargazing" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="514" src="https://www.youtube.com/embed/R4gsB1rkETw" title="Stargazing - Sonny Bo & Tinashe {Evolution}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "R4gsB1rkETw" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Stargazing"</em> by Sonny Bo featuring Tinashe is a track from the album *Evolution (Deluxe Edition)*, released on August 25, 2015. This song blends elements of R&B, electronic, and pop, with influences from alternative R&B and dance pop, showcasing a captivating modern vibe.</p>
 </div> <!-- Footer Links -->

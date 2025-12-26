@@ -5,12 +5,12 @@ layout: post
 <h2>Shawn Storm - 3 Songs</h2> <!--Introduction Section-->
 <p>At BigBanonos, we pride ourselves on delivering valuable content for fans of Caribbean music, especially Dancehall and Jamaican tracks. Shawn Storm is featured in the comprehensive <a href="https://bigbanonos.blogspot.com/2024/10/chronic-law-105-songs.html" target="_blank">Chronic Law post</a>, highlighting his contributions to Dancehall music. Be sure to check it out for even more Shawn Storm content!</p> <!--Songs Not on Spotify Section-->
 <p>Some of the best Shawn Storm songs have yet to appear on Spotify, so make sure to check out those tracks that are <strong>#NotOnSpotify</strong>:</p> <!--"My Life" YouTube Embed-->
-<div> <p>"My Life" - One of Shawn Stormâ€™s iconic tracks, capturing the essence of his journey and raw storytelling.</p> <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="315" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/ttxk4fNiLLU?si=42v_OaY-Hf3BfvYM" title="YouTube video player" width="560"></iframe>
+<div> <p>"My Life" - One of Shawn Stormâ€™s iconic tracks, capturing the essence of his journey and raw storytelling.</p> {{< youtube "ttxk4fNiLLU" >}}
 </div> <!--"Gallis Garu" YouTube Embed-->
-<div> <p>"Gallis Garu" - A standout track showcasing Shawn Stormâ€™s versatility and signature Dancehall style.</p> <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="315" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/hYZUX3Ar304?si=3-KOnwAus8YwyF6n" title="YouTube video player" width="560"></iframe>
+<div> <p>"Gallis Garu" - A standout track showcasing Shawn Stormâ€™s versatility and signature Dancehall style.</p> {{< youtube "hYZUX3Ar304" >}}
 </div> <!--Spotify Song Embed-->
 <p>For those streaming on Spotify, â€œJamaica Hardâ€ from November 2015 is available. Enjoy this track as it represents Shawn Stormâ€™s dedication to Dancehall and his Jamaican roots.</p> <!--"Jamaica Hard" YouTube Embed-->
-<div> <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="315" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/obd6v9xjLe8?si=IFsLh8dlyiYCSULH" title="YouTube video player" width="560"></iframe>
+<div> {{< youtube "obd6v9xjLe8" >}}
 </div> <!--YouTube and Playlist Links-->
 <p>For more exclusive tracks not available on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and check out our curated <a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">#NotOnSpotify Playlist</a> featuring the best Dancehall music from the Caribbean.</p>
 

@@ -7,7 +7,7 @@ layout: post
 <p >Updated October 21, 2002, with "With So Little to Be Sure Of" by Jerry Hadley and Carolann Page. This poignant duet from *Anyone Can Whistle* is a highlight of the album *Send in the Clowns: The Ballads of Stephen Sondheim*, showcasing Sondheim's lyrical brilliance and the performers' classical elegance.</p> <!-- Featured Image -->
 <div > <img src="https://cdn-p.smehost.net/sites/2c7c5fe7bf994fb1a08a87195b0c4692/wp-content/uploads/2015/02/JerryHadley_StandingRoomOnly_G010001695720J_F_001.jpg" alt="Jerry Hadley & Carolann Page - With So Little to Be Sure Of" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/1DOO0nenHps" title="Jerry Hadley & Carolann Page - 'With So Little to Be Sure Of'" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "1DOO0nenHps" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"With So Little to Be Sure Of"</em>, performed by Jerry Hadley and Carolann Page, captures the emotional depth and complexity of Stephen Sondheim's work. Featured on the album *Send in the Clowns: The Ballads of Stephen Sondheim*, this classical interpretation exemplifies the performers' masterful vocal technique and ability to convey nuanced storytelling through song.</p>
 </div> <!-- Footer Links -->

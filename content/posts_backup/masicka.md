@@ -7,7 +7,7 @@ layout: post
 <p >Updated anuary 18, 2018, with "They Don't Know" from <em>They Don't Know</em>. Experience the dynamic dancehall of Masicka in the playlist below!</p> <!-- Featured Image -->
 <div > <img src="https://urbanislandz.com/wp-content/uploads/2024/02/Masicka-5-760x500.jpeg" alt="Masicka" />
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/45yPRotYI7yzGmFb3giH6g?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <div > <p><strong>"They Don't Know"</strong><br> Genre: World/Traditional<br> Album: <em>They Don't Know</em><br> Release Date: January 18, 2018<br> Label: Genahsyde Records</p> <p><strong>"Hold Mi Tight"</strong><br> Genre: World/Traditional<br> Album: <em>Caliente Riddim</em><br> Release Date: February 24, 2017<br> Label: Dunwell Productions</p>
 </div> <!-- Footer Links -->

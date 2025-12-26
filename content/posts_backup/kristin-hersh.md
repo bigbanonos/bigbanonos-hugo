@@ -7,7 +7,7 @@ layout: post
 <p >Updated January 17, 2025, with "Gazebo Tree" from <em>Anakin</em>. Explore the soulful and introspective sounds of Kristin Hersh in the playlist below!</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab6761610000e5eb42786b46d23e2f984fbf833a" alt="Kristin Hersh" />
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/1p6LlDxFyuD760C4gTeCnk?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <div > <p><strong>"Gazebo Tree"</strong><br> Genre: Pop, Rock, Folk/Acoustic<br> Album: <em>Anakin</em><br> Release Date: February 2, 1998<br> Label: 4AD</p> <p><strong>"Your Ghost"</strong><br> Genre: Pop, Rock, Folk/Acoustic<br> Album: <em>With Honors (Music From The Motion Picture Soundtrack)</em><br> Release Date: March 18, 1994<br> Label: Warner Records</p>
 </div> <!-- Footer Links -->

@@ -7,7 +7,7 @@ layout: post
 <p >Updated May 27, 2016, with BigBanonos' favorite track, "I Am The Cosmos (Original Version)" by Chris Bell. This hauntingly beautiful and timeless piece is from the *I Am The Cosmos (Deluxe Version)* released by Ardent Music.</p> <!-- Featured Image -->
 <div > <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/Chris_Bell_2014-03-11_22-06.jpg" alt="Chris Bell - I Am The Cosmos" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/N1RmsyytWdM" title="I Am The Cosmos (Original Version)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "N1RmsyytWdM" >}}
 </div> <!-- Song Information -->
 <div > <p>"I Am The Cosmos (Original Version)," released on May 27, 2016, is a jangle pop and power pop masterpiece. A deeply personal and ethereal track, it solidifies Chris Bell's legacy as one of the most influential figures in the power pop genre.</p>
 </div> <!-- Footer Links -->

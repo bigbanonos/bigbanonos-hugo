@@ -7,7 +7,7 @@ layout: post
 <p >Updated September 27, 2011, with BigBanonos' favorite song by Big Troubles, "Misery," from the album *Romantic Comedy*. Released under Slumberland Records, this track is a dreamy popgaze gem. Watch the video and see more details below:</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/6fae9ae8531b5ad33d20723e0d429be19ce630b2" alt="Big Troubles - Misery" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/3Uctff64tYI" title="Big Troubles - Misery" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "3Uctff64tYI" >}}
 </div> <!-- Song Information -->
 <div > <p>"Misery" by Big Troubles is a highlight from their album *Romantic Comedy*, showcasing a lush blend of folk and popgaze influences. Released on September 27, 2011, under Slumberland Records, this 2:22-long track captivates with its dreamy, melodic charm.</p>
 </div> <!-- Footer Links -->

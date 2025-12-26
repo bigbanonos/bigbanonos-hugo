@@ -7,7 +7,7 @@ layout: post
 <p >Updated January 1, 2011, with "Tequila Makes Her Clothes Fall Off" by Joe Nichols. A fun and lighthearted anthem from the heart of contemporary country music.</p> <!-- Featured Image -->
 <div > <img src="https://people.com/thmb/OKDUN08zPmcukACsZp1CkLHNEvI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(999x0:1001x2)/JoeNichols-1F1A9811rt-FX-2000-11c0e135c94b4d9fa498ec67a46068c4.jpg" alt="Joe Nichols - Tequila Makes Her Clothes Fall Off" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/Nj2700em-JQ" title="Joe Nichols - 'Tequila Makes Her Clothes Fall Off' (Closed Captioned)" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "Nj2700em-JQ" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Tequila Makes Her Clothes Fall Off"</em> is included in Joe Nichols' <strong>Greatest Hits</strong> collection, released by Show Dog Universal Music. This track is a lively representation of Arkansas country, blending humor and charm with Nichols' smooth vocals.</p>
 </div> <!-- Footer Links -->

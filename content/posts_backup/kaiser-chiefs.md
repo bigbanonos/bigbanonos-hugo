@@ -7,7 +7,7 @@ layout: post
 <p >Updated April 26, 2011, with "I Predict a Riot" by Kaiser Chiefs. A high-energy track from *The Coolest Songs in the World! Vol. 7* that captures the band's dynamic modern rock style with catchy hooks and a punchy beat.</p> <!-- Featured Image -->
 <div > <img src="https://concord.com/wp-content/uploads/2018/04/kaiserchiefs.jpg" alt="Kaiser Chiefs - I Predict a Riot" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/hamKl-su8PE" title="I Predict a Riot" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "hamKl-su8PE" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"I Predict a Riot"</em> by Kaiser Chiefs is an iconic anthem that blends modern rock energy with unforgettable lyrics. Its lively beat and bold attitude make it a standout track.</p>
 </div> <!-- Footer Links -->

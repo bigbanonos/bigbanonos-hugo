@@ -7,7 +7,7 @@ layout: post
 <p >Updated January 1, 2015, with "Low" by Grace Potter. This soulful track from her album <em>Midnight</em> highlights her powerful voice and evocative songwriting, showcasing a modern take on rock and blues influences.</p> <!-- Featured Image -->
 <div > <img src="https://www.vso.org/wp-content/uploads/2024/09/Grace-Potter-photo-3-scaled.jpeg" alt="Grace Potter - Low" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/SvSjDWXfWuc" title="Grace Potter - Low (Audio Only)" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "SvSjDWXfWuc" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Low"</em> captures Grace Potter's transition to a more intimate and vulnerable sound. Released on January 1, 2015, this track is a standout moment from the album <em>Midnight</em>, blending blues-rock elements with heartfelt lyrics.</p>
 </div> <!-- Footer Links -->

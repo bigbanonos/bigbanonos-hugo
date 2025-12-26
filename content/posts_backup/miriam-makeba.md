@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Pata Pata (Stereo Version)" by Miriam Makeba. Released under Strut in 2017, this iconic track showcases Makeba's powerful blend of Afropop, South African jazz, and world music, celebrating the rhythms and culture of the Xhosa people.</p> <!-- Featured Image -->
 <div > <img src="https://img2.storyblok.com/2400x0/filters:quality(85)/f/101652/1652x1056/bd24bec22b/makeba-header.jpg" alt="Miriam Makeba - Pata Pata" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/JBJVVhn7iuo" title="Miriam Makeba - Pata Pata (Stereo Version)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "JBJVVhn7iuo" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Pata Pata (Stereo Version)"</em> by Miriam Makeba is a timeless anthem of South African music, known for its infectious beat and joyful energy. The track beautifully merges Afropop and jazz, with a strong cultural influence from Xhosa traditions, making it a true global classic.</p>
 </div> <!-- Footer Links -->

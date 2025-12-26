@@ -7,7 +7,7 @@ layout: post
 <p >Updated July 12, 2019, with "Innocent" by Eyonja Di Hunta. This dynamic track is a standout on the <em>Symbiotic Riddim</em>, capturing the essence of modern dancehall.</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab6761610000e5ebc6cabca5c200117479e0f6d0" alt="Eyonja Di Hunta - Innocent" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/2tRGwSGkE2k" title="Eyonja Di Hunter - Innocent - Symbiotic Riddim (GoldenVibes Productions)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "2tRGwSGkE2k" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Innocent"</em> by Eyonja Di Hunta brings raw energy and lyrical power to the <em>Symbiotic Riddim</em>, making it a must-listen for fans of dancehall and contemporary reggae.</p>
 </div> <!-- Footer Links -->

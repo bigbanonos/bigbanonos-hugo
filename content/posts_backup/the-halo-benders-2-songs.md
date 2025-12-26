@@ -3,8 +3,8 @@ title: "the halo benders 2 songs"
 layout: post
 ---
 <h1>BigBanonos 2 Favorite Tracks by The Halo Benders</h1>
-<img src="https://i.scdn.co/image/ff7ca7e65b3ae9fb6eb25b98f116b4f9d627b066" alt="The Halo Benders"> <p>Dive into the world of lo-fi and slacker rock with The Halo Benders. These standout tracks capture the bandâ€™s unique blend of Olympia indie spirit and relaxed, unpolished sound, defining the genreâ€™s charm.</p> <ol> <li><strong>Don't Touch My Bikini</strong> | <em>God Donâ€™t Make No Junk</em> | K Records | Released: June 28, 1994</li> <li><strong>Snowfall</strong> | <em>God Donâ€™t Make No Junk</em> | K Records | Released: June 28, 1994</li>
-</ol> <div> <iframe src="https://open.spotify.com/embed/playlist/5BKKDm70pkxSS2TfN2Upml?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+{{< img-lite src="https://i.scdn.co/image/ff7ca7e65b3ae9fb6eb25b98f116b4f9d627b066" alt="The Halo Benders" >}} <p>Dive into the world of lo-fi and slacker rock with The Halo Benders. These standout tracks capture the bandâ€™s unique blend of Olympia indie spirit and relaxed, unpolished sound, defining the genreâ€™s charm.</p> <ol> <li><strong>Don't Touch My Bikini</strong> | <em>God Donâ€™t Make No Junk</em> | K Records | Released: June 28, 1994</li> <li><strong>Snowfall</strong> | <em>God Donâ€™t Make No Junk</em> | K Records | Released: June 28, 1994</li>
+</ol> <div> {{< youtube "embed" >}}
 </div> <p>first posted by <a href="https://bigbanonos.blogspot.com/">https://bigbanonos.blogspot.com/</a></p> <div> <p>Explore more on BigBanonos: <a href="https://bigbanonos.blogspot.com/">Website</a> | <a href="https://www.youtube.com/@BigBanonos">YouTube</a> | <a href="https://x.com/bigbanonos">Twitter</a></p>
 </div> <!-- Tags -->
 <p>@thehalobenders</p>

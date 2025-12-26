@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Money To Burn" by T.O.K, from the album *Riddim Driven - Buy Out*, released on December 4, 2001, by VP Records.</p> <!-- Featured Image -->
 <div > <img src="https://images.genius.com/126053ffded3ff0b9b194d2c396620a9.300x300x1.jpg" alt="T.O.K - Money To Burn" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="514" src="https://www.youtube.com/embed/cBBVIKdJIdg" title="T.O.K. - Money 2 Burn" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "cBBVIKdJIdg" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Money To Burn"</em> by T.O.K is a track from the album *Riddim Driven - Buy Out*, released on December 4, 2001. The song features a dynamic dancehall vibe, offering a glimpse into the genre's evolution during the early 2000s.</p>
 </div> <!-- Footer Links -->

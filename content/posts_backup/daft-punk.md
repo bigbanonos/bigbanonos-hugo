@@ -4,9 +4,9 @@ layout: post
 ---
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Daft Punk</h1> <!-- Featured Image -->
-<div > <img src="https://i.scdn.co/image/ab67616d0000b2739b9b36b0e22870b9f542d937" alt="Daft Punk">
+<div > {{< img-lite src="https://i.scdn.co/image/ab67616d0000b2739b9b36b0e22870b9f542d937" alt="Daft Punk" >}}
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/7cvhecXDWmRGbtzZzKva8n?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Introductory Text -->
 <p >Daft Punk continues to inspire with genre-blending tracks like "The Writing of Fragments of Time," showcasing their electro and filter house mastery. Hereâ€™s BigBanonos' favorite pick from this iconic duo.</p> <!-- Song Highlights -->
 <div > <p>BigBanonos' standout pick:</p> <ol> <li><strong>The Writing of Fragments of Time (feat. Todd Edwards)</strong> | <em>The Writing of Fragments of Time</em> | Released: March 22, 2023 | Columbia/Legacy</li> </ol>

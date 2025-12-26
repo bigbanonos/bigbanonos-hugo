@@ -8,7 +8,7 @@ layout: post
 <div class="separator" > <a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSBsOAAVqmGslac_a0l7qeuzDd4y95_BsjQytNlnig_njpMrpBQfy0WRqzEVLxHk0uxsrWwMmRvP6GPQTtM7l0SRatni3HwdKPMxt7r-5RSUedSKH_Kzx2h5d_Ue3cF3RO0obBEQ/s1600-rw/COOT+GRND.jpg"> <img border="0" data-original-height="514" data-original-width="685" height="300" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSBsOAAVqmGslac_a0l7qeuzDd4y95_BsjQytNlnig_njpMrpBQfy0WRqzEVLxHk0uxsrWwMmRvP6GPQTtM7l0SRatni3HwdKPMxt7r-5RSUedSKH_Kzx2h5d_Ue3cF3RO0obBEQ/s1600-rw/COOT+GRND.jpg" width="400" alt="Kid Wesley Wilson and Leola B - Uncle Joe" /> </a>
 </div> <!-- YouTube Video Embed -->
 <h2>Watch "Uncle Joe" by "Kid" Wesley Wilson and Leola B on YouTube</h2>
-<iframe width="685" height="514" src="https://www.youtube.com/embed/zJsqsrNCoxk" title="Coot Grant & Socks Wilson Uncle Joe (1929)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> <!-- Song Information -->
+{{< youtube "zJsqsrNCoxk" >}} <!-- Song Information -->
 <ul> <li>"Uncle Joe" from *Please Warm My Weiner: Old Time Hokum Blues* (June 20, 2005) - Yazoo Records</li> <li>Originally recorded in 1929</li>
 </ul> <!-- Footer Links -->
 <p>For more updates and playlists, visit <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Connect with us on <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p>

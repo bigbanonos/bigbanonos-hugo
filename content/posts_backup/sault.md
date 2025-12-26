@@ -3,10 +3,10 @@ title: "sault"
 layout: post
 ---
 <h3>BigBanonos' Favorite Songs by SAULT</h3>
-<div > <a href="https://thebluesproject.co/wp-content/uploads/2023/12/website-banners-6.png" target="_blank"> <img src="https://thebluesproject.co/wp-content/uploads/2023/12/website-banners-6.png" alt="SAULT"> </a>
+<div > <a href="https://thebluesproject.co/wp-content/uploads/2023/12/website-banners-6.png" target="_blank"> {{< img-lite src="https://thebluesproject.co/wp-content/uploads/2023/12/website-banners-6.png" alt="SAULT" >}} </a>
 </div>
 <p>Updated November 11, 2022, with SAULT's track <strong>"Above the Sky"</strong>. BigBanonos explores their unique blend of alternative R&B and soul.</p>
-<iframe src="https://open.spotify.com/embed/playlist/5OHNF9c6AFLbNBx8H8k1lo?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+{{< youtube "embed" >}}
 <h4>Top Songs:</h4>
 <ol> <li><strong>Above the Sky</strong> | <em>Today & Tomorrow</em> | Released: November 11, 2022 | Forever Living Originals</li> <li><strong>Angel</strong> | <em>Angel</em> | Released: October 10, 2022 | Forever Living Originals</li> <li><strong>Glory</strong> | <em>11</em> | Released: November 11, 2022 | Forever Living Originals</li>
 </ol>

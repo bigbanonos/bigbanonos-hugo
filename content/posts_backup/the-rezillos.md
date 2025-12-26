@@ -7,7 +7,7 @@ layout: post
 <p >Updated August 2, 2005, with "Where's The Boy For Me?" by Rezillos. Featured on *Spurts: The Richard Hell Story (2013 Remaster)*, released under Rhino Records, this track exemplifies the raw energy of early US punk and post-punk influences. Watch and listen below!</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d0000b2734fe12919edf4201ca62ef2fc" alt="Rezillos - Where's The Boy For Me?" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/DM3f-pRidnU" width="420"></iframe>
+<div > {{< youtube "DM3f-pRidnU" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Where's The Boy For Me?"</em>, released on August 2, 2005, by Rhino Records as part of the *Spurts: The Richard Hell Story (2013 Remaster)*, combines Rezillos' punk flair with post-punk and protopunk elements. This track continues to resonate as a powerful example of the early punk scene's legacy.</p>
 </div> <!-- Footer Links -->

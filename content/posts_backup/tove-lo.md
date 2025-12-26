@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Glad He's Gone" by Tove Lo, from the album *Glad He's Gone*, released on May 31, 2019, by Universal Music AB. This dance pop anthem blends Tove Lo's signature style with Swedish electropop vibes, creating a track that is both empowering and infectious.</p> <!-- Featured Image -->
 <div > <img src="https://i.discogs.com/Ak-jN_KmM2b6MvybB_nmiqvAYquAtz2VWyG4JiOXHww/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0NDEx/NTMxLTE2MTY1MTM4/NjctOTI2OC5qcGVn.jpeg" alt="Tove Lo - Glad He's Gone" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/qanl1s7K2Kc" title="Tove Lo - Glad He's Gone" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "qanl1s7K2Kc" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Glad He's Gone"</em> by Tove Lo is a track from her 2019 album *Glad He's Gone*. This song features a powerful dance pop rhythm, blending Swedish electropop and synthpop elements with Tove Lo's captivating vocals, perfect for those who need an empowering anthem.</p>
 </div> <!-- Footer Links -->

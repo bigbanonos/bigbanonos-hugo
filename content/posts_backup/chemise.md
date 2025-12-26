@@ -7,7 +7,7 @@ layout: post
 <p >Updated January 1, 2001, with BigBanonos' favorite track, "She Can't Love You" by Chemise. This synth-funk classic is a standout from *Classics Funky Music, Vol. 2*.</p> <!-- Featured Image -->
 <div > <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3xGORAdyUfvF0Z1korX6kd_zPNs-FOhP-Hg&s" alt="Chemise - She Can't Love You" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/sdIpMEgKfyg" title="She Can't Love You" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "sdIpMEgKfyg" >}}
 </div> <!-- Song Information -->
 <div > <p>"She Can't Love You," released on January 1, 2001, captures the smooth grooves of the synth-funk era. This track, featured on *Classics Funky Music, Vol. 2* and distributed by UNIDISC MUSIC INC., continues to resonate as a timeless favorite.</p>
 </div> <!-- Footer Links -->

@@ -7,7 +7,7 @@ layout: post
 <p >Updated May 26, 1998, with "Satisfied Mind - Live at WFMU, East Orange, NJ - Oct 1992" from <em>Sketches for My Sweetheart The Drunk (Expanded Edition)</em>. Explore the haunting beauty of Jeff Buckley's music in the playlist below!</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d0000b2736a760642a56847027428cb61" alt="Jeff Buckley" />
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/5howEr8xXVXy8kUzeO0nKx?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <div > <p><strong>"Satisfied Mind - Live at WFMU, East Orange, NJ - Oct 1992"</strong><br> Genre: Folk/Acoustic, Rock<br> Album: <em>Sketches for My Sweetheart The Drunk (Expanded Edition)</em><br> Release Date: May 26, 1998<br> Label: Columbia/Legacy</p> <p><strong>"Lover, You Should've Come Over"</strong><br> Genre: Folk/Acoustic, Rock<br> Album: <em>Grace (Legacy Edition)</em><br> Release Date: 1994<br> Label: Columbia/Legacy</p> <p><strong>"Last Goodbye"</strong><br> Genre: Folk/Acoustic, Rock<br> Album: <em>Grace</em><br> Release Date: 1994<br> Label: Columbia/Legacy</p>
 </div> <!-- Footer Links -->

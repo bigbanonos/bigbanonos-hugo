@@ -2,7 +2,7 @@
 title: "zsela fire excape"
 layout: post
 ---
-<iframe frameborder="0" height="270" src="https://youtube.com/embed/Mdn9LCmbyhg?si=tR9hsD_KRyFHEHad" width="480"></iframe><div><br /></div><div>Fire Excape [2024]</div><div><br /></div><div class="separator" ><a href="https://f4.bcbits.com/img/a0927357484_65" imageanchor="1"><img border="0" data-original-height="700" data-original-width="700" height="700" src="https://f4.bcbits.com/img/a0927357484_65" width="700" /></a></div><br /><div><br /></div>
+{{< youtube "Mdn9LCmbyhg" >}}<div><br /></div><div>Fire Excape [2024]</div><div><br /></div><div class="separator" ><a href="https://f4.bcbits.com/img/a0927357484_65" imageanchor="1"><img border="0" data-original-height="700" data-original-width="700" height="700" src="https://f4.bcbits.com/img/a0927357484_65" width="700" /></a></div><br /><div><br /></div>
 
 <!--Subscribe and Playlist Links-->
 <div>

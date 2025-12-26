@@ -4,9 +4,9 @@ layout: post
 ---
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by David Banner</h1> <!-- Featured Image -->
-<div > <img src="https://i.scdn.co/image/ab67616d0000b2736108ad24118cd8aa15de56e9" alt="David Banner">
+<div > {{< img-lite src="https://i.scdn.co/image/ab67616d0000b2736108ad24118cd8aa15de56e9" alt="David Banner" >}}
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/3TM1Kj4rYgFIjGUc8re3PW?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Introductory Text -->
 <p >David Bannerâ€™s Southern hip hop anthems mix raw energy with conscious messages. BigBanonos highlights top tracks like "Cadillac on 22's" and "Get Like Me."</p> <!-- Song Highlights -->
 <div > <p>BigBanonos' standout picks:</p> <ol> <li><strong>Cadillac on 22's</strong> | <em>Mississippi-The Album</em> | Released: January 1, 2003 | Universal Records</li> <li><strong>Get Like Me</strong> (feat. Chris Brown & Yung Joc) | <em>The Greatest Story Ever Told</em> | Released: 2008 | SRC Records</li> </ol>

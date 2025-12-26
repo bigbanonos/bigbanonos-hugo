@@ -4,8 +4,8 @@ layout: post
 ---
 <h2>Eurythmics - Top Songs</h2>
 <p>Updated with timeless Eurythmics classics like â€œThere Must Be an Angel (Playing with My Heart)â€ and â€œSweet Dreams (Are Made of This).â€</p> <ul> <li><strong>There Must Be an Angel (Playing with My Heart)</strong> - <em>Be Yourself Tonight</em> (1985)</li> <li><strong>Sweet Dreams (Are Made of This) - Remaster</strong> - <em>Sweet Dreams (Are Made of This)</em> (1983)</li>
-</ul> <iframe src="https://open.spotify.com/embed/playlist/08vyGdJEkZMVLdkMkMgOGq?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-<img src="https://i.scdn.co/image/ab67616d0000b2738b9d4820655b6bf032ed41f3" alt="Eurythmics Album Cover">
+</ul> {{< youtube "embed" >}}
+{{< img-lite src="https://i.scdn.co/image/ab67616d0000b2738b9d4820655b6bf032ed41f3" alt="Eurythmics Album Cover" >}}
 
 
 <!--Subscribe and Playlist Links-->

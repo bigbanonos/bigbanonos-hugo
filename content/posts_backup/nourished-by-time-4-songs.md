@@ -2,7 +2,7 @@
 title: "nourished by time 4 songs"
 layout: post
 ---
-<p><iframe allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" allowfullscreen="" frameborder="0" height="352" loading="lazy" src="https://open.spotify.com/embed/playlist/5cIISiNIsw72legER5DBK6?utm_source=generator" width="100%"></iframe></p> <p><strong>Updated May 30, 2024 with "I Guess I Got My Answer".</strong></p> <p><strong>BigBanonos' favorite tracks from Nourished by Time</strong> explore his uniquely introspective style, capturing moody, layered sounds across R&B and indie landscapes. Check out the playlist above and enjoy the journey through his soulful discography.</p> <p><strong>Songs:</strong><br />
+<p>{{< youtube "embed" >}}</p> <p><strong>Updated May 30, 2024 with "I Guess I Got My Answer".</strong></p> <p><strong>BigBanonos' favorite tracks from Nourished by Time</strong> explore his uniquely introspective style, capturing moody, layered sounds across R&B and indie landscapes. Check out the playlist above and enjoy the journey through his soulful discography.</p> <p><strong>Songs:</strong><br />
 1. <em>I Guess I Got My Answer</em> â€“ <em>I Guess I Got My Answer</em>, 2024-05-30<br />
 2. <em>Had Ya Called</em> â€“ <em>Catching Chickens EP</em>, 2024-03-22<br />
 3. <em>Daddy</em> â€“ <em>Erotic Probiotic 2</em>, 2023-04-21<br />

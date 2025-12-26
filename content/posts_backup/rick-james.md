@@ -4,7 +4,7 @@ layout: post
 ---
 <h1>BigBanonos Top Songs by Rick James</h1>
 <img alt="Rick James" src="https://i.ytimg.com/vi/coZkWPRI5YA/maxresdefault.jpg" /> <p>Rick James, the King of Punk Funk, brought a unique and electrifying energy to the world of disco and funk. His soulful grooves and unforgettable hits continue to inspire fans of R&B and beyond. Here are BigBanonos' top Rick James tracks:</p> <ol> <li><strong>Cold Blooded - Single Version</strong> | <em>80s Urban Beats & Grooves</em> | Released: January 1, 2002</li> <li><strong>Mary Jane</strong> | <em>The Ultimate Collection: Rick James</em> | Released: March 25, 1997</li>
-</ol> <div> <iframe src="https://open.spotify.com/embed/playlist/6N2JYWy0e0oQvLkAxdYXoY?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</ol> <div> {{< youtube "embed" >}}
 </div> <p>first posted by <a href="https://bigbanonos.blogspot.com/">https://bigbanonos.blogspot.com/</a></p> <div> <p>Explore more BigBanonos content: <a href="https://bigbanonos.blogspot.com/">Website</a> | <a href="https://www.youtube.com/@BigBanonos">YouTube</a> | <a href="https://x.com/bigbanonos">Twitter</a></p>
 </div> <!--Tags-->
 <p>@rickjames</p>

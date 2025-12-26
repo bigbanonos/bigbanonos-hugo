@@ -3,7 +3,7 @@ title: "altered zones eternal dosez"
 layout: post
 ---
 #2011 <br />
-<iframe width="95%" height="315" src="https://www.youtube.com/embed/E68Vu9MruBw?list=PLtuNtuTatqI3--RPs98C0DQRZBUoKQy7L" frameborder="0" allowfullscreen></iframe><br />
+{{< youtube "E68Vu9MruBw" >}}<br />
 Eternal Dosez 2011
 
 <!--Subscribe and Playlist Links-->

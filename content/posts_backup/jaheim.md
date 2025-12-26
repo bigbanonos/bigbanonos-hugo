@@ -7,7 +7,7 @@ layout: post
 <p >Updated November 5, 2002, with "Put That Woman First" by Jaheim. From the album *Still Ghetto*, this track is a heartfelt ode that showcases Jaheim's rich vocals and soulful R&B style, epitomizing early 2000s contemporary R&B.</p> <!-- Featured Image -->
 <div > <img src="https://singersroom.com/wp-content/uploads/2018/05/jaheim-skinnier.jpg" alt="Jaheim - Put That Woman First" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/ToPO1Sl0D8M" title="Jaheim - Put That Woman First" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "ToPO1Sl0D8M" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Put That Woman First"</em> is a timeless R&B classic that blends Jaheim's signature baritone voice with relatable storytelling. A tribute to love and commitment, this track remains an essential listen for fans of soulful R&B.</p>
 </div> <!-- Footer Links -->

@@ -7,7 +7,7 @@ layout: post
 <p >Updated June 15, 2015, with "Buffalo Stance" from <em>20 #1's: 80's Club Classics</em>. Relive the energetic and iconic sound of Neneh Cherry in the playlist below!</p> <!-- Featured Image -->
 <div > <img src="https://imgs.smoothradio.com/images/309086?crop=16_9&width=660&relax=1&format=webp&signature=UB_8VWiFLvKccRN3b4hgO5PST9A=" alt="Neneh Cherry" />
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/21LAdsbj2N1wGAwJvZPE94?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <div > <p><strong>"Buffalo Stance"</strong><br> Genre: Pop, Hip Hop<br> Album: <em>20 #1's: 80's Club Classics</em><br> Release Date: June 15, 2015<br> Label: Universal Music Enterprises</p>
 </div> <!-- Footer Links -->

@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Pop Songs Your New Boyfriend's Too Stupid To Know About" by Tullycraft, from the album *Old Traditions, New Standards*, released in the year 2000 by Darla Records. This song is a playful, indie pop anthem, showcasing Tullycraftâ€™s signature twee pop style and heartfelt lyrics.</p> <!-- Featured Image -->
 <div > <img src="https://f4.bcbits.com/img/a3008158112_10.jpg" alt="Tullycraft - Pop Songs Your New Boyfriend's Too Stupid To Know About" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/qK8hPiELFC0" title="Tullycraft - Pop Songs Your New Boyfriend's too Stupid to Know About" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "qK8hPiELFC0" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Pop Songs Your New Boyfriend's Too Stupid To Know About"</em> by Tullycraft is an iconic track from their album *Old Traditions, New Standards*, released in 2000. Itâ€™s a charming and upbeat song that blends Seattle indie, tape club, and twee pop into an infectious melody.</p>
 </div> <!-- Footer Links -->

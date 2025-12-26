@@ -7,7 +7,7 @@ layout: post
 <p >Updated January 1, 1996, with "Til I Hear It From You" from <em>Til I Hear It From You</em>. Relive the 90s alt-rock vibes of Gin Blossoms in the playlist below!</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab6761610000e5eb5c0f1358900eef3ae120f159" alt="Gin Blossoms" />
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/75mrYiK3v2yMWqTE3imnzk?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <div > <p><strong>"Til I Hear It From You"</strong><br> Genre: Rock, Metal, Pop<br> Album: <em>Til I Hear It From You</em><br> Release Date: January 1, 1996<br> Label: A&M</p> <p><strong>"Found Out About You"</strong><br> Genre: Rock, Metal, Pop<br> Album: <em>New Miserable Experience</em><br> Release Date: January 1, 1992<br> Label: A&M</p> <p><strong>"Hey Jealousy"</strong><br> Genre: Rock, Metal, Pop<br> Album: <em>New Miserable Experience</em><br> Release Date: January 1, 1992<br> Label: A&M</p>
 </div> <!-- Footer Links -->

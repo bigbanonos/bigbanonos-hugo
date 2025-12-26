@@ -3,7 +3,7 @@ title: "qt hey qt"
 layout: post
 ---
 #2014 <br />
-<iframe width="95%" height="315" src="https://www.youtube.com/embed/1MQUleX1PeA?list=PLtuNtuTatqI1cR9clFS2SGyRMUnX2VoJk" frameborder="0" allowfullscreen></iframe><br />
+{{< youtube "1MQUleX1PeA" >}}<br />
 Hey QT 2014
 
 <!--Subscribe and Playlist Links-->

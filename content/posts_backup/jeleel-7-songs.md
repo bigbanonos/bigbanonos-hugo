@@ -3,9 +3,9 @@ title: "jeleel 7 songs"
 layout: post
 ---
 <h1>BigBanonos Favorite Songs by JELEEL!</h1> <img src="https://i.ytimg.com/vi/AouNdRkpFGI/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDKYhk940XlzjHQhHIeUNbG2KSQGA" alt="JELEEL!"/> <p>Last updated August 7, 2025 with <em>â€œRHUDE GYAL!â€</em> featuring Darkoo, plus several new tracks from <em>NYASH WORLDWIDE!</em> released in June 2025. These songs capture JELEEL!â€™s high-energy rage rap style while branching into afrobeats, afro adura, and collaborations with global stars.</p> <!-- Spotify Embed -->
-<div> <iframe src="https://open.spotify.com/embed/playlist/6gWQmz7DhtExjxd06ww0fq?utm_source=generator" width="100%" height="352" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div> {{< youtube "embed" >}}
 </div> <h3>Featured Videos</h3>
-<iframe width="100%" height="400" src="https://www.youtube.com/embed/PaIBqNiH6fE" title="JELEEL! - RHUDE GYAL! (Official Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> <iframe width="100%" height="400" src="https://www.youtube.com/embed/P7yNxQ675mY" title="JELEEL! - FLAVOR! Remix ft. Ayo Maff (Official Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> <iframe width="100%" height="400" src="https://www.youtube.com/embed/UJoYsXXbX5I" title="JELEEL! Backflip from 50 Feet" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe> <h3>2025 Highlights</h3>
+{{< youtube "PaIBqNiH6fE" >}} {{< youtube "P7yNxQ675mY" >}} {{< youtube "UJoYsXXbX5I" >}} <h3>2025 Highlights</h3>
 <p><strong>RHUDE GYAL!</strong> (with Darkoo) Ãƒâ€šÃ‚Â· Released Aug 7, 2025 Ãƒâ€šÃ‚Â· Black Pearl Music Group</p>
 <p><strong>FLAVOR! - Remix</strong> (feat. Ayo Maff) Ãƒâ€šÃ‚Â· <em>NYASH WORLDWIDE!</em> Ãƒâ€šÃ‚Â· Jun 6, 2025 Ãƒâ€šÃ‚Â· REAL RAW!</p>
 <p><strong>RHUDE GYAL!</strong> Ãƒâ€šÃ‚Â· <em>NYASH WORLDWIDE!</em> Ãƒâ€šÃ‚Â· Jun 6, 2025 Ãƒâ€šÃ‚Â· REAL RAW!</p>

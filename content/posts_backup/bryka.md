@@ -7,7 +7,7 @@ layout: post
 <p >Updated August 19, 2016, with BigBanonos' favorite track by Bryka, "Gimme Yuh Love." Featured on the *Tropical House Riddim* from Konsequence Muzik and VPAL Music, this Jamaican dancehall hit is packed with irresistible rhythms. Watch the video and see more details below:</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab6761610000e5eb0239e7885413d88a895bf162" alt="Bryka - Gimme Yuh Love" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/JDlVSdZO4nw" title="Bryka - Gimme Yuh Love [Tropical House Riddim] July 2016" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "JDlVSdZO4nw" >}}
 </div> <!-- Song Information -->
 <div > <p>"Gimme Yuh Love" by Bryka, released on August 19, 2016, via Konsequence Muzik and VPAL Music, is a captivating Jamaican dancehall track. At 2:40, itâ€™s a vibrant addition to the *Tropical House Riddim* collection.</p>
 </div> <!-- Footer Links -->

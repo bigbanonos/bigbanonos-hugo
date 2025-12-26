@@ -2,8 +2,8 @@
 title: "glissandro 70"
 layout: post
 ---
-<h2>BigBanonos' Favorite Songs by Glissandro 70</h2> <p><strong>Updated 2004, with "Voices Are Your Best Friend"</strong></p> <img src="https://i.scdn.co/image/ab6761610000e5eb6ab9a409fe730bc8fc3d176d" width="100%" alt="Glissandro 70"> <p>Glissandro 70 is known for their experimental and rhythmic soundscapes. Below is BigBanonos' favorite song by Glissandro 70.</p> <h3>"Voices Are Your Best Friend"</h3>
-<p><em>See You on the Moon!</em>, 2004</p> <iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/nmOOjj2hWDY?list=PLtuNtuTatqI14o8lH65IYBb4VAJubh-4C" width="95%"></iframe> <hr /> <p><strong>Tags:</strong> @glissandro70</p> <hr /> <p><em>First posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+<h2>BigBanonos' Favorite Songs by Glissandro 70</h2> <p><strong>Updated 2004, with "Voices Are Your Best Friend"</strong></p> {{< img-lite src="https://i.scdn.co/image/ab6761610000e5eb6ab9a409fe730bc8fc3d176d" alt="Glissandro 70" >}} <p>Glissandro 70 is known for their experimental and rhythmic soundscapes. Below is BigBanonos' favorite song by Glissandro 70.</p> <h3>"Voices Are Your Best Friend"</h3>
+<p><em>See You on the Moon!</em>, 2004</p> {{< youtube "nmOOjj2hWDY" >}} <hr /> <p><strong>Tags:</strong> @glissandro70</p> <hr /> <p><em>First posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
 
 
 <!--Subscribe and Playlist Links-->

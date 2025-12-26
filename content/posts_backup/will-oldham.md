@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "I See a Darkness" by Will Oldham, from the album *Songs of Love and Horror*, released on October 19, 2018, by Drag City Records. This melancholic track blends alternative country and slowcore to evoke deep emotion.</p> <!-- Featured Image -->
 <div > <img src="https://f4.bcbits.com/img/0012727734_10.jpg" alt="Will Oldham - I See a Darkness" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/4iV4NwSbscg" title="Bonnie 'Prince' Billy - I See A Darkness (Official Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "4iV4NwSbscg" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"I See a Darkness"</em> by Will Oldham is from the album *Songs of Love and Horror*, released on October 19, 2018. This track represents a poignant mix of alternative country and slowcore, perfect for reflective moments.</p>
 </div> <!-- Footer Links -->

@@ -2,7 +2,7 @@
 title: "doris day 1 song"
 layout: post
 ---
-<div class="separator" ><iframe allowfullscreen="" class="BLOG_video_class" height="266" src="https://www.youtube.com/embed/lYa2IkEzKh4" width="320" youtube-src-id="lYa2IkEzKh4"></iframe></div><h3 ><ol><li>Stardust [1927]</li></ol></h3>
+<div class="separator" >{{< youtube "lYa2IkEzKh4" >}}</div><h3 ><ol><li>Stardust [1927]</li></ol></h3>
 
 <!--Subscribe and Playlist Links-->
 <div>

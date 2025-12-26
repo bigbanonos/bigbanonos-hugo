@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Tonight" by Soft Boys. This 1980 jangle pop classic showcases the band's signature post-punk brilliance. Watch the video below!</p> <!-- Featured Image -->
 <div > <img src="https://singersroom.com/wp-content/uploads/2023/04/10-Best-The-Soft-Boys-Songs-of-All-Time.jpg" alt="Soft Boys - Tonight" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/mKYqfcax5rg?list=PLtuNtuTatqI3ADcM_zLmgfpkLlcO5e9Pw" width="95%"></iframe>
+<div > {{< youtube "mKYqfcax5rg" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Tonight"</em> is a memorable track from Soft Boys' album *Underwater Moonlight*, blending jangle pop with post-punk sensibilities.</p>
 </div> <!-- Footer Links -->

@@ -2,7 +2,7 @@
 title: "remix autechre 1 song"
 layout: post
 ---
-<iframe frameborder="0" height="270" src="https://youtube.com/embed/_3ro1n8DYUY" width="480"></iframe><h2><ol><li>BIPP (Autechre Mx) [2021]</li></ol></h2>
+{{< youtube "_3ro1n8DYUY" >}}<h2><ol><li>BIPP (Autechre Mx) [2021]</li></ol></h2>
 
 <!--Subscribe and Playlist Links-->
 <div>

@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Varsity" by Smith Westerns, from the album *Soft Will*, released on June 24, 2013, by What's Your Rupture.</p> <!-- Featured Image -->
 <div > <img src="https://media.pitchfork.com/photos/5929fa5deb335119a49f020f/1:1/w_450%2Cc_limit/3f6b91c6.jpg" alt="Smith Westerns - Varsity" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/ykOK2XZ80vg" title="Smith Westerns - Varsity" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "ykOK2XZ80vg" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Varsity"</em> by Smith Westerns is a track from the album *Soft Will*, released on June 24, 2013. The song features a blend of Chicago indie and noise pop influences.</p>
 </div> <!-- Footer Links -->

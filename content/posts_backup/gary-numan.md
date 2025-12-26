@@ -8,7 +8,7 @@ layout: post
 <p >Gary Numan pioneered synthpop with his futuristic sound and groundbreaking hits. Explore BigBanonos' favorite tracks by Gary Numan below!</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d0000b27318dd9efbcff047c869f2082d" alt="Gary Numan - BigBanonos Favorite Songs" />
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/12OENAnHbAQRm74TKqmzGr?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Cars"</em> is a synthpop classic, leading the way for electronic music. From the album <strong>The Pleasure Principle</strong>, released September 7, 1979, on <strong>Beggars Banquet</strong>.</p> <p><em>"Down In The Park"</em> delivers a hauntingly atmospheric sound, from the 1979 album <strong>Replicas</strong>, released March 24, 1979, on <strong>Beggars Banquet</strong>.</p> <p><em>"Are 'Friends' Electric?"</em> combines eerie melodies with thought-provoking lyrics. Featured on <strong>Replicas Redux</strong>, re-released on March 4, 2008.</p>
 </div> <!-- Footer Links -->

@@ -7,7 +7,7 @@ layout: post
 <p >Updated January 22, 2016, with BigBanonos' favorite track, "Utopia" by Chomsk'. This reflective and atmospheric piece is featured on *Nowadays, Vol. 5 (Winter Tape)* by Nowadays Records.</p> <!-- Featured Image -->
 <div > <img src="https://images.cezamemusic.com/public-images/800x800/images/covers/MAG6001.jpg" alt="Chomsk' - Utopia" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/wPcpW-NtpHI" title="Chomsky - Utopia (Nowadays #5)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "wPcpW-NtpHI" >}}
 </div> <!-- Song Information -->
 <div > <p>"Utopia," released on January 22, 2016, delivers Chomsk's distinctive soundscape that resonates deeply. It's a standout addition to the *Nowadays, Vol. 5 (Winter Tape)* compilation, showcasing the brilliance of Nowadays Records.</p>
 </div> <!-- Footer Links -->

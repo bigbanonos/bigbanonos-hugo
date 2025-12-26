@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Your Theme" by Superchunk, from the *I Hate Music* album, released on September 3, 2013.</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d00001e028af84fc3edfe9309e8b1a1c9" alt="Superchunk - Your Theme" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="601" src="https://www.youtube.com/embed/_xwaoyq-VrM" title="Superchunk - Your Theme" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "_xwaoyq-VrM" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Your Theme"</em> by Superchunk is a track from the *I Hate Music* album, released on September 3, 2013. The song represents the band's alternative pop and rock style, capturing the essence of Chapel Hill sound and lo-fi indie rock.</p>
 </div> <!-- Footer Links -->

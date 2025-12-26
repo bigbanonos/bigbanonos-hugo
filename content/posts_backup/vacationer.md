@@ -8,12 +8,12 @@ layout: post
 <div class="separator" > <a href="https://i.ytimg.com/vi/0mxadMJw-vY/hqdefault.jpg"> <img border="0" data-original-height="360" data-original-width="480" height="300" src="https://i.ytimg.com/vi/0mxadMJw-vY/hqdefault.jpg" width="400" alt="Vacationer Featured Image" /> </a>
 </div> <!-- YouTube Playlist Embed -->
 <h2>Watch Vacationer Songs on YouTube</h2>
-<iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/videoseries?list=PLtuNtuTatqI2qJ2_4dA3BlMvBk6HA-33I" width="560"></iframe> <!-- Song Information -->
+{{< youtube "videoseries" >}} <!-- Song Information -->
 <h3>Favorite Songs:</h3>
 <ol> <li>"Stay" (2014)</li> <li>"Trip" (2012)</li>
 </ol> <!-- Spotify Playlist Embed -->
 <h2>Listen to Vacationer on Spotify</h2>
-<iframe allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" allowfullscreen="" frameborder="0" height="352" loading="lazy" src="https://open.spotify.com/embed/playlist/2NqG3ma0W4FxPp0XVdkQUY?utm_source=generator" width="100%"></iframe> <!-- Footer Links -->
+{{< youtube "embed" >}} <!-- Footer Links -->
 <p>For more updates and playlists, visit <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Connect with us on <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p>
 
 

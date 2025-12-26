@@ -7,7 +7,7 @@ layout: post
 <p >Updated March 1, 2003, with "Broke Up" by Eric Gaffney. A poignant track from the album *Nature Walk*, showcasing his unique experimental sound.</p> <!-- Featured Image -->
 <div > <img src="https://f4.bcbits.com/img/0005323988_10.jpg" alt="Eric Gaffney - Nature Walk" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/7LklawIJYCE" title="Eric Gaffney - Broke Up" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "7LklawIJYCE" >}}
 </div> <!-- Song Information -->
 <div > <p>"Broke Up" is a raw and introspective track, blending experimental elements with heartfelt lyrics, perfectly embodying Eric Gaffney's unique artistry.</p>
 </div> <!-- Footer Links -->

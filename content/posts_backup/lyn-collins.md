@@ -7,7 +7,7 @@ layout: post
 <p >Updated January 17, 1986, with "Rock Me Again & Again & Again & Again & Again & Again" from <em>James Brown's Funky People</em>. Feel the soul of Lyn Collins in the playlist below!</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d00001e0265b6c1b6962eef11331109ce" alt="Lyn Collins" />
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/6S3xtLU6iCqpKPXMGnZ3LK?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <div > <p><strong>"Rock Me Again & Again & Again & Again & Again & Again"</strong><br> Genre: R&B<br> Album: <em>James Brown's Funky People</em><br> Release Date: January 1, 1986<br> Label: Polydor</p> <p><strong>"Think (About It)"</strong><br> Genre: R&B<br> Album: <em>Think (About It)</em><br> Release Date: September 27, 1972<br> Label: Universal Records</p>
 </div> <!-- Footer Links -->

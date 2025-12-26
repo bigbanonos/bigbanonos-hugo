@@ -4,7 +4,7 @@ layout: post
 ---
 <div class="separator" >
 <a href="https://i.ytimg.com/vi/KzdeUrsbfws/maxresdefault.jpg" imageanchor="1"><img border="0" data-original-height="450" data-original-width="800" height="225" src="https://i.ytimg.com/vi/KzdeUrsbfws/maxresdefault.jpg" width="400" /></a></div>
-<iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/videoseries?list=PLtuNtuTatqI0zlhQX44drJeeC0HSyulSs" width="560"></iframe> <h3>
+{{< youtube "videoseries" >}} <h3>
 <ol>
 <li>(ft. Maria Escarmiento, Mygal X) La Diabla [2019]</li>
 <li>

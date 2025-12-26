@@ -7,7 +7,7 @@ layout: post
 <p >Updated January 1, 2007, with "Whatcha See Is Whatcha Get" by The Dramatics. This iconic track, featured on their album "The Very Best Of The Dramatics," showcases their mastery of classic soul and Memphis-style funk.</p> <!-- Featured Image -->
 <div > <img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/b8/Dramatics_-_Whatcha_See_Is_Whatcha_Get_album_cover.jpg/220px-Dramatics_-_Whatcha_See_Is_Whatcha_Get_album_cover.jpg" alt="The Dramatics - Whatcha See Is Whatcha Get" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/PgG6SU8L-dI" title="The Dramatics - Whatcha See is Whatcha Get (Official Audio)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "PgG6SU8L-dI" >}}
 </div> <!-- Song Information -->
 <div > <p>"Whatcha See Is Whatcha Get" captures the essence of The Dramatics' soulful harmonies and infectious funk rhythms, making it a timeless favorite.</p>
 </div> <!-- Footer Links -->

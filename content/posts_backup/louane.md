@@ -7,7 +7,7 @@ layout: post
 <p >Updated November 10, 2017, with "Non-sens" by Louane. This vibrant French pop track, released under Universal Music Division Island Def Jam, highlights Louane's emotive vocals and modern pop sensibilities.</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d0000b273cbda4a3f454d67934d0e8fb5" alt="Louane - Non-sens" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/Rk_3h97B7oc" title="Non-sens" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "Rk_3h97B7oc" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Non-sens"</em> by Louane is a standout French pop track that blends catchy rhythms with heartfelt lyrics. With its polished production and Louane's captivating performance, itâ€™s a perfect representation of her artistry and appeal.</p>
 </div> <!-- Footer Links -->

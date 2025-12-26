@@ -5,11 +5,11 @@ layout: post
 <div class="post-title"> <h1>BigBanonos' Favorite Songs by Wednesday</h1>
 </div>
 <p>Updated April 7, 2023, with "Quarry" from the album <i>Rat Saw God</i>, highlighted in the playlist below:</p>
-<div class="post-image"> <img src="https://variety.com/wp-content/uploads/2023/06/Wednesday-by-Brandon-McClain-3.jpg?w=1000&h=667&crop=1" alt="Wednesday Band Press Photo">
+<div class="post-image"> {{< img-lite src="https://variety.com/wp-content/uploads/2023/06/Wednesday-by-Brandon-McClain-3.jpg?w=1000&h=667&crop=1" alt="Wednesday Band Press Photo" >}}
 </div>
 <p>Wednesdayâ€™s unique fusion of Asheville indie, bubblegrunge, and countrygaze creates an innovative and nostalgic sound. Tracks like "Quarry" and "Chosen to Deserve" showcase their ability to blend heartfelt storytelling with gritty instrumentation. Released in 2023, these songs highlight the band's evolution and growing prominence.</p>
 <p>Listen to the playlist below to experience these tracks and more:</p>
-<div class="spotify-embed"> <iframe src="https://open.spotify.com/embed/playlist/6cKbHTvNPmWC1nWW0TKnEp?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div class="spotify-embed"> {{< youtube "embed" >}}
 </div>
 <p>Tracks featured:</p>
 <ul> <li>"Quarry" â€“ <i>Rat Saw God</i> (April 7, 2023, Dead Oceans)</li> <li>"Chosen to Deserve" â€“ <i>Chosen to Deserve</i> (January 18, 2023, Dead Oceans)</li>

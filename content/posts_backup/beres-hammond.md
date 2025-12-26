@@ -7,7 +7,7 @@ layout: post
 <p >Updated 2003 with BigBanonos' favorite song by Beres Hammond, "Double Trouble," from the album *Can't Stop A Man*. Watch the video and see more details below:</p> <!-- Featured Image -->
 <div > <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQVjtl7k1XAZyKxk8xzApo8DSMiwgYe_aUkg&s" alt="Beres Hammond - Double Trouble" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/0B3hqwbKbkc" title="Double Trouble" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "0B3hqwbKbkc" >}}
 </div> <!-- Song Information -->
 <div > <p>"Double Trouble" by Beres Hammond is a timeless lovers rock classic that showcases his soulful voice and reggae mastery. Released in 2003 under VP Records, this 3:31-long track from the album *Can't Stop A Man* seamlessly blends roots reggae and soca elements, making it a standout hit in the genre.</p>
 </div> <!-- Footer Links -->

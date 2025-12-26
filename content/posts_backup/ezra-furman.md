@@ -4,9 +4,9 @@ layout: post
 ---
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Ezra Furman</h1> <!-- Featured Image -->
-<div > <img src="https://i.scdn.co/image/ab67616d00001e02d3b0cfc492f7a9b930d9c703" alt="Ezra Furman">
+<div > {{< img-lite src="https://i.scdn.co/image/ab67616d00001e02d3b0cfc492f7a9b930d9c703" alt="Ezra Furman" >}}
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/1kuOm3YoMHUw5CdatDKBag?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Introductory Text -->
 <p >Ezra Furman blends emotion with introspection in a mix of alternative pop and transpop tracks. These songs, spanning a range of Ezraâ€™s albums, resonate with vibrant storytelling and raw passion.</p> <!-- Song Highlights -->
 <div > <p>BigBanonos' standout picks:</p> <ol> <li><strong>Every Feeling</strong> | <em>Sex Education Original Soundtrack</em> | Released: January 24, 2020 | Bella Union</li> <li><strong>Hour of Deepest Need</strong> | <em>Perpetual Motion People</em> | Released: July 10, 2015 | Bella Union</li> <li><strong>Ordinary Life</strong> | <em>Perpetual Motion People</em> | Released: July 10, 2015 | Bella Union</li> <li><strong>The Queen of Hearts</strong> | <em>The Year of No Returning</em> | Released: July 16, 2013 | Bar/None Records</li> </ol>

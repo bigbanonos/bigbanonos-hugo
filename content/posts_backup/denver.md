@@ -7,7 +7,7 @@ layout: post
 <p >Updated August 14, 2012, with "The Way It Is" by Denver. This heartfelt track from the band delivers a poignant blend of alt-country and indie folk, showcasing rich harmonies and evocative storytelling. Watch the video below!</p> <!-- Featured Image -->
 <div > <img src="https://i.ytimg.com/vi/lFRvZ-EhL28/hqdefault.jpg" alt="Denver - The Way It Is" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="733" height="480" src="https://www.youtube.com/embed/Xb2-5KhzlNg" title="Denver - "The Way It Is" (Official Music Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "Xb2-5KhzlNg" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"The Way It Is"</em>, released on August 14, 2012, under Mama Bird Recording Co., highlights Denver's mastery of crafting emotionally resonant music. The track's lush instrumentation and poignant lyrics make it a standout in the indie folk and alt-country scenes.</p>
 </div> <!-- Footer Links -->

@@ -7,7 +7,7 @@ layout: post
 <p >Updated December 3, 2013, with "Come Inside" by Magic Trick. This introspective track from the album <em>River of Souls</em>, released under Empty Cellar Records, invites listeners into a dreamy and contemplative soundscape.</p> <!-- Featured Image -->
 <div > <img src="https://media.npr.org/assets/img/2016/01/22/madisenward_wide-03789a01db072999210a995c8dd8b82d75a5a32a.jpg" alt="Magic Trick - Come Inside" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/5_7q1YSS1MM" title="Magic Trick - Come inside" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "5_7q1YSS1MM" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Come Inside"</em> by Magic Trick is a beautifully atmospheric track that showcases intricate instrumentation and reflective lyrics. From the album <em>River of Souls</em>, this song captures a serene yet emotionally rich ambiance that lingers long after it ends.</p>
 </div> <!-- Footer Links -->

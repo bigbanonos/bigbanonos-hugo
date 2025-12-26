@@ -4,7 +4,7 @@ layout: post
 ---
 <h1>BigBanonos' Top 3 Songs by This Is Lorelei</h1> <p>Updated June 14, 2024 with "Perfect Hand"</p> <p><img alt="This Is Lorelei Album Art" src="https://f4.bcbits.com/img/a0937923974_2.jpg" /></p> <p>Dive into BigBanonos' favorite tracks by NYC indie rock band **This Is Lorelei**. With unique sounds from their 2024 album, <em>Box for Buddy, Box for Star</em>, this collection is a must-hear.</p> <h2>BigBanonos' Top 3 This Is Lorelei Songs (Ordered by Release Date)</h2> <ol> <li><strong>Perfect Hand</strong> - Album: <em>Box for Buddy, Box for Star</em> (2024-06-14)</li> <li><strong>I'm All Fucked Up</strong> - Album: <em>Box for Buddy, Box for Star</em> (2024-06-14)</li> <li><strong>Dancing in the Club</strong> - Album: <em>Box for Buddy, Box for Star</em> (2024-06-14)</li>
 </ol> <p>Enjoy the playlist below:</p>
-<iframe allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" allowfullscreen="" frameborder="0" height="352" loading="lazy" src="https://open.spotify.com/embed/playlist/1P3Xf5yXXpBoHxkuSbvX2n?utm_source=generator" width="100%"></iframe>
+{{< youtube "embed" >}}
 
 <!--Subscribe and Playlist Links-->
 <div>

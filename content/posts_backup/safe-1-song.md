@@ -2,7 +2,7 @@
 title: "safe 1 song"
 layout: post
 ---
-<iframe frameborder="0" height="270" src="https://youtube.com/embed/Iqb38QuM5bI" width="480"></iframe><h2><ol><li>(ft. Kiana LedÃƒÆ’Ã‚Â©) Contagious [2021]</li></ol></h2>
+{{< youtube "Iqb38QuM5bI" >}}<h2><ol><li>(ft. Kiana LedÃƒÆ’Ã‚Â©) Contagious [2021]</li></ol></h2>
 
 <!--Subscribe and Playlist Links-->
 <div>

@@ -7,7 +7,7 @@ layout: post
 <p >Updated August 13, 2013, with "Breathe This Air" by Jon Hopkins, featuring Purity Ring. A stunning blend of electronica and intelligent dance music, this collaboration creates an ethereal atmosphere with a deep, introspective vibe. The atmospheric soundscapes and the haunting vocals from Purity Ring make this track a standout in the electronic genre.</p> <!-- Featured Image -->
 <div > <img src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Jon_Hopkins_Rockefeller_2018_213943.jpg" alt="Jon Hopkins - Breathe This Air" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/CPmucPjFulI" title="Jon Hopkins - Breathe This Air feat. Purity Ring (Official Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "CPmucPjFulI" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Breathe This Air"</em> is a captivating track from Jon Hopkins, featuring the ethereal vocals of Purity Ring. Part of Hopkins' *Immunity* album, the song delves into themes of introspection and connection, enhanced by a mesmerizing, atmospheric production. The fusion of Purity Ringâ€™s signature dream-like vocals with Hopkins' electronic beats creates an immersive experience for listeners.</p>
 </div> <!-- Footer Links -->

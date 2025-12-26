@@ -7,7 +7,7 @@ layout: post
 <p >Updated June 2, 2017, with "New Rules" by Dua Lipa. This hit single from her self-titled *Dua Lipa (Deluxe)* album, released under Warner Records, exemplifies her mastery of dance-pop and modern pop anthems.</p> <!-- Featured Image -->
 <div > <img src="https://cdn.media.amplience.net/i/naras/DuaLipa.webp?w=840" alt="Dua Lipa - New Rules" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/k2qgadSvNyU" title="Dua Lipa - New Rules (Official Music Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "k2qgadSvNyU" >}}
 </div> <!-- Song Information -->
 <div > <p>"New Rules" is a breakout anthem showcasing Dua Lipa's knack for empowering lyrics and infectious melodies. With its catchy beat and iconic music video, the track remains a pop classic that defines her artistry.</p>
 </div> <!-- Footer Links -->

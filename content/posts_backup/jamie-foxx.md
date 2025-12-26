@@ -7,7 +7,7 @@ layout: post
 <p >Updated January 1, 2011, with "Fly Love" by Jamie Foxx. Featured in *Rio: Music From The Motion Picture*, this soulful track showcases Foxx's smooth vocals and heartfelt delivery, blending R&B with contemporary pop flair.</p> <!-- Featured Image -->
 <div > <img src="https://images.foxtv.com/static.fox5atlanta.com/www.fox5atlanta.com/content/uploads/2023/06/932/524/jamie-foxx-1.jpg?ve=1&tl=1" alt="Jamie Foxx - Fly Love" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/s2NInX7vkSg" title="Fly Love" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "s2NInX7vkSg" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Fly Love"</em> is a tender ballad that highlights Jamie Foxx's exceptional artistry. Its romantic undertones and emotional resonance make it a timeless addition to the *Rio* soundtrack.</p>
 </div> <!-- Footer Links -->

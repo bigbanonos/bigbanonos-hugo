@@ -7,7 +7,7 @@ layout: post
 <p >Updated October 12, 2010, with "Felix & Adelita" by Franz Nicolay. A poignant track from *Luck And Courage*, this indie gem showcases Nicolayâ€™s storytelling prowess and unique musical stylings.</p> <!-- Featured Image -->
 <div > <img src="https://i.ytimg.com/vi/eqUwAGnUXao/maxresdefault.jpg" alt="Franz Nicolay - Felix & Adelita" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/GocwlSnkylw" title="Franz Nicolay - Felix & Adelita" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "GocwlSnkylw" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Felix & Adelita"</em> is featured on Franz Nicolayâ€™s *Luck And Courage* album, released by Team Science in 2010. With influences from New Hampshire indie and his signature flair, this track is a heartfelt narrative wrapped in hauntingly beautiful instrumentation.</p>
 </div> <!-- Footer Links -->

@@ -2,14 +2,14 @@
 title: "pup 4 songs"
 layout: post
 ---
-<h1>BigBanonos Top Songs by PUP</h1> <img src="https://media.pitchfork.com/photos/6273e541c75302f40c14a42b/3:2/w_3000,h_2000,c_limit/Pup.jpg" alt="PUP"> <p>PUP delivers high-energy punk and emo vibes with a uniquely Canadian indie twist, blending catchy hooks with raw emotion. Here are BigBanonos' top selections:</p> <h3>"Best Revenge"</h3>
+<h1>BigBanonos Top Songs by PUP</h1> {{< img-lite src="https://media.pitchfork.com/photos/6273e541c75302f40c14a42b/3:2/w_3000,h_2000,c_limit/Pup.jpg" alt="PUP" >}} <p>PUP delivers high-energy punk and emo vibes with a uniquely Canadian indie twist, blending catchy hooks with raw emotion. Here are BigBanonos' top selections:</p> <h3>"Best Revenge"</h3>
 <p><strong>Album:</strong> Who Will Look After The Dogs? (Rise Records, May 2, 2025)<br />
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/g7I4pK2Hows" frameborder="0" allowfullscreen></iframe></p> <h3>"Needed To Hear It"</h3>
+{{< youtube "g7I4pK2Hows" >}}</p> <h3>"Needed To Hear It"</h3>
 <p><strong>Album:</strong> Who Will Look After The Dogs? (Rise Records, May 2, 2025)<br />
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/1QJbPS4lxJs" frameborder="0" allowfullscreen></iframe></p> <ol> <li><strong>Totally Fine</strong> | <em>THE UNRAVELING OF PUPTHEBAND</em> | Rise Records | Released: April 1, 2022</li> <li><strong>Robot Writes A Love Song</strong> | <em>THE UNRAVELING OF PUPTHEBAND</em> | Rise Records | Released: April 1, 2022</li> <li><strong>Relentless</strong> | <em>THE UNRAVELING OF PUPTHEBAND</em> | Rise Records | Released: April 1, 2022</li> <li><strong>Waiting</strong> | <em>Waiting / Kill Something</em> | Rise Records | Released: November 9, 2021</li>
-</ol> <div> <iframe src="https://open.spotify.com/embed/playlist/75OJxOIrkt95ERz65Xp6KI?utm_source=generator" width="100%" height="352" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+{{< youtube "1QJbPS4lxJs" >}}</p> <ol> <li><strong>Totally Fine</strong> | <em>THE UNRAVELING OF PUPTHEBAND</em> | Rise Records | Released: April 1, 2022</li> <li><strong>Robot Writes A Love Song</strong> | <em>THE UNRAVELING OF PUPTHEBAND</em> | Rise Records | Released: April 1, 2022</li> <li><strong>Relentless</strong> | <em>THE UNRAVELING OF PUPTHEBAND</em> | Rise Records | Released: April 1, 2022</li> <li><strong>Waiting</strong> | <em>Waiting / Kill Something</em> | Rise Records | Released: November 9, 2021</li>
+</ol> <div> {{< youtube "embed" >}}
 </div> <p>2021 video for <em>Waiting</em></p>
-<iframe frameborder="0" height="270" src="https://youtube.com/embed/xHG36NyvaUk" width="100%"></iframe> <p>first posted by <a href="https://bigbanonos.blogspot.com/">https://bigbanonos.blogspot.com/</a></p> <div> <p>Explore more BigBanonos content: <a href="https://bigbanonos.blogspot.com/">Website</a> | <a href="https://www.youtube.com/@BigBanonos">YouTube</a> | <a href="https://x.com/bigbanonos">Twitter</a></p>
+{{< youtube "xHG36NyvaUk" >}} <p>first posted by <a href="https://bigbanonos.blogspot.com/">https://bigbanonos.blogspot.com/</a></p> <div> <p>Explore more BigBanonos content: <a href="https://bigbanonos.blogspot.com/">Website</a> | <a href="https://www.youtube.com/@BigBanonos">YouTube</a> | <a href="https://x.com/bigbanonos">Twitter</a></p>
 </div> <!-- Tags -->
 <p>@pup</p>
 

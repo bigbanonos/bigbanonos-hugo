@@ -3,7 +3,7 @@ title: "david dondero 4 songs"
 layout: post
 ---
 <p>Ãƒâ€šÃ‚Â </p>
-<iframe src="https://open.spotify.com/embed/playlist/0XDuSZ8fUzstU5PfpOs40i?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe><br />
+{{< youtube "embed" >}}<br />
 <div class="separator"><a href="https://f4.bcbits.com/img/0007987534_10.jpg" ><img alt="" border="0" width="320" data-original-height="1200" data-original-width="1200" src="https://f4.bcbits.com/img/0007987534_10.jpg"/></a></div>
 
 <!--Subscribe and Playlist Links-->

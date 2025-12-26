@@ -4,9 +4,9 @@ layout: post
 ---
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Darwin Deez</h1> <!-- Featured Image -->
-<div > <img src="https://i.scdn.co/image/ab6761610000e5eb3086e69853730ecbc5b1e738" alt="Darwin Deez">
+<div > {{< img-lite src="https://i.scdn.co/image/ab6761610000e5eb3086e69853730ecbc5b1e738" alt="Darwin Deez" >}}
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/2u0odKVHm7nGL2C6YuXKvU?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Introductory Text -->
 <p >Darwin Deezâ€™s unique shimmer pop and indie rock tunes like "Last Cigarette" showcase his playful yet introspective artistry. BigBanonos celebrates these standout tracks.</p> <!-- Song Highlights -->
 <div > <p>BigBanonos' standout picks:</p> <ol> <li><strong>Last Cigarette</strong> | <em>Double Down</em> | Released: September 18, 2015 | Lucky Number Music Limited</li> <li><strong>Rated R</strong> | <em>Double Down</em> | Released: September 18, 2015 | Lucky Number Music Limited</li> </ol>

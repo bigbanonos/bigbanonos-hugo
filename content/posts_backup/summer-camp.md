@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Was It Worth It" by Summer Camp, from the *Young EP* album, released on September 5, 2010.</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d0000b2738679d90c62463d42147e18ed" alt="Summer Camp - Was It Worth It" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="514" src="https://www.youtube.com/embed/EE0MhXo05M4" title="Summer Camp - Was It Worth It" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "EE0MhXo05M4" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Was It Worth It"</em> by Summer Camp is a track from the *Young EP* album, released on September 5, 2010. The song exemplifies the band's signature sound of UK alternative pop with emotional depth and reflective lyrics.</p>
 </div> <!-- Footer Links -->

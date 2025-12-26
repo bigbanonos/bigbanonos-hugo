@@ -7,7 +7,7 @@ layout: post
 <p >Updated May 4, 2013, with "Happy Endings" by Faul. This saxophone house track radiates positivity and energy, making it a timeless electronic favorite.</p> <!-- Featured Image -->
 <div > <img src="https://i.ytimg.com/vi/rc33KU-CEcI/maxresdefault.jpg" alt="Faul - Happy Endings" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/rc33KU-CEcI" title="FAUL - Happy Endings" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "rc33KU-CEcI" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Happy Endings"</em> highlights Faul's seamless fusion of uplifting saxophone melodies with vibrant house beats, making it a standout in the electronic genre.</p>
 </div> <!-- Footer Links -->

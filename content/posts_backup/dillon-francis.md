@@ -5,14 +5,14 @@ layout: post
 <!-- Title of the Post -->
 <h1>BigBanonos' Top Songs by Dillon Francis</h1> <!-- Introductory Text -->
 <p>Dillon Francis infuses EDM and Latin elements into his versatile discography. Here are BigBanonos' top picks from the innovative artist.</p> <!-- Featured Image -->
-<div> <img src="https://i.scdn.co/image/ab6761610000e5eb7a10c0a271f96529bf28f97f" alt="Dillon Francis">
+<div> {{< img-lite src="https://i.scdn.co/image/ab6761610000e5eb7a10c0a271f96529bf28f97f" alt="Dillon Francis" >}}
 </div> <!-- Spotify Embed -->
-<div> <iframe src="https://open.spotify.com/embed/playlist/2oxYCG2qme182Ulvl2Lqek?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div> {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <h3>Top Songs:</h3>
 <ul> <li><strong>White Boi</strong> (feat. Lao Ra) | <em>White Boi</em> | Released: 2018-09-12 | Label: IDGAFOS</li> <li><strong>Change Your Mind</strong> (feat. lovelytheband) | <em>Change Your Mind</em> | Released: 2019-03-29 | Label: IDGAFOS</li> <li><strong>Hello There</strong> (feat. Yung Pinch) | <em>Hello There</em> | Released: 2017-10-13 | Label: IDGAFOS</li>
 </ul> <!-- Additional YouTube Embed -->
-<div> <iframe allow="autoplay; encrypted-media" allowfullscreen="" frameborder="0" height="500" src="https://www.youtube.com/embed/videoseries?list=PLtuNtuTatqI1lNmqvsEtneEduSCnVJ_IQ" width="100%"></iframe>
+<div> {{< youtube "videoseries" >}}
 </div> <!-- Footer Links -->
 <hr />
 <p>For more updates, visit <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Also, check out our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> channel and follow us on <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a> for more exclusive content!</p> <!-- Tags -->

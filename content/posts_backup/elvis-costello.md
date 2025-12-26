@@ -5,9 +5,9 @@ layout: post
 <!-- Title of the Post -->
 <h1>BigBanonos' Favorite Songs by Elvis Costello</h1> <!-- Introductory Text -->
 <p>Elvis Costello, one of the most prolific and innovative artists in rock and pop, has left an indelible mark with his genre-defying sound. BigBanonos' favorite picks from his expansive catalog are highlighted below.</p> <!-- Featured Image -->
-<div> <img src="https://i.scdn.co/image/ab67616d0000b273008a93d976cfd5a76ba06b9b" alt="Elvis Costello">
+<div> {{< img-lite src="https://i.scdn.co/image/ab67616d0000b273008a93d976cfd5a76ba06b9b" alt="Elvis Costello" >}}
 </div> <!-- Spotify Embed -->
-<div> <iframe src="https://open.spotify.com/embed/playlist/4szxjyjuLzhBiEbruJHOZL?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div> {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <h3>Top Songs:</h3>
 <ul> <li><strong>Less Than Zero</strong> | Album: <em>My Aim Is True</em> | Released: July 22, 1977 | Label: UMe/Elvis Costello</li> <li><strong>Good Year For The Roses</strong> | Album: <em>Almost Blue</em> | Released: 1981 | Label: UMe/Elvis Costello</li>

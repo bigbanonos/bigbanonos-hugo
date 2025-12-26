@@ -7,7 +7,7 @@ layout: post
 <p >Updated May 12, 2015, with "Deep" by JONES. A soulfully captivating track, "Deep" delves into the complexities of emotion with a smooth blend of UK contemporary R&B. The evocative lyrics and JONES' ethereal vocals make this track a standout in the genre.</p> <!-- Featured Image -->
 <div > <img src="https://f4.bcbits.com/img/0003790999_25.jpg" alt="JONES - Deep" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/COMe6V6l8HE" title="JONES - Deep" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> <br /> <iframe width="95%%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/218173758&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&visual=true"></iframe><br />
+<div > {{< youtube "COMe6V6l8HE" >}} <br /> <iframe width="95%%" height="450" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/218173758&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&visual=true"></iframe><br />
 </div> <!-- Song Information -->
 <div > <p><em>"Deep"</em> from JONES' *Indulge* album is a mesmerizing track that showcases the UK's contemporary R&B scene. Her soulful vocals and the smooth production combine to create an immersive listening experience, making this track a standout in modern R&B.</p>
 </div> <!-- Footer Links -->

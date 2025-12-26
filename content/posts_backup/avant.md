@@ -4,9 +4,9 @@ layout: post
 ---
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Avant</h1> <!-- Featured Image -->
-<div > <img src="https://i.scdn.co/image/ab67616d0000b273283d9616980c5cf1ca1fc5eb" alt="Avant">
+<div > {{< img-lite src="https://i.scdn.co/image/ab67616d0000b273283d9616980c5cf1ca1fc5eb" alt="Avant" >}}
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/466bSe362nb8Fc9VAxm6ZN?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Introductory Text -->
 <p >Avant's sultry R&B sound has captivated listeners for decades. From the romantic "Makin' Good Love" to the heartfelt "Separated," here are BigBanonos' favorite Avant tracks.</p> <!-- Song Highlights -->
 <div > <p>BigBanonos' standout picks:</p> <ol> <li><strong>Makin' Good Love</strong> | <em>Ecstasy</em> | Released: March 26, 2002 | Geffen</li> <li><strong>Separated</strong> | <em>My Thoughts</em> | Released: May 9, 2000 | Geffen</li> </ol>

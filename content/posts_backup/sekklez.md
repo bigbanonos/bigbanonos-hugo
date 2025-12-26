@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Long Time" by Sekklez, from the album *Liberty Riddim*, released on July 7, 2015, by Kwashawna Records.</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d00001e021bbca75434bae7529427e6cc" alt="Sekklez - Long Time" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/sXvWbMFQXYU" title="Sekklez - Long Time" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "sXvWbMFQXYU" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Long Time"</em> by Sekklez is a track from the album *Liberty Riddim*, released on July 7, 2015. The song blends dancehall and reggae influences, capturing the essence of Caribbean rhythms.</p>
 </div> <!-- Footer Links -->

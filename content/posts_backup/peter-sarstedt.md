@@ -3,9 +3,9 @@ title: "peter sarstedt"
 layout: post
 ---
 <h2>Peter Sarstedt</h2>
-<img src="https://i.scdn.co/image/ab67616d0000b273c148278a15b1dc8430033452" alt="Peter Sarstedt">
+{{< img-lite src="https://i.scdn.co/image/ab67616d0000b273c148278a15b1dc8430033452" alt="Peter Sarstedt" >}}
 <p><strong>Where Do You Go To My Lovely [1969]</strong></p>
-<iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/L8XQZYIiNgo?list=PLtuNtuTatqI3X01zTqiujiaUhFaK1PjKA" width="560"></iframe>
+{{< youtube "L8XQZYIiNgo" >}}
 <p>first posted by <a href="https://bigbanonos.blogspot.com/">https://bigbanonos.blogspot.com/</a></p> <div> <p>Explore more BigBanonos content: <a href="https://bigbanonos.blogspot.com/">Website</a> | <a href="https://www.youtube.com/@BigBanonos">YouTube</a> | <a href="https://x.com/bigbanonos">Twitter</a></p>
 </div>
 

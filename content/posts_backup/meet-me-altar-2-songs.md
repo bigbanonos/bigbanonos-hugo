@@ -3,8 +3,8 @@ title: "meet me altar 2 songs"
 layout: post
 ---
 <h1>BigBanonos Top 2 Songs by Meet Me @ The Altar</h1>
-<img src="https://assets.exclaim.ca/image/upload/v1704478174/meet-me-at-the-altar-steve-mcgill3.jpg" alt="Meet Me @ The Altar"> <p>This selection of BigBanonos' favorite tracks by Meet Me @ The Altar showcases their unique fusion of black punk, indie punk, and pop punk energy that has captivated fans and redefined the genre.</p> <ol> <li><strong>Say It (To My Face)</strong> | <em>Say It (To My Face)</em> | Fueled By Ramen | Released: September 30, 2022</li> <li><strong>Feel A Thing</strong> | <em>Feel A Thing</em> | Fueled By Ramen | Released: June 16, 2021</li>
-</ol> <div> <iframe src="https://open.spotify.com/embed/playlist/6fdLgMPzE8ZUSO3QA740c4?utm_source=generator" width="100%" height="352" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy" allowfullscreen></iframe>
+{{< img-lite src="https://assets.exclaim.ca/image/upload/v1704478174/meet-me-at-the-altar-steve-mcgill3.jpg" alt="Meet Me @ The Altar" >}} <p>This selection of BigBanonos' favorite tracks by Meet Me @ The Altar showcases their unique fusion of black punk, indie punk, and pop punk energy that has captivated fans and redefined the genre.</p> <ol> <li><strong>Say It (To My Face)</strong> | <em>Say It (To My Face)</em> | Fueled By Ramen | Released: September 30, 2022</li> <li><strong>Feel A Thing</strong> | <em>Feel A Thing</em> | Fueled By Ramen | Released: June 16, 2021</li>
+</ol> <div> {{< youtube "embed" >}}
 </div> <p>first posted by <a href="https://bigbanonos.blogspot.com/">https://bigbanonos.blogspot.com/</a></p> <div> <p>Explore more BigBanonos content: <a href="https://bigbanonos.blogspot.com/">Website</a> | <a href="https://www.youtube.com/@BigBanonos">YouTube</a> | <a href="https://x.com/bigbanonos">Twitter</a></p>
 </div> <!-- Tags -->
 <p>@meetmeatthealtar</p>

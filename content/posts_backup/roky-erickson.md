@@ -7,7 +7,7 @@ layout: post
 <p >Updated January 1, 2010, with "Don't Fall Down (Mono LP Version)" by Erickson, Hall, and the 13th Floor Elevators. A groundbreaking track from *The Psychedelic Sounds of the 13th Floor Elevators* that captures the essence of psychedelic rock.</p> <!-- Featured Image -->
 <div > <img src="https://rockandrollgarage.com/wp-content/uploads/2018/03/13th-floor-elevators-2-1280x720.png" alt="The Psychedelic Sounds of the 13th Floor Elevators" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/5-xHIBhbHzk" title="13th floor elevators - Don't Fall Down" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "5-xHIBhbHzk" >}}
 </div> <!-- Song Information -->
 <div > <p>"Don't Fall Down (Mono LP Version)" is a mesmerizing example of the acid rock and psychedelic influences that define the 13th Floor Elevators. This track continues to resonate as a hallmark of the genre.</p>
 </div> <!-- Footer Links -->

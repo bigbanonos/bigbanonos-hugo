@@ -7,7 +7,7 @@ layout: post
 <p >Updated May 10, 2019, with "l.a. coliseum" by Matt Kivel. This introspective track from the album <em>last night in america</em>, released under Cascine, embodies the delicate beauty of indie folk, with its heartfelt lyrics and ethereal production.</p> <!-- Featured Image -->
 <div > <img src="https://f4.bcbits.com/img/a1076471920_5.jpg" alt="Matt Kivel - l.a. coliseum" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/slvB2aeJERE" title="Matt Kivel - l.a. coliseum (Official Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "slvB2aeJERE" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"l.a. coliseum"</em> by Matt Kivel is a hauntingly beautiful indie folk track that captures the essence of solitude and reflection. From the album <em>last night in america</em>, this song weaves poetic storytelling with gentle melodies, leaving a lasting impression on its listeners.</p>
 </div> <!-- Footer Links -->

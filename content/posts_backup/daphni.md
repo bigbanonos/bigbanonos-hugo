@@ -7,7 +7,7 @@ layout: post
 <p >Updated June 5, 2019, with BigBanonos' favorite track, "Sizzling" by Daphni featuring Paradise. This electrifying collaboration perfectly blends Canadian house and microhouse vibes, delivering a track that truly lives up to its name.</p> <!-- Featured Image -->
 <div > <img src="https://www.musicmaniarecords.be/media/coverart-big/108810-daphni-sizzling.jpg" alt="Daphni - Sizzling" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/8qJSwZA8TmM" title="DAPHNI featuring PARADISE - Sizzling" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "8qJSwZA8TmM" >}}
 </div> <!-- Song Information -->
 <div > <p>Originally released on June 5, 2019, "Sizzling" is a standout in the electronic music scene. With Paradise's compelling input, Daphni crafts a dynamic track that layers house rhythms with subtle garage influences, creating an unforgettable listening experience.</p>
 </div> <!-- Footer Links -->

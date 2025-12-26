@@ -3,7 +3,7 @@ title: "odyssey"
 layout: post
 ---
 <h1 >Odyssey</h1> <p >Odyssey brought us timeless disco and post-disco hits like "Inside Out" and "Native New Yorker." Their music remains a staple of the R&B and Jazz scenes. Enjoy their classics below!</p> <div > <img src="https://i.scdn.co/image/ab67616d0000b2733c8cb1c41b25d18e728d01dc" alt="Odyssey" />
-</div> <div > <iframe src="https://open.spotify.com/embed/playlist/5IZrU9hEpPgUQW5mrF5LJG?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</div> <div > {{< youtube "embed" >}}
 </div> <div > <p><em>"Inside Out"</em> and <em>"Native New Yorker"</em> showcase Odyssey's mastery of the disco era. These tracks are perfect for fans of groove and timeless R&B!</p>
 </div> <div > <p>For more updates, visit <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Check out our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a> channels for exclusive content!</p>
 </div> @odyssey,

@@ -4,9 +4,9 @@ layout: post
 ---
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Demarco</h1> <!-- Featured Image -->
-<div > <img src="https://i.scdn.co/image/ab67616d0000b2739d377496c6bc8724b521222d" alt="Demarco">
+<div > {{< img-lite src="https://i.scdn.co/image/ab67616d0000b2739d377496c6bc8724b521222d" alt="Demarco" >}}
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/3I5CluRrbYXj17xX940H6v?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Introductory Text -->
 <p >Demarco brings infectious rhythms and smooth vocals to tracks like "Backaz" and "Yuh Find It," showcasing his dancehall and reggae fusion talent. BigBanonos celebrates these standout hits.</p> <!-- Song Highlights -->
 <div > <p>BigBanonos' standout picks:</p> <ol> <li><strong>Backaz</strong> | <em>Backaz</em> | Released: October 7, 2016 | TJ Records</li> <li><strong>Yuh Find It</strong> | <em>Yuh Find It - Single</em> | Released: August 12, 2016 | Good Good Productions</li> <li><strong>Remix</strong> | <em>Remix</em> | Released: May 28, 2016 | Notnice Records</li> </ol>

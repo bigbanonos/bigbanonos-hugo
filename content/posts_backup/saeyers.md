@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "You" by Saeyers, from the single *You*, released on April 12, 2019.</p> <!-- Featured Image -->
 <div > <img src="https://i1.sndcdn.com/artworks-000512334201-6l5gfp-t500x500.jpg" alt="Saeyers - You" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/D-ZG4AV5ojo" title="Saeyers - You" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "D-ZG4AV5ojo" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"You"</em> by Saeyers is a track from the single *You*, released on April 12, 2019. The song blends modern dream pop elements, offering a soothing and ethereal atmosphere that showcases Saeyers' unique style.</p>
 </div> <!-- Footer Links -->

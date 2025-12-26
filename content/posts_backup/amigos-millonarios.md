@@ -7,7 +7,7 @@ layout: post
 <p >Updated November 22, 2017, with BigBanonos' favorite song by Amigos Millonarios, "Chiki Corazon," featured on the compilation album *San Juanitos y Coplas 1*. Watch the video and see more details below:</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d0000b273da87543f50233fd5354e36b4" alt="Amigos Millonarios - Chiki Corazon" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/21VG-C_65q8" title="CHIKY - CORAZÃƒÆ’Ã¢â‚¬Å“N / AMIGOS MILLONARIOS ÃƒÂ°Ã…Â¸Ã¢â‚¬ÂÃ‚Â¥ÃƒÂ°Ã…Â¸Ã¢â‚¬â„¢Ã†â€™ÃƒÂ°Ã…Â¸Ã‚ÂÃ‚Â»ÃƒÂ°Ã…Â¸Ã¢â‚¬Â¢Ã‚ÂºÃƒÂ°Ã…Â¸Ã‚ÂÃ‚Â»" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "21VG-C_65q8" >}}
 </div> <!-- Song Information -->
 <div > <p>"Chiki Corazon" by Amigos Millonarios is an upbeat and vibrant track, showcasing the lively rhythms and melodies of mÃƒÆ’Ã‚Âºsica otavaleÃƒÆ’Ã‚Â±a. Released on November 22, 2017, as part of the compilation album *San Juanitos y Coplas 1*, this song captures the rich cultural essence of its genre.</p>
 </div> <!-- Footer Links -->

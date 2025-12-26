@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Animal" by Soft Black. This 2009 deep indie pop track radiates moody charm and lyrical depth. Watch the video below!</p> <!-- Featured Image -->
 <div > <img src="https://f4.bcbits.com/img/a3461229981_65" alt="Soft Black - Animal" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="733" height="480" src="https://www.youtube.com/embed/8_GhFo8s8vQ" frameborder="0" allowfullscreen></iframe>
+<div > {{< youtube "8_GhFo8s8vQ" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Animal"</em> by Soft Black, from their 2009 album *The Earth Is Black... And Other Apocalyptic Lullabies For Children*, is an indie masterpiece filled with raw emotion.</p>
 </div> <!-- Footer Links -->

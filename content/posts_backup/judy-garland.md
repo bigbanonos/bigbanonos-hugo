@@ -6,7 +6,7 @@ layout: post
 </div> <p>Judy Garland, one of the greatest performers of the 20th century, continues to captivate audiences with her iconic voice and timeless songs. Here are <em>BigBanonos'</em> favorite tracks from the legendary artist.</p> <h3>Selected Tracks</h3>
 <ol> <li><strong>Hey! Look Me Over (Live)</strong> â€“ <em>Live!</em> (1962)</li> <li><strong>Then You've Never Been Blue</strong> â€“ <em>Alone</em> (1957)</li>
 </ol> <p>Stream Judy Garlandâ€™s playlist:</p>
-<iframe src="https://open.spotify.com/embed/playlist/6QVa7gTc6anY4Pxpq1zDN4?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> <h3>Tags</h3>
+{{< youtube "embed" >}} <h3>Tags</h3>
 <p>@judygarland</p> <p>Explore more music on <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos' YouTube channel</a> and follow us on <a href="https://twitter.com/BigBanonos" target="_blank">Twitter</a>!</p> <hr />
 <p><em>First posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
 

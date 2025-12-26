@@ -7,7 +7,7 @@ layout: post
 <p >Updated October 8, 2013 with BigBanonos' favorite track, "Bloodstyle" by Caroline Smith. This standout song from her *Half About Being a Woman* album offers a soulful take on Minneapolis indie rock with a modern twist.</p> <!-- Featured Image -->
 <div > <img src="https://i.ytimg.com/vi/cOXsIlvOGFI/maxresdefault.jpg" alt="Caroline Smith - Bloodstyle" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/HdJgaG0JpsY" title="Caroline Smith - Magazine" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "HdJgaG0JpsY" >}}
 </div> <!-- Song Information -->
 <div > <p>"Bloodstyle," a soulful and introspective track from *Half About Being a Woman*, highlights Caroline Smithâ€™s evolution as an artist. Released in 2013, this song reflects her smooth blend of indie rock and R&B influences, capturing the essence of Minneapolis indie music.</p>
 </div> <!-- Footer Links -->

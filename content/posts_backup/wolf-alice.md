@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Silk" by Wolf Alice, from the album *My Love Is Cool*, released on June 22, 2015, by Dirty Hit/RCA Records. This track embodies the band's signature blend of indie rock and modern alternative rock.</p> <!-- Featured Image -->
 <div > <img src="https://www.nme.com/wp-content/uploads/2016/11/nme_wolf_alice_trainspotting_soundtrack_630.jpg" alt="Wolf Alice - Silk" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="617" src="https://www.youtube.com/embed/DxxDiw3zLAQ" title="Wolf Alice - Silk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "DxxDiw3zLAQ" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Silk"</em> by Wolf Alice is from their debut album *My Love Is Cool*, released on June 22, 2015. With its indie rock foundation and modern alternative edge, the track stands out as a quintessential example of the band's unique style.</p>
 </div> <!-- Footer Links -->

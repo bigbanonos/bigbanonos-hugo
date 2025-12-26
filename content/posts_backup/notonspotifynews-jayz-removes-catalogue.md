@@ -3,7 +3,7 @@ title: "notonspotifynews jayz removes catalogue"
 layout: post
 ---
 <div class="separator" >
-<iframe allowfullscreen="" class="YOUTUBE-iframe-video" data-thumbnail-src="https://i.ytimg.com/vi/G562vaFRmps/0.jpg" frameborder="0" height="266" src="https://www.youtube.com/embed/G562vaFRmps?feature=player_embedded" width="320"></iframe></div>
+{{< youtube "G562vaFRmps" >}}</div>
 
 
 <!--Subscribe and Playlist Links-->

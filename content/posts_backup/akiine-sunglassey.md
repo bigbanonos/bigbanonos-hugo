@@ -7,7 +7,7 @@ layout: post
 <p >Updated October 13, 2014, with "Sunglassey" by Akiine. This dreamy indie-pop track features ethereal vocals and a mellow vibe that's perfect for a relaxed listen. Watch the video below!</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab6761610000e5eb3043674afb3cc6299b12564c" alt="Akiine - Sunglassey" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/jNipVZySWIg?list=PLtuNtuTatqI3Sq0UrOfKvIPT20SzNwgDK" width="95%"></iframe>
+<div > {{< youtube "jNipVZySWIg" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Sunglassey"</em>, released in 2014 under Bad Life Records, is a standout single by Akiine. Its chill vibes and unique production make it a favorite for fans of experimental indie pop.</p>
 </div> <!-- Footer Links -->

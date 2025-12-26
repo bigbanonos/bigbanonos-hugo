@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Italy" by Soap&Skin, from the album *From Gas to Solid / you are my friend*, released on October 26, 2018, by Play It Again Sam.</p> <!-- Featured Image -->
 <div > <img src="https://f4.bcbits.com/img/0008289018_10.jpg" alt="Soap&Skin - Italy" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="601" src="https://www.youtube.com/embed/IYj6zjJ8uwQ" title="Italy" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "IYj6zjJ8uwQ" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Italy"</em> by Soap&Skin is a haunting track from the album *From Gas to Solid / you are my friend*, released on October 26, 2018. The song blends melancholic tones and Austrian pop influences, delivering a deeply emotive experience.</p>
 </div> <!-- Footer Links -->

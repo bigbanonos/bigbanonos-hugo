@@ -7,7 +7,7 @@ layout: post
 <p >Sharkeyâ€™s new single â€œSomeone Like Meâ€ brings a fresh sound to indie pop, with smooth vocals and mellow vibes. Watch the official video below!</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab676161000051741d9e50ebd13d5737e58d6ad8" alt="Sharkey - Someone Like Me" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/PvIuMzxl1a0" title="Sharkey - Someone Like Me" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "PvIuMzxl1a0" >}}
 </div> <!-- Song Information -->
 <div > <p><em>Someone Like Me</em> shows Sharkeyâ€™s knack for creating soothing, heartfelt melodies with a touch of indie charm. The song feels like a laid-back anthem for anyone searching for their match.</p> <p><strong>Updated on April 26, 2024</strong></p>
 </div> <!-- Footer Links -->

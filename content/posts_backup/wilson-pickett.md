@@ -4,9 +4,9 @@ layout: post
 ---
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Wilson Pickett</h1> <!-- Featured Image -->
-<div > <img src="https://fastly-s3.allmusic.com/artist/mn0000677781/400/_b1pcU8250kBAzW1lk12qCpQg_7iAU1wjqLgK_xGXts=.jpg" alt="Wilson Pickett">
+<div > {{< img-lite src="https://fastly-s3.allmusic.com/artist/mn0000677781/400/_b1pcU8250kBAzW1lk12qCpQg_7iAU1wjqLgK_xGXts=.jpg" alt="Wilson Pickett" >}}
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/1Jcg2fMazz6jWoT4ReK087?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Introductory Text -->
 <p >Wilson Pickett brought soul to the forefront with his powerful voice and unforgettable hits. These tracks capture the essence of his iconic sound.</p> <!-- Song Highlights -->
 <div > <p>BigBanonos' standout picks:</p> <ol> <li><strong>In the Midnight Hour</strong> | <em>In the Midnight Hour</em> | Released: 1965 | Rhino Atlantic</li> <li><strong>Mustang Sally</strong> | <em>The Wicked Pickett</em> | Released: February 8, 2005 | Rhino Atlantic</li> </ol>

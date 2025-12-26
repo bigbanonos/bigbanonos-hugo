@@ -7,7 +7,7 @@ layout: post
 <p >Updated November 22, 2019, with "Together We Reign" by Nailah Blackman and KI & The Band. This soca anthem, released under LSS Music, blends Caribbean rhythms with infectious energy, showcasing the vibrant sounds of Trinidad and Tobago.</p> <!-- Featured Image -->
 <div > <img src="https://loopnewslive.blob.core.windows.net/liveimage/sites/default/files/2020-03/h4syoXKdZA.jpg" alt="Nailah Blackman & KI & The Band - Together We Reign" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/7zIHkzlDAyg" title="Nailah Blackman & KI & The Band - Together We Reign | Soca 2020 | SGMM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "7zIHkzlDAyg" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Together We Reign"</em> by Nailah Blackman & KI & The Band is an energetic soca anthem, combining vibrant Caribbean sounds with powerful rhythms. Released under LSS Music, it captures the essence of Trinidadian culture and the spirit of unity in music.</p>
 </div> <!-- Footer Links -->

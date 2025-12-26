@@ -2,7 +2,7 @@
 title: "black rhyno"
 layout: post
 ---
-<iframe width="100%" height="500px" src="https://www.youtube.com/embed/videoseries?list=PLtuNtuTatqI3r1IB3BHv3W9H3SKm8UaIX" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+{{< youtube "videoseries" >}}
 <h3>Bike Back (2009)</h3>
 
 <!--Subscribe and Playlist Links-->

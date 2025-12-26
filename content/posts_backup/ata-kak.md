@@ -7,7 +7,7 @@ layout: post
 <p >Updated March 3, 2015, with BigBanonos' favorite song by Ata Kak, "Obaa Sima," released under Awesome Tapes From Africa. Watch the video and see more details below:</p> <!-- Featured Image -->
 <div > <img src="https://factmag-images.s3.amazonaws.com/wp-content/uploads/2016/05/02131556/AtaKak3.jpg" alt="Ata Kak - Obaa Sima" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/cd0PV82e1jE" title="Ata Kak - Obaa Sima [Ghana]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "cd0PV82e1jE" >}}
 </div> <!-- Song Information -->
 <div > <p>"Obaa Sima" by Ata Kak is an electrifying blend of afro psych and infectious beats, showcasing a truly unique sound. Released on March 3, 2015, under Awesome Tapes From Africa, this track continues to captivate listeners with its vibrant energy and Ghanaian roots.</p>
 </div> <!-- Footer Links -->

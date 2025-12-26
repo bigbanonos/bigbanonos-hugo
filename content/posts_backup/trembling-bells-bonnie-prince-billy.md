@@ -6,7 +6,7 @@ layout: post
 <div class="separator"> <a href="https://media.pitchfork.com/photos/59359e983fc4797de0f8d50a/master/pass/06832251.jpg" > <img alt="Trembling Bells & Bonnie 'Prince' Billy" border="0" width="320" data-original-height="480" data-original-width="640" src="https://media.pitchfork.com/photos/59359e983fc4797de0f8d50a/master/pass/06832251.jpg"/> </a>
 </div>
 <p>Trembling Bells and Bonnie 'Prince' Billy blend experimental folk and poignant lyricism for a deeply resonant sound. Here are BigBanonos' favorite tracks:</p> <ol> <li><strong>I Made a Date (With an Open Vein)</strong> (Official Video) | Released: 2012-04-06 | Honest Jon's Records</li> <li><strong>I Can Tell You're Leaving</strong> | Released: 2012-04-06 | Honest Jon's Records</li>
-</ol> <div> <iframe src="https://open.spotify.com/embed/playlist/4fEyYVz1J41f4WsX2v95gB?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</ol> <div> {{< youtube "embed" >}}
 </div> <p>Explore more on <a href="https://bigbanonos.blogspot.com/">BigBanonos</a>, or check out BigBanonos on <a href="https://www.youtube.com/@BigBanonos">YouTube</a> and <a href="https://x.com/bigbanonos">Twitter</a>.</p> <p>Tags: @tremblingbells,@bonnieprincebilly</p>
 
 

@@ -2,10 +2,10 @@
 title: "jimmy eat world"
 layout: post
 ---
-<h2>BigBanonos' Favorite Songs by Jimmy Eat World</h2> <p><strong>Updated July 24, 2001, with "The Middle - Acoustic Version" from <em>Bleed American (Deluxe Edition)</em></strong></p> <img src="https://i.scdn.co/image/ab6761610000e5eb0dc33cfd207772f8e2f6b46f" width="100%" alt="Jimmy Eat World"> <p>Jimmy Eat World helped define emo and pop punk with their anthemic songwriting. Below are BigBanonos' favorite songs by Jimmy Eat World.</p> <h3>"The Middle"</h3>
+<h2>BigBanonos' Favorite Songs by Jimmy Eat World</h2> <p><strong>Updated July 24, 2001, with "The Middle - Acoustic Version" from <em>Bleed American (Deluxe Edition)</em></strong></p> {{< img-lite src="https://i.scdn.co/image/ab6761610000e5eb0dc33cfd207772f8e2f6b46f" alt="Jimmy Eat World" >}} <p>Jimmy Eat World helped define emo and pop punk with their anthemic songwriting. Below are BigBanonos' favorite songs by Jimmy Eat World.</p> <h3>"The Middle"</h3>
 <p><em>Bleed American</em>, Interscope, July 17, 2001</p> <h3>"The Middle - Acoustic Version"</h3>
 <p><em>Bleed American (Deluxe Edition)</em>, Geffen, July 24, 2001</p> <h3>"The Authority Song"</h3>
-<p><em>Bleed American</em>, Interscope, July 17, 2001</p> <hr /> <h3>Listen on Spotify</h3> <iframe src="https://open.spotify.com/embed/playlist/3MxkxDIFP0703IV8PI8VtQ?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> <hr /> <p><strong>Tags:</strong> @jimmyeatworld</p> <hr /> <p><em>First posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+<p><em>Bleed American</em>, Interscope, July 17, 2001</p> <hr /> <h3>Listen on Spotify</h3> {{< youtube "embed" >}} <hr /> <p><strong>Tags:</strong> @jimmyeatworld</p> <hr /> <p><em>First posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
 
 
 <!--Subscribe and Playlist Links-->

@@ -3,10 +3,10 @@ title: "raffi"
 layout: post
 ---
 <h3>BigBanonos' Favorite Songs by Raffi</h3> <!-- Featured Image -->
-<div > <a href="https://cdn.shopify.com/s/files/1/0269/3654/1242/files/Raffi_Songs_480x480.png?v=1661890575" target="_blank"> <img src="https://cdn.shopify.com/s/files/1/0269/3654/1242/files/Raffi_Songs_480x480.png?v=1661890575" alt="Raffi - Baby Beluga"> </a>
+<div > <a href="https://cdn.shopify.com/s/files/1/0269/3654/1242/files/Raffi_Songs_480x480.png?v=1661890575" target="_blank"> {{< img-lite src="https://cdn.shopify.com/s/files/1/0269/3654/1242/files/Raffi_Songs_480x480.png?v=1661890575" alt="Raffi - Baby Beluga" >}} </a>
 </div> <!-- Introductory Text -->
 <p>Updated 1980 with songs from Raffi's beloved album <strong>Baby Beluga</strong>. BigBanonos highlights his timeless tracks that have captivated generations of listeners with their heartfelt messages and gentle melodies.</p> <!-- Spotify Playlist Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/1h2fuuwa2SMRGSz1ml60vt?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Song List -->
 <h4>Top Songs:</h4>
 <ol> <li><strong>All I Really Need</strong> | <em>Baby Beluga</em> | Released: 1980 | Rounder Records | Genre: Canadian children's music, children's folk, easy listening</li> <li><strong>Thanks A Lot</strong> | <em>Baby Beluga</em> | Released: 1980 | Rounder Records | Genre: Canadian children's music, children's folk, easy listening</li> <li><strong>To Everyone in All the World</strong> | <em>Baby Beluga</em> | Released: 1980 | Rounder Records | Genre: Canadian children's music, children's folk, easy listening</li>

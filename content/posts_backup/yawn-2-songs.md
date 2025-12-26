@@ -7,7 +7,7 @@ layout: post
 <p>BigBanonos works to promote the best songs #NotOnSpotify. Join the 650+ subscribers and subscribe to BigBanonos on <a href="https://www.youtube.com/channel/UCLKYEvwP847OahjcnkYMhjg">YouTube</a> to discover more exclusive tracks!</p> <!--Bandcamp Embed-->
 <iframe seamless="" src="https://bandcamp.com/EmbeddedPlayer/album=1174761808/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=390230901/transparent=true/"> <a href="https://englophile.bandcamp.com/album/open-season">Open Season by YAWN</a>
 </iframe> <!--YouTube Embed-->
-<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="315" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/1fTs8FsO_ww?si=a_wZMCuNVJMwLhAC" title="YouTube video player" width="560"></iframe> <!--Image-->
+{{< youtube "1fTs8FsO_ww" >}} <!--Image-->
 <img alt="YAWN Band Photo" src="https://static.stereogum.com/uploads/2011/07/YAWN.jpg" /> <!--Tags-->
 <p>Ãƒâ€šÃ‚Â </p>
 

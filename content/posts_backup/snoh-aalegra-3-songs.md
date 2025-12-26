@@ -3,10 +3,10 @@ title: "snoh aalegra 3 songs"
 layout: post
 ---
 <h1>BigBanonos Top Songs by Snoh Aalegra</h1>
-<img src="https://www.billboard.com/wp-content/uploads/media/Snoh-Aalegra-tiny-desk-2020-billboard-1548.jpg" alt="Snoh Aalegra"> <p>Snoh Aalegra is known for her smooth, alternative R&B sound. Here are BigBanonos' picks:</p> <ol> <li><strong>IN YOUR EYES</strong> | <em>TEMPORARY HIGHS IN THE VIOLET SKIES</em> | Released: 2021-07-09 | Roc Nation Records</li> <li><strong>TANGERINE DREAM</strong> | <em>TEMPORARY HIGHS IN THE VIOLET SKIES</em> | Released: 2021-07-09 | Roc Nation Records</li> <li><strong>I Want You Around (feat. 6LACK) - Remix</strong> | <em>I Want You Around (feat. 6LACK) [Remix]</em> | Released: 2019-11-01 | Artium Recordings, LLC</li>
+{{< img-lite src="https://www.billboard.com/wp-content/uploads/media/Snoh-Aalegra-tiny-desk-2020-billboard-1548.jpg" alt="Snoh Aalegra" >}} <p>Snoh Aalegra is known for her smooth, alternative R&B sound. Here are BigBanonos' picks:</p> <ol> <li><strong>IN YOUR EYES</strong> | <em>TEMPORARY HIGHS IN THE VIOLET SKIES</em> | Released: 2021-07-09 | Roc Nation Records</li> <li><strong>TANGERINE DREAM</strong> | <em>TEMPORARY HIGHS IN THE VIOLET SKIES</em> | Released: 2021-07-09 | Roc Nation Records</li> <li><strong>I Want You Around (feat. 6LACK) - Remix</strong> | <em>I Want You Around (feat. 6LACK) [Remix]</em> | Released: 2019-11-01 | Artium Recordings, LLC</li>
 </ol>
 <h3>Video Playlist:</h3>
-<div> <iframe src="https://open.spotify.com/embed/playlist/5t6mvhvw1ycQvjoGvUvTnV?utm_source=generator" width="100%" height="352" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div> {{< youtube "embed" >}}
 </div>
 <p>Tags: @snohaalegra</p>
 

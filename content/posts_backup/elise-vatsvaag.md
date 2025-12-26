@@ -7,7 +7,7 @@ layout: post
 <p >Updated January 1, 2012, with "Safe Play" by Elise Vatsvaag. This heartfelt track showcases her delicate vocals and introspective songwriting, making it a standout in the indie pop scene. Watch the official video below!</p> <!-- Featured Image -->
 <div > <img src="https://pickasso.spotifycdn.com/image/ab67c0de0000deef/dt/v1/img/radio/artist/1pViyIvMKoTZXUC6jJaspo/en" alt="Elise Vatsvaag - Safe Play" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="685" height="385" src="https://www.youtube.com/embed/v2jdR5GIbB4" title="Elise Vatsvaag - "Safe Play" Official Music Video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "v2jdR5GIbB4" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Safe Play"</em>, released in 2012, highlights Elise Vatsvaagâ€™s talent for crafting emotionally resonant songs. With its intimate production and earnest lyrics, this track captures the essence of modern indie pop and has endeared itself to fans worldwide.</p>
 </div> <!-- Footer Links -->

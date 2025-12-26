@@ -7,7 +7,7 @@ layout: post
 <p >Updated in 2005 with "Dance My Pain Away" by Rod Lee. This groundbreaking Baltimore club track captures raw emotion and irresistible rhythm, solidifying Rod Lee as a pioneer of the genre. Watch and listen below!</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d00001e02634c301fdec6f27bce535cd5" alt="Rod Lee - Dance My Pain Away" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="560" height="315" src="https://www.youtube.com/embed/quUSjngSmN0" title="Rod Lee - Dance My Pain Away" frameborder="0" allowfullscreen></iframe>
+<div > {{< youtube "quUSjngSmN0" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Dance My Pain Away"</em>, released in 2005, is a defining track in the Baltimore club scene. Rod Leeâ€™s ability to blend heartfelt lyrics with danceable beats makes this track both a personal anthem and a club classic.</p>
 </div> <!-- Footer Links -->

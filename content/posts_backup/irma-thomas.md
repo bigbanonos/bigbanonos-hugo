@@ -3,7 +3,7 @@ title: "irma thomas"
 layout: post
 ---
 #1960s <br />
-<iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/w_ArDnZrmi0?list=PLtuNtuTatqI3X01zTqiujiaUhFaK1PjKA" width="560"></iframe><br />
+{{< youtube "w_ArDnZrmi0" >}}<br />
 Time Is On My Side 1964 
 
 <!--Subscribe and Playlist Links-->

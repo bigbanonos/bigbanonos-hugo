@@ -7,7 +7,7 @@ layout: post
 <p >The Men bring raw energy and diverse influences to Brooklynâ€™s indie scene. Their dynamic sound ranges from garage rock to noise pop. Check out their standout tracks below.</p> <!-- Featured Image -->
 <div > <img src="https://i1.sndcdn.com/artworks-keiS2iVuxoMu-0-t240x240.jpg" alt="The Men" />
 </div> <!-- Spotify Playlist Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/3k0oHBDpV9NS61oIxIxqHK?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Half Angel Half Light"</em> (2013) from *New Moon* showcases their blend of indie and folk influences.</p> <p><em>"Electric"</em> (2013) from *Electric b/w Water Babies* captures their raw garage psych sound.</p>
 </div> <!-- Footer Links -->

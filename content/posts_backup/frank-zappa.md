@@ -7,7 +7,7 @@ layout: post
 <p >Frank Zappa redefined experimental music with his innovative compositions and biting satire. Explore BigBanonos' favorite tracks by the legendary artist below!</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/f2c74b01414e5d40b07baea7e5a2e7dd00b85c5b" alt="Frank Zappa - BigBanonos Favorite Songs" />
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/2RqAiL6R4PvjGGcUMsi7pz?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Catholic Girls"</em> critiques cultural norms with Zappa's trademark wit and intricate instrumentation. From the 1979 album <strong>Joe's Garage Acts I, II & III</strong>.</p> <p><em>"Bobby Brown Goes Down"</em> combines satire and pop sensibilities in a track that remains as provocative as ever. From the 1979 album <strong>Sheik Yerbouti</strong>.</p>
 </div> <!-- Footer Links -->

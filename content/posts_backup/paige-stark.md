@@ -3,7 +3,7 @@ title: "paige stark"
 layout: post
 ---
 <div class="separator" ><a href="https://www.kcrw.com/music/articles/track-premiere-paige-stark-albatross/@@images/6908688c-6b3e-418d-b4af-c84b19efd397.jpeg" imageanchor="1"><img border="0" src="https://www.kcrw.com/music/articles/track-premiere-paige-stark-albatross/@@images/6908688c-6b3e-418d-b4af-c84b19efd397.jpeg" width="400" height="225" data-original-width="800" data-original-height="450" /></a></div>
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/videoseries?list=PLtuNtuTatqI31pgH9RIwwuW73Rlw6seBT" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{< youtube "videoseries" >}}
 <br />
 <h3>Albatross [2018]</h3>
 

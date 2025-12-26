@@ -7,7 +7,7 @@ layout: post
 <p >Updated October 5, 2018, with "Very Well" by King Saha, featuring Roja and Slick Stuart. This track blends World/Traditional and Pop genres, showcasing Ugandan pop and Azonto beats.</p> <!-- Featured Image -->
 <div > <img src="https://yt3.googleusercontent.com/toeR3rqgSq2L5uuRYE5FbW0eC_FuQL8Lcq5LdGvl9bShQ9gQ9Bam6BmCReRE5MUB9S4gayN_tw=s900-c-k-c0x00ffffff-no-rj" alt="King Saha, Roja, Slick Stuart - Very Well" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/110iCilgT08" title="Slick Stuart, DJ Roja - Very Well (Official Music Video) ft. King Saha" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "110iCilgT08" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Very Well"</em> is a vibrant collaboration between King Saha, Roja, and Slick Stuart, blending Azonto beats with Ugandan pop to create an irresistible track that stands out in the World/Traditional and Pop genres.</p>
 </div> <!-- Footer Links -->

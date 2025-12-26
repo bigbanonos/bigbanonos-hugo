@@ -7,7 +7,7 @@ layout: post
 <p >Updated in 2004 with BigBanonos' favorite track by Boyskout, "Secrets." Featured on the album *School Of Etiquette* by Alive Records, this 2:23-long track is a standout in the queercore and riot grrrl genres. Watch the video and see more details below:</p> <!-- Featured Image -->
 <div > <img src="https://www.billboard.com/wp-content/uploads/media/BOL4-press-2019-cr-rie-billboard-1548.jpg" alt="Boyskout - Secrets" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/tB1yUFBUmgU" title="Boyskout- Secrets" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "tB1yUFBUmgU" >}}
 </div> <!-- Song Information -->
 <div > <p>"Secrets" by Boyskout, from their 2004 album *School Of Etiquette* released by Alive Records, showcases the rebellious energy of queercore and riot grrrl movements. Clocking in at 2:23, it's a fierce and unforgettable anthem.</p>
 </div> <!-- Footer Links -->

@@ -3,8 +3,8 @@ title: "superdrag 2 songs"
 layout: post
 ---
 <h1>BigBanonos Top Songs by Superdrag</h1>
-<img src="https://i0.wp.com/beardedgentlemenmusic.com/wp-content/uploads/2024/07/Superdrag5.jpg?resize=900%2C675&ssl=1" alt="Superdrag"> <p>Superdrag's unique blend of alternative pop and power pop has left a lasting impact. BigBanonos' top picks include:</p> <ol> <li><strong>Feeling Like I Do</strong> | <em>Last Call for Vitriol</em> | Released: 2002-01-04 | Superdrag Sound Laboratories</li> <li><strong>Sucked Out</strong> | <em>Regretfully Yours</em> | Released: 1996-03-05 | Elektra Records</li>
-</ol> <div> <iframe src="https://open.spotify.com/embed/playlist/0nozrR8JgcN065AcSQtmZF?utm_source=generator" width="100%" height="352" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+{{< img-lite src="https://i0.wp.com/beardedgentlemenmusic.com/wp-content/uploads/2024/07/Superdrag5.jpg?resize=900%2C675&ssl=1" alt="Superdrag" >}} <p>Superdrag's unique blend of alternative pop and power pop has left a lasting impact. BigBanonos' top picks include:</p> <ol> <li><strong>Feeling Like I Do</strong> | <em>Last Call for Vitriol</em> | Released: 2002-01-04 | Superdrag Sound Laboratories</li> <li><strong>Sucked Out</strong> | <em>Regretfully Yours</em> | Released: 1996-03-05 | Elektra Records</li>
+</ol> <div> {{< youtube "embed" >}}
 </div>
 <p>Tags: @superdrag</p>
 

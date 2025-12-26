@@ -7,7 +7,7 @@ layout: post
 <p >Updated January 17, 2025, with "I Remember" from <em>Just Like You</em>. Explore the soulful R&B vibes of Keyshia Cole in the playlist below!</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab6761610000e5eb1ab13fdacbb8017ec4087ca9" alt="Keyshia Cole" />
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/5HrgFXMF5NLIkREghlnqTD?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <div > <p><strong>"I Remember"</strong><br> Genre: Pop, R&B, Hip Hop<br> Album: <em>Just Like You</em><br> Release Date: January 1, 2007<br> Label: Geffen</p> <p><strong>"I Should Have Cheated"</strong><br> Genre: Pop, R&B, Hip Hop<br> Album: <em>The Way It Is</em><br> Release Date: January 1, 2005<br> Label: A&M (UC)</p>
 </div> <!-- Footer Links -->

@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Pop Song for Euthanasia" by Shilpa Ray, from the album *Last Year's Savage*, released on May 19, 2015, by Northern Spy Records.</p> <!-- Featured Image -->
 <div > <img src="https://f4.bcbits.com/img/0027825341_25.jpg" alt="Shilpa Ray - Pop Song for Euthanasia" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="514" src="https://www.youtube.com/embed/ZZ2AmDYIhhQ" title="Pop Song for Euthanasia - Shilpa Ray" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "ZZ2AmDYIhhQ" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Pop Song for Euthanasia"</em> by Shilpa Ray is a bold track from her album *Last Year's Savage*, released on May 19, 2015. The song blends elements of rock and experimental music, showcasing Shilpa Ray's unique voice and powerful songwriting style.</p>
 </div> <!-- Footer Links -->

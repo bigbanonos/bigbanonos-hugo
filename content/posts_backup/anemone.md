@@ -7,7 +7,7 @@ layout: post
 <p >Updated April 18, 2018, with BigBanonos' favorite song by Anemone, "Bout De Toi," released under Luminelle Recordings. Watch the video and see more details below:</p> <!-- Featured Image -->
 <div > <img src="https://best-fit.transforms.svdcdn.com/production/images/anemone_pressphoto_livingroom1.jpg?w=1200&q=5&auto=format&fit=crop&dm=1643282969&s=4dac6a3a2328b782a01a6596e9eb7453" alt="Anemone - Bout De Toi" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/cVAWux2O7mw" title="Anemone - Bout De Toi" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "cVAWux2O7mw" >}}
 </div> <!-- Song Information -->
 <div > <p>"Bout De Toi" by Anemone is a dreamy track blending Canadian psychedelic rock and Montreal indie vibes. Released on April 18, 2018, under Luminelle Recordings, this song highlights Anemone's ethereal melodies and unique Quebec indie sound.</p>
 </div> <!-- Footer Links -->

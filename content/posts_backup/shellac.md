@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Prayer To God" by Shellac, from the album *1000 Hurts*, released on August 8, 2000, by Touch and Go Records.</p> <!-- Featured Image -->
 <div > <img src="https://f4.bcbits.com/img/a1079790783_10.jpg" alt="Shellac - Prayer To God" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="514" src="https://www.youtube.com/embed/KRTVc-D8K2U" title="Shellac - Prayer To God" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "KRTVc-D8K2U" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Prayer To God"</em> by Shellac is a standout track from their album *1000 Hurts*, released on August 8, 2000. The song blends elements of Chicago indie, punk, experimental rock, and noise rock, showcasing the bandâ€™s experimental math rock and post-hardcore influences.</p>
 </div> <!-- Footer Links -->

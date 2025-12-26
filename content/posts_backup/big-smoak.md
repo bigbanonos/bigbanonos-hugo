@@ -7,7 +7,7 @@ layout: post
 <p >Updated September 27, 2019, with BigBanonos' favorite song by Big Smoak, "Drone and Satellite," from the *Chromematic Riddim* collection. Released under Fox Fuse, this track showcases the artist's unique style. Watch the video and see more details below:</p> <!-- Featured Image -->
 <div > <img src="https://m.media-amazon.com/images/I/410xwyyACCL._UXNaN_FMjpg_QL85_.jpg" alt="Big Smoak - Drone and Satellite" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/Qundy-K1CFg" title="Big Smoak - Drone ÃƒÂ°Ã…Â¸Ã…Â¡Ã¢â€šÂ¬ and satellite ÃƒÂ°Ã…Â¸Ã¢â‚¬ÂºÃ‚Â°feat.clip from the band "Touch" Macco man (Chromematic Riddim)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "Qundy-K1CFg" >}}
 </div> <!-- Song Information -->
 <div > <p>"Drone and Satellite" by Big Smoak is a standout track from the *Chromematic Riddim* collection, blending vibrant rhythms and a bold narrative. Released on September 27, 2019, under Fox Fuse, this 2:57-long song captures the essence of contemporary riddim music.</p>
 </div> <!-- Footer Links -->

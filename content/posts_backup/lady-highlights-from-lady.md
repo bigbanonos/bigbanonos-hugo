@@ -6,8 +6,8 @@ layout: post
 </div> <p>Lady's music delivers a refreshing blend of soul and contemporary R&B. This selection features their finest tracks, each steeped in heartfelt emotion and rich melodies.</p> <h3>Selected Tracks</h3>
 <ol> <li><strong>Tell The Truth</strong> â€“ <em>Lady</em> (2014)</li> <li><strong>Get Ready</strong> â€“ <em>Lady</em> (2014)</li> <li><strong>Please Don't Do It Again</strong> â€“ <em>Lady</em> (2013)</li> <li><strong>Money</strong> â€“ <em>Lady</em> (2013)</li>
 </ol> <p>Enjoy the official music video for "Tell The Truth":</p>
-<iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/G3IMPYJ7MiY" width="560"></iframe> <p>Stream Lady's playlist:</p>
-<iframe src="https://open.spotify.com/embed/playlist/1fCos09os9yAPepCg9AFGL?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> <h3>Tags</h3>
+{{< youtube "G3IMPYJ7MiY" >}} <p>Stream Lady's playlist:</p>
+{{< youtube "embed" >}} <h3>Tags</h3>
 <p>@lady</p> <p>Check out more on <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos' YouTube channel</a> and follow us on <a href="https://twitter.com/BigBanonos" target="_blank">Twitter</a>!</p> <hr />
 <p><em>First posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
 

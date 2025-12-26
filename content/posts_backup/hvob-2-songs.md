@@ -4,7 +4,7 @@ layout: post
 ---
 <h1>BigBanonos 2 Favorite Songs by HVOB</h1>
 <img alt="HVOB" src="https://imgproxy.ra.co/_/quality:66/aHR0cHM6Ly9zdGF0aWMucmEuY28vaW1hZ2VzL25ld3MvMjAxNS9odm9iLXByZXNzLXBob3RvLW1hcmNoLTE1LmpwZw==" /> <p>This collection of BigBanonos' favorite tracks by HVOB showcases their mastery of deep euro house and electronica, delivering immersive electronic soundscapes that are both melodic and atmospheric.</p> <ol> <li><em>2:16</em> - Album: <em>2:16</em>, Label: [PIAS], Released: January 14, 2022</li> <li><em>2nd World</em> - Album: <em>Rocco</em>, Label: [PIAS], Released: March 15, 2019</li>
-</ol> <div> <iframe allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" allowfullscreen="" frameborder="0" height="352" loading="lazy" src="https://open.spotify.com/embed/playlist/1FIR85WWRGKnDT6zFI5aGA?utm_source=generator" width="100%"></iframe>
+</ol> <div> {{< youtube "embed" >}}
 </div> <p>first posted by <a href="https://bigbanonos.blogspot.com/">https://bigbanonos.blogspot.com/</a></p> <div> <p>Explore more BigBanonos content: <a href="https://bigbanonos.blogspot.com/">Website</a> | <a href="https://www.youtube.com/@BigBanonos">YouTube</a> | <a href="https://x.com/bigbanonos">Twitter</a></p>
 </div> <!--Tags-->
 <p>@hvob</p>

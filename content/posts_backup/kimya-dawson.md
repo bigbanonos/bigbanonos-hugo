@@ -2,7 +2,7 @@
 title: "kimya dawson"
 layout: post
 ---
-<img src="https://static.independent.co.uk/s3fs-public/thumbnails/image/2008/09/15/12/53975.jpg?width=1200" width="100%" /> <h2>BigBanonos' Favorite Songs by Kimya Dawson</h2> <p>Updated November 12, 2003, with "Being Cool" from <em>My Cute Fiend Sweet Princess</em>. Highlights and #NotOnSpotify picks below:</p> <iframe src="https://open.spotify.com/embed/playlist/0kqtYtp1RGVsrHjiEAJVrm?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> <hr /> <h3>Full Song List</h3> <ul>
+<img src="https://static.independent.co.uk/s3fs-public/thumbnails/image/2008/09/15/12/53975.jpg?width=1200" width="100%" /> <h2>BigBanonos' Favorite Songs by Kimya Dawson</h2> <p>Updated November 12, 2003, with "Being Cool" from <em>My Cute Fiend Sweet Princess</em>. Highlights and #NotOnSpotify picks below:</p> {{< youtube "embed" >}} <hr /> <h3>Full Song List</h3> <ul>
 <li><strong>"Loose Lips"</strong> (2006, <em>Remember That I Love You</em>) - Released May 9, 2006, under Great Crap Factory. A folk-punk anthem with heartfelt, socially conscious lyrics.</li>
 <li><strong>"Being Cool"</strong> (2003, <em>My Cute Fiend Sweet Princess</em>) - Released November 12, 2013, under Important Records. A lo-fi, intimate track showcasing Kimya Dawsonâ€™s signature storytelling.</li>
 <li><strong>"My Rollercoaster - New Edit"</strong> (2006, <em>Remember That I Love You</em>) - A sweet and nostalgic acoustic song, famously featured in *Juno*.</li>

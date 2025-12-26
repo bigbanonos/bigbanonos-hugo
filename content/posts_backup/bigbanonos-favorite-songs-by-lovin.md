@@ -7,7 +7,7 @@ layout: post
 <p >Updated January 17, 2025, with "Darling Be Home Soon" from <em>You're A Big Boy Now</em>. Enjoy the timeless folk rock classics of The Lovin' Spoonful in the playlist below!</p> <!-- Featured Image -->
 <div > <img src="https://m.media-amazon.com/images/I/71Nyy1UHgbL._UF1000,1000_QL80_.jpg" alt="The Lovin' Spoonful" />
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/114ul9fEb3TBwAfDn5cee7?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <div > <p><strong>"Darling Be Home Soon"</strong><br> Genre: Pop, Rock, Folk/Acoustic<br> Album: <em>You're A Big Boy Now</em><br> Release Date: May 1967<br> Label: Legacy Recordings</p> <p><strong>"Summer in the City - Remastered"</strong><br> Genre: Pop, Rock, Folk/Acoustic<br> Album: <em>Hums Of The Lovin' Spoonful</em><br> Release Date: November 1966<br> Label: Buddah</p>
 </div> <!-- Footer Links -->

@@ -4,9 +4,9 @@ layout: post
 ---
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Adam Green</h1> <!-- Featured Image -->
-<div > <img src="https://i.scdn.co/image/ab67616d00001e028b55fbd00dc1f564f82d61f1" alt="Adam Green">
+<div > {{< img-lite src="https://i.scdn.co/image/ab67616d00001e028b55fbd00dc1f564f82d61f1" alt="Adam Green" >}}
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/2ZSgXYsOUdUA6bOVHhdjGc?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Introductory Text -->
 <p >Adam Green's anti-folk anthems and quirky style shine in these standout tracks. From "Dance With Me" to "Cigarette Burns Forever," here are BigBanonos' top Adam Green picks.</p> <!-- Song Highlights -->
 <div > <p>BigBanonos' standout picks:</p> <ol> <li><strong>Cigarette Burns Forever</strong> | <em>Minor Love</em> | Released: Unknown | Average Cabbage Records</li> <li><strong>Emily</strong> | <em>Gemstones</em> | Released: Unknown | Average Cabbage Records</li> <li><strong>Musical Ladders</strong> | <em>Friends of Mine</em> | Released: Unknown | Average Cabbage Records</li> <li><strong>Baby's Gonna Die Tonight</strong> | <em>Garfield</em> | Released: Unknown | Adam Green</li> <li><strong>Dance With Me</strong> | <em>Garfield</em> | Released: Unknown | Adam Green</li> </ol>

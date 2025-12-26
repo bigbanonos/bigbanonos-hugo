@@ -7,7 +7,7 @@ layout: post
 <p >Updated January 1, 2004, with "So Pretty" by Charms. This timeless classic of Greek pop blends captivating melodies with heartfelt lyrics, making it a standout in their discography. Watch the video below!</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d0000b2735de06430ffeea2be284c6051" alt="Charms - So Pretty" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="733" height="480" src="https://www.youtube.com/embed/uSACfo0v7VU" title="So Pretty" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "uSACfo0v7VU" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"So Pretty"</em>, released on January 1, 2004, under Red Car Records, exemplifies Charms' contributions to classic Greek pop. Its elegant composition and emotive delivery have made it a cherished track among fans of the genre.</p>
 </div> <!-- Footer Links -->

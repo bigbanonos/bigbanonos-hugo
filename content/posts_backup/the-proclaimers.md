@@ -6,7 +6,7 @@ layout: post
 <p >The Proclaimers bring heartfelt stories and infectious energy to their music. Check out their most beloved tracks below.</p> <!-- Featured Image -->
 <div > <img src="https://i.ytimg.com/vi/tbNlMtqrYS0/maxresdefault.jpg" alt="The Proclaimers" />
 </div> <!-- Spotify Playlist Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/71twblqTRM4F4mQ6FV6re6?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"I'm Gonna Be (500 Miles)"</em> (2003) remains their most iconic anthem.</p> <p><em>"Throw the 'R' Away"</em> and <em>"Over and Done With"</em> from *This Is the Story* (1987) showcase their Scottish rock roots.</p>
 </div> <!-- Footer Links -->

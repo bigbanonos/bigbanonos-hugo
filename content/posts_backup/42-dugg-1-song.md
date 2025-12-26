@@ -2,8 +2,8 @@
 title: "42 dugg 1 song"
 layout: post
 ---
-<iframe allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" allowfullscreen="" frameborder="0" height="352" loading="lazy" src="https://open.spotify.com/embed/playlist/4Whu4h9l82qbI3rsPiyGak?utm_source=generator" width="100%"></iframe>
-<iframe frameborder="0" height="270" src="https://youtube.com/embed/x6LBEoIF1mk" width="480"></iframe><h2><ol><li>(ft. Coi Leray) Hold Me Down [2022]</li><li>(ft. Roddy Ricch) 4 Da Gang [2021]</li></ol></h2>
+{{< youtube "embed" >}}
+{{< youtube "x6LBEoIF1mk" >}}<h2><ol><li>(ft. Coi Leray) Hold Me Down [2022]</li><li>(ft. Roddy Ricch) 4 Da Gang [2021]</li></ol></h2>
 
 <!--Subscribe and Playlist Links-->
 <div>

@@ -3,7 +3,7 @@ title: "sun and sea on tunespeak"
 layout: post
 ---
 #2014 #stlouis<br />
-<iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/O0y3PbxUqUE?list=PLtuNtuTatqI1cR9clFS2SGyRMUnX2VoJk" width="95%"></iframe><br />
+{{< youtube "O0y3PbxUqUE" >}}<br />
 Under The Gun 2014
 <br />
 <hr />

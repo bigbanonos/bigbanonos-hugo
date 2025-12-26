@@ -7,7 +7,7 @@ layout: post
 <p >Updated February 23, 2015, with BigBanonos' favorite track, "Feel the Lightning" by Dan Deacon. This standout from the album *Gliss Riffer*, originally released under Domino Recording Co, showcases Deaconâ€™s mastery in blending experimental pop with indietronica and noise pop elements.</p> <!-- Featured Image -->
 <div > <img src="https://tricycle.org/wp-content/uploads/2020/03/dan-deacon-meditation.jpg" alt="Dan Deacon - Feel the Lightning" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/kK-1axSGkXc" title="Dan Deacon - Feel The Lightning (Official Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "kK-1axSGkXc" >}}
 </div> <!-- Song Information -->
 <div > <p>Originally released on February 23, 2015, "Feel the Lightning" highlights Dan Deaconâ€™s creative genius. The track captivates with its hypnotic melodies, layered vocals, and vibrant beats, embodying the experimental essence of Baltimore indie and noise pop.</p>
 </div> <!-- Footer Links -->

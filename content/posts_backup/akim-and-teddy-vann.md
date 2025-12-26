@@ -7,7 +7,7 @@ layout: post
 <p >Updated November 23, 2017, with BigBanonos' favorite holiday classic, "Santa Claus Is a Black Man," by Akim and Teddy Vann. Watch the video and see more details below:</p> <!-- Featured Image -->
 <div > <img src="https://thequietus.com/app/uploads/2024/03/santa_claus_pic_two_1387153654.jpg" alt="Akim and Teddy Vann - Santa Claus Is a Black Man" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/0_fbeCVWkjQ" title="Santa Claus Is a Black Man" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "0_fbeCVWkjQ" >}}
 </div> <!-- Song Information -->
 <div > <p>"Santa Claus Is a Black Man" by Akim and Teddy Vann is a soulful and playful take on holiday music. Originally released as part of a Teddy Vann production, this festive anthem has become a cherished classic for its heartfelt and uplifting message.</p>
 </div> <!-- Footer Links -->

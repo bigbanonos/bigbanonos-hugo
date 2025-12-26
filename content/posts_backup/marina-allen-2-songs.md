@@ -3,8 +3,8 @@ title: "marina allen 2 songs"
 layout: post
 ---
 <h1>BigBanonos Top 2 Songs by Marina Allen</h1>
-<img src="https://www.rollingstone.com/wp-content/uploads/2024/05/marina-allen.jpg" alt="Marina Allen"> <p>Marina Allenâ€™s music brings a soulful depth with poetic lyricism and a folk-inspired sound. Here are BigBanonos' top picks from her album <em>Candlepower</em>:</p> <ol> <li><strong>Original Goodness</strong> | <em>Candlepower</em> | Fire Records | Released: June 4, 2021</li> <li><strong>Sleeper Train</strong> | <em>Candlepower</em> | Fire Records | Released: June 4, 2021</li>
-</ol> <div> <iframe src="https://open.spotify.com/embed/playlist/5eqgi7ndv2PPFf31UrBiyG?utm_source=generator" width="100%" height="352" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy" allowfullscreen></iframe>
+{{< img-lite src="https://www.rollingstone.com/wp-content/uploads/2024/05/marina-allen.jpg" alt="Marina Allen" >}} <p>Marina Allenâ€™s music brings a soulful depth with poetic lyricism and a folk-inspired sound. Here are BigBanonos' top picks from her album <em>Candlepower</em>:</p> <ol> <li><strong>Original Goodness</strong> | <em>Candlepower</em> | Fire Records | Released: June 4, 2021</li> <li><strong>Sleeper Train</strong> | <em>Candlepower</em> | Fire Records | Released: June 4, 2021</li>
+</ol> <div> {{< youtube "embed" >}}
 </div> <p>first posted by <a href="https://bigbanonos.blogspot.com/">https://bigbanonos.blogspot.com/</a></p> <div> <p>Explore more BigBanonos content: <a href="https://bigbanonos.blogspot.com/">Website</a> | <a href="https://www.youtube.com/@BigBanonos">YouTube</a> | <a href="https://x.com/bigbanonos">Twitter</a></p>
 </div> <!-- Tags -->
 <p>@marinaallen</p>

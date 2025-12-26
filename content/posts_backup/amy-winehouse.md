@@ -7,7 +7,7 @@ layout: post
 <p >Updated January 1, 2006, with BigBanonos' favorite song by Amy Winehouse, "Rehab," from her iconic album *Back To Black*. Watch the video and see more details below:</p> <!-- Featured Image -->
 <div > <img src="https://upload.wikimedia.org/wikipedia/en/7/71/Amy_Winehouse_-_Rehab.jpg" alt="Amy Winehouse - Rehab" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/KUmZp8pR1uc" title="Amy Winehouse - Rehab" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "KUmZp8pR1uc" >}}
 </div> <!-- Song Information -->
 <div > <p>"Rehab" by Amy Winehouse is a timeless neo-soul masterpiece that perfectly captures her powerful voice and poignant storytelling. Released on January 1, 2006, under Universal-Island Records Ltd., this track is a standout from her acclaimed album *Back To Black* and a defining moment in British soul.</p>
 </div> <!-- Footer Links -->

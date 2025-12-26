@@ -3,10 +3,10 @@ title: "talking heads"
 layout: post
 ---
 <h3>BigBanonos' Favorite Songs by Talking Heads</h3>
-<div > <a href="https://rockhall.com/wp-content/uploads/2024/03/talkingheads_001.jpg" target="_blank"> <img src="https://rockhall.com/wp-content/uploads/2024/03/talkingheads_001.jpg" alt="Talking Heads"> </a>
+<div > <a href="https://rockhall.com/wp-content/uploads/2024/03/talkingheads_001.jpg" target="_blank"> {{< img-lite src="https://rockhall.com/wp-content/uploads/2024/03/talkingheads_001.jpg" alt="Talking Heads" >}} </a>
 </div>
 <p>Updated May 31, 1983, with Talking Heads' track <strong>"This Must Be the Place (Naive Melody)"</strong>. BigBanonos dives into their influential art rock and post-punk sound.</p>
-<iframe src="https://open.spotify.com/embed/playlist/1KpHp6Jphc3dIVPZ1xQtvB?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+{{< youtube "embed" >}}
 <h4>Top Songs:</h4>
 <ol> <li><strong>This Must Be the Place (Naive Melody) - 2005 Remaster</strong> | <em>Speaking in Tongues (Deluxe Version)</em> | Released: May 31, 1983 | Rhino/Warner Records</li> <li><strong>Once in a Lifetime - 2005 Remaster</strong> | <em>Remain in Light (Deluxe Version)</em> | Released: October 8, 1980 | Rhino/Warner Records</li>
 </ol>

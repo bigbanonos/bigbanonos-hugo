@@ -3,7 +3,7 @@ title: "silvie stone 1 song"
 layout: post
 ---
 <br /><div class="separator"><br /></div>
-<iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/videoseries?list=PLtuNtuTatqI1Zq5tjUjwFrrsZEYJxhsi5" width="560"></iframe>Ãƒâ€šÃ‚Â <div><h3><ol><li>Charming Prince [1983]</li></ol></h3></div>
+{{< youtube "videoseries" >}}Ãƒâ€šÃ‚Â <div><h3><ol><li>Charming Prince [1983]</li></ol></h3></div>
 
 <!--Subscribe and Playlist Links-->
 <div>

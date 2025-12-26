@@ -7,7 +7,7 @@ layout: post
 <p >Updated with *Hangin' Around* by The Edgar Winter Group, a classic rock track from their *They Only Come Out At Night* album. This song mixes blues rock, electric blues, and country rock to create an unforgettable sound that exemplifies the essence of 70s rock.</p> <!-- Featured Image -->
 <div > <img src="https://i.discogs.com/P5oYgS3dBq_MUjj0xJcO-tOLea7ljB-aS11peyTpth8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ2MzU2/OTQtMTY3NzcwNDI5/OS05OTc5LmpwZWc.jpeg" alt="The Edgar Winter Group - They Only Come Out At Night" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="617" src="https://www.youtube.com/embed/bEVqTWeMG2o" title="Hangin' Around" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "bEVqTWeMG2o" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Hangin' Around"</em> by The Edgar Winter Group offers a taste of classic rock from their *They Only Come Out At Night* album. With a mix of blues rock and folk rock, it's a track that captures the free-spirited vibe of the early 70s rock scene.</p>
 </div> <!-- Footer Links -->

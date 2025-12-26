@@ -7,7 +7,7 @@ layout: post
 <p >Updated September 27, 2013, with "Emmanuel Road" by Kingkong. This track brings powerful Roots and Culture vibes, a standout from the reggae scene.</p> <!-- Featured Image -->
 <div > <img src="https://i.ytimg.com/vi/lrQGAhiPLJ0/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAclWfWRVB0e3lYdvn5fcdaHstSVw" alt="Kingkong - Emmanuel Road" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/FxEXFHfh4Oc" title="Emmanuel Road" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "FxEXFHfh4Oc" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Emmanuel Road"</em> by Kingkong is a reggae classic, resonating with Roots and Culture themes. A timeless gem from the album <em>Reggae Vibration Massive Hits</em>, it captures the essence of the genre.</p>
 </div> <!-- Footer Links -->

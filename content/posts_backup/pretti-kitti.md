@@ -4,9 +4,9 @@ layout: post
 ---
 <!-- Title of the Post -->
 <h1>BigBanonosâ€™ Favorite Songs by Pretti Kitti</h1> <!-- Featured Image -->
-<div> <img src="https://i.scdn.co/image/ab6761610000e5eb0f09d5c358d5582079e6ad63" alt="Pretti Kitti">
+<div> {{< img-lite src="https://i.scdn.co/image/ab6761610000e5eb0f09d5c358d5582079e6ad63" alt="Pretti Kitti" >}}
 </div> <!-- Spotify Embed -->
-<div> <iframe src="https://open.spotify.com/embed/playlist/4qzUQ8JQj5DZRpOIVPLah3?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div> {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <h3>Top Songs by Pretti Kitti:</h3>
 <ol> <li><strong>Tek Ova</strong> | Album: <em>Sexy Groove Riddim</em> | Released: July 5, 2019 | Label: Boogie Down Records</li> <li><strong>Do You Even Know Me</strong> | Album: <em>Living Riddim</em> | Released: March 11, 2016 | Label: Dane Raychords</li>

@@ -4,9 +4,9 @@ layout: post
 ---
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by BTS</h1> <!-- Featured Image -->
-<div > <img src="https://i.scdn.co/image/ab6761610000e5ebd642648235ebf3460d2d1f6a" alt="BTS">
+<div > {{< img-lite src="https://i.scdn.co/image/ab6761610000e5ebd642648235ebf3460d2d1f6a" alt="BTS" >}}
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/2HjqNwfhLvNVkWwTFWGnN8?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Introductory Text -->
 <p >BTS continues to dominate global pop with their vibrant energy and heartfelt lyrics. From "Permission to Dance" to "Just One Day," here are BigBanonos' favorite picks from this iconic group.</p> <!-- Song Highlights -->
 <div > <p>BigBanonos' standout picks:</p> <ol> <li><strong>Permission to Dance</strong> | <em>Permission to Dance</em> | Released: July 23, 2021 | BIGHIT MUSIC</li> <li><strong>Life Goes On</strong> | <em>BE</em> | Released: November 20, 2020 | BIGHIT MUSIC</li> <li><strong>Just One Day</strong> | <em>Skool Luv Affair</em> | Released: February 12, 2014 | BIGHIT MUSIC</li> </ol>

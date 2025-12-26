@@ -16,7 +16,7 @@ layout: post
 <p><strong>"Louisiana"</strong> â€“ <em>A Hundred Miles Off (U.S. Version)</em> (2006-05-23) â€“ Record Collection Music</p>
 <p><strong>"What's in It for Me"</strong> â€“ <em>Bows + Arrows</em> (2004-02-03) â€“ Record Collection Music</p>
 <p><strong>"Woe Is Me"</strong> â€“ <em>Lisbon</em> (2010) â€“ Fat Possum</p>
-<p><strong>"The Christmas Party (feat. Nicole Sheahan)"</strong> â€“ <em>Alternative Christmas</em> (2022-06-24) â€“ Warner Music Group - X5 Music Group</p> <iframe src="https://open.spotify.com/embed/playlist/5bXrt3FOLhdo1pCKrN8ZGN?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> <p>@walkmen,@nicolesheahan</p> <hr /> <!-- Footer -->
+<p><strong>"The Christmas Party (feat. Nicole Sheahan)"</strong> â€“ <em>Alternative Christmas</em> (2022-06-24) â€“ Warner Music Group - X5 Music Group</p> {{< youtube "embed" >}} <p>@walkmen,@nicolesheahan</p> <hr /> <!-- Footer -->
 <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p> <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist</a></p> <p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
 
 

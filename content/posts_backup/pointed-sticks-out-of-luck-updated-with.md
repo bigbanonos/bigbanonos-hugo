@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Out Of Luck" by Pointed Sticks, a classic Canadian garage rock anthem from their 2006 album, blending punk and power pop influences.</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d0000b273ac879a3f4a2164288f00a1aa" alt="Pointed Sticks Out Of Luck" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="514" src="https://www.youtube.com/embed/UBmMwBCCeL4" title="Pointed Sticks - Out Of Luck" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "UBmMwBCCeL4" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Out Of Luck"</em> from Pointed Sticks' *Waiting for the Real Thing* showcases their energetic Canadian garage punk style, with catchy hooks and a dose of modern power pop.</p>
 </div> <!-- Footer Links -->

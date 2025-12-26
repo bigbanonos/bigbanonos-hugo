@@ -3,7 +3,7 @@ title: "mariya takeuchi"
 layout: post
 ---
 <div class="separator" ><a href="https://i.imgur.com/VlS7xLG.png" imageanchor="1"><img border="0" src="https://i.imgur.com/VlS7xLG.png" width="400" height="400" data-original-width="800" data-original-height="800" /></a></div>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLtuNtuTatqI2geX53PtL8AMJGgn6WY01W" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{< youtube "videoseries" >}}
 <br />
 <h3>Plastic Love [1984]</h3>
 

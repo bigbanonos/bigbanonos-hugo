@@ -2,7 +2,7 @@
 title: "abstract mindstate wise tale official"
 layout: post
 ---
-<iframe frameborder="0" height="270" src="https://youtube.com/embed/ZOgcC-uG2Lw" width="480"></iframe><h2><ol><li>A Wise Tale [2021]</li></ol></h2>
+{{< youtube "ZOgcC-uG2Lw" >}}<h2><ol><li>A Wise Tale [2021]</li></ol></h2>
 
 <!--Subscribe and Playlist Links-->
 <div>

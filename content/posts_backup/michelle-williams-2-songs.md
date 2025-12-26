@@ -2,7 +2,7 @@
 title: "michelle williams 2 songs"
 layout: post
 ---
-<iframe frameborder="0" height="360" src="https://youtube.com/embed/dTCZs1iXJEQ?list=PLtuNtuTatqI2DDspwJ7Iqy-vlXeeKqrW2" width="480"></iframe><h2><ol><li>Make Me Yours [1985]</li><li>Don't Stop The Boogie [1985]</li></ol></h2>
+{{< youtube "dTCZs1iXJEQ" >}}<h2><ol><li>Make Me Yours [1985]</li><li>Don't Stop The Boogie [1985]</li></ol></h2>
 
 <!--Subscribe and Playlist Links-->
 <div>

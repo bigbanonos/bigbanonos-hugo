@@ -3,7 +3,7 @@ title: "from 60s archive asha bhosle parde mein"
 layout: post
 ---
 #1960s <br />
-<iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/lthlT_CWzmo?list=PLtuNtuTatqI3X01zTqiujiaUhFaK1PjKA" width="95%"></iframe><br />
+{{< youtube "lthlT_CWzmo" >}}<br />
 Parde Mein Rahne Do 1968
 
 <!--Subscribe and Playlist Links-->

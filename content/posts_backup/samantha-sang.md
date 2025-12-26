@@ -3,14 +3,14 @@ title: "samantha sang"
 layout: post
 ---
 <h3>BigBanonos' 2 Favorite Songs by Samantha Sang</h3> <!-- Featured Image -->
-<div > <a href="https://i.scdn.co/image/ab67616d0000b273c2ae2d53662bce5a52083674" target="_blank"> <img src="https://i.scdn.co/image/ab67616d0000b273c2ae2d53662bce5a52083674" alt="Samantha Sang - Emotion"> </a>
+<div > <a href="https://i.scdn.co/image/ab67616d0000b273c2ae2d53662bce5a52083674" target="_blank"> {{< img-lite src="https://i.scdn.co/image/ab67616d0000b273c2ae2d53662bce5a52083674" alt="Samantha Sang - Emotion" >}} </a>
 </div> <!-- Introductory Text -->
 <p>Updated Jan 1, 1978 with Samantha Sang's song <strong>"Emotion"</strong>.</p> <!-- Song List -->
 <h4>Top Songs:</h4>
 <ol> <li><strong>You Keep Me Dancing</strong> | <em>Emotion</em> | Released: 1977-12-06 | Private Stock Records</li> <li><strong>Emotion</strong> | <em>Emotion</em> | Released: 1978-01-01 | Private Stock Records</li>
 </ol> <!-- Spotify Playlist Embed -->
 <h4>Listen on Spotify:</h4>
-<div > <iframe src="https://open.spotify.com/embed/playlist/6ZGqVccNXDo2EDpv6Y7WVF?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Footer Links -->
 <hr />
 <p>Discover more music on <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Follow us for updates on <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a> and check out exclusive content on our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube channel</a>.</p> <!-- Tags -->

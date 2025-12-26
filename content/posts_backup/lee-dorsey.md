@@ -7,7 +7,7 @@ layout: post
 <p >Updated January 17, 2025, with "Get out of My Life Woman" from <em>Ride Your Pony</em>. Explore the vibrant New Orleans funk of Lee Dorsey in the playlist below!</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/80e43f0e9db465f9440fbe66cae32d36126d817a" alt="Lee Dorsey" />
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/5JsC2wCS78ZC9rQStLY1sg?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <div > <p><strong>"Get out of My Life Woman"</strong><br> Genre: R&B<br> Album: <em>Ride Your Pony</em><br> Release Date: October 14, 2008<br> Label: Arista/Legacy</p> <p><strong>"Little Baby"</strong><br> Genre: R&B<br> Album: <em>Freedom For The Funk</em><br> Release Date: April 14, 2006<br> Label: Charly Records</p>
 </div> <!-- Footer Links -->

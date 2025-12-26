@@ -2,7 +2,7 @@
 title: "the barbarians"
 layout: post
 ---
-#1960s <br /><iframe width="560" height="315" src="https://www.youtube.com/embed/25x3aIWs76E?list=PLtuNtuTatqI3X01zTqiujiaUhFaK1PjKA" frameborder="0" allowfullscreen></iframe><br />
+#1960s <br />{{< youtube "25x3aIWs76E" >}}<br />
 Moulty 1966
 
 <!--Subscribe and Playlist Links-->

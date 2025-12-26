@@ -7,7 +7,7 @@ layout: post
 <p >Updated January 17, 2020, with "Regenerate" from <em>Regenerate</em>. Enjoy the soulful sounds of Lee Fields & The Expressions in the playlist below!</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d0000b27386489d6b66b0c199ee39074f" alt="Lee Fields & The Expressions" />
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/4xqFJxRof12Qf7QfMbvGf8?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <div > <p><strong>"Regenerate"</strong><br> Genre: Afrobeat, Funk, Soul<br> Album: <em>Regenerate</em><br> Release Date: January 17, 2020<br> Label: Big Crown Records</p>
 </div> <!-- Footer Links -->

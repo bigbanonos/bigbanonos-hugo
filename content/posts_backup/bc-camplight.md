@@ -7,7 +7,7 @@ layout: post
 <p >Updated January 20, 2015, with BigBanonos' favorite song by BC Camplight, "Grim Cinema," from the album *How to Die in the North*. Watch the video and see more details below:</p> <!-- Featured Image -->
 <div > <img src="https://images.bauerhosting.com/marketing/sites/16/2023/05/unnamed.jpg?ar=16%3A9&fit=crop&crop=top&auto=format&w=1440&q=80" alt="BC Camplight - Grim Cinema" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/_ScxETWpjX0" title="BC Camplight - Grim Cinema" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "_ScxETWpjX0" >}}
 </div> <!-- Song Information -->
 <div > <p>"Grim Cinema" by BC Camplight is an artful blend of chamber psych and psychedelic pop, infused with introspective lyricism and dynamic instrumentation. Released on January 20, 2015, under Bella Union, this 3:55-long track from the album *How to Die in the North* highlights BC Camplight's unique flair as a one-person band with New Jersey indie roots.</p>
 </div> <!-- Footer Links -->

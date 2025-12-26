@@ -7,7 +7,7 @@ layout: post
 <p >Updated June 2, 2015, with "If You Really Love Me" by Jamaican Queens. From the album *Downers*, this track is a standout in glitch pop, blending unique soundscapes with evocative lyrics.</p> <!-- Featured Image -->
 <div > <img src="https://images.genius.com/86e6659e709dfa9d9e3c224f05df1fbf.413x413x1.jpg" alt="Jamaican Queens - If You Really Love Me" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/Y3NkmwfK4uQ" title="Jamaican Queens - If You Really Love Me" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "Y3NkmwfK4uQ" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"If You Really Love Me"</em> is a hauntingly beautiful track that melds glitchy production with emotionally charged storytelling, solidifying Jamaican Queens as pioneers in their genre.</p>
 </div> <!-- Footer Links -->

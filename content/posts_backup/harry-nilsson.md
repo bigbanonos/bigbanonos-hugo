@@ -2,7 +2,7 @@
 title: "harry nilsson"
 layout: post
 ---
-<h2>BigBanonos' Favorite Songs by Harry Nilsson</h2> <p><strong>Updated August 1, 1969, with "I Guess the Lord Must Be in New York City" from <em>Harry</em></strong></p> <img src="https://i.scdn.co/image/ab67616d0000b2734df5b571de1c3f8ba2f02386" width="100%" alt="Harry Nilsson"> <p>Harry Nilsson's songwriting and vocal talent made him one of the most unique artists of his time. Below are BigBanonos' favorite songs by Harry Nilsson.</p> <h3>"I Guess the Lord Must Be in New York City"</h3>
+<h2>BigBanonos' Favorite Songs by Harry Nilsson</h2> <p><strong>Updated August 1, 1969, with "I Guess the Lord Must Be in New York City" from <em>Harry</em></strong></p> {{< img-lite src="https://i.scdn.co/image/ab67616d0000b2734df5b571de1c3f8ba2f02386" alt="Harry Nilsson" >}} <p>Harry Nilsson's songwriting and vocal talent made him one of the most unique artists of his time. Below are BigBanonos' favorite songs by Harry Nilsson.</p> <h3>"I Guess the Lord Must Be in New York City"</h3>
 <p><em>Harry</em>, RCA/Legacy, August 1, 1969</p> <h3>"I'll Never Leave You"</h3>
 <p><em>Nilsson Schmilsson</em>, RCA Records Label, 1971</p> <h3>"Me and My Arrow"</h3>
 <p><em>The Point!</em>, RCA Victor/Legacy, December 1, 1970</p> <h3>"Loop De Loop"</h3>
@@ -10,7 +10,7 @@ layout: post
 <p><em>Pussy Cats</em>, RCA/Legacy, August 19, 1974</p> <h3>"Gotta Get Up"</h3>
 <p><em>Nilsson Schmilsson</em>, RCA Records Label, 1971</p> <h3>"Early in the Morning"</h3>
 <p><em>Nilsson Schmilsson</em>, RCA Records Label, 1971</p> <h3>"Let The Good Times Roll"</h3>
-<p><em>Nilsson Schmilsson</em>, RCA Records Label, 1971</p> <hr /> <h3>Listen on Spotify</h3> <iframe src="https://open.spotify.com/embed/playlist/7HFxbdBRiyISUYu0tae4WS?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> <hr /> <p><strong>Tags:</strong> @harrynilsson</p> <hr /> <p><em>First posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+<p><em>Nilsson Schmilsson</em>, RCA Records Label, 1971</p> <hr /> <h3>Listen on Spotify</h3> {{< youtube "embed" >}} <hr /> <p><strong>Tags:</strong> @harrynilsson</p> <hr /> <p><em>First posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
 
 
 <!--Subscribe and Playlist Links-->

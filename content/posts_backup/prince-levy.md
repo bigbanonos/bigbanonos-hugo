@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Love You Mama" by Prince Levy, a heartfelt Reggae track that celebrates love and devotion.</p> <!-- Featured Image -->
 <div > <img src="https://i.ytimg.com/vi/191QKEisqwQ/maxresdefault.jpg" alt="Prince Levy Love You Mama" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/191QKEisqwQ" title="Prince Levy - Love You Mama (Official Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "191QKEisqwQ" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Love You Mama"</em> by Prince Levy is an emotional Reggae song, released as part of the "Made In Jamaica Riddim" on DJ Frass Records. A tribute to mothers and the strength of love.</p>
 </div> <!-- Footer Links -->

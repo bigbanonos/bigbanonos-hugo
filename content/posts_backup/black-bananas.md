@@ -7,7 +7,7 @@ layout: post
 <p >Updated January 31, 2012, with BigBanonos' favorite song by Black Bananas, "Acid Song." From the album *Rad Times Xpress* and released under Fire Records, this track delivers electrifying energy and creativity. Watch the video and see more details below:</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d0000b2738c6a78b51932423db16cf27f" alt="Black Bananas - Acid Song" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/0W3Zi9dsNsg" title="Acid Song" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "0W3Zi9dsNsg" >}}
 </div> <!-- Song Information -->
 <div > <p>"Acid Song" by Black Bananas is an electrifying track from their album *Rad Times Xpress*. Released on January 31, 2012, under Fire Records, this 3:32-long track captures the band's experimental and dynamic essence, making it a standout favorite.</p>
 </div> <!-- Footer Links -->

@@ -7,7 +7,7 @@ layout: post
 <p >Updated September 22, 2017, with "Lil Thing" by Knox Fortune. This Chicago indie gem is a highlight from his album <em>Paradise</em>, blending smooth melodies with a laid-back rock vibe.</p> <!-- Featured Image -->
 <div > <img src="https://media.gq.com/photos/59c942dbb2d0045e1e6a6d3d/4:3/w_2000,h_1500,c_limit/fort-knox-02.jpg" alt="Knox Fortune - Lil Thing" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/TGr7mWQ0vCQ" title="Knox Fortune - Lil Thing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "TGr7mWQ0vCQ" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Lil Thing"</em> by Knox Fortune is a standout track from his album <em>Paradise</em>. With its effortless Chicago indie vibe, this track captures the essence of relaxed yet poignant rock music.</p>
 </div> <!-- Footer Links -->

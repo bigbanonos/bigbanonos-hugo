@@ -2,7 +2,7 @@
 title: "leslie winer 1 song_26"
 layout: post
 ---
-<iframe frameborder="0" height="270" src="https://youtube.com/embed/yEYRS03q4ws" width="480"></iframe><h2><ol><li>Skin [2021]</li></ol></h2>
+{{< youtube "yEYRS03q4ws" >}}<h2><ol><li>Skin [2021]</li></ol></h2>
 
 <!--Subscribe and Playlist Links-->
 <div>

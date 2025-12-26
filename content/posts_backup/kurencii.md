@@ -7,7 +7,7 @@ layout: post
 <p >Updated July 12, 2019, with "Party" by Kurencii. This energetic track from the album <em>Symbiotic Riddim</em> delivers vibrant vibes that make it perfect for any celebration.</p> <!-- Featured Image -->
 <div > <img src="https://i.ytimg.com/vi/e-EkoS-qdPw/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLCTzoDVKuGFc1GCS3VFw87h0S-LXg" alt="Kurencii - Party" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/jqAoscK3euI" title="Kurencii - Party - Symbiotic Riddim (GoldenVibes Productions)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "jqAoscK3euI" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Party"</em> by Kurencii is a lively and upbeat track from the album <em>Symbiotic Riddim</em>, released under recordJet. Its infectious rhythm and high-energy beats make it a standout for fans of dynamic and festive music.</p>
 </div> <!-- Footer Links -->

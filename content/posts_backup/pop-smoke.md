@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "PTSD" by Pop Smoke, a standout track from his *Meet The Woo* album, bringing Brooklyn drill to the forefront with its hard-hitting beats and raw energy.</p> <!-- Featured Image -->
 <div > <img src="https://i.ytimg.com/vi/mMrpS3E5JVA/sddefault.jpg" alt="Pop Smoke PTSD" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/ELNUK2W0aVs" title="Pop Smoke - PTSD" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "ELNUK2W0aVs" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"PTSD"</em> from *Meet The Woo* blends the raw emotions of drill music with Pop Smoke's commanding presence, offering a glimpse into his mindset and life in Brooklyn.</p>
 </div> <!-- Footer Links -->

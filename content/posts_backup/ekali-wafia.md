@@ -5,9 +5,9 @@ layout: post
 <!-- Post Title -->
 <h1 >BigBanonos' Favorite Song by Ekali & Wafia</h1> <!-- Introductory Text -->
 <p >Updated September 26, 2019, with "Be Fine" by Ekali featuring Wafia. This emotive track, blending future bass and indie electropop, highlights Wafia's captivating vocals over Ekali's dynamic production.</p> <!-- Featured Image -->
-<div > <img src="https://i.scdn.co/image/ab67616d00001e026455d4b257a1b984032482b2" alt="Ekali & Wafia - Be Fine">
+<div > {{< img-lite src="https://i.scdn.co/image/ab67616d00001e026455d4b257a1b984032482b2" alt="Ekali & Wafia - Be Fine" >}}
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/PHKZhDk3cXc" title="Ekali - Be Fine (feat. Wafia) [Official Music Video]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "PHKZhDk3cXc" >}}
 </div> <!-- Song Information -->
 <div > <p>"Be Fine" is a genre-blending masterpiece, merging brostep influences with vapor soul undertones. Ekali's innovative production paired with Wafia's soulful voice creates a track that resonates deeply with listeners.</p>
 </div> <!-- Footer Links -->

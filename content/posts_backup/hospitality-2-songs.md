@@ -3,8 +3,8 @@ title: "hospitality 2 songs"
 layout: post
 ---
 <h1>BigBanonos 2 Favorite Songs by Hospitality</h1>
-<img src="https://a.abcnews.go.com/images/Entertainment/ht_hospitality_ll_120308_wblog.jpg" alt="Hospitality"> <p>This collection of BigBanonos' favorite tracks by Hospitality showcases their unique Brooklyn indie sound, blending stomp pop with rock and pop elements. These tracks from their debut album capture the band's refreshing energy and style.</p> <ol> <li><strong>Betty Wang</strong> | <em>Hospitality</em> | Merge Records | Released: January 31, 2012</li> <li><strong>Liberal Arts</strong> | <em>Hospitality</em> | Merge Records | Released: January 31, 2012</li>
-</ol> <div> <iframe src="https://open.spotify.com/embed/playlist/3pKc2xu0ZfoTgDB4eHcUgW?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+{{< img-lite src="https://a.abcnews.go.com/images/Entertainment/ht_hospitality_ll_120308_wblog.jpg" alt="Hospitality" >}} <p>This collection of BigBanonos' favorite tracks by Hospitality showcases their unique Brooklyn indie sound, blending stomp pop with rock and pop elements. These tracks from their debut album capture the band's refreshing energy and style.</p> <ol> <li><strong>Betty Wang</strong> | <em>Hospitality</em> | Merge Records | Released: January 31, 2012</li> <li><strong>Liberal Arts</strong> | <em>Hospitality</em> | Merge Records | Released: January 31, 2012</li>
+</ol> <div> {{< youtube "embed" >}}
 </div> <p>first posted by <a href="https://bigbanonos.blogspot.com/">https://bigbanonos.blogspot.com/</a></p> <div> <p>Explore more BigBanonos content: <a href="https://bigbanonos.blogspot.com/">Website</a> | <a href="https://www.youtube.com/@BigBanonos">YouTube</a> | <a href="https://x.com/bigbanonos">Twitter</a></p>
 </div> <!-- Tags -->
 <p>@hospitality</p>

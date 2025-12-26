@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Crooked Houses" by Vera Sola, from the album *Crooked Houses*, released on April 5, 2019, by Spectraphonic Records. This haunting song channels the spirit of alternative americana, with a mesmerizing narrative and evocative instrumentation.</p> <!-- Featured Image -->
 <div > <img src="https://f4.bcbits.com/img/a1694254031_9.jpg" alt="Vera Sola - Crooked Houses" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="617" src="https://www.youtube.com/embed/0lyH1bClMGw" title="Vera Sola - Crooked Houses" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "0lyH1bClMGw" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Crooked Houses"</em> by Vera Sola is a track from the album *Crooked Houses*, released on April 5, 2019. A perfect blend of alternative americana, this song captures a raw, emotional depth through poignant lyrics and a stirring performance.</p>
 </div> <!-- Footer Links -->

@@ -7,7 +7,7 @@ layout: post
 <p >Updated April 20, 2018, with "Funkytown" by Lipps Inc. This disco classic from the compilation album <em>Throwback Tunes: 1980</em> is an enduring anthem of the Minneapolis sound and synthpop era.</p> <!-- Featured Image -->
 <div > <img src="https://upload.wikimedia.org/wikipedia/en/0/09/Lipps-Inc.jpg" alt="Lipps Inc. - Funkytown" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/Z6dqIYKIBSU" title="Lipps Inc. - Funkytown (Official Audio)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "Z6dqIYKIBSU" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Funkytown"</em> by Lipps Inc. is a timeless disco track that defines an era of dancefloor anthems. Originally released in 1980 and later featured on <em>Throwback Tunes: 1980</em>, it combines the vibrant Minneapolis sound with synthpop influences, making it a must-have for any nostalgic playlist.</p>
 </div> <!-- Footer Links -->

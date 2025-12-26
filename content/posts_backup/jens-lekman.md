@@ -2,7 +2,7 @@
 title: "jens lekman"
 layout: post
 ---
-<h2>BigBanonos' Favorite Songs by Jens Lekman</h2> <p><strong>Updated May 4, 2022, with "Your Arms Around Me" from <em>The Linden Trees Are Still In Blossom</em></strong></p> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Jens_Lekman_Accelerator_2004.jpg/220px-Jens_Lekman_Accelerator_2004.jpg" width="100%" alt="Jens Lekman"> <p>Jens Lekmanâ€™s heartfelt storytelling and lush instrumentation make him one of indie popâ€™s greats. Below are BigBanonos' favorite songs by Jens Lekman.</p> <h3>"Your Arms Around Me"</h3>
+<h2>BigBanonos' Favorite Songs by Jens Lekman</h2> <p><strong>Updated May 4, 2022, with "Your Arms Around Me" from <em>The Linden Trees Are Still In Blossom</em></strong></p> {{< img-lite src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Jens_Lekman_Accelerator_2004.jpg/220px-Jens_Lekman_Accelerator_2004.jpg" alt="Jens Lekman" >}} <p>Jens Lekmanâ€™s heartfelt storytelling and lush instrumentation make him one of indie popâ€™s greats. Below are BigBanonos' favorite songs by Jens Lekman.</p> <h3>"Your Arms Around Me"</h3>
 <p><em>The Linden Trees Are Still In Blossom (Night Falls Over Kortedala)</em>, Secretly Canadian, May 4, 2022</p> <h3>"I'm Leaving You Because I Don't Love You"</h3>
 <p><em>The Linden Trees Are Still In Blossom (Night Falls Over Kortedala)</em>, Secretly Canadian, May 4, 2022</p> <h3>"A Postcard to Nina"</h3>
 <p><em>The Linden Trees Are Still In Blossom (Night Falls Over Kortedala)</em>, Secretly Canadian, May 4, 2022</p> <h3>"The Opposite of Hallelujah"</h3>
@@ -14,7 +14,7 @@ layout: post
 <p><em>An Argument With Myself</em>, Service, September 20, 2011</p> <h3>"Do You Remember The Riots?"</h3>
 <p><em>When I Said I Wanted To Be Your Dog</em>, Secretly Canadian, September 7, 2004</p> <h3>"Happy Birthday, Dear Friend Lisa"</h3>
 <p><em>When I Said I Wanted To Be Your Dog</em>, Secretly Canadian, September 7, 2004</p> <h3>"You Are The Light (by which I travel into this and that)"</h3>
-<p><em>When I Said I Wanted To Be Your Dog</em>, Secretly Canadian, September 7, 2004</p> <hr /> <h3>Listen on Spotify</h3> <iframe src="https://open.spotify.com/embed/playlist/6XLA6YVIanFc8dne2jrSWd?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> <hr /> <p><strong>Tags:</strong> @jenslekman</p> <hr /> <p><em>First posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
+<p><em>When I Said I Wanted To Be Your Dog</em>, Secretly Canadian, September 7, 2004</p> <hr /> <h3>Listen on Spotify</h3> {{< youtube "embed" >}} <hr /> <p><strong>Tags:</strong> @jenslekman</p> <hr /> <p><em>First posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
 
 
 <!--Subscribe and Playlist Links-->

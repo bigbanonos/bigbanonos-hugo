@@ -7,7 +7,7 @@ layout: post
 <p >Updated January 17, 2025, with "And I Love Her" from <em>Montage Of Heck: The Home Recordings (Deluxe Soundtrack)</em>. Dive into the raw, acoustic artistry of Kurt Cobain in the playlist below!</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d0000b27360ae2283d87d3e9e382b7aa6" alt="Kurt Cobain" />
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/1dRO8HJlMTy653XjBnHKmf?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <div > <p><strong>"And I Love Her"</strong><br> Genre: Acoustic Rock, Grunge<br> Album: <em>Montage Of Heck: The Home Recordings (Deluxe Soundtrack)</em><br> Release Date: November 13, 2015<br> Label: UMe Direct 2</p> <p><strong>"She Only Lies"</strong><br> Genre: Acoustic Rock, Grunge<br> Album: <em>Montage Of Heck: The Home Recordings (Deluxe Soundtrack)</em><br> Release Date: November 13, 2015<br> Label: UMe Direct 2</p> <p><strong>"Do Re Mi - Medley"</strong><br> Genre: Acoustic Rock, Grunge<br> Album: <em>Montage Of Heck: The Home Recordings (Deluxe Soundtrack)</em><br> Release Date: November 13, 2015<br> Label: UMe Direct 2</p>
 </div> <!-- Footer Links -->

@@ -5,11 +5,11 @@ layout: post
 <div class="post-title"> <h1>BigBanonos' Favorite Songs by Three Queens In Mourning</h1>
 </div>
 <p>Updated August 9, 2020, with "Christmas Time in the Mountains" from the album <i>Hello Sorrow / Hello Joy</i>, highlighted in the playlist below:</p>
-<div class="post-image"> <img src="https://www.headfirstbristol.co.uk/images/events/486/e48685_i51881_s3.jpg" alt="Three Queens In Mourning Album Cover">
+<div class="post-image"> {{< img-lite src="https://www.headfirstbristol.co.uk/images/events/486/e48685_i51881_s3.jpg" alt="Three Queens In Mourning Album Cover" >}}
 </div>
 <p>Three Queens In Mourning's ethereal sounds and Scottish indie folk influences shine brightly in their album <i>Hello Sorrow / Hello Joy</i>. Tracks like "Christmas Time in the Mountains" and "Trudy Dies," released on August 9, 2020, by Textile Records, capture their hauntingly beautiful melodies and introspective lyricism.</p>
 <p>Listen to the playlist below to experience these tracks and more:</p>
-<div class="spotify-embed"> <iframe src="https://open.spotify.com/embed/playlist/1Uqr5kTsj6bECfWDPm9BE2?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div class="spotify-embed"> {{< youtube "embed" >}}
 </div>
 <p>Tracks featured:</p>
 <ul> <li>"Christmas Time in the Mountains" â€“ <i>Hello Sorrow / Hello Joy</i> (August 9, 2020, Textile Records)</li> <li>"Trudy Dies" â€“ <i>Hello Sorrow / Hello Joy</i> (August 9, 2020, Textile Records)</li>

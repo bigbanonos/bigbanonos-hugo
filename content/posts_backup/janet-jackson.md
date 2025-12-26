@@ -6,7 +6,7 @@ layout: post
 </div> <p>Celebrate Janet Jackson's groundbreaking contributions to pop and R&B with this selection of standout tracks that showcase her legendary career and genre-defying sound.</p> <h3>Selected Tracks</h3>
 <ol> <li><strong>The Great Forever</strong> â€“ <em>Unbreakable</em> (2015)</li> <li><strong>All For You</strong> â€“ <em>All For You</em> (2001)</li> <li><strong>Go Deep</strong> â€“ <em>The Velvet Rope</em> (1997)</li> <li><strong>Someone To Call My Lover</strong> â€“ <em>All For You</em> (2001)</li>
 </ol> <p>Stream the Janet Jackson playlist:</p>
-<iframe src="https://open.spotify.com/embed/playlist/4yOYndJHPxKtkwj0L1HJdV?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> <h3>Tags</h3>
+{{< youtube "embed" >}} <h3>Tags</h3>
 <p>@janetjackson</p> <p>Explore more of Janet Jackson's iconic tracks and other favorite artists on <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos' YouTube channel</a> and follow us on <a href="https://twitter.com/BigBanonos" target="_blank">Twitter</a>!</p> <hr />
 
 

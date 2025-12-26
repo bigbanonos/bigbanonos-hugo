@@ -7,7 +7,7 @@ layout: post
 <p >Updated September 9, 2013, with "Comanche (The Brave Horse)" by Johnny Horton. A timeless classic from the *Truly Johnny Horton* album, this track is a vivid portrayal of the Old West, combining cowboy western storytelling with Horton's signature country pop flair.</p> <!-- Featured Image -->
 <div > <img src="https://sunrecords.com/wp-content/uploads/2021/12/Johnny-Horton-Web.jpg" alt="Johnny Horton - Comanche (The Brave Horse)" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/4ZqZC24u0iY" title="Johnny Horton - Comanche (The Brave Horse)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "4ZqZC24u0iY" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Comanche (The Brave Horse)"</em> by Johnny Horton is a legendary country pop hit from his *Truly Johnny Horton* album. This track takes you on a journey through the rugged terrain of the Old West, telling the tale of the fearless Comanche warrior, all set to a memorable country tune.</p>
 </div> <!-- Footer Links -->

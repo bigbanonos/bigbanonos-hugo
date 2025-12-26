@@ -7,7 +7,7 @@ layout: post
 <p >Updated May 3, 2019, with BigBanonos' favorite song by Blanco Brown, "The Git Up." Released under Broken Bow Records, this viral hit combines country and hip-hop to create a unique sound that defines country rap. Watch the video and see more details below:</p> <!-- Featured Image -->
 <div > <img src="https://upload.wikimedia.org/wikipedia/en/5/54/Blanco_Brown_-_The_Git_Up.png" alt="Blanco Brown - The Git Up" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/DT4kQlM5xuE" title="Blanco Brown - The Git Up (Official Music Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "DT4kQlM5xuE" >}}
 </div> <!-- Song Information -->
 <div > <p>"The Git Up" by Blanco Brown is a genre-blending anthem that combines the storytelling of country music with the beats of hip-hop. Released on May 3, 2019, under Broken Bow Records, this 3:20-long track became a viral sensation, introducing country rap to a global audience.</p>
 </div> <!-- Footer Links -->

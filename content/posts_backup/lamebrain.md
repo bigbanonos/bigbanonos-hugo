@@ -7,7 +7,7 @@ layout: post
 <p >Updated January 1, 2011, with "Have A Ball" by Lamebrain. This high-energy track combines raw, unapologetic rock vibes with an infectious rhythm that keeps listeners hooked. Watch the video below!</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab6761610000e5ebf920867201a50a6fcde05122" alt="Lamebrain - Have A Ball" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="685" height="385" src="https://www.youtube.com/embed/I-MCN7TTB3I" title="Lamebrain- Have a Ball" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "I-MCN7TTB3I" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Have A Ball"</em>, released in 2011, showcases Lamebrain's bold and dynamic rock style. With its driving instrumentation and captivating energy, this track is a standout anthem for fans of raw, unfiltered rock music. Check out the song on <a href="https://youtu.be/I-MCN7TTB3I" target="_blank">YouTube</a>.</p>
 </div> <!-- Footer Links -->

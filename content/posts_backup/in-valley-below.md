@@ -7,7 +7,7 @@ layout: post
 <p >Updated July 9, 2013, with "Peaches" by In The Valley Below. This mesmerizing indie rock anthem is a highlight from the bandâ€™s repertoire and a standout release under Capitol Records.</p> <!-- Featured Image -->
 <div > <img src="https://i.ytimg.com/vi/L4zbFEHZbOU/maxresdefault.jpg" alt="In The Valley Below - Peaches" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/L4zbFEHZbOU" title="In The Valley Below - Peaches (Official)" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "L4zbFEHZbOU" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Peaches"</em>, released on July 9, 2013, is an unforgettable track by In The Valley Below. The song combines the dreamy allure of shimmer pop with the emotional depth of indie rock, making it a must-listen from Capitol Records.</p>
 </div> <!-- Footer Links -->

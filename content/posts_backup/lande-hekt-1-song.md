@@ -2,7 +2,7 @@
 title: "lande hekt 1 song"
 layout: post
 ---
-<iframe frameborder="0" height="270" src="https://www.youtube.com/embed/qzIHFtHYwKY" width="480"></iframe><h2><ol><li>Whiskey [2020]</li></ol></h2>
+{{< youtube "qzIHFtHYwKY" >}}<h2><ol><li>Whiskey [2020]</li></ol></h2>
 
 <!--Subscribe and Playlist Links-->
 <div>

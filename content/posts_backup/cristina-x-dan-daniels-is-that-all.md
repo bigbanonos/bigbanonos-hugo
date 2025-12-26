@@ -3,7 +3,7 @@ title: "cristina x dan daniels is that all"
 layout: post
 ---
 #covers w/ originals <br />
-<iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/AybvLztacFM?list=PLtuNtuTatqI0T_GCRVtVWFUSn_PgEFzjS" width="95%"></iframe><br />
+{{< youtube "AybvLztacFM" >}}<br />
 Is That All There Is? (Dan Daniels) 
 
 <!--Subscribe and Playlist Links-->

@@ -3,10 +3,10 @@ title: "sugababes"
 layout: post
 ---
 <h3>BigBanonos' Favorite Songs by Sugababes</h3>
-<div > <a href="https://www.thesun.co.uk/wp-content/uploads/2024/08/sugababes-op-jk.jpg?1722592251&strip=all&quality=100&w=1920&h=1080&crop=1" target="_blank"> <img src="https://www.thesun.co.uk/wp-content/uploads/2024/08/sugababes-op-jk.jpg?1722592251&strip=all&quality=100&w=1920&h=1080&crop=1" alt="Sugababes"> </a>
+<div > <a href="https://www.thesun.co.uk/wp-content/uploads/2024/08/sugababes-op-jk.jpg?1722592251&strip=all&quality=100&w=1920&h=1080&crop=1" target="_blank"> {{< img-lite src="https://www.thesun.co.uk/wp-content/uploads/2024/08/sugababes-op-jk.jpg?1722592251&strip=all&quality=100&w=1920&h=1080&crop=1" alt="Sugababes" >}} </a>
 </div>
 <p>Updated June 22, 2021, with Sugababes' remix track <strong>"Same Old Story (Blood Orange Remix)"</strong>. BigBanonos highlights their iconic pop and R&B sound.</p>
-<iframe src="https://open.spotify.com/embed/playlist/1LpNXGojI48MYnODFZycd6?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+{{< youtube "embed" >}}
 <h4>Top Songs:</h4>
 <ol> <li><strong>Same Old Story (Blood Orange Remix)</strong> | <em>Same Old Story (Blood Orange Remix)</em> | Released: June 22, 2021 | London Music Stream</li> <li><strong>Same Old Story</strong> | <em>One Touch</em> | Released: January 1, 2000 | London Music Stream/Because Music</li>
 </ol>

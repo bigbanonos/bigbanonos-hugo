@@ -7,7 +7,7 @@ layout: post
 <p >Updated December 6, 2019 with BigBanonos' favorite track, "Ketch E Rake" by Champagne. This vibrant dancehall anthem from the *Talk Back Riddim* brings undeniable energy and rhythm.</p> <!-- Featured Image -->
 <div > <img src="https://i.ytimg.com/vi/RIjm9uC33QI/maxresdefault.jpg" alt="Champagne - Ketch E Rake" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/6RPWyobEGlE" title="Champagnie - Ketch E Rake (Lyric Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "6RPWyobEGlE" >}}
 </div> <!-- Song Information -->
 <div > <p>"Ketch E Rake," featured on the *Talk Back Riddim* and produced by Tallest Brand Music and Nicetime Productions, showcases Champagneâ€™s infectious energy and mastery of dancehall vibes.</p>
 </div> <!-- Footer Links -->

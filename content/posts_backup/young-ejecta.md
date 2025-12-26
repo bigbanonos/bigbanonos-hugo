@@ -3,11 +3,11 @@ title: "young ejecta"
 layout: post
 ---
 <h1>BigBanonos Favorite Songs by Young Ejecta</h1>
-<img src="https://m.media-amazon.com/images/I/51o+ynmMUaL._UXNaN_FMjpg_QL85_.jpg" alt="Young Ejecta"> <p>Young Ejecta's ethereal solipsynthm sound captures an otherworldly electronic vibe. Here are BigBanonos' favorite tracks from Young Ejecta, listed in order of most recently released:</p> <ol> <li><strong>Crayon Cactus</strong> | <em>Crayon Cactus</em> | Released: 2020-05-29 | Driftless Recordings</li> <li><strong>Welcome to Love</strong> | <em>The Planet</em> | Released: 2015-01-27 | Driftless Recordings</li>
-</ol> <div> <iframe src="https://open.spotify.com/embed/playlist/1suWDQ79X0MI55SZDM0lWV?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+{{< img-lite src="https://m.media-amazon.com/images/I/51o+ynmMUaL._UXNaN_FMjpg_QL85_.jpg" alt="Young Ejecta" >}} <p>Young Ejecta's ethereal solipsynthm sound captures an otherworldly electronic vibe. Here are BigBanonos' favorite tracks from Young Ejecta, listed in order of most recently released:</p> <ol> <li><strong>Crayon Cactus</strong> | <em>Crayon Cactus</em> | Released: 2020-05-29 | Driftless Recordings</li> <li><strong>Welcome to Love</strong> | <em>The Planet</em> | Released: 2015-01-27 | Driftless Recordings</li>
+</ol> <div> {{< youtube "embed" >}}
 </div>
 <br / >
-<iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/videoseries?list=PLtuNtuTatqI1JfDdR66-cenOG4CX3nneA" width="560"></iframe> <p><em>First posted by BigBanonos - <a href="https://bigbanonos.blogspot.com/">https://bigbanonos.blogspot.com/</a></em></p>
+{{< youtube "videoseries" >}} <p><em>First posted by BigBanonos - <a href="https://bigbanonos.blogspot.com/">https://bigbanonos.blogspot.com/</a></em></p>
 <p><em>Last updated November 15, 2024</em></p>
 <p>Follow BigBanonos on <a href="https://www.youtube.com/@BigBanonos">YouTube</a> and <a href="https://x.com/bigbanonos">Twitter</a> for more music content.</p>
 <p>Tags: @youngejecta</p> 

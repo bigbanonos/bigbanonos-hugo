@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Awkward Type of Girl" by Teenage Cool Kids, a slice of raw indie rock energy from 2008. Dive into the sound below!</p> <!-- Featured Image -->
 <div > <img src="https://rattld.wordpress.com/wp-content/uploads/2013/09/teenage-cool-kids2.jpg" alt="Teenage Cool Kids - Awkward Type of Girl" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="685" height="514" src="https://www.youtube.com/embed/5vHc8lYBezg" title="Teenage Cool Kids - Awkward Type of Girl" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "5vHc8lYBezg" >}}
 </div> <!-- Footer Links -->
 <div > <p>For more updates, visit <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Also, check out our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a> channels for more exclusive content!</p>
 </div> <!-- Tags -->

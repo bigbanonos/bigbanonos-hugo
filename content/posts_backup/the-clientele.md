@@ -7,7 +7,7 @@ layout: post
 <p >Updated with *We Could Walk Together* by The Clientele, a highlight from their 2001 album *Suburban Light* (Remastered). This track exemplifies the melancholic charm of chamber pop, combining lush instrumentation with reflective lyrics. It continues to captivate listeners with its soothing melodies and intimate atmosphere.</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d0000b273748e81296d50e09942027e7c" alt="The Clientele - We Could Walk Together" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="516" src="https://www.youtube.com/embed/hfMUzP7lxgk" title="The Clientele - We could walk together" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "hfMUzP7lxgk" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"We Could Walk Together"</em> perfectly captures The Clienteleâ€™s signature melancholic style, drawing listeners into its world of lush textures and nostalgic vibes. With *Suburban Light* being remastered, this track continues to resonate with fans of chamber pop and reflective indie music.</p>
 </div> <!-- Footer Links -->

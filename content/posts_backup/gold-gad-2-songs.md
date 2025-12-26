@@ -3,8 +3,8 @@ title: "gold gad 2 songs"
 layout: post
 ---
 <h1>BigBanonos 2 Favorite Songs by Gold Gad</h1>
-<img src="https://www.dancehallmag.com/assets/2020/08/goldgad.jpg" alt="Gold Gad"> <p>This collection of BigBanonos' favorite tracks by Gold Gad was updated February 28, 2020, with his essential track 'Client Convo' from *Gads Entertainment*, showcasing the best in modern Jamaican dancehall.</p> <p>BigBanonos is a go-to source for music in the modern Jamaican dancehall and Caribbean music scenes. Be sure to explore the <a href="https://bigbanonos.blogspot.com/2024/10/chronic-law-105-songs.html">comprehensive 100+ song guide to Chronic Law's songs</a> and follow BigBanonos on <a href="https://www.youtube.com/@BigBanonos">YouTube</a>.</p> <ol> <li>Client Convo - Released: February 28, 2020</li> <li>Fire - Released: October 27, 2019</li>
-</ol> <div> <iframe src="https://open.spotify.com/embed/playlist/3XQPDOLQLGOtYHZRypLGoN?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+{{< img-lite src="https://www.dancehallmag.com/assets/2020/08/goldgad.jpg" alt="Gold Gad" >}} <p>This collection of BigBanonos' favorite tracks by Gold Gad was updated February 28, 2020, with his essential track 'Client Convo' from *Gads Entertainment*, showcasing the best in modern Jamaican dancehall.</p> <p>BigBanonos is a go-to source for music in the modern Jamaican dancehall and Caribbean music scenes. Be sure to explore the <a href="https://bigbanonos.blogspot.com/2024/10/chronic-law-105-songs.html">comprehensive 100+ song guide to Chronic Law's songs</a> and follow BigBanonos on <a href="https://www.youtube.com/@BigBanonos">YouTube</a>.</p> <ol> <li>Client Convo - Released: February 28, 2020</li> <li>Fire - Released: October 27, 2019</li>
+</ol> <div> {{< youtube "embed" >}}
 </div> <!-- Tags -->
 <p>@goldgad</p>
 

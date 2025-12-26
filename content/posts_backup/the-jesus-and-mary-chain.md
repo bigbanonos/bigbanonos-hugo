@@ -7,7 +7,7 @@ layout: post
 <p >Updated August 23, 1994, with "Sometimes Always" by The Jesus and Mary Chain. This classic track from their album *Stoned and Dethroned* combines the bandâ€™s signature noise pop and post-punk sound with a softer, melancholic tone. Watch the video below!</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab6761610000e5ebf598fce956e0bd62981cb202" alt="The Jesus and Mary Chain - Sometimes Always" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="560" height="315" src="https://www.youtube.com/embed/hziSE3dmrks" frameborder="0" allowfullscreen></iframe>
+<div > {{< youtube "hziSE3dmrks" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Sometimes Always"</em>, released on August 23, 1994, as part of the album *Stoned and Dethroned* under Rhino/Warner Records, showcases The Jesus and Mary Chainâ€™s ability to blend shoegaze, noise pop, and singer-songwriter elements. This emotionally resonant duet highlights the bandâ€™s unique approach to alternative rock.</p>
 </div> <!-- Footer Links -->

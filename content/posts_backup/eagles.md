@@ -7,7 +7,7 @@ layout: post
 <p >Updated December 8, 1976, with "New Kid in Town (2013 Remaster)" by Eagles. This classic from their iconic album "Hotel California" remains a timeless showcase of their smooth harmonies and evocative storytelling.</p> <!-- Featured Image -->
 <div > <img src="https://www.rollingstone.com/wp-content/uploads/2019/01/the-eagles-are-boring.jpg?w=1581&h=1054&crop=1" alt="Eagles - New Kid in Town (2013 Remaster)" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/LLf3mDLWzJE" title="New Kid in Town (2013 Remaster)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "LLf3mDLWzJE" >}}
 </div> <!-- Song Information -->
 <div > <p>"New Kid in Town" captures the bittersweet essence of change and fame, featuring lush instrumentation and the Eagles' signature vocal harmony. A standout track from the legendary "Hotel California" album.</p>
 </div> <!-- Footer Links -->

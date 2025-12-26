@@ -7,7 +7,7 @@ layout: post
 <p >Updated February 21, 2012, with "One Foot" by fun. This standout track from the album *Some Nights* showcases the bandâ€™s signature baroque pop and metropopolis style, blending theatrical melodies with introspective lyrics. Watch the video below!</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/876de0e2ae7910ee6ad6b3dee6e1408e8d83a207" alt="fun. - One Foot" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/efGMdKAX5kU?list=PLtuNtuTatqI3--RPs98C0DQRZBUoKQy7L" width="95%"></iframe>
+<div > {{< youtube "efGMdKAX5kU" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"One Foot"</em>, from fun.â€™s 2012 album *Some Nights*, released under Fueled By Ramen, is a dynamic blend of baroque pop and neo mellow influences. Its intricate arrangement and powerful lyrics reflect the bandâ€™s ability to craft emotional and grandiose pop anthems.</p>
 </div> <!-- Footer Links -->

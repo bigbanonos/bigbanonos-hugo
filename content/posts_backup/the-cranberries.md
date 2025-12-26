@@ -4,9 +4,9 @@ layout: post
 ---
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by The Cranberries</h1> <!-- Featured Image -->
-<div > <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEWOwuhjGoF1SxlfeV1KajKJBvCjoDPGNHcw&s" alt="The Cranberries">
+<div > {{< img-lite src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEWOwuhjGoF1SxlfeV1KajKJBvCjoDPGNHcw&s" alt="The Cranberries" >}}
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/0eMjEHy48hGoZRwePbs2kf?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Introductory Text -->
 <p >The Cranberries deliver iconic Irish rock with hits like "Zombie" and "Linger." Here are BigBanonos' favorite tracks from their timeless discography.</p> <!-- Song Highlights -->
 <div > <p>BigBanonos' standout picks:</p> <ol> <li><strong>Zombie</strong> | <em>No Need To Argue (The Complete Sessions 1994-1995)</em> | Released: October 3, 1994 | Island Records</li> <li><strong>Linger</strong> | <em>Everybody Else Is Doing It, So Why Can't We?</em> | Released: March 1, 1993 | Island Records</li> <li><strong>Dreams</strong> | <em>Everybody Else Is Doing It, So Why Can't We?</em> | Released: March 1, 1993 | Island Records</li> </ol>

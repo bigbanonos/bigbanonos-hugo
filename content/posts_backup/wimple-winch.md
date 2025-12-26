@@ -3,7 +3,7 @@ title: "wimple winch"
 layout: post
 ---
 #1960s <br />
-<iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/gi9GXxVDJQg?list=PLtuNtuTatqI3X01zTqiujiaUhFaK1PjKA" width="560"></iframe><br />
+{{< youtube "gi9GXxVDJQg" >}}<br />
 Wimple Winch - Save My Soul 1966
 
 <!--Subscribe and Playlist Links-->

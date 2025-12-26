@@ -7,7 +7,7 @@ layout: post
 <p >Updated August 23, 2019, with BigBanonos' favorite track, "Unpretentious Beauty" by Clive Tanaka y su orquesta featuring Maryam Qudus. A chillwave masterpiece with a timeless appeal.</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d00001e0206586d490cedae763b4eb06f" alt="Clive Tanaka y su orquesta - Unpretentious Beauty" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/WY_bo7xO8B4" title="Unpretentious Beauty" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "WY_bo7xO8B4" >}}
 </div> <!-- Song Information -->
 <div > <p>"Unpretentious Beauty," featuring Maryam Qudus, is part of Clive Tanaka y su orquesta's *Pre-Sunrise Authority*, released under Friends Of Friends. The track is a standout within the chillwave genre, blending dreamy synths and hypnotic rhythms for an unforgettable listening experience.</p>
 </div> <!-- Footer Links -->

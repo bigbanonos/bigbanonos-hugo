@@ -7,7 +7,7 @@ layout: post
 <p >Updated with *The Making Of* by The Bohicas, a standout track from their 2015 album *The Making Of (Bonus Track Version)*. This garage rock revival track features gritty guitar riffs and a raw energy that defines the band's sound, reflecting the revival of classic rock with a modern twist. The Bohicas blend infectious hooks and rebellious spirit, creating a song that's both nostalgic and fresh. A must-listen for fans of garage rock and blues.</p> <!-- Featured Image -->
 <div > <img src="https://i.discogs.com/PaeO5PUPeEBwLDQ-YIYeykKVOFibxVruwiKR6xQYlnY/rs:fit/g:sm/q:40/h:150/w:150/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTkyMzYz/MjUtMTQ5MTMwMTMy/Ny01MjExLmpwZWc.jpeg" alt="The Bohicas - The Making Of" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/OykMsBrBbYw" title="The Bohicas - The Making Of (Official Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "OykMsBrBbYw" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"The Making Of"</em> showcases The Bohicas' unique take on the garage rock revival movement. With a sharp, bluesy edge, the track stands as a testament to their energy and musical vision.</p>
 </div> <!-- Footer Links -->

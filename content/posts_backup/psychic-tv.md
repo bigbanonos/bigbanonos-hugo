@@ -4,7 +4,7 @@ layout: post
 ---
 <div class="separator" ><a href="https://i.ytimg.com/vi/-ohFwIs58CU/hqdefault.jpg" imageanchor="1"><img border="0" src="https://i.ytimg.com/vi/-ohFwIs58CU/hqdefault.jpg" width="400" height="300" data-original-width="480" data-original-height="360" /></a></div>
 <br />
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLtuNtuTatqI2UeI3-VOGAGOLR7D08PyVo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{< youtube "videoseries" >}}
 <br />
 <h3>Godstar [1985]</h3>
 

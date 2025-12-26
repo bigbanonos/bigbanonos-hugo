@@ -7,7 +7,7 @@ layout: post
 <p >Updated July 13, 2015, with "Into The Deep" by Galactic featuring Macy Gray. This soulful collaboration from the album <em>Into The Deep</em> blends funk rock, neo-soul, and New Orleans funk into an unforgettable track.</p> <!-- Featured Image -->
 <div > <img src="https://s9.limitedrun.com/images/1213822/v600_eskimeaux_942_credit_andrew_piccone.jpg" alt="Galactic - Into The Deep" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/_CZ4WtKClMk" title="Galactic - Into The Deep featuring Macy Gray (Into The Deep)" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "_CZ4WtKClMk" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Into The Deep"</em> features Macy Gray's soulful voice perfectly complementing Galactic's signature New Orleans funk style. The track is part of the album <em>Into The Deep</em>, released in 2015 on Provogue Records.</p>
 </div> <!-- Footer Links -->

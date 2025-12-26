@@ -7,7 +7,7 @@ layout: post
 <p >Updated July 26, 2005, with "Daddy Loves Baby" by Don Covay. Originally released as part of *Mercy!* from *Rhino Atlantic Records*, this southern soul gem highlights Covay's storytelling prowess and emotive vocals.</p> <!-- Featured Image -->
 <div > <img src="https://cdn.shopify.com/s/files/1/0069/3465/9162/files/Don-Covay-hero-banner-241122-1623.webp" alt="Don Covay - Daddy Loves Baby" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/6JN4RNGNZpE" title="Don Covay - Daddy Loves Baby" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "6JN4RNGNZpE" >}}
 </div> <!-- Song Information -->
 <div > <p>"Daddy Loves Baby" captures the essence of southern soul with Don Covay's dynamic performance and heartfelt lyrics, solidifying his place as a cornerstone of the genre.</p>
 </div> <!-- Footer Links -->

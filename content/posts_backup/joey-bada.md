@@ -7,7 +7,7 @@ layout: post
 <p >Updated May 27, 2016, with "Devastated" by Joey Bada$$. This track combines raw emotion and uplifting vibes, showcasing Joey's introspective lyrics and his evolution as a hip-hop artist.</p> <!-- Featured Image -->
 <div > <img src="https://theweeklycoos.blog/wp-content/uploads/2022/07/joey-badass-5-1200x812-1.jpeg" alt="Joey Bada$$ - Devastated" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/RLnA25dVzrQ" title="Joey Bada$$ - 'Devastated' (Official Music Video)" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "RLnA25dVzrQ" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Devastated"</em> is a standout single from Joey Bada$$, released under 2016 Pro Era / Cinematic Music Group. This track, blending conscious hip hop and vibrant production, highlights Joey's ability to craft relatable anthems while maintaining lyrical depth.</p>
 </div> <!-- Footer Links -->

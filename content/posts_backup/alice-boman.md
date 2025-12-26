@@ -7,7 +7,7 @@ layout: post
 <p >Updated November 25, 2019, with BigBanonos' favorite song by Alice Boman, "Don't Forget About Me," released under Play It Again Sam. Watch the video and see more details below:</p> <!-- Featured Image -->
 <div > <img src="https://upload.wikimedia.org/wikipedia/commons/f/fd/Alice_Boman_End_of_the_Road_Festival_2014.jpg" alt="Alice Boman - Don't Forget About Me" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/9u2_GxgH_98" title="Alice Boman - Don't Forget About Me (Official video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "9u2_GxgH_98" >}}
 </div> <!-- Song Information -->
 <div > <p>"Don't Forget About Me" by Alice Boman is a beautifully melancholic track blending MalmÃƒÆ’Ã‚Â¶ indie with the soft, introspective tones of Swedish singer-songwriter traditions. Released on November 25, 2019, under Play It Again Sam, the song is a hauntingly emotional masterpiece that leaves a lasting impression.</p>
 </div> <!-- Footer Links -->

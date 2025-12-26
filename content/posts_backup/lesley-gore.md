@@ -7,7 +7,7 @@ layout: post
 <p >Updated January 1, 1963, with "Wonder Boy" from <em>The Golden Hits Of Lesley Gore (Expanded Edition)</em>. Enjoy the classic girl group sound of Lesley Gore in the playlist below!</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d0000b27305ec15e8e270c0837d7377ee" alt="Lesley Gore" />
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/5ChYx1tCB7xYIIjwVT7ViY?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <div > <p><strong>"Wonder Boy"</strong><br> Genre: Pop, Easy Listening<br> Album: <em>The Golden Hits Of Lesley Gore (Expanded Edition)</em><br> Release Date: January 1, 1990<br> Label: Island Mercury</p> <p><strong>"You Don't Own Me"</strong><br> Genre: Pop, Easy Listening<br> Album: <em>Lesley Gore Sings Of Mixed-Up Hearts</em><br> Release Date: November 1, 1963<br> Label: Mercury Records</p> <p><strong>"It's My Party"</strong><br> Genre: Pop, Easy Listening<br> Album: <em>I'll Cry If I Want To</em><br> Release Date: June 1, 1963<br> Label: Mercury Records</p>
 </div> <!-- Footer Links -->

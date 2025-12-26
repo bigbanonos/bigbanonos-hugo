@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Forever Julie" by Stefan Ponce, from the single *Forever Julie*, released on May 9, 2014.</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab6761610000f178ccf4d4ed131c7f481177bded" alt="Stefan Ponce - Forever Julie" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/-6T1VNbDQP0" title="Stefan Ponce - Forever Julie" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "-6T1VNbDQP0" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Forever Julie"</em> by Stefan Ponce is a track from the single *Forever Julie*, released on May 9, 2014. The song blends elements of smooth R&B and electronic, showcasing Ponce's signature style.</p>
 </div> <!-- Footer Links -->

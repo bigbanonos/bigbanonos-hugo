@@ -7,7 +7,7 @@ layout: post
 <p >Updated with *By The Grace Of God* by The Hellacopters, a raw and energetic track that encapsulates the band's punk 'n' roll sound. From their *By The Grace Of God* album, this song is a powerful anthem filled with explosive guitar riffs and high-octane energy.</p> <!-- Featured Image -->
 <div > <img src="https://cdn-images.dzcdn.net/images/artist/b281e868ab058c37a952a783329dd7ed/1900x1900-000000-80-0-0.jpg" alt="The Hellacopters - By The Grace Of God" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/5ebQjYpmqOo" title="The Hellacopters - By The Grace Of God [HD]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "5ebQjYpmqOo" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"By The Grace Of God"</em> is a prime example of The Hellacopters' high-energy punk 'n' roll style. From the 2002 album of the same name, this track delivers a hard-hitting, adrenaline-pumping sound, cementing the band's place in the Swedish garage rock scene.</p>
 </div> <!-- Footer Links -->

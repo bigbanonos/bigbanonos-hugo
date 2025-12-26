@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Make Up" by R. City featuring Chloe Angelides, from the album *What Dreams Are Made Of*, released on October 9, 2015, by Kemosabe Records/RCA Records.</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d00001e029519b1a9e2b552407e65b01a" alt="R. City - Make Up (feat. Chloe Angelides)" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/7tJVdVAvRV8" title="R. City - Make Up (Lyric Video) ft. Chloe Angelides" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "7tJVdVAvRV8" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Make Up"</em> by R. City featuring Chloe Angelides is a track from the 2015 album *What Dreams Are Made Of*, released by Kemosabe Records/RCA Records. It features a blend of reggae fusion and Virgin Islands reggae influences.</p>
 </div> <!-- Footer Links -->

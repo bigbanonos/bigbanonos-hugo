@@ -7,7 +7,7 @@ layout: post
 <p >Updated December 24, 1993, with "The Sign" by Ace of Base. This Eurodance classic became a global sensation, blending catchy melodies and uplifting lyrics. Watch the video below!</p> <!-- Featured Image -->
 <div > <img src="https://theneedledrop.com/content/images/size/w1200/2024/09/Screenshot-2024-09-24-at-1.34.24-PM-1-1.png" alt="Ace of Base - The Sign" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="560" height="315" src="https://www.youtube.com/embed/ooC6oN6QfTw" frameborder="0" allowfullscreen></iframe>
+<div > {{< youtube "ooC6oN6QfTw" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"The Sign"</em>, from Ace of Base's 1993 album of the same name, was released under Playground Music. This hit single dominated charts worldwide and became an emblem of '90s pop music.</p>
 </div> <!-- Footer Links -->

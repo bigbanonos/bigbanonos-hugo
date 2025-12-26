@@ -2,8 +2,8 @@
 title: "cruza 1 song"
 layout: post
 ---
-<iframe frameborder="0" height="270" src="https://youtube.com/embed/8ucKw7gG1Wg" width="480"></iframe><h2><ol><li>Lover's Rock [2024]</li><li>Indeed [2021]</li></ol></h2>
-<iframe src="https://open.spotify.com/embed/playlist/1fL1lcDhFHsH6hY00t2w6t?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+{{< youtube "8ucKw7gG1Wg" >}}<h2><ol><li>Lover's Rock [2024]</li><li>Indeed [2021]</li></ol></h2>
+{{< youtube "embed" >}}
 
 <!--Subscribe and Playlist Links-->
 <div>

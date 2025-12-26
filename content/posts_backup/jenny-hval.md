@@ -7,7 +7,7 @@ layout: post
 <p >Updated June 9, 2015, with "Sabbath" by Jenny Hval. This standout track from *Apocalypse, girl* showcases the Norwegian artist's boundary-pushing art pop and experimental flair.</p> <!-- Featured Image -->
 <div > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Jenny-hval_DSC03270.jpg/640px-Jenny-hval_DSC03270.jpg" alt="Jenny Hval - Sabbath" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/csIDglmrupc" title="Jenny Hval - 'Sabbath'" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "csIDglmrupc" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Sabbath"</em> from Jenny Hvalâ€™s *Apocalypse, girl* explores themes of identity, spirituality, and introspection through a hypnotic blend of art pop and experimental jazz. Released in 2015 under Sacred Bones Records, the track exemplifies her unique ability to merge poetic lyricism with avant-garde soundscapes.</p>
 </div> <!-- Footer Links -->

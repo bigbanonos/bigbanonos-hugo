@@ -7,7 +7,7 @@ layout: post
 <p >Updated August 1, 2012, with BigBanonos' favorite song by Amanda Lear, "Blood and Honey - 12'' Version," from her album *I Am a Photograph*. Watch the video and see more details below:</p> <!-- Featured Image -->
 <div > <img src="https://i.guim.co.uk/img/media/198f6b26c253426a7bb1725a46097ee58f72c09f/0_0_3729_2237/master/3729.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=7fef342396e480ec465fda22a4fb452a" alt="Amanda Lear - Blood and Honey" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/RySsFPbsleI" title="Amanda Lear - Blood and Honey - 12'' Version" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "RySsFPbsleI" >}}
 </div> <!-- Song Information -->
 <div > <p>"Blood and Honey - 12'' Version" by Amanda Lear is a captivating hi-NRG track that fuses disco and sultry vocals. Originally featured on the album *I Am a Photograph*, this version was released on August 1, 2012, under Sony BMG Music Entertainment, reaffirming Amanda Lear's iconic status in the genre.</p>
 </div> <!-- Footer Links -->

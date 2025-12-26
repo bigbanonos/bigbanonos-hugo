@@ -3,7 +3,7 @@ title: "the creation"
 layout: post
 ---
 #1960s <br />
-<iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/3xpONvYyFvQ?list=PLtuNtuTatqI3X01zTqiujiaUhFaK1PjKA" width="95%"></iframe>
+{{< youtube "3xpONvYyFvQ" >}}
 <br />
 Making Time 1966
 

@@ -6,9 +6,9 @@ layout: post
 <img alt="Sharon Jones & The Dap-Kings" src="https://i.ytimg.com/vi/AauxtWlSAdI/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGGUgWShbMA8=&rs=AOn4CLDHVn1-aFmizSFNY2ehkeFy7DshVg" /> <p>Sharon Jones brought old-school soul back to the mainstream with her powerful voice and the raw, timeless sound of The Dap-Kings. Here are BigBanonos' top selections:</p> <ol> <li><strong>8 Days of Hannukah</strong> | <em>It's a Holiday Soul Party</em> | Released: October 30, 2015 | Daptone Records</li> <li><strong>Your Thing Is A Drag</strong> | <em>Naturally</em> | Released: March 13, 2005 | Daptone Records</li> <li><strong>Fish in the Dish</strong> | <em>Naturally</em> | Released: January 25, 2005 | Daptone Records</li> <li><strong>Ain't It Hard</strong> | Released: 2002 | Daptone Records</li> <li><strong>How Do You Let a Good Man Down?</strong> | <em>Naturally</em> | Released: 2005 | Daptone Records</li> <li><strong>How Long Do I Have To Wait For You?</strong> | <em>Naturally</em> | Released: 2005 | Daptone Records</li> <li><strong>Natural Born Lover</strong> | <em>Naturally</em> | Released: 2005 | Daptone Records</li>
 </ol> <hr />
 <p><strong>#covers w/ originals:</strong></p>
-<iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/168UaxgQu-o?list=PLtuNtuTatqI0T_GCRVtVWFUSn_PgEFzjS" width="560"></iframe> <hr />
+{{< youtube "168UaxgQu-o" >}} <hr />
 <p><strong>#stlouis:</strong></p>
-<iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/AauxtWlSAdI" width="420"></iframe> <hr /> <div> <iframe allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" frameborder="0" height="352" loading="lazy" src="https://open.spotify.com/embed/playlist/1cVkUNuAvEPDrwssHvS3nR?utm_source=generator" width="100%"></iframe>
+{{< youtube "embed" >}}
 </div> <p>first posted by <a href="https://bigbanonos.blogspot.com/">https://bigbanonos.blogspot.com/</a></p> <div> <p>Explore more BigBanonos content: <a href="https://bigbanonos.blogspot.com/">Website</a> | <a href="https://www.youtube.com/@BigBanonos">YouTube</a> | <a href="https://x.com/bigbanonos">Twitter</a></p>
 </div> <!--Tags-->
 <p>@sharonjones,@thedapkings</p>

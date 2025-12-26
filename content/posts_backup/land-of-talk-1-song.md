@@ -2,7 +2,7 @@
 title: "land of talk 1 song"
 layout: post
 ---
-<br /><div class="separator" ><iframe allowfullscreen="" class="BLOG_video_class" height="266" src="https://www.youtube.com/embed/BIlWUiSc0iM" width="320" youtube-src-id="BIlWUiSc0iM"></iframe></div><h3><ol><li>Compelled [2020]</li></ol></h3>
+<br /><div class="separator" >{{< youtube "BIlWUiSc0iM" >}}</div><h3><ol><li>Compelled [2020]</li></ol></h3>
 
 <!--Subscribe and Playlist Links-->
 <div>

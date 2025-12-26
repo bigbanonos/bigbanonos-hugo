@@ -7,7 +7,7 @@ layout: post
 <p >Gangsta Boo, a trailblazer in Southern hip-hop, left an indelible mark with her gritty lyrics and iconic beats. Check out BigBanonos' favorite tracks below!</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d0000b2737e42112f4b12887e208584d0" alt="Gangsta Boo - BigBanonos Favorite Songs" />
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/2fzTus06Mqio56W77uNVtP?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Nasty Trick"</em> showcases Gangsta Boo's unmatched flow, from her 1998 album <strong>Enquiring Minds</strong>, released under <strong>Hypnotize Minds Productions</strong>.</p> <p><em>"Where Dem Dollas At (feat. DJ Paul & Juicy J)"</em> is a Southern hip-hop anthem that defines Memphis rap, also featured on <strong>Enquiring Minds</strong>.</p> <p><em>"Nigga Yeah Know (feat. T-Rock)"</em> blends sharp lyrics with a raw beat, completing this unforgettable 1998 release.</p>
 </div> <!-- Footer Links -->

@@ -7,7 +7,7 @@ layout: post
 <p >Updated August 30, 2019, with "Ransom" by Lil Tecca. This breakout hit from the album <em>We Love You Tecca</em> showcases Tecca's melodic rap style, blending elements of pluggnb and modern hip hop.</p> <!-- Featured Image -->
 <div > <img src="https://www.billboard.com/wp-content/uploads/media/Lil-Tecca-press-by-Orlando-IV-2019-billboard-1548.jpg?w=942&h=623&crop=1" alt="Lil Tecca - Ransom" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/1XzY2ij_vL4" title="Lil Tecca - Ransom (Official Music Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "1XzY2ij_vL4" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Ransom"</em> by Lil Tecca is a melodic rap anthem that captured the hearts of fans worldwide. Released under Republic Records, this track perfectly encapsulates the energy and vibe of modern pluggnb and rap music.</p>
 </div> <!-- Footer Links -->

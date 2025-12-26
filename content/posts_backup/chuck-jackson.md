@@ -7,7 +7,7 @@ layout: post
 <p >Updated 1964 with BigBanonos' favorite track, "Any Other Way" by Chuck Jackson. This timeless northern soul classic captures the heart of rhythm and blues.</p> <!-- Featured Image -->
 <div > <img src="https://www.billboard.com/wp-content/uploads/2023/02/Chuck-Jackson-2008-billboard-1548.jpg?w=942&h=623&crop=1" alt="Chuck Jackson - Any Other Way" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/u_WZ17Ae-VY" title="Chuck Jackson - Any Other Way" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "u_WZ17Ae-VY" >}}
 </div> <!-- Song Information -->
 <div > <p>"Any Other Way" is featured on Chuck Jackson's *28 Big Ones* compilation, released by Wand Records in 1964. The track blends northern soul with elements of southern soul, making it a standout in rhythm and blues history.</p>
 </div> <!-- Footer Links -->

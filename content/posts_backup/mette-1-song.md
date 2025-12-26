@@ -2,7 +2,7 @@
 title: "mette 1 song"
 layout: post
 ---
-<iframe frameborder="0" height="270" src="https://youtube.com/embed/9cm5YdIZO7Q" width="480"></iframe><h2><ol><li>Petrified [2021]</li></ol></h2>
+{{< youtube "9cm5YdIZO7Q" >}}<h2><ol><li>Petrified [2021]</li></ol></h2>
 
 <!--Subscribe and Playlist Links-->
 <div>

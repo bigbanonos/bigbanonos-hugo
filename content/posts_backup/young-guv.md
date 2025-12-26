@@ -7,7 +7,7 @@ layout: post
 <p >Updated with *Ripe 4 Luv* by Young Guv, a standout track from the *Ripe 4 Luv* album, released on March 10, 2015. With its catchy hooks and vibrant energy, this song encapsulates modern power pop at its finest.</p> <!-- Featured Image -->
 <div > <img src="https://f4.bcbits.com/img/a4121945819_10.jpg" alt="Young Guv - Ripe 4 Luv" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/-jlYt8brQkk" title="Young Guv - Ripe 4 Luv" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "-jlYt8brQkk" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Ripe 4 Luv"</em> is a testament to Young Guv's mastery of modern power pop, featuring a blend of catchy melodies and infectious rhythms. Released by Slumberland Records, the track has been a fan favorite since its release in 2015.</p>
 </div> <!-- Footer Links -->

@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Good Thing It's A Ghost Town Around Here" by Still Flyin', from the album *Never Gonna Touch the Ground*, released on April 21, 2009, by Ernest Jenning Record Co.</p> <!-- Featured Image -->
 <div > <img src="https://i.ytimg.com/vi/FXBH9OWgALc/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AGoA4ACvgKKAgwIABABGGUgXChHMA8=&rs=AOn4CLDjILAid_E8xSI8pTrxcIZu6x7wQg" alt="Still Flyin' - Good Thing It's A Ghost Town Around Here" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="601" src="https://www.youtube.com/embed/a6IAUi-hKUo" title="Good Thing It's A Ghost Town Around Here" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "a6IAUi-hKUo" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Good Thing It's A Ghost Town Around Here"</em> by Still Flyin' is a track from the album *Never Gonna Touch the Ground*, released on April 21, 2009. The song showcases their unique blend of indie rock with an upbeat, infectious energy.</p>
 </div> <!-- Footer Links -->

@@ -4,9 +4,9 @@ layout: post
 ---
  <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Billy Joel</h1> <!-- Featured Image -->
-<div > <img src="https://i.scdn.co/image/ab67616d0000b2731d4675d5a0345bb93686e4b6" alt="Billy Joel">
+<div > {{< img-lite src="https://i.scdn.co/image/ab67616d0000b2731d4675d5a0345bb93686e4b6" alt="Billy Joel" >}}
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/11jYl5Dp0u3VFkg9CQbMiL?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Introductory Text -->
 <p >Billy Joelâ€™s masterful storytelling and piano-driven rock have made him a household name. From "The Longest Time" to "Scenes from an Italian Restaurant," here are BigBanonos' top Billy Joel tracks.</p> <!-- Song Highlights -->
 <div > <p>BigBanonos' standout picks:</p> <ol> <li><strong>The Longest Time</strong> | <em>An Innocent Man</em> | Released: August 8, 1983 | Columbia</li> <li><strong>Scenes from an Italian Restaurant</strong> | <em>The Stranger (Legacy Edition)</em> | Released: 1977 | Columbia/Legacy</li> </ol>

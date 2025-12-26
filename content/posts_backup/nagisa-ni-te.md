@@ -7,7 +7,7 @@ layout: post
 <p >Updated March 1, 2005, with "Me, On The Beach" by Nagisa Ni Te. From the album <em>Dream Sounds</em>, released under Jagjaguwar, this track blends the ethereal nature of Japanese psychedelic rock with captivating melodies and atmospheric instrumentation.</p> <!-- Featured Image -->
 <div > <img src="https://f4.bcbits.com/img/a3833583249_65" alt="Nagisa Ni Te - Me, On The Beach" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/8qceqA7_sKA" title="Nagisa Ni Te - Me, On The Beach" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "8qceqA7_sKA" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Me, On The Beach"</em> by Nagisa Ni Te is a beautifully crafted track from the album <em>Dream Sounds</em>, showcasing the essence of Japanese psychedelic rock. With its dreamy atmosphere and mesmerizing rhythms, it stands as a highlight in the genre.</p>
 </div> <!-- Footer Links -->

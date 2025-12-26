@@ -3,7 +3,7 @@ title: "blog post_19"
 layout: post
 ---
 #1950s <br />
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FlT2wvkP2Ms?list=PLtuNtuTatqI2350OnCF7NhX0o_CRBEi8s" frameborder="0" allowfullscreen></iframe>
+{{< youtube "FlT2wvkP2Ms" >}}
 <br />
 Kisses Sweeter Than Wine 1957
 

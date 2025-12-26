@@ -7,7 +7,7 @@ layout: post
 <p >BigBanonos' favorite song by Annie & the Orphans, "It's The Hard-Knock Life," featured on the album *Annie: The Broadway Musical 30th Anniversary Cast Recording*. Watch the video and see more details below:</p> <!-- Featured Image -->
 <div > <img src="https://is1-ssl.mzstatic.com/image/thumb/Music116/v4/ef/0f/b0/ef0fb030-f024-6336-4b0f-e0c3f865edba/859751963696_cover.jpg/1200x1200bb.jpg" alt="Annie & the Orphans - It's The Hard-Knock Life" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/LH6MstVxehQ" title="ANNIE (1982) - â€œItâ€™s The Hard Knock Lifeâ€ Full Clip" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "LH6MstVxehQ" >}}
 </div> <!-- Song Information -->
 <div > <p>"It's The Hard-Knock Life" by Annie & the Orphans is a spirited and enduring anthem from the beloved *Annie* musical. Featured on the *Annie: The Broadway Musical 30th Anniversary Cast Recording* and released on June 3, 2008, by StarVista Music, this track captures the heart and determination of its iconic characters.</p>
 </div> <!-- Footer Links -->

@@ -3,10 +3,10 @@ title: "zola jesus 4 songs"
 layout: post
 ---
 <h1>BigBanonos Favorite Songs by Zola Jesus</h1>
-<img src="https://www.rollingstone.com/wp-content/uploads/2018/06/rs-16139-20140715-zola-x1800-1405459229.jpg" alt="Zola Jesus"> <p>Zola Jesus is known for her distinct blend of dark pop and experimental electronic music. These are BigBanonos' favorite tracks from Zola Jesus:</p> <ol> <li><strong>Siphon - Live</strong> | <em>Alive in Cappadocia</em> | Released: 2022-11-18 | Sacred Bones Records</li> <li><strong>The Fall</strong> | <em>Arkhon</em> | Released: 2022-06-24 | Sacred Bones Records</li> <li><strong>I Can't Stand</strong> | <em>Stridulum</em> | Released: 2011-03-08 | Sacred Bones Records</li> <li><strong>In Your Nature</strong> | <em>Conatus</em> | Released: 2010-09-26 | Sacred Bones Records</li>
-</ol> <div> <iframe src="https://open.spotify.com/embed/playlist/3zhqfj8LELVNfBznpSrxLd?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+{{< img-lite src="https://www.rollingstone.com/wp-content/uploads/2018/06/rs-16139-20140715-zola-x1800-1405459229.jpg" alt="Zola Jesus" >}} <p>Zola Jesus is known for her distinct blend of dark pop and experimental electronic music. These are BigBanonos' favorite tracks from Zola Jesus:</p> <ol> <li><strong>Siphon - Live</strong> | <em>Alive in Cappadocia</em> | Released: 2022-11-18 | Sacred Bones Records</li> <li><strong>The Fall</strong> | <em>Arkhon</em> | Released: 2022-06-24 | Sacred Bones Records</li> <li><strong>I Can't Stand</strong> | <em>Stridulum</em> | Released: 2011-03-08 | Sacred Bones Records</li> <li><strong>In Your Nature</strong> | <em>Conatus</em> | Released: 2010-09-26 | Sacred Bones Records</li>
+</ol> <div> {{< youtube "embed" >}}
 </div> <h4>Video for "I Can't Stand" [2011]:</h4>
-<iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/4j6LsJt_8Yk?list=PLtuNtuTatqI0Op3ks6L1YwfH8HxEDlS0G" width="95%"></iframe><br> <p><em>First posted by BigBanonos - <a href="https://bigbanonos.blogspot.com/">https://bigbanonos.blogspot.com/</a></em></p>
+{{< youtube "4j6LsJt_8Yk" >}}<br> <p><em>First posted by BigBanonos - <a href="https://bigbanonos.blogspot.com/">https://bigbanonos.blogspot.com/</a></em></p>
 <p><em>Last updated November 14, 2024</em></p>
 <p>Follow BigBanonos on <a href="https://www.youtube.com/@BigBanonos">YouTube</a> and <a href="https://x.com/bigbanonos">Twitter</a> for more music content.</p>
 <p>Tags: @zolajesus</p>

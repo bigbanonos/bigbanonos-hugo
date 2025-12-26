@@ -7,7 +7,7 @@ layout: post
 <p >Updated March 3, 2009, with "Tropical Ice-Land" by Oblivia Fit2battlaxe. This track from the album <em>StarTime International Presents Super-Cuts</em>, released under Startime, delivers a unique blend of tropical and electronic beats, creating a distinctive sound in the experimental genre.</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d00001e0217208a243de7a4b570103537" alt="Oblivia Fit2battlaxe - Tropical Ice-Land" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="601" src="https://www.youtube.com/embed/pnk4x9hdZeI" title="Tropical Ice-Land" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "pnk4x9hdZeI" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Tropical Ice-Land"</em> by Oblivia Fit2battlaxe is a standout track from the album <em>StarTime International Presents Super-Cuts</em>, combining tropical influences with electronic beats to create a unique and experimental sound.</p>
 </div> <!-- Footer Links -->

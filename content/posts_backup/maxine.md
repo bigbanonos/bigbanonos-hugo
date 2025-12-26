@@ -7,7 +7,7 @@ layout: post
 <p >Updated in 2010, with "Oh No Not My Baby" by Maxine Brown. This timeless classic from the album <em>Super Hits</em>, released under Wand Records, is a perfect blend of classic soul, rhythm and blues, and southern soul, capturing the essence of 1960s Motown-inspired music.</p> <!-- Featured Image -->
 <div > <img src="https://m.media-amazon.com/images/I/41TSRCKB07L._UF1000,1000_QL80_.jpg" alt="Maxine Brown - Oh No Not My Baby" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/atIHwVrz05Q" title="Oh No Not My Baby" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "atIHwVrz05Q" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Oh No Not My Baby"</em> by Maxine Brown is a soulful anthem that showcases her powerful voice and emotional depth. With its classic rhythm and blues groove, this track remains a standout in the history of soul music and continues to inspire generations of listeners.</p>
 </div> <!-- Footer Links -->

@@ -2,7 +2,7 @@
 title: "bullion 1 song"
 layout: post
 ---
-<iframe frameborder="0" height="270" src="https://youtube.com/embed/E_G1_cZMpJM?si=aJitR2F9UixHHBg5" width="480"></iframe><div><br /></div><div>(ft. Carly Rae Jepsen) Rare [2024]</div><div><br /></div><div class="separator" ><a href="https://thefader-res.cloudinary.com/private_images/w_760,c_limit,f_auto,q_auto:best/bullion-carly-rae-jepsen_ma04ka/bullion-and-carly-rae-jepsen.jpg" imageanchor="1"><img border="0" data-original-height="428" data-original-width="760" height="428" src="https://thefader-res.cloudinary.com/private_images/w_760,c_limit,f_auto,q_auto:best/bullion-carly-rae-jepsen_ma04ka/bullion-and-carly-rae-jepsen.jpg" width="760" /></a></div><br /><div><br /></div>
+{{< youtube "E_G1_cZMpJM" >}}<div><br /></div><div>(ft. Carly Rae Jepsen) Rare [2024]</div><div><br /></div><div class="separator" ><a href="https://thefader-res.cloudinary.com/private_images/w_760,c_limit,f_auto,q_auto:best/bullion-carly-rae-jepsen_ma04ka/bullion-and-carly-rae-jepsen.jpg" imageanchor="1"><img border="0" data-original-height="428" data-original-width="760" height="428" src="https://thefader-res.cloudinary.com/private_images/w_760,c_limit,f_auto,q_auto:best/bullion-carly-rae-jepsen_ma04ka/bullion-and-carly-rae-jepsen.jpg" width="760" /></a></div><br /><div><br /></div>
 
 <!--Subscribe and Playlist Links-->
 <div>

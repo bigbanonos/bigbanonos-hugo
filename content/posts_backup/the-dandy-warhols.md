@@ -5,9 +5,9 @@ layout: post
 <!-- Title of the Post -->
 <h1>BigBanonos' Top Songs by The Dandy Warhols</h1> <!-- Introductory Text -->
 <p>The Dandy Warhols blend alternative rock and dance-punk with captivating energy. Here's a look at BigBanonos' favorite tracks from their discography.</p> <!-- Featured Image -->
-<div> <img src="https://i.scdn.co/image/ab6761610000e5eb918734ca6f0f14803c7d8922" alt="The Dandy Warhols">
+<div> {{< img-lite src="https://i.scdn.co/image/ab6761610000e5eb918734ca6f0f14803c7d8922" alt="The Dandy Warhols" >}}
 </div> <!-- Spotify Embed -->
-<div> <iframe src="https://open.spotify.com/embed/playlist/2Lg8S3joZhwfjt1IkylFbw?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div> {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <h3>Top Songs:</h3>
 <ul> <li><strong>Welcome To The Monkey House</strong> | <em>Welcome To The Monkey House</em> | Released: 2003 | Label: Capitol Records</li> <li><strong>We Used To Be Friends</strong> | <em>Welcome To The Monkey House</em> | Released: 2003 | Label: Capitol Records</li>

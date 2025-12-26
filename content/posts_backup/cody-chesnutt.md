@@ -7,7 +7,7 @@ layout: post
 <p >Updated 2002 with BigBanonos' favorite track, "Boylife In America" by Cody Chesnutt. A soulful reflection of funk-infused artistry, taken from his monumental double album.</p> <!-- Featured Image -->
 <div > <img src="https://media.npr.org/assets/img/2022/09/26/gettyimages-2564858_wide-c9dcde982c8abf9b1206ee1bdf618f0403ef3e14.jpg?s=1100&c=85&f=jpeg" alt="Cody Chesnutt - Boylife In America" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/XAon7cGYXcs" title="Cody Chesnutt - 'Boylife In America'" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "XAon7cGYXcs" >}}
 </div> <!-- Song Information -->
 <div > <p>"Boylife In America" is from Cody Chesnutt's groundbreaking album *The Headphone Masterpiece*. Released by One Little Indian Records in 2002, this track weaves personal storytelling with rich funk influences, showcasing his innovative approach to R&B.</p>
 </div> <!-- Footer Links -->

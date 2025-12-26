@@ -2,7 +2,7 @@
 title: "lucre"
 layout: post
 ---
-<iframe width="480" height="270" src="https://youtube.com/embed/PIkyDdMHc_c?si=3P4C_QZ2So14GQmz" frameborder="0"></iframe>
+{{< youtube "PIkyDdMHc_c" >}}
 Dean Blunt + Elias RÃƒÆ’Ã‚Â¸nnenfelt collaborate on this '25 with a full mini-album with Vegyn involved 
 
 <!--Subscribe and Playlist Links-->

@@ -7,7 +7,7 @@ layout: post
 <p >Updated March 8, 2010, with "Sweet Pussy Pauline" (Original Mix) by Don't featuring Candy J. Originally released on *Sweet Pussy Pauline*, this track brings a raw and energetic twist to the blues-infused Portland punk scene.</p> <!-- Featured Image -->
 <div > <img src="https://assets.beatportal.com/images/transforms/content-item/_1842x1036_crop_center-center_none/12961/SweetPussyPauline-1920x1080-1718806827.webp" alt="Don't feat. Candy J - Sweet Pussy Pauline" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/eVWjoz6Vqz8" title="dont feat. Candy J - Sweet Pussy Pauline (Original Mix)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "eVWjoz6Vqz8" >}}
 </div> <!-- Song Information -->
 <div > <p>"Sweet Pussy Pauline" (Original Mix) delivers an unapologetically bold sound, combining gritty blues undertones with the defiance of Portland punk, making it a must-listen track.</p>
 </div> <!-- Footer Links -->

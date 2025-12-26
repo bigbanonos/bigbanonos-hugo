@@ -7,7 +7,7 @@ layout: post
 <p >Updated February 12, 2018, with "Only Acting" from <em>Only Acting</em>. Dive into the eclectic sounds of Kero Kero Bonito in the playlist below!</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab6761610000e5eb67dfd3f1682fd91c7052a05a" alt="Kero Kero Bonito" />
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/2jLlV11bS7GaefCRhJwdeh?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <div > <p><strong>"Only Acting"</strong><br> Genre: Pop, Rock<br> Album: <em>Only Acting</em><br> Release Date: February 12, 2018<br> Label: Kero Kero Bonito</p> <p><strong>"Picture This"</strong><br> Genre: Pop, Rock<br> Album: <em>Picture This</em><br> Release Date: March 10, 2015<br> Label: Kero Kero Bonito</p>
 </div> <!-- Footer Links -->

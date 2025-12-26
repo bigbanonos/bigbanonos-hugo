@@ -2,7 +2,7 @@
 title: "ange dut 1 song 2 remixes"
 layout: post
 ---
-<iframe frameborder="0" height="360" src="https://youtube.com/embed/6MuwZa9wVtU?list=PLtuNtuTatqI2n4mIeY62A8707exRJ0N6g" width="480"></iframe><div><ol><li>Never Ending Game [Panda Bear Remix] 2021</li><li>Never Ending Game [Lunice Remix] 2021</li><li>Never Ending Game [2020]</li></ol></div>
+{{< youtube "6MuwZa9wVtU" >}}<div><ol><li>Never Ending Game [Panda Bear Remix] 2021</li><li>Never Ending Game [Lunice Remix] 2021</li><li>Never Ending Game [2020]</li></ol></div>
 
 <!--Subscribe and Playlist Links-->
 <div>

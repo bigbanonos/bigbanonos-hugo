@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Another Sky" by Scenic, from the album *Another Sky*, released in 2011 by Future Classic.</p> <!-- Featured Image -->
 <div > <img src="https://f4.bcbits.com/img/0002339621_25.jpg" alt="Scenic - Another Sky" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/uO6y5n5dE48" title="Scenic - Another Sky" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "uO6y5n5dE48" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Another Sky"</em> by Scenic is a standout track from their album *Another Sky*, released in 2011. The song beautifully captures the essence of indie and alternative rock with its atmospheric sound and captivating melody.</p>
 </div> <!-- Footer Links -->

@@ -3,10 +3,10 @@ title: "slapp happy"
 layout: post
 ---
 <h3>BigBanonos' Favorite Songs by Slapp Happy</h3>
-<div > <a href="https://static.wikia.nocookie.net/peel/images/0/08/Slapp_Happy.jpg/revision/latest?cb=20230905104307" target="_blank"> <img src="https://static.wikia.nocookie.net/peel/images/0/08/Slapp_Happy.jpg/revision/latest?cb=20230905104307" alt="Slapp Happy"> </a>
+<div > <a href="https://static.wikia.nocookie.net/peel/images/0/08/Slapp_Happy.jpg/revision/latest?cb=20230905104307" target="_blank"> {{< img-lite src="https://static.wikia.nocookie.net/peel/images/0/08/Slapp_Happy.jpg/revision/latest?cb=20230905104307" alt="Slapp Happy" >}} </a>
 </div>
 <p>Updated January 1, 1993, with Slapp Happy's track <strong>"The Drum"</strong>. BigBanonos celebrates their unique contributions to the Canterbury scene and zolo rock genres.</p>
-<iframe src="https://open.spotify.com/embed/playlist/2z9QSJ8FRdj9QedHsFoAts?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+{{< youtube "embed" >}}
 <h4>Top Songs:</h4>
 <ol> <li><strong>The Drum</strong> | <em>Casablanca Moon/Desperate Straights</em> | Released: January 1, 1993 | Virgin Records</li> <li><strong>Casablanca Moon</strong> | <em>Casablanca Moon/Desperate Straights</em> | Released: January 1, 1993 | Virgin Records</li>
 </ol>

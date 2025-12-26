@@ -7,7 +7,7 @@ layout: post
 <p >Updated January 1, 2005, with BigBanonos' favorite song by Ace Frehley, "New York Groove," featured on the compilation album *Gold (1974-1982)*. Watch the video and see more details below:</p> <!-- Featured Image -->
 <div > <img src="https://i.ytimg.com/vi/R4JihUaJxiA/mqdefault.jpg" alt="Ace Frehley - New York Groove" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/LKdHy18rZcI" title="Ace Frehley - New York groove (Kiss Solo albums 1978)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "LKdHy18rZcI" >}}
 </div> <!-- Song Information -->
 <div > <p>"New York Groove" by Ace Frehley is a glam metal anthem from the *Gold (1974-1982)* compilation, released on January 1, 2005, by Island Mercury. Originally recorded for his 1978 Kiss solo album, this track captures the spirit of hard rock and Frehley's connection to the city.</p>
 </div> <!-- Footer Links -->

@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Down Below" by Roddy Ricch, from the album *Feed Tha Streets II*, released on November 2, 2018, by Bird Vision Entertainment.</p> <!-- Featured Image -->
 <div > <img src="https://i.ytimg.com/vi/GT_ifHNx1ZQ/mqdefault.jpg" alt="Roddy Ricch - Down Below" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/CJOZc02VwJM" title="Roddy Ricch - Down Below [Official Music Video]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "CJOZc02VwJM" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Down Below"</em> by Roddy Ricch is a track from the album *Feed Tha Streets II*, released on November 2, 2018. The song captures Roddy Ricch's signature melodic rap style, blending trap beats with introspective lyrics and smooth flow.</p>
 </div> <!-- Footer Links -->

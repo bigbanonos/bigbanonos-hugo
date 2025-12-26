@@ -5,9 +5,9 @@ layout: post
 
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Alle</h1> <!-- Featured Image -->
-<div > <img src="https://i.scdn.co/image/ab676161000051745dab82266663883300c249b1" alt="Alle">
+<div > {{< img-lite src="https://i.scdn.co/image/ab676161000051745dab82266663883300c249b1" alt="Alle" >}}
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/4R7Bbpq078SCItZ62S8Hen?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Introductory Text -->
 <p >Alleâ€™s heartfelt music blends introspection with Olea Records' melodic charm. Here are BigBanonos' top picks from this unique artist.</p> <!-- Song Highlights -->
 <div > <p>BigBanonos' standout picks:</p> <ol> <li><strong>Er du alene?</strong> | <em>Alletiders</em> | Released: Unknown | Olea Records</li> <li><strong>NÃƒÆ’Ã‚Â¥r livet er en leg</strong> | <em>Alletiders</em> | Released: Unknown | Olea Records</li> <li><strong>Smiler mens jeg smelter lidt</strong> | <em>Alletiders</em> | Released: Unknown | Olea Records</li> <li><strong>SÃƒÆ’Ã‚Â¥ heldig</strong> | <em>Alletiders</em> | Released: Unknown | Olea Records</li> </ol>

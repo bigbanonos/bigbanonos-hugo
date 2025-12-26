@@ -7,7 +7,7 @@ layout: post
 <p >Updated May 21, 2019, with "CRY" by EVA. This emotional track highlights EVA's powerful vocal delivery and evocative production.</p> <!-- Featured Image -->
 <div > <img src="https://townsquare.media/site/833/files/2019/05/EVA_cry_cover.jpg?w=980&q=75" alt="EVA - CRY" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/1kEOTexhI4c" title="EVA - CRY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "1kEOTexhI4c" >}}
 </div> <!-- Song Information -->
 <div > <p>"CRY" is a deeply moving piece that showcases EVA's artistry, blending heartfelt lyrics with a captivating soundscape.</p>
 </div> <!-- Footer Links -->

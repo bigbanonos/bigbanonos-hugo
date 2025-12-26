@@ -7,7 +7,7 @@ layout: post
 <p >Updated April 21, 2015, with "Hang Me in the Tulsa County Stars" by John Moreland. This heartfelt track from <em>High on Tulsa Heat</em> embodies the raw emotion of alternative country and southern Americana.</p> <!-- Featured Image -->
 <div > <img src="https://www.whiskeyriff.com/wp-content/uploads/John-Moreland-album-scaled.jpg" alt="John Moreland - High on Tulsa Heat" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/dVBVSysjTiI" title="Hang Me in the Tulsa County Stars" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "dVBVSysjTiI" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Hang Me in the Tulsa County Stars"</em> is a standout track from <strong>High on Tulsa Heat</strong>, released by Old Omens. The song beautifully blends alternative country with Tulsa-inspired indie sounds, highlighting John Moreland's signature introspective songwriting.</p>
 </div> <!-- Footer Links -->

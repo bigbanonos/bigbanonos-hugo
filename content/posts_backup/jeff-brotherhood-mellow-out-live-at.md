@@ -6,10 +6,10 @@ layout: post
 </div> <p>Dive into the gritty, lo-fi garage rock world of JEFF The Brotherhood with these top tracks selected by <em>BigBanonos</em>.</p> <h3>Selected Tracks</h3>
 <ol> <li><strong>Heavy Days</strong> â€“ <em>Heavy Days</em> (2009)</li> <li><strong>Bone Jam</strong> â€“ <em>Heavy Days</em> (2009)</li> <li><strong>Mellow Out (Live at Third Man Records)</strong> â€“ <em>Live</em> (2010)</li> <li><strong>Hey Friend</strong> â€“ <em>We Are The Champions</em> (2011)</li> <li><strong>Heavy Damage</strong> â€“ <em>Stream</em> (2010)</li>
 </ol> <p>Stream JEFF The Brotherhood's playlist:</p>
-<iframe src="https://open.spotify.com/embed/playlist/4eQOamFVHwxvzeZ7TrNfAy?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> <p>Watch live performances:</p>
-<iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/-j6Q_wrNH64?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" width="95%"></iframe>
+{{< youtube "embed" >}} <p>Watch live performances:</p>
+{{< youtube "-j6Q_wrNH64" >}}
 <hr />
-<iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/lG7RFfbYCF8?list=PLtuNtuTatqI2pnkf9rjecj4V5vx0Z9pTi" width="95%"></iframe> <h3>Tags</h3>
+{{< youtube "lG7RFfbYCF8" >}} <h3>Tags</h3>
 <p>@jeffthebrotherhood</p> <p>Find more music highlights on <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos' YouTube channel</a> and join the conversation on our <a href="https://twitter.com/BigBanonos" target="_blank">Twitter</a>!</p> <hr />
 <p><em>First posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
 

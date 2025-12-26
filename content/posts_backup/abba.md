@@ -3,8 +3,8 @@ title: "abba"
 layout: post
 ---
 <h1>BigBanonos Favorite Songs by ABBA</h1>
-<img src="https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2014/2/16/1392577447181/Abba-011.jpg?width=465&dpr=1&s=none&crop=none" alt="ABBA"> <p>This collection of BigBanonos' favorite tracks by ABBA, highlighting their legendary contributions to pop music, including the iconic hits "Take A Chance On Me" and "S.O.S."</p> <ol> <li>Take A Chance On Me - Album: <i>ABBA Gold</i>, Label: Polar Music International AB, Released: 1977</li> <li>S.O.S. - Album: <i>Abba</i>, Label: Universal Music Group, Released: 1975</li>
-</ol> <div> <iframe src="https://open.spotify.com/embed/playlist/2KmpXcyAtVLiK3Cxve8vg5?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+{{< img-lite src="https://i.guim.co.uk/img/static/sys-images/Guardian/Pix/pictures/2014/2/16/1392577447181/Abba-011.jpg?width=465&dpr=1&s=none&crop=none" alt="ABBA" >}} <p>This collection of BigBanonos' favorite tracks by ABBA, highlighting their legendary contributions to pop music, including the iconic hits "Take A Chance On Me" and "S.O.S."</p> <ol> <li>Take A Chance On Me - Album: <i>ABBA Gold</i>, Label: Polar Music International AB, Released: 1977</li> <li>S.O.S. - Album: <i>Abba</i>, Label: Universal Music Group, Released: 1975</li>
+</ol> <div> {{< youtube "embed" >}}
 </div> <p>first posted by https://bigbanonos.blogspot.com/</p> <div> <p>Explore more BigBanonos content: <a href="https://bigbanonos.blogspot.com/">Website</a> | <a href="https://www.youtube.com/@BigBanonos">YouTube</a> | <a href="https://x.com/bigbanonos">Twitter</a></p>
 </div> <!-- Tags -->
 <p>@abba</p>

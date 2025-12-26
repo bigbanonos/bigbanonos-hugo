@@ -7,7 +7,7 @@ layout: post
 <p >Updated with *Mirror Ball* by The Crayon Fields, a captivating indie pop gem from their album *All The Pleasures Of The World*. This track blends lush melodies with a dreamy, reflective atmosphere, showcasing the band's ability to create timeless pop music with a modern twist.</p> <!-- Featured Image -->
 <div > <img src="https://i.discogs.com/VUzUj5z5WELzSsjbiOFTkjdcEgNty41HlFmRYPwJlgo/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5MDU4/NzAtMTI4MTc2MzE4/OC5qcGVn.jpeg" alt="The Crayon Fields - Mirror Ball" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="381" src="https://www.youtube.com/embed/ancPtPc1u4Y" title="Crayon Fields - Mirror Ball" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "ancPtPc1u4Y" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Mirror Ball"</em> brings together the best of indie pop, combining catchy hooks and atmospheric instrumentation. Released on September 19, 2009, this track from *All The Pleasures Of The World* continues to be a favorite among fans of dreamy and lush pop music.</p>
 </div> <!-- Footer Links -->

@@ -7,7 +7,7 @@ layout: post
 <p >Updated July 3, 2007, with BigBanonos' favorite song by Boyracer, "Where To Place Yr Trust." This energetic track from the album *Punker Than You Since '92* by 555 Recordings embodies the spirit of c86 and twee pop. Watch the video and see more details below:</p> <!-- Featured Image -->
 <div > <img src="https://media.pitchfork.com/photos/5929abd6c0084474cd0c1438/master/w_1280%2Cc_limit/e56085ae.jpg" alt="Boyracer - Where To Place Yr Trust" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/nm3g7W9B1Vw" title="Boyracer - Where To Place Yr Trust (Best Version)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "nm3g7W9B1Vw" >}}
 </div> <!-- Song Information -->
 <div > <p>"Where To Place Yr Trust" by Boyracer is a fast-paced twee pop gem that captures the raw energy of the c86 era. Released on July 3, 2007, as part of *Punker Than You Since '92* under 555 Recordings, this 1:26-long track is a concise yet impactful indie anthem.</p>
 </div> <!-- Footer Links -->

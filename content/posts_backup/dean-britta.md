@@ -7,7 +7,7 @@ layout: post
 <p >Updated July 27, 2010, with "Teenage Lightning and Lonely Highways (Sonic Boom Remix)" by Dean & Britta. Originally released on July 27, 2010, this remix reimagines their track from *13 Most Beautiful: Songs For Andy Warhol's Screen Tests*, highlighting the duo's ethereal soundscapes.</p> <!-- Featured Image -->
 <div > <img src="https://magnetmagazine.com/wp-content/uploads/2009/01/dean-brita.jpg" alt="Dean & Britta Album Cover" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/E9r_p779wiA" title="Dean & Britta - Teenage Lightning (And Lonely Highways) (Sonic Boom Remix)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "E9r_p779wiA" >}}
 </div> <!-- Song Information -->
 <div > <p>Dean & Britta, known for their dreamy and cinematic sound, collaborated with Sonic Boom for this mesmerizing remix. Part of *13 Most Beautiful*, the track serves as a tribute to Andy Warhol's Screen Tests, blending art and music seamlessly.</p>
 </div> <!-- Footer Links -->

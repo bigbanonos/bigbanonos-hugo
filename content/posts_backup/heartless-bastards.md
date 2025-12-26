@@ -7,7 +7,7 @@ layout: post
 <p >Updated February 22, 2005, with "Gray" by Heartless Bastards. This emotive track from their debut album *Stairs and Elevators* showcases their powerful stomp-and-holler style with raw, heartfelt intensity. Watch the video below!</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d00001e028379606e09eff9ffed4c48c8" alt="Heartless Bastards - Gray" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="685" height="601" src="https://www.youtube.com/embed/Ap6Zg1I0YTs" title="Gray" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "Ap6Zg1I0YTs" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Gray"</em>, from Heartless Bastardsâ€™ 2005 album *Stairs and Elevators*, released by Fat Possum Records, is a standout track that blends raw vocals with a captivating stomp-and-holler rhythm. Its emotional depth and compelling energy make it an unforgettable addition to their discography.</p>
 </div> <!-- Footer Links -->

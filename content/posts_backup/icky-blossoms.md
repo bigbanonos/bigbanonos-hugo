@@ -7,7 +7,7 @@ layout: post
 <p >Updated May 12, 2015, with "Wait" by Icky Blossoms. This dynamic Omaha indie track from their album <em>Mask</em> showcases their unique fusion of electronic rock and indie aesthetics.</p> <!-- Featured Image -->
 <div > <img src="https://www.roughtradepublishing.com/wp-content/uploads/2017/06/IMG_9249-copy-1024x682.jpg" alt="Icky Blossoms - Wait" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/cVe16BZsDcM" title="Icky Blossoms - Wait [Official Audio]" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "cVe16BZsDcM" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Wait"</em>, released on May 12, 2015, captures the electrifying sound of Icky Blossoms with its hypnotic beats and bold indie rock vibe. A standout from the album <em>Mask</em>, this track solidifies their place in the Omaha indie music scene.</p>
 </div> <!-- Footer Links -->

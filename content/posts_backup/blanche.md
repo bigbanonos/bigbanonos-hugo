@@ -7,7 +7,7 @@ layout: post
 <p >Updated May 25, 2004, with "Someday" by Blanche. This hauntingly beautiful track captures the bandâ€™s unique blend of gothic Americana and alt-country influences. Watch the video below!</p> <!-- Featured Image -->
 <div > <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Blanche%28band%29.jpg" alt="Blanche - Someday" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="685" height="514" src="https://www.youtube.com/embed/m24YEoqSneQ" title="Blanche - "Someday..." [OFFICIAL]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "m24YEoqSneQ" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Someday"</em>, from Blancheâ€™s 2004 album *If We Can't Trust the Doctors*, showcases the bandâ€™s distinctive storytelling and melancholic melodies. With its brooding atmosphere and emotional depth, the track stands as a hallmark of their sound.</p>
 </div> <!-- Footer Links -->

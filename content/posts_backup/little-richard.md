@@ -7,7 +7,7 @@ layout: post
 <p >Updated January 17, 2025, with "Lucille" from <em>Rock 'N' Roll Legends</em>. Celebrate the legendary sound of Little Richard in the playlist below!</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d00001e02d8c039e1c5ef91c7f04c5674" alt="Little Richard" />
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/5f24auGGGjdWUcJn6PDejx?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <div > <p><strong>"Lucille"</strong><br> Genre: Blues, Rock, R&B<br> Album: <em>Rock 'N' Roll Legends</em><br> Release Date: January 1, 2008<br> Label: Universal Music Group International</p> <p><strong>"Tutti Frutti"</strong><br> Genre: Blues, Rock, R&B<br> Album: <em>He's Got It</em><br> Release Date: April 27, 2007<br> Label: SPV</p> <p><strong>"The Girl Can't Help It"</strong><br> Genre: Blues, Rock, R&B<br> Album: <em>He's Got It</em><br> Release Date: April 27, 2007<br> Label: SPV</p>
 </div> <!-- Footer Links -->

@@ -7,7 +7,7 @@ layout: post
 <p >Updated August 12, 2014, with "All About You" by Hilary Duff. This energetic dance-pop track captures the infectious charm of Duffâ€™s post-teen pop style during her RCA Records era.</p> <!-- Featured Image -->
 <div > <img src="https://resizing.flixster.com/-XZAfHZM39UwaGJIFWKAE8fS0ak=/v3/t/assets/165552_v9_bc.jpg" alt="Hilary Duff - All About You" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/dA1ZmHibs4w" title="Hilary Duff - All About You" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "dA1ZmHibs4w" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"All About You"</em>, released August 12, 2014, stands as a testament to Hilary Duffâ€™s ability to craft a vibrant pop anthem. The song combines danceable beats with Duffâ€™s signature vocal charm, making it a highlight from her RCA Records Label releases.</p>
 </div> <!-- Footer Links -->

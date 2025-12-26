@@ -2,7 +2,7 @@
 title: "tiberius b 1 song"
 layout: post
 ---
-<iframe frameborder="0" height="270" src="https://youtube.com/embed/Ai14SX2q2ZU" width="480"></iframe><h2><ol><li>Big Deal [2021]</li></ol></h2>
+{{< youtube "Ai14SX2q2ZU" >}}<h2><ol><li>Big Deal [2021]</li></ol></h2>
 
 <!--Subscribe and Playlist Links-->
 <div>

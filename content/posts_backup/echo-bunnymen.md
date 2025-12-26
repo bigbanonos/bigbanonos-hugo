@@ -7,7 +7,7 @@ layout: post
 <p >Updated November 11, 1985, with "The Killing Moon" by Echo & the Bunnymen. This hauntingly beautiful track from the album "Songs to Learn & Sing" epitomizes the band's mastery of atmospheric and poetic rock.</p> <!-- Featured Image -->
 <div > <img src="https://i.guim.co.uk/img/media/49c4e97e9ee65c80bf61621dbe08d3966cf2ea99/0_0_2400_1439/master/2400.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=071f236853e0cabee484905fa77f1b00" alt="Echo & the Bunnymen - The Killing Moon" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/LWz0JC7afNQ" title="Echo & The Bunnymen - The Killing Moon (Official Music Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "LWz0JC7afNQ" >}}
 </div> <!-- Song Information -->
 <div > <p>"The Killing Moon" is often hailed as one of the greatest songs of the 1980s, blending dark romanticism with soaring melodies and unforgettable lyrics. A definitive post-punk anthem.</p>
 </div> <!-- Footer Links -->

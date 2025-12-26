@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "West Texas" by PWR BTTM, from the album *Ugly Cherries*, released on September 18, 2015, by Father/Daughter Records.</p> <!-- Featured Image -->
 <div > <img src="https://i.ytimg.com/vi/xmq0SoiuLgc/maxresdefault.jpg" alt="PWR BTTM - West Texas" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/xmq0SoiuLgc" title="PWR BTTM - West Texas (Official Music Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "xmq0SoiuLgc" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"West Texas"</em> by PWR BTTM is a queercore rock track from their 2015 album *Ugly Cherries*, released by Father/Daughter Records.</p>
 </div> <!-- Footer Links -->

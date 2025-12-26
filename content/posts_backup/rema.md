@@ -3,10 +3,10 @@ title: "rema"
 layout: post
 ---
 <h3>BigBanonos' Favorite Songs by Rema</h3> <!-- Featured Image -->
-<div > <a href="https://thisis-images.spotifycdn.com/37i9dQZF1DZ06evO2oBSta-default.jpg" target="_blank"> <img src="https://thisis-images.spotifycdn.com/37i9dQZF1DZ06evO2oBSta-default.jpg" alt="Rema - Artist Image"> </a>
+<div > <a href="https://thisis-images.spotifycdn.com/37i9dQZF1DZ06evO2oBSta-default.jpg" target="_blank"> {{< img-lite src="https://thisis-images.spotifycdn.com/37i9dQZF1DZ06evO2oBSta-default.jpg" alt="Rema - Artist Image" >}} </a>
 </div> <!-- Introductory Text -->
 <p>Updated March 11, 2022, with tracks from Rema's globally recognized singles. BigBanonos highlights his unique fusion of afrobeats, Nigerian pop, and hip hop influences that have captured audiences worldwide.</p> <!-- Spotify Playlist Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/2qN3w4Dj81cDPd77zrv5kI?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Song List -->
 <h4>Top Songs:</h4>
 <ol> <li><strong>FYN</strong> (feat. AJ Tracey) | <em>FYN</em> | Released: March 11, 2022 | Mavin Records / Jonzing World | Genre: afrobeats, Nigerian pop, grime, UK hip hop, UKG revival</li> <li><strong>Calm Down</strong> | <em>Calm Down</em> | Released: February 10, 2022 | Mavin Records / Jonzing World | Genre: afrobeats, Nigerian pop</li>

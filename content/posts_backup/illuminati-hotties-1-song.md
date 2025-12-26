@@ -2,7 +2,7 @@
 title: "illuminati hotties 1 song"
 layout: post
 ---
-<iframe frameborder="0" height="270" src="https://youtube.com/embed/w-MP061xoSQ" width="480"></iframe><h2><ol><li>(ft. Buck Meek) u v v p [2021]</li></ol></h2>
+{{< youtube "w-MP061xoSQ" >}}<h2><ol><li>(ft. Buck Meek) u v v p [2021]</li></ol></h2>
 
 <!--Subscribe and Playlist Links-->
 <div>

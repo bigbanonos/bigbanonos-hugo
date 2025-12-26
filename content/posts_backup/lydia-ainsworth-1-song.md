@@ -2,7 +2,7 @@
 title: "lydia ainsworth 1 song"
 layout: post
 ---
-<div><iframe frameborder="0" height="270" src="https://youtube.com/embed/ajXPYvn7JHE" width="480"></iframe></div><h2><ol><li>Sparkles & Debris [2021]</li></ol></h2>
+<div>{{< youtube "ajXPYvn7JHE" >}}</div><h2><ol><li>Sparkles & Debris [2021]</li></ol></h2>
 
 <!--Subscribe and Playlist Links-->
 <div>

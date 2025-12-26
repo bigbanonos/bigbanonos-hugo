@@ -7,7 +7,7 @@ layout: post
 <p >Updated February 2, 2018, with BigBanonos' favorite song by Beenie Gunter and Skales, "Pon Mi Remix," released under OHK Music. Watch the video and see more details below:</p> <!-- Featured Image -->
 <div > <img src="https://m.media-amazon.com/images/I/61YS8JMyj2L._UXNaN_FMjpg_QL85_.jpg" alt="Beenie Gunter and Skales - Pon Mi Remix" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/K_-zc780OCw" title="DJ Slick stuart, DJ Roja, Beenie Gunter, Skales - PON Mi Remix" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "K_-zc780OCw" >}}
 </div> <!-- Song Information -->
 <div > <p>"Pon Mi Remix" by Beenie Gunter and Skales is a vibrant fusion of Ugandan pop and afrobeats with infectious rhythms and dynamic vocals. Released on February 2, 2018, under OHK Music, this 3:12-long track seamlessly blends afropop and Nigerian pop influences, creating a standout hit in the genre.</p>
 </div> <!-- Footer Links -->

@@ -4,7 +4,7 @@ layout: post
 ---
 <h2>BigBanonos' Favorite Songs by Bully</h2> <!-- Search Description -->
 <p>BigBanonos' top 7 favorite tracks by Bully, highlighting their bubblegrunge and indie punk sound.</p> <!-- Spotify Playlist Embed -->
-<iframe src="https://open.spotify.com/embed/playlist/2dlnTZgpNgykOHkSljSb6y?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> <!-- Song Listings -->
+{{< youtube "embed" >}} <!-- Song Listings -->
 <ul> <li>Change Your Mind - <em>Lucky For You</em> - Sub Pop Records (2023-06-02)</li> <li>How Will I Know - <em>Lucky For You</em> - Sub Pop Records (2023-06-02)</li> <li>Days Move Slow - <em>Days Move Slow</em> - Sub Pop Records (2023-03-21)</li> <li>Brainfreeze - <em>Feels Like</em> - Columbia (2015-06-19)</li> <li>I Remember - <em>Feels Like</em> - Columbia (2015-06-19)</li> <li>Trying - <em>Feels Like</em> - Columbia (2015-06-19)</li> <li>Lose You (feat. Soccer Mommy) - <em>Days Move Slow</em> - Sub Pop Records (2023-03-21)</li>
 </ul> <!-- Image -->
 <img src="https://cdn.sanity.io/images/svnaozq2/production/e3c9a0ec385e73bb2afbe6166bc27b2712926b69-1400x787.jpg?auto=format&fit=crop&w=1200&h=900" alt="Bully Band"/>

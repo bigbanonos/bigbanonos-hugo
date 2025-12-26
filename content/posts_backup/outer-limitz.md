@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "I Kontact" by Outer Limitz from *I Kontact*. This track brings a blend of experimental electronic vibes and avant-garde influences to the forefront.</p> <!-- Featured Image -->
 <div > <img src="https://media.pitchfork.com/photos/5929f509d7a71d1ea569b033/master/pass/e4e6cff3.jpg" alt="Outer Limitz - I Kontact" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/vsbDF3akRUY" title="I Kontact" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "vsbDF3akRUY" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"I Kontact"</em> is a striking electronic track from Outer Limitz's *I Kontact*, released under Hippos In Tanks. It delves into experimental electronic beats, paving the way for a unique auditory experience.</p>
 </div> <!-- Footer Links -->

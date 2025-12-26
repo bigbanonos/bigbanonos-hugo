@@ -3,7 +3,7 @@ title: "kropotkins"
 layout: post
 ---
 #1990s <br />
-<iframe width="95%" height="315" src="https://www.youtube.com/embed/4k-ZnOQ5YMs?list=PLtuNtuTatqI2GrQ3LrtdNA9IjBPQZbc2O" frameborder="0" allowfullscreen></iframe><br />
+{{< youtube "4k-ZnOQ5YMs" >}}<br />
 Truck Stop Girls 1998
 
 <!--Subscribe and Playlist Links-->

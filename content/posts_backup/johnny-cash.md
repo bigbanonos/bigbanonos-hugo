@@ -6,7 +6,7 @@ layout: post
 </div> <p>Johnny Cash remains a towering figure in American music, blending country, rock, and folk in a way that has inspired generations. Here are <em>BigBanonos'</em> favorite tracks from the Man in Black.</p> <h3>Selected Tracks</h3>
 <ol> <li><strong>Ring of Fire</strong> â€“ <em>This Is The Sound Of...Johnny Cash</em> (1963)</li> <li><strong>Folsom Prison Blues</strong> â€“ <em>Johnny Cash With His Hot and Blue Guitar</em> (1955)</li> <li><strong>Tennessee Stud (Live)</strong> â€“ <em>Jackie Brown (Music from the Miramax Motion Picture)</em> (1997)</li> <li><strong>All I Do Is Drive</strong> â€“ <em>Ragged Old Flag</em> (1974)</li>
 </ol> <p>Stream Johnny Cashâ€™s playlist:</p>
-<iframe src="https://open.spotify.com/embed/playlist/5l2utwWgnNRlewwSR9Zbwp?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> <h3>Tags</h3>
+{{< youtube "embed" >}} <h3>Tags</h3>
 <p>@johnnycash</p> <p>Explore more music on <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos' YouTube channel</a> and follow us on <a href="https://twitter.com/BigBanonos" target="_blank">Twitter</a>!</p> <hr />
 <p><em>First posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
 

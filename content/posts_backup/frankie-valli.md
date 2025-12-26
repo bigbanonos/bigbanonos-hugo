@@ -7,7 +7,7 @@ layout: post
 <p >Frankie Valli and The Four Seasons delivered unforgettable pop classics with soulful vocals and infectious melodies. Explore BigBanonos' favorite tracks below!</p> <!--Featured Image-->
 <div > <img alt="Frankie Valli - BigBanonos Favorite Songs" src="https://i.scdn.co/image/ab67616d0000b273b96c21e15c091eb98a6c88a4" />
 </div> <!--Spotify Embed-->
-<div > <iframe allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" allowfullscreen="" frameborder="0" height="352" loading="lazy" src="https://open.spotify.com/embed/playlist/2rye8A0hcuyYIvfSlX3T3c?utm_source=generator" width="100%"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!--Song Information-->
 <div > <p><em>"Grease"</em>, the iconic title track from the hit movie, shows off Frankie Valli's timeless energy. Released January 14, 2003, on <strong>Rhino</strong>.</p> <p><em>"Sherry"</em> captures the essence of early pop music with irresistible harmonies. From the compilation album <strong>The Very Best of Frankie Valli & The 4 Seasons</strong>.</p> <p><em>"Big Girls Don't Cry"</em> is a fun and catchy anthem that still stands the test of time. From the album <strong>The Very Best of Frankie Valli & The 4 Seasons</strong>.</p> <p><em>"Walk Like a Man"</em> delivers an upbeat tempo and iconic vocals that defined an era. From the album <strong>The Very Best of Frankie Valli & The 4 Seasons</strong>.</p> <p><em>"December, 1963 (Oh What a Night!)"</em> remains a pop classic beloved by generations. From the album <strong>The Very Best of Frankie Valli & The 4 Seasons</strong>.</p>
 </div> <!--Footer Links-->

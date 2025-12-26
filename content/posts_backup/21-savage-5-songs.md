@@ -3,7 +3,7 @@ title: "21 savage 5 songs"
 layout: post
 ---
 Updated January 10, 2024 with "just like me" featuring Burna Boy & Metro Boomin
-<iframe src="https://open.spotify.com/embed/playlist/6voPkDCOFt3pdI50BTBxYa?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> <iframe frameborder="0" height="360" src="https://youtube.com/embed/yqr5m5-E8Ps?list=PLtuNtuTatqI342UZmo7vpbptbHrCORVSa" width="480"></iframe><h2><ol><li>(ft. Burna Boy & Metro Boomin') just like me [2024]</li><li>Betrayed [2021]</li><li>Spiral [2021]</li><li>(ft. Metro Boomin') Steppin' On N***z [2020]</li><li>(ft. Offset, Metro Boomin') Disrespectful [2017]</li><li>(ft. Metro Boomin') No Heart [2016]</li></ol></h2>
+{{< youtube "embed" >}} {{< youtube "yqr5m5-E8Ps" >}}<h2><ol><li>(ft. Burna Boy & Metro Boomin') just like me [2024]</li><li>Betrayed [2021]</li><li>Spiral [2021]</li><li>(ft. Metro Boomin') Steppin' On N***z [2020]</li><li>(ft. Offset, Metro Boomin') Disrespectful [2017]</li><li>(ft. Metro Boomin') No Heart [2016]</li></ol></h2>
 
 <!--Subscribe and Playlist Links-->
 <div>

@@ -7,7 +7,7 @@ layout: post
 <p >Updated June 21, 2019, with "Panini" from <em>7 EP</em>. Enjoy the genre-defying sounds of Lil Nas X in the playlist below!</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d00001e02c4f02424746f626740a108d2" alt="Lil Nas X" />
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/5Jay5xaRsa2eQro9Skh2s6?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <div > <p><strong>"Panini"</strong><br> Genre: Hip Hop<br> Album: <em>7 EP</em><br> Release Date: June 21, 2019<br> Label: Columbia</p> <p><strong>"Old Town Road"</strong><br> Genre: Hip Hop<br> Album: <em>Old Town Road</em><br> Release Date: March 14, 2019<br> Label: Columbia</p>
 </div> <!-- Footer Links -->

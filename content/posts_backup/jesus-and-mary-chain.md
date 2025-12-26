@@ -7,7 +7,7 @@ layout: post
 <p >Updated August 23, 1994, with "Sometimes Always" from <em>Stoned and Dethroned</em>. Dive into the moody alternative rock of Jesus and Mary Chain in the playlist below!</p> <!-- Featured Image -->
 <div > <img src="https://m.media-amazon.com/images/M/MV5BNjM4N2I2YjctNmFiOS00MmJkLTlmMjItZWMyMWEwNmZmNjAyXkEyXkFqcGc@._V1_.jpg" alt="Jesus and Mary Chain" />
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/0da7u4idpwBQGDHxzYMcCQ?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <div > <p><strong>"Sometimes Always"</strong><br> Genre: Rock, Pop, Folk/Acoustic<br> Album: <em>Stoned and Dethroned</em><br> Release Date: August 23, 1994<br> Label: Rhino/Warner Records</p> <p><strong>"About You"</strong><br> Genre: Rock, Pop, Folk/Acoustic<br> Album: <em>Darklands (Expanded Version)</em><br> Release Date: August 31, 1987<br> Label: Rhino</p>
 </div> <!-- Footer Links -->

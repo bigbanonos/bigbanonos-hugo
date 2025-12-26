@@ -7,7 +7,7 @@ layout: post
 <p >Updated November 17, 2014, with "Find Yourself" by Lukas Nelson and Promise of the Real. This soulful track from the album <em>Sampler</em> combines modern blues, roots rock, and new Americana to create an uplifting anthem.</p> <!-- Featured Image -->
 <div > <img src="https://somuchgreatmusic.com/wp-content/uploads/2018/11/img_58342.jpg" alt="Lukas Nelson and Promise of the Real - Find Yourself" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/dK4pHHLfXpk" title="Lukas Nelson & Promise of the Real - Find Yourself (Music Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "dK4pHHLfXpk" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Find Yourself"</em> by Lukas Nelson and Promise of the Real is a powerful blend of blues, rock, and Americana. With its heartfelt lyrics and passionate delivery, this track embodies the spirit of modern roots music and is a must-listen for fans of soulful storytelling.</p>
 </div> <!-- Footer Links -->

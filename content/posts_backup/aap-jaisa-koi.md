@@ -7,7 +7,7 @@ layout: post
 <p >Updated December 24, 1980, with "Aap Jaisa Koi" from the Bollywood classic *Quarbani*. This iconic disco-infused track, sung by Nazia Hassan, remains a timeless hit that defined an era. Watch the video below!</p> <!-- Featured Image -->
 <div > <img src="https://i.ytimg.com/vi/1jf5kuvScJc/maxresdefault.jpg" alt="Aap Jaisa Koi - Quarbani" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="560" height="315" src="https://www.youtube.com/embed/SMTEuX46XTc" frameborder="0" allowfullscreen></iframe>
+<div > {{< youtube "SMTEuX46XTc" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Aap Jaisa Koi"</em>, from the soundtrack of the 1980 film *Quarbani*, features the mesmerizing voice of Nazia Hassan. Produced by Biddu, this track blends disco and Bollywood elements, making it a perennial favorite across generations.</p>
 </div> <!-- Footer Links -->

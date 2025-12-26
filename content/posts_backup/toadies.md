@@ -5,11 +5,11 @@ layout: post
 <div class="post-title"> <h1>BigBanonos' Favorite Songs by Toadies</h1>
 </div>
 <p>Updated January 1, 1994, with "Mister Love" from the album <i>Rubberneck</i>, highlighted in the playlist below:</p>
-<div class="post-image"> <img src="https://resources.tidal.com/images/e712d1e1/5582/4183/a9c1/83e0aa4ac3cf/750x750.jpg" alt="Toadies Album Cover">
+<div class="post-image"> {{< img-lite src="https://resources.tidal.com/images/e712d1e1/5582/4183/a9c1/83e0aa4ac3cf/750x750.jpg" alt="Toadies Album Cover" >}}
 </div>
 <p>Toadies' gritty alternative rock and post-grunge sound left an indelible mark on the 1990s. Their breakout tracks "Mister Love" and "Possum Kingdom," from the iconic album <i>Rubberneck</i>, showcase their dynamic energy and haunting melodies. Released on January 1, 1994, these songs remain fan favorites.</p>
 <p>Listen to the playlist below to experience these tracks and more:</p>
-<div class="spotify-embed"> <iframe src="https://open.spotify.com/embed/playlist/5RsZQXEh4N7VBAyGRSxFNy?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div class="spotify-embed"> {{< youtube "embed" >}}
 </div>
 <p>Tracks featured:</p>
 <ul> <li>"Mister Love" â€“ <i>Rubberneck</i> (January 1, 1994, Interscope)</li> <li>"Possum Kingdom" â€“ <i>Rubberneck</i> (January 1, 1994, Interscope)</li>

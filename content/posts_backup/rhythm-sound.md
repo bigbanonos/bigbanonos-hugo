@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "King in My Empire" by Rhythm & Sound, from the album *With the Artists*, released in 2003 by Burial Mix.</p> <!-- Featured Image -->
 <div > <img src="https://geo-media.beatport.com/image_size/590x405/40c9d426-8d7d-4b9f-97d7-d62474fa04e6.jpg" alt="Rhythm & Sound - King in My Empire" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="514" src="https://www.youtube.com/embed/Damfih85wW8" title="Rhythm & Sound - King In My Empire + King Version" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "Damfih85wW8" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"King in My Empire"</em> by Rhythm & Sound is a track from the album *With the Artists*, released in 2003. The song merges ambient dub, dub techno, and microhouse, creating a textured soundscape that represents the deep bass and rhythmic intricacies of the genre.</p>
 </div> <!-- Footer Links -->

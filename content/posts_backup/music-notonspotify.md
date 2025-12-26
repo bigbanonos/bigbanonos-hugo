@@ -11,7 +11,7 @@ Find music by your favorite band and artist, and discovery rarities, live tracks
 See an artist or band you'd like promoted? So far 384 record labels, promoters, and music-lovers across all genres have submitted over 2,000 missing songs. Enter to supplement your next house party<br />
 <hr>
 <h2>Check Out The #NotOnSpotify YouTube Playlist</h2>
-<iframe allow="autoplay; encrypted-media" allowfullscreen="" frameborder="0" height="500px" src="https://www.youtube.com/embed/videoseries?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" width="100%"></iframe> <h6>
+{{< youtube "videoseries" >}} <h6>
 NotSpot.FYI continuously updates the database of songs absent from major music streaming services</h6>
 
 

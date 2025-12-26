@@ -7,7 +7,7 @@ layout: post
 <p >Updated November 1, 2019, with "Do It Right" by Nakala. This track from the album <em>1MILLION Dance</em>, released under Majestic Casual Records, brings smooth UK contemporary R&B vibes with catchy melodies and powerful vocals.</p> <!-- Featured Image -->
 <div > <img src="https://cdn-d.smehost.net/sites/33342fef016449209469a86ecd55cb00/wp-content/uploads/2020/08/591746DF-9B95-4705-9240-97E660F0A3F6-683x1024.jpg" alt="Nakala - Do It Right" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/_B0c-NXnDQA" title="Nakala ~ Do It Right" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "_B0c-NXnDQA" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Do It Right"</em> by Nakala is a smooth UK contemporary R&B track from the album <em>1MILLION Dance</em>, showcasing Nakala's soulful vocals and catchy melodies that are sure to captivate any listener.</p>
 </div> <!-- Footer Links -->

@@ -4,9 +4,9 @@ layout: post
 ---
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Bo Diddley</h1> <!-- Featured Image -->
-<div > <img src="https://i.scdn.co/image/ab67616d0000b273dcd1d02a2b91f0842ad105ed" alt="Bo Diddley">
+<div > {{< img-lite src="https://i.scdn.co/image/ab67616d0000b273dcd1d02a2b91f0842ad105ed" alt="Bo Diddley" >}}
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/5129tubZhS07HTAEA2JQiu?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Introductory Text -->
 <p >Bo Diddley's music laid the groundwork for rock and roll, blending electric blues with irresistible rhythm. Here are BigBanonos' top tracks by this influential pioneer.</p> <!-- Song Highlights -->
 <div > <p>BigBanonos' standout picks:</p> <ol> <li><strong>Crackin' Up</strong> | <em>Bo Diddley - Jukebox Hero</em> | Released: November 21, 2014 | U-5</li> <li><strong>Bring It To Jerome</strong> | <em>Bo Diddley</em> | Released: January 1, 1958 | Geffen</li> </ol>

@@ -2,7 +2,7 @@
 title: "maluma 1 song"
 layout: post
 ---
-<iframe frameborder="0" height="270" src="https://www.youtube.com/embed/91vECNhvmMY" width="480"></iframe><h2><ol><li>(ft. The Weeknd) HawÃƒÆ’Ã‚Â¡i Remix [2020]</li></ol></h2>
+{{< youtube "91vECNhvmMY" >}}<h2><ol><li>(ft. The Weeknd) HawÃƒÆ’Ã‚Â¡i Remix [2020]</li></ol></h2>
 
 <!--Subscribe and Playlist Links-->
 <div>

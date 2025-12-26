@@ -7,7 +7,7 @@ layout: post
 <p >Updated with *See Saw* by The Moonglows, one of the most iconic tracks in the history of rhythm and blues. Released as part of *20th Century Masters: The Millennium Collection*, this 1956 hit is a quintessential example of the doo-wop and R&B era that continues to inspire music today. Take a step back in time and enjoy this classic.</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d0000b273ffe738106c3e110323d8b240" alt="The Moonglows - See Saw" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="514" src="https://www.youtube.com/embed/sKYq1iY952A" title="1956 HITS ARCHIVE: See Saw - Moonglows" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "sKYq1iY952A" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"See Saw"</em> by The Moonglows is a perfect example of classic rhythm and blues with a soulful, doo-wop influence. Released in 1956, this song continues to be an important part of the foundation for the genre's evolution, and it remains a timeless favorite.</p>
 </div> <!-- Footer Links -->

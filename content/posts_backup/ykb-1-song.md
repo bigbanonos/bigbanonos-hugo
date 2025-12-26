@@ -2,7 +2,7 @@
 title: "ykb 1 song"
 layout: post
 ---
-<iframe frameborder="0" height="270" src="https://youtube.com/embed/VZ7LMElslAo" width="480"></iframe><h2><ol><li>(ft. s3nami) OSHOFREE [2021]</li></ol></h2>
+{{< youtube "VZ7LMElslAo" >}}<h2><ol><li>(ft. s3nami) OSHOFREE [2021]</li></ol></h2>
 
 <!--Subscribe and Playlist Links-->
 <div>

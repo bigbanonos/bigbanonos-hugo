@@ -5,12 +5,12 @@ layout: post
 <!-- Post Title -->
 <h1>BigBanonos Favorite Songs by Wise Blood</h1> <!-- Introductory Text -->
 <p>Updated November 27, 2024, with "Solo (4 Claire)" from *Odds & Ends: 2010 - 2019*, highlighted in the playlist below:</p> <!-- Featured Image -->
-<img src="https://i.ytimg.com/vi/-Fv9iZXWJWA/sddefault.jpg" alt="Wise Blood Featured Image"> <!-- Spotify Playlist Embed -->
-<iframe src="https://open.spotify.com/embed/playlist/6SuWIAipWrKHTS5eQurrC8?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> <!-- Song Information -->
+{{< img-lite src="https://i.ytimg.com/vi/-Fv9iZXWJWA/sddefault.jpg" alt="Wise Blood Featured Image" >}} <!-- Spotify Playlist Embed -->
+{{< youtube "embed" >}} <!-- Song Information -->
 <ul> <li>"Solo (4 Claire)" from *Odds & Ends: 2010 - 2019* (January 1, 2019) - Cretin's Club</li> <li>"Alarm" from *ID* (June 25, 2013) - Dovecote</li> <li>"Target" from *ID* (June 25, 2013) - Dovecote</li> <li>"The Lion" from *These Wings* (August 30, 2011) - Dovecote Records</li>
 </ul> <!-- YouTube Video Embed -->
 <h2>Watch Wise Blood on YouTube</h2>
-<iframe allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/_OXW9mdGTNQ?list=PLtuNtuTatqI3mEF83KbAeF8fW9oFzANLT" width="95%"></iframe> <!-- Footer Links -->
+{{< youtube "_OXW9mdGTNQ" >}} <!-- Footer Links -->
 <p>For more updates and playlists, visit <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Connect with us on <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p>
 
 

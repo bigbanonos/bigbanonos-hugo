@@ -7,7 +7,7 @@ layout: post
 <p >Updated December 7, 2012, with "Pull Me Down (Ryan Hemsworth Remix)" by Mikky Ekko and Ryan Hemsworth. This remix, released under RCA Records, reimagines the Nashville indie original with a dreamy, electronic twist that elevates the track's emotive depth.</p> <!-- Featured Image -->
 <div > <img src="https://lh3.googleusercontent.com/DV9S7-ljZtqzT-4EyMG8t8SvpyQJZSTjCJFVyb2fPZ1gOOPWrpSwTSQxe-cBXo-YY_2f2PRdS1TbwQ=w544-h544-p-l90-rj" alt="Mikky Ekko & Ryan Hemsworth - Pull Me Down (Ryan Hemsworth Remix)" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/hxdyWUOp2rE" title="Pull Me Down (Ryan Hemsworth Remix)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "hxdyWUOp2rE" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Pull Me Down (Ryan Hemsworth Remix)"</em> by Mikky Ekko and Ryan Hemsworth is a lush rework that blends introspective lyrics with ethereal production. Hemsworth's remix infuses the original track with atmospheric beats and subtle electronic textures, creating a unique listening experience that captures both artists' creative visions.</p>
 </div> <!-- Footer Links -->

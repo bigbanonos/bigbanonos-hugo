@@ -2,7 +2,7 @@
 title: "otto 1 song"
 layout: post
 ---
-<iframe allowfullscreen="" frameborder="0" height="270" src="https://www.youtube.com/embed/Lpry6mXisAI" width="480"></iframe><br /><br /><h2><ol><li>
+{{< youtube "Lpry6mXisAI" >}}<br /><br /><h2><ol><li>
 Dairy Adventure [2020]</li></ol></h2>
 
 <!--Subscribe and Playlist Links-->

@@ -7,7 +7,7 @@ layout: post
 <p >Updated April 20, 2010, with "My Money (Ha Ha)" by Merital. This dancehall hit, featured on the <em>GO-GO CLUB RIDDIM</em> and released under Head Concussion Records, exemplifies the vibrant and infectious energy of riddim music.</p> <!-- Featured Image -->
 <div > <img src="https://images.genius.com/d7772ef432bbff44a195f87b08f377e9.480x360x1.jpg" alt="Merital - My Money (Ha Ha)" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/5k77fNZfXy0" title="MERITAL FAMILY & VYBZ KARTEL - MY MONEY [HA HA]" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "5k77fNZfXy0" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"My Money (Ha Ha)"</em> by Merital is a high-energy dancehall track that brings the iconic riddim sound to life. With its catchy beat and clever lyrics, this song remains a party favorite and a staple of the genre.</p>
 </div> <!-- Footer Links -->

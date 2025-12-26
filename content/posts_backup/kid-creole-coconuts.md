@@ -3,7 +3,7 @@ title: "kid creole coconuts"
 layout: post
 ---
 <div class="separator" ><a href="https://upload.wikimedia.org/wikipedia/commons/f/f6/Kid_Creole51.JPG" imageanchor="1"><img border="0" data-original-height="1402" data-original-width="2048" height="219" src="https://upload.wikimedia.org/wikipedia/commons/f/f6/Kid_Creole51.JPG" width="320" /></a></div><div class="separator" ><br /></div>
-<iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/videoseries?list=PLtuNtuTatqI2GPhJkNJTsP9u0jyDFP614" width="560"></iframe> <h3>
+{{< youtube "videoseries" >}} <h3>
 <ol>
 <li>My Male Curiosities [1984]</li>
 <li>

@@ -3,8 +3,8 @@ title: "laura mvula 2 songs"
 layout: post
 ---
 <h1>Laura Mvula - 2 Songs</h1>
-<img src="https://static.independent.co.uk/2021/06/24/12/Laura%20Mvula_Press6_019_f2.jpg" alt="Laura Mvula Press Photo"> <p>BigBanonos two favorite songs by Laura Mvula, known for her unique blend of afrofuturism, British soul, and neo-soul, has released some remarkable tracks that showcase her powerful voice and innovative sound. Here are two standout songs:</p> <ol> <li><strong>Got Me</strong> | Released: May 12, 2021</li> <li><strong>What Matters (feat. Simon Neil)</strong> | Released: June 17, 2021</li>
-</ol> <div> <iframe src="https://open.spotify.com/embed/playlist/0VmOSbZ6yjBHzVJLjfhtaS?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+{{< img-lite src="https://static.independent.co.uk/2021/06/24/12/Laura%20Mvula_Press6_019_f2.jpg" alt="Laura Mvula Press Photo" >}} <p>BigBanonos two favorite songs by Laura Mvula, known for her unique blend of afrofuturism, British soul, and neo-soul, has released some remarkable tracks that showcase her powerful voice and innovative sound. Here are two standout songs:</p> <ol> <li><strong>Got Me</strong> | Released: May 12, 2021</li> <li><strong>What Matters (feat. Simon Neil)</strong> | Released: June 17, 2021</li>
+</ol> <div> {{< youtube "embed" >}}
 </div> <p>Immerse yourself in Laura Mvula's enchanting sound, filled with soulful rhythms and rich, layered vocals.</p> <!-- Tags -->
 <p>@lauramvula,@simonneil</p>
 

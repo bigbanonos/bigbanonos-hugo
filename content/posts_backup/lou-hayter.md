@@ -7,7 +7,7 @@ layout: post
 <p >Updated October 18, 2018, with "Cherry on Top" by Lou Hayter. This sleek and stylish track from the album <em>Cherry on Top</em>, released under New Sins, highlights the charm of UK alternative pop with its irresistible melodies.</p> <!-- Featured Image -->
 <div > <img src="https://payload.cargocollective.com/1/14/470129/7050402/LouHayterPressShots-15_1600_c.jpg" alt="Lou Hayter - Cherry on Top" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/KZMhuxvM228" title="Lou Hayter - Cherry On Top (Official Audio)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "KZMhuxvM228" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Cherry on Top"</em> by Lou Hayter is a captivating UK alternative pop track that blends sophisticated production with Hayter's mesmerizing vocals. Its catchy rhythm and polished sound make it an unforgettable addition to any playlist.</p>
 </div> <!-- Footer Links -->

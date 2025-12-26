@@ -7,7 +7,7 @@ layout: post
 <p >Updated February 24, 2015, with "Thunk" by Diamond Rugs. This track, featured on the album *Cosmetics* by Sycamore Records, showcases a bold blend of garage rock revival and Rhode Island indie flair.</p> <!-- Featured Image -->
 <div > <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH26c89_1LdapYcgTqWM5_jifwChwHm3OCnw&s" alt="Diamond Rugs - Thunk" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/xSmWkxYzawQ" title="Thunk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "xSmWkxYzawQ" >}}
 </div> <!-- Song Information -->
 <div > <p>"Thunk" captures the raw energy and unfiltered emotion of garage rock revival while layering in unique indie elements characteristic of Diamond Rugs' signature sound.</p>
 </div> <!-- Footer Links -->

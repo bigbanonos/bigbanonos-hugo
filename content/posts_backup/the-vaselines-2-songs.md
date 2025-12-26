@@ -3,11 +3,11 @@ title: "the vaselines 2 songs"
 layout: post
 ---
 <h1>BigBanonos Favorite Songs by The Vaselines</h1>
-<img src="https://m.media-amazon.com/images/I/71i6TDqN-0L._UF1000,1000_QL80_.jpg" alt="The Vaselines"> <p>The Vaselines are a legendary band in the alternative rock scene, known for their raw, lo-fi sound and influence on the riot grrrl and indie movements. Here are BigBanonos' favorite tracks from The Vaselines:</p> <ol> <li><strong>Molly's Lips</strong> | <em>Enter The Vaselines (Deluxe Edition)</em> | Released: 2009-05-05 | Sub Pop</li> <li><strong>Jesus Wants Me For A Sunbeam</strong> | <em>Enter The Vaselines (Deluxe Edition)</em> | Released: 2009-05-05 | Sub Pop</li>
-</ol> <div> <iframe src="https://open.spotify.com/embed/playlist/5zCceQce1PZKPjSXmrBojY?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+{{< img-lite src="https://m.media-amazon.com/images/I/71i6TDqN-0L._UF1000,1000_QL80_.jpg" alt="The Vaselines" >}} <p>The Vaselines are a legendary band in the alternative rock scene, known for their raw, lo-fi sound and influence on the riot grrrl and indie movements. Here are BigBanonos' favorite tracks from The Vaselines:</p> <ol> <li><strong>Molly's Lips</strong> | <em>Enter The Vaselines (Deluxe Edition)</em> | Released: 2009-05-05 | Sub Pop</li> <li><strong>Jesus Wants Me For A Sunbeam</strong> | <em>Enter The Vaselines (Deluxe Edition)</em> | Released: 2009-05-05 | Sub Pop</li>
+</ol> <div> {{< youtube "embed" >}}
 </div>
 <h4>Jesus Don't Want Me For a Sunbeam and Molly's Lips from 1988</h4>
-<iframe width="95%" height="315" src="https://www.youtube.com/embed/RcLM_gqLlYc?list=PLtuNtuTatqI2jxDQ2QBBHOUwUJbUk9Gap" frameborder="0" allowfullscreen></iframe>
+{{< youtube "RcLM_gqLlYc" >}}
 <p><em>First posted by BigBanonos - <a href="https://bigbanonos.blogspot.com/">https://bigbanonos.blogspot.com/</a></em></p>
 <p><em>Last updated November 15, 2024</em></p>
 <p>Follow BigBanonos on <a href="https://www.youtube.com/@BigBanonos">YouTube</a> and <a href="https://x.com/bigbanonos">Twitter</a> for more music content.</p>

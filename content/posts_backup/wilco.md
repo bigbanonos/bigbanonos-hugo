@@ -6,11 +6,11 @@ layout: post
 <div class="separator"> <a href="https://www.streetroots.org/sites/default/files/styles/open_graph_image/public/SR_Wilco.jpg?itok=LAxRrHoW" > <img alt="Wilco" border="0" width="320" data-original-height="320" data-original-width="480" src="https://www.streetroots.org/sites/default/files/styles/open_graph_image/public/SR_Wilco.jpg?itok=LAxRrHoW"/> </a>
 </div>
 <p>Wilco has consistently delivered unforgettable tracks, blending alternative rock, indie, and folk elements. Here's BigBanonos' top picks, including some rare finds that are <strong>#NotOnSpotify</strong>:</p> <ol> <!-- Newly Added Tracks --> <li><strong>Handshake Drugs</strong> | <em>A Ghost Is Born</em> | Released: 2004-06-22 | Nonesuch</li> <li><strong>I'm A Wheel</strong> | <em>A Ghost Is Born</em> | Released: 2004-06-22 | Nonesuch</li> <li><strong>Theologians</strong> | <em>A Ghost Is Born</em> | Released: 2004-06-22 | Nonesuch</li> <li><strong>Jesus, Etc.</strong> | <em>Yankee Hotel Foxtrot</em> | Released: 2002-04-16 | Nonesuch</li> <li><strong>Heavy Metal Drummer</strong> | <em>Yankee Hotel Foxtrot</em> | Released: 2002-04-16 | Nonesuch</li> <li><strong>Outtasite (Outta Mind)</strong> | <em>Being There</em> | Released: 1996-10-29 | Rhino</li> <li><strong>Candyfloss</strong> | <em>Summerteeth</em> | Released: 1999-03-08 | Nonesuch</li> <li><strong>Nothing Up My Sleeve</strong> | <em>Summerteeth</em> | Released: 1999-03-08 | Nonesuch</li>
-</ol> <div> <iframe src="https://open.spotify.com/embed/playlist/6CbN7DQcrCsmW6tLck55Ll?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</ol> <div> {{< youtube "embed" >}}
 </div> <hr>
 <h2>#NotOnSpotify</h2>
 <p>BigBanonos specializes in highlighting tracks that are not available on Spotify. Check out this rare gem:</p>
-<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" frameborder="0" height="315" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/502WPvOG1Ho?si=W0-BBiw36IPP2RQw" title="YouTube video player" width="560"></iframe> <p>Explore more from Wilco and other artists at <a href="https://bigbanonos.blogspot.com/">BigBanonos</a>.</p>
+{{< youtube "502WPvOG1Ho" >}} <p>Explore more from Wilco and other artists at <a href="https://bigbanonos.blogspot.com/">BigBanonos</a>.</p>
 <p>Tags: @wilco</p>
 
 

@@ -7,7 +7,7 @@ layout: post
 <p >Updated October 29, 1996, with "Flowers In December" from <em>Among My Swan</em>. Drift into the dreamy sounds of Mazzy Star in the playlist below!</p> <!-- Featured Image -->
 <div > <img src="https://readersrecommend.wordpress.com/wp-content/uploads/2022/04/mazzy-star.jpg" alt="Mazzy Star" />
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/451Smbp4hL294mRztXvp7S?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <div > <p><strong>"Flowers In December"</strong><br> Genre: Pop, Folk/Acoustic, Rock<br> Album: <em>Among My Swan</em><br> Release Date: October 29, 1996<br> Label: Capitol Records</p> <p><strong>"Fade Into You"</strong><br> Genre: Pop, Folk/Acoustic, Rock<br> Album: <em>So Tonight That I Might See</em><br> Release Date: October 5, 1993<br> Label: Capitol Records</p>
 </div> <!-- Footer Links -->

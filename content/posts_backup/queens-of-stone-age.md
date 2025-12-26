@@ -4,7 +4,7 @@ layout: post
 ---
 <h1>BigBanonos Top Songs by Queens of the Stone Age</h1>
 <img alt="Queens of the Stone Age" src="https://www.udiscovermusic.com/wp-content/uploads/2020/10/Queens-of-the-Stone-Age-GettyImages-85357365.jpg" /> <p>Queens of the Stone Age is a powerhouse of alternative rock and stoner rock, delivering anthems that balance grit and melody. Here are BigBanonos' favorite tracks from their groundbreaking discography:</p> <ol> <li><strong>No One Knows</strong> | <em>Songs For The Deaf</em> | Released: 2002 | Interscope</li> <li><strong>Suture Up Your Future</strong> | <em>Era Vulgaris</em> | Released: January 1, 2007 | Interscope</li> <li><strong>Little Sister</strong> | <em>Lullabies To Paralyze</em> | Released: January 1, 2005 | Interscope</li>
-</ol> <div> <iframe src="https://open.spotify.com/embed/playlist/5e1KwM2zZ2ufwWTnaBetr3?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+</ol> <div> {{< youtube "embed" >}}
 </div> <p>first posted by <a href="https://bigbanonos.blogspot.com/">https://bigbanonos.blogspot.com/</a></p> <div> <p>Explore more BigBanonos content: <a href="https://bigbanonos.blogspot.com/">Website</a> | <a href="https://www.youtube.com/@BigBanonos">YouTube</a> | <a href="https://x.com/bigbanonos">Twitter</a></p>
 </div> <!--Tags-->
 <p>@queensofthestoneage</p>

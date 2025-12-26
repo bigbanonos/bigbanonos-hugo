@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Don't Ring Me Up" by Protex, from the album *Strange Obsessions*, released on August 17, 2010, by Rob's House Records.</p> <!-- Featured Image -->
 <div > <img src="https://i.discogs.com/fiyc532wE5MsLWyRjJvbe7xrnoyVyINZR-AzCPoHrq8/rs:fit/g:sm/q:40/h:300/w:300/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNTc0/MjAtMTIxNjk5OTk4/NC5qcGVn.jpeg" alt="Protex - Don't Ring Me Up" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/VlJtEc-v00w" title="Protex - Don't Ring Me Up" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "VlJtEc-v00w" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Don't Ring Me Up"</em> by Protex is a quintessential punk rock anthem with a raw garage punk edge, featured on their album *Strange Obsessions* released by Rob's House Records in 2010. The track represents the heart of Northern Irish punk.</p>
 </div> <!-- Footer Links -->

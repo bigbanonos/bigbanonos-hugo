@@ -4,9 +4,9 @@ layout: post
 ---
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Chairlift</h1> <!-- Featured Image -->
-<div > <img src="https://i.scdn.co/image/ab6761610000e5eb5e840e15b98bab227b5289a6" alt="Chairlift">
+<div > {{< img-lite src="https://i.scdn.co/image/ab6761610000e5eb5e840e15b98bab227b5289a6" alt="Chairlift" >}}
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/3vbgmJzrCDRs91wpYtzJYE?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Introductory Text -->
 <p >Chairlift's ethereal blend of Brooklyn indie and neo-synthpop delivers unforgettable melodies. From the vibrant "Moth to the Flame" to the nostalgic "Bruises," here are BigBanonos' top picks.</p> <!-- Song Highlights -->
 <div > <p>BigBanonos' standout picks:</p> <ol> <li><strong>Moth to the Flame</strong> | <em>Moth</em> | Released: January 22, 2016 | Columbia</li> <li><strong>Bruises</strong> | <em>Does You Inspire You</em> | Released: 2008 | Kanine</li> </ol>

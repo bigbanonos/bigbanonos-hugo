@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Paddy's Green Shamrock Shore" by Paul Brady from *The Missing Liberty Tapes*. This evocative track blends Irish folk roots with the heartfelt style that Paul Brady is known for.</p> <!-- Featured Image -->
 <div > <img src="https://www.telegraph.co.uk/content/dam/music/2016/05/18/PaulBrady-rexfeatures_1233119b_trans_NvBQzQNjv4BqT-KdayS9is0vG61jNqkCNpEBwHCwsCsY3qppaZL7bcU.jpg?imwidth=680" alt="Paul Brady - Paddy's Green Shamrock Shore" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="514" src="https://www.youtube.com/embed/P2bTczkYv0U" title="Paddy's Green Shamrock Shore - Paul Brady" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "P2bTczkYv0U" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Paddy's Green Shamrock Shore"</em> by Paul Brady is a beautiful and evocative piece of Irish folk that combines deep storytelling with rich instrumentation.</p>
 </div> <!-- Footer Links -->

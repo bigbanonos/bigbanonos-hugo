@@ -2,7 +2,7 @@
 title: "matt champion 1 song"
 layout: post
 ---
-<iframe frameborder="0" height="270" src="https://youtube.com/embed/g3XYZJc7IhE?si=eJdoLV9IuWKCapSW" width="480"></iframe><div><br /></div><div>(ft. Dijon) Aphid [2024]</div><div><br /></div><div class="separator" ><a href="https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages126/v4/c1/65/f0/c165f073-9eff-4070-a38b-3ac82438e2fb/174b9180-77ea-4219-ad08-05d8d3ef4280_ami-identity-3eb281766854540dbdcb35e78ded38b6-2024-02-12T18-00-14.068Z_cropped.png/486x486bb.png" imageanchor="1"><img border="0" data-original-height="486" data-original-width="486" height="486" src="https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages126/v4/c1/65/f0/c165f073-9eff-4070-a38b-3ac82438e2fb/174b9180-77ea-4219-ad08-05d8d3ef4280_ami-identity-3eb281766854540dbdcb35e78ded38b6-2024-02-12T18-00-14.068Z_cropped.png/486x486bb.png" width="486" /></a></div><br /><div><br /></div>
+{{< youtube "g3XYZJc7IhE" >}}<div><br /></div><div>(ft. Dijon) Aphid [2024]</div><div><br /></div><div class="separator" ><a href="https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages126/v4/c1/65/f0/c165f073-9eff-4070-a38b-3ac82438e2fb/174b9180-77ea-4219-ad08-05d8d3ef4280_ami-identity-3eb281766854540dbdcb35e78ded38b6-2024-02-12T18-00-14.068Z_cropped.png/486x486bb.png" imageanchor="1"><img border="0" data-original-height="486" data-original-width="486" height="486" src="https://is1-ssl.mzstatic.com/image/thumb/AMCArtistImages126/v4/c1/65/f0/c165f073-9eff-4070-a38b-3ac82438e2fb/174b9180-77ea-4219-ad08-05d8d3ef4280_ami-identity-3eb281766854540dbdcb35e78ded38b6-2024-02-12T18-00-14.068Z_cropped.png/486x486bb.png" width="486" /></a></div><br /><div><br /></div>
 
 <!--Subscribe and Playlist Links-->
 <div>

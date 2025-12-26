@@ -2,7 +2,7 @@
 title: "little simz 1 song"
 layout: post
 ---
-<iframe frameborder="0" height="270" src="https://youtube.com/embed/zHGf6tmnLYE" width="480"></iframe><h2><ol><li>(ft. Cleo Sol) WomanÃƒâ€šÃ‚Â [2021]</li></ol></h2>
+{{< youtube "zHGf6tmnLYE" >}}<h2><ol><li>(ft. Cleo Sol) WomanÃƒâ€šÃ‚Â [2021]</li></ol></h2>
 
 <!--Subscribe and Playlist Links-->
 <div>

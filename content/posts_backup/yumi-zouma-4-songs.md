@@ -2,7 +2,7 @@
 title: "yumi zouma 4 songs"
 layout: post
 ---
-<iframe frameborder="0" height="360" src="https://youtube.com/embed/1ZcyWvpQUnQ?list=PLtuNtuTatqI0_8VmFQ1cSCSHl8eVLN_lV" width="480"></iframe><h2><ol><li>In The Eyes Of Our Love [2022]</li><li>In Camera [2019]</li><li>Crush (It's Late, Just Stay) [2019]</li><li>Powder Ble / Cascine Park [2018]</li></ol></h2>
+{{< youtube "1ZcyWvpQUnQ" >}}<h2><ol><li>In The Eyes Of Our Love [2022]</li><li>In Camera [2019]</li><li>Crush (It's Late, Just Stay) [2019]</li><li>Powder Ble / Cascine Park [2018]</li></ol></h2>
 
 <!--Subscribe and Playlist Links-->
 <div>

@@ -4,7 +4,7 @@ layout: post
 ---
 <h1>BigBanonos Top Songs by Sly & The Family Stone</h1>
 <img alt="Sly & The Family Stone" src="https://static01.nyt.com/images/2015/11/27/arts/27Robinson-Obit/27Robinson-Obit-superJumbo.jpg" /> <p>Sly & The Family Stone brought a mix of funk, soul, and psychedelic vibes. Here are BigBanonos' picks:</p> <ol> <li><strong>Dance To The Music</strong> | <em>Dance To The Music</em> | Released: 1968 | Epic Records</li> <li><strong>Everyday People</strong> | <em>Stand!</em> | Released: 1968 | Epic Records</li> <li><strong>Hot Fun In The Summertime</strong> | <em>Greatest Hits</em> | Released: 1969 | Epic Records</li> <li><strong>If You Want Me To Stay</strong> | <em>Fresh</em> | Released: 1973 | Epic Records</li>
-</ol> <div> <iframe allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" frameborder="0" height="352" loading="lazy" src="https://open.spotify.com/embed/playlist/7nqRFUkaugYHZtmdn8f0Jw?utm_source=generator" width="100%"></iframe>
+</ol> <div> {{< youtube "embed" >}}
 </div> <p>first posted by <a href="https://bigbanonos.blogspot.com/">https://bigbanonos.blogspot.com/</a></p> <div> <p>Explore more BigBanonos content: <a href="https://bigbanonos.blogspot.com/">Website</a> | <a href="https://www.youtube.com/@BigBanonos">YouTube</a> | <a href="https://x.com/bigbanonos">Twitter</a></p>
 </div> <!--Tags-->
 <p>Tags: @slyandthefamilystone</p>

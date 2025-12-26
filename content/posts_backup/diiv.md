@@ -7,7 +7,7 @@ layout: post
 <p >Updated October 4, 2019, with "Like Before You Were Born" by DIIV. This standout track from their album *Deceiver* (Captured Tracks) dives deep into Brooklyn indie's dream pop and shoegaze soundscapes.</p> <!-- Featured Image -->
 <div > <img src="https://ca-times.brightspotcdn.com/dims4/default/7718e08/2147483647/strip/true/crop/5843x3895+0+0/resize/1200x800!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Ff2%2Fe0%2F80ea71854014bf4f4e86fbc56253%2F1456532-et-diiv-portrait-jja-0007.jpg" alt="DIIV - Like Before You Were Born" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/gTyzo-_sEl4" title="Like Before You Were Born" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "gTyzo-_sEl4" >}}
 </div> <!-- Song Information -->
 <div > <p>Embodying the lush textures and hypnotic melodies of neo-psychedelic and modern dream pop, "Like Before You Were Born" solidifies DIIV's mastery in blending indie rock and shoegaze.</p>
 </div> <!-- Footer Links -->

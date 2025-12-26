@@ -7,7 +7,7 @@ layout: post
 <p >UpdatedJune 17, 2016, with "Cut Your Teeth" from <em>Cut Your Teeth</em>. Explore the shimmering soundscapes of Kyla La Grange in the playlist below!</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d00001e026a6e3c111f9c38cf6095b2a1" alt="Kyla La Grange" />
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/3hpQ7BhOr4SujblGfbNIAg?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <div > <p><strong>"Cut Your Teeth"</strong><br> Genre: Electronic, Pop<br> Album: <em>Cut Your Teeth</em><br> Release Date: June 2, 2014<br> Label: ioki records</p> <p><strong>"Hummingbird - OX2 Remix" (feat. OX2)</strong><br> Genre: Electronic, Pop<br> Album: <em>Hummingbird (OX2 Remix)</em><br> Release Date: June 17, 2016<br> Label: Kyla La Grange</p>
 </div> <!-- Footer Links -->

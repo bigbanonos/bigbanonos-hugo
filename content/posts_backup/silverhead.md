@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Hello New York" by Silverhead. This 1973 glam rock anthem captures the spirit of the city with an infectious energy. Watch the video below!</p> <!-- Featured Image -->
 <div > <img src="https://i.discogs.com/YVVQ-VKUzOrAD4LdTnw2Wn4JrMpVo5dOUd7gR_gpuxk/rs:fit/g:sm/q:90/h:600/w:594/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUyMTY2/MzctMTU1OTc3NjY5/My0zMzk5LmpwZWc.jpeg" alt="Silverhead - Hello New York" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="560" height="315" src="https://www.youtube.com/embed/UHsianfRleQ" frameborder="0" allowfullscreen></iframe>
+<div > {{< youtube "UHsianfRleQ" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Hello New York"</em> by Silverhead, from their 1973 album *16 and Savaged*, is a high-energy glam rock tribute to the city that never sleeps.</p>
 </div> <!-- Footer Links -->

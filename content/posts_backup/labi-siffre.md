@@ -7,7 +7,7 @@ layout: post
 <p >Updated January 17, 1972, with "Crying, Laughing, Loving, Lying" from <em>Crying, Laughing, Loving, Lying</em>. Immerse yourself in the soulful melodies of Labi Siffre in the playlist below!</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d00001e0298bbddd3530d78f09ec97cf6" alt="Labi Siffre" />
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/2Q6MhQIDmyOWlnoaUm2BW7?utm_source=generator" width="100%" height="352" frameborder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <div > <p><strong>"Crying, Laughing, Loving, Lying"</strong><br> Genre: Classic UK Pop<br> Album: <em>Crying, Laughing, Loving, Lying</em><br> Release Date: 1972<br> Label: Edsel</p> <p><strong>"Bless the Telephone"</strong><br> Genre: Classic UK Pop<br> Album: <em>The Singer & The Song</em><br> Release Date: 1971<br> Label: Edsel</p>
 </div> <!-- Footer Links -->

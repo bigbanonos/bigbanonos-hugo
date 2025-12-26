@@ -7,7 +7,7 @@ layout: post
 <p >Updated with *Rivers of Babylon*, a legendary reggae track from The Melodians. Released as part of *The Trojan UK Hits Collection* in 2009, this song is one of reggae's most iconic anthems. Known for its spiritual and soulful message, it has been a staple in the reggae genre for decades.</p> <!-- Featured Image -->
 <div > <img src="https://www.reggae-vibes.com/wp-content/uploads/2020/02/back.jpg" alt="The Melodians - Rivers of Babylon" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/BXf1j8Hz2bU" title="The Melodians - Rivers Of Babylon" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "BXf1j8Hz2bU" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Rivers of Babylon"</em> by The Melodians is a reggae classic that still resonates with listeners. With its deep spiritual themes and soulful delivery, this track captures the essence of reggae and its cultural significance in the music world.</p>
 </div> <!-- Footer Links -->

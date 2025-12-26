@@ -7,7 +7,7 @@ layout: post
 <p >Updated February 16, 2018, with BigBanonos' favorite song by American Pleasure Club, "this is heaven & id die for it," from the album *A Whole Fucking Lifetime of This*. Watch the video and see more details below:</p> <!-- Featured Image -->
 <div > <img src="https://f4.bcbits.com/img/a2156766988_5.jpg" alt="American Pleasure Club - this is heaven & id die for it" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="315" src="https://www.youtube.com/embed/r64TZRJrraU" title="American Pleasure Club - "this is heaven & id die for it" (Official Music Video)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "r64TZRJrraU" >}}
 </div> <!-- Song Information -->
 <div > <p>"this is heaven & id die for it" by American Pleasure Club (formerly Teen Suicide) is a hauntingly beautiful track blending lo-fi emo, slacker rock, and lo-fi indie vibes. Released on February 16, 2018, under Run For Cover Records, LLC, the song is a standout from their album *A Whole Fucking Lifetime of This*.</p>
 </div> <!-- Footer Links -->

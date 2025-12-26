@@ -7,7 +7,7 @@ layout: post
 <p >Origami Angel brings a fresh take to the emo scene with their unique blend of energy and introspection. Discover their top tracks below!</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab6761610000e5eb3dd60a357263b6392e0183e8" alt="Origami Angel" />
 </div> <!-- Spotify Playlist Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/7pIbcLFAfrGJMhCgR7vZgM?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Self-Destruct"</em> and <em>"Footloose Cannonball Brothers"</em> from *GAMI GANG* (2021) highlight their dynamic sound and lyrical depth.</p>
 </div> <!-- Footer Links -->

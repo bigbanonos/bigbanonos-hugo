@@ -2,7 +2,7 @@
 title: "alpen glow 1 song"
 layout: post
 ---
-<iframe allowfullscreen="" frameborder="0" height="270" src="https://www.youtube.com/embed/nWLmcYBzrNQ" width="480"></iframe><br /><br />
+{{< youtube "nWLmcYBzrNQ" >}}<br /><br />
 <h2><ol><li>Saturday Nite [2020]</li>
 </ol></h2>
 

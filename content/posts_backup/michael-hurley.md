@@ -7,7 +7,7 @@ layout: post
 <p >Updated January 17, 2025, with "Penguins" from <em>Armchair Boogie</em>. Dive into the world of drone folk and traditional melodies with Michael Hurley!</p> <!-- Featured Image -->
 <div > <img src="https://i.guim.co.uk/img/media/52463fdc9fb4f194d47d11116e79c74bbd895d5d/0_495_7360_4417/master/7360.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=2d8a20c93d2708b14ae974b564f7ff8f" alt="Michael Hurley" />
 </div> <!-- Spotify Embed -->
-<div > <iframe src="https://open.spotify.com/embed/playlist/3AvaouIBPq9WfOIy5pIcWw?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<div > {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <div > <p><strong>"Penguins"</strong><br> Genre: Folk/Acoustic<br> Album: <em>Armchair Boogie</em><br> Release Date: September 1, 1971<br> Label: Bellemeade Phonics</p> <p><strong>"The Tea Song"</strong><br> Genre: Folk/Acoustic<br> Album: <em>First Songs</em><br> Release Date: January 1, 1964<br> Label: Folkways Records</p> <p><strong>"Sweet Lucy"</strong><br> Genre: Folk/Acoustic<br> Album: <em>Have Moicy!</em><br> Release Date: January 1, 1976<br> Label: Rounder</p>
 </div> <!-- Footer Links -->

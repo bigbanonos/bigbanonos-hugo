@@ -7,7 +7,7 @@ layout: post
 <p >Updated September 18, 2015, with "Went Looking For Warren Zevon's Los Angeles" by Lucero. This evocative track from the album <em>All A Man Should Do</em>, released under ATO Records, blends alternative country and Memphis Americana to tell a deeply personal story.</p> <!-- Featured Image -->
 <div > <img src="https://vuhaus-production.imgix.net/store/e85fc9e1fc5f59234b05f51b757aa416963609f06b99b61397922fea09ee?ixlib=rb-1.1.0&w=960&h=540&rect=0%2C0%2C2560%2C1439&q=70&dpr=1&fm=jpg" alt="Lucero - Went Looking For Warren Zevon's Los Angeles" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/4j8d9ZKySPs" title="Lucero - Went Looking for Warren Zevon's Los Angeles (Official Audio)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "4j8d9ZKySPs" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Went Looking For Warren Zevon's Los Angeles"</em> by Lucero is a poignant narrative that captures the heart of alternative country and Memphis Americana. With its introspective lyrics and soulful instrumentation, this track from <em>All A Man Should Do</em> resonates with both fans and newcomers alike.</p>
 </div> <!-- Footer Links -->

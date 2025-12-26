@@ -7,7 +7,7 @@ layout: post
 <p >Updated with *Mother O'Jesus* by The Broken Family Band, a standout track from their 2004 album *Jesus Songs*. The song blends indie rock with poignant lyrics, capturing the band's unique style that oscillates between folk and rock influences. With its raw emotion and subtle narrative, *Mother O'Jesus* exemplifies the blend of warmth and irony that defines The Broken Family Band's sound.</p> <!-- Featured Image -->
 <div > <img src="https://pennyblackmusic.co.uk/images/Sleeves/SlvWebP400/11556.webp" alt="The Broken Family Band - Mother O'Jesus" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="617" src="https://www.youtube.com/embed/f4YX97WXPnk" title="Mother O'Jesus" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "f4YX97WXPnk" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Mother O'Jesus"</em> showcases The Broken Family Band's introspective lyrics and their ability to merge indie rock with folk sensibilities, creating a track thatâ€™s both reflective and engaging.</p>
 </div> <!-- Footer Links -->

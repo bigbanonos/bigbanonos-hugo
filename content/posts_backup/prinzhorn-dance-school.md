@@ -7,7 +7,7 @@ layout: post
 <p >Updated with "Clean" by Prinzhorn Dance School, a standout track from their 2015 album *Home Economics* on DFA Records. Check out the indie-rock vibe of this Brighton-based duo.</p> <!-- Featured Image -->
 <div > <img src="https://f4.bcbits.com/img/0005413755_25.jpg" alt="Prinzhorn Dance School Clean" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="100%" height="385" src="https://www.youtube.com/embed/mTbq2BNfpEk" title="Prinzhorn Dance School 'Clean' (Official Audio)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "mTbq2BNfpEk" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Clean"</em> by Prinzhorn Dance School brings an indie rock edge with a modern twist. From their 2015 *Home Economics* album, the track blends Brighton indie style with DFA Records' signature sound.</p>
 </div> <!-- Footer Links -->

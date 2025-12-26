@@ -2,7 +2,7 @@
 title: "king pari 1 song"
 layout: post
 ---
-<iframe frameborder="0" height="270" src="https://youtube.com/embed/OTfbr-m3xVw" width="480"></iframe><br /><h2><ol><li>(ft. Velvet Negroni) Mary [2021]</li></ol></h2>
+{{< youtube "OTfbr-m3xVw" >}}<br /><h2><ol><li>(ft. Velvet Negroni) Mary [2021]</li></ol></h2>
 
 <!--Subscribe and Playlist Links-->
 <div>

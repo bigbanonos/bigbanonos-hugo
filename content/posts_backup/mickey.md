@@ -7,7 +7,7 @@ layout: post
 <p >Updated September 28, 2010, with "I Am Your Trash" by Mickey. This raw and rebellious track from the album *She's So Crazy* perfectly captures the spirit of garage punk with its gritty energy and unapologetic attitude. Watch the video below!</p> <!-- Featured Image -->
 <div > <img src="https://i.discogs.com/7l8D-pwWLiLphSWmlKqjZ8nfXdC3CvRXlI2ac9pr38Q/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5OTIz/ODMtMTYyMzU4NjE3/NC04MDI0LmpwZWc.jpeg" alt="Mickey - I Am Your Trash" />
 </div> <!-- YouTube Video Embed -->
-<div > <iframe width="733" height="480" src="https://www.youtube.com/embed/Xa9xcb92-jI" title="Mickey - "I'm your trash"" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div > {{< youtube "Xa9xcb92-jI" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"I Am Your Trash"</em>, released on September 28, 2010, under Hozac Records, is a standout track from Mickey's album *She's So Crazy*. With its punk rock roots, unfiltered lyrics, and electrifying energy, this song captures the essence of unapologetic rebellion.</p>
 </div> <!-- Footer Links -->
