@@ -1,4 +1,4 @@
-baseURL = "https://bigbanonos.netlify.app/"
+﻿baseURL = "https://bigbanonos.netlify.app/"
 title = "BigBanonos"
 theme = "PaperMod"
 paginate = 20
@@ -29,3 +29,4 @@ enableRobotsTXT = true
   weight = 2
 
 description = 'BigBanonos: The best in Trap, Hip-Hop, and Chopped & Screwed playlists.'
+

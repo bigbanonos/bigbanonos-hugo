@@ -1,4 +1,4 @@
-baseURL = "https://bigbanonos.com/"
+﻿baseURL = "https://bigbanonos.com/"
 title = "BigBanonos"
 theme = "PaperMod"
 disableAliases = true
