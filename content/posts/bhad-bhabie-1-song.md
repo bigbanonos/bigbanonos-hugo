@@ -2,20 +2,17 @@
 title: "Bhad Bhabie"
 date: 2025-10-17T00:00:00
 draft: false
-original_title: "Bhad Bhabie – 4 Songs"
 tags:
   - '@bhadbhabie'
   - '@megantheestallion'
   - '@kodakblack'
   - '@lilyachty'
-artists:
-  - '@bhadbhabie'
 ---
 
 <img 
   loading="eager" 
   fetchpriority="high" 
-  src="https://thefader-res.cloudinary.com/private_images/w_640,c_limit,f_auto,q_auto:eco/pjimage-12_sga1k8/bhad-bhabie-megan-thee-stallion-bestie-review-stream.jpg" 
+  src="https://thefader-res.cloudinary.com/private_images/w_640,c_limit,f_auto,q_auto:best/pjimage-12_sga1k8/bhad-bhabie-megan-thee-stallion-bestie-remix-video.jpg" 
   alt="Bhad Bhabie" 
   width="640" 
   height="360" 
@@ -24,7 +21,7 @@ artists:
 
 ## BigBanonos’ Favorite 4 Songs by Bhad Bhabie
 
-Updated October 17, 2025 with Bhad Bhabie’s latest single **“Honest”** and 2025 standout **“Ms. Whitman”**, plus two earlier breakout records.
+Updated October 17, 2025 with Bhad Bhabie’s latest single **“Honest”** and 2025 standout **“Ms. Whitman”**.
 
 ---
 
