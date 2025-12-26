@@ -37,3 +37,4 @@ enableRobotsTXT = true
   name = "Tags"
   url = "/tags/"
   weight = 2
+
