@@ -1,5 +1,0 @@
----
-title: "violent femmes"
-layout: post
----
----title: "' 'Violent Femmes''"date: 2015-12-09original_title: "'Violent Femmes'"tags:  - '[@violentfemmes](/tags/violentfemmes/)'layout: post---[#highlights](/tags/highlights/) <br />{{< youtube "PVTsBaqiNIg" >}}<br />Add It Up 1983Blister In The Sun 1983Confessions 1983Gone Daddy Gone 1983Good Feeling 1983Kiss Off 1983Promise 1983Prove My Love 1983Ugly 1983Black Girls 1984 <!--Subscribe and Playlist Links--><div>    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/[@BigBanonos](/tags/BigBanonos/)" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>[#NotOnSpotify](/tags/NotOnSpotify/)</strong>.</p>    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs [#NotOnSpotify](/tags/NotOnSpotify/) Playlist<br /></a></p></div><hr /><p><em>first posted by</em> <a href="https://bigbanonos.com/" rel="noopener" target="_new">https://bigbanonos.com/</a></p><p>tags: [@violentfemmes](/tags/violentfemmes/),</p>

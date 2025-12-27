@@ -1,5 +1,0 @@
----
-title: "irma thomas"
-layout: post
----
----title: "' 'Irma Thomas''"date: 2015-11-17original_title: "'Irma Thomas'"tags:  - '[@irmathomas](/tags/irmathomas/)'layout: post---[#1960s](/tags/1960s/) <br />{{< youtube "w_ArDnZrmi0" >}}<br />Time Is On My Side 1964 <!--Subscribe and Playlist Links--><div>    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/[@BigBanonos](/tags/BigBanonos/)" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>[#NotOnSpotify](/tags/NotOnSpotify/)</strong>.</p>    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs [#NotOnSpotify](/tags/NotOnSpotify/) Playlist<br /></a></p></div><hr /><p><em>first posted by</em> <a href="https://bigbanonos.com/" rel="noopener" target="_new">https://bigbanonos.com/</a></p><p>tags: [@irmathomas](/tags/irmathomas/),</p>

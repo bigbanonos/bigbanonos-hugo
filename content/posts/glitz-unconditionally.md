@@ -1,5 +1,0 @@
----
-title: "glitz unconditionally"
-layout: post
----
----title: "' 'Glitz''"date: 2015-12-05original_title: "'Glitz'"tags:  - '[@glitz](/tags/glitz/)'layout: post---[#notonspotify](/tags/notonspotify/) [#2013](/tags/2013/), [#notonyoutube](/tags/notonyoutube/) <br />{{< youtube "kLZRMKF5P8g" >}}Terre T's Cherry Blossom Clinic on WFMU<!--Subscribe and Playlist Links--><div>    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/[@BigBanonos](/tags/BigBanonos/)" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>[#NotOnSpotify](/tags/NotOnSpotify/)</strong>.</p>    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs [#NotOnSpotify](/tags/NotOnSpotify/) Playlist<br /></a></p></div><hr /><p><em>first posted by</em> <a href="https://bigbanonos.com/" rel="noopener" target="_new">https://bigbanonos.com/</a></p><p>tags: [@glitz](/tags/glitz/),</p>

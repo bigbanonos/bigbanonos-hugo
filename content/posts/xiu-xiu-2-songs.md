@@ -1,5 +1,0 @@
----
-title: "xiu xiu 2 songs"
-layout: post
----
----title: "' 'Xiu Xiu''"date: 2021-01-31original_title: "'Xiu Xiu - 2 Songs'"tags:  - '[@xiuxiu](/tags/xiuxiu/)'  - '[@lizharris](/tags/lizharris/)'layout: post---{{< youtube "yialek4fUUg" >}}<h2><ol><li>(ft. Liz Harris) Bottle Of Rum [2021]</li><li>I Luv The Valley OH! [2004]</li></ol></h2><!--Subscribe and Playlist Links--><div>    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/[@BigBanonos](/tags/BigBanonos/)" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>[#NotOnSpotify](/tags/NotOnSpotify/)</strong>.</p>    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs [#NotOnSpotify](/tags/NotOnSpotify/) Playlist<br /></a></p></div><hr /><p><em>first posted by</em> <a href="https://bigbanonos.com/" rel="noopener" target="_new">https://bigbanonos.com/</a></p><p>tags: [@xiuxiu](/tags/xiuxiu/),[@lizharris](/tags/lizharris/),</p>

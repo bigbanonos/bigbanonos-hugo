@@ -1,5 +1,0 @@
----
-title: "jake leech at apop records 9182013"
-layout: post
----
----title: "' 'Jake Leech''"date: 2015-12-15original_title: "'Jake Leech'"tags:  - '[@jakeleech](/tags/jakeleech/)'layout: post---[#stlouis](/tags/stlouis/) [#live](/tags/live/) <br />{{< youtube "fQnorQ8QDqk" >}}<br />APOP Records - 9/18/2013<!--Subscribe and Playlist Links--><div>    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/[@BigBanonos](/tags/BigBanonos/)" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>[#NotOnSpotify](/tags/NotOnSpotify/)</strong>.</p>    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs [#NotOnSpotify](/tags/NotOnSpotify/) Playlist<br /></a></p></div><hr /><p><em>first posted by</em> <a href="https://bigbanonos.com/" rel="noopener" target="_new">https://bigbanonos.com/</a></p><p>tags: [@jakeleech](/tags/jakeleech/),</p>

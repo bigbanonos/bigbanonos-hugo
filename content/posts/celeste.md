@@ -1,5 +1,0 @@
----
-title: "celeste"
-layout: post
----
----title: "' 'Celeste''"date: 2020-10-30original_title: "'Celeste - 1 Song'"tags:  - '[@celeste](/tags/celeste/)'layout: post---<br /><div class="separator" >{{< youtube "aKXFqLNFuaI" >}}</div><h3 ><ol><li>I Can See The Change [2020]</li></ol></h3><!--Subscribe and Playlist Links--><div>    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/[@BigBanonos](/tags/BigBanonos/)" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>[#NotOnSpotify](/tags/NotOnSpotify/)</strong>.</p>    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs [#NotOnSpotify](/tags/NotOnSpotify/) Playlist<br /></a></p></div><hr /><p><em>first posted by</em> <a href="https://bigbanonos.com/" rel="noopener" target="_new">https://bigbanonos.com/</a></p><p>tags: [@celeste](/tags/celeste/),</p>

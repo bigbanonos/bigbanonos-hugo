@@ -1,5 +1,0 @@
----
-title: "lsd"
-layout: post
----
----title: "' 'LSD''"date: 2018-06-23original_title: "'LSD'"tags:  - '[@lsd](/tags/lsd/)'layout: post---{{< youtube "tjA7nAHOAww" >}}<br /><h3>(ft. Diplo, Sia, Labrinth) Audio [2018}</h3><!--Subscribe and Playlist Links--><div>    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/[@BigBanonos](/tags/BigBanonos/)" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>[#NotOnSpotify](/tags/NotOnSpotify/)</strong>.</p>    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs [#NotOnSpotify](/tags/NotOnSpotify/) Playlist<br /></a></p></div><hr /><p><em>first posted by</em> <a href="https://bigbanonos.com/" rel="noopener" target="_new">https://bigbanonos.com/</a></p><p>tags: [@lsd](/tags/lsd/),</p>

@@ -1,5 +1,0 @@
----
-title: "nick haim 1 song"
-layout: post
----
----title: "' 'Nick Haim''"date: 2020-10-30original_title: "'Nick Haim - 1 Song'"tags:  - '[@nickhaim](/tags/nickhaim/)'layout: post---<div class="separator" >{{< youtube "PqzFi6PwTGA" >}}</div><div class="separator" ><ol><li>Qadir [2020]</li></ol></div><!--Subscribe and Playlist Links--><div>    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/[@BigBanonos](/tags/BigBanonos/)" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>[#NotOnSpotify](/tags/NotOnSpotify/)</strong>.</p>    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs [#NotOnSpotify](/tags/NotOnSpotify/) Playlist<br /></a></p></div><hr /><p><em>first posted by</em> <a href="https://bigbanonos.com/" rel="noopener" target="_new">https://bigbanonos.com/</a></p><p>tags: [@nickhaim](/tags/nickhaim/),</p>

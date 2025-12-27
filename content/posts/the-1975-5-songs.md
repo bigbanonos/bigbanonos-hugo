@@ -1,5 +1,0 @@
----
-title: "the 1975 5 songs"
-layout: post
----
----title: "' 'The 1975''"date: 2024-10-11original_title: "'The 1975 - 50+ Songs'"tags:  - '[@the1975](/tags/the1975/)'layout: post---<div class="separator" ><a href="https://www.rollingstone.com/wp-content/uploads/2020/02/The1975.jpg"><img border="0" data-original-height="533" data-original-width="800" height="266" src="https://www.rollingstone.com/wp-content/uploads/2020/02/The1975.jpg" width="400" /></a></div><br />{{< youtube "embed" >}}<!--Subscribe and Playlist Links--><div>    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/[@BigBanonos](/tags/BigBanonos/)" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>[#NotOnSpotify](/tags/NotOnSpotify/)</strong>.</p>    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs [#NotOnSpotify](/tags/NotOnSpotify/) Playlist<br /></a></p></div><hr /><p><em>first posted by</em> <a href="https://bigbanonos.com/" rel="noopener" target="_new">https://bigbanonos.com/</a></p><p>tags: [@the1975](/tags/the1975/),</p>
