@@ -1,8 +1,8 @@
-﻿baseURL = "https://bigbanonos.com/"
+baseURL = "https://bigbanonos.com/"
 title = "BigBanonos"
 description = "BigBanonos: The best in Trap, Hip-Hop, and Chopped & Screwed playlists."
 theme = "PaperMod"
-paginate = 20
+paginate = 21
 enableRobotsTXT = true
 
 [markup.goldmark.renderer]
@@ -28,3 +28,6 @@ enableRobotsTXT = true
   name = "Tags"
   url = "/tags/"
   weight = 2
+
+# FORCE IGNORE ERRORS
+ignoreErrors = ["error-remote-getjson", "error-missing-file"]
