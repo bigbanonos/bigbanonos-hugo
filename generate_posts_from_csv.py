@@ -39,6 +39,7 @@ def main():
                 slug = slugify(base)
 
             # --- BLOCK LIST: THIS STOPS THEM FOREVER ---
+            # This ensures neeqah and bhad-bhabie are skipped
             if "neeqah" in slug or "bhad-bhabie" in slug:
                 print(f"BANNED: Skipping {slug}")
                 continue
@@ -46,9 +47,10 @@ def main():
 
             post_path = POSTS_DIR / f"{slug}.md"
             if post_path.exists():
+                # Skip if already exists so we don't overwrite manual edits
                 continue
 
-            # (Standard build logic below)
+            # (Standard build logic)
             artist_display = row.get("artist_display", "").strip()
             artists_handles = parse_list_field(row.get("artists_handles", ""))
             tags = parse_list_field(row.get("tags", ""))
@@ -97,4 +99,17 @@ def main():
                 body_parts.append("")
             if yt_url: body_parts.append(f"[YouTube]({yt_url})")
             if spotify_track_url: body_parts.append(f"[Spotify track]({spotify_track_url})")
-            if spotify_playlist_url: body_parts.append(f"[Playlist]({spotify_playlist
+            if spotify_playlist_url: body_parts.append(f"[Playlist]({spotify_playlist_url})")
+
+            # Construct the final file content
+            content = "\n".join(front_matter_lines) + "\n\n" + "\n".join(body_parts) + "\n"
+            
+            # Write to file
+            post_path.write_text(content, encoding="utf-8")
+            print(f"Created: {slug}")
+            created += 1
+
+    print(f"Done. Created {created} new posts.")
+
+if __name__ == "__main__":
+    main()

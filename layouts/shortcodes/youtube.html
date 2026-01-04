@@ -1,38 +1,27 @@
-﻿{{- $pc := .Page.Site.Config.Privacy.YouTube -}}
-{{- if not $pc.Disable -}}
-{{- $ytId := .Get "id" | default (.Get 0) -}}
-<div class="youtube-player" data-id="{{ $ytId }}" style="position:relative;width:100%;height:0;padding-bottom:56.25%;background-color:#000;cursor:pointer;margin-bottom:20px;border-radius:8px;overflow:hidden;">
-    <img src="https://img.youtube.com/vi/{{ $ytId }}/hqdefault.jpg" alt="Video thumbnail" style="position:absolute;top:0;left:0;width:100%;height:100%;object-fit:cover;opacity:0.9;transition:opacity 0.3s;" loading="lazy">
-    
-    <div class="play-btn" style="position:absolute;top:50%;left:50%;transform:translate(-50%, -50%);width:68px;height:48px;background-color:#f00;border-radius:12px;display:flex;align-items:center;justify-content:center;transition:background-color 0.2s;">
-        <div style="width:0;height:0;border-top:10px solid transparent;border-bottom:10px solid transparent;border-left:16px solid white;"></div>
-    </div>
-    
-    <style>
-        .youtube-player:hover img { opacity: 1; }
-        .youtube-player:hover .play-btn { background-color: #c00; }
-    </style>
-</div>
+﻿{{/* layouts/shortcodes/youtube.html - click-to-load */}}
 
-<script>
-    document.addEventListener("DOMContentLoaded", function() {
-        var players = document.querySelectorAll('.youtube-player');
-        players.forEach(function(player) {
-            player.addEventListener('click', function() {
-                var iframe = document.createElement('iframe');
-                iframe.src = 'https://www.youtube.com/embed/' + this.dataset.id + '?autoplay=1&rel=0';
-                iframe.setAttribute('allow', 'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture');
-                iframe.setAttribute('allowfullscreen', '');
-                iframe.style.position = 'absolute';
-                iframe.style.top = '0';
-                iframe.style.left = '0';
-                iframe.style.width = '100%';
-                iframe.style.height = '100%';
-                iframe.style.border = '0';
-                this.innerHTML = '';
-                this.appendChild(iframe);
-            });
-        });
-    });
-</script>
-{{- end -}}
+{{ $raw := "" }}
+{{ if .IsNamedParams }}
+  {{ $raw = (.Get "url") | default (.Get "id") | default "" }}
+{{ else }}
+  {{ $raw = (.Get 0) | default "" }}
+{{ end }}
+
+{{ $title := (.Get "title") | default "Play on YouTube" }}
+{{ $id := $raw }}
+
+{{ if (or (in $raw "youtu.be/") (in $raw "youtube.com/")) }}
+  {{ $m := findRE `(?:youtu\.be/|v=|/shorts/|/embed/)([A-Za-z0-9_-]{6,})` $raw }}
+  {{ if gt (len $m) 0 }}
+    {{ $id = replaceRE `.*(?:youtu\.be/|v=|/shorts/|/embed/)([A-Za-z0-9_-]{6,}).*` `$1` (index $m 0) }}
+  {{ end }}
+{{ end }}
+
+<div class="bb-youtube-lite"
+     data-youtube-id="{{ $id }}"
+     role="button"
+     tabindex="0"
+     aria-label="{{ $title }}"
+     style="cursor:pointer;border:1px solid rgba(0,0,0,.15);padding:.75rem;border-radius:.75rem;max-width:700px;">
+  ▶ {{ $title }}
+</div>
