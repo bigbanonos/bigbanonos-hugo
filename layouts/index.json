@@ -1,0 +1,8 @@
+{{- $.Scratch.Add "index" slice -}}
+{{- range .Site.RegularPages -}}
+    {{- $title := .Title -}}
+    {{- $url := .Permalink -}}
+    {{- $tags := .Params.tags | default slice -}}
+    {{- $.Scratch.Add "index" (dict "title" $title "tags" $tags "permalink" $url) -}}
+{{- end -}}
+{{- $.Scratch.Get "index" | jsonify -}}
