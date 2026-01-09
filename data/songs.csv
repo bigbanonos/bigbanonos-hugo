@@ -1,2 +1,2 @@
 title,artist_display,year,album,label,date,notes,tags,yt_url,spotify_playlist_url,slug
-My New Song,The Artist,2026,The Album,The Label,2026-01-09,"Your notes here","trap, hip-hop",PUT_YOUTUBE_LINK_HERE,PUT_SPOTIFY_LINK_HERE,my-new-song-slug
+My New Song,The Artist,2026,The Album,The Label,2026-01-09,"Your notes here","trap, hip-hop",https://www.youtube.com/watch?v=dQw4w9WgXcQ,https://open.spotify.com/track/123,my-new-song-slug
