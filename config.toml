@@ -49,6 +49,10 @@ ignoreErrors = ["error-remote-getjson", "error-missing-file"]
   minMatchCharLength = 0
   keys = ["title", "tags", "content", "summary"]
 
+  # Fixes CLS (Layout Shift) by reserving space for images
+  defaultImageWidth = 500
+  defaultImageHeight = 300
+
 # --- MENU BUTTONS ---
 [[menu.main]]
   name = "Home"
