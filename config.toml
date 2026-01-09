@@ -12,7 +12,7 @@ buildExpired = true
 # IGNORE ERRORS
 ignoreErrors = ["error-remote-getjson", "error-missing-file"]
 
-# ALLOWS SEARCH TO WORK
+# ALLOWS SEARCH TO WORK (Generates index.json)
 [outputs]
   home = ["HTML", "RSS", "JSON"]
 
@@ -32,6 +32,22 @@ ignoreErrors = ["error-remote-getjson", "error-missing-file"]
   ShowShareButtons = true
   disableThemeToggle = true
   defaultTheme = "light"
+  
+  # CRITICAL: Tells Homepage to list items from "posts" folder
+  mainSections = ["posts"] 
+  
+  # CRITICAL: Makes tags look cleaner
+  ShowCodeCopyButtons = true
+
+# --- SEARCH ENGINE SETTINGS (You were missing this!) ---
+[params.fuseOpts]
+  isCaseSensitive = false
+  shouldSort = true
+  location = 0
+  distance = 1000
+  threshold = 0.4
+  minMatchCharLength = 0
+  keys = ["title", "tags", "content", "summary"]
 
 # --- MENU BUTTONS ---
 [[menu.main]]
