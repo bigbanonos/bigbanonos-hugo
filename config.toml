@@ -12,6 +12,10 @@ buildExpired = true
 # IGNORE ERRORS
 ignoreErrors = ["error-remote-getjson", "error-missing-file"]
 
+# ALLOWS SEARCH TO WORK
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
 [pagination]
   pagerSize = 21
 
@@ -29,6 +33,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-file"]
   disableThemeToggle = true
   defaultTheme = "light"
 
+# --- MENU BUTTONS ---
 [[menu.main]]
   name = "Home"
   url = "/"
@@ -38,3 +43,8 @@ ignoreErrors = ["error-remote-getjson", "error-missing-file"]
   name = "Tags"
   url = "/tags/"
   weight = 2
+
+[[menu.main]]
+  name = "Search"
+  url = "/search/"
+  weight = 3
