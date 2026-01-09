@@ -8,6 +8,10 @@ ROOT = Path(__file__).resolve().parent
 CSV_PATH = ROOT / "data" / "songs.csv"
 POSTS_DIR = ROOT / "content" / "posts"
 
+def clean_text(text):
+    if not text: return ""
+    return text.strip().strip("'").strip('"').strip()
+
 def slugify(text: str) -> str:
     text = text.lower()
     text = re.sub(r"[^a-z0-9]+", "-", text)
@@ -16,22 +20,18 @@ def slugify(text: str) -> str:
 
 def parse_list_field(value: str):
     if not value: return []
-    return [p.strip() for p in value.split(",") if p.strip()]
+    return [clean_text(p) for p in value.split(",") if p.strip()]
 
-def get_optimized_thumbnail(yt_url):
-    """Extracts YouTube ID and creates a tiny, fast cover image URL."""
+def get_perfect_thumbnail(yt_url):
     if not yt_url: return None
-    
-    # Extract ID (supports v=ID and youtu.be/ID)
     video_id = None
     if "v=" in yt_url:
         video_id = yt_url.split("v=")[1].split("&")[0]
     elif "youtu.be/" in yt_url:
         video_id = yt_url.split("youtu.be/")[1].split("?")[0]
-        
+    
     if video_id:
-        # Returns a wsrv.nl proxy URL that converts the thumbnail to WebP + resizes to 500px width
-        return f"https://wsrv.nl/?url=https://img.youtube.com/vi/{video_id}/hqdefault.jpg&w=500&output=webp&q=75"
+        return f"https://wsrv.nl/?url=https://img.youtube.com/vi/{video_id}/hqdefault.jpg&w=600&h=338&fit=cover&output=webp&q=80"
     return None
 
 def main():
@@ -45,61 +45,51 @@ def main():
     with CSV_PATH.open("r", encoding="utf-8", newline="") as f:
         reader = csv.DictReader(f)
         for row in reader:
-            title = row.get("title", "").strip()
+            raw_title = row.get("title", "")
+            title = clean_text(raw_title)
+            artist = clean_text(row.get("artist_display", ""))
+            
+            if artist and artist not in title:
+                display_title = f"{artist} – {title}"
+            else:
+                display_title = title
+
             if not title: continue
 
             slug = row.get("slug", "").strip()
             if not slug:
-                base = f"{row.get('artist_display','')}-{title}-{row.get('year','')}"
-                slug = slugify(base)
+                slug = slugify(f"{artist}-{title}")
 
-            # --- BAN HAMMER ---
-            if "neeqah" in slug or "bhad-bhabie" in slug:
-                print(f"BANNED: Skipping {slug}")
-                continue
+            if "neeqah" in slug or "bhad-bhabie" in slug: continue
 
-            # Skip if exists? NO. We want to overwrite to apply the image fix.
             post_path = POSTS_DIR / f"{slug}.md"
-            
-            # (Data Extraction)
             tags = parse_list_field(row.get("tags", ""))
             yt_url = row.get("yt_url", "").strip()
-            # ... (add other fields here as needed from your CSV)
-
-            # GENERATE FAST COVER IMAGE
-            cover_image = get_optimized_thumbnail(yt_url)
-
-            # FORMAT YAML LISTS
+            cover_image = get_perfect_thumbnail(yt_url)
             tags_yaml = ", ".join(f'"{t}"' for t in tags)
 
             front_matter_lines = [
                 "---",
-                f'title: "{title}"',
-                f"date: {datetime.now().isoformat(timespec='seconds')}", # Refresh date
+                f'title: "{display_title}"',
+                f'slug: "{slug}"',  # <--- THIS IS THE FIX. LOCKS THE URL.
+                f"date: {datetime.now().isoformat(timespec='seconds')}",
                 "draft: false",
             ]
             
             if tags_yaml: front_matter_lines.append(f"tags: [{tags_yaml}]")
             if yt_url: front_matter_lines.append(f'youtube: "{yt_url}"')
-            
-            # THE SPEED FIX: Explicitly set a cover image
             if cover_image:
-                front_matter_lines.append(f'cover:\n    image: "{cover_image}"\n    alt: "{title} Music Video"')
+                front_matter_lines.append(f'cover:\n    image: "{cover_image}"\n    alt: "{display_title}"\n    relative: false')
 
             front_matter_lines.append("---")
             
-            # BODY CONTENT
             body_parts = []
-            if row.get("artist_display"):
-                body_parts.append(f"**{row.get('artist_display')} – {title}**")
-                body_parts.append("")
+            if yt_url:
+                video_id = yt_url.split("v=")[1].split("&")[0] if "v=" in yt_url else yt_url.split("youtu.be/")[1]
+                body_parts.append(f'{{{{< youtube "{video_id}" >}}}}')
             
-            # Add Light YouTube Embed Code (Shortcode)
-            if get_optimized_thumbnail(yt_url): # If we got an ID, make a real player
-                 video_id = yt_url.split("v=")[1].split("&")[0] if "v=" in yt_url else yt_url.split("youtu.be/")[1]
-                 body_parts.append(f'{{{{< youtube "{video_id}" >}}}}')
-            elif yt_url:
-                 body_parts.append(f"[Watch on YouTube]({yt_url})")
+            notes = clean_text(row.get("notes", ""))
+            if notes: body_parts.append(f"\n{notes}")
 
             content = "\n".join(front_matter_lines + body_parts)
 
@@ -107,9 +97,9 @@ def main():
                 f_out.write(content)
             
             created += 1
-            if created % 500 == 0: print(f"Generated {created} posts...")
+            if created % 500 == 0: print(f"Generated {created} locked posts...")
 
-    print(f"--- SUCCESS: Regenerated {created} posts with Fast Images ---")
+    print(f"--- SUCCESS: Regenerated {created} Posts with Locked URLs ---")
 
 if __name__ == "__main__":
     main()
