@@ -3,9 +3,15 @@ title = "BigBanonos"
 description = "BigBanonos: The best in Trap, Hip-Hop, and Chopped & Screwed playlists."
 theme = "PaperMod"
 enableRobotsTXT = true
+
+# GOD MODE: FORCE EVERYTHING TO SHOW
+buildDrafts = true
+buildFuture = true
+buildExpired = true
+
+# IGNORE ERRORS
 ignoreErrors = ["error-remote-getjson", "error-missing-file"]
 
-# THIS FIXES THE ERROR
 [pagination]
   pagerSize = 21
 
