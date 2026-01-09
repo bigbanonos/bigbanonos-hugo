@@ -2,11 +2,15 @@ baseURL = "https://bigbanonos.com/"
 title = "BigBanonos"
 description = "BigBanonos: The best in Trap, Hip-Hop, and Chopped & Screwed playlists."
 theme = "PaperMod"
-paginate = 21
 enableRobotsTXT = true
+ignoreErrors = ["error-remote-getjson", "error-missing-file"]
+
+# THIS FIXES THE ERROR
+[pagination]
+  pagerSize = 21
 
 [markup.goldmark.renderer]
-  unsafe = true   # allow YouTube/Spotify embeds
+  unsafe = true   # keeps your old embeds working
 
 [taxonomies]
   tag = "tags"
@@ -28,6 +32,3 @@ enableRobotsTXT = true
   name = "Tags"
   url = "/tags/"
   weight = 2
-
-# FORCE IGNORE ERRORS
-ignoreErrors = ["error-remote-getjson", "error-missing-file"]
