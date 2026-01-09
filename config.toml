@@ -39,7 +39,12 @@ ignoreErrors = ["error-remote-getjson", "error-missing-file"]
   # CRITICAL: Makes tags look cleaner
   ShowCodeCopyButtons = true
 
-# --- SEARCH ENGINE SETTINGS (You were missing this!) ---
+  # Fixes CLS (Layout Shift) by reserving space for images
+  # (MOVED THIS UP: It was stuck inside search settings before)
+  defaultImageWidth = 500
+  defaultImageHeight = 300
+
+# --- SEARCH ENGINE SETTINGS ---
 [params.fuseOpts]
   isCaseSensitive = false
   shouldSort = true
@@ -47,11 +52,8 @@ ignoreErrors = ["error-remote-getjson", "error-missing-file"]
   distance = 1000
   threshold = 0.4
   minMatchCharLength = 0
-  keys = ["title", "tags", "content", "summary"]
-
-  # Fixes CLS (Layout Shift) by reserving space for images
-  defaultImageWidth = 500
-  defaultImageHeight = 300
+  # REMOVED "content" -> This fixes the crash. It was too big.
+  keys = ["title", "tags", "summary"]
 
 # --- MENU BUTTONS ---
 [[menu.main]]
