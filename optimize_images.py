@@ -3,26 +3,16 @@ import re
 
 CONTENT_DIR = os.path.join('content', 'posts')
 
-# Regex to find HTML images: <img src="HTTPS://..." ...>
-# We capture the URL inside the quotes.
-IMG_SRC_REGEX = re.compile(r'(<img[^>]+src=["\'])(https?://[^"\']+)(["\'][^>]*>)', re.IGNORECASE)
+# Finds cover images in Front Matter (PaperMod specific)
+# Looks for: cover: "https://..." OR image: "https://..."
+FRONT_MATTER_REGEX = re.compile(r'(^|\n)\s*(cover|image|featured_image):\s*["\'](https?://[^"\']+)["\']', re.IGNORECASE)
 
-# Regex to find Markdown images: ![alt](HTTPS://...)
-MD_IMG_REGEX = re.compile(r'(!\[.*?\]\()(https?://[^)]+)(\))', re.IGNORECASE)
+# Finds standard markdown images ![...](https://...)
+MARKDOWN_REGEX = re.compile(r'\!\[.*?\]\((https?://[^)\s]+)(?:.*?)?\)', re.IGNORECASE)
 
 def optimize_url(url):
-    # If already optimized, skip
-    if "wsrv.nl" in url:
-        return url
-    
-    # Skip if it's a relative path (local image)
-    if not url.startswith("http"):
-        return url
-
-    # THE MAGIC: 
-    # 1. output=webp (Next-gen format, tiny file size)
-    # 2. w=500 (Resize to mobile friendly width)
-    # 3. q=75 (Quality 75%, barely visible difference, huge savings)
+    if "wsrv.nl" in url: return url
+    # Force compression
     return f"https://wsrv.nl/?url={url}&w=500&output=webp&q=75"
 
 def clean_file(filepath):
@@ -31,25 +21,20 @@ def clean_file(filepath):
     
     original = content
 
-    # 1. Fix HTML <img> tags
-    # Replaces: src="https://big.jpg" 
-    # With:     src="https://wsrv.nl/?url=https://big.jpg..."
-    def replace_html(match):
-        prefix = match.group(1)
-        url = match.group(2)
-        suffix = match.group(3)
-        return f"{prefix}{optimize_url(url)}{suffix}"
+    # 1. Fix Front Matter (Cover Images)
+    def replace_fm(match):
+        prefix = match.group(1) + match.group(2) + ': "'
+        url = match.group(3)
+        return f'{prefix}{optimize_url(url)}"'
     
-    content = IMG_SRC_REGEX.sub(replace_html, content)
+    content = FRONT_MATTER_REGEX.sub(replace_fm, content)
 
-    # 2. Fix Markdown images ![alt](url)
+    # 2. Fix Markdown Body Images
     def replace_md(match):
-        prefix = match.group(1)
-        url = match.group(2)
-        suffix = match.group(3)
-        return f"{prefix}{optimize_url(url)}{suffix}"
+        url = match.group(1)
+        return f"![image]({optimize_url(url)})"
 
-    content = MD_IMG_REGEX.sub(replace_md, content)
+    content = MARKDOWN_REGEX.sub(replace_md, content)
 
     if content != original:
         with open(filepath, 'w', encoding='utf-8') as f:
@@ -58,17 +43,16 @@ def clean_file(filepath):
     return False
 
 def main():
-    print("--- STARTING IMAGE OPTIMIZATION ---")
+    print("--- STARTING NUCLEAR OPTIMIZATION ---")
     count = 0
-    files = [f for f in os.listdir(CONTENT_DIR) if f.endswith(".md")]
+    if os.path.exists(CONTENT_DIR):
+        for filename in os.listdir(CONTENT_DIR):
+            if filename.endswith(".md"):
+                if clean_file(os.path.join(CONTENT_DIR, filename)):
+                    count += 1
+                    if count % 200 == 0: print(f"Nuked {count} posts...")
     
-    for filename in files:
-        if clean_file(os.path.join(CONTENT_DIR, filename)):
-            count += 1
-            if count % 100 == 0:
-                print(f"Optimized {count} posts...")
-                
-    print(f"--- SUCCESS: Compressed images in {count} posts. ---")
+    print(f"--- SUCCESS: Optimized {count} posts ---")
 
 if __name__ == "__main__":
     main()
