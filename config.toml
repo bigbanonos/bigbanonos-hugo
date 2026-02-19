@@ -65,5 +65,4 @@ ignoreErrors = ["error-remote-getjson", "error-missing-file", "alias-trailing-co
   name = "Search"
   url = "/search/"
   weight = 3
-[author]
-  name = "BigBanonos"
+
