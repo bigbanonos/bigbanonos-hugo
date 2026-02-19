@@ -10,7 +10,7 @@ buildFuture = true
 buildExpired = true
 
 # IGNORE ERRORS
-ignoreErrors = ["error-remote-getjson", "error-missing-file"]
+ignoreErrors = ["error-remote-getjson", "error-missing-file", "alias-trailing-component"]
 
 # ALLOWS SEARCH TO WORK (Generates index.json)
 [outputs]
@@ -28,19 +28,15 @@ ignoreErrors = ["error-remote-getjson", "error-missing-file"]
 [permalinks]
   posts = "/:slug/"
 
+[author]
+  name = "BigBanonos"
+
 [params]
   ShowShareButtons = true
   disableThemeToggle = true
   defaultTheme = "light"
-  
-  # CRITICAL: Tells Homepage to list items from "posts" folder
-  mainSections = ["posts"] 
-  
-  # CRITICAL: Makes tags look cleaner
+  mainSections = ["posts"]
   ShowCodeCopyButtons = true
-
-  # Fixes CLS (Layout Shift) by reserving space for images
-  # (MOVED THIS UP: It was stuck inside search settings before)
   defaultImageWidth = 500
   defaultImageHeight = 300
 
@@ -52,7 +48,6 @@ ignoreErrors = ["error-remote-getjson", "error-missing-file"]
   distance = 1000
   threshold = 0.4
   minMatchCharLength = 0
-  # REMOVED "content" -> This fixes the crash. It was too big.
   keys = ["title", "tags", "summary"]
 
 # --- MENU BUTTONS ---
