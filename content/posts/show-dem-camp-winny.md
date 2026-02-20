@@ -5,10 +5,12 @@ tags:
   - '@showdemcamp'
   - '@winny'
   - '@alte'
-  - '@afrobeats'
 spotify_url: "https://open.spotify.com/track/3WWp5eSOe9SmLVt4OZihnU"
 not_on_spotify: false
 category: "1off-2020s"
+cover:
+  image: "https://i.scdn.co/image/ab67616d00001e0251c2ded31e95a2ed20e0273e"
+  alt: "Show Dem Camp - AFRIKA MAGIK"
 ---
 
 Nigerian alté from Show Dem Camp and Winny. Pele is the standout but Lego (solo Winny) is worth your time too.

@@ -6,6 +6,9 @@ tags:
 spotify_url: "https://open.spotify.com/track/39kaks6MIhAZLcbN7PTgBz"
 not_on_spotify: false
 category: "1off-2020s"
+cover:
+  image: "https://i.scdn.co/image/ab67616d00001e023d71ee08465f94ae82867d1f"
+  alt: "Blusher - rager"
 ---
 
 Australian pop trio Blusher — Jade, Lauren, and Miranda — dropped *rager* in February 2026, a neon-soaked Y2K anthem built for the end of the night. If their 2025 EP *RACER* got you out the door, this one is what happens after. Atlantic Records / Warner Music Australia.

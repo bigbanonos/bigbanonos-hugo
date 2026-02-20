@@ -6,6 +6,9 @@ tags:
 spotify_url: "https://open.spotify.com/track/2l0zEyQ0XVg0YYwbL3Xz9Y"
 not_on_spotify: false
 category: "1off-2020s"
+cover:
+  image: "https://i.scdn.co/image/ab67616d00001e02a9fda7658696fa71fe8cb68e"
+  alt: "Jordan Ward - BACKWARD"
 ---
 
 St. Louis singer-dancer Jordan Ward made one of the best R&B albums of early 2026 with *BACKWARD* — produced with Lido, it's an introspective record about chasing success and not recognizing your own life when you get there. HIGH FUNCTIONING is the one: funky, self-aware, a guy who brags he can stay sharp while everyone else folds. Tyler the Creator co-signed him years ago and he's been quietly delivering ever since.

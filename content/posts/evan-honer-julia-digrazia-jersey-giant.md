@@ -7,6 +7,9 @@ tags:
 spotify_url: "https://open.spotify.com/track/3hEkAosl2ZuO9FltxY5L1R"
 not_on_spotify: false
 category: "1off-2020s"
+cover:
+  image: "https://i.scdn.co/image/ab67616d00001e02ab62af64282c5a9dca84d493"
+  alt: "Evan Honer & Julia DiGrazia - Jersey Giant"
 ---
 
 One song. That's all they needed.
