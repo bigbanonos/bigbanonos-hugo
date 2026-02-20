@@ -1,6 +1,6 @@
 ---
 title: "Brent Faiyaz"
-date: 2025-02-13
+date: 2026-02-13
 tags:
   - '@brentfaiyaz'
   - '@2chainz'
@@ -10,9 +10,11 @@ tags:
 category: "artist"
 ---
 
-**Other Side** — *Larger Than Life* (2025)
+**Other Side** — *Larger Than Life* (2026)
 
 {{< youtube id="rZJ39GkQsZw" >}}
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/3NdPLwj6WZTroL2hSxcFmz" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ---
 
