@@ -1,8 +1,8 @@
-document.addEventListener("DOMContentLoaded", function() {
+document.addEventListener("DOMContentLoaded", funtion() {
     const liteEmbeds = document.querySelectorAll('.lite-embed');
     
     liteEmbeds.forEach(embed => {
-        embed.addEventListener('click', function() {
+        embed.addEventListener('click', funtion() {
             const src = this.getAttribute('data-src');
             const type = this.getAttribute('data-type');
             let iframe = document.createElement('iframe');

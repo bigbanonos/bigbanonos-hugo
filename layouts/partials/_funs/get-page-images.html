@@ -1,0 +1,5 @@
+{{- $images := slice -}}
+{{- with .Params.cover.image -}}
+  {{- $images = $images | append . -}}
+{{- end -}}
+{{- return $images -}}

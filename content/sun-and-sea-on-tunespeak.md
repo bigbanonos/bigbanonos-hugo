@@ -15,7 +15,7 @@ Under The Gun 2014
 #tunespeak <br />
 <div id="fb-root">
 </div>
-<script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3"; fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script><br />
+<script>(funtion(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.3"; fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));</script><br />
 <div class="fb-post" data-href="https://www.facebook.com/events/523956937627946/permalink/540914165932223/" data-width="500">
 <div class="fb-xfbml-parse-ignore">
 <blockquote cite="https://www.facebook.com/events/523956937627946/permalink/540914165932223/">

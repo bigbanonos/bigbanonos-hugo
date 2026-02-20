@@ -3,7 +3,12 @@ title: "Gaza Slim – Best 11 Songs"
 slug: "gaza-slim-best-11-songs"
 date: 2026-01-12T09:40:45
 draft: false
-tags: ["dancehall", "reggae", "vanessa bling", "soca"]
+tags:
+  - '@["dancehall'
+  - '@reggae'
+  - '@vanessa'
+  - '@bling'
+  - '@soca"]'
 youtube: "https://www.youtube.com/watch?v=KPu58LjWurI"
 cover:
     image: "https://wsrv.nl/?url=https://img.youtube.com/vi/KPu58LjWurI/hqdefault.jpg&w=600&h=338&fit=cover&output=webp&q=80"

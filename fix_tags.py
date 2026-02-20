@@ -2,12 +2,13 @@
 # Fix tags front-matter across all posts:
 # - Convert "tags: @a, @b" or "tags: '@a'" to list items
 # - Remove empty "tags:" blocks
+# - Strip trailing periods from tags (e.g. @fun -> @fun
 # - Keep everything UTF-8 without BOM
 
 from pathlib import Path
 import re, sys
 
-ROOT = Path("content/posts")
+ROOT = Path("content")
 
 def find_yaml(lines):
     s = e = -1
@@ -24,10 +25,9 @@ def fix_one(p: Path) -> bool:
     text = p.read_text(encoding="utf-8", errors="replace")
     lines = re.split(r"\r?\n", text)
     s, e = find_yaml(lines)
-    if s < 0 or e < 0:  # no yaml
+    if s < 0 or e < 0:
         return False
 
-    # scan for "tags:" key
     tag_i = -1
     for i in range(s+1, e):
         if re.match(r"^\s*tags\s*:", lines[i]):
@@ -36,41 +36,32 @@ def fix_one(p: Path) -> bool:
     if tag_i == -1:
         return False
 
-    # capture the value on the "tags:" line (could be scalar or empty)
     m = re.match(r"^(?P<lead>\s*)tags\s*:\s*(?P<val>.*)$", lines[tag_i])
     lead = m.group("lead")
     val = m.group("val").strip()
 
-    # collect existing list items already present below
     items = []
     j = tag_i + 1
     while j < e and re.match(r"^\s*-", lines[j]):
         item = re.sub(r"^\s*-\s*", "", lines[j]).strip().strip('"\'')
         if item:
-            items.append(item)
+            items.append(item.rstrip('.'))
         j += 1
 
     changed = False
 
-    # If value is inline (e.g., "@a, @b" or "'@a'"), parse it
     if val and not items:
-        # split by comma or spaces
         raw = [x.strip().strip('"\'') for x in re.split(r"[,\s]+", val) if x.strip()]
-        items = [r for r in raw if r]
+        items = [r.rstrip('.') for r in raw if r]
 
-    # If still no items, remove the tags line (and any accidental non-list lines under it)
     if not items:
-        # delete tags line
         del lines[tag_i]
-        # also delete any immediate non-list blank lines that belonged to it
         while tag_i < e and (lines[tag_i].strip() == "" or lines[tag_i].lstrip().startswith("#")):
             del lines[tag_i]
             e -= 1
         changed = True
     else:
-        # rebuild as a proper list
         block = [f"{lead}tags:"] + [f"{lead}  - '{t if t.startswith('@') else '@'+t}'" for t in items]
-        # replace original tags section: tags line + any following list items we counted
         del lines[tag_i:j]
         for k, L in enumerate(block):
             lines.insert(tag_i + k, L)

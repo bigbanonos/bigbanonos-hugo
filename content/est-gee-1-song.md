@@ -5,7 +5,7 @@ date: 2025-01-16
 original_title: "'EST Gee - 2 Songs'"
 tags:
   - '@estgee'
-  - '@rylorodriguez.'
+  - '@rylorodriguez'
   - '@42dugg'
   - '@lilbaby'
 layout: post
@@ -21,7 +21,7 @@ layout: post
 </div> <!-- Footer Links -->
 <hr />
 <p >For more updates, visit <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Also, check out our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> channel and follow us on <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p> <!-- Tags -->
-<p >Tags: @estgee,@lilbaby,@42dugg,@rylorodriguez,</p>
+<p >Tags: @estgee,@lilbaby,@42dugg,@rylorodriguez</p>
 
 
 <!--Subscribe and Playlist Links-->
@@ -33,4 +33,4 @@ layout: post
 
 <p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
 
-<p>tags: @estgee,@rylorodriguez.,@42dugg,@lilbaby,</p>
+<p>tags: @estgee,@rylorodriguez,@42dugg,@lilbaby,</p>

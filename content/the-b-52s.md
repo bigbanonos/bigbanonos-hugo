@@ -14,7 +14,7 @@ layout: post
 <div > {{< youtube "embed" >}}
 </div> <!-- Introductory Text -->
 <p >The B-52's brought new wave and dance rock to life with their eccentric style and catchy hits. From "Love Shack" to "Deadbeat Club," here are BigBanonos' favorite tracks by the iconic band.</p> <!-- Song Highlights -->
-<div > <p>BigBanonos' standout picks:</p> <ol> <li><strong>Love Shack</strong> | <em>Cosmic Thing</em> | Released: June 23, 1989 | Warner Records</li> <li><strong>Deadbeat Club</strong> | <em>Cosmic Thing</em> | Released: June 23, 1989 | Warner Records</li> <li><strong>Hot Corner</strong> | <em>Funplex</em> | Released: March 25, 2008 | Astralwerks</li> <li><strong>Legal Tender</strong> | <em>Whammy!</em> | Released: April 20, 1983 | Warner Records</li> </ol>
+<div > <p>BigBanonos' standout picks:</p> <ol> <li><strong>Love Shack</strong> | <em>Cosmic Thing</em> | Released: June 23, 1989 | Warner Records</li> <li><strong>Deadbeat Club</strong> | <em>Cosmic Thing</em> | Released: June 23, 1989 | Warner Records</li> <li><strong>Hot Corner</strong> | <em>funlex</em> | Released: March 25, 2008 | Astralwerks</li> <li><strong>Legal Tender</strong> | <em>Whammy!</em> | Released: April 20, 1983 | Warner Records</li> </ol>
 </div> <!-- Footer Links -->
 <div > <p>Celebrate new wave at <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Keep up with updates on <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p>
 </div> <!-- Tags -->

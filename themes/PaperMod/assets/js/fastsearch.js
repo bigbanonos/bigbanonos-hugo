@@ -7,9 +7,9 @@ let first, last, current_elem = null
 let resultsAvailable = false;
 
 // load our search index
-window.onload = function () {
+window.onload = funtion () {
     let xhr = new XMLHttpRequest();
-    xhr.onreadystatechange = function () {
+    xhr.onreadystatechange = funtion () {
         if (xhr.readyState === 4) {
             if (xhr.status === 200) {
                 let data = JSON.parse(xhr.responseText);
@@ -52,8 +52,8 @@ window.onload = function () {
     xhr.send();
 }
 
-function activeToggle(ae) {
-    document.querySelectorAll('.focus').forEach(function (element) {
+funtion activeToggle(ae) {
+    document.querySelectorAll('.focus').forEach(funtion (element) {
         // rm focus class
         element.classList.remove("focus")
     });
@@ -66,14 +66,14 @@ function activeToggle(ae) {
     }
 }
 
-function reset() {
+funtion reset() {
     resultsAvailable = false;
     resList.innerHTML = sInput.value = ''; // clear inputbox and searchResults
     sInput.focus(); // shift focus to input box
 }
 
 // execute search as each character is typed
-sInput.onkeyup = function (e) {
+sInput.onkeyup = funtion (e) {
     // run a search query (for "term") every time a letter is typed
     // in the search box
     if (fuse) {
@@ -103,13 +103,13 @@ sInput.onkeyup = function (e) {
     }
 }
 
-sInput.addEventListener('search', function (e) {
+sInput.addEventListener('search', funtion (e) {
     // clicked on x
     if (!this.value) reset()
 })
 
 // kb bindings
-document.onkeydown = function (e) {
+document.onkeydown = funtion (e) {
     let key = e.key;
     let ae = document.activeElement;
 

@@ -12,14 +12,14 @@ layout: post
 <p>Updated August 24, 1982, with "777-9311" from the album <i>What Time Is It?</i>, highlighted in the playlist below:</p>
 <div class="post-image"> {{< img-lite src="https://static.tvtropes.org/pmwiki/pub/images/tt.jpg" alt="The Time Album Cover" >}}
 </div>
-<p>The Time's unique blend of funk, rock, and the Minneapolis sound solidified their place in music history. Tracks like "777-9311" and "Gigolos Get Lonely Too" from their second album <i>What Time Is It?</i> highlight the bandâ€™s signature grooves and unforgettable rhythms. Released on August 24, 1982, these songs remain staples of the genre.</p>
+<p>The Time's unique blend of fun, rock, and the Minneapolis sound solidified their place in music history. Tracks like "777-9311" and "Gigolos Get Lonely Too" from their second album <i>What Time Is It?</i> highlight the bandâ€™s signature grooves and unforgettable rhythms. Released on August 24, 1982, these songs remain staples of the genre.</p>
 <p>Listen to the playlist below to experience these tracks and more:</p>
 <div class="spotify-embed"> {{< youtube "embed" >}}
 </div>
 <p>Tracks featured:</p>
 <ul> <li>"777-9311" â€“ <i>What Time Is It?</i> (August 24, 1982, Warner Records)</li> <li>"Gigolos Get Lonely Too" â€“ <i>What Time Is It?</i> (August 24, 1982, Warner Records)</li>
 </ul>
-<p>Dive into the funk-filled world of The Time and experience the unforgettable grooves of their Minneapolis sound.</p>
+<p>Dive into the fun-filled world of The Time and experience the unforgettable grooves of their Minneapolis sound.</p>
 <hr>
 <div class="post-footer"> <p>Discover more of BigBanonos' favorites at:</p> <ul> <li><a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos Blog</a></li> <li><a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a></li> <li><a href="https://x.com/bigbanonos" target="_blank">BigBanonos on X/Twitter</a></li> </ul>
 </div>

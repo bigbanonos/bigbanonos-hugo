@@ -26,8 +26,8 @@
 /* NameDecorator */ .chroma .nd { color: #8aadf4; font-weight: bold }
 /* NameEntity */ .chroma .ni { color: #8bd5ca }
 /* NameException */ .chroma .ne { color: #f5a97f }
-/* NameFunction */ .chroma .nf { color: #8aadf4 }
-/* NameFunctionMagic */ .chroma .fm { color: #8aadf4 }
+/* Namefuntion */ .chroma .nf { color: #8aadf4 }
+/* NamefuntionMagic */ .chroma .fm { color: #8aadf4 }
 /* NameLabel */ .chroma .nl { color: #91d7e3 }
 /* NameNamespace */ .chroma .nn { color: #f5a97f }
 /* NameOther */ .chroma .nx {  }

@@ -9,14 +9,14 @@ layout: post
 ---
 <!-- Post Title -->
 <h1 >BigBanonos' Favorite Tracks: Koo Koo - "Pop See Ko"</h1> <!-- Introductory Text -->
-<p >Updated May 20, 2016, with "Pop See Ko" by Koo Koo. This fun and energetic kids' hip hop track from <em>Cafetorium Songs, Vol. 1</em> is a favorite for all ages, bringing joy and movement to listeners everywhere.</p> <!-- Featured Image -->
+<p >Updated May 20, 2016, with "Pop See Ko" by Koo Koo. This funand energetic kids' hip hop track from <em>Cafetorium Songs, Vol. 1</em> is a favorite for all ages, bringing joy and movement to listeners everywhere.</p> <!-- Featured Image -->
 <div > <img src="https://i.ytimg.com/vi/OPLWyZMRNn0/maxresdefault.jpg" alt="Koo Koo - Pop See Ko" />
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "OPLWyZMRNn0" >}}
 </div> <!-- Song Information -->
 <div > <p><em>"Pop See Ko"</em> by Koo Koo is a lively hip hop track for kids that captures the playful and interactive spirit of childrenâ€™s music. Featured on the album <em>Cafetorium Songs, Vol. 1</em>, itâ€™s a delightful anthem that gets everyone dancing.</p>
 </div> <!-- Footer Links -->
-<div > <p>Discover more fun tracks on <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Visit our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> channel and follow us on <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a> for more updates and music highlights.</p>
+<div > <p>Discover more funtracks on <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Visit our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> channel and follow us on <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a> for more updates and music highlights.</p>
 </div> <!-- Tags -->
 <p >Tags: @kookoo,</p>
 

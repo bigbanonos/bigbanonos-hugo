@@ -10,11 +10,11 @@ tags:
   - '@asake'
 layout: post
 ---
-<h3><em>BigBanonos</em> Favorite Songs by Fireboy DML:</h3> <p>Updated on August 4, 2022, with the standout track â€œHavin' Funâ€ from the album <em>Playboy</em>. <em>BigBanonos</em> presents Fireboy DMLâ€™s top songs, showcasing his unique blend of afrobeats and Nigerian pop.</p> <!--Image-->
+<h3><em>BigBanonos</em> Favorite Songs by Fireboy DML:</h3> <p>Updated on August 4, 2022, with the standout track â€œHavin' fun€ from the album <em>Playboy</em>. <em>BigBanonos</em> presents Fireboy DMLâ€™s top songs, showcasing his unique blend of afrobeats and Nigerian pop.</p> <!--Image-->
 <div class="separator"> <a href="https://media.pitchfork.com/photos/62eaa945333bbef25bbc22ac/master/pass/Fireboy-DML-Playboy.jpg" > <img alt="Fireboy DML" src="https://media.pitchfork.com/photos/62eaa945333bbef25bbc22ac/master/pass/Fireboy-DML-Playboy.jpg" /> </a>
 </div> <!--Spotify Playlist Embed-->
 {{< youtube "embed" >}} <!--Song Listings-->
-<ol> <li><strong>Havin' Fun</strong> â€ <em>Playboy</em> â€ August 4, 2022</li> <li><strong>Peru - Remix (feat. 21 Savage & Blxst)</strong> â€ <em>Peru (Remix)</em> â€ February 11, 2022</li> <li><strong>Bandana (feat. Asake)</strong> â€ <em>Playboy</em> â€ August 4, 2022</li>
+<ol> <li><strong>Havin' fun/strong> â€ <em>Playboy</em> â€ August 4, 2022</li> <li><strong>Peru - Remix (feat. 21 Savage & Blxst)</strong> â€ <em>Peru (Remix)</em> â€ February 11, 2022</li> <li><strong>Bandana (feat. Asake)</strong> â€ <em>Playboy</em> â€ August 4, 2022</li>
 </ol> <!--Tags-->
 <p></p> <p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
 

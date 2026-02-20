@@ -9,7 +9,7 @@ layout: post
 ---
 <!-- Title of the Post -->
 <h1 >BigBanonos Favorite Song by Ernie K-Doe: "Here Come The Girls"</h1> <!-- Introductory Text -->
-<p >Updated March 5, 1971, with "Here Come The Girls" by Ernie K-Doe. This funky and soulful anthem from his self-titled album captures the joy and groove of the early '70s. Watch the video below!</p> <!-- Featured Image -->
+<p >Updated March 5, 1971, with "Here Come The Girls" by Ernie K-Doe. This funy and soulful anthem from his self-titled album captures the joy and groove of the early '70s. Watch the video below!</p> <!-- Featured Image -->
 <div > <img src="https://upload.wikimedia.org/wikipedia/commons/4/47/ErnieK-doe1996.jpg" alt="Ernie K-Doe - Here Come The Girls" />
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "CejaCa6Eewc" >}}

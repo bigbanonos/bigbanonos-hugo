@@ -9,7 +9,7 @@ layout: post
 ---
 <!-- Post Title -->
 <h1 >BigBanonos' Favorite Tracks: Pino D'AngiÃƒÆ’Ã‚Â² - "Ma quale idea"</h1> <!-- Introductory Text -->
-<p >Updated with "Ma quale idea" by Pino D'AngiÃƒÆ’Ã‚Â², a classic from the *...Balla!* album. This track is a timeless gem of Italo Disco and Neapolitan Funk.</p> <!-- Featured Image -->
+<p >Updated with "Ma quale idea" by Pino D'AngiÃƒÆ’Ã‚Â², a classic from the *...Balla!* album. This track is a timeless gem of Italo Disco and Neapolitan fun.</p> <!-- Featured Image -->
 <div > <img src="https://djmag.com/sites/default/files/styles/djm_23_1005x565/public/2024-07/Pino-D-Angio-obituary-the-age-of-love.jpg.webp?itok=D_kj_nVL46783454" alt="Pino D'AngiÃƒÆ’Ã‚Â²" />
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "hg9gvz5n614" >}}

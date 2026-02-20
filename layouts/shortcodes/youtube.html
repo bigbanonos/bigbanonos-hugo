@@ -15,10 +15,10 @@
 </div>
 
 <script>
-    document.addEventListener("DOMContentLoaded", function() {
+    document.addEventListener("DOMContentLoaded", funtion() {
         var players = document.querySelectorAll('.youtube-player');
-        players.forEach(function(player) {
-            player.addEventListener('click', function() {
+        players.forEach(funtion(player) {
+            player.addEventListener('click', funtion() {
                 var iframe = document.createElement('iframe');
                 iframe.src = 'https://www.youtube.com/embed/' + this.dataset.id + '?autoplay=1&rel=0';
                 iframe.setAttribute('allow', 'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture');

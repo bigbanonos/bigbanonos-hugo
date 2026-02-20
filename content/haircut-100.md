@@ -9,7 +9,7 @@ layout: post
 ---
 <!-- Title of the Post -->
 <h1 >BigBanonos Favorite Song by Haircut 100: "Love Plus One"</h1> <!-- Introductory Text -->
-<p >Updated January 1, 1982, with "Love Plus One" by Haircut 100. This iconic track from the album *Pelican West Plus* blends brit funk, new romantic, and sophisti-pop vibes to deliver a timeless new wave classic. Watch the video below!</p> <!-- Featured Image -->
+<p >Updated January 1, 1982, with "Love Plus One" by Haircut 100. This iconic track from the album *Pelican West Plus* blends brit fun, new romantic, and sophisti-pop vibes to deliver a timeless new wave classic. Watch the video below!</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d00001e02ca2a6b12f41678ee5fec068c" alt="Haircut 100 - Love Plus One" />
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "I23cCB1dR4o" >}}

@@ -4,15 +4,12 @@ description = "BigBanonos: The best in Trap, Hip-Hop, and Chopped & Screwed play
 theme = "PaperMod"
 enableRobotsTXT = true
 
-# GOD MODE: FORCE EVERYTHING TO SHOW
 buildDrafts = true
 buildFuture = true
 buildExpired = true
 
-# IGNORE ERRORS
 ignoreErrors = ["error-remote-getjson", "error-missing-file", "alias-trailing-component"]
 
-# ALLOWS SEARCH TO WORK (Generates index.json)
 [outputs]
   home = ["HTML", "RSS", "JSON"]
 
@@ -20,7 +17,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-file", "alias-trailing-co
   pagerSize = 21
 
 [markup.goldmark.renderer]
-  unsafe = true   # keeps your old embeds working
+  unsafe = true
 
 [taxonomies]
   tag = "tags"
@@ -28,10 +25,8 @@ ignoreErrors = ["error-remote-getjson", "error-missing-file", "alias-trailing-co
 [permalinks]
   posts = "/:slug/"
 
-[author]
-  name = "BigBanonos"
-
 [params]
+  author = "BigBanonos"
   ShowShareButtons = true
   disableThemeToggle = true
   defaultTheme = "light"
@@ -40,7 +35,6 @@ ignoreErrors = ["error-remote-getjson", "error-missing-file", "alias-trailing-co
   defaultImageWidth = 500
   defaultImageHeight = 300
 
-# --- SEARCH ENGINE SETTINGS ---
 [params.fuseOpts]
   isCaseSensitive = false
   shouldSort = true
@@ -50,7 +44,6 @@ ignoreErrors = ["error-remote-getjson", "error-missing-file", "alias-trailing-co
   minMatchCharLength = 0
   keys = ["title", "tags", "summary"]
 
-# --- MENU BUTTONS ---
 [[menu.main]]
   name = "Home"
   url = "/"
@@ -65,4 +58,3 @@ ignoreErrors = ["error-remote-getjson", "error-missing-file", "alias-trailing-co
   name = "Search"
   url = "/search/"
   weight = 3
-
