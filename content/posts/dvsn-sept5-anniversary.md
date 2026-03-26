@@ -13,7 +13,7 @@ category: "liveshow"
 
 Brooklyn Paramount. March 25, 2026. 10:30 PM sharp.
 
-The 90-minute wait was a test of patience, but once the lights cut at 9:30 PM, the Brooklyn Paramount witnessed a masterclass in R&B evolution. From 1998 rock-flips to raw a cappella planting, Daniel Daley and Nineteen85 proved the 2016 blueprint is still the gold standard.
+The Brooklyn Paramount witnessed a masterclass in R&B evolution. From 1998 rock-flips to raw a cappella planting, Daniel Daley and Nineteen85 proved the 2016 blueprint is still the gold standard.
 
 ---
 
@@ -36,22 +36,24 @@ Nineteen85 reminisced on the summer of 2016, bridging Sade to the OVO-heavy hits
 ## III. dvsn Live
 
 1. **With Me** — the 2016 introduction
-2. **Too Deep** — featuring a tame, demure lap dance
-3. **Try / Effortless (1998 Rock Version)** — drummer swapped sticks for electric guitar, grunge-heavy reimagining of both tracks
-4. **Touch It (Do It Well Pt. 4)** — non-album era track; crowd chanting *over and over again*
-5. **Faithful** — dvsn reclaiming the Views collab
-6. **In + Out** — fan request
-7. **Godspeed** — full live Frank Ocean cover; Daniel exited stage for 30 seconds during the bridge
-8. **Sept 5th** — preceded by the origin story of hearing the beat for the first time
-9. **Excited** — *tell me babe did I go too far*
-10. **What You Want** — new 2026 single
-11. **Hallucinations** — the 2016 breakout anthem
-12. **Courtside / Body / Smile** — a cappella vocal suite, raw planting, no instruments
-13. **Another One / Human Nature** — blended into the MJ classic; *RIP MJ, tribute to the legends we lost*
-14. **One in a Million** — Aaliyah tribute
-15. **Angela** — atmospheric lead-in
-16. **With Me (7-Minute Extended Finale)** — ended at exactly 10:30 PM
+2. **Too Deep** — so dope with live drums - "i want to hear you sing every word"
+3. **Try / Effortless (1998 Rock Version)** — "anyone ever felt like they just doin too much to get somebody's attention?"   .....drummer swapped sticks for a sped up, electric guitar, grunge-heavy reimagining
+4. **Keep The Faith** — non-album track from the Sept 5 era
+5. **Touch It (Do It Well Pt. 4)** — featuring a tame, demure lap dance from a fan (Jennifer)
+6. **Faithful** — dvsn reclaiming the Views collab
+7. **In + Out** — fan request
+8. **Godspeed** — full live Frank Ocean cover; Daniel exited stage for 30 seconds during the bridge
+9. **Sept 5th** — preceded by the origin story of being hypnotized by hearing the beat for Sept 5 the first time
+10. **Kiss It Better [Rihanna Cover]** — *tell me what you're willing to do*
+11. **Excited** — single released Aug 2025
+12. **Hallucinations** — the 2016 breakout anthem, crowd love this
+13. **Courtside / Body / Smile** — a cappella vocal suite, raw planting, no instruments
+14. **Another One / Human Nature** — blended into the MJ classic; *RIP MJ, tribute to the legends we lost*
+15. **One in a Million** — Aaliyah tribute
+16. **Angela** — atmospheric lead-in
+17. **With Me (7-Minute Extended Finale)** — ended at exactly 10:30 PM
 
 ---
 
-The OVO downside wait was real, but the musicality saved the night. Seeing the drummer swap sticks for a guitar on the 1998 rock-flip and hearing Daniel plant those a cappella notes showed a level of performance that justifies the 10-year hype.
+Those a cappella notes showed a level of performance that justifies the 10-year hype.
+The live drums and keys and backup singers, in the beautiful ass paramount theatre, with all those fine ass women in one building? good times.
