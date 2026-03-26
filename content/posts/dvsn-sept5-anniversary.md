@@ -9,11 +9,16 @@ tags:
   - '@brooklyn'
   - '@liveshow'
 category: "liveshow"
+cover:
+  image: "/images/dvsn-march-25-2026-show.jpg"
+  alt: "dvsn at Brooklyn Paramount March 25 2026"
 ---
 
 Brooklyn Paramount. March 25, 2026. 10:30 PM sharp.
 
 The Brooklyn Paramount witnessed a masterclass in R&B evolution. From 1998 rock-flips to raw a cappella planting, Daniel Daley and Nineteen85 proved the 2016 blueprint is still the gold standard.
+
+{{< youtube id="3yMlLV0vhQc" >}}
 
 ---
 
@@ -36,18 +41,18 @@ Nineteen85 reminisced on the summer of 2016, bridging Sade to the OVO-heavy hits
 ## III. dvsn Live
 
 1. **With Me** — the 2016 introduction
-2. **Too Deep** — so dope with live drums - "i want to hear you sing every word"
-3. **Try / Effortless (1998 Rock Version)** — "anyone ever felt like they just doin too much to get somebody's attention?"   .....drummer swapped sticks for a sped up, electric guitar, grunge-heavy reimagining
+2. **Too Deep** — so dope with live drums — *"i want to hear you sing every word"*
+3. **Try / Effortless (1998 Rock Version)** — *"anyone ever felt like they just doin too much to get somebody's attention?"* — drummer swapped sticks for electric guitar, grunge-heavy reimagining
 4. **Keep The Faith** — non-album track from the Sept 5 era
 5. **Touch It (Do It Well Pt. 4)** — featuring a tame, demure lap dance from a fan (Jennifer)
 6. **Faithful** — dvsn reclaiming the Views collab
 7. **In + Out** — fan request
 8. **Godspeed** — full live Frank Ocean cover; Daniel exited stage for 30 seconds during the bridge
-9. **Sept 5th** — preceded by the origin story of being hypnotized by hearing the beat for Sept 5 the first time
-10. **Kiss It Better [Rihanna Cover]** — *tell me what you're willing to do*
-11. **Excited** — single released Aug 2025
-12. **Hallucinations** — the 2016 breakout anthem, crowd love this
-13. **Courtside / Body / Smile** — a cappella vocal suite, raw planting, no instruments
+9. **Sept 5th** — preceded by the origin story of being hypnotized hearing the beat for the first time
+10. **Kiss It Better (Rihanna Cover)** — *tell me what you're willing to do*
+11. **Excited** — single released August 2025
+12. **Hallucinations** — the 2016 breakout anthem, crowd loved this
+13. **Body / Smile & In Between** — a cappella vocal suite, raw planting, no instruments
 14. **Another One / Human Nature** — blended into the MJ classic; *RIP MJ, tribute to the legends we lost*
 15. **One in a Million** — Aaliyah tribute
 16. **Angela** — atmospheric lead-in
@@ -55,5 +60,4 @@ Nineteen85 reminisced on the summer of 2016, bridging Sade to the OVO-heavy hits
 
 ---
 
-Those a cappella notes showed a level of performance that justifies the 10-year hype.
-The live drums and keys and backup singers, in the beautiful ass paramount theatre, with all those fine ass women in one building? good times.
+Those a cappella notes showed a level of performance that justifies the 10-year hype. The live drums and keys and backup singers, in the beautiful ass Paramount Theatre, with all those fine ass women in one building? Good times.
