@@ -8,7 +8,7 @@ tags:
   - '@folk'
 category: "artist"
 cover:
-  image: "https://i.scdn.co/image/ab67616d00001e02b4d1d5c2e5c5e5c5e5c5e5c5"
+  image: "https://i.scdn.co/image/ab67616d00001e02a56e4d09d1d0ec33895cc27e"
   alt: "Bill Callahan"
 ---
 

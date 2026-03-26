@@ -11,7 +11,7 @@ tags:
   - '@momobobyd'
 category: "artist"
 cover:
-  image: "https://i8.amplience.net/i/naras/Baby%20Keem%20Best%20Rap%20Performance"
+  image: "https://i.scdn.co/image/ab67616d00001e0208a27a15cf37664f0dab6ab7"
   alt: "Baby Keem"
 ---
 
