@@ -18,7 +18,7 @@ Brooklyn Paramount. March 25, 2026. 10:30 PM sharp.
 
 The Brooklyn Paramount witnessed a masterclass in R&B evolution. From 1998 rock-flips to raw a cappella planting, Daniel Daley and Nineteen85 proved the 2016 blueprint is still the gold standard.
 
-{{< youtube id="3yMlLV0vhQc" >}}
+<iframe style="border-radius:12px" src="https://www.youtube.com/embed/3yMlLV0vhQc" width="100%" height="560" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 ---
 
