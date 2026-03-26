@@ -35,6 +35,9 @@ ignoreErrors = ["error-remote-getjson", "error-missing-file", "alias-trailing-co
   defaultImageWidth = 500
   defaultImageHeight = 300
 
+  [params.analytics.plausible]
+  domain = "bigbanonos.com"
+
 [params.fuseOpts]
   isCaseSensitive = false
   shouldSort = true
