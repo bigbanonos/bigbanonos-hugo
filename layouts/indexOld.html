@@ -1,0 +1,29 @@
+{{ define "main" }}
+<main class="main">
+  <header class="page-header"><h1>BigBanonos</h1></header>
+
+  {{ $posts := where .Site.RegularPages "Section" "posts" }}
+  {{ $paginator := .Paginate ($posts.ByDate.Reverse) }}
+
+  {{ range $paginator.Pages }}
+    <article class="post-entry" style="border-bottom: 1px solid #333; padding: 20px 0;">
+    {{- if .Params.cover.image }}
+<figure class="entry-cover" style="margin-bottom: 8px;">
+<img loading="eager" fetchpriority="high" src="{{ .Params.cover.image | absURL }}" alt="{{ .Params.cover.alt | default .Title }}" style="width: 100%; max-width: 720px; display: block; margin: 0 auto; height: auto; aspect-ratio: 16/9;">
+</figure>
+{{- end }}
+      <header class="entry-header">
+        <h2><a href="{{ .RelPermalink }}" style="color: #1DB954;">{{ .Title }}</a></h2>
+      </header>
+      <div class="entry-content" style="font-size: 0.9em; line-height: 1.4;">
+    {{ .Summary | plainify | truncate 300 }}
+      </div>
+      <footer class="entry-footer" style="font-size: 0.8em; opacity: 0.6;">
+        {{ .Date.Format "Jan 2, 2006" }} | {{ .Params.album }}
+      </footer>
+    </article>
+  {{ end }}
+
+  {{ partial "pagination.html" . }}
+</main>
+{{ end }}
