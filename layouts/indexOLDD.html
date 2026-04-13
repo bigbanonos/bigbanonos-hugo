@@ -32,11 +32,9 @@
   .card h3{font-family:"Archivo Black",sans-serif;font-size:22px;line-height:1;margin:0 0 8px;text-transform:uppercase;}
   .card .meta{font-family:"JetBrains Mono",monospace;font-size:11px;text-transform:uppercase;letter-spacing:.12em;opacity:.65;display:flex;gap:10px;flex-wrap:wrap;}
   .card .meta b{background:var(--ink);color:var(--paper);padding:2px 6px;font-weight:400;}
-  .card .meta .dh{background:var(--tang);color:#fff;padding:2px 6px;}
   .card.hidden{display:none;}
   .bb-empty{padding:60px 20px;text-align:center;font-family:"JetBrains Mono",monospace;font-size:14px;opacity:.6;border:3px dashed var(--ink);}
   .bb-empty.hidden{display:none;}
-  .bb-loading{padding:40px 20px;text-align:center;font-family:"JetBrains Mono",monospace;font-size:13px;opacity:.5;}
   @media (max-width:640px){.bb-manifesto{grid-template-columns:1fr;}.bb-bike{justify-self:end;}}
 </style>
 
@@ -46,7 +44,7 @@
 
   <div class="bb-manifesto">
     <p><b>2% of music is good.</b> Modern dancehall, indie that still has teeth, rap that means it, the records that started rock, weird shit, current shit. <i>Experimental instrumental noodling can kizz my ass.</i> The filter does the talking — pick a letter, pick an era, go.</p>
-    <svg class="bb-bike" viewBox="0 0 220 140" xmlns="http://www.w3.org/2000/svg" aria-label="dollar bills flying off a bike">
+    <svg class="bb-bike" viewBox="0 0 220 140" xmlns="http://www.w3.org/2000/svg" aria-label="dollar bills flying off a bike on a park path">
       <path d="M0 125 Q110 110 220 125" stroke="#0a0a0a" stroke-width="3" fill="none"/>
       <path d="M0 132 Q110 117 220 132" stroke="#0a0a0a" stroke-width="1.5" stroke-dasharray="4 6" fill="none"/>
       <circle cx="60" cy="110" r="18" fill="none" stroke="#0a0a0a" stroke-width="3"/>
@@ -69,11 +67,11 @@
   <div class="bb-filters" id="bbFilters">
     <span class="lbl">Era</span>
     <button class="pill era" data-era="2020s">2020s</button>
-    <button class="pill era" data-era="00s-10s">2000-2019</button>
+    <button class="pill era" data-era="00s-10s">2000–2019</button>
     <button class="pill era" data-era="1900s">Pre-2000</button>
     <span class="lbl" style="margin-left:18px;">Type</span>
     <button class="pill type" data-type="artist">Artist</button>
-    <button class="pill type" data-type="1off_bucket">1-off</button>
+    <button class="pill type" data-type="1off">1-off</button>
     <button class="pill type" data-type="cover">Cover</button>
     <button class="pill clear" id="bbClear">Reset</button>
   </div>
@@ -83,88 +81,38 @@
     {{ range $letters }}<a href="#L-{{ . }}" data-letter="{{ . }}">{{ . }}<span class="ct" data-ct="{{ . }}"></span></a>{{ end }}
   </nav>
 
-  <div class="bb-list" id="bbList"><div class="bb-loading">loading manifest...</div></div>
+  <div class="bb-list" id="bbList">
+    {{ range (where site.RegularPages "Section" "posts") }}
+      {{ $title := .Title }}
+      {{ $first := upper (substr $title 0 1) }}
+      {{ if not (in "ABCDEFGHIJKLMNOPQRSTUVWXYZ" $first) }}{{ $first = "#" }}{{ end }}
+      {{ $tags := .Params.tags | default slice }}
+      {{ $era := "" }}
+      {{ range $tags }}{{ if or (eq . "2020s") (eq . "00s-10s") (eq . "1900s") }}{{ $era = . }}{{ end }}{{ end }}
+      {{ $type := "artist" }}
+      {{ if in $tags "cover" }}{{ $type = "cover" }}{{ else if in $tags "1off" }}{{ $type = "1off" }}{{ end }}
+      <a class="card" href="{{ .RelPermalink }}" data-letter="{{ $first }}" data-era="{{ $era }}" data-type="{{ $type }}">
+        <h3>{{ $title }}</h3>
+        <div class="meta"><b>{{ $type }}</b>{{ with $era }}<span>{{ . }}</span>{{ end }}<span>{{ .Date.Format "Jan 2006" }}</span></div>
+      </a>
+    {{ end }}
+  </div>
   <div class="bb-empty hidden" id="bbEmpty">nothing here under those filters. loosen up.</div>
 </div>
 
 <script>
 (function(){
-  var filters={era:new Set(),type:new Set(),letter:null};
-  var list=document.getElementById('bbList');
-  var azLinks=Array.from(document.querySelectorAll('#bbAZ a'));
-  var empty=document.getElementById('bbEmpty');
-  var cards=[];
-
-  function cleanName(n){
-    return (n||'')
-      .replace(/\s*-\s*(XX+|\d+\+?)\s*(Songs?|Remixes|IP Songs|DH Songs?|Rap Songs|Top Songs|Sons|Sogs|songs)\s*$/i,'')
-      .replace(/\s*-\s*DH SONGS?\s*$/i,'')
-      .replace(/\s*-\s*Top Songs\s*$/i,'')
-      .replace(/\s*-\s*Best Song\s*$/i,'')
-      .replace(/\s*-\s*Covers\s*$/i,'')
-      .replace(/^Songs-(\w\w?)-(.+)$/i,function(_,L,e){return L.toUpperCase()+' \u00B7 '+e+' 1-offs';})
-      .replace(/^Covers-(\w\w?)$/i,function(_,L){return L.toUpperCase()+' covers';})
-      .trim();
-  }
-
-  function render(data){
-    var pub=data.filter(function(r){return r.kind==='artist'||r.kind==='1off_bucket'||r.kind==='cover';});
-    pub.sort(function(a,b){return (a.sort_name||a.name).localeCompare(b.sort_name||b.name);});
-    list.innerHTML=pub.map(function(r){
-      var name=cleanName(r.name);
-      var dh=r.tag==='dancehall'?'<span class="dh">DH</span>':'';
-      var era=(r.era&&r.era!=='all')?'<span>'+r.era+'</span>':'';
-      var kind=r.kind==='1off_bucket'?'1-OFF':r.kind.toUpperCase();
-      return '<a class="card" href="#" data-letter="'+(r.letter||'#')+'" data-era="'+(r.era||'')+'" data-type="'+r.kind+'"><h3>'+name+'</h3><div class="meta"><b>'+kind+'</b>'+dh+era+'<span>'+r.tracks+' tr</span></div></a>';
-    }).join('');
-    cards=Array.from(list.querySelectorAll('.card'));
-    var counts={};
-    cards.forEach(function(c){var l=c.dataset.letter||'#';counts[l]=(counts[l]||0)+1;});
-    document.querySelectorAll('[data-ct]').forEach(function(s){
-      var l=s.dataset.ct;s.textContent=counts[l]||'';
-      if(!counts[l])s.parentElement.classList.add('dim');else s.parentElement.classList.remove('dim');
-    });
-    apply();
-  }
-
-  function apply(){
-    var shown=0;
-    cards.forEach(function(c){
-      var ok=(filters.era.size===0||filters.era.has(c.dataset.era))
-          &&(filters.type.size===0||filters.type.has(c.dataset.type))
-          &&(!filters.letter||c.dataset.letter===filters.letter);
-      c.classList.toggle('hidden',!ok);if(ok)shown++;
-    });
-    empty.classList.toggle('hidden',shown>0);
-  }
-
-  document.querySelectorAll('.pill.era,.pill.type').forEach(function(btn){
-    btn.addEventListener('click',function(){
-      var kind=btn.classList.contains('era')?'era':'type';
-      var val=btn.dataset[kind];var set=filters[kind];
-      if(set.has(val)){set.delete(val);btn.setAttribute('aria-pressed','false');}
-      else{set.add(val);btn.setAttribute('aria-pressed','true');}
-      apply();
-    });
-  });
-  azLinks.forEach(function(a){
-    a.addEventListener('click',function(e){
-      e.preventDefault();
-      if(filters.letter===a.dataset.letter){filters.letter=null;azLinks.forEach(function(x){x.style.outline='';});}
-      else{filters.letter=a.dataset.letter;azLinks.forEach(function(x){x.style.outline='';});a.style.outline='4px solid #0a0a0a';a.style.outlineOffset='-3px';}
-      apply();
-    });
-  });
-  document.getElementById('bbClear').addEventListener('click',function(){
-    filters.era.clear();filters.type.clear();filters.letter=null;
-    document.querySelectorAll('.pill[aria-pressed="true"]').forEach(function(p){p.setAttribute('aria-pressed','false');});
-    azLinks.forEach(function(x){x.style.outline='';});apply();
-  });
-
-  fetch('/playlist_manifest.json')
-    .then(function(r){return r.json();})
-    .then(render)
-    .catch(function(e){list.innerHTML='<div class="bb-empty">Could not load /playlist_manifest.json. Make sure it is in the static/ folder.</div>';});
+  const filters={era:new Set(),type:new Set(),letter:null};
+  const cards=Array.from(document.querySelectorAll('#bbList .card'));
+  const azLinks=Array.from(document.querySelectorAll('#bbAZ a'));
+  const empty=document.getElementById('bbEmpty');
+  const counts={};
+  cards.forEach(c=>{const l=c.dataset.letter||'#';counts[l]=(counts[l]||0)+1;});
+  document.querySelectorAll('[data-ct]').forEach(s=>{const l=s.dataset.ct;s.textContent=counts[l]||'';if(!counts[l])s.parentElement.classList.add('dim');});
+  function apply(){let shown=0;cards.forEach(c=>{const ok=(filters.era.size===0||filters.era.has(c.dataset.era))&&(filters.type.size===0||filters.type.has(c.dataset.type))&&(!filters.letter||c.dataset.letter===filters.letter);c.classList.toggle('hidden',!ok);if(ok)shown++;});empty.classList.toggle('hidden',shown>0);}
+  document.querySelectorAll('.pill.era,.pill.type').forEach(btn=>btn.addEventListener('click',()=>{const kind=btn.classList.contains('era')?'era':'type',val=btn.dataset[kind],set=filters[kind];if(set.has(val)){set.delete(val);btn.setAttribute('aria-pressed','false');}else{set.add(val);btn.setAttribute('aria-pressed','true');}apply();}));
+  azLinks.forEach(a=>a.addEventListener('click',e=>{e.preventDefault();if(filters.letter===a.dataset.letter){filters.letter=null;azLinks.forEach(x=>x.style.outline='');}else{filters.letter=a.dataset.letter;azLinks.forEach(x=>x.style.outline='');a.style.outline='4px solid #0a0a0a';a.style.outlineOffset='-3px';}apply();}));
+  document.getElementById('bbClear').addEventListener('click',()=>{filters.era.clear();filters.type.clear();filters.letter=null;document.querySelectorAll('.pill[aria-pressed="true"]').forEach(p=>p.setAttribute('aria-pressed','false'));azLinks.forEach(x=>x.style.outline='');apply();});
 })();
 </script>
 {{ end }}
