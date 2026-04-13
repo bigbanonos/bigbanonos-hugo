@@ -150,7 +150,7 @@
       var dh=r.tag==='dancehall'?'<span class="dh">DH</span>':'';
       var era=(r.era&&r.era!=='all')?'<span>'+r.era+'</span>':'';
       var kind=r.kind==='1off_bucket'?'1-OFF':r.kind.toUpperCase();
-      return '<a class="card" href="/" + slug(r.name) + "/" data-letter="'+(r.letter||'#')+'" data-era="'+(r.era||'')+'" data-type="'+r.kind+'"><h3>'+name+'</h3><div class="meta"><b>'+kind+'</b>'+dh+era+'<span>'+r.tracks+' tr</span></div></a>';
+      return '<a class="card" href="/'+slug(r.name)+'/" data-letter="'+(r.letter||'#')+'" data-era="'+(r.era||'')+'" data-type="'+r.kind+'"><h3>'+name+'</h3><div class="meta"><b>'+kind+'</b>'+dh+era+'<span>'+r.tracks+' tr</span></div></a>';
     }).join('');
     cards=Array.from(list.querySelectorAll('.card'));
     var counts={};
