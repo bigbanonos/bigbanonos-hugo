@@ -109,15 +109,20 @@
 
   function slug(s){return(s||'').toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'');}
   function cleanName(n){
-    return (n||'')
-      .replace(/\s*-\s*(XX+|\d+\+?)\s*(Songs?|Remixes|IP Songs|DH Songs?|Rap Songs|Top Songs|Sons|Sogs|songs)\s*$/i,'')
-      .replace(/\s*-\s*DH SONGS?\s*$/i,'')
-      .replace(/\s*-\s*Top Songs\s*$/i,'')
-      .replace(/\s*-\s*Best Song\s*$/i,'')
-      .replace(/\s*-\s*Covers\s*$/i,'')
-      .replace(/^Songs-(\w\w?)-(.+)$/i,function(_,L,e){return L.toUpperCase()+' \u00B7 '+e+' 1-offs';})
-      .replace(/^Covers-(\w\w?)$/i,function(_,L){return L.toUpperCase()+' covers';})
-      .trim();
+    var s=(n||'').toString();
+    // strip trailing " - XX Songs", " - 18 Songs", " - DH Songs", " - Top Songs", " - Covers" etc -- aggressive
+    s=s.replace(/\s*[-\u2013\u2014]\s*(XX+|\d+\+?)\s*(Songs?|Remixes?|IP\s*Songs?|DH\s*Songs?|Rap\s*Songs?|Top\s*Songs?|Sons|Sogs)\s*$/i,'');
+    s=s.replace(/\s*[-\u2013\u2014]\s*DH\s*SONGS?\s*$/i,'');
+    s=s.replace(/\s*[-\u2013\u2014]\s*Top\s*Songs?\s*$/i,'');
+    s=s.replace(/\s*[-\u2013\u2014]\s*Best\s*Song\s*$/i,'');
+    s=s.replace(/\s*[-\u2013\u2014]\s*Covers?\s*$/i,'');
+    s=s.replace(/\s*[-\u2013\u2014]\s*INSTRUMENTAL\s*Songs?\s*$/i,'');
+    s=s.replace(/\s*[-\u2013\u2014]\s*IRISH\s*Songs?\s*$/i,'');
+    // generic: anything ending in " - <words> Songs"
+    s=s.replace(/\s*[-\u2013\u2014]\s*[\w\s]+\s*Songs?\s*$/i,'');
+    s=s.replace(/^Songs[-\s]+(\w\w?)[-\s]+(.+)$/i,function(_,L,e){return L.toUpperCase()+' \u00B7 '+e+' 1-offs';});
+    s=s.replace(/^Covers[-\s]+(\w\w?)$/i,function(_,L){return L.toUpperCase()+' covers';});
+    return s.trim();
   }
   function buildHref(r){
     if(r.kind==='1off_bucket'){
