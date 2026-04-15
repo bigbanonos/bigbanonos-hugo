@@ -1,3 +1,10 @@
+---
+title: "4Batz"
+date: 2025-01-01
+category: "artist"
+stub: true
+---
+
 ﻿---
 title: "4batz"
 date: 2025-11-20

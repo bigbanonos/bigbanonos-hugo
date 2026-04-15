@@ -1,0 +1,26 @@
+---
+title: "Heavy Trash"
+date: 2005-08-20
+category: "artist"
+track_count: 1
+first_year: 2005
+last_year: 2005
+tags:
+  - '@heavy-trash'
+  - '00s-10s'
+  - 'rockabilly'
+  - 'psychobilly'
+  - 'garage rock'
+stub: true
+---
+
+## Heavy Trash
+
+_1 tracks, all from 2005._
+
+---
+
+**Dark Hair'd Rider**
+*DAMN STRAIGHT! - The Crunchy Frog Rock'n'roll Bonanza* · 2005 · 1:47
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2Mo5acNGvlvfQcXg89sXrA" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

@@ -1,195 +1,154 @@
 ---
 title: "Bruce Springsteen"
-date: 2025-10-24
+date: 2022-11-11
 category: "artist"
-track_count: 34
-first_year: 1982
-last_year: 2025
+track_count: 24
+first_year: 1973
+last_year: 2022
 tags:
   - '@bruce-springsteen'
-  - '@bruce-springsteen-jackson-browne'
+  - '@bill-callahan'
+  - '@bill-callahan-bonnie-prince-billy'
+  - '@bill-callahan-bonnie-prince-billy-david-grubbs'
+  - '@bill-callahan-bonnie-prince-billy-sir-richard-bishop'
+  - '@billy-bragg-wilco'
+  - '@black-francis'
+  - '@blankets'
+  - '@blondie'
+  - '@bob-dylan'
+  - '@bonnie-prince-billy'
   - '00s-10s'
   - '1900s'
   - '2020s'
-  - 'yacht rock'
-  - 'soft rock'
-  - 'folk rock'
+  - 'indie folk'
+  - 'alt country'
+  - 'americana'
   - 'singer-songwriter'
 stub: true
 ---
 
 ## Bruce Springsteen
 
-_34 tracks spanning 1982 to 2025. 43 years of trying._
+_24 tracks spanning 1973 to 2022. 49 years of trying._
 
 ---
 
-**Mansion on the Hill**
-*Nebraska* · 1982 · 4:05
+**Marshall Tucker Band - The Night They Drove Old Dixie Down**
+3:29
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0zVbPaN0GuGFCcZdLXsWYO" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/209" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Atlantic City**
-*Nebraska* · 1982 · 4:00
+**Hey Ya** (feat. Blankets)
+1:54
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1Vp8U39YNsDfd6yVuaUq12" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/114" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Nebraska**
-*Nebraska* · 1982 · 4:32
+**Trapped - Live**
+*The Essential Bruce Springsteen* · 1973 · 5:08
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7GDIQqD5pdHCda5rpZ98Ie" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/76Z29Zv9VmD6Rgu1ri7UKe" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Mansion on the Hill**
-*Nebraska* · 1982 · 4:09
+**Hanging On The Telephone** (feat. Blondie)
+*Parallel Lines* · 1978 · 2:25
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4eQQGTTbcKl5abbaIM0OxW" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/62H036AjK703qvKZBLopzV" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Johnny 99**
-*Nebraska* · 1982 · 3:42
+**Reason to Believe**
+*Nebraska* · 1982 · 4:08
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2ohcpZDvcIRdCE3lWxu6Tc" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7tRIpQDyq22qkjdk4mzBrq" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Highway Patrolman**
-*Nebraska* · 1982 · 5:40
+**California Stars** (feat. Billy Bragg;Wilco)
+*Mermaid Avenue* · 1998 · 4:58
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/408tTuSDxIr3zDR90Zmcw2" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5B2mJIk8yso3ugyvfHR62A" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Used Cars**
-*Nebraska* · 1982 · 3:10
+**No Fun** (feat. The Black Keys)
+*The Moan* · 2004 · 2:32
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1LDz5dqGxxWSOxNWjuzclb" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/259gjyGDQ4NyZNcauiDKCn" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**I'm Goin' Down**
-*Born In The U.S.A.* · 1984 · 3:31
+**The Biggest Lie** (feat. Bright Eyes)
+*Motion Sickness: Live Recordings* · 2005 · 2:48
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0VkDedVtP7TQDlaCMq9QVx" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4lcMjDKPJdsXGeP97mnbkJ" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**My Hometown**
-*Born In The U.S.A.* · 1984 · 4:37
+**The Breeze / My Baby Cries** (feat. Bill Callahan)
+*Loving Takes This Course - A Tribute To The Songs Of Kath Bloom* · 2009 · 6:24
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6dahFmHrgncgVJjsI1ws7e" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4B6YFj53ELz6EoAJH8vGKZ" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Jersey Girl - Live at Meadowlands Arena, E. Rutherford, NJ - July 1981**
-*Bruce Springsteen & The E Street Band Live 1975-85* · 1986 · 6:30
+**All In My Mind** (feat. Black Francis)
+*New Tales To Tell: A Tribute To Love And Rockets (ThinkIndie.com Version)* · 2009 · 5:00
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3kqC9r9ilM63AogQ47RVpu" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/33odBmYC6oisZVSfyqMvUt" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Cross My Heart**
-*Human Touch* · 1992 · 3:51
+**Skylark** (feat. Bob Dylan)
+*Fallen Angels* · 2016 · 2:56
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3YBipPWVkpZ9UL1yQ5CMzW" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5YmWQhZxDC5T9UYVI63LCK" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**If I Should Fall Behind**
-*Lucky Town* · 1992 · 2:57
+**Easy and Slow - Seacrest Motel Rehearsals, Falmouth, MA - October 1975** (feat. Bob Dylan)
+*The Rolling Thunder Revue: The 1975 Live Recordings (Sampler)* · 2019 · 5:23
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2mOGLiSTUeki1l9t1BBNRQ" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4IWLbLZ6oLvsJIuXBVQamN" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Streets of Philadelphia**
-*PHILADELPHIA - Music From The Motion Picture* · 1993 · 4:12
+**Bloody Rainbow** (feat. Built To Spill)
+*Bloody Rainbow* · 2020 · 2:24
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5Nj8kBJdpJJ4I9wxQyp8JH" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4K9JMEhPP32Uu2jRfNHFdt" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**The Line**
-*The Ghost Of Tom Joad* · 1995 · 5:19
+**Coral and Tar** (feat. Bonnie Prince Billy)
+*Hello Sorrow / Hello Joy* · 2020 · 3:37
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3D2a29lN634NyexjFPY9rV" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/08fdJ1Z9V8z2dYCDEJBs8q" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Sad Eyes - Studio Outtake - 1990**
-*Tracks* · 1998 · 3:47
+**Coward's Song** (feat. Bonnie Prince Billy)
+*Hello Sorrow / Hello Joy* · 2020 · 2:52
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3zUQ2rHpzn755x9HlHdd4G" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/67gcGIOa8fpBhkcRazDSPf" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**4th of July, Asbury Park (Sandy) - Live at the Hammersmith Odeon, London, UK - November 1975**
-*Hammersmith Odeon, London '75* · 2006 · 7:03
+**Take It Easy - Live at the United Center, Chicago, IL - 01/19/2016**
+*The Live Series: Songs Under Cover Vol. 2* · 2020 · 4:31
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0YM8m2dJ9DKiUO6ZnGzYu6" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/30D46dWzH6E7kdBqI64eeB" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Magic**
-*Magic* · 2007 · 2:45
+**Mountain Of Love - Live at the Tower Theater, Upper Darby, PA - 12/31/1975**
+*The Live Series: Songs Under Cover Vol. 2* · 2020 · 3:33
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/54Gnnzf64nOe3p7uDv1HdK" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/03xy2SA2cscTLKdai0aU2G" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Racing in the Street - '78**
-*The Promise* · 2010 · 6:49
+**The Night of Santiago (feat. David Grubbs)** (feat. Bill Callahan;Bonnie Prince Billy;David Grubbs)
+*The Night of Santiago (feat. David Grubbs)* · 2021 · 4:16
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3VdNjgoLw5M1YsoC8SGfuy" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4R114FH4QzjNEyRU776OtL" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Restless Nights**
-*Halloween A Go Go* · 2011 · 3:41
+**The Wild Kindness (feat. Cassie Berman)** (feat. Bill Callahan;Bonnie Prince Billy)
+*The Wild Kindness (feat. Cassie Berman)* · 2021 · 3:32
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2DlAcE0ukDbpShCzGWUyS8" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1CMgNhHdksgrkkBVcRinmm" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Hunter of Invisible Game**
-*High Hopes* · 2014 · 4:39
+**She is My Everything (feat. Sir Richard Bishop)** (feat. Bill Callahan;Bonnie Prince Billy;Sir Richard Bishop)
+*She Is My Everything (feat. Sir Richard Bishop)* · 2021 · 4:46
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6sZEWL0tJGzyOIEs9X8tFb" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0jKEa6CG1nXZ7Ed0hQ8eBo" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Dream Baby Dream**
-*High Hopes* · 2014 · 5:00
+**Stay High - Childish Gambino Version** (feat. Brittany Howard;Childish Gambino)
+*Stay High (Childish Gambino Version)* · 2021 · 3:38
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0un5QdMnuibGplkMHYorvg" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7d9x9mJPAruRZOieauLHrF" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Party Lights - Studio Outtake - 1980**
-*The Ties That Bind: The River Collection* · 2015 · 3:08
+**Stay (feat. Jackson Browne) - Live at Madison Square Garden, New York, NY - 09/22/79** (feat. Bruce Springsteen;Jackson Browne)
+*Bruce Springsteen & The E Street Band - The Legendary 1979 No Nukes Concerts* · 2021 · 4:28
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7aULtnr4nvQ0yWkP0MBL97" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2g6mFr2jrwKEbnxFQeVlh5" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Hello Sunshine**
-*Hello Sunshine* · 2019 · 3:54
+**Running Back - Live For SiriusXM** (feat. Bright Eyes)
+*Running Back (Live For SiriusXM)* · 2022 · 3:19
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0awwOS43XbEg56EmKjyW4u" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5dQOOAusyckpLlu7nPpRmX" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Sundown - Film Version**
-*Sundown (Film Version)* · 2019 · 3:12
+**November** (feat. Bright Eyes)
+*LIFTED or The Story Is in the Soil, Keep Your Ear to the Ground: A Companion* · 2022 · 4:09
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/208bEncKPmytr5glTW9V0y" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**Stay (with Jackson Browne) - Live at Madison Square Garden, New York, NY - 09/21/1979** (feat. Bruce Springsteen;Jackson Browne)
-*The Live Series: Songs Under Cover Vol. 2* · 2020 · 4:13
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2M8PbUgdJt5whJw9h3mrRL" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**Badlands - Live at Madison Square Garden, New York, NY - 09/22/79**
-*Badlands (The Legendary 1979 No Nukes Concerts)* · 2021 · 5:45
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7qQGbjCLiDVO54rAKRoa4E" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**Thunder Road - Live at Madison Square Garden, New York, NY - 09/21/79**
-*Thunder Road (The Legendary 1979 No Nukes Concerts)* · 2021 · 5:26
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6VusMBgtzMkUjJLzhYL8Dq" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**The River - Live at Madison Square Garden, New York, NY - 09/22/79**
-*Bruce Springsteen & The E Street Band - The Legendary 1979 No Nukes Concerts* · 2021 · 6:05
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6CjoVIa36eqhhChapMkMF3" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**Jungleland - Live at Madison Square Garden, New York, NY - 09/21/79**
-*Bruce Springsteen & The E Street Band - The Legendary 1979 No Nukes Concerts* · 2021 · 10:10
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2STedaCIT0sRyKIlcQ00Ju" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**Rosalita (Come Out Tonight) - Live at Madison Square Garden, New York, NY - 09/21/79**
-*Bruce Springsteen & The E Street Band - The Legendary 1979 No Nukes Concerts* · 2021 · 12:07
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7c0JMDwYbUMChF7ob0gla6" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**Only the Strong Survive**
-*Only the Strong Survive* · 2022 · 2:59
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6at33NMZgSJIp7jNoCuTd7" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**Losin' Kind - Nebraska Outtakes**
-*Nebraska '82: Expanded Edition* · 2025 · 5:00
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3nyE4s2ueZ03Q2czUMfJ88" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**Child Bride - Nebraska Outtakes**
-*Nebraska '82: Expanded Edition* · 2025 · 5:32
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1cSpwDLPDrb5UsPFtHFEfr" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**Gun in Every Home - Nebraska Outtakes**
-*Nebraska '82: Expanded Edition* · 2025 · 2:30
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0yXxTdtAn5WQiLXpoxMkbl" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1M5NPISW7DNtDnG4PBLgI8" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

@@ -1,39 +1,43 @@
 ---
 title: "Avalon Emerson"
-date: 2026-02-21
-tags:
-  - '@avalonemerson'
-  - '@thecharm'
-  - '@indieelectronic'
-  - '@dreampop'
+date: 2026-02-19
 category: "artist"
-cover:
-  image: "https://www.thebongoclub.co.uk/wp-content/uploads/Sub_AvalonEmerson_FB-640x960.jpg"
-  alt: "Avalon Emerson"
+track_count: 5
+first_year: 2023
+last_year: 2026
+tags:
+  - '@avalon-emerson'
+  - '2020s'
+stub: true
 ---
 
-Arizona-raised, Berlin-forged, now upstate New York. One of the most respected DJs in the world who also happens to make genuinely great indie pop as Avalon Emerson & the Charm. *Written into Changes* drops March 20, 2026 on Dead Oceans — produced with Bullion and Rostam Batmanglij.
+## Avalon Emerson
 
-**Written into Changes** — *Written into Changes* (2026)
-
-{{< youtube id="igdX7DodNWc" >}}
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/5eUfOwxFsvz3SnVQEJ0UTB" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+_5 tracks between 2023 and 2026._
 
 ---
 
-**Eden** — *Written into Changes* (2026)
+**Hot Evening**
+*Hot Evening* · 2023 · 4:01
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/01njQFHQuHfOWIM68EViEb" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7l7tXEWUMfW5m5AE8vPfOB" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Karaoke Song** — *Karaoke Song* (2023)
+**Sandrail Silhouette**
+*Hot Evening* · 2023 · 4:29
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5fxhtFc0h2TZ7SpezVl9SY" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1dj467w1lGJbjDslYb5Yzj" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Hot Evening** — *Hot Evening* (2023)
+**Karaoke Song**
+*Karaoke Song* · 2023 · 3:32
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7l7tXEWUMfW5m5AE8vPfOB" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5fxhtFc0h2TZ7SpezVl9SY" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Sandrail Silhouette** — *Hot Evening* (2023)
+**Eden**
+*Jupiter and Mars* · 2026 · 4:07
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1dj467w1lGJbjDslYb5Yzj" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/01njQFHQuHfOWIM68EViEb" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+**Written into Changes**
+*Written into Changes* · 2026 · 3:17
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0JmWTXLKNep8x1uza83tpE" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

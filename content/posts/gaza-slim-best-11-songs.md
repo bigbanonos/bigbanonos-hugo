@@ -1,7 +1,7 @@
 ---
 title: "Gaza Slim – Best 11 Songs"
 slug: "gaza-slim-best-11-songs"
-date: 2026-01-12T09:40:45
+date: 2026-01-12
 draft: false
 tags:
   - '@["dancehall'

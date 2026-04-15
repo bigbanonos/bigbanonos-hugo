@@ -1,0 +1,31 @@
+---
+title: "Soundgarden"
+date: 1994-03-09
+category: "artist"
+track_count: 2
+first_year: 1994
+last_year: 1994
+tags:
+  - '@soundgarden'
+  - '1900s'
+  - 'grunge'
+  - 'post-grunge'
+  - 'hard rock'
+stub: true
+---
+
+## Soundgarden
+
+_2 tracks, all from 1994._
+
+---
+
+**Spoonman**
+*Superunknown (20th Anniversary)* · 1994 · 4:06
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1jMaB19DiVR8OihLSuYFOt" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+**Black Hole Sun**
+*Superunknown (Deluxe Edition)* · 1994 · 5:18
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2EoOZnxNgtmZaD8uUmz2nD" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
