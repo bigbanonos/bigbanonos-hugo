@@ -1,0 +1,208 @@
+{{ define "main" }}
+<style>
+  :root{--ink:#0a0a0a;--paper:#fff8ec;--hot:#ff2d55;--acid:#c6ff3d;--cobalt:#1e4dff;--tang:#ff7a1a;--plum:#7b1fa2;}
+  html,body{background:var(--paper);color:var(--ink);}
+  .main{max-width:none!important;padding:0!important;}
+
+  /* ── TOP NAV BAR ── */
+  .bb-topnav{
+    display:flex;align-items:center;gap:0;
+    border-bottom:3px solid var(--ink);
+    font-family:"Archivo Black",sans-serif;
+    position:sticky;top:0;z-index:100;
+    background:var(--paper);
+  }s
+  .bb-topnav .home-mark{
+    font-size:clamp(18px,3vw,28px);font-weight:900;letter-spacing:-.03em;text-transform:uppercase;
+    text-decoration:none;color:var(--ink);padding:10px 18px;
+    border-right:3px solid var(--ink);
+    white-space:nowrap;
+  }
+  .bb-topnav .home-mark .s1{color:var(--hot);}
+  .bb-topnav .home-mark .s2{color:var(--cobalt);}
+  .bb-topnav .home-mark .s3{color:var(--ink);background:var(--acid);padding:0 .06em;}
+  .bb-topnav .nav-letter{
+    font-size:clamp(11px,1.4vw,14px);letter-spacing:.18em;text-transform:uppercase;
+    padding:10px 18px;border-right:3px solid var(--ink);text-decoration:none;color:var(--ink);
+    font-family:"JetBrains Mono",monospace;font-weight:400;white-space:nowrap;
+  }
+  .bb-topnav .nav-letter:hover{background:var(--acid);}
+  .bb-topnav .nav-tag{
+    font-size:11px;letter-spacing:.14em;text-transform:uppercase;
+    padding:6px 12px;border:2px solid var(--ink);border-radius:999px;
+    text-decoration:none;color:var(--ink);margin:0 6px;
+    font-family:"JetBrains Mono",monospace;
+  }
+  .bb-topnav .nav-tag:hover{background:var(--ink);color:var(--paper);}
+  .bb-topnav .nav-tag.dh{background:var(--tang);color:#fff;border-color:var(--tang);}
+  .nav-tags-wrap{display:flex;flex-wrap:wrap;gap:6px;padding:8px 14px;align-items:center;}
+
+  /* ── POST WRAP ── */
+  .bb-post{padding:36px clamp(16px,5vw,64px) 96px;font-family:"Space Grotesk","Helvetica Neue",system-ui,sans-serif;max-width:860px;}
+
+  /* ── TITLE BLOCK ── */
+  .bb-post-title{
+    font-family:"Archivo Black",sans-serif;font-weight:900;
+    font-size:clamp(42px,8vw,112px);line-height:.88;letter-spacing:-.04em;
+    text-transform:uppercase;margin:0 0 12px;word-break:break-word;
+  }
+  .bb-post-meta{
+    font-family:"JetBrains Mono",monospace;font-size:12px;letter-spacing:.14em;
+    text-transform:uppercase;opacity:.55;margin:0 0 32px;display:flex;gap:14px;flex-wrap:wrap;align-items:center;
+  }
+  .bb-post-meta .tag-pill{
+    background:var(--ink);color:var(--paper);padding:3px 8px;font-size:11px;opacity:1;border-radius:2px;
+  }
+  .bb-post-meta .tag-pill.dh{background:var(--tang);}
+
+  /* ── DIVIDER ── */
+  .bb-rule{border:none;border-top:3px solid var(--ink);margin:28px 0;}
+
+  /* ── CONTENT ── */
+  .bb-post-content{font-size:clamp(15px,1.6vw,18px);line-height:1.6;}
+  .bb-post-content p{margin:0 0 18px;}
+  .bb-post-content strong,.bb-post-content b{font-weight:700;}
+  .bb-post-content h2{font-family:"Archivo Black",sans-serif;font-size:clamp(20px,3vw,30px);text-transform:uppercase;margin:36px 0 10px;letter-spacing:-.02em;}
+  .bb-post-content h3{font-family:"Archivo Black",sans-serif;font-size:clamp(16px,2.2vw,22px);text-transform:uppercase;margin:28px 0 8px;letter-spacing:-.01em;}
+  .bb-post-content a{color:var(--cobalt);text-underline-offset:3px;}
+  .bb-post-content a:hover{color:var(--hot);}
+
+  /* track title lines like **Song Name** — *Album* (year) */
+  .bb-post-content p strong:first-child{
+    display:block;font-family:"Archivo Black",sans-serif;
+    font-size:clamp(14px,1.8vw,18px);letter-spacing:.02em;margin-bottom:4px;
+  }
+
+  /* ── IFRAMES ── */
+  .bb-post-content iframe{
+    display:block;width:100%;border-radius:8px;border:3px solid var(--ink);
+    margin:10px 0 24px;
+  }
+
+  /* ── BOTTOM NAV ── */
+  .bb-bootnav{
+    margin-top:64px;padding-top:24px;border-top:3px solid var(--ink);
+    display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:16px;
+    font-family:"Archivo Black",sans-serif;
+  }
+  .bb-bootnav a{
+    font-size:14px;text-transform:uppercase;letter-spacing:.08em;text-decoration:none;
+    color:var(--ink);padding:10px 18px;border:3px solid var(--ink);
+    transition:transform .08s ease;display:inline-block;
+  }
+  .bb-bootnav a:hover{transform:translate(-2px,-2px);box-shadow:4px 4px 0 var(--ink);}
+  .bb-bootnav .prev-next{display:flex;gap:12px;flex-wrap:wrap;}
+  .bb-bootnav .home-btn{background:var(--acid);}
+
+  /* ── RELATED STRIP ── */
+  .bb-related{margin-top:48px;padding-top:20px;border-top:3px solid var(--ink);}
+  .bb-related-label{font-family:"JetBrains Mono",monospace;font-size:11px;letter-spacing:.2em;text-transform:uppercase;opacity:.5;margin-bottom:14px;}
+  .bb-related-grid{display:flex;flex-wrap:wrap;gap:10px;}
+  .bb-related-grid a{
+    font-family:"Archivo Black",sans-serif;font-size:13px;text-transform:uppercase;letter-spacing:.04em;
+    text-decoration:none;color:var(--ink);padding:8px 14px;border:2px solid var(--ink);
+    transition:transform .08s ease;
+  }
+  .bb-related-grid a:hover{transform:translate(-2px,-2px);box-shadow:3px 3px 0 var(--ink);background:var(--acid);}
+
+  @media(max-width:600px){
+    .bb-topnav .nav-letter{display:none;}
+    .bb-bootnav{flex-direction:column;align-items:flex-start;}
+  }
+</style>
+
+<!-- STICKY TOP NAV -->
+<nav class="bb-topnav">
+  <a class="home-mark" href="/"><span class="s1">BIG</span><span class="s2">BAN</span><span class="s3">ONOS</span></a>
+  {{ $letter := "" }}
+  {{ with .Params.tags }}{{ range . }}{{ if not (hasPrefix . "@") }}{{ $letter = . }}{{ end }}{{ end }}{{ end }}
+  {{ $firstLetter := upper (substr .Title 0 1) }}
+  <a class="nav-letter" href="/?letter={{ $firstLetter }}">← all {{ $firstLetter }}</a>
+  <div class="nav-tags-wrap">
+    {{ range .Params.tags }}
+    {{ if hasPrefix . "@" }}
+    <span class="bb-post-meta" style="padding:0;margin:0;opacity:1;">
+      <span class="tag-pill{{ if or (eq . "@dancehall") }} dh{{ end }}">{{ . }}</span>
+    </span>
+    {{ end }}
+    {{ end }}
+  </div>
+</nav>
+
+<div class="bb-post">
+
+  <!-- TITLE -->
+  <h1 class="bb-post-title">{{ .Title }}</h1>
+
+  <!-- META -->
+  <div class="bb-post-meta">
+    <span>{{ .Date.Format "2006" }}</span>
+    {{ with .Params.category }}<span class="tag-pill">{{ . }}</span>{{ end }}
+    {{ range .Params.tags }}{{ if not (hasPrefix . "@") }}<span>{{ . }}</span>{{ end }}{{ end }}
+  </div>
+
+  <hr class="bb-rule">
+
+  <!-- CONTENT -->
+  <div class="bb-post-content">
+    {{ .Content }}
+  </div>
+
+  <!-- BOTTOM NAV -->
+  <div class="bb-bootnav">
+    <a class="home-btn" href="/">← Back to all artists</a>
+    <div class="prev-next">
+      {{ with .PrevInSection }}<a href="{{ .Permalink }}">← {{ .Title }}</a>{{ end }}
+      {{ with .NextInSection }}<a href="{{ .Permalink }}">{{ .Title }} →</a>{{ end }}
+    </div>
+  </div>
+
+  <!-- RELATED: same first letter -->
+  <div class="bb-related" id="bbRelated"></div>
+
+</div>
+
+<script>
+(function(){
+  var title={{ .Title | jsonify }};
+  var firstLetter=title.trim().replace(/^the\s+/i,'').charAt(0).toUpperCase();
+  if(firstLetter==='#'||/\d/.test(firstLetter)) firstLetter='#';
+
+  fetch('/playlist_manifest.json')
+    .then(function(r){return r.json();})
+    .then(function(data){
+      var matches=data.filter(function(r){
+        return (r.kind==='artist'||r.kind==='1off_bucket'||r.kind==='cover')
+          && (r.letter||'#')===firstLetter
+          && r.name.trim()!==title.trim();
+      });
+      if(!matches.length) return;
+      // shuffle, take up to 8
+      matches.sort(function(){return Math.random()-.5;});
+      matches=matches.slice(0,8);
+
+      function slug(s){return(s||'').toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'');}
+      function cleanName(n){
+        var s=(n||'').toString();
+        s=s.replace(/\s*[-\u2013\u2014]\s*(XX+|\d+\+?)\s*(Songs?|Remixes?|IP\s*Songs?|DH\s*Songs?|Top\s*Songs?|Sons|Sogs)\s*$/i,'');
+        s=s.replace(/\s*[-\u2013\u2014]\s*DH\s*SONGS?\s*$/i,'');
+        s=s.replace(/\s*[-\u2013\u2014]\s*[\w\s]+\s*Songs?\s*$/i,'');
+        return s.trim();
+      }
+      function buildHref(r){
+        if(r.kind==='1off_bucket'){var L=(r.letter||'#').toLowerCase();var e=(r.era||'').toLowerCase();if(e==='dh'||e==='dancehall')e='dh';return'/'+L+'-'+e+'-1offs/';}
+        if(r.kind==='cover'){var L2=(r.letter||'#').toLowerCase();return'/covers-'+L2+L2+'/';}
+        return'/'+slug(cleanName(r.name))+'/';
+      }
+
+      var wrap=document.getElementById('bbRelated');
+      wrap.innerHTML='<div class="bb-related-label">More under ' + firstLetter + '</div>'
+        +'<div class="bb-related-grid">'
+        +matches.map(function(r){return'<a href="'+buildHref(r)+'">'+cleanName(r.name)+'</a>';}).join('')
+        +'</div>';
+    })
+    .catch(function(){});
+})();
+</script>
+
+{{ end }}
