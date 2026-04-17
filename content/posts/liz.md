@@ -1,40 +1,23 @@
 ---
 title: "LIZ"
-date: 2025-10-24
+date: 2026-04-16
 category: "artist"
-track_count: 4
-first_year: 2018
-last_year: 2025
 tags:
   - '@liz'
-  - '00s-10s'
-  - '2020s'
-  - 'hyperpop'
-stub: true
 ---
 
-## LIZ
+Top 5 — Queen of Me, Likey (sped up), Turn Around, L IN LOVER, and this one.
 
-_4 tracks between 2018 and 2025._
-
----
-
-**Queen of Me**
-*Queen of Me / Could U Love Me* · 2018 · 3:15
+{{< youtube id="2jA3XRyrNAY" >}}
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3FtZuda5u3IdA4OzQqa7oF" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Turn Around**
-*Just Like You (Time Capsule Edition)* · 2025 · 3:39
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5qDnM3B5wxbaq4s5PeKl5L" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3D6YXcLKUp78mWf7jaXko1" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1QUV1RbWnE4iutfhBIT0Fg" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Likey - Sped Up**
-*Likey* · 2025 · 1:40
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7lUCBfmcbFPygIUCrr0e8J" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5qDnM3B5wxbaq4s5PeKl5L" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**Likey**
-*Likey* · 2025 · 1:54
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3D6YXcLKUp78mWf7jaXko1" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/62I2g4gEgHNVL1GT69dao2" width="100%" height="352" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
