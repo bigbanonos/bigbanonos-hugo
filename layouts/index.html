@@ -1,6 +1,8 @@
 {{ define "main" }}
 <style>
-  :root{--ink:#0a0a0a;--paper:#fff8ec;--hot:#ff2d55;--acid:#c6ff3d;--cobalt:#1e4dff;--tang:#ff7a1a;--plum:#7b1fa2;}
+  :root{--ink:#0a0a0a;--paper:#fff8ec;--hot:#ff2d55;--acid:#c6ff3d;--cobalt:#1e4dff;--tang:#ff7a1a;--plum:#7b1fa2;
+    /* genre swatches — distinct from era/type colors */
+    --g-pop:#ff5ec4;--g-indie:#ffb800;--g-rock:#1a1a1a;--g-rap:#00d97e;--g-rnb:#a259ff;--g-dancehall:#ff7a1a;--g-electronic:#00b8d9;--g-folk:#8b6f3f;--g-experimental:#666;}
   html,body{background:var(--paper);color:var(--ink);}
   .main{max-width:none!important;padding:0!important;}
   .bb-wrap{padding:28px clamp(16px,4vw,56px) 96px;font-family:"Space Grotesk","Helvetica Neue",system-ui,sans-serif;}
@@ -12,13 +14,19 @@
   .bb-manifesto p b{background:var(--acid);padding:0 4px;}
   .bb-manifesto p i{font-style:italic;color:var(--hot);font-weight:600;}
   .bb-bike{width:clamp(120px,18vw,220px);}
-  .bb-filters{display:flex;flex-wrap:wrap;gap:10px 16px;align-items:center;margin:0 0 20px;padding:14px 0;border-bottom:3px solid var(--ink);}
+  .bb-filters{display:flex;flex-wrap:wrap;gap:10px 16px;align-items:center;margin:0 0 8px;padding:14px 0 10px;border-bottom:3px solid var(--ink);}
+  .bb-filters.genres{border-bottom:3px solid var(--ink);margin-bottom:20px;padding:10px 0 14px;}
   .bb-filters .lbl{font-family:"JetBrains Mono",monospace;font-size:11px;letter-spacing:.18em;text-transform:uppercase;opacity:.6;margin-right:4px;}
   .pill{font:600 13px/1 "Space Grotesk",sans-serif;text-transform:uppercase;letter-spacing:.06em;padding:9px 14px;border:2px solid var(--ink);background:var(--paper);color:var(--ink);cursor:pointer;border-radius:999px;transition:transform .08s ease;}
   .pill:hover{transform:translate(-2px,-2px);box-shadow:3px 3px 0 var(--ink);}
   .pill[aria-pressed="true"]{background:var(--ink);color:var(--paper);}
   .pill.era[aria-pressed="true"]{background:var(--cobalt);color:#fff;border-color:var(--cobalt);}
   .pill.type[aria-pressed="true"]{background:var(--hot);color:#fff;border-color:var(--hot);}
+  .pill.genre{position:relative;}
+  .pill.genre::before{content:"";display:inline-block;width:9px;height:9px;border-radius:50%;margin-right:7px;vertical-align:-1px;background:var(--gc,#000);border:1.5px solid var(--ink);}
+  .pill.genre[aria-pressed="true"]{background:var(--gc);color:#fff;border-color:var(--ink);}
+  .pill.genre[aria-pressed="true"]::before{background:#fff;border-color:#fff;}
+  .pill.genre[data-g="rock"][aria-pressed="true"]{color:#fff;}
   .pill.clear{margin-left:auto;background:transparent;border-style:dashed;}
   .bb-az{display:grid;grid-template-columns:repeat(auto-fill,minmax(96px,1fr));gap:8px;margin:24px 0 36px;}
   .bb-az a{position:relative;display:flex;align-items:flex-end;aspect-ratio:1/1;padding:10px;font-family:"Archivo Black",sans-serif;font-size:clamp(36px,5vw,64px);line-height:.8;text-decoration:none;color:var(--ink);background:var(--paper);border:3px solid var(--ink);text-transform:uppercase;transition:transform .08s ease;}
@@ -30,9 +38,11 @@
   .card{display:block;padding:16px;border:3px solid var(--ink);background:var(--paper);text-decoration:none;color:var(--ink);transition:transform .08s ease;}
   .card:hover{transform:translate(-3px,-3px);box-shadow:6px 6px 0 var(--ink);}
   .card h3{font-family:"Archivo Black",sans-serif;font-size:22px;line-height:1;margin:0 0 8px;text-transform:uppercase;}
-  .card .meta{font-family:"JetBrains Mono",monospace;font-size:11px;text-transform:uppercase;letter-spacing:.12em;opacity:.65;display:flex;gap:10px;flex-wrap:wrap;}
+  .card .meta{font-family:"JetBrains Mono",monospace;font-size:11px;text-transform:uppercase;letter-spacing:.12em;opacity:.65;display:flex;gap:8px;flex-wrap:wrap;align-items:center;}
   .card .meta b{background:var(--ink);color:var(--paper);padding:2px 6px;font-weight:400;}
   .card .meta .dh{background:var(--tang);color:#fff;padding:2px 6px;}
+  .card .meta .gb{padding:2px 6px;color:#fff;background:var(--gc,#666);font-weight:600;letter-spacing:.08em;}
+  .card .meta .gb.sec{opacity:.5;}
   .card.hidden{display:none;}
   .bb-empty{padding:60px 20px;text-align:center;font-family:"JetBrains Mono",monospace;font-size:14px;opacity:.6;border:3px dashed var(--ink);}
   .bb-empty.hidden{display:none;}
@@ -45,7 +55,7 @@
   <div class="bb-hash">#LastThingINeedIsMoreMoney</div>
 
   <div class="bb-manifesto">
-    <p><b>2% of music is good.</b> Modern dancehall, indie that still has teeth, rap that means it, the records that started rock, weird shit, current shit. <i>Experimental instrumental noodling can kizz my ass.</i> The filter does the talking — pick a letter, pick an era, go.</p>
+    <p><b>2% of music is good.</b> Modern dancehall, indie that still has teeth, rap that means it, the records that started rock, weird shit, current shit. <i>Experimental instrumental noodling can kizz my ass.</i> The filter does the talking — pick a letter, pick an era, pick a genre, go.</p>
     <svg class="bb-bike" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg" aria-label="Cards fan dribbling through his legs, dollar bills spilling">
       <g font-family="Archivo Black,sans-serif" font-size="10" fill="#0a0a0a">
         <g transform="translate(18 108) rotate(-22)"><rect width="20" height="11" fill="#c6ff3d" stroke="#0a0a0a" stroke-width="1.4"/><text x="10" y="8" text-anchor="middle">$</text></g>
@@ -90,6 +100,18 @@
     <button class="pill clear" id="bbClear">Reset</button>
   </div>
 
+  <div class="bb-filters genres" id="bbGenres">
+    <span class="lbl">Genre</span>
+    <button class="pill genre" data-g="pop"        style="--gc:var(--g-pop)">Pop</button>
+    <button class="pill genre" data-g="indie"      style="--gc:var(--g-indie)">Indie</button>
+    <button class="pill genre" data-g="rock"       style="--gc:var(--g-rock)">Rock</button>
+    <button class="pill genre" data-g="rap"        style="--gc:var(--g-rap)">Rap</button>
+    <button class="pill genre" data-g="rnb"        style="--gc:var(--g-rnb)">R&amp;B</button>
+    <button class="pill genre" data-g="dancehall"  style="--gc:var(--g-dancehall)">Dancehall</button>
+    <button class="pill genre" data-g="electronic" style="--gc:var(--g-electronic)">Electronic</button>
+    <button class="pill genre" data-g="folk"       style="--gc:var(--g-folk)">Folk</button>
+  </div>
+
   <nav class="bb-az" id="bbAZ" aria-label="A to Z">
     {{ $letters := slice "A" "B" "C" "D" "E" "F" "G" "H" "I" "J" "K" "L" "M" "N" "O" "P" "Q" "R" "S" "T" "U" "V" "W" "X" "Y" "Z" "#" }}
     {{ range $letters }}<a href="#L-{{ . }}" data-letter="{{ . }}">{{ . }}<span class="ct" data-ct="{{ . }}"></span></a>{{ end }}
@@ -101,7 +123,8 @@
 
 <script>
 (function(){
-  var filters={era:new Set(),type:new Set(),letter:null};
+  var GENRE_LABELS={pop:"POP",indie:"INDIE",rock:"ROCK",rap:"RAP",rnb:"R&B",dancehall:"DH",electronic:"ELEC",folk:"FOLK",experimental:"EXP"};
+  var filters={era:new Set(),type:new Set(),genre:new Set(),letter:null};
   var list=document.getElementById('bbList');
   var azLinks=Array.from(document.querySelectorAll('#bbAZ a'));
   var empty=document.getElementById('bbEmpty');
@@ -136,6 +159,16 @@
     return '/'+slug(cleanName(r.name))+'/';
   }
 
+  function genresOf(r){
+    // Returns array of genre slugs for this record. Reads genre_primary, genre_secondary if present.
+    // Falls back to legacy tag==='dancehall' => ['dancehall'].
+    var out=[];
+    if(r.genre_primary) out.push(r.genre_primary);
+    if(r.genre_secondary && r.genre_secondary!==r.genre_primary) out.push(r.genre_secondary);
+    if(out.length===0 && r.tag==='dancehall') out.push('dancehall');
+    return out;
+  }
+
   function render(data){
     var pub=data.filter(function(r){return r.kind==='artist'||r.kind==='1off_bucket'||r.kind==='cover';});
     pub.sort(function(a,b){return (a.sort_name||a.name).localeCompare(b.sort_name||b.name);});
@@ -145,51 +178,70 @@
       var era=(r.era&&r.era!=='all')?'<span>'+r.era+'</span>':'';
       var kind=r.kind==='1off_bucket'?'1-OFF':r.kind.toUpperCase();
       var href=buildHref(r);
-      return '<a class="card" href="'+href+'" data-letter="'+(r.letter||'#')+'" data-era="'+(r.era||'')+'" data-type="'+r.kind+'"><h3>'+name+'</h3><div class="meta"><b>'+kind+'</b>'+dh+era+'<span>'+r.tracks+' tr</span></div></a>';
+      var gs=genresOf(r);
+      // Avoid double-tagging dancehall when DH badge already shows
+      var genreBadges=gs.filter(function(g){return !(g==='dancehall'&&r.tag==='dancehall');})
+        .map(function(g,i){return '<span class="gb'+(i>0?' sec':'')+'" style="--gc:var(--g-'+g+')">'+(GENRE_LABELS[g]||g.toUpperCase())+'</span>';}).join('');
+      return '<a class="card" href="'+href+'" data-letter="'+(r.letter||'#')+'" data-era="'+(r.era||'')+'" data-type="'+r.kind+'" data-genres="'+gs.join(',')+'"><h3>'+name+'</h3><div class="meta"><b>'+kind+'</b>'+dh+genreBadges+era+'<span>'+r.tracks+' tr</span></div></a>';
     }).join('');
     cards=Array.from(list.querySelectorAll('.card'));
-    var counts={};
-    cards.forEach(function(c){var l=c.dataset.letter||'#';counts[l]=(counts[l]||0)+1;});
-    document.querySelectorAll('[data-ct]').forEach(function(s){
-      var l=s.dataset.ct;s.textContent=counts[l]||'';
-      if(!counts[l])s.parentElement.classList.add('dim');else s.parentElement.classList.remove('dim');
-    });
     apply();
   }
 
   function apply(){
     var shown=0;
+    var letterCounts={};
     cards.forEach(function(c){
       var cardEra=c.dataset.era||'';
+      var cardGenres=(c.dataset.genres||'').split(',').filter(Boolean);
       var eraOk=(filters.era.size===0)||(!cardEra)||(filters.era.has(cardEra));
       var typeOk=(filters.type.size===0)||(filters.type.has(c.dataset.type));
       var letterOk=(!filters.letter)||(c.dataset.letter===filters.letter);
-      var ok=eraOk&&typeOk&&letterOk;
+      var genreOk=(filters.genre.size===0)||cardGenres.some(function(g){return filters.genre.has(g);});
+      var ok=eraOk&&typeOk&&letterOk&&genreOk;
       c.classList.toggle('hidden',!ok);
-      if(ok)shown++;
+      if(ok){
+        shown++;
+        var l=c.dataset.letter||'#';
+        letterCounts[l]=(letterCounts[l]||0)+1;
+      }
+    });
+    // Update A-Z counts and dim letters with no matches under current filters
+    document.querySelectorAll('[data-ct]').forEach(function(s){
+      var l=s.dataset.ct;
+      var n=letterCounts[l]||0;
+      s.textContent=n||'';
+      if(!n){s.parentElement.classList.add('dim');}else{s.parentElement.classList.remove('dim');}
     });
     empty.classList.toggle('hidden',shown>0);
   }
 
-  document.querySelectorAll('.pill.era,.pill.type').forEach(function(btn){
-    btn.addEventListener('click',function(){
-      var kind=btn.classList.contains('era')?'era':'type';
-      var val=btn.dataset[kind];var set=filters[kind];
-      if(set.has(val)){set.delete(val);btn.setAttribute('aria-pressed','false');}
-      else{set.add(val);btn.setAttribute('aria-pressed','true');}
-      apply();
+  function bindToggle(sel,kind){
+    document.querySelectorAll(sel).forEach(function(btn){
+      btn.addEventListener('click',function(){
+        var val=btn.dataset[kind==='genre'?'g':kind];
+        var set=filters[kind];
+        if(set.has(val)){set.delete(val);btn.setAttribute('aria-pressed','false');}
+        else{set.add(val);btn.setAttribute('aria-pressed','true');}
+        apply();
+      });
     });
-  });
+  }
+  bindToggle('.pill.era','era');
+  bindToggle('.pill.type','type');
+  bindToggle('.pill.genre','genre');
+
   azLinks.forEach(function(a){
     a.addEventListener('click',function(e){
       e.preventDefault();
+      if(a.classList.contains('dim')) return;
       if(filters.letter===a.dataset.letter){filters.letter=null;azLinks.forEach(function(x){x.style.outline='';});}
       else{filters.letter=a.dataset.letter;azLinks.forEach(function(x){x.style.outline='';});a.style.outline='4px solid #0a0a0a';a.style.outlineOffset='-3px';}
       apply();
     });
   });
   document.getElementById('bbClear').addEventListener('click',function(){
-    filters.era.clear();filters.type.clear();filters.letter=null;
+    filters.era.clear();filters.type.clear();filters.genre.clear();filters.letter=null;
     document.querySelectorAll('.pill[aria-pressed="true"]').forEach(function(p){p.setAttribute('aria-pressed','false');});
     azLinks.forEach(function(x){x.style.outline='';});apply();
   });
