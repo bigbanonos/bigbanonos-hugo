@@ -2661,7 +2661,9 @@
     "era": null,
     "tag": null,
     "letter": "D",
-    "sort_name": "Do - XX Songs"
+    "sort_name": "Do - XX Songs",
+    "genre_primary": "indie",
+    "genre_secondary": "pop"
   },
   {
     "name": "The Clash - XX Songs",
@@ -2671,7 +2673,8 @@
     "era": null,
     "tag": null,
     "letter": "C",
-    "sort_name": "Clash - XX Songs"
+    "sort_name": "Clash - XX Songs",
+    "genre_primary": "rock"
   },
   {
     "name": "The Boys - 2 Songs",
@@ -2681,7 +2684,8 @@
     "era": null,
     "tag": null,
     "letter": "B",
-    "sort_name": "Boys - 2 Songs"
+    "sort_name": "Boys - 2 Songs",
+    "genre_primary": "rock"
   },
   {
     "name": "The 9ine - DH Songs",
@@ -12809,7 +12813,8 @@
     "era": null,
     "tag": null,
     "letter": "D",
-    "sort_name": "dvsn - XX Songs"
+    "sort_name": "dvsn - XX Songs",
+    "genre_primary": "rnb"
   },
   {
     "name": "Dusty Springfield - XX Songs",
@@ -12819,7 +12824,9 @@
     "era": null,
     "tag": null,
     "letter": "D",
-    "sort_name": "Dusty Springfield - XX Songs"
+    "sort_name": "Dusty Springfield - XX Songs",
+    "genre_primary": "pop",
+    "genre_secondary": "rnb"
   },
   {
     "name": "Duran Duran - XX Songs",
@@ -12829,7 +12836,9 @@
     "era": null,
     "tag": null,
     "letter": "D",
-    "sort_name": "Duran Duran - XX Songs"
+    "sort_name": "Duran Duran - XX Songs",
+    "genre_primary": "rock",
+    "genre_secondary": "pop"
   },
   {
     "name": "Drive-By Truckers - XX Songs",
@@ -12839,7 +12848,9 @@
     "era": null,
     "tag": null,
     "letter": "D",
-    "sort_name": "Drive-By Truckers - XX Songs"
+    "sort_name": "Drive-By Truckers - XX Songs",
+    "genre_primary": "rock",
+    "genre_secondary": "folk"
   },
   {
     "name": "Dresden Dolls - XX Songs",
@@ -12849,7 +12860,9 @@
     "era": null,
     "tag": null,
     "letter": "D",
-    "sort_name": "Dresden Dolls - XX Songs"
+    "sort_name": "Dresden Dolls - XX Songs",
+    "genre_primary": "rock",
+    "genre_secondary": "indie"
   },
   {
     "name": "Drake - 6 Songs",
@@ -12859,7 +12872,9 @@
     "era": null,
     "tag": null,
     "letter": "D",
-    "sort_name": "Drake - 6 Songs"
+    "sort_name": "Drake - 6 Songs",
+    "genre_primary": "rap",
+    "genre_secondary": "rnb"
   },
   {
     "name": "Dr. Dre - 10 Songs",
@@ -12869,7 +12884,8 @@
     "era": null,
     "tag": null,
     "letter": "D",
-    "sort_name": "Dr. Dre - 10 Songs"
+    "sort_name": "Dr. Dre - 10 Songs",
+    "genre_primary": "rap"
   },
   {
     "name": "Dr. Dog - XX Songs",
@@ -12879,7 +12895,9 @@
     "era": null,
     "tag": null,
     "letter": "D",
-    "sort_name": "Dr. Dog - XX Songs"
+    "sort_name": "Dr. Dog - XX Songs",
+    "genre_primary": "indie",
+    "genre_secondary": "rock"
   },
   {
     "name": "DORIS - 10 Songs",
@@ -12889,7 +12907,8 @@
     "era": null,
     "tag": null,
     "letter": "D",
-    "sort_name": "DORIS - 10 Songs"
+    "sort_name": "DORIS - 10 Songs",
+    "genre_primary": "rnb"
   },
   {
     "name": "Doors - XX Songs",
@@ -12899,7 +12918,8 @@
     "era": null,
     "tag": null,
     "letter": "D",
-    "sort_name": "Doors - XX Songs"
+    "sort_name": "Doors - XX Songs",
+    "genre_primary": "rock"
   },
   {
     "name": "Donovan - XX Songs",
@@ -12909,7 +12929,8 @@
     "era": null,
     "tag": null,
     "letter": "D",
-    "sort_name": "Donovan - XX Songs"
+    "sort_name": "Donovan - XX Songs",
+    "genre_primary": "folk"
   },
   {
     "name": "Don Toliver - XX Songs",
@@ -12919,7 +12940,9 @@
     "era": null,
     "tag": null,
     "letter": "D",
-    "sort_name": "Don Toliver - XX Songs"
+    "sort_name": "Don Toliver - XX Songs",
+    "genre_primary": "rap",
+    "genre_secondary": "rnb"
   },
   {
     "name": "Dolly Parton - XX Songs",
@@ -12929,7 +12952,8 @@
     "era": null,
     "tag": null,
     "letter": "D",
-    "sort_name": "Dolly Parton - XX Songs"
+    "sort_name": "Dolly Parton - XX Songs",
+    "genre_primary": "folk"
   },
   {
     "name": "Doja Cat - XX Songs",
@@ -12939,7 +12963,9 @@
     "era": null,
     "tag": null,
     "letter": "D",
-    "sort_name": "Doja Cat - XX Songs"
+    "sort_name": "Doja Cat - XX Songs",
+    "genre_primary": "pop",
+    "genre_secondary": "rap"
   },
   {
     "name": "Doechii - XX Songs",
@@ -12949,7 +12975,9 @@
     "era": null,
     "tag": null,
     "letter": "D",
-    "sort_name": "Doechii - XX Songs"
+    "sort_name": "Doechii - XX Songs",
+    "genre_primary": "rap",
+    "genre_secondary": "rnb"
   },
   {
     "name": "DMX - XX Songs",
@@ -12959,7 +12987,8 @@
     "era": null,
     "tag": null,
     "letter": "D",
-    "sort_name": "DMX - XX Songs"
+    "sort_name": "DMX - XX Songs",
+    "genre_primary": "rap"
   },
   {
     "name": "Dj Khaled - XX Songs",
@@ -12969,7 +12998,8 @@
     "era": null,
     "tag": null,
     "letter": "D",
-    "sort_name": "Dj Khaled - XX Songs"
+    "sort_name": "Dj Khaled - XX Songs",
+    "genre_primary": "rap"
   },
   {
     "name": "Dixie Chicks - XX Songs",
@@ -12979,7 +13009,8 @@
     "era": null,
     "tag": null,
     "letter": "D",
-    "sort_name": "Dixie Chicks - XX Songs"
+    "sort_name": "Dixie Chicks - XX Songs",
+    "genre_primary": "folk"
   },
   {
     "name": "Dirty Projectors - XX Songs",
@@ -12989,7 +13020,8 @@
     "era": null,
     "tag": null,
     "letter": "D",
-    "sort_name": "Dirty Projectors - XX Songs"
+    "sort_name": "Dirty Projectors - XX Songs",
+    "genre_primary": "indie"
   },
   {
     "name": "Diplo - XX Songs",
@@ -12999,7 +13031,8 @@
     "era": null,
     "tag": null,
     "letter": "D",
-    "sort_name": "Diplo - XX Songs"
+    "sort_name": "Diplo - XX Songs",
+    "genre_primary": "electronic"
   },
   {
     "name": "Dionne Warwick - XX Songs",
@@ -13009,7 +13042,9 @@
     "era": null,
     "tag": null,
     "letter": "D",
-    "sort_name": "Dionne Warwick - XX Songs"
+    "sort_name": "Dionne Warwick - XX Songs",
+    "genre_primary": "rnb",
+    "genre_secondary": "pop"
   },
   {
     "name": "Dinosaur Jr. - XX Songs",
@@ -13019,7 +13054,9 @@
     "era": null,
     "tag": null,
     "letter": "D",
-    "sort_name": "Dinosaur Jr. - XX Songs"
+    "sort_name": "Dinosaur Jr. - XX Songs",
+    "genre_primary": "rock",
+    "genre_secondary": "indie"
   },
   {
     "name": "DING DONG - XX Songs",
@@ -13029,7 +13066,8 @@
     "era": null,
     "tag": null,
     "letter": "D",
-    "sort_name": "DING DONG - XX Songs"
+    "sort_name": "DING DONG - XX Songs",
+    "genre_primary": "dancehall"
   },
   {
     "name": "Dinah Washington - XX Songs",
@@ -13039,7 +13077,8 @@
     "era": null,
     "tag": null,
     "letter": "D",
-    "sort_name": "Dinah Washington - XX Songs"
+    "sort_name": "Dinah Washington - XX Songs",
+    "genre_primary": "rnb"
   },
   {
     "name": "Dijon - 9 Songs",
@@ -13049,7 +13088,9 @@
     "era": null,
     "tag": null,
     "letter": "D",
-    "sort_name": "Dijon - 9 Songs"
+    "sort_name": "Dijon - 9 Songs",
+    "genre_primary": "rnb",
+    "genre_secondary": "indie"
   },
   {
     "name": "Diddy - XX Songs",
@@ -13059,7 +13100,9 @@
     "era": null,
     "tag": null,
     "letter": "D",
-    "sort_name": "Diddy - XX Songs"
+    "sort_name": "Diddy - XX Songs",
+    "genre_primary": "rap",
+    "genre_secondary": "rnb"
   },
   {
     "name": "Devendra Banhart - XX Songs",
@@ -13069,7 +13112,9 @@
     "era": null,
     "tag": null,
     "letter": "D",
-    "sort_name": "Devendra Banhart - XX Songs"
+    "sort_name": "Devendra Banhart - XX Songs",
+    "genre_primary": "folk",
+    "genre_secondary": "indie"
   },
   {
     "name": "Destiny's Child - XX Songs",
@@ -13079,7 +13124,9 @@
     "era": null,
     "tag": null,
     "letter": "D",
-    "sort_name": "Destiny's Child - XX Songs"
+    "sort_name": "Destiny's Child - XX Songs",
+    "genre_primary": "rnb",
+    "genre_secondary": "pop"
   },
   {
     "name": "Depeche Mode - XX Songs",
@@ -13089,7 +13136,9 @@
     "era": null,
     "tag": null,
     "letter": "D",
-    "sort_name": "Depeche Mode - XX Songs"
+    "sort_name": "Depeche Mode - XX Songs",
+    "genre_primary": "electronic",
+    "genre_secondary": "rock"
   },
   {
     "name": "Demarco - DH Songs",
@@ -13099,7 +13148,8 @@
     "era": null,
     "tag": "dancehall",
     "letter": "D",
-    "sort_name": "Demarco - DH Songs"
+    "sort_name": "Demarco - DH Songs",
+    "genre_primary": "dancehall"
   },
   {
     "name": "Dehd - XX Songs",
@@ -13109,7 +13159,9 @@
     "era": null,
     "tag": null,
     "letter": "D",
-    "sort_name": "Dehd - XX Songs"
+    "sort_name": "Dehd - XX Songs",
+    "genre_primary": "indie",
+    "genre_secondary": "rock"
   },
   {
     "name": "Dead Moon - XX Songs",
@@ -13119,7 +13171,8 @@
     "era": null,
     "tag": null,
     "letter": "D",
-    "sort_name": "Dead Moon - XX Songs"
+    "sort_name": "Dead Moon - XX Songs",
+    "genre_primary": "rock"
   },
   {
     "name": "David Vandervelde - XX Songs",
@@ -13129,7 +13182,9 @@
     "era": null,
     "tag": null,
     "letter": "D",
-    "sort_name": "David Vandervelde - XX Songs"
+    "sort_name": "David Vandervelde - XX Songs",
+    "genre_primary": "indie",
+    "genre_secondary": "rock"
   },
   {
     "name": "David Bowie - XX Songs",
@@ -13139,7 +13194,9 @@
     "era": null,
     "tag": null,
     "letter": "D",
-    "sort_name": "David Bowie - XX Songs"
+    "sort_name": "David Bowie - XX Songs",
+    "genre_primary": "rock",
+    "genre_secondary": "pop"
   },
   {
     "name": "Daryl Hall & John Oates - XX Songs",
@@ -13149,7 +13206,9 @@
     "era": null,
     "tag": null,
     "letter": "D",
-    "sort_name": "Daryl Hall & John Oates - XX Songs"
+    "sort_name": "Daryl Hall & John Oates - XX Songs",
+    "genre_primary": "pop",
+    "genre_secondary": "rnb"
   },
   {
     "name": "Daniel Johnston - XX Songs",
@@ -13159,7 +13218,9 @@
     "era": null,
     "tag": null,
     "letter": "D",
-    "sort_name": "Daniel Johnston - XX Songs"
+    "sort_name": "Daniel Johnston - XX Songs",
+    "genre_primary": "folk",
+    "genre_secondary": "indie"
   },
   {
     "name": "DaBaby - 18+ Songs",
@@ -13169,7 +13230,8 @@
     "era": null,
     "tag": null,
     "letter": "D",
-    "sort_name": "DaBaby - 18+ Songs"
+    "sort_name": "DaBaby - 18+ Songs",
+    "genre_primary": "rap"
   },
   {
     "name": "Cure - XX Songs",
@@ -13179,7 +13241,8 @@
     "era": null,
     "tag": null,
     "letter": "C",
-    "sort_name": "Cure - XX Songs"
+    "sort_name": "Cure - XX Songs",
+    "genre_primary": "rock"
   },
   {
     "name": "Curtis Mayfield - XX Songs",
@@ -13189,7 +13252,8 @@
     "era": null,
     "tag": null,
     "letter": "C",
-    "sort_name": "Curtis Mayfield - XX Songs"
+    "sort_name": "Curtis Mayfield - XX Songs",
+    "genre_primary": "rnb"
   },
   {
     "name": "Crass - XX Songs",
@@ -13199,7 +13263,8 @@
     "era": null,
     "tag": null,
     "letter": "C",
-    "sort_name": "Crass - XX Songs"
+    "sort_name": "Crass - XX Songs",
+    "genre_primary": "rock"
   },
   {
     "name": "Creedence Clearwater Revival",
@@ -13209,7 +13274,9 @@
     "era": null,
     "tag": null,
     "letter": "C",
-    "sort_name": "Creedence Clearwater Revival"
+    "sort_name": "Creedence Clearwater Revival",
+    "genre_primary": "rock",
+    "genre_secondary": "folk"
   },
   {
     "name": "Covers-Yy",
@@ -13380,7 +13447,8 @@
     "era": null,
     "tag": null,
     "letter": "D",
-    "sort_name": "Covers-Dd"
+    "sort_name": "Covers-Dd",
+    "genre_primary": "indie"
   },
   {
     "name": "Covers-Cc",
@@ -13390,7 +13458,8 @@
     "era": null,
     "tag": null,
     "letter": "C",
-    "sort_name": "Covers-Cc"
+    "sort_name": "Covers-Cc",
+    "genre_primary": "indie"
   },
   {
     "name": "Covers-Bb",
@@ -13400,7 +13469,8 @@
     "era": null,
     "tag": null,
     "letter": "B",
-    "sort_name": "Covers-Bb"
+    "sort_name": "Covers-Bb",
+    "genre_primary": "indie"
   },
   {
     "name": "Covers-Aa",
@@ -13410,7 +13480,8 @@
     "era": null,
     "tag": null,
     "letter": "A",
-    "sort_name": "Covers-Aa"
+    "sort_name": "Covers-Aa",
+    "genre_primary": "indie"
   },
   {
     "name": "Courtney Barnett - XX Songs",
@@ -13420,7 +13491,9 @@
     "era": null,
     "tag": null,
     "letter": "C",
-    "sort_name": "Courtney Barnett - XX Songs"
+    "sort_name": "Courtney Barnett - XX Songs",
+    "genre_primary": "indie",
+    "genre_secondary": "rock"
   },
   {
     "name": "Couch Prints - XX Songs",
@@ -13430,7 +13503,9 @@
     "era": null,
     "tag": null,
     "letter": "C",
-    "sort_name": "Couch Prints - XX Songs"
+    "sort_name": "Couch Prints - XX Songs",
+    "genre_primary": "indie",
+    "genre_secondary": "pop"
   },
   {
     "name": "Coi Leray - XX Songs",
@@ -13440,7 +13515,9 @@
     "era": null,
     "tag": null,
     "letter": "C",
-    "sort_name": "Coi Leray - XX Songs"
+    "sort_name": "Coi Leray - XX Songs",
+    "genre_primary": "rap",
+    "genre_secondary": "pop"
   },
   {
     "name": "Clipse - XX Songs",
@@ -13450,7 +13527,8 @@
     "era": null,
     "tag": null,
     "letter": "C",
-    "sort_name": "Clipse - XX Songs"
+    "sort_name": "Clipse - XX Songs",
+    "genre_primary": "rap"
   },
   {
     "name": "Clairo - 14 Songs",
@@ -13460,7 +13538,9 @@
     "era": null,
     "tag": null,
     "letter": "C",
-    "sort_name": "Clairo - 14 Songs"
+    "sort_name": "Clairo - 14 Songs",
+    "genre_primary": "indie",
+    "genre_secondary": "pop"
   },
   {
     "name": "City Girls - 11 Songs",
@@ -13470,7 +13550,8 @@
     "era": null,
     "tag": null,
     "letter": "C",
-    "sort_name": "City Girls - 11 Songs"
+    "sort_name": "City Girls - 11 Songs",
+    "genre_primary": "rap"
   },
   {
     "name": "Ciara - XX Songs",
@@ -13480,7 +13561,9 @@
     "era": null,
     "tag": null,
     "letter": "C",
-    "sort_name": "Ciara - XX Songs"
+    "sort_name": "Ciara - XX Songs",
+    "genre_primary": "rnb",
+    "genre_secondary": "pop"
   },
   {
     "name": "CHVRCHES - 5 Songs",
@@ -13490,7 +13573,9 @@
     "era": null,
     "tag": null,
     "letter": "C",
-    "sort_name": "CHVRCHES - 5 Songs"
+    "sort_name": "CHVRCHES - 5 Songs",
+    "genre_primary": "pop",
+    "genre_secondary": "electronic"
   },
   {
     "name": "Christine and the Queens - 13 Songs",
@@ -13500,7 +13585,9 @@
     "era": null,
     "tag": null,
     "letter": "C",
-    "sort_name": "Christine and the Queens - 13 Songs"
+    "sort_name": "Christine and the Queens - 13 Songs",
+    "genre_primary": "pop",
+    "genre_secondary": "indie"
   },
   {
     "name": "Chappell Roan - XX Songs",
@@ -13518,7 +13605,9 @@
     "era": null,
     "tag": null,
     "letter": "C",
-    "sort_name": "Charli XCX - 17 Songs"
+    "sort_name": "Charli XCX - 17 Songs",
+    "genre_primary": "pop",
+    "genre_secondary": "electronic"
   },
   {
     "name": "Chance The Rapper - 16 Songs",
@@ -13528,7 +13617,8 @@
     "era": null,
     "tag": null,
     "letter": "C",
-    "sort_name": "Chance The Rapper - 16 Songs"
+    "sort_name": "Chance The Rapper - 16 Songs",
+    "genre_primary": "rap"
   },
   {
     "name": "Chingy - 2 Songs",
@@ -13538,7 +13628,8 @@
     "era": null,
     "tag": null,
     "letter": "C",
-    "sort_name": "Chingy - 2 Songs"
+    "sort_name": "Chingy - 2 Songs",
+    "genre_primary": "rap"
   },
   {
     "name": "Cee-Lo Green - 10 Songs",
@@ -13548,7 +13639,9 @@
     "era": null,
     "tag": null,
     "letter": "C",
-    "sort_name": "Cee-Lo Green - 10 Songs"
+    "sort_name": "Cee-Lo Green - 10 Songs",
+    "genre_primary": "rnb",
+    "genre_secondary": "rap"
   },
   {
     "name": "Cat Power - XX Songs",
@@ -13558,7 +13651,9 @@
     "era": null,
     "tag": null,
     "letter": "C",
-    "sort_name": "Cat Power - XX Songs"
+    "sort_name": "Cat Power - XX Songs",
+    "genre_primary": "indie",
+    "genre_secondary": "folk"
   },
   {
     "name": "Cat Stevens - XX Songs",
@@ -13568,7 +13663,8 @@
     "era": null,
     "tag": null,
     "letter": "C",
-    "sort_name": "Cat Stevens - XX Songs"
+    "sort_name": "Cat Stevens - XX Songs",
+    "genre_primary": "folk"
   },
   {
     "name": "Caroline Polachek - 10 Songs",
@@ -13578,7 +13674,9 @@
     "era": null,
     "tag": null,
     "letter": "C",
-    "sort_name": "Caroline Polachek - 10 Songs"
+    "sort_name": "Caroline Polachek - 10 Songs",
+    "genre_primary": "pop",
+    "genre_secondary": "indie"
   },
   {
     "name": "Carly Rae Jepsen - 14 Songs",
@@ -13588,7 +13686,8 @@
     "era": null,
     "tag": null,
     "letter": "C",
-    "sort_name": "Carly Rae Jepsen - 14 Songs"
+    "sort_name": "Carly Rae Jepsen - 14 Songs",
+    "genre_primary": "pop"
   },
   {
     "name": "Cardi B - XX Songs",
@@ -13598,7 +13697,9 @@
     "era": null,
     "tag": null,
     "letter": "C",
-    "sort_name": "Cardi B - XX Songs"
+    "sort_name": "Cardi B - XX Songs",
+    "genre_primary": "rap",
+    "genre_secondary": "pop"
   },
   {
     "name": "Cars - XX Songs",
@@ -13608,7 +13709,9 @@
     "era": null,
     "tag": null,
     "letter": "C",
-    "sort_name": "Cars - XX Songs"
+    "sort_name": "Cars - XX Songs",
+    "genre_primary": "rock",
+    "genre_secondary": "pop"
   },
   {
     "name": "Burna Boy - XX Songs",
@@ -13618,7 +13721,9 @@
     "era": null,
     "tag": null,
     "letter": "B",
-    "sort_name": "Burna Boy - XX Songs"
+    "sort_name": "Burna Boy - XX Songs",
+    "genre_primary": "rap",
+    "genre_secondary": "pop"
   },
   {
     "name": "Built To Spill - XX Songs",
@@ -13628,7 +13733,9 @@
     "era": null,
     "tag": null,
     "letter": "B",
-    "sort_name": "Built To Spill - XX Songs"
+    "sort_name": "Built To Spill - XX Songs",
+    "genre_primary": "indie",
+    "genre_secondary": "rock"
   },
   {
     "name": "Busy Signal - DH Songs",
@@ -13638,7 +13745,8 @@
     "era": null,
     "tag": "dancehall",
     "letter": "B",
-    "sort_name": "Busy Signal - DH Songs"
+    "sort_name": "Busy Signal - DH Songs",
+    "genre_primary": "dancehall"
   },
   {
     "name": "Bruce Springsteen - XX Songs",
@@ -13648,7 +13756,9 @@
     "era": null,
     "tag": null,
     "letter": "B",
-    "sort_name": "Bruce Springsteen - XX Songs"
+    "sort_name": "Bruce Springsteen - XX Songs",
+    "genre_primary": "rock",
+    "genre_secondary": "folk"
   },
   {
     "name": "Brent Faiyaz - 13 Songs",
@@ -13658,7 +13768,9 @@
     "era": null,
     "tag": null,
     "letter": "B",
-    "sort_name": "Brent Faiyaz - 13 Songs"
+    "sort_name": "Brent Faiyaz - 13 Songs",
+    "genre_primary": "rnb",
+    "genre_secondary": "rap"
   },
   {
     "name": "Bright Eyes - XX Songs",
@@ -13668,7 +13780,9 @@
     "era": null,
     "tag": null,
     "letter": "B",
-    "sort_name": "Bright Eyes - XX Songs"
+    "sort_name": "Bright Eyes - XX Songs",
+    "genre_primary": "indie",
+    "genre_secondary": "folk"
   },
   {
     "name": "Bob Marley - XX Songs",
@@ -13678,7 +13792,8 @@
     "era": null,
     "tag": null,
     "letter": "B",
-    "sort_name": "Bob Marley - XX Songs"
+    "sort_name": "Bob Marley - XX Songs",
+    "genre_primary": "dancehall"
   },
   {
     "name": "Bob Dylan - 65+ Songs",
@@ -13688,7 +13803,9 @@
     "era": null,
     "tag": null,
     "letter": "B",
-    "sort_name": "Bob Dylan - 65+ Songs"
+    "sort_name": "Bob Dylan - 65+ Songs",
+    "genre_primary": "folk",
+    "genre_secondary": "rock"
   },
   {
     "name": "Blood Orange - XX Songs",
@@ -13698,7 +13815,9 @@
     "era": null,
     "tag": null,
     "letter": "B",
-    "sort_name": "Blood Orange - XX Songs"
+    "sort_name": "Blood Orange - XX Songs",
+    "genre_primary": "rnb",
+    "genre_secondary": "indie"
   },
   {
     "name": "Blow - XX Songs",
@@ -13708,7 +13827,9 @@
     "era": null,
     "tag": null,
     "letter": "B",
-    "sort_name": "Blow - XX Songs"
+    "sort_name": "Blow - XX Songs",
+    "genre_primary": "indie",
+    "genre_secondary": "pop"
   },
   {
     "name": "Black Lips - XX Songs",
@@ -13718,7 +13839,9 @@
     "era": null,
     "tag": null,
     "letter": "B",
-    "sort_name": "Black Lips - XX Songs"
+    "sort_name": "Black Lips - XX Songs",
+    "genre_primary": "rock",
+    "genre_secondary": "indie"
   },
   {
     "name": "Black Keys - XX Songs",
@@ -13728,7 +13851,8 @@
     "era": null,
     "tag": null,
     "letter": "B",
-    "sort_name": "Black Keys - XX Songs"
+    "sort_name": "Black Keys - XX Songs",
+    "genre_primary": "rock"
   },
   {
     "name": "Bjork - XX Songs",
@@ -13738,7 +13862,9 @@
     "era": null,
     "tag": null,
     "letter": "B",
-    "sort_name": "Bjork - XX Songs"
+    "sort_name": "Bjork - XX Songs",
+    "genre_primary": "electronic",
+    "genre_secondary": "pop"
   },
   {
     "name": "Bill Callahan - XX Songs",
@@ -13748,7 +13874,9 @@
     "era": null,
     "tag": null,
     "letter": "B",
-    "sort_name": "Bill Callahan - XX Songs"
+    "sort_name": "Bill Callahan - XX Songs",
+    "genre_primary": "folk",
+    "genre_secondary": "indie"
   },
   {
     "name": "Big Thief - 25+ Songs",
@@ -13758,7 +13886,9 @@
     "era": null,
     "tag": null,
     "letter": "B",
-    "sort_name": "Big Thief - 25+ Songs"
+    "sort_name": "Big Thief - 25+ Songs",
+    "genre_primary": "indie",
+    "genre_secondary": "folk"
   },
   {
     "name": "Beyonce - 25 Songs",
@@ -13768,7 +13898,9 @@
     "era": null,
     "tag": null,
     "letter": "B",
-    "sort_name": "Beyonce - 25 Songs"
+    "sort_name": "Beyonce - 25 Songs",
+    "genre_primary": "pop",
+    "genre_secondary": "rnb"
   },
   {
     "name": "Belle & Sebastian - 15+ Songs",
@@ -13778,7 +13910,9 @@
     "era": null,
     "tag": null,
     "letter": "B",
-    "sort_name": "Belle & Sebastian - 15+ Songs"
+    "sort_name": "Belle & Sebastian - 15+ Songs",
+    "genre_primary": "indie",
+    "genre_secondary": "folk"
   },
   {
     "name": "Beck - 17 Songs",
@@ -13788,7 +13922,9 @@
     "era": null,
     "tag": null,
     "letter": "B",
-    "sort_name": "Beck - 17 Songs"
+    "sort_name": "Beck - 17 Songs",
+    "genre_primary": "indie",
+    "genre_secondary": "rock"
   },
   {
     "name": "Beatles - XX Songs",
@@ -13798,7 +13934,9 @@
     "era": null,
     "tag": null,
     "letter": "B",
-    "sort_name": "Beatles - XX Songs"
+    "sort_name": "Beatles - XX Songs",
+    "genre_primary": "rock",
+    "genre_secondary": "pop"
   },
   {
     "name": "Beatles - 5",
@@ -13808,7 +13946,9 @@
     "era": null,
     "tag": null,
     "letter": "B",
-    "sort_name": "Beatles - 5"
+    "sort_name": "Beatles - 5",
+    "genre_primary": "rock",
+    "genre_secondary": "pop"
   },
   {
     "name": "Beatles - 4",
@@ -13818,7 +13958,9 @@
     "era": null,
     "tag": null,
     "letter": "B",
-    "sort_name": "Beatles - 4"
+    "sort_name": "Beatles - 4",
+    "genre_primary": "rock",
+    "genre_secondary": "pop"
   },
   {
     "name": "Beatles - 3",
@@ -13828,7 +13970,9 @@
     "era": null,
     "tag": null,
     "letter": "B",
-    "sort_name": "Beatles - 3"
+    "sort_name": "Beatles - 3",
+    "genre_primary": "rock",
+    "genre_secondary": "pop"
   },
   {
     "name": "Beenie Man - DH Songs",
@@ -13838,7 +13982,8 @@
     "era": null,
     "tag": "dancehall",
     "letter": "B",
-    "sort_name": "Beenie Man - DH Songs"
+    "sort_name": "Beenie Man - DH Songs",
+    "genre_primary": "dancehall"
   },
   {
     "name": "Baby Keem - 16+ Songs",
@@ -13848,7 +13993,8 @@
     "era": null,
     "tag": null,
     "letter": "B",
-    "sort_name": "Baby Keem - 16+ Songs"
+    "sort_name": "Baby Keem - 16+ Songs",
+    "genre_primary": "rap"
   },
   {
     "name": "Aretha Franklin - XX Songs",
@@ -13858,7 +14004,8 @@
     "era": null,
     "tag": null,
     "letter": "A",
-    "sort_name": "Aretha Franklin - XX Songs"
+    "sort_name": "Aretha Franklin - XX Songs",
+    "genre_primary": "rnb"
   },
   {
     "name": "Arcade Fire - XX Songs",
@@ -13868,7 +14015,9 @@
     "era": null,
     "tag": null,
     "letter": "A",
-    "sort_name": "Arcade Fire - XX Songs"
+    "sort_name": "Arcade Fire - XX Songs",
+    "genre_primary": "indie",
+    "genre_secondary": "rock"
   },
   {
     "name": "Angel Olsen - 16 Songs",
@@ -13878,7 +14027,9 @@
     "era": null,
     "tag": null,
     "letter": "A",
-    "sort_name": "Angel Olsen - 16 Songs"
+    "sort_name": "Angel Olsen - 16 Songs",
+    "genre_primary": "indie",
+    "genre_secondary": "folk"
   },
   {
     "name": "Andy Shauf - 15 Songs",
@@ -13896,7 +14047,8 @@
     "era": null,
     "tag": null,
     "letter": "A",
-    "sort_name": "Aaliyah - XX Songs"
+    "sort_name": "Aaliyah - XX Songs",
+    "genre_primary": "rnb"
   },
   {
     "name": "Against Me! - Top Songs",
@@ -13906,7 +14058,8 @@
     "era": null,
     "tag": null,
     "letter": "A",
-    "sort_name": "Against Me! - Top Songs"
+    "sort_name": "Against Me! - Top Songs",
+    "genre_primary": "rock"
   },
   {
     "name": "Animal Collective - XX Songs",
@@ -13916,7 +14069,9 @@
     "era": null,
     "tag": null,
     "letter": "A",
-    "sort_name": "Animal Collective - XX Songs"
+    "sort_name": "Animal Collective - XX Songs",
+    "genre_primary": "indie",
+    "genre_secondary": "electronic"
   },
   {
     "name": "Adrianne Lenker - 10 Songs",
@@ -13926,7 +14081,9 @@
     "era": null,
     "tag": null,
     "letter": "A",
-    "sort_name": "Adrianne Lenker - 10 Songs"
+    "sort_name": "Adrianne Lenker - 10 Songs",
+    "genre_primary": "folk",
+    "genre_secondary": "indie"
   },
   {
     "name": "Abner Jay - XX Songs",
@@ -13936,7 +14093,8 @@
     "era": null,
     "tag": null,
     "letter": "A",
-    "sort_name": "Abner Jay - XX Songs"
+    "sort_name": "Abner Jay - XX Songs",
+    "genre_primary": "folk"
   },
   {
     "name": "2 Chainz - 17 Songs",
@@ -14006,7 +14164,8 @@
     "era": null,
     "tag": null,
     "letter": "A",
-    "sort_name": "ASAP Rocky - XX Songs"
+    "sort_name": "ASAP Rocky - XX Songs",
+    "genre_primary": "rap"
   },
   {
     "name": "Ari Lennox - 12 Songs",
@@ -14016,7 +14175,8 @@
     "era": null,
     "tag": null,
     "letter": "A",
-    "sort_name": "Ari Lennox - 12 Songs"
+    "sort_name": "Ari Lennox - 12 Songs",
+    "genre_primary": "rnb"
   },
   {
     "name": "Alkaline - 12 DH Songs",
@@ -14026,7 +14186,8 @@
     "era": null,
     "tag": "dancehall",
     "letter": "A",
-    "sort_name": "Alkaline - 12 DH Songs"
+    "sort_name": "Alkaline - 12 DH Songs",
+    "genre_primary": "dancehall"
   },
   {
     "name": "Ariana Grande - 8 Songs",
@@ -14036,7 +14197,9 @@
     "era": null,
     "tag": null,
     "letter": "A",
-    "sort_name": "Ariana Grande - 8 Songs"
+    "sort_name": "Ariana Grande - 8 Songs",
+    "genre_primary": "pop",
+    "genre_secondary": "rnb"
   },
   {
     "name": "Asher White - XX Songs",
@@ -14046,7 +14209,8 @@
     "era": null,
     "tag": null,
     "letter": "A",
-    "sort_name": "Asher White - XX Songs"
+    "sort_name": "Asher White - XX Songs",
+    "genre_primary": "indie"
   },
   {
     "name": "ANOHNI - 8 Songs",
@@ -14056,7 +14220,9 @@
     "era": null,
     "tag": null,
     "letter": "A",
-    "sort_name": "ANOHNI - 8 Songs"
+    "sort_name": "ANOHNI - 8 Songs",
+    "genre_primary": "indie",
+    "genre_secondary": "electronic"
   },
   {
     "name": "Banks - 8 Songs",
@@ -14066,7 +14232,9 @@
     "era": null,
     "tag": null,
     "letter": "B",
-    "sort_name": "Banks - 8 Songs"
+    "sort_name": "Banks - 8 Songs",
+    "genre_primary": "pop",
+    "genre_secondary": "rnb"
   },
   {
     "name": "B-52s - XX Songs",
@@ -14076,7 +14244,9 @@
     "era": null,
     "tag": null,
     "letter": "B",
-    "sort_name": "B-52s - XX Songs"
+    "sort_name": "B-52s - XX Songs",
+    "genre_primary": "rock",
+    "genre_secondary": "pop"
   },
   {
     "name": "Beirut - 8 Songs",
@@ -14086,7 +14256,9 @@
     "era": null,
     "tag": null,
     "letter": "B",
-    "sort_name": "Beirut - 8 Songs"
+    "sort_name": "Beirut - 8 Songs",
+    "genre_primary": "indie",
+    "genre_secondary": "folk"
   },
   {
     "name": "Bonnie \"Prince\" Billy - XX Songs",
@@ -14096,7 +14268,9 @@
     "era": null,
     "tag": null,
     "letter": "B",
-    "sort_name": "Bonnie \"Prince\" Billy - XX Songs"
+    "sort_name": "Bonnie \"Prince\" Billy - XX Songs",
+    "genre_primary": "folk",
+    "genre_secondary": "indie"
   },
   {
     "name": "Avey Tare - XX Songs",
@@ -14106,7 +14280,9 @@
     "era": null,
     "tag": null,
     "letter": "A",
-    "sort_name": "Avey Tare - XX Songs"
+    "sort_name": "Avey Tare - XX Songs",
+    "genre_primary": "indie",
+    "genre_secondary": "electronic"
   },
   {
     "name": "Billy Bragg - XX Songs",
@@ -14116,7 +14292,8 @@
     "era": null,
     "tag": null,
     "letter": "B",
-    "sort_name": "Billy Bragg - XX Songs"
+    "sort_name": "Billy Bragg - XX Songs",
+    "genre_primary": "folk"
   },
   {
     "name": "Big Boi - 8 Songs",
@@ -14126,7 +14303,8 @@
     "era": null,
     "tag": null,
     "letter": "B",
-    "sort_name": "Big Boi - 8 Songs"
+    "sort_name": "Big Boi - 8 Songs",
+    "genre_primary": "rap"
   },
   {
     "name": "Bully - 7 Songs",
@@ -14136,7 +14314,9 @@
     "era": null,
     "tag": null,
     "letter": "B",
-    "sort_name": "Bully - 7 Songs"
+    "sort_name": "Bully - 7 Songs",
+    "genre_primary": "rock",
+    "genre_secondary": "indie"
   },
   {
     "name": "Caribou - 8 Songs",
@@ -14146,7 +14326,9 @@
     "era": null,
     "tag": null,
     "letter": "C",
-    "sort_name": "Caribou - 8 Songs"
+    "sort_name": "Caribou - 8 Songs",
+    "genre_primary": "electronic",
+    "genre_secondary": "indie"
   },
   {
     "name": "Black Mountain - 4 Songs",
@@ -14156,7 +14338,9 @@
     "era": null,
     "tag": null,
     "letter": "B",
-    "sort_name": "Black Mountain - 4 Songs"
+    "sort_name": "Black Mountain - 4 Songs",
+    "genre_primary": "rock",
+    "genre_secondary": "indie"
   },
   {
     "name": "Beach Boys - XX Songs",
@@ -14166,7 +14350,9 @@
     "era": null,
     "tag": null,
     "letter": "B",
-    "sort_name": "Beach Boys - XX Songs"
+    "sort_name": "Beach Boys - XX Songs",
+    "genre_primary": "pop",
+    "genre_secondary": "rock"
   },
   {
     "name": "Bryson Tiller - XX Songs",
@@ -14176,7 +14362,9 @@
     "era": null,
     "tag": null,
     "letter": "B",
-    "sort_name": "Bryson Tiller - XX Songs"
+    "sort_name": "Bryson Tiller - XX Songs",
+    "genre_primary": "rnb",
+    "genre_secondary": "rap"
   },
   {
     "name": "Broken Social Scene - XX Songs",
@@ -14186,7 +14374,9 @@
     "era": null,
     "tag": null,
     "letter": "B",
-    "sort_name": "Broken Social Scene - XX Songs"
+    "sort_name": "Broken Social Scene - XX Songs",
+    "genre_primary": "indie",
+    "genre_secondary": "rock"
   },
   {
     "name": "1-offs: 2000-2019: Z- A",
@@ -14206,7 +14396,9 @@
     "era": null,
     "tag": null,
     "letter": "B",
-    "sort_name": "Beach House - XX Songs"
+    "sort_name": "Beach House - XX Songs",
+    "genre_primary": "indie",
+    "genre_secondary": "pop"
   },
   {
     "name": "Adan DIaz - 5 Songs",
@@ -14216,7 +14408,9 @@
     "era": null,
     "tag": null,
     "letter": "A",
-    "sort_name": "Adan DIaz - 5 Songs"
+    "sort_name": "Adan DIaz - 5 Songs",
+    "genre_primary": "indie",
+    "genre_secondary": "pop"
   },
   {
     "name": "ABRA - 6 Songs",
@@ -14226,7 +14420,9 @@
     "era": null,
     "tag": null,
     "letter": "A",
-    "sort_name": "ABRA - 6 Songs"
+    "sort_name": "ABRA - 6 Songs",
+    "genre_primary": "rnb",
+    "genre_secondary": "electronic"
   },
   {
     "name": "2010s-1-Offs",
@@ -14296,6 +14492,7 @@
     "era": null,
     "tag": null,
     "letter": "A",
-    "sort_name": "Al Green - XX Songs"
+    "sort_name": "Al Green - XX Songs",
+    "genre_primary": "rnb"
   }
 ]
