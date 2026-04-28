@@ -1,0 +1,255 @@
+{{ define "main" }}
+<style>
+  :root{--ink:#0a0a0a;--paper:#fff8ec;--hot:#ff2d55;--acid:#c6ff3d;--cobalt:#1e4dff;--tang:#ff7a1a;--plum:#7b1fa2;
+    /* genre swatches — distinct from era/type colors */
+    --g-pop:#ff5ec4;--g-indie:#ffb800;--g-rock:#1a1a1a;--g-rap:#00d97e;--g-rnb:#a259ff;--g-dancehall:#ff7a1a;--g-electronic:#00b8d9;--g-folk:#8b6f3f;--g-experimental:#666;}
+  html,body{background:var(--paper);color:var(--ink);}
+  .main{max-width:none!important;padding:0!important;}
+  .bb-wrap{padding:28px clamp(16px,4vw,56px) 96px;font-family:"Space Grotesk","Helvetica Neue",system-ui,sans-serif;}
+  .bb-mark{font-family:"Archivo Black",sans-serif;font-weight:900;font-size:clamp(48px,11vw,168px);line-height:.82;letter-spacing:-.04em;text-transform:uppercase;margin:0 0 6px;}
+  .bb-mark .s1{color:var(--hot);} .bb-mark .s2{color:var(--cobalt);} .bb-mark .s3{color:var(--ink);background:var(--acid);padding:0 .08em;}
+  .bb-hash{font-family:"Archivo Black",sans-serif;font-size:clamp(14px,2vw,22px);margin:0 0 18px;display:inline-block;background:var(--ink);color:var(--acid);padding:4px 10px;transform:rotate(-1.5deg);}
+  .bb-manifesto{display:grid;grid-template-columns:1fr auto;gap:28px;align-items:end;border-top:3px solid var(--ink);border-bottom:3px solid var(--ink);padding:18px 0;margin:8px 0 22px;}
+  .bb-manifesto p{font-size:clamp(14px,1.4vw,17px);line-height:1.45;margin:0;max-width:780px;}
+  .bb-manifesto p b{background:var(--acid);padding:0 4px;}
+  .bb-manifesto p i{font-style:italic;color:var(--hot);font-weight:600;}
+  .bb-bike{width:clamp(120px,18vw,220px);}
+  .bb-filters{display:flex;flex-wrap:wrap;gap:10px 16px;align-items:center;margin:0 0 8px;padding:14px 0 10px;border-bottom:3px solid var(--ink);}
+  .bb-filters.genres{border-bottom:3px solid var(--ink);margin-bottom:20px;padding:10px 0 14px;}
+  .bb-filters .lbl{font-family:"JetBrains Mono",monospace;font-size:11px;letter-spacing:.18em;text-transform:uppercase;opacity:.6;margin-right:4px;}
+  .pill{font:600 13px/1 "Space Grotesk",sans-serif;text-transform:uppercase;letter-spacing:.06em;padding:9px 14px;border:2px solid var(--ink);background:var(--paper);color:var(--ink);cursor:pointer;border-radius:999px;transition:transform .08s ease;}
+  .pill:hover{transform:translate(-2px,-2px);box-shadow:3px 3px 0 var(--ink);}
+  .pill[aria-pressed="true"]{background:var(--ink);color:var(--paper);}
+  .pill.era[aria-pressed="true"]{background:var(--cobalt);color:#fff;border-color:var(--cobalt);}
+  .pill.type[aria-pressed="true"]{background:var(--hot);color:#fff;border-color:var(--hot);}
+  .pill.genre{position:relative;}
+  .pill.genre::before{content:"";display:inline-block;width:9px;height:9px;border-radius:50%;margin-right:7px;vertical-align:-1px;background:var(--gc,#000);border:1.5px solid var(--ink);}
+  .pill.genre[aria-pressed="true"]{background:var(--gc);color:#fff;border-color:var(--ink);}
+  .pill.genre[aria-pressed="true"]::before{background:#fff;border-color:#fff;}
+  .pill.genre[data-g="rock"][aria-pressed="true"]{color:#fff;}
+  .pill.clear{margin-left:auto;background:transparent;border-style:dashed;}
+  .bb-az{display:grid;grid-template-columns:repeat(auto-fill,minmax(96px,1fr));gap:8px;margin:24px 0 36px;}
+  .bb-az a{position:relative;display:flex;align-items:flex-end;aspect-ratio:1/1;padding:10px;font-family:"Archivo Black",sans-serif;font-size:clamp(36px,5vw,64px);line-height:.8;text-decoration:none;color:var(--ink);background:var(--paper);border:3px solid var(--ink);text-transform:uppercase;transition:transform .08s ease;}
+  .bb-az a:nth-child(7n+1){background:var(--acid);} .bb-az a:nth-child(7n+3){background:var(--tang);color:#fff;} .bb-az a:nth-child(7n+5){background:var(--cobalt);color:#fff;} .bb-az a:nth-child(7n+6){background:var(--hot);color:#fff;} .bb-az a:nth-child(7n){background:var(--plum);color:#fff;}
+  .bb-az a:hover{transform:translate(-3px,-3px);box-shadow:6px 6px 0 var(--ink);}
+  .bb-az a.dim{opacity:.18;pointer-events:none;}
+  .bb-az a .ct{position:absolute;top:6px;right:8px;font-family:"JetBrains Mono",monospace;font-size:11px;font-weight:400;opacity:.7;}
+  .bb-list{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:14px;}
+  .card{display:block;padding:16px;border:3px solid var(--ink);background:var(--paper);text-decoration:none;color:var(--ink);transition:transform .08s ease;}
+  .card:hover{transform:translate(-3px,-3px);box-shadow:6px 6px 0 var(--ink);}
+  .card h3{font-family:"Archivo Black",sans-serif;font-size:22px;line-height:1;margin:0 0 8px;text-transform:uppercase;}
+  .card .meta{font-family:"JetBrains Mono",monospace;font-size:11px;text-transform:uppercase;letter-spacing:.12em;opacity:.65;display:flex;gap:8px;flex-wrap:wrap;align-items:center;}
+  .card .meta b{background:var(--ink);color:var(--paper);padding:2px 6px;font-weight:400;}
+  .card .meta .dh{background:var(--tang);color:#fff;padding:2px 6px;}
+  .card .meta .gb{padding:2px 6px;color:#fff;background:var(--gc,#666);font-weight:600;letter-spacing:.08em;}
+  .card .meta .gb.sec{opacity:.5;}
+  .card.hidden{display:none;}
+  .bb-empty{padding:60px 20px;text-align:center;font-family:"JetBrains Mono",monospace;font-size:14px;opacity:.6;border:3px dashed var(--ink);}
+  .bb-empty.hidden{display:none;}
+  .bb-loading{padding:40px 20px;text-align:center;font-family:"JetBrains Mono",monospace;font-size:13px;opacity:.5;}
+  @media (max-width:640px){.bb-manifesto{grid-template-columns:1fr;}.bb-bike{justify-self:end;}}
+</style>
+
+<div class="bb-wrap">
+  <h1 class="bb-mark"><span class="s1">BIG</span><span class="s2">BAN</span><span class="s3">ONOS</span></h1>
+  <div class="bb-hash">#LastThingINeedIsMoreMoney</div>
+
+  <div class="bb-manifesto">
+    <p><b>2% of music is good.</b> Modern dancehall, indie that still has teeth, rap that means it, the records that started rock, weird shit, current shit. <i>Experimental instrumental noodling can kizz my ass.</i> The filter does the talking — pick a letter, pick an era, pick a genre, go.</p>
+    <svg class="bb-bike" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg" aria-label="Cards fan dribbling through his legs, dollar bills spilling">
+      <g font-family="Archivo Black,sans-serif" font-size="10" fill="#0a0a0a">
+        <g transform="translate(18 108) rotate(-22)"><rect width="20" height="11" fill="#c6ff3d" stroke="#0a0a0a" stroke-width="1.4"/><text x="10" y="8" text-anchor="middle">$</text></g>
+        <g transform="translate(8 138) rotate(14)"><rect width="20" height="11" fill="#c6ff3d" stroke="#0a0a0a" stroke-width="1.4"/><text x="10" y="8" text-anchor="middle">$</text></g>
+        <g transform="translate(28 165) rotate(-8)"><rect width="20" height="11" fill="#c6ff3d" stroke="#0a0a0a" stroke-width="1.4"/><text x="10" y="8" text-anchor="middle">$</text></g>
+        <g transform="translate(155 135) rotate(24)"><rect width="20" height="11" fill="#c6ff3d" stroke="#0a0a0a" stroke-width="1.4"/><text x="10" y="8" text-anchor="middle">$</text></g>
+        <g transform="translate(170 170) rotate(-12)"><rect width="20" height="11" fill="#c6ff3d" stroke="#0a0a0a" stroke-width="1.4"/><text x="10" y="8" text-anchor="middle">$</text></g>
+      </g>
+      <circle cx="100" cy="36" r="13" fill="none" stroke="#0a0a0a" stroke-width="2.5"/>
+      <path d="M88 30 Q100 18 113 30" fill="#c41e3a" stroke="#0a0a0a" stroke-width="2.5"/>
+      <path d="M113 30 L122 32 L113 33" fill="#c41e3a" stroke="#0a0a0a" stroke-width="2"/>
+      <text x="100" y="30" font-family="Archivo Black,sans-serif" font-size="7" fill="#fff" text-anchor="middle">StL</text>
+      <path d="M75 62 Q70 55 78 52 L92 50 Q100 49 108 50 L122 52 Q130 55 125 62 L122 90 L115 110 L108 128 L92 128 L85 110 L78 90 Z" fill="none" stroke="#0a0a0a" stroke-width="2.5" stroke-linejoin="round"/>
+      <path d="M76 58 Q80 52 86 54" fill="none" stroke="#0a0a0a" stroke-width="2" stroke-linecap="round"/>
+      <path d="M124 58 Q120 52 114 54" fill="none" stroke="#0a0a0a" stroke-width="2" stroke-linecap="round"/>
+      <path d="M78 62 Q62 85 70 110" fill="none" stroke="#0a0a0a" stroke-width="2.5" stroke-linecap="round"/>
+      <path d="M122 62 Q142 82 134 108" fill="none" stroke="#0a0a0a" stroke-width="2.5" stroke-linecap="round"/>
+      <path d="M92 128 L75 175" fill="none" stroke="#0a0a0a" stroke-width="2.5" stroke-linecap="round"/>
+      <path d="M108 128 L125 175" fill="none" stroke="#0a0a0a" stroke-width="2.5" stroke-linecap="round"/>
+      <path d="M70 172 L85 172 L82 178 L68 178 Z" fill="#0a0a0a"/>
+      <path d="M120 172 L135 172 L132 178 L118 178 Z" fill="#0a0a0a"/>
+      <path d="M96 128 Q100 135 104 128" fill="none" stroke="#0a0a0a" stroke-width="2" stroke-linecap="round"/>
+      <circle cx="100" cy="158" r="11" fill="#ff7a1a" stroke="#0a0a0a" stroke-width="2"/>
+      <path d="M89 158 L111 158 M100 147 L100 169" stroke="#0a0a0a" stroke-width="1.2" fill="none"/>
+      <path d="M92 150 Q100 158 92 166" stroke="#0a0a0a" stroke-width="1.2" fill="none"/>
+      <path d="M108 150 Q100 158 108 166" stroke="#0a0a0a" stroke-width="1.2" fill="none"/>
+      <circle cx="100" cy="175" r="1.5" fill="#0a0a0a"/>
+      <circle cx="95" cy="180" r="1" fill="#0a0a0a"/>
+      <circle cx="105" cy="180" r="1" fill="#0a0a0a"/>
+    </svg>
+  </div>
+
+  <div class="bb-filters" id="bbFilters">
+    <span class="lbl">Era</span>
+    <button class="pill era" data-era="2020s">2020s</button>
+    <button class="pill era" data-era="00s-10s">2000-2019</button>
+    <button class="pill era" data-era="1900s">Pre-2000</button>
+    <span class="lbl" style="margin-left:18px;">Type</span>
+    <button class="pill type" data-type="artist">Artist</button>
+    <button class="pill type" data-type="1off_bucket">1-off</button>
+    <button class="pill type" data-type="cover">Cover</button>
+    <button class="pill clear" id="bbClear">Reset</button>
+  </div>
+
+  <div class="bb-filters genres" id="bbGenres">
+    <span class="lbl">Genre</span>
+    <button class="pill genre" data-g="pop"        style="--gc:var(--g-pop)">Pop</button>
+    <button class="pill genre" data-g="indie"      style="--gc:var(--g-indie)">Indie</button>
+    <button class="pill genre" data-g="rock"       style="--gc:var(--g-rock)">Rock</button>
+    <button class="pill genre" data-g="rap"        style="--gc:var(--g-rap)">Rap</button>
+    <button class="pill genre" data-g="rnb"        style="--gc:var(--g-rnb)">R&amp;B</button>
+    <button class="pill genre" data-g="dancehall"  style="--gc:var(--g-dancehall)">Dancehall</button>
+    <button class="pill genre" data-g="electronic" style="--gc:var(--g-electronic)">Electronic</button>
+    <button class="pill genre" data-g="folk"       style="--gc:var(--g-folk)">Folk</button>
+  </div>
+
+  <nav class="bb-az" id="bbAZ" aria-label="A to Z">
+    {{ $letters := slice "A" "B" "C" "D" "E" "F" "G" "H" "I" "J" "K" "L" "M" "N" "O" "P" "Q" "R" "S" "T" "U" "V" "W" "X" "Y" "Z" "#" }}
+    {{ range $letters }}<a href="#L-{{ . }}" data-letter="{{ . }}">{{ . }}<span class="ct" data-ct="{{ . }}"></span></a>{{ end }}
+  </nav>
+
+  <div class="bb-list" id="bbList"><div class="bb-loading">loading manifest...</div></div>
+  <div class="bb-empty hidden" id="bbEmpty">nothing here under those filters. loosen up.</div>
+</div>
+
+<script>
+(function(){
+  var GENRE_LABELS={pop:"POP",indie:"INDIE",rock:"ROCK",rap:"RAP",rnb:"R&B",dancehall:"DH",electronic:"ELEC",folk:"FOLK",experimental:"EXP"};
+  var filters={era:new Set(),type:new Set(),genre:new Set(),letter:null};
+  var list=document.getElementById('bbList');
+  var azLinks=Array.from(document.querySelectorAll('#bbAZ a'));
+  var empty=document.getElementById('bbEmpty');
+  var cards=[];
+
+  function slug(s){return(s||'').toLowerCase().replace(/[^a-z0-9]+/g,'-').replace(/^-|-$/g,'');}
+  function cleanName(n){
+    var s=(n||'').toString();
+    s=s.replace(/\s*[-\u2013\u2014]\s*(XX+|\d+\+?)\s*(Songs?|Remixes?|IP\s*Songs?|DH\s*Songs?|Rap\s*Songs?|Top\s*Songs?|Sons|Sogs)\s*$/i,'');
+    s=s.replace(/\s*[-\u2013\u2014]\s*DH\s*SONGS?\s*$/i,'');
+    s=s.replace(/\s*[-\u2013\u2014]\s*Top\s*Songs?\s*$/i,'');
+    s=s.replace(/\s*[-\u2013\u2014]\s*Best\s*Song\s*$/i,'');
+    s=s.replace(/\s*[-\u2013\u2014]\s*Covers?\s*$/i,'');
+    s=s.replace(/\s*[-\u2013\u2014]\s*INSTRUMENTAL\s*Songs?\s*$/i,'');
+    s=s.replace(/\s*[-\u2013\u2014]\s*IRISH\s*Songs?\s*$/i,'');
+    s=s.replace(/\s*[-\u2013\u2014]\s*[\w\s]+\s*Songs?\s*$/i,'');
+    s=s.replace(/^Songs[-\s]+(\w\w?)[-\s]+(.+)$/i,function(_,L,e){return L.toUpperCase()+' \u00B7 '+e+' 1-offs';});
+    s=s.replace(/^Covers[-\s]+(\w\w?)$/i,function(_,L){return L.toUpperCase()+' covers';});
+    return s.trim();
+  }
+  function buildHref(r){
+    if(r.kind==='1off_bucket'){
+      var L=(r.letter||'#').toLowerCase();
+      var e=(r.era||'').toLowerCase();
+      if(e==='dh'||e==='dancehall') e='dh';
+      return '/'+L+'-'+e+'-1offs/';
+    }
+    if(r.kind==='cover'){
+      var L2=(r.letter||'#').toLowerCase();
+      return '/covers-'+L2+L2+'/';
+    }
+    return '/'+slug(cleanName(r.name))+'/';
+  }
+
+  function genresOf(r){
+    // Returns array of genre slugs for this record. Reads genre_primary, genre_secondary if present.
+    // Falls back to legacy tag==='dancehall' => ['dancehall'].
+    var out=[];
+    if(r.genre_primary) out.push(r.genre_primary);
+    if(r.genre_secondary && r.genre_secondary!==r.genre_primary) out.push(r.genre_secondary);
+    if(out.length===0 && r.tag==='dancehall') out.push('dancehall');
+    return out;
+  }
+
+  function render(data){
+    var pub=data.filter(function(r){return r.kind==='artist'||r.kind==='1off_bucket'||r.kind==='cover';});
+    pub.sort(function(a,b){return (a.sort_name||a.name).localeCompare(b.sort_name||b.name);});
+    list.innerHTML=pub.map(function(r){
+      var name=cleanName(r.name);
+      var dh=r.tag==='dancehall'?'<span class="dh">DH</span>':'';
+      var era=(r.era&&r.era!=='all')?'<span>'+r.era+'</span>':'';
+      var kind=r.kind==='1off_bucket'?'1-OFF':r.kind.toUpperCase();
+      var href=buildHref(r);
+      var gs=genresOf(r);
+      // Avoid double-tagging dancehall when DH badge already shows
+      var genreBadges=gs.filter(function(g){return !(g==='dancehall'&&r.tag==='dancehall');})
+        .map(function(g,i){return '<span class="gb'+(i>0?' sec':'')+'" style="--gc:var(--g-'+g+')">'+(GENRE_LABELS[g]||g.toUpperCase())+'</span>';}).join('');
+      return '<a class="card" href="'+href+'" data-letter="'+(r.letter||'#')+'" data-era="'+(r.era||'')+'" data-type="'+r.kind+'" data-genres="'+gs.join(',')+'"><h3>'+name+'</h3><div class="meta"><b>'+kind+'</b>'+dh+genreBadges+era+'<span>'+r.tracks+' tr</span></div></a>';
+    }).join('');
+    cards=Array.from(list.querySelectorAll('.card'));
+    apply();
+  }
+
+  function apply(){
+    var shown=0;
+    var letterCounts={};
+    cards.forEach(function(c){
+      var cardEra=c.dataset.era||'';
+      var cardGenres=(c.dataset.genres||'').split(',').filter(Boolean);
+      var eraOk=(filters.era.size===0)||(!cardEra)||(filters.era.has(cardEra));
+      var typeOk=(filters.type.size===0)||(filters.type.has(c.dataset.type));
+      var letterOk=(!filters.letter)||(c.dataset.letter===filters.letter);
+      var genreOk=(filters.genre.size===0)||cardGenres.some(function(g){return filters.genre.has(g);});
+      var ok=eraOk&&typeOk&&letterOk&&genreOk;
+      c.classList.toggle('hidden',!ok);
+      if(ok){
+        shown++;
+        var l=c.dataset.letter||'#';
+        letterCounts[l]=(letterCounts[l]||0)+1;
+      }
+    });
+    // Update A-Z counts and dim letters with no matches under current filters
+    document.querySelectorAll('[data-ct]').forEach(function(s){
+      var l=s.dataset.ct;
+      var n=letterCounts[l]||0;
+      s.textContent=n||'';
+      if(!n){s.parentElement.classList.add('dim');}else{s.parentElement.classList.remove('dim');}
+    });
+    empty.classList.toggle('hidden',shown>0);
+  }
+
+  function bindToggle(sel,kind){
+    document.querySelectorAll(sel).forEach(function(btn){
+      btn.addEventListener('click',function(){
+        var val=btn.dataset[kind==='genre'?'g':kind];
+        var set=filters[kind];
+        if(set.has(val)){set.delete(val);btn.setAttribute('aria-pressed','false');}
+        else{set.add(val);btn.setAttribute('aria-pressed','true');}
+        apply();
+      });
+    });
+  }
+  bindToggle('.pill.era','era');
+  bindToggle('.pill.type','type');
+  bindToggle('.pill.genre','genre');
+
+  azLinks.forEach(function(a){
+    a.addEventListener('click',function(e){
+      e.preventDefault();
+      if(a.classList.contains('dim')) return;
+      if(filters.letter===a.dataset.letter){filters.letter=null;azLinks.forEach(function(x){x.style.outline='';});}
+      else{filters.letter=a.dataset.letter;azLinks.forEach(function(x){x.style.outline='';});a.style.outline='4px solid #0a0a0a';a.style.outlineOffset='-3px';}
+      apply();
+    });
+  });
+  document.getElementById('bbClear').addEventListener('click',function(){
+    filters.era.clear();filters.type.clear();filters.genre.clear();filters.letter=null;
+    document.querySelectorAll('.pill[aria-pressed="true"]').forEach(function(p){p.setAttribute('aria-pressed','false');});
+    azLinks.forEach(function(x){x.style.outline='';});apply();
+  });
+
+  fetch('/playlist_manifest.json')
+    .then(function(r){return r.json();})
+    .then(render)
+    .catch(function(e){list.innerHTML='<div class="bb-empty">Could not load /playlist_manifest.json. Make sure it is in the static/ folder.</div>';});
+})();
+</script>
+{{ end }}
