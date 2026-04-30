@@ -14,7 +14,7 @@ tags:
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "d6m1_piEe7w" >}}
 </div> <!-- Song Information -->
-<div > <p><em>"B.U.R.M.A"</em>, from Dirty Pretty Thingsâ€™ 2006 album *Waterloo To Anywhere*, released under EMI, is a quintessential British indie rock anthem. Its gritty energy, catchy hooks, and raw vocal delivery make it a standout track for fans of Britpop and garage rock.</p>
+<div > <p><em>"B.U.R.M.A"</em>, from Dirty Pretty Things' 2006 album *Waterloo To Anywhere*, released under EMI, is a quintessential British indie rock anthem. Its gritty energy, catchy hooks, and raw vocal delivery make it a standout track for fans of Britpop and garage rock.</p>
 </div> <!-- Footer Links -->
 <div > 
 </div> 

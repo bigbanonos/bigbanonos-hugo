@@ -8,7 +8,7 @@ tags:
 ---
 
 <!-- Title of the Post -->
-<h1>BigBanonosâ€™ Favorite Songs by Tei Shi</h1> <!-- Featured Image -->
+<h1>BigBanonos' Favorite Songs by Tei Shi</h1> <!-- Featured Image -->
 <div> {{< img-lite src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Minu_downtownrecords-teishibloodorange-050.jpg" alt="Tei Shi" >}}
 </div> <!-- Spotify Embed -->
 <div> {{< youtube "embed" >}}

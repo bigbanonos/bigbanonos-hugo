@@ -8,7 +8,7 @@ tags:
 ---
 
 <!-- Title of the Post -->
-<h1 >BigBanonosâ€™ Favorite Songs by Babyfather</h1> <!-- Featured Image -->
+<h1 >BigBanonos' Favorite Songs by Babyfather</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab67616d0000b273197c88ce274bb0228a1979ba" alt="Babyfather" >}}
 </div> <!-- Spotify Embed -->
 <div > {{< youtube "embed" >}}

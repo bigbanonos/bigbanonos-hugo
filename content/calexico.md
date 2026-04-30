@@ -14,7 +14,7 @@ tags:
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "tjzxxzBTNmw" >}}
 </div> <!-- Song Information -->
-<div > <p>"Cumbia de Donde" by Calexico is featured on their album *Edge of the Sun*, released on April 13, 2015, under the Anti/Epitaph label. This song showcases the bandâ€™s unique fusion of alternative country, chamber pop, roots rock, and Tucson indie sounds.</p>
+<div > <p>"Cumbia de Donde" by Calexico is featured on their album *Edge of the Sun*, released on April 13, 2015, under the Anti/Epitaph label. This song showcases the band's unique fusion of alternative country, chamber pop, roots rock, and Tucson indie sounds.</p>
 </div> <!-- Footer Links -->
 <div > <p>For more updates and playlists, visit <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Connect with us on <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p>
 </div> 

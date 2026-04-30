@@ -11,7 +11,7 @@ tags:
 ---
 
 <h2 >BigBanonos' Top 2 Songs by Ellie Goulding</h2> <!-- Introductory Text -->
-<p >Updated September 25, 2019, with "Hate Me - Snakehips Remix." Ellie Gouldingâ€™s ethereal vocals and genre-defying collaborations have made her a global sensation. Explore BigBanonosâ€™ top picks featuring her dynamic range and artistry.</p> <!-- Featured Image -->
+<p >Updated September 25, 2019, with "Hate Me - Snakehips Remix." Ellie Goulding's ethereal vocals and genre-defying collaborations have made her a global sensation. Explore BigBanonos' top picks featuring her dynamic range and artistry.</p> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab6761610000e5ebc3cd7dc428871e8985d62b9a" alt="Ellie Goulding - Featured Image" >}}
 </div> <!-- Spotify Playlist Embed -->
 <div > {{< youtube "embed" >}}

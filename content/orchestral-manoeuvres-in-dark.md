@@ -9,7 +9,7 @@ tags:
 
 <!-- Title of the Post -->
 <h1 >Orchestral Manoeuvres In The Dark - Synthpop Classics</h1> <!-- Introductory Text -->
-<p >OMDâ€™s legendary synth-driven sound paved the way for a new era of music. Explore their timeless classics below!</p> <!-- Featured Image -->
+<p >OMD's legendary synth-driven sound paved the way for a new era of music. Explore their timeless classics below!</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d0000b27346c913077ad733cf423eab13" alt="Orchestral Manoeuvres In The Dark" />
 </div> <!-- Spotify Playlist Embed -->
 <div > {{< youtube "embed" >}}

@@ -10,13 +10,13 @@ tags:
 ---
 
 <!-- Post Title -->
-<h1 >BigBanonos' Favorite Tracks: Lloyd, AndrÃƒÆ’Ã‚Â© 3000 & Lil Wayne - "Dedication To My Ex (Miss That)"</h1> <!-- Introductory Text -->
-<p >Updated January 1, 2011, with "Dedication To My Ex (Miss That)" by Lloyd featuring AndrÃƒÆ’Ã‚Â© 3000 and Lil Wayne. This genre-blending track from the album <em>King Of Hearts</em>, released under Zone 4 Inc/Interscope, is a standout in hip hop, R&B, and pop.</p> <!-- Featured Image -->
+<h1 >BigBanonos' Favorite Tracks: Lloyd, AndrÃƒÆ’Ã‚© 3000 & Lil Wayne - "Dedication To My Ex (Miss That)"</h1> <!-- Introductory Text -->
+<p >Updated January 1, 2011, with "Dedication To My Ex (Miss That)" by Lloyd featuring AndrÃƒÆ’Ã‚© 3000 and Lil Wayne. This genre-blending track from the album <em>King Of Hearts</em>, released under Zone 4 Inc/Interscope, is a standout in hip hop, R&B, and pop.</p> <!-- Featured Image -->
 <div > <img src="https://i.ytimg.com/vi/CrQAdM581Pk/maxresdefault.jpg" alt="Lloyd - Dedication To My Ex (Miss That)" />
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "CrQAdM581Pk" >}}
 </div> <!-- Song Information -->
-<div > <p><em>"Dedication To My Ex (Miss That)"</em> by Lloyd featuring AndrÃƒÆ’Ã‚Â© 3000 and Lil Wayne combines elements of hip pop, R&B, and southern hip hop with a retro Motown-inspired groove. From the album <em>King Of Hearts</em>, this track remains a fan favorite for its clever lyrics and infectious energy.</p>
+<div > <p><em>"Dedication To My Ex (Miss That)"</em> by Lloyd featuring AndrÃƒÆ’Ã‚© 3000 and Lil Wayne combines elements of hip pop, R&B, and southern hip hop with a retro Motown-inspired groove. From the album <em>King Of Hearts</em>, this track remains a fan favorite for its clever lyrics and infectious energy.</p>
 </div> <!-- Footer Links -->
 <div > <p>Explore more genre-blending tracks on <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Visit our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> channel and follow us on <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a> for more updates and music highlights.</p>
 </div> 

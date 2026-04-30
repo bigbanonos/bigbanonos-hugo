@@ -12,14 +12,14 @@ tags:
 <p>Updated January 27, 2023, with "Pages" from the album <i>Asking For A Ride</i>, highlighted in the playlist below:</p>
 <div class="post-image"> {{< img-lite src="https://i0.wp.com/thereader.com/wp-content/uploads/2020/02/White-Reaper-1.jpg?fit=1200%2C800&ssl=1" alt="White Reaper Album Cover" >}}
 </div>
-<p>White Reaperâ€™s energetic blend of indie punk and modern power pop is both electrifying and nostalgic. Their latest tracks, like "Pages" and "Pink Slip," showcase their bold and unapologetic approach to rock music. Released in 2023, these songs are a testament to the bandâ€™s evolution and raw talent.</p>
+<p>White Reaper's energetic blend of indie punk and modern power pop is both electrifying and nostalgic. Their latest tracks, like "Pages" and "Pink Slip," showcase their bold and unapologetic approach to rock music. Released in 2023, these songs are a testament to the band's evolution and raw talent.</p>
 <p>Listen to the playlist below to experience these tracks and more:</p>
 <div class="spotify-embed"> {{< youtube "embed" >}}
 </div>
 <p>Tracks featured:</p>
-<ul> <li>"Pages" â€“ <i>Asking For A Ride</i> (January 27, 2023, Elektra (NEK))</li> <li>"Pink Slip" â€“ <i>Pink Slip</i> (January 3, 2023, Elektra (NEK))</li>
+<ul> <li>"Pages" – <i>Asking For A Ride</i> (January 27, 2023, Elektra (NEK))</li> <li>"Pink Slip" – <i>Pink Slip</i> (January 3, 2023, Elektra (NEK))</li>
 </ul>
-<p>Dive into White Reaperâ€™s dynamic sound and let their music inject energy into your playlist.</p>
+<p>Dive into White Reaper's dynamic sound and let their music inject energy into your playlist.</p>
 <hr>
 <div class="post-footer"> <p>Discover more of BigBanonos' favorites at:</p> <ul> <li><a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos Blog</a></li> <li><a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a></li> <li><a href="https://x.com/bigbanonos" target="_blank">BigBanonos on X/Twitter</a></li> </ul>
 </div>

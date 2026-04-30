@@ -17,7 +17,7 @@ tags:
 <div class="spotify-embed"> {{< youtube "embed" >}}
 </div>
 <p>Tracks featured:</p>
-<ul> <li>"Pumpkin Belly" â€“ <i>Reggae Vibration Massive Hits</i> (September 27, 2013, Roots and Culture)</li> <li>"Ring The Alarm" â€“ <i>Dancehall 101 - Vol. 3</i> (August 27, 2002, VP Records)</li> <li>"Roll Call" â€“ <i>Fever</i> (1985, Tafari Records)</li> <li>"Rub-A-Dub Market" â€“ <i>Fever</i> (1985, Tafari Records)</li>
+<ul> <li>"Pumpkin Belly" – <i>Reggae Vibration Massive Hits</i> (September 27, 2013, Roots and Culture)</li> <li>"Ring The Alarm" – <i>Dancehall 101 - Vol. 3</i> (August 27, 2002, VP Records)</li> <li>"Roll Call" – <i>Fever</i> (1985, Tafari Records)</li> <li>"Rub-A-Dub Market" – <i>Fever</i> (1985, Tafari Records)</li>
 </ul>
 <p>Immerse yourself in the rich rhythms of Tenor Saw and celebrate the golden era of reggae and dancehall.</p>
 <hr>

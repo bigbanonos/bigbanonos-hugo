@@ -17,7 +17,7 @@ tags:
 <div class="spotify-embed"> {{< youtube "embed" >}}
 </div>
 <p>Tracks featured:</p>
-<ul> <li>"A Needle In Your Eye #16" â€“ <i>Wagonwheel Blues</i> (June 17, 2008, Secretly Canadian)</li> <li>"Arms Like Boulders" â€“ <i>Wagonwheel Blues</i> (June 17, 2008, Secretly Canadian)</li>
+<ul> <li>"A Needle In Your Eye #16" – <i>Wagonwheel Blues</i> (June 17, 2008, Secretly Canadian)</li> <li>"Arms Like Boulders" – <i>Wagonwheel Blues</i> (June 17, 2008, Secretly Canadian)</li>
 </ul>
 <p>Explore the immersive and poignant music of The War On Drugs and let their sound transport you to new horizons.</p>
 <hr>

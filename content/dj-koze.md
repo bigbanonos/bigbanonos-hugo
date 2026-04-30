@@ -14,7 +14,7 @@ tags:
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "JE63vMzb3UE" >}}
 </div> <!-- Song Information -->
-<div > <p>With its entrancing loops and bittersweet melody, "Pick Up" is a standout track in DJ Kozeâ€™s repertoire, showcasing the depth of future garage and Hamburg electronic influences.</p>
+<div > <p>With its entrancing loops and bittersweet melody, "Pick Up" is a standout track in DJ Koze's repertoire, showcasing the depth of future garage and Hamburg electronic influences.</p>
 </div> <!-- Footer Links -->
 <div > <p>Discover more favorites at <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Explore our playlists on <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and follow us on <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p>
 </div> 

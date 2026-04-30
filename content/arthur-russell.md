@@ -8,7 +8,7 @@ tags:
 ---
 
 <!-- Title of the Post -->
-<h1 >BigBanonosâ€™ Favorite Songs by Arthur Russell</h1> <!-- Featured Image -->
+<h1 >BigBanonos' Favorite Songs by Arthur Russell</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab67616d0000b273de8d964b97a77d617ff64381" alt="Arthur Russell" >}}
 </div> <!-- Spotify Embed -->
 <div > {{< youtube "embed" >}}

@@ -15,7 +15,7 @@ tags:
 <div> {{< youtube "embed" >}}
 </div> <!-- Song Information -->
 <h3>Top Songs:</h3>
-<ul> <li><strong>O LeÃƒÆ’Ã‚Â£ozinho</strong> | <em>Brazil Classics 1: Beleza Tropical</em> | Label: Luaka Bop | Released: March 26, 2007 | Genres: Bossa Nova, Tropicalia</li> <li><strong>You Don't Know Me</strong> | <em>Transa</em> | Label: Universal Music Ltda. | Released: 1972 | Genres: Tropicalia, MPB</li> <li><strong>Nine Out Of Ten</strong> | <em>Transa</em> | Label: Universal Music Ltda. | Released: 1972 | Genres: Tropicalia, Samba</li>
+<ul> <li><strong>O LeÃƒÆ’Ã‚£ozinho</strong> | <em>Brazil Classics 1: Beleza Tropical</em> | Label: Luaka Bop | Released: March 26, 2007 | Genres: Bossa Nova, Tropicalia</li> <li><strong>You Don't Know Me</strong> | <em>Transa</em> | Label: Universal Music Ltda. | Released: 1972 | Genres: Tropicalia, MPB</li> <li><strong>Nine Out Of Ten</strong> | <em>Transa</em> | Label: Universal Music Ltda. | Released: 1972 | Genres: Tropicalia, Samba</li>
 </ul> <!-- YouTube Video Embed -->
 <div> {{< youtube "_d94WJj6OWQ" >}}
 </div> <!-- Footer Links -->

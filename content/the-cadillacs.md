@@ -8,7 +8,7 @@ tags:
 ---
 
 <!-- Title of the Post -->
-<h1 >BigBanonosâ€™ Favorite Songs by The Cadillacs</h1> <!-- Featured Image -->
+<h1 >BigBanonos' Favorite Songs by The Cadillacs</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab67616d00001e024a54c75dad2d7b474e100e0e" alt="The Cadillacs" >}}
 </div> <!-- Spotify Embed -->
 <div > {{< youtube "embed" >}}

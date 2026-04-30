@@ -10,8 +10,8 @@ tags:
 ---
 
 <!-- Title of the Post -->
-<h1>BigBanonosâ€™ Favorite Songs by Grimes</h1> <!-- Introductory Text -->
-<p>Grimes, known for her experimental sound and ethereal vocals, continues to push the boundaries of art pop and electronic music. From groundbreaking hits to rare gems, BigBanonos presents a curated list of Grimesâ€™ top tracks.</p> <!-- Featured Image -->
+<h1>BigBanonos' Favorite Songs by Grimes</h1> <!-- Introductory Text -->
+<p>Grimes, known for her experimental sound and ethereal vocals, continues to push the boundaries of art pop and electronic music. From groundbreaking hits to rare gems, BigBanonos presents a curated list of Grimes' top tracks.</p> <!-- Featured Image -->
 <div> {{< img-lite src="https://img.redbull.com/images/c_fill,g_auto,w_1200,h_630/f_auto,q_auto/redbullcom/2015/10/30/1331756794179_2/grimes" alt="Grimes" >}}
 </div> <!-- Spotify Embed -->
 <div> {{< youtube "embed" >}}

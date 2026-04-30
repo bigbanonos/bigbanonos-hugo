@@ -9,7 +9,7 @@ tags:
 
 <!-- Post Title -->
 <h1 >BigBanonos' Favorite Tracks: Numi - "Hit Me Up"</h1> <!-- Introductory Text -->
-<p >Updated February 10, 2018, with "Hit Me Up" by Numi. This track is a smooth R&B anthem with catchy melodies and a laid-back vibe, showcasing Numiâ€™s unique sound and style.</p> <!-- Featured Image -->
+<p >Updated February 10, 2018, with "Hit Me Up" by Numi. This track is a smooth R&B anthem with catchy melodies and a laid-back vibe, showcasing Numi's unique sound and style.</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d00001e02453338c91035ebc0c11252d6" alt="Numi - Hit Me Up" />
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "a-bkf-N1w3A" >}}

@@ -14,7 +14,7 @@ tags:
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "XJHZfKoKpwI" >}}
 </div> <!-- Song Information -->
-<div > <p><em>"Just Come Out Tonight"</em> is a standout from Hayden's *Hey Love* album, blending his signature Canadian indie sound with modern folk-rock influences. Released on March 23, 2015, itâ€™s a deeply emotional piece that resonates with listeners who appreciate heartfelt storytelling through music.</p>
+<div > <p><em>"Just Come Out Tonight"</em> is a standout from Hayden's *Hey Love* album, blending his signature Canadian indie sound with modern folk-rock influences. Released on March 23, 2015, it's a deeply emotional piece that resonates with listeners who appreciate heartfelt storytelling through music.</p>
 </div> <!-- Footer Links -->
 <div > <p>Discover more favorite tracks at <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Check out curated playlists on <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and follow us on <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p>
 </div> 

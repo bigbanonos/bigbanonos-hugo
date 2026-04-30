@@ -14,7 +14,7 @@ tags:
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "o1oKBbReaOs" >}}
 </div> <!-- Song Information -->
-<div > <p><em>"Whistle For The Choir"</em>, from The Fratellisâ€™ 2007 album *Costello Music*, released under Interscope Records, is a timeless track blending soulful lyrics with a laid-back, melodic rhythm. The song showcases the band's knack for storytelling and their Scottish rock roots.</p>
+<div > <p><em>"Whistle For The Choir"</em>, from The Fratellis' 2007 album *Costello Music*, released under Interscope Records, is a timeless track blending soulful lyrics with a laid-back, melodic rhythm. The song showcases the band's knack for storytelling and their Scottish rock roots.</p>
 </div> <!-- Footer Links -->
 <div > 
 </div> 

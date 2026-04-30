@@ -9,7 +9,7 @@ tags:
 
 <!-- Title of the Post -->
 <h1 >Taylor Skye - Take a Walk</h1> <!-- Introductory Text -->
-<p >Updated with "Take a Walk" by Taylor Skye, from the album *Kode Fine & Sons*, released on May 3, 2019. Taylor Skyeâ€™s smooth blend of electronic beats and soulful melodies shines in this track, capturing a unique and fresh sound in modern music.</p> <!-- Featured Image -->
+<p >Updated with "Take a Walk" by Taylor Skye, from the album *Kode Fine & Sons*, released on May 3, 2019. Taylor Skye's smooth blend of electronic beats and soulful melodies shines in this track, capturing a unique and fresh sound in modern music.</p> <!-- Featured Image -->
 <div > <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMHAwHyVu5ANfal3i66oO8IVn8MxsMkYfY8Q&s" alt="Taylor Skye - Take a Walk" />
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "B891HMdH0EY" >}}

@@ -8,7 +8,7 @@ tags:
 ---
 
 <!-- Title of the Post -->
-<h1>BigBanonosâ€™ Favorite Songs by Sasha Alex Sloan</h1> <!-- Featured Image -->
+<h1>BigBanonos' Favorite Songs by Sasha Alex Sloan</h1> <!-- Featured Image -->
 <div> {{< img-lite src="https://assets.teenvogue.com/photos/5dded0996f44a90008d03600/master/pass/promo_sasha_sloan.jpg" alt="Sasha Alex Sloan" >}}
 </div> <!-- Spotify Embed -->
 <div> {{< youtube "embed" >}}

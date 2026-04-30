@@ -8,7 +8,7 @@ tags:
 ---
 
 <h2>BigBanonos' Top 3 Tracks by Buzzy Lee</h2> <!-- Search Description -->
-<p>BigBanonosâ€™ favorite Buzzy Lee tracks explore modern indie pop through deeply emotive songs. Enjoy the top picks with this playlist below, including the recent release â€œInternal Affairs.â€</p> <!-- Spotify Playlist Embed -->
+<p>BigBanonos' favorite Buzzy Lee tracks explore modern indie pop through deeply emotive songs. Enjoy the top picks with this playlist below, including the recent release "Internal Affairs."</p> <!-- Spotify Playlist Embed -->
 {{< youtube "embed" >}} <!-- Song Listings -->
 <ul> <li>Internal Affairs - <em>Future Classic</em> - 2023-03-03</li> <li>Strange Town - <em>Future Classic</em> - 2021-01-29</li> <li>Walk Away - <em>Future Classic</em> - 2018-04-27</li>
 </ul> <!-- Image -->

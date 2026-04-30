@@ -14,7 +14,7 @@ tags:
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "yFBQA-jU9Bg" >}}
 </div> <!-- Song Information -->
-<div > <p>"The One to Wait," featured on the *CCFX EP* and released by DFA Records, is a gem from the Olympia, WA indie scene that showcases CCFXâ€™s unique rock sound.</p>
+<div > <p>"The One to Wait," featured on the *CCFX EP* and released by DFA Records, is a gem from the Olympia, WA indie scene that showcases CCFX's unique rock sound.</p>
 </div> <!-- Footer Links -->
 <div > <p>For more updates and playlists, visit <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Connect with us on <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p>
 </div> 

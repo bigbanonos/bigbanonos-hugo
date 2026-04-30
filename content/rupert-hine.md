@@ -14,7 +14,7 @@ tags:
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "uME5bODkl9k" >}}
 </div> <!-- Song Information -->
-<div > <p><em>"Misplaced Love"</em>, released in 1981, showcases Rupert Hineâ€™s innovative artistry. The track blends haunting melodies and reflective lyrics, embodying the introspective and experimental spirit of the early 80s.</p>
+<div > <p><em>"Misplaced Love"</em>, released in 1981, showcases Rupert Hine's innovative artistry. The track blends haunting melodies and reflective lyrics, embodying the introspective and experimental spirit of the early 80s.</p>
 </div> <!-- Footer Links -->
 <div > 
 </div> 

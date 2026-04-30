@@ -8,7 +8,7 @@ tags:
 ---
 
 <h1>BigBanonos Favorite Songs by Tomberlin</h1>
-{{< img-lite src="https://media.npr.org/assets/img/2022/04/26/tomberlin---2---by-michelle-yoon_wide-4feedfc7ecd922b74080fa5dea0205f953c4a328.jpg?s=1100&c=85&f=jpeg" alt="Tomberlin" >}} <p>Tomberlin brings introspective lyrics and a raw, small-room sound. Hereâ€™s BigBanonos' top pick:</p> <ol> <li><strong>tap</strong> | <em>sunstruck</em> | Released: 2022-04-14 | Saddle Creek</li> <li><strong>idkwntht</strong> | <em>idkwntht</em> | Released: 2022-01-25 | Saddle Creek</li>
+{{< img-lite src="https://media.npr.org/assets/img/2022/04/26/tomberlin---2---by-michelle-yoon_wide-4feedfc7ecd922b74080fa5dea0205f953c4a328.jpg?s=1100&c=85&f=jpeg" alt="Tomberlin" >}} <p>Tomberlin brings introspective lyrics and a raw, small-room sound. Here's BigBanonos' top pick:</p> <ol> <li><strong>tap</strong> | <em>sunstruck</em> | Released: 2022-04-14 | Saddle Creek</li> <li><strong>idkwntht</strong> | <em>idkwntht</em> | Released: 2022-01-25 | Saddle Creek</li>
 </ol> <div> {{< youtube "embed" >}}
 </div> 
 <p><em>Last updated November 14, 2024</em></p>

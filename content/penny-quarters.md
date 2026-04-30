@@ -14,7 +14,7 @@ tags:
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "H8rumyup0Os" >}}
 </div> <!-- Song Information -->
-<div > <p><em>"You & Me"</em>, recorded in 1973 and officially released by Numero Group in 2011, is a heartfelt and stripped-down soul track. Penny & The Quartersâ€™ simple yet powerful delivery perfectly captures the essence of traditional soul, making it a timeless classic that resonates across generations.</p>
+<div > <p><em>"You & Me"</em>, recorded in 1973 and officially released by Numero Group in 2011, is a heartfelt and stripped-down soul track. Penny & The Quarters' simple yet powerful delivery perfectly captures the essence of traditional soul, making it a timeless classic that resonates across generations.</p>
 </div> <!-- Footer Links -->
 <div > 
 </div> 

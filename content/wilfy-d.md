@@ -17,9 +17,9 @@ tags:
 <div class="spotify-embed"> {{< youtube "embed" >}}
 </div>
 <p>Tracks featured:</p>
-<ul> <li>"90s Baby" â€“ <i>90s Baby</i> (August 20, 2021, Vitamin D Records)</li> <li>"All About U" â€“ <i>VTD001</i> (May 29, 2020, Vitamin D Records)</li>
+<ul> <li>"90s Baby" – <i>90s Baby</i> (August 20, 2021, Vitamin D Records)</li> <li>"All About U" – <i>VTD001</i> (May 29, 2020, Vitamin D Records)</li>
 </ul>
-<p>Get ready to groove with Wilfy Dâ€™s vibrant tracks that capture the essence of UKG revival.</p>
+<p>Get ready to groove with Wilfy D's vibrant tracks that capture the essence of UKG revival.</p>
 <hr>
 <div class="post-footer"> <p>Discover more of BigBanonos' favorites at:</p> <ul> <li><a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos Blog</a></li> <li><a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a></li> <li><a href="https://x.com/bigbanonos" target="_blank">BigBanonos on X/Twitter</a></li> </ul>
 </div>

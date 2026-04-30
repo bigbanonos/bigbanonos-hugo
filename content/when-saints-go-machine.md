@@ -8,7 +8,7 @@ tags:
 ---
 
 <!-- Title of the Post -->
-<h1 >BigBanonosâ€™ Favorite Songs by When Saints Go Machine</h1> <!-- Featured Image -->
+<h1 >BigBanonos' Favorite Songs by When Saints Go Machine</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://www.jambase.com/wp-content/uploads/2023/05/when-saints-go-machine-1480x832.png" alt="When Saints Go Machine" >}}
 </div> <!-- Spotify Embed -->
 <div > {{< youtube "embed" >}}

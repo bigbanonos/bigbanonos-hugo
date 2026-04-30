@@ -8,7 +8,7 @@ tags:
 ---
 
 <!-- Title of the Post -->
-<h1 >BigBanonosâ€™ Favorite Songs by The Exiles</h1> <!-- Featured Image -->
+<h1 >BigBanonos' Favorite Songs by The Exiles</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab67616d00001e027fcc4ad700d334219c7e955c" alt="The Exiles" >}}
 </div> <!-- Spotify Embed -->
 <div > {{< youtube "embed" >}}

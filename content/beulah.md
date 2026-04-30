@@ -8,7 +8,7 @@ tags:
 ---
 
 <!-- Title of the Post -->
-<h1 >BigBanonosâ€™ Favorite Songs by Beulah</h1> <!-- Featured Image -->
+<h1 >BigBanonos' Favorite Songs by Beulah</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab67616d00001e02d82d3e65df5b9c0867bf65ad" alt="Beulah" >}}
 </div> <!-- Spotify Embed -->
 <div > {{< youtube "embed" >}}

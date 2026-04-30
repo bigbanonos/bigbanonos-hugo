@@ -14,7 +14,7 @@ tags:
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "2VioijRLGcw" >}}
 </div> <!-- Song Information -->
-<div > <p>"Breaker," released on October 7, 2014, is a standout indie-pop track that highlights Chaos Chaosâ€™s evolving sound and knack for emotional, catchy melodies.</p>
+<div > <p>"Breaker," released on October 7, 2014, is a standout indie-pop track that highlights Chaos Chaos's evolving sound and knack for emotional, catchy melodies.</p>
 </div> <!-- Footer Links -->
 <div > <p>For more updates and playlists, visit <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Connect with us on <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p>
 </div> 

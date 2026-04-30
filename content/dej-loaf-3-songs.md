@@ -10,7 +10,7 @@ tags:
 ---
 
 <h2 >BigBanonos' Favorite Songs by Dej Loaf</h2> <!-- Introductory Text -->
-<p >Updated October 9, 2024, with <em>Faded</em> featuring 2 Chainz. Dej Loaf continues to impress with her blend of melodic flows and sharp lyricism. Dive into BigBanonosâ€™ favorite tracks, featuring her standout hits.</p> <!-- Featured Image -->
+<p >Updated October 9, 2024, with <em>Faded</em> featuring 2 Chainz. Dej Loaf continues to impress with her blend of melodic flows and sharp lyricism. Dive into BigBanonos' favorite tracks, featuring her standout hits.</p> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab6761610000e5ebaa465515228cb4dc810db8c4" alt="Dej Loaf Album Cover" >}}
 </div> <!-- Spotify Playlist Embed -->
 <div > {{< youtube "embed" >}}

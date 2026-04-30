@@ -8,7 +8,7 @@ tags:
 ---
 
 <!-- Title of the Post -->
-<h1 >BigBanonosâ€™ Favorite Songs by The Districts</h1> <!-- Featured Image -->
+<h1 >BigBanonos' Favorite Songs by The Districts</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab676161000051749f4013bf7a84aac2e867961d" alt="The Districts" >}}
 </div> <!-- Spotify Embed -->
 <div > {{< youtube "embed" >}}

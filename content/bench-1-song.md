@@ -8,7 +8,7 @@ tags:
 ---
 
 <h2>BigBanonos' Favorite Songs by Bench</h2> <!-- Search Description -->
-<p>BigBanonosâ€™ favorite songs by Bench, featuring the unique sounds of tracks like "Ball Pit" and "Four Things" from their recent releases. Check out more music favorites on BigBanonos.</p> <!-- Spotify Playlist Embed -->
+<p>BigBanonos' favorite songs by Bench, featuring the unique sounds of tracks like "Ball Pit" and "Four Things" from their recent releases. Check out more music favorites on BigBanonos.</p> <!-- Spotify Playlist Embed -->
 {{< youtube "embed" >}} <!-- Song Listings -->
 <ul> <li>Ball Pit - <em>Ball Pit</em> (2021)</li> <li>Four Things - <em>Fah-Q-Catalog</em> (2019)</li>
 </ul> {{< youtube "opWtcy8wUnw" >}} <!-- Image -->

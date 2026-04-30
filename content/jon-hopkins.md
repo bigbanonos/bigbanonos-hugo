@@ -15,7 +15,7 @@ tags:
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "CPmucPjFulI" >}}
 </div> <!-- Song Information -->
-<div > <p><em>"Breathe This Air"</em> is a captivating track from Jon Hopkins, featuring the ethereal vocals of Purity Ring. Part of Hopkins' *Immunity* album, the song delves into themes of introspection and connection, enhanced by a mesmerizing, atmospheric production. The fusion of Purity Ringâ€™s signature dream-like vocals with Hopkins' electronic beats creates an immersive experience for listeners.</p>
+<div > <p><em>"Breathe This Air"</em> is a captivating track from Jon Hopkins, featuring the ethereal vocals of Purity Ring. Part of Hopkins' *Immunity* album, the song delves into themes of introspection and connection, enhanced by a mesmerizing, atmospheric production. The fusion of Purity Ring's signature dream-like vocals with Hopkins' electronic beats creates an immersive experience for listeners.</p>
 </div> <!-- Footer Links -->
 <div > <p>Explore more of Jon Hopkins' evocative music on <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>, check out our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> channel, and follow us on <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p>
 </div> 

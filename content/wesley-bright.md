@@ -18,7 +18,7 @@ tags:
 <div class="spotify-embed"> {{< youtube "embed" >}}
 </div>
 <p>Tracks featured:</p>
-<ul> <li>"You Don't Want Me" â€“ <i>You Don't Want Me</i> (May 18, 2018, Colemine Records)</li> <li>"Work It Out Live - Live From Cleveland, OH 2016" â€“ <i>Jam in the Van - Wesley Bright and the Honeytones</i> (November 1, 2016, Jam in the Van LLC)</li>
+<ul> <li>"You Don't Want Me" – <i>You Don't Want Me</i> (May 18, 2018, Colemine Records)</li> <li>"Work It Out Live - Live From Cleveland, OH 2016" – <i>Jam in the Van - Wesley Bright and the Honeytones</i> (November 1, 2016, Jam in the Van LLC)</li>
 </ul>
 <p>Immerse yourself in the rich and heartfelt music of Wesley Bright and the Honeytones and enjoy their soulful vibes.</p>
 <hr>

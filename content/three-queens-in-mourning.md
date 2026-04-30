@@ -17,7 +17,7 @@ tags:
 <div class="spotify-embed"> {{< youtube "embed" >}}
 </div>
 <p>Tracks featured:</p>
-<ul> <li>"Christmas Time in the Mountains" â€“ <i>Hello Sorrow / Hello Joy</i> (August 9, 2020, Textile Records)</li> <li>"Trudy Dies" â€“ <i>Hello Sorrow / Hello Joy</i> (August 9, 2020, Textile Records)</li>
+<ul> <li>"Christmas Time in the Mountains" – <i>Hello Sorrow / Hello Joy</i> (August 9, 2020, Textile Records)</li> <li>"Trudy Dies" – <i>Hello Sorrow / Hello Joy</i> (August 9, 2020, Textile Records)</li>
 </ul>
 <p>Let the evocative sounds of Three Queens In Mourning transport you to a world of raw emotion and melodic beauty.</p>
 <hr>

@@ -15,7 +15,7 @@ tags:
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "crUscoMzgXY" >}}
 </div> <!-- Song Information -->
-<div > <p><em>"Cheaters (John Talabot's Classic Vocal Refix)"</em> by Teengirl Fantasy is a deep and atmospheric remix that blends the originalâ€™s melodic elements with Talabotâ€™s signature house style. It brings a new life to the track with emotional vocal chops and a dancefloor-ready groove.</p>
+<div > <p><em>"Cheaters (John Talabot's Classic Vocal Refix)"</em> by Teengirl Fantasy is a deep and atmospheric remix that blends the original's melodic elements with Talabot's signature house style. It brings a new life to the track with emotional vocal chops and a dancefloor-ready groove.</p>
 </div> <!-- Footer Links -->
 <div > <p>Explore more at <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Check out our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a> channels for more music updates.</p>
 </div> 

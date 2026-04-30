@@ -16,7 +16,7 @@ tags:
 ---
 
 <!-- Title of the Post -->
-<h1 >BigBanonosâ€™ Favorite Songs by The Game</h1> <!-- Featured Image -->
+<h1 >BigBanonos' Favorite Songs by The Game</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://static.wikia.nocookie.net/hip-hop-music/images/f/fa/The_Game.jpg/revision/latest/scale-to-width-down/250?cb=20141003214126" alt="The Game" >}}
 </div> <!-- Spotify Embed -->
 <div > {{< youtube "embed" >}}

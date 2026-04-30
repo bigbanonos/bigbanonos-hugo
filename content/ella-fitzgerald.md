@@ -9,7 +9,7 @@ tags:
 ---
 
 <!-- Title of the Post -->
-<h1 >BigBanonosâ€™ Favorite Songs by Ella Fitzgerald</h1> <!-- Featured Image -->
+<h1 >BigBanonos' Favorite Songs by Ella Fitzgerald</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab7d0c038d876a9ed5a21afb83d6ba760430cf90" alt="Ella Fitzgerald" >}}
 </div> <!-- Spotify Embed -->
 <div > {{< youtube "embed" >}}

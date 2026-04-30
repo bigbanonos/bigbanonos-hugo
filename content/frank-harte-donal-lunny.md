@@ -15,7 +15,7 @@ tags:
 </div> <!-- Spotify Embed -->
 <div > {{< youtube "embed" >}}
 </div> <!-- Song Information -->
-<div > <p><em>"Do Me Justice"</em> showcases Frank Harteâ€™s storytelling brilliance, paired with Donal Lunnyâ€™s masterful instrumentation. From the 2009 album <strong>There's Gangs of Them Digging</strong>.</p> <p><em>"Tunnel Tigers"</em> delves into the lives of Irish laborers with haunting melodies and poignant lyrics. Featured on <strong>There's Gangs of Them Digging</strong>.</p> <p><em>"Tambo"</em> celebrates Irish culture and resilience, closing out the 2009 album with heartfelt emotion.</p>
+<div > <p><em>"Do Me Justice"</em> showcases Frank Harte's storytelling brilliance, paired with Donal Lunny's masterful instrumentation. From the 2009 album <strong>There's Gangs of Them Digging</strong>.</p> <p><em>"Tunnel Tigers"</em> delves into the lives of Irish laborers with haunting melodies and poignant lyrics. Featured on <strong>There's Gangs of Them Digging</strong>.</p> <p><em>"Tambo"</em> celebrates Irish culture and resilience, closing out the 2009 album with heartfelt emotion.</p>
 </div> <!-- Footer Links -->
 <div > 
 </div> 

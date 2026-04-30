@@ -19,7 +19,7 @@ tags:
 <div class="spotify-embed"> {{< youtube "embed" >}}
 </div>
 <p>Tracks featured:</p>
-<ul> <li>"The Year That Clayton Delaney Died" â€“ <i>Tom T. Hall - Storyteller, Poet, Philosopher</i> (November 14, 1995, Mercury Records)</li> <li>"A Week In A Country Jail" â€“ <i>Tom T. Hall - Storyteller, Poet, Philosopher</i> (November 14, 1995, Mercury Records)</li> <li>"That's How I Got To Memphis" â€“ <i>Tom T. Hall - Storyteller, Poet, Philosopher</i> (November 14, 1995, Mercury Records)</li>
+<ul> <li>"The Year That Clayton Delaney Died" – <i>Tom T. Hall - Storyteller, Poet, Philosopher</i> (November 14, 1995, Mercury Records)</li> <li>"A Week In A Country Jail" – <i>Tom T. Hall - Storyteller, Poet, Philosopher</i> (November 14, 1995, Mercury Records)</li> <li>"That's How I Got To Memphis" – <i>Tom T. Hall - Storyteller, Poet, Philosopher</i> (November 14, 1995, Mercury Records)</li>
 </ul>
 <p>Step into the world of Tom T. Hall and experience the heartfelt tales woven through his iconic songs.</p>
 <hr>

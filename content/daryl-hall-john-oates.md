@@ -8,7 +8,7 @@ tags:
 ---
 
 <!-- Title of the Post -->
-<h1 >BigBanonosâ€™ Favorite Songs by Daryl Hall & John Oates</h1> <!-- Featured Image -->
+<h1 >BigBanonos' Favorite Songs by Daryl Hall & John Oates</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab67616d0000b273f43547de689aabc4c44ab62d" alt="Daryl Hall & John Oates" >}}
 </div> <!-- Spotify Embed -->
 <div > {{< youtube "embed" >}}

@@ -15,7 +15,7 @@ tags:
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "2Y6Nne8RvaA" >}}
 </div> <!-- Song Information -->
-<div > <p><em>"This Girl"</em> by Kungs vs. Cookin' On 3 Burners is an iconic track that blends EDM with elements of instrumental fun, b-boy beats, and pop dance. Released under Universal Music Group, itâ€™s a timeless hit that brings energy to every dance floor.</p>
+<div > <p><em>"This Girl"</em> by Kungs vs. Cookin' On 3 Burners is an iconic track that blends EDM with elements of instrumental fun, b-boy beats, and pop dance. Released under Universal Music Group, it's a timeless hit that brings energy to every dance floor.</p>
 </div> <!-- Footer Links -->
 <div > <p>Explore more dance hits and favorites on <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Visit our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> channel and follow us on <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a> for more updates and music highlights.</p>
 </div> 

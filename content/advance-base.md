@@ -14,7 +14,7 @@ tags:
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "c9lIsU7VT-Y" >}}
 </div> <!-- Song Information -->
-<div > <p>Released on August 21, 2015, "Summon Satan" by Advance Base is a hauntingly beautiful blend of indie psych-pop and autoharp-driven melodies. Featured on the album *Nephew in the Wild (Deluxe Edition)*, this track showcases the intimate, emotive style that defines Advance Baseâ€™s sound.</p>
+<div > <p>Released on August 21, 2015, "Summon Satan" by Advance Base is a hauntingly beautiful blend of indie psych-pop and autoharp-driven melodies. Featured on the album *Nephew in the Wild (Deluxe Edition)*, this track showcases the intimate, emotive style that defines Advance Base's sound.</p>
 </div> <!-- Footer Links -->
 <div > <p>For more updates and playlists, visit <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Connect with us on <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p>
 </div> 

@@ -14,7 +14,7 @@ tags:
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "M07_v7vSie8" >}}
 </div> <!-- Song Information -->
-<div > <p><em>"Cash!"</em> by JEHIE is an electrifying anthem of ambition and hustle. Independently released in 2019, the trackâ€™s infectious rhythm and bold attitude resonate deeply, making it an essential addition to any playlist.</p>
+<div > <p><em>"Cash!"</em> by JEHIE is an electrifying anthem of ambition and hustle. Independently released in 2019, the track's infectious rhythm and bold attitude resonate deeply, making it an essential addition to any playlist.</p>
 </div> <!-- Footer Links -->
 <div > <p>Discover more of BigBanonos' top picks at <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Explore curated playlists on <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and follow us on <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p>
 </div> 

@@ -20,6 +20,6 @@ tags:
      -->
 
 <div class="separator" > <a href="https://primarywave.com/wp-content/uploads/2022/05/Andre-3000-solo-e1576598264651.webp"> <img alt="Andre 3000" border="0" height="350" src="https://primarywave.com/wp-content/uploads/2022/05/Andre-3000-solo-e1576598264651.webp" /> </a>
-</div>  <ol> <li><strong>Roses</strong> â€ <em>#NotOnSpotify</em></li> <li><strong>The Art of Storytelling (ft. DJ Drama)</strong> â€ <em>#NotOnSpotify</em></li> <li><strong>Nectarine (ft. Cherokee)</strong> â€ <em>#NotOnSpotify</em></li> <li><strong>Spottieottiedopalicious</strong> â€ <em>#NotOnSpotify</em></li> <li><strong>Street Talkin' (ft. Slick Rick)</strong> â€ <em>#NotOnSpotify</em></li> <li><strong>Walk It Out</strong> â€ <em>#NotOnSpotify</em></li> <li><strong>You (ft. Lloyd & Nas)</strong> â€ <em>#NotOnSpotify</em></li>
+</div>  <ol> <li><strong>Roses</strong> " <em>#NotOnSpotify</em></li> <li><strong>The Art of Storytelling (ft. DJ Drama)</strong> " <em>#NotOnSpotify</em></li> <li><strong>Nectarine (ft. Cherokee)</strong> " <em>#NotOnSpotify</em></li> <li><strong>Spottieottiedopalicious</strong> " <em>#NotOnSpotify</em></li> <li><strong>Street Talkin' (ft. Slick Rick)</strong> " <em>#NotOnSpotify</em></li> <li><strong>Walk It Out</strong> " <em>#NotOnSpotify</em></li> <li><strong>You (ft. Lloyd & Nas)</strong> " <em>#NotOnSpotify</em></li>
 </ol> <p>Watch the freestyle video for "Walk It Out":</p>
 {{< youtube "oCE5MwAMgNI" >}} <hr />

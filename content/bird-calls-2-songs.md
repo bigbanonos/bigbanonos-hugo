@@ -8,7 +8,7 @@ tags:
 ---
 
 <h2>BigBanonos' Favorite Tracks by The Bird Calls</h2> <!-- Search Description -->
-<p>Explore BigBanonosâ€™ top two tracks by The Bird Calls, capturing their unique style from the recent release "Exodus All Over." Listen to these picks on the playlist below.</p> <!-- Spotify Playlist Embed -->
+<p>Explore BigBanonos' top two tracks by The Bird Calls, capturing their unique style from the recent release "Exodus All Over." Listen to these picks on the playlist below.</p> <!-- Spotify Playlist Embed -->
 {{< youtube "embed" >}} <!-- Song Listings -->
 <ul> <li>Drinking On Planes - <em>Exodus All Over</em> - Ruination Record Co. - 2023-08-11</li> <li>Not Next Week But The Week After - <em>Exodus All Over</em> - Ruination Record Co. - 2023-08-11</li>
 </ul> <!-- Image -->

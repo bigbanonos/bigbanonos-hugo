@@ -14,7 +14,7 @@ tags:
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "to0PKz7rl_Y" >}}
 </div> <!-- Song Information -->
-<div > <p><em>"Good"</em>, from Better Than Ezraâ€™s debut album *Deluxe* (1994), became a defining track of the '90s alternative rock scene. Its infectious chorus and relatable lyrics captured the hearts of fans, earning it a place as one of the era's most memorable hits.</p>
+<div > <p><em>"Good"</em>, from Better Than Ezra's debut album *Deluxe* (1994), became a defining track of the '90s alternative rock scene. Its infectious chorus and relatable lyrics captured the hearts of fans, earning it a place as one of the era's most memorable hits.</p>
 </div> <!-- Footer Links -->
 <div > 
 </div> 

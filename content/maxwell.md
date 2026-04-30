@@ -14,7 +14,7 @@ tags:
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "gMAHTZ2nBvk" >}}
 </div> <!-- Song Information -->
-<div > <p><em>"Lifetime"</em> by Maxwell is a neo-soul masterpiece, encapsulating the essence of quiet storm and urban contemporary R&B. From the album <em>Now</em>, this 2021 remaster rejuvenates the trackâ€™s lush instrumentation and heartfelt lyrics, making it as timeless as ever.</p>
+<div > <p><em>"Lifetime"</em> by Maxwell is a neo-soul masterpiece, encapsulating the essence of quiet storm and urban contemporary R&B. From the album <em>Now</em>, this 2021 remaster rejuvenates the track's lush instrumentation and heartfelt lyrics, making it as timeless as ever.</p>
 </div> <!-- Footer Links -->
 <div > <p>Discover more soulful classics on <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Visit our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> channel and follow us on <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a> for more updates and music highlights.</p>
 </div> 

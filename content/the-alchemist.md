@@ -9,7 +9,7 @@ tags:
 ---
 
 <!-- Title of the Post -->
-<h1 >BigBanonosâ€™ Favorite Songs by The Alchemist</h1> <!-- Featured Image -->
+<h1 >BigBanonos' Favorite Songs by The Alchemist</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/8a0d2c9a5bb08a3fd8e6ad457014022cb232525b" alt="The Alchemist" >}}
 </div> <!-- Spotify Embed -->
 <div > {{< youtube "embed" >}}

@@ -10,7 +10,7 @@ tags:
 ---
 
 <!-- Title of the Post -->
-<h1 >BigBanonosâ€™ Favorite Songs by Chingy</h1> <!-- Featured Image -->
+<h1 >BigBanonos' Favorite Songs by Chingy</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab67616d0000b273f3127d53f522b790a9e3e30d" alt="Chingy" >}}
 </div> <!-- Spotify Embed -->
 <div > {{< youtube "embed" >}}

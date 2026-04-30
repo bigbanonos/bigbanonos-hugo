@@ -8,7 +8,7 @@ tags:
 ---
 
 <!-- Title of the Post -->
-<h1 >BigBanonosâ€™ Favorite Songs by Club Casualties</h1> <!-- Featured Image -->
+<h1 >BigBanonos' Favorite Songs by Club Casualties</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab6761610000e5eb9c3279a1adcb843dc0780464" alt="Club Casualties" >}}
 </div> <!-- Spotify Embed -->
 <div > {{< youtube "embed" >}}

@@ -14,7 +14,7 @@ tags:
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "5D_nRtlkqCM" >}}
 </div> <!-- Song Information -->
-<div > <p><em>"Hospital"</em>, released on September 1, 1976, under Sanctuary Records as part of the album *Modern Lovers (Expanded Version)*, is a poignant and iconic song. Blending alternative rock with garage rock elements, the trackâ€™s minimalist arrangement and heartfelt lyrics make it a cornerstone of The Modern Loversâ€™ legacy.</p>
+<div > <p><em>"Hospital"</em>, released on September 1, 1976, under Sanctuary Records as part of the album *Modern Lovers (Expanded Version)*, is a poignant and iconic song. Blending alternative rock with garage rock elements, the track's minimalist arrangement and heartfelt lyrics make it a cornerstone of The Modern Lovers' legacy.</p>
 </div> <!-- Footer Links -->
 <div > 
 </div> 

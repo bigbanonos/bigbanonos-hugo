@@ -8,7 +8,7 @@ tags:
 ---
 
 <!-- Title of the Post -->
-<h1 >BigBanonosâ€™ Favorite Songs by Devin Di Dakta</h1> <!-- Featured Image -->
+<h1 >BigBanonos' Favorite Songs by Devin Di Dakta</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab6761610000e5eb5d8b4f33f8f96d36cf0b8de3" alt="Devin Di Dakta" >}}
 </div> <!-- Spotify Embed -->
 <div > {{< youtube "embed" >}}

@@ -8,11 +8,11 @@ tags:
 ---
 
 <!-- The Ponys -->
-<img src="https://img.youtube.com/vi/JmRwYzawubc/0.jpg" /> <p><strong>Updated March 20, 2007 with "Turn The Lights Out" from <em>Turn The Lights Out</em></strong></p> <p><strong>"Turn The Lights Out"</strong> â€“ <em>Turn The Lights Out</em> (Matador, 2007)</p>
-<p><strong>"Double Vision"</strong> â€“ <em>Turn The Lights Out</em> (Matador, 2007)</p>
-<p><strong>"Get Black"</strong> â€“ <em>Celebration Castle</em> (In The Red, 2005)</p>
-<p><strong>"Glass Conversation"</strong> â€“ <em>Celebration Castle</em> (In The Red, 2005)</p>
-<p><strong>"Chemical Imbalance"</strong> â€“ <em>Laced With Romance</em> (In The Red, 2004)</p> {{< youtube "embed" >}} <p>@ponys</p> <hr /> <!-- Footer -->
+<img src="https://img.youtube.com/vi/JmRwYzawubc/0.jpg" /> <p><strong>Updated March 20, 2007 with "Turn The Lights Out" from <em>Turn The Lights Out</em></strong></p> <p><strong>"Turn The Lights Out"</strong> – <em>Turn The Lights Out</em> (Matador, 2007)</p>
+<p><strong>"Double Vision"</strong> – <em>Turn The Lights Out</em> (Matador, 2007)</p>
+<p><strong>"Get Black"</strong> – <em>Celebration Castle</em> (In The Red, 2005)</p>
+<p><strong>"Glass Conversation"</strong> – <em>Celebration Castle</em> (In The Red, 2005)</p>
+<p><strong>"Chemical Imbalance"</strong> – <em>Laced With Romance</em> (In The Red, 2004)</p> {{< youtube "embed" >}} <p>@ponys</p> <hr /> <!-- Footer -->
  
 
 <hr />

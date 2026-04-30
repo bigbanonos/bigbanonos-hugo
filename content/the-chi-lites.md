@@ -8,7 +8,7 @@ tags:
 ---
 
 <!-- Title of the Post -->
-<h1 >BigBanonosâ€™ Favorite Songs by The Chi-Lites</h1> <!-- Featured Image -->
+<h1 >BigBanonos' Favorite Songs by The Chi-Lites</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab6761610000e5eb8548d37fd495839b1c28ccc1" alt="The Chi-Lites" >}}
 </div> <!-- Spotify Embed -->
 <div > {{< youtube "embed" >}}

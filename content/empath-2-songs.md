@@ -8,7 +8,7 @@ tags:
 ---
 
 <h2 >BigBanonos' Top 2 Songs by Empath</h2> <!-- Introductory Text -->
-<p >Empathâ€™s boundary-pushing sound blends punk energy with experimental textures, creating a unique listening experience. Updated with BigBanonosâ€™ top tracks, including "Passing Stranger" and "100 Times," this post celebrates their innovative music.</p> <!-- Featured Image -->
+<p >Empath's boundary-pushing sound blends punk energy with experimental textures, creating a unique listening experience. Updated with BigBanonos' top tracks, including "Passing Stranger" and "100 Times," this post celebrates their innovative music.</p> <!-- Featured Image -->
 <div > {{< img-lite src="https://thisis-images.spotifycdn.com/37i9dQZF1DZ06evO2u6A4a-default.jpg" alt="Empath - Playlist Cover" >}}
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "IePaMCOAgkM" >}}

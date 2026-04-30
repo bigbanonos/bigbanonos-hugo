@@ -14,7 +14,7 @@ tags:
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "3eNlcizyFzw" >}}
 </div> <!-- Song Information -->
-<div > <p><em>"No Expectations"</em>, from I Am The World Trade Centerâ€™s 2004 album *The Cover Up*, released under Gammon Records, is a standout track that blends indie pop with electronic influences. Its lush production and nostalgic tones make it a memorable addition to the bandâ€™s catalog.</p>
+<div > <p><em>"No Expectations"</em>, from I Am The World Trade Center's 2004 album *The Cover Up*, released under Gammon Records, is a standout track that blends indie pop with electronic influences. Its lush production and nostalgic tones make it a memorable addition to the band's catalog.</p>
 </div> <!-- Footer Links -->
 <div > 
 </div> 

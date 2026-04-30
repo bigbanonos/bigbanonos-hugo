@@ -9,7 +9,7 @@ tags:
 
 <!-- Title of the Post -->
 <h1 >Pecker Dunne</h1> <!-- Introductory Text -->
-<p >Pecker Dunneâ€™s heartfelt tales and traditional Irish banjo have made him a folk legend. Listen to his classics below!</p> <!-- Featured Image -->
+<p >Pecker Dunne's heartfelt tales and traditional Irish banjo have made him a folk legend. Listen to his classics below!</p> <!-- Featured Image -->
 <div > <img src="https://kinglaoghaire.com/wp-content/uploads/2013/10/pecker-dunne-300x300.jpg" alt="Pecker Dunne" />
 </div> <!-- Spotify Playlist Embed -->
 <div > {{< youtube "embed" >}}

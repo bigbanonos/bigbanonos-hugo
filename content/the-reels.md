@@ -9,7 +9,7 @@ tags:
 
 <!-- Title of the Post -->
 <h1 >The Reels - Quasimodo's Dream</h1> <!-- Introductory Text -->
-<p >The Reelsâ€™ â€œQuasimodoâ€™s Dreamâ€ is a haunting yet captivating track from their 1981 repertoire. Featured in *Reel To Reel: 1978 - 1992*, this Australian rock track combines the experimental with the melodic, making it a standout from the band's eclectic catalog. Check out the video below for a look into their unique sound!</p> <!-- Featured Image -->
+<p >The Reels' "Quasimodo's Dream" is a haunting yet captivating track from their 1981 repertoire. Featured in *Reel To Reel: 1978 - 1992*, this Australian rock track combines the experimental with the melodic, making it a standout from the band's eclectic catalog. Check out the video below for a look into their unique sound!</p> <!-- Featured Image -->
 <div > <img src="https://i.ytimg.com/vi/BaWn5wKcrXk/maxresdefault.jpg" alt="The Reels - Quasimodo's Dream" />
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "nCBfZMM-eBc" >}}

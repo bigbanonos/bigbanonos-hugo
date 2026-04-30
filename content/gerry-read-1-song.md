@@ -9,7 +9,7 @@ tags:
 ---
 
 <h2 >BigBanonos' Favorite Songs by Gerry Read</h2> <!-- Introductory Text -->
-<p >Gerry Readâ€™s dynamic blend of house, electronic, and experimental sounds continues to captivate listeners. Updated with BigBanonos' top picks, including "Shampoo" and "Be My Friend" (feat. Dizzy K Flola), this post celebrates his innovative artistry.</p> <!-- Featured Image -->
+<p >Gerry Read's dynamic blend of house, electronic, and experimental sounds continues to captivate listeners. Updated with BigBanonos' top picks, including "Shampoo" and "Be My Friend" (feat. Dizzy K Flola), this post celebrates his innovative artistry.</p> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab6761610000f178dcf46cbadbe3ae5b015be5d4" alt="Gerry Read - Featured Image" >}}
 </div> <!-- Spotify Embed for "Shampoo" -->
 <div > {{< youtube "embed" >}}

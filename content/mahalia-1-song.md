@@ -9,7 +9,7 @@ tags:
 
 <!-- Post Title -->
 <h1 >BigBanonos' Favorite Tracks: Mahalia - "I Wish I Missed My Ex"</h1> <!-- Introductory Text -->
-<p >Updated September 6, 2019, with "I Wish I Missed My Ex" by Mahalia. This standout track from the album <em>LOVE AND COMPROMISE</em>, released under Atlantic Records UK, blends alternative R&B with indie anthem-folk influences, showcasing Mahaliaâ€™s signature style.</p> <!-- Featured Image -->
+<p >Updated September 6, 2019, with "I Wish I Missed My Ex" by Mahalia. This standout track from the album <em>LOVE AND COMPROMISE</em>, released under Atlantic Records UK, blends alternative R&B with indie anthem-folk influences, showcasing Mahalia's signature style.</p> <!-- Featured Image -->
 <div > <img src="https://subpop-img.s3.amazonaws.com/asset/artist_images/attachments/000/009/897/original/magictrick3.jpg?1680121412" alt="Mahalia - I Wish I Missed My Ex" />
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "a7kT52xL-7g" >}}

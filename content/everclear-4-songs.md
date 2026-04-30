@@ -8,7 +8,7 @@ tags:
 ---
 
 <h2 >BigBanonos' Favorite Songs by Everclear</h2> <!-- Introductory Text -->
-<p >Updated with classic Everclear tracks like â€œSanta Monicaâ€ and â€œStrawberryâ€ from their 1995 album <em>Sparkle and Fade</em>. This post highlights BigBanonosâ€™ favorite songs by the iconic alternative rock band.</p> <!-- Featured Image -->
+<p >Updated with classic Everclear tracks like "Santa Monica" and "Strawberry" from their 1995 album <em>Sparkle and Fade</em>. This post highlights BigBanonos' favorite songs by the iconic alternative rock band.</p> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab67616d00001e02c82e555e0a3101d07287581b" alt="Everclear - Sparkle and Fade" >}}
 </div> <!-- Song List -->
 <h3 >Top Songs:</h3>

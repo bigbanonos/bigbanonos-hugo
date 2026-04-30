@@ -14,7 +14,7 @@ tags:
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "OEyhbLqss_k" >}}
 </div> <!-- Song Information -->
-<div > <p><em>"Surf Hell"</em> by Little Barrie is a high-energy indie rock anthem that captures the raw, unfiltered sound of Nottinghamâ€™s indie scene. With its catchy riff and driving beat, this track is a must-listen for fans of garage-inspired rock.</p>
+<div > <p><em>"Surf Hell"</em> by Little Barrie is a high-energy indie rock anthem that captures the raw, unfiltered sound of Nottingham's indie scene. With its catchy riff and driving beat, this track is a must-listen for fans of garage-inspired rock.</p>
 </div> <!-- Footer Links -->
 <div > <p>Explore more indie rock gems on <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Visit our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> channel and follow us on <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a> for more updates and music highlights.</p>
 </div> 

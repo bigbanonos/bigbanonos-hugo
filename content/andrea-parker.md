@@ -12,5 +12,5 @@ tags:
 </div> <p>
 BigBanonos' favorite song by Andrea Parker:
 </p> {{< youtube "B_PBMpBx7do" >}} <p>
-<b>Andrea Parker â€“ "Freaky Bitches (DJ Godfather & DJ Assault Remix)"</b> (2002)
+<b>Andrea Parker – "Freaky Bitches (DJ Godfather & DJ Assault Remix)"</b> (2002)
 </p>  <hr />

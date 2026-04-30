@@ -8,7 +8,7 @@ tags:
 ---
 
 <!-- Title of the Post -->
-<h1 >BigBanonosâ€™ Favorite Songs by Avey Tare</h1> <!-- Featured Image -->
+<h1 >BigBanonos' Favorite Songs by Avey Tare</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab6761610000e5eba72c69fdd7e8f0f26130db39" alt="Avey Tare" >}}
 </div> <!-- Spotify Embed -->
 <div > {{< youtube "embed" >}}

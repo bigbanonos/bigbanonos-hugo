@@ -8,7 +8,7 @@ tags:
 ---
 
 <!-- Title of the Post -->
-<h1 >BigBanonosâ€™ Favorite Tracks by Charly Black</h1> <!-- Featured Image -->
+<h1 >BigBanonos' Favorite Tracks by Charly Black</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab6761610000e5eb9a2d905368962946b801cfd8" alt="Charly Black" >}}
 </div> <!-- Spotify Embed -->
 <div > {{< youtube "embed" >}}

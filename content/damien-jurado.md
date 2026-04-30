@@ -14,7 +14,7 @@ tags:
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "_GZlJGERbvE" >}}
 </div> <!-- Song Information -->
-<div > <p>Originally released on January 1, 2005, "Welcome To Jamrock" is a groundbreaking track from Damian Marleyâ€™s album of the same name. This reggae fusion anthem is celebrated for its sharp commentary on inequality and crime in Jamaica, blending traditional reggae elements with a modern twist.</p>
+<div > <p>Originally released on January 1, 2005, "Welcome To Jamrock" is a groundbreaking track from Damian Marley's album of the same name. This reggae fusion anthem is celebrated for its sharp commentary on inequality and crime in Jamaica, blending traditional reggae elements with a modern twist.</p>
 </div> <!-- Footer Links -->
 <div > <p>For more updates and playlists, visit <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Connect with us on <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p>
 </div> 

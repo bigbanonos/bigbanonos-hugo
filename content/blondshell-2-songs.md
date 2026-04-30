@@ -17,8 +17,8 @@ tags:
 <!-- Featured Image -->
 <div > <a href="https://www.nme.com/wp-content/uploads/2023/06/2023_blondshell_jonathanweiner_2000x1270-696x442.jpg" target="_blank"> {{< img-lite src="https://www.nme.com/wp-content/uploads/2023/06/2023_blondshell_jonathanweiner_2000x1270-696x442.jpg" alt="Blondshell" >}} </a>
 </div> <!-- Introductory Text -->
-<p >Blondshell continues to impress with her raw lyricism and haunting melodies. BigBanonos highlights her standout tracks, including "Kiss City" and "Olympus," along with the remix of Samiâ€™s gem "Charm You."</p> <!-- YouTube Playlist Embed -->
-<h4 >Watch the video playlist featuring Blondshellâ€™s top tracks:</h4>
+<p >Blondshell continues to impress with her raw lyricism and haunting melodies. BigBanonos highlights her standout tracks, including "Kiss City" and "Olympus," along with the remix of Sami's gem "Charm You."</p> <!-- YouTube Playlist Embed -->
+<h4 >Watch the video playlist featuring Blondshell's top tracks:</h4>
 <div > {{< youtube "videoseries" >}}
 </div> <!-- Song List -->
 <h4>Top Songs:</h4>

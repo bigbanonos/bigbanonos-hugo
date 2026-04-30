@@ -14,7 +14,7 @@ tags:
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "M8XmoroZ3zo" >}}
 </div> <!-- Song Information -->
-<div > <p><em>"Is This How You Feel?"</em> by The Preatures perfectly blends electronic and indie rock elements, creating a track thatâ€™s as catchy as it is energetic. The Australian indie rock band has earned its place among the best, and this track proves why.</p>
+<div > <p><em>"Is This How You Feel?"</em> by The Preatures perfectly blends electronic and indie rock elements, creating a track that's as catchy as it is energetic. The Australian indie rock band has earned its place among the best, and this track proves why.</p>
 </div> <!-- Footer Links -->
 <div > 
 </div> 

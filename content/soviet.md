@@ -14,7 +14,7 @@ tags:
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "wk2IKk4njVM" >}}
 </div> <!-- Song Information -->
-<div > <p><em>"Candy Girl"</em> is a standout track from Sovietâ€™s album *We Are Eyes, We Are Builders*, a mix of synthpop and indie flair from 2001.</p>
+<div > <p><em>"Candy Girl"</em> is a standout track from Soviet's album *We Are Eyes, We Are Builders*, a mix of synthpop and indie flair from 2001.</p>
 </div> <!-- Footer Links -->
 <div > 
 </div> 

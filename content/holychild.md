@@ -14,7 +14,7 @@ tags:
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "l1RCPzR1qEw" >}}
 </div> <!-- Song Information -->
-<div > <p><em>"Happy With Me"</em>, released on June 2, 2015, is a standout track from HOLYCHILDâ€™s <em>The Shape of Brat Pop to Come</em>. The LA indie duo combines catchy hooks with sharp social commentary, creating a sound thatâ€™s as thought-provoking as it is danceable.</p>
+<div > <p><em>"Happy With Me"</em>, released on June 2, 2015, is a standout track from HOLYCHILD's <em>The Shape of Brat Pop to Come</em>. The LA indie duo combines catchy hooks with sharp social commentary, creating a sound that's as thought-provoking as it is danceable.</p>
 </div> <!-- Footer Links -->
 <div > <p>Discover more favorite tracks at <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Check out curated playlists on <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and follow us on <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p>
 </div> 

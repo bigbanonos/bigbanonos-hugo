@@ -17,7 +17,7 @@ tags:
 <div class="spotify-embed"> {{< youtube "embed" >}}
 </div>
 <p>Tracks featured:</p>
-<ul> <li>"Holding On" â€“ <i>Devotion</i> (August 10, 2018, Domino Recording Co)</li> <li>"Gladly" â€“ <i>Gladly</i> (May 3, 2018, Domino Recording Co)</li>
+<ul> <li>"Holding On" – <i>Devotion</i> (August 10, 2018, Domino Recording Co)</li> <li>"Gladly" – <i>Gladly</i> (May 3, 2018, Domino Recording Co)</li>
 </ul>
 <p>Dive into Tirzah's captivating world of sound and experience the artistry of her music.</p>
 <hr>

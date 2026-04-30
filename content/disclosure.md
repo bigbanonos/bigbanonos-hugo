@@ -12,7 +12,7 @@ tags:
 ---
 
 <p >Tags: <!-- Title of the Post -->
-<h1 >BigBanonosâ€™ Favorite Songs by Disclosure</h1> <!-- Featured Image -->
+<h1 >BigBanonos' Favorite Songs by Disclosure</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab676161000051743faf416d3be99d63fec18baa" alt="Disclosure" >}}
 </div> <!-- Spotify Embed -->
 <div > {{< youtube "embed" >}}

@@ -14,7 +14,7 @@ tags:
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "fCz6DjHzFA0" >}}
 </div> <!-- Song Information -->
-<div > <p><em>"I Don't Wanna Be A Rich"</em>, originally released in 1978 and included in the 2013 compilation *Paink French Punk Anthems (1977-1982)* by Born Bad Records, is a rebellious anthem of early French punk. Its raw sound and defiant attitude make it a standout track in the genreâ€™s history.</p>
+<div > <p><em>"I Don't Wanna Be A Rich"</em>, originally released in 1978 and included in the 2013 compilation *Paink French Punk Anthems (1977-1982)* by Born Bad Records, is a rebellious anthem of early French punk. Its raw sound and defiant attitude make it a standout track in the genre's history.</p>
 </div> <!-- Footer Links -->
 <div > 
 </div> 

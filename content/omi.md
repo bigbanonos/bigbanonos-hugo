@@ -11,7 +11,7 @@ tags:
 
 <!-- Post Title -->
 <h1 >BigBanonos' Favorite Tracks: OMI - "Cheerleader" (Felix Jaehn Remix)</h1> <!-- Introductory Text -->
-<p >Updated March 6, 2015, with "Cheerleader" by OMI, featuring the Felix Jaehn Remix. This global hit blends reggae fusion with a catchy tropical vibe, making it an anthem thatâ€™s still loved worldwide. The remix brought a fresh danceable twist to OMIâ€™s already infectious melody.</p> <!-- Featured Image -->
+<p >Updated March 6, 2015, with "Cheerleader" by OMI, featuring the Felix Jaehn Remix. This global hit blends reggae fusion with a catchy tropical vibe, making it an anthem that's still loved worldwide. The remix brought a fresh danceable twist to OMI's already infectious melody.</p> <!-- Featured Image -->
 <div > <img src="https://i.ytimg.com/vi/jGflUbPQfW8/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGEgZShbMA8=&rs=AOn4CLBquu55z_sn7EnM6ExY-ltYn-B1eA" alt="OMI - Cheerleader" />
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "jGflUbPQfW8" >}}

@@ -14,7 +14,7 @@ tags:
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "rVZ-9t02h90" >}}
 </div> <!-- Song Information -->
-<div > <p>"Hold Tight," released on September 1, 2013, is a standout track that showcases Changeâ€™s smooth blend of disco, fun, and the Minneapolis sound, offering a groove perfect for the dance floor.</p>
+<div > <p>"Hold Tight," released on September 1, 2013, is a standout track that showcases Change's smooth blend of disco, fun, and the Minneapolis sound, offering a groove perfect for the dance floor.</p>
 </div> <!-- Footer Links -->
 <div > <p>For more updates and playlists, visit <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Connect with us on <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p>
 </div> 

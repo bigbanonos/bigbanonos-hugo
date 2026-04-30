@@ -17,7 +17,7 @@ tags:
 <div class="spotify-embed"> {{< youtube "embed" >}}
 </div>
 <p>Tracks featured:</p>
-<ul> <li>"Zungguzungguguzungguzeng" â€“ <i>Most Wanted Series - Yellowman</i> (January 1, 2007, Greensleeves Records)</li> <li>"Mr Chin" â€“ <i>Mister Yellowman</i> (1982, Greensleeves Records)</li>
+<ul> <li>"Zungguzungguguzungguzeng" – <i>Most Wanted Series - Yellowman</i> (January 1, 2007, Greensleeves Records)</li> <li>"Mr Chin" – <i>Mister Yellowman</i> (1982, Greensleeves Records)</li>
 </ul>
 <p>Celebrate the legendary sounds of Yellowman and immerse yourself in the roots of dancehall reggae.</p>
 <hr>

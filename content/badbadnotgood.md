@@ -15,7 +15,7 @@ tags:
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "r2env-txnms" >}}
 </div> <!-- Song Information -->
-<div > <p>"Time Moves Slow" by BADBADNOTGOOD featuring Samuel T. Herring is a hauntingly beautiful track blending modern jazz and indie soul influences. Released on July 8, 2016, under Innovative Leisure, this 4:33-long masterpiece from the album *IV* highlights the emotive power of Herringâ€™s vocals and BADBADNOTGOODâ€™s signature instrumentation.</p>
+<div > <p>"Time Moves Slow" by BADBADNOTGOOD featuring Samuel T. Herring is a hauntingly beautiful track blending modern jazz and indie soul influences. Released on July 8, 2016, under Innovative Leisure, this 4:33-long masterpiece from the album *IV* highlights the emotive power of Herring's vocals and BADBADNOTGOOD's signature instrumentation.</p>
 </div> <!-- Footer Links -->
 <div > <p>For more updates and playlists, visit <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Connect with us on <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p>
 </div> 

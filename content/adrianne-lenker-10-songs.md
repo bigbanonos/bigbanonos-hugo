@@ -8,7 +8,7 @@ tags:
   - '@adriannelenker'
 ---
 
-<p>Ãƒâ€šÃ‚Â </p>
+<p>Ãƒâ€šÃ‚ </p>
 <h3><strong>BigBanonos' Top 10 Adrianne Lenker Songs</strong></h3>
 <p>Updated August 6, 2024 with <i>Once A Bunch"</i></p>
 <ol>

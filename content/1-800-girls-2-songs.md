@@ -7,7 +7,7 @@ tags:
   - '@1-800girls'
 ---
 
-<img src="https://f4.bcbits.com/img/0038668387_25.jpg" width="100%" /> <h2>BigBanonos' Favorite Songs by 1-800 GIRLS</h2> <p>Updated May 29, 2025, with the new upload <em>"trust me"</em>â€1-800 GIRLS continues to deliver some of the most lush and emotionally locked-in lo-fi house out there. Below are two standout tracks, plus a full playlist to dive deeper.</p> <h3>"trust me" â€“ 2025</h3>
+<img src="https://f4.bcbits.com/img/0038668387_25.jpg" width="100%" /> <h2>BigBanonos' Favorite Songs by 1-800 GIRLS</h2> <p>Updated May 29, 2025, with the new upload <em>"trust me"</em>"1-800 GIRLS continues to deliver some of the most lush and emotionally locked-in lo-fi house out there. Below are two standout tracks, plus a full playlist to dive deeper.</p> <h3>"trust me" – 2025</h3>
 <p><strong>Release:</strong> May 29, 2025 (YouTube premiere)<br />
 {{< youtube "0S5i5RUVGsc" >}}</p> <h3>"there for u"</h3>
 <p><strong>Release:</strong> February 26, 2025<br />

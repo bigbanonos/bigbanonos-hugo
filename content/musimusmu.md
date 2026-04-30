@@ -14,7 +14,7 @@ tags:
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "aDAowqQ7tHo" >}}
 </div> <!-- Song Information -->
-<div > <p><em>"Need"</em> offers an immersive journey through lush indietronica and chillwave sounds. Featured on the album <em>Ghost Modern</em>, released on March 17, 2015, this song captures musimusmuâ€™s innovative style in the indie music scene.</p>
+<div > <p><em>"Need"</em> offers an immersive journey through lush indietronica and chillwave sounds. Featured on the album <em>Ghost Modern</em>, released on March 17, 2015, this song captures musimusmu's innovative style in the indie music scene.</p>
 </div> <!-- Footer Links -->
 <div > <p>Find more exceptional tracks at <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Dive into curated playlists on <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and follow us on <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p>
 </div> 

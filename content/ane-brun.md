@@ -14,7 +14,7 @@ tags:
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "RIzyh7kFj-s" >}}
 </div> <!-- Song Information -->
-<div > <p><em>"The Treehouse Song"</em>, from Ane Brunâ€™s 2008 album *Changing of the Seasons*, is a heartfelt folk piece that showcases her emotive storytelling and delicate vocal performance. A must-listen for fans of contemporary folk music.</p>
+<div > <p><em>"The Treehouse Song"</em>, from Ane Brun's 2008 album *Changing of the Seasons*, is a heartfelt folk piece that showcases her emotive storytelling and delicate vocal performance. A must-listen for fans of contemporary folk music.</p>
 </div> <!-- Footer Links -->
 <div > 
 </div> 

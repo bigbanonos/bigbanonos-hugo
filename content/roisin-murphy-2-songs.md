@@ -7,8 +7,8 @@ tags:
   - '@roisinmurphy'
 ---
 
-<h1>BigBanonos Top Songs by RÃƒÆ’Ã‚Â³isÃƒÆ’Ã‚Â­n Murphy</h1>
-{{< img-lite src="https://i.ytimg.com/vi/ysIl0qMK1ps/maxresdefault.jpg" alt="RÃƒÆ’Ã‚Â³isÃƒÆ’Ã‚Â­n Murphy" >}} <p>RÃƒÆ’Ã‚Â³isÃƒÆ’Ã‚Â­n Murphy brings an unparalleled edge to art pop and electronica, weaving intricate beats with soulful vocals that captivate her audience. Here are BigBanonos' top selections:</p> <ol> <li><strong>You Knew</strong> | <em>You Knew</em> | Ninja Tune | Released: July 18, 2023</li> <li><strong>The Universe - Edit</strong> | <em>The Universe</em> | Ninja Tune | Released: May 17, 2023</li>
+<h1>BigBanonos Top Songs by RÃƒÆ’Ã‚³isÃƒÆ’Ã‚­n Murphy</h1>
+{{< img-lite src="https://i.ytimg.com/vi/ysIl0qMK1ps/maxresdefault.jpg" alt="RÃƒÆ’Ã‚³isÃƒÆ’Ã‚­n Murphy" >}} <p>RÃƒÆ’Ã‚³isÃƒÆ’Ã‚­n Murphy brings an unparalleled edge to art pop and electronica, weaving intricate beats with soulful vocals that captivate her audience. Here are BigBanonos' top selections:</p> <ol> <li><strong>You Knew</strong> | <em>You Knew</em> | Ninja Tune | Released: July 18, 2023</li> <li><strong>The Universe - Edit</strong> | <em>The Universe</em> | Ninja Tune | Released: May 17, 2023</li>
 </ol> <div> {{< youtube "embed" >}}
 </div> <p>first posted by <a href="https://bigbanonos.blogspot.com/">https://bigbanonos.blogspot.com/</a></p> <div> <p>Explore more BigBanonos content: <a href="https://bigbanonos.blogspot.com/">Website</a> | <a href="https://www.youtube.com/@BigBanonos">YouTube</a> | <a href="https://x.com/bigbanonos">Twitter</a></p>
 </div> 

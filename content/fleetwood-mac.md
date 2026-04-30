@@ -14,7 +14,7 @@ tags:
 </div> <!-- Spotify Embed -->
 <div > {{< youtube "embed" >}}
 </div> <!-- Song Information -->
-<div > <p><em>"Fireflies - Demo"</em> is an evocative track showcasing Fleetwood Mac's signature sound, blending rock and soft harmonies. This demo captures their raw artistry during the creation of their iconic sound. Itâ€™s featured on <strong>Fireflies/One More Night (Demos)</strong>, released on June 25, 2021.</p>
+<div > <p><em>"Fireflies - Demo"</em> is an evocative track showcasing Fleetwood Mac's signature sound, blending rock and soft harmonies. This demo captures their raw artistry during the creation of their iconic sound. It's featured on <strong>Fireflies/One More Night (Demos)</strong>, released on June 25, 2021.</p>
 </div> <!-- Footer Links -->
 <div > 
 </div> 

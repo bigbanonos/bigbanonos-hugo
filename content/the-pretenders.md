@@ -9,7 +9,7 @@ tags:
 
 <!-- Title of the Post -->
 <h1 >The Pretenders - New Wave Rock Classics</h1> <!-- Introductory Text -->
-<p >The Pretenders deliver timeless rock anthems with Chrissie Hyndeâ€™s distinct vocals leading the charge. Dive into their classics below.</p> <!-- Featured Image -->
+<p >The Pretenders deliver timeless rock anthems with Chrissie Hynde's distinct vocals leading the charge. Dive into their classics below.</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d0000b273187968e9e77baf6fdd03e919" alt="Pretenders" />
 </div> <!-- Spotify Playlist Embed -->
 <div > {{< youtube "embed" >}}

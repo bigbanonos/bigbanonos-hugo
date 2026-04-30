@@ -8,9 +8,9 @@ tags:
 ---
 
 <!-- STRFKR -->
-<img src="https://i.scdn.co/image/ab67616d0000b273a42a9e3de0baca2e178d0c73" /> <p><strong>Updated February 19, 2013 with "Atlantis" from <em>Miracle Mile</em></strong></p> <p><strong>"Atlantis"</strong> â€“ <em>Miracle Mile</em> (Polyvinyl Records, 2013)</p>
-<p><strong>"German Love"</strong> â€“ <em>Starfucker</em> (Badman Recording Co, 2008)</p>
-<p><strong>"Rawnald Gregory Erickson the Second"</strong> â€“ <em>Starfucker</em> (Badman Recording Co, 2008)</p> {{< youtube "embed" >}} <p>@strfkr</p> <hr />
+<img src="https://i.scdn.co/image/ab67616d0000b273a42a9e3de0baca2e178d0c73" /> <p><strong>Updated February 19, 2013 with "Atlantis" from <em>Miracle Mile</em></strong></p> <p><strong>"Atlantis"</strong> – <em>Miracle Mile</em> (Polyvinyl Records, 2013)</p>
+<p><strong>"German Love"</strong> – <em>Starfucker</em> (Badman Recording Co, 2008)</p>
+<p><strong>"Rawnald Gregory Erickson the Second"</strong> – <em>Starfucker</em> (Badman Recording Co, 2008)</p> {{< youtube "embed" >}} <p>@strfkr</p> <hr />
 <!-- Footer -->
  
 

@@ -9,7 +9,7 @@ tags:
 ---
 
 <h2 >BigBanonos' Top 3 Ebhoni Songs</h2> <!-- Introductory Text -->
-<p >Updated June 24, 2021, with <em>Rotation</em>. Ebhoniâ€™s smooth blend of R&B, pop, and electronic elements has solidified her as a standout artist in the contemporary music scene. Explore BigBanonosâ€™ favorite tracks below!</p> <!-- Featured Image -->
+<p >Updated June 24, 2021, with <em>Rotation</em>. Ebhoni's smooth blend of R&B, pop, and electronic elements has solidified her as a standout artist in the contemporary music scene. Explore BigBanonos' favorite tracks below!</p> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab67616d0000b27337ac8bc04c96665aa9f780d8" alt="Ebhoni Album Cover" >}}
 </div> <!-- Song List -->
 <h3 >Top Songs:</h3>

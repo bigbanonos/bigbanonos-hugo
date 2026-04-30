@@ -8,7 +8,7 @@ tags:
 ---
 
 <h2 >BigBanonos' Favorite Songs by Caribou</h2> <!-- Introductory Text -->
-<p >Updated July 31, 2024, with "Broke My Heart," Caribouâ€™s latest single that blends intricate production with heartfelt emotion. Dive into BigBanonosâ€™ favorite tracks, featuring standout hits from Caribou's expansive discography. Check out the playlist below!</p> <!-- Featured Image -->
+<p >Updated July 31, 2024, with "Broke My Heart," Caribou's latest single that blends intricate production with heartfelt emotion. Dive into BigBanonos' favorite tracks, featuring standout hits from Caribou's expansive discography. Check out the playlist below!</p> <!-- Featured Image -->
 <div > {{< img-lite src="https://origin.go.gq.com.au/wp-content/uploads/2020/02/dan-snaith-caribou.jpg" alt="Caribou - Dan Snaith" >}}
 </div> <!-- Spotify Playlist Embed -->
 <div > {{< youtube "embed" >}}

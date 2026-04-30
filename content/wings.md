@@ -13,12 +13,12 @@ tags:
 <p>Updated March 25, 1976, with "Silly Love Songs - 2014 Remaster" from the album <i>Wings At The Speed Of Sound (Archive Collection)</i>, highlighted in the playlist below:</p>
 <div class="post-image"> {{< img-lite src="https://upload.wikimedia.org/wikipedia/en/4/41/Wings_1976.jpg" alt="Wings Album Cover" >}}
 </div>
-<p>Wings, led by Paul McCartney, brought a distinctive sound to 1970s rock, blending art rock and classic rock with McCartneyâ€™s legendary songwriting. Tracks like "Silly Love Songs" stand out as anthems of their era, showcasing McCartneyâ€™s talent for crafting unforgettable melodies.</p>
+<p>Wings, led by Paul McCartney, brought a distinctive sound to 1970s rock, blending art rock and classic rock with McCartney's legendary songwriting. Tracks like "Silly Love Songs" stand out as anthems of their era, showcasing McCartney's talent for crafting unforgettable melodies.</p>
 <p>Listen to the playlist below to experience these tracks and more:</p>
 <div class="spotify-embed"> {{< youtube "embed" >}}
 </div>
 <p>Track featured:</p>
-<ul> <li>"Silly Love Songs - 2014 Remaster" â€“ <i>Wings At The Speed Of Sound (Archive Collection)</i> (March 25, 1976, Paul McCartney Catalog)</li>
+<ul> <li>"Silly Love Songs - 2014 Remaster" – <i>Wings At The Speed Of Sound (Archive Collection)</i> (March 25, 1976, Paul McCartney Catalog)</li>
 </ul>
 <p>Rediscover the timeless music of Wings and enjoy their contributions to rock and folk music history.</p>
 <hr>

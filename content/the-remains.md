@@ -14,7 +14,7 @@ tags:
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "9ko438hQ6CE" >}}
 </div> <!-- Song Information -->
-<div > <p><em>"Don't Tell Me the Truth"</em>, released on January 1, 2002, by Rock-A-Lot Records, is a standout track from The Remainsâ€™ *Movin' On*. Combining classic garage rock energy with freakbeat influences, the song showcases the bandâ€™s raw, captivating sound.</p>
+<div > <p><em>"Don't Tell Me the Truth"</em>, released on January 1, 2002, by Rock-A-Lot Records, is a standout track from The Remains' *Movin' On*. Combining classic garage rock energy with freakbeat influences, the song showcases the band's raw, captivating sound.</p>
 </div> <!-- Footer Links -->
 <div > 
 </div> 

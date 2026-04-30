@@ -9,6 +9,6 @@ tags:
   - '@clamscasino'
 ---
 
-{{< youtube "I2fno7DEgXI" >}}<br /><h2><ol><li>(ft. Clams Casino & Take A Daytrip)' Y DONâ€™T U [2021]</li></ol></h2>
+{{< youtube "I2fno7DEgXI" >}}<br /><h2><ol><li>(ft. Clams Casino & Take A Daytrip)' Y DON'T U [2021]</li></ol></h2>
 
 <hr />

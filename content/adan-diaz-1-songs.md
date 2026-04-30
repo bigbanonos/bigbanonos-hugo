@@ -8,7 +8,7 @@ tags:
 ---
 
 <!-- Title of the Post -->
-<h1 >BigBanonosâ€™ Favorite Songs by Adan Diaz</h1> <!-- Featured Image -->
+<h1 >BigBanonos' Favorite Songs by Adan Diaz</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab67616d00001e0251b6a8a6e3343d38b15db74f" alt="Adan Diaz" >}}
 </div> <!-- Spotify Embed -->
 <div > {{< youtube "embed" >}}

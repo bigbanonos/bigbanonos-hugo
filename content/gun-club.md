@@ -12,7 +12,7 @@ tags:
 <h3>"Sex Beat - Live"</h3>
 <p><em>Live at Club 88 - March 6, 1981 (Live Remastered)</em>, Blixa Sounds, July 23, 2021</p> <h3>"Sex Beat - Remastered 2020"</h3>
 <p><em>Fire of Love (Remastered 2020)</em>, Blixa Sounds, 1981</p> <h3>"Black Train - Remastered 2020"</h3>
-<p><em>Fire of Love (Remastered 2020)</em>, Blixa Sounds, 1981</p> <h3>"Sheâ€™s Like Heroin to Me - Remastered 2020"</h3>
+<p><em>Fire of Love (Remastered 2020)</em>, Blixa Sounds, 1981</p> <h3>"She's Like Heroin to Me - Remastered 2020"</h3>
 <p><em>Fire of Love (Remastered 2020)</em>, Blixa Sounds, 1981</p> <h3>"Carry Home - Remastered 2020"</h3>
 <p><em>Miami (Remastered 2020)</em>, Blixa Sounds, 1982</p> <h3>"Jack on Fire - Remastered 2020"</h3>
 <p><em>Fire of Love (Remastered 2020)</em>, Blixa Sounds, 1981</p> <h3>"For Love of Ivy - Remastered 2020"</h3>

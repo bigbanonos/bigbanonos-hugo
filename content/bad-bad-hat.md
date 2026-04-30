@@ -8,7 +8,7 @@ tags:
 ---
 
 <!-- Title of the Post -->
-<h1 >BigBanonosâ€™ Favorite Songs by Bad Bad Hats</h1> <!-- Featured Image -->
+<h1 >BigBanonos' Favorite Songs by Bad Bad Hats</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab6761610000e5eb23208c3a10f93836ad50fa32" alt="Bad Bad Hats" >}}
 </div> <!-- Spotify Embed -->
 <div > {{< youtube "embed" >}}

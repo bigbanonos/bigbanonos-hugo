@@ -14,7 +14,7 @@ tags:
 </div> <!-- Spotify Embed -->
 <div > {{< youtube "embed" >}}
 </div> <!-- Song Information -->
-<div > <p><em>"Helena Beat"</em> is an energetic anthem that exemplifies Foster The Peopleâ€™s knack for infectious melodies. From the 2011 album <strong>Torches</strong>.</p> <p><em>"Pumped Up Kicks"</em> became a global hit, blending haunting lyrics with an unforgettable hook. Also from their 2011 album <strong>Torches</strong>.</p>
+<div > <p><em>"Helena Beat"</em> is an energetic anthem that exemplifies Foster The People's knack for infectious melodies. From the 2011 album <strong>Torches</strong>.</p> <p><em>"Pumped Up Kicks"</em> became a global hit, blending haunting lyrics with an unforgettable hook. Also from their 2011 album <strong>Torches</strong>.</p>
 </div> <!-- Footer Links -->
 <div > 
 </div> 

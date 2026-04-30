@@ -8,7 +8,7 @@ tags:
 ---
 
 <!-- Title of the Post -->
-<h1>BigBanonosâ€™ Favorite Songs by Iron & Wine</h1> <!-- Introductory Text -->
+<h1>BigBanonos' Favorite Songs by Iron & Wine</h1> <!-- Introductory Text -->
 <p>Iron & Wine crafts indie folk melodies that resonate deeply with listeners. BigBanonos highlights tracks that define his poignant storytelling and musical artistry.</p> <!-- Featured Image -->
 <div> {{< img-lite src="https://apeconcerts.com/wp-content/uploads/2024/01/1024_IRON-WINE-2024-Artist-Press-Photo-By-Kim-Black.jpg" alt="Iron & Wine" >}}
 </div> <!-- Spotify Embed -->

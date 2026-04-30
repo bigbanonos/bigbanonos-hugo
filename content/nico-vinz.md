@@ -9,7 +9,7 @@ tags:
 
 <!-- Post Title -->
 <h1 >BigBanonos' Favorite Tracks: Nico & Vinz - "Intrigued"</h1> <!-- Introductory Text -->
-<p >Updated June 22, 2017, with "Intrigued" by Nico & Vinz. This track from the album <em>Intrigued</em>, released under Warner Records, blends smooth R&B with the rhythmic influences of Afrobeats, showcasing Nico & Vinzâ€™s unique musical style.</p> <!-- Featured Image -->
+<p >Updated June 22, 2017, with "Intrigued" by Nico & Vinz. This track from the album <em>Intrigued</em>, released under Warner Records, blends smooth R&B with the rhythmic influences of Afrobeats, showcasing Nico & Vinz's unique musical style.</p> <!-- Featured Image -->
 <div > <img src="https://pbs.twimg.com/profile_images/926200687658070016/ipXf2YN8_400x400.jpg" alt="Nico & Vinz - Intrigued" />
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "iwkth9IdAZE" >}}

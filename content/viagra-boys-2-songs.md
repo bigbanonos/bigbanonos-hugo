@@ -8,7 +8,7 @@ tags:
 ---
 
 <!-- Title of the Post -->
-<h1 >BigBanonosâ€™ Favorite Songs by Viagra Boys</h1> <!-- Featured Image -->
+<h1 >BigBanonos' Favorite Songs by Viagra Boys</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/SXSW_2019_-_Viagra_Boys_%2847437549961%29.jpg/1200px-SXSW_2019_-_Viagra_Boys_%2847437549961%29.jpg" alt="Viagra Boys" >}}
 </div> <!-- Spotify Embed -->
 <div > {{< youtube "embed" >}}

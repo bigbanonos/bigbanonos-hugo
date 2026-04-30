@@ -8,7 +8,7 @@ tags:
 ---
 
 <!-- Title of the Post -->
-<h1 >BigBanonosâ€™ Favorite Songs by Demarco</h1> <!-- Featured Image -->
+<h1 >BigBanonos' Favorite Songs by Demarco</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab67616d0000b2739d377496c6bc8724b521222d" alt="Demarco" >}}
 </div> <!-- Spotify Embed -->
 <div > {{< youtube "embed" >}}

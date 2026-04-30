@@ -10,7 +10,7 @@ tags:
 ---
 
 <!-- Title of the Post -->
-<h1 >BigBanonosâ€™ Favorite Songs by Afro B</h1> <!-- Featured Image -->
+<h1 >BigBanonos' Favorite Songs by Afro B</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab6761610000e5eb628c8d57d3561e11d219c2dc" alt="Afro B" >}}
 </div> <!-- Spotify Embed -->
 <div > {{< youtube "embed" >}}

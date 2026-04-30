@@ -14,7 +14,7 @@ tags:
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "zw2rUMQimyU" >}}
 </div> <!-- Song Information -->
-<div > <p><em>"Work"</em> and <em>"Gore Veil"</em>, from The Deadly Snakes' 2005 album *Porcella*, released under In The Red Records, are standout tracks that showcase their unique fusion of garage rock, punk blues, and Toronto indie vibes. These songs capture the bandâ€™s gritty, dynamic energy and are essential listens for fans of rock and blues-inspired punk.</p>
+<div > <p><em>"Work"</em> and <em>"Gore Veil"</em>, from The Deadly Snakes' 2005 album *Porcella*, released under In The Red Records, are standout tracks that showcase their unique fusion of garage rock, punk blues, and Toronto indie vibes. These songs capture the band's gritty, dynamic energy and are essential listens for fans of rock and blues-inspired punk.</p>
 </div> <!-- Footer Links -->
 <div > 
 </div> 

@@ -15,7 +15,7 @@ tags:
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "fCoIP5ICfx8" >}}
 </div> <!-- Song Information -->
-<div > <p>"In My Mind" captures the essence of modern electronic dance music, blending the nostalgic tones of Gigi Dâ€™Agostinoâ€™s signature Italo dance with Dynoroâ€™s contemporary EDM production. A perfect track for both festivals and club nights.</p>
+<div > <p>"In My Mind" captures the essence of modern electronic dance music, blending the nostalgic tones of Gigi D'Agostino's signature Italo dance with Dynoro's contemporary EDM production. A perfect track for both festivals and club nights.</p>
 </div> <!-- Footer Links -->
 <div > <p>Discover more favorites at <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Explore our playlists on <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and follow us on <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p>
 </div> 

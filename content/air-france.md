@@ -11,5 +11,5 @@ tags:
 </div> <p>
 BigBanonos' favorite Air France song:
 </p> <p>
-Beach Party â€“ <i>On Trade Winds</i>, 2007<br>
+Beach Party – <i>On Trade Winds</i>, 2007<br>
 </p> {{< youtube "kxMLaPsx2SU" >}}  <hr />

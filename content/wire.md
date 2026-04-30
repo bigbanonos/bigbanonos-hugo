@@ -8,7 +8,7 @@ tags:
 ---
 
 <!-- Title of the Post -->
-<h1 >BigBanonosâ€™ Favorite Songs by Wire</h1> <!-- Featured Image -->
+<h1 >BigBanonos' Favorite Songs by Wire</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab67616d0000b2739c33fe14c1ecf883033aaac9" alt="Wire" >}}
 </div> <!-- Spotify Embed -->
 <div > {{< youtube "embed" >}}

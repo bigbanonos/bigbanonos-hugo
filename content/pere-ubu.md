@@ -8,7 +8,7 @@ tags:
 ---
 
 <!--Introductory Text-->
-<p >Pere Ubuâ€™s experimental sound shaped the post-punk and art rock genres. Dive into their groundbreaking tracks below!</p> <!--Featured Image-->
+<p >Pere Ubu's experimental sound shaped the post-punk and art rock genres. Dive into their groundbreaking tracks below!</p> <!--Featured Image-->
 <div > <img alt="Pere Ubu" src="https://www.firerecords.com/wp/wp-content/uploads/2016/02/pere-ubu-2-1024x627.jpg" />
 </div> <!--Spotify Playlist Embed-->
 <div > {{< youtube "embed" >}}

@@ -17,7 +17,7 @@ tags:
 <div class="spotify-embed"> {{< youtube "embed" >}}
 </div>
 <p>Tracks featured:</p>
-<ul> <li>"Karate" â€“ <i>Tenacious D</i> (September 25, 2001, Epic)</li> <li>"Drive-Thru" â€“ <i>Tenacious D</i> (September 25, 2001, Epic)</li> <li>"Double Team" â€“ <i>Tenacious D</i> (September 25, 2001, Epic)</li> <li>"City Hall/I Believe/Malibu Nights Medley" â€“ <i>Tenacious D</i> (September 25, 2001, Epic)</li> <li>"Tribute" â€“ <i>Tenacious D</i> (September 25, 2001, Epic)</li>
+<ul> <li>"Karate" – <i>Tenacious D</i> (September 25, 2001, Epic)</li> <li>"Drive-Thru" – <i>Tenacious D</i> (September 25, 2001, Epic)</li> <li>"Double Team" – <i>Tenacious D</i> (September 25, 2001, Epic)</li> <li>"City Hall/I Believe/Malibu Nights Medley" – <i>Tenacious D</i> (September 25, 2001, Epic)</li> <li>"Tribute" – <i>Tenacious D</i> (September 25, 2001, Epic)</li>
 </ul>
 <p>Relive the hilarity and genius of Tenacious D's iconic album and let their music take you on an unforgettable journey.</p>
 <hr>

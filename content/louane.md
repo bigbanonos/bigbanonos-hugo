@@ -14,7 +14,7 @@ tags:
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "Rk_3h97B7oc" >}}
 </div> <!-- Song Information -->
-<div > <p><em>"Non-sens"</em> by Louane is a standout French pop track that blends catchy rhythms with heartfelt lyrics. With its polished production and Louane's captivating performance, itâ€™s a perfect representation of her artistry and appeal.</p>
+<div > <p><em>"Non-sens"</em> by Louane is a standout French pop track that blends catchy rhythms with heartfelt lyrics. With its polished production and Louane's captivating performance, it's a perfect representation of her artistry and appeal.</p>
 </div> <!-- Footer Links -->
 <div > <p>Explore more French pop hits on <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Visit our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> channel and follow us on <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a> for more updates and music highlights.</p>
 </div> 

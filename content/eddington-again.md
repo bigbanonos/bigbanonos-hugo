@@ -8,7 +8,7 @@ tags:
 ---
 
 <h2 >BigBanonos' Favorite Songs by Eddington Again</h2> <!-- Introductory Text -->
-<p >Eddington Againâ€™s genre-blending artistry continues to captivate listeners with its soulful, experimental vibes. Updated with BigBanonos' top tracks, including "Fav" and "Sweet," this post highlights the standout moments of Eddington Again's discography.</p> <!-- Featured Image -->
+<p >Eddington Again's genre-blending artistry continues to captivate listeners with its soulful, experimental vibes. Updated with BigBanonos' top tracks, including "Fav" and "Sweet," this post highlights the standout moments of Eddington Again's discography.</p> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab67616100005174a9d57c1cf1109d923b59678e" alt="Eddington Again Album Cover" >}}
 </div> <!-- Spotify Playlist Embed -->
 <div > {{< youtube "embed" >}}

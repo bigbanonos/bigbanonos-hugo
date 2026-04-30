@@ -14,7 +14,7 @@ tags:
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "Gm1lXmEBTtQ" >}}
 </div> <!-- Song Information -->
-<div > <p>With its minimalist soundscapes and evocative vocals, "True Blue" captures the essence of Dirty Beachesâ€™ signature blend of nostalgia and grit, making it a standout in the experimental pop genre.</p>
+<div > <p>With its minimalist soundscapes and evocative vocals, "True Blue" captures the essence of Dirty Beaches' signature blend of nostalgia and grit, making it a standout in the experimental pop genre.</p>
 </div> <!-- Footer Links -->
 <div > <p>Discover more favorites at <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Explore our playlists on <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and follow us on <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p>
 </div> 

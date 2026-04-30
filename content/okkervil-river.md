@@ -8,8 +8,8 @@ tags:
 ---
 
 <!-- Title of the Post -->
-<h1>BigBanonosâ€™ Favorite Songs by Okkervil River</h1> <!-- Introductory Text -->
-<p>Okkervil Riverâ€™s discography weaves heartfelt storytelling with lush instrumentation, making them a standout in the indie and folk-rock world. This comprehensive list highlights their most evocative and memorable tracks, spanning their illustrious career.</p> <!-- Featured Image -->
+<h1>BigBanonos' Favorite Songs by Okkervil River</h1> <!-- Introductory Text -->
+<p>Okkervil River's discography weaves heartfelt storytelling with lush instrumentation, making them a standout in the indie and folk-rock world. This comprehensive list highlights their most evocative and memorable tracks, spanning their illustrious career.</p> <!-- Featured Image -->
 <div> {{< img-lite src="https://e-cdns-images.dzcdn.net/images/artist/e8cc3331ae094e3c78a9a775ff860b0d/500x500-000000-80-0-0.jpg" alt="Okkervil River" >}}
 </div> <!-- Spotify Embed -->
 <div> {{< youtube "embed" >}}

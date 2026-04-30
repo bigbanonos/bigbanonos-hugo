@@ -14,7 +14,7 @@ tags:
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "qKD8daLWis4" >}}
 </div> <!-- Song Information -->
-<div > <p><em>"Ermesinde"</em>, from Grand Duchyâ€™s 2009 album *Petit Fours*, released under Cooking Vinyl, showcases a unique fusion of indie and rock influences. The trackâ€™s captivating melodies and introspective lyrics highlight the bandâ€™s artistic versatility and creativity.</p>
+<div > <p><em>"Ermesinde"</em>, from Grand Duchy's 2009 album *Petit Fours*, released under Cooking Vinyl, showcases a unique fusion of indie and rock influences. The track's captivating melodies and introspective lyrics highlight the band's artistic versatility and creativity.</p>
 </div> <!-- Footer Links -->
 <div > 
 </div> 

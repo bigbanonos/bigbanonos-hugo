@@ -10,7 +10,7 @@ tags:
 
 <!-- Title of the Post -->
 <h1 >Teddybears - Punkrocker (feat. Iggy Pop)</h1> <!-- Introductory Text -->
-<p >Updated with "Punkrocker" by Teddybears featuring Iggy Pop, from the album *Punkrocker Featuring Iggy Pop (6-94402)*, released on July 11, 2006. This high-energy track blends electronic rock with Swedish electropop, driven by Iggy Popâ€™s iconic voice.</p> <!-- Featured Image -->
+<p >Updated with "Punkrocker" by Teddybears featuring Iggy Pop, from the album *Punkrocker Featuring Iggy Pop (6-94402)*, released on July 11, 2006. This high-energy track blends electronic rock with Swedish electropop, driven by Iggy Pop's iconic voice.</p> <!-- Featured Image -->
 <div > <img src="https://e.snmc.io/i/1200/s/72af41f85944be441e540a32e9a1bd57/2772923" alt="Teddybears - Punkrocker" />
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "8P09rxVaQAM" >}}

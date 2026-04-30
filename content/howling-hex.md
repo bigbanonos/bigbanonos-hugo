@@ -14,7 +14,7 @@ tags:
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "HJBvUoVBi7k" >}}
 </div> <!-- Song Information -->
-<div > <p><em>"Instilled with Mem'ry"</em>, released on February 22, 2005, as part of the album *All-Night Fox* under Fat Possum Records, showcases Howling Hexâ€™s experimental approach to rock. Its unique blend of intricate guitar work and hauntingly introspective lyrics make it a standout track in their discography.</p>
+<div > <p><em>"Instilled with Mem'ry"</em>, released on February 22, 2005, as part of the album *All-Night Fox* under Fat Possum Records, showcases Howling Hex's experimental approach to rock. Its unique blend of intricate guitar work and hauntingly introspective lyrics make it a standout track in their discography.</p>
 </div> <!-- Footer Links -->
 <div > 
 </div> 

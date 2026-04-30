@@ -13,7 +13,7 @@ tags:
 ---
 
 <!-- Title of the Post -->
-<h1>BigBanonosâ€™ Favorite Songs by Jay Rock</h1> <!-- Introductory Text -->
+<h1>BigBanonos' Favorite Songs by Jay Rock</h1> <!-- Introductory Text -->
 <p>Jay Rock, a pioneer of West Coast hip-hop, blends powerful lyrics with dynamic production. This curated list features his top collaborations and solo tracks, showcasing his versatility and impact on the genre.</p> <!-- Featured Image -->
 <div> {{< img-lite src="https://i.iheart.com/v3/re/new_assets/649b0b0b95ba522b468c757c?ops=contain(1480,0)" alt="Jay Rock" >}}
 </div> <!-- Spotify Embed -->
@@ -25,7 +25,7 @@ tags:
 <div> {{< youtube "videoseries" >}}
 </div> <!-- Footer Links -->
 <hr />
-<p>Explore more Jay Rock tracks and other BigBanonos favorites on <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Donâ€™t forget to check out our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> channel and follow us on <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a> for exclusive content!</p> 
+<p>Explore more Jay Rock tracks and other BigBanonos favorites on <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Don't forget to check out our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> channel and follow us on <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a> for exclusive content!</p> 
 <p>@jayrock,@blackhippy,@jeremih,@kendricklamar,@future,@jamesblake</p>
 
 <hr />

@@ -18,7 +18,7 @@ tags:
 <div class="spotify-embed"> {{< youtube "embed" >}}
 </div>
 <p>Tracks featured:</p>
-<ul> <li>"Out There - The Dare Version" â€“ <i>Crushed By Everyone</i> (November 17, 2023, Matador)</li> <li>"When You're Around" â€“ <i>Structure</i> (August 27, 2021, Wharf Cat Records)</li>
+<ul> <li>"Out There - The Dare Version" – <i>Crushed By Everyone</i> (November 17, 2023, Matador)</li> <li>"When You're Around" – <i>Structure</i> (August 27, 2021, Wharf Cat Records)</li>
 </ul>
 <p>Immerse yourself in the unique and experimental world of Water From Your Eyes and let their music inspire you.</p>
 <hr>

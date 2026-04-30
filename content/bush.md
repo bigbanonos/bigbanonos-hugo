@@ -8,7 +8,7 @@ tags:
 ---
 
 <!-- Title of the Post -->
-<h1 >BigBanonosâ€™ Favorite Songs by Bush</h1> <!-- Featured Image -->
+<h1 >BigBanonos' Favorite Songs by Bush</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab6761610000e5ebd209395dc5321f4b5163aed4" alt="Bush" >}}
 </div> <!-- Spotify Embed -->
 <div > {{< youtube "embed" >}}

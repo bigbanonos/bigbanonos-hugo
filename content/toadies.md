@@ -17,7 +17,7 @@ tags:
 <div class="spotify-embed"> {{< youtube "embed" >}}
 </div>
 <p>Tracks featured:</p>
-<ul> <li>"Mister Love" â€“ <i>Rubberneck</i> (January 1, 1994, Interscope)</li> <li>"Possum Kingdom" â€“ <i>Rubberneck</i> (January 1, 1994, Interscope)</li>
+<ul> <li>"Mister Love" – <i>Rubberneck</i> (January 1, 1994, Interscope)</li> <li>"Possum Kingdom" – <i>Rubberneck</i> (January 1, 1994, Interscope)</li>
 </ul>
 <p>Rediscover the raw power and unforgettable sound of Toadies through these classic tracks.</p>
 <hr>

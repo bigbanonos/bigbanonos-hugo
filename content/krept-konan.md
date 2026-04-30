@@ -15,7 +15,7 @@ tags:
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "BigyqAiSiSQ" >}}
 </div> <!-- Song Information -->
-<div > <p><em>"Freak Of The Week"</em> by Krept & Konan featuring Jeremih is a dynamic and infectious track that showcases the duo's UK hip hop and grime roots while incorporating Jeremihâ€™s smooth R&B vocals. Released under Virgin Records, this track is a standout from their album <em>Freak Of The Week</em>.</p>
+<div > <p><em>"Freak Of The Week"</em> by Krept & Konan featuring Jeremih is a dynamic and infectious track that showcases the duo's UK hip hop and grime roots while incorporating Jeremih's smooth R&B vocals. Released under Virgin Records, this track is a standout from their album <em>Freak Of The Week</em>.</p>
 </div> <!-- Footer Links -->
 <div > <p>Explore more genre-blending hits on <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Visit our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> channel and follow us on <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a> for more updates and music highlights.</p>
 </div> 

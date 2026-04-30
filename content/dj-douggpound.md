@@ -8,7 +8,7 @@ tags:
 ---
 
 <!-- Title of the Post -->
-<h1 >BigBanonosâ€™ Favorite Songs by DJ Douggpound</h1> <!-- Featured Image -->
+<h1 >BigBanonos' Favorite Songs by DJ Douggpound</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab6761610000e5eb037eceee8cc183b610cfa98f" alt="DJ Douggpound" >}}
 </div> <!-- Spotify Embed -->
 <div > {{< youtube "embed" >}}

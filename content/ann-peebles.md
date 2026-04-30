@@ -8,7 +8,7 @@ tags:
 ---
 
 <!-- Title of the Post -->
-<h1 >BigBanonosâ€™ Favorite Songs by Ann Peebles</h1> <!-- Featured Image -->
+<h1 >BigBanonos' Favorite Songs by Ann Peebles</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab67616d0000b273943b4cc92b7af0f22190eaef" alt="Ann Peebles" >}}
 </div> <!-- Spotify Embed -->
 <div > {{< youtube "embed" >}}

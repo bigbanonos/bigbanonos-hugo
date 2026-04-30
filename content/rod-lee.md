@@ -14,7 +14,7 @@ tags:
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "quUSjngSmN0" >}}
 </div> <!-- Song Information -->
-<div > <p><em>"Dance My Pain Away"</em>, released in 2005, is a defining track in the Baltimore club scene. Rod Leeâ€™s ability to blend heartfelt lyrics with danceable beats makes this track both a personal anthem and a club classic.</p>
+<div > <p><em>"Dance My Pain Away"</em>, released in 2005, is a defining track in the Baltimore club scene. Rod Lee's ability to blend heartfelt lyrics with danceable beats makes this track both a personal anthem and a club classic.</p>
 </div> <!-- Footer Links -->
 <div > 
 </div> 

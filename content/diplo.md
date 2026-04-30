@@ -12,13 +12,13 @@ tags:
   - '@santigold'
   - '@benburgess'
   - '@sleepytom'
-  - '@mÃƒÆ’Ã‚Â¸'
+  - '@mÃƒÆ’Ã‚¸'
   - '@amandablank'
 ---
 
 <!-- Title of the Post -->
 <h1>BigBanonos' Top Songs by Diplo</h1> <!-- Introductory Text -->
-<p>Diplo's genre-blending mastery spans EDM, pop, and country influences, creating unforgettable tracks. Hereâ€™s BigBanonos' comprehensive list of his top songs.</p> <!-- Featured Image -->
+<p>Diplo's genre-blending mastery spans EDM, pop, and country influences, creating unforgettable tracks. Here's BigBanonos' comprehensive list of his top songs.</p> <!-- Featured Image -->
 <div> {{< img-lite src="https://i.scdn.co/image/ab67616d00001e02f3806fa84b88569de46f0a24" alt="Diplo" >}}
 </div> <!-- Spotify Embed -->
 <div> {{< youtube "embed" >}}

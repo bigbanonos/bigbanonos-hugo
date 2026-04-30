@@ -14,7 +14,7 @@ tags:
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "0Ln3QDNXOzo" >}}
 </div> <!-- Song Information -->
-<div > <p><em>"Precious Metals"</em>, released in 2002, is a standout track from the album *Let's Get Ready To Crumble*. The Russian Futuristsâ€™ distinctive sound blends lo-fi production with heartfelt indie pop melodies, showcasing the creativity of this one-person band from Ontario.</p>
+<div > <p><em>"Precious Metals"</em>, released in 2002, is a standout track from the album *Let's Get Ready To Crumble*. The Russian Futurists' distinctive sound blends lo-fi production with heartfelt indie pop melodies, showcasing the creativity of this one-person band from Ontario.</p>
 </div> <!-- Footer Links -->
 <div > 
 </div> 

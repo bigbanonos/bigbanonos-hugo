@@ -13,7 +13,7 @@ tags:
 {{< youtube "videoseries" >}}<br />
 <ol>
 <li>Souls Achored [2019]</li>
-<li>Follow Me â€“ Faith [2019]</li>
+<li>Follow Me – Faith [2019]</li>
 </ol>
 
 <hr />

@@ -15,7 +15,7 @@ tags:
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "CEfq4xqWc1g" >}}
 </div> <!-- Song Information -->
-<div > <p><em>"Bizounce"</em> by Olivia is a standout track from her 2001 self-titled album, blending R&B with hip-hop. Released on June 2, 2001, itâ€™s a bold anthem that highlights Oliviaâ€™s vocal range and confident persona in the urban music scene.</p>
+<div > <p><em>"Bizounce"</em> by Olivia is a standout track from her 2001 self-titled album, blending R&B with hip-hop. Released on June 2, 2001, it's a bold anthem that highlights Olivia's vocal range and confident persona in the urban music scene.</p>
 </div> <!-- Footer Links -->
 <div > <p>Discover more R&B and hip-hop tracks on <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Visit our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> channel and follow us on <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a> for more updates and music highlights.</p>
 </div> 

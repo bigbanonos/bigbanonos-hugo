@@ -14,7 +14,7 @@ tags:
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "-DLRYskxSmk" >}}
 </div> <!-- Song Information -->
-<div > <p>Released on February 15, 2013, "Virgin Girl" by A Giant Dog is a fiery blend of Austin rock and Texas punk, showcasing the bandâ€™s raw energy and sharp songwriting. The track is featured on their album *Bone* and was released under the Tic Tac Totally label.</p>
+<div > <p>Released on February 15, 2013, "Virgin Girl" by A Giant Dog is a fiery blend of Austin rock and Texas punk, showcasing the band's raw energy and sharp songwriting. The track is featured on their album *Bone* and was released under the Tic Tac Totally label.</p>
 </div> <!-- Footer Links -->
 <div > <p>For more updates and playlists, visit <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Connect with us on <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p>
 </div> 

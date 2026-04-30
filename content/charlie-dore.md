@@ -14,7 +14,7 @@ tags:
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "SGKrgJZhpzk" >}}
 </div> <!-- Song Information -->
-<div > <p>"Pilot Of The Airwaves," released on October 1, 2008, is a heartfelt anthem celebrating the golden era of radio, showcasing Charlie Doreâ€™s unique voice and enduring charm.</p>
+<div > <p>"Pilot Of The Airwaves," released on October 1, 2008, is a heartfelt anthem celebrating the golden era of radio, showcasing Charlie Dore's unique voice and enduring charm.</p>
 </div> <!-- Footer Links -->
 <div > <p>For more updates and playlists, visit <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Connect with us on <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p>
 </div> 

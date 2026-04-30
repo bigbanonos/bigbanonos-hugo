@@ -17,7 +17,7 @@ tags:
 <div class="spotify-embed"> {{< youtube "embed" >}}
 </div>
 <p>Tracks featured:</p>
-<ul> <li>"Marquee Moon" â€“ <i>Marquee Moon</i> (February 8, 1977, Elektra Records)</li> <li>"Elevation" â€“ <i>Marquee Moon</i> (February 8, 1977, Elektra Records)</li>
+<ul> <li>"Marquee Moon" – <i>Marquee Moon</i> (February 8, 1977, Elektra Records)</li> <li>"Elevation" – <i>Marquee Moon</i> (February 8, 1977, Elektra Records)</li>
 </ul>
 <p>Explore the pioneering soundscapes of Television and immerse yourself in the brilliance of their debut album.</p>
 <hr>

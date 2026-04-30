@@ -9,7 +9,7 @@ tags:
 
 <!-- Post Title -->
 <h1 >BigBanonos' Favorite Tracks: In The Valley Below - "Peaches"</h1> <!-- Introductory Text -->
-<p >Updated July 9, 2013, with "Peaches" by In The Valley Below. This mesmerizing indie rock anthem is a highlight from the bandâ€™s repertoire and a standout release under Capitol Records.</p> <!-- Featured Image -->
+<p >Updated July 9, 2013, with "Peaches" by In The Valley Below. This mesmerizing indie rock anthem is a highlight from the band's repertoire and a standout release under Capitol Records.</p> <!-- Featured Image -->
 <div > <img src="https://i.ytimg.com/vi/L4zbFEHZbOU/maxresdefault.jpg" alt="In The Valley Below - Peaches" />
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "L4zbFEHZbOU" >}}

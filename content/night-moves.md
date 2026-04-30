@@ -14,7 +14,7 @@ tags:
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "_Dg2Ia6N3pk" >}}
 </div> <!-- Song Information -->
-<div > <p><em>"Headlights"</em> by Night Moves is a captivating indie rock track from the album <em>Colored Emotions</em>, blending soulful melodies with a unique sound that defines Night Movesâ€™ style. Released under Domino Recording Co., this track captures a dreamy atmosphere that is both intimate and expansive.</p>
+<div > <p><em>"Headlights"</em> by Night Moves is a captivating indie rock track from the album <em>Colored Emotions</em>, blending soulful melodies with a unique sound that defines Night Moves' style. Released under Domino Recording Co., this track captures a dreamy atmosphere that is both intimate and expansive.</p>
 </div> <!-- Footer Links -->
 <div > <p>Explore more indie rock hits on <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Visit our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> channel and follow us on <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a> for more updates and music highlights.</p>
 </div> 

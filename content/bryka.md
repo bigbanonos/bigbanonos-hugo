@@ -14,7 +14,7 @@ tags:
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "JDlVSdZO4nw" >}}
 </div> <!-- Song Information -->
-<div > <p>"Gimme Yuh Love" by Bryka, released on August 19, 2016, via Konsequence Muzik and VPAL Music, is a captivating Jamaican dancehall track. At 2:40, itâ€™s a vibrant addition to the *Tropical House Riddim* collection.</p>
+<div > <p>"Gimme Yuh Love" by Bryka, released on August 19, 2016, via Konsequence Muzik and VPAL Music, is a captivating Jamaican dancehall track. At 2:40, it's a vibrant addition to the *Tropical House Riddim* collection.</p>
 </div> <!-- Footer Links -->
 <div > <p>For more updates and playlists, visit <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Connect with us on <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p>
 </div> 

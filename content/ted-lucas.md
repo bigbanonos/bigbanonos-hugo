@@ -17,7 +17,7 @@ tags:
 <div class="spotify-embed"> {{< youtube "embed" >}}
 </div>
 <p>Tracks featured:</p>
-<ul> <li>"It's So Easy (When You Know What You're Doing)" â€“ Drone Folk (November 16, 2018, Yoga Records)</li> <li>"It Is So Nice to Get Stoned" â€“ Drone Folk (November 16, 2018, Yoga Records)</li>
+<ul> <li>"It's So Easy (When You Know What You're Doing)" – Drone Folk (November 16, 2018, Yoga Records)</li> <li>"It Is So Nice to Get Stoned" – Drone Folk (November 16, 2018, Yoga Records)</li>
 </ul>
 <p>Delve into Ted Lucas' captivating sounds and explore the essence of drone folk.</p>
 <hr>

@@ -7,7 +7,7 @@ tags:
   - '@drivebytruckers'
 ---
 
-<h2>Drive-By Truckers â€“ Essential Tracks</h2> <div > <img alt="Drive-By Truckers" src="https://cdn.mos.cms.futurecdn.net/73aLnGFaTQRE9sdE2Eo8jW-320-80.jpg" width="400" />
+<h2>Drive-By Truckers – Essential Tracks</h2> <div > <img alt="Drive-By Truckers" src="https://cdn.mos.cms.futurecdn.net/73aLnGFaTQRE9sdE2Eo8jW-320-80.jpg" width="400" />
 </div><div ><br /></div> {{< youtube "embed" >}}
 <div> <img src="https://cdn.mos.cms.futurecdn.net/73aLnGFaTQRE9sdE2Eo8jW-320-80.jpg" alt="Drive-By Truckers Band" width="100%" /> {{< youtube "embed" >}}
 </div>

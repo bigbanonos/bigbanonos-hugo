@@ -8,7 +8,7 @@ tags:
 ---
 
 <!-- Title of the Post -->
-<h1 >BigBanonosâ€™ Favorite Songs by Big Mama Thornton</h1> <!-- Featured Image -->
+<h1 >BigBanonos' Favorite Songs by Big Mama Thornton</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab67616d0000b273797e51a364c3b0882732238d" alt="Big Mama Thornton" >}}
 </div> <!-- Spotify Embed -->
 <div > {{< youtube "embed" >}}

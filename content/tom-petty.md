@@ -17,9 +17,9 @@ tags:
 <div class="spotify-embed"> {{< youtube "embed" >}}
 </div>
 <p>Tracks featured:</p>
-<ul> <li>"American Girl" â€“ <i>The Best Of Everything - The Definitive Career Spanning Hits Collection 1976-2016</i> (March 1, 2019, Tom Petty - Greatest Hits)</li> <li>"Square One" â€“ <i>Highway Companion</i> (July 21, 2006, American Recordings)</li> <li>"Jack" â€“ <i>Highway Companion</i> (July 21, 2006, American Recordings)</li> <li>"You Don't Know How It Feels" â€“ <i>Wildflowers</i> (October 21, 1994, 143/Warner Records)</li> <li>"Free Fallin'" â€“ <i>Full Moon Fever</i> (January 1, 1989, Tom Petty P&D)</li> <li>"I Won't Back Down" â€“ <i>Full Moon Fever</i> (January 1, 1989, Tom Petty P&D)</li>
+<ul> <li>"American Girl" – <i>The Best Of Everything - The Definitive Career Spanning Hits Collection 1976-2016</i> (March 1, 2019, Tom Petty - Greatest Hits)</li> <li>"Square One" – <i>Highway Companion</i> (July 21, 2006, American Recordings)</li> <li>"Jack" – <i>Highway Companion</i> (July 21, 2006, American Recordings)</li> <li>"You Don't Know How It Feels" – <i>Wildflowers</i> (October 21, 1994, 143/Warner Records)</li> <li>"Free Fallin'" – <i>Full Moon Fever</i> (January 1, 1989, Tom Petty P&D)</li> <li>"I Won't Back Down" – <i>Full Moon Fever</i> (January 1, 1989, Tom Petty P&D)</li>
 </ul>
-<p>Rediscover the enduring magic of Tom Pettyâ€™s music and celebrate the legacy of one of rock's greatest icons.</p>
+<p>Rediscover the enduring magic of Tom Petty's music and celebrate the legacy of one of rock's greatest icons.</p>
 <hr>
 <div class="post-footer"> <p>Discover more of BigBanonos' favorites at:</p> <ul> <li><a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos Blog</a></li> <li><a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a></li> <li><a href="https://x.com/bigbanonos" target="_blank">BigBanonos on X/Twitter</a></li> </ul>
 </div>

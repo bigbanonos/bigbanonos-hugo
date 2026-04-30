@@ -9,7 +9,7 @@ tags:
 ---
 
 <!-- Title of the Post -->
-<h1 >BigBanonosâ€™ Favorite Songs by Boosie Badazz</h1> <!-- Featured Image -->
+<h1 >BigBanonos' Favorite Songs by Boosie Badazz</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab67616d0000b273c8dcec15cb16910b47abedde" alt="Boosie Badazz" >}}
 </div> <!-- Spotify Embed -->
 <div > {{< youtube "embed" >}}

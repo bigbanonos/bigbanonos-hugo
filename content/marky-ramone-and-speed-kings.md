@@ -9,12 +9,12 @@ tags:
 
 <!-- Title of the Post -->
 <h1 >BigBanonos Favorite Song by Marky Ramone and The Speed Kings: "Girls And Gasoline"</h1> <!-- Introductory Text -->
-<p >Updated January 1, 2001, with "Girls And Gasoline" by Marky Ramone and The Speed Kings. This high-octane track captures the raw energy of punk rock, driven by Marky Ramoneâ€™s iconic drumming. Watch the video below!</p> <!-- Featured Image -->
+<p >Updated January 1, 2001, with "Girls And Gasoline" by Marky Ramone and The Speed Kings. This high-octane track captures the raw energy of punk rock, driven by Marky Ramone's iconic drumming. Watch the video below!</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d0000b273dfe4d0ce0ad250b015b57f2f" alt="Marky Ramone and The Speed Kings - Girls And Gasoline" />
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "apEGqkGyltw" >}}
 </div> <!-- Song Information -->
-<div > <p><em>"Girls And Gasoline"</em>, released in 2001, is a fiery punk rock anthem that showcases Marky Ramoneâ€™s unparalleled drumming skills and The Speed Kingsâ€™ electric energy. The trackâ€™s relentless pace and raw intensity make it a standout in their discography.</p>
+<div > <p><em>"Girls And Gasoline"</em>, released in 2001, is a fiery punk rock anthem that showcases Marky Ramone's unparalleled drumming skills and The Speed Kings' electric energy. The track's relentless pace and raw intensity make it a standout in their discography.</p>
 </div> <!-- Footer Links -->
 <div > 
 </div> 

@@ -15,7 +15,7 @@ tags:
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "qsVWEHxYSeg" >}}
 </div> <!-- Song Information -->
-<div > <p><em>"That's What Friends Are For"</em> by Likkle Miss featuring Shawn Storm is a powerful dancehall anthem that reflects themes of friendship and loyalty. With its rhythmic beats and soulful lyrics, itâ€™s a standout release from Kwashawna Records.</p>
+<div > <p><em>"That's What Friends Are For"</em> by Likkle Miss featuring Shawn Storm is a powerful dancehall anthem that reflects themes of friendship and loyalty. With its rhythmic beats and soulful lyrics, it's a standout release from Kwashawna Records.</p>
 </div> <!-- Footer Links -->
 <div > <p>Explore more dancehall favorites on <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Visit our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> channel and follow us on <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a> for more updates and music highlights.</p>
 </div> 

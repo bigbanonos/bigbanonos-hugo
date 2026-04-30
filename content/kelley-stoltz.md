@@ -8,8 +8,8 @@ tags:
 ---
 
 <!-- Title of the Post -->
-<h1>BigBanonosâ€™ Favorite Songs by Kelley Stoltz</h1> <!-- Introductory Text -->
-<p>Kelley Stoltzâ€™s infectious melodies and indie rock vibes make his music a treasure trove for fans of Bay Area indie. BigBanonos highlights his standout tracks from an impressive catalog.</p> <!-- Featured Image -->
+<h1>BigBanonos' Favorite Songs by Kelley Stoltz</h1> <!-- Introductory Text -->
+<p>Kelley Stoltz's infectious melodies and indie rock vibes make his music a treasure trove for fans of Bay Area indie. BigBanonos highlights his standout tracks from an impressive catalog.</p> <!-- Featured Image -->
 <div> {{< img-lite src="https://i.scdn.co/image/ab67616d0000b2730a2076034d038e4ca1cc60cc" alt="Kelley Stoltz" >}}
 </div> <!-- Spotify Embed -->
 <div> {{< youtube "embed" >}}

@@ -19,7 +19,7 @@ The World Ender 2015
 <div class="fb-xfbml-parse-ignore">
 <blockquote cite="https://www.facebook.com/tunespeak/posts/510068499148427">
 Want to see Lord Huron on their 2015 Tour?Follow the link below, and enter for a chance to win tickets + signed setlist! http://tuns.pk/9QrO1Tg<br />
-Posted by <a href="https://www.facebook.com/tunespeak/">Tunespeak</a> onÃƒâ€šÃ‚Â <a href="https://www.facebook.com/tunespeak/posts/510068499148427">Friday, August 28, 2015</a></blockquote>
+Posted by <a href="https://www.facebook.com/tunespeak/">Tunespeak</a> onÃƒâ€šÃ‚ <a href="https://www.facebook.com/tunespeak/posts/510068499148427">Friday, August 28, 2015</a></blockquote>
 </div>
 </div>
 

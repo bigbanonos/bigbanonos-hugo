@@ -14,7 +14,7 @@ tags:
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "_-qJ6KeaTKA" >}}
 </div> <!-- Song Information -->
-<div > <p><em>"At The Movies"</em>, from Bad Brains' self-titled 1981 album, is a quintessential hardcore punk track. Its relentless tempo and raw energy are hallmarks of the bandâ€™s groundbreaking contribution to the punk genre.</p>
+<div > <p><em>"At The Movies"</em>, from Bad Brains' self-titled 1981 album, is a quintessential hardcore punk track. Its relentless tempo and raw energy are hallmarks of the band's groundbreaking contribution to the punk genre.</p>
 </div> <!-- Footer Links -->
 <div > 
 </div> 

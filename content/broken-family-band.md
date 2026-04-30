@@ -14,7 +14,7 @@ tags:
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "f4YX97WXPnk" >}}
 </div> <!-- Song Information -->
-<div > <p><em>"Mother O'Jesus"</em> showcases The Broken Family Band's introspective lyrics and their ability to merge indie rock with folk sensibilities, creating a track thatâ€™s both reflective and engaging.</p>
+<div > <p><em>"Mother O'Jesus"</em> showcases The Broken Family Band's introspective lyrics and their ability to merge indie rock with folk sensibilities, creating a track that's both reflective and engaging.</p>
 </div> <!-- Footer Links -->
 <div > 
 </div> 

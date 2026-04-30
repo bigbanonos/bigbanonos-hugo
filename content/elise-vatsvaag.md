@@ -14,7 +14,7 @@ tags:
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "v2jdR5GIbB4" >}}
 </div> <!-- Song Information -->
-<div > <p><em>"Safe Play"</em>, released in 2012, highlights Elise Vatsvaagâ€™s talent for crafting emotionally resonant songs. With its intimate production and earnest lyrics, this track captures the essence of modern indie pop and has endeared itself to fans worldwide.</p>
+<div > <p><em>"Safe Play"</em>, released in 2012, highlights Elise Vatsvaag's talent for crafting emotionally resonant songs. With its intimate production and earnest lyrics, this track captures the essence of modern indie pop and has endeared itself to fans worldwide.</p>
 </div> <!-- Footer Links -->
 <div > 
 </div> 

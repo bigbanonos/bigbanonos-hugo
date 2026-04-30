@@ -9,7 +9,7 @@ tags:
 
 <!-- Title of the Post -->
 <h1 >BigBanonos Favorite Song by Citizen Fish: "Sink Or Swim"</h1> <!-- Introductory Text -->
-<p >Updated January 1, 1991, with "Sink Or Swim" by Citizen Fish. This energetic ska-punk track delivers sharp lyrics and infectious rhythms, showcasing the bandâ€™s signature sound. Watch the video below!</p> <!-- Featured Image -->
+<p >Updated January 1, 1991, with "Sink Or Swim" by Citizen Fish. This energetic ska-punk track delivers sharp lyrics and infectious rhythms, showcasing the band's signature sound. Watch the video below!</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d0000b273cdb00ab1289b9b109df2825a" alt="Citizen Fish - Sink Or Swim" />
 </div> <!-- YouTube Video Embed -->
 <div >{{< youtube "k4-YHAAt9cg" >}}

@@ -14,7 +14,7 @@ tags:
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "dFptLKshuuA" >}}
 </div> <!-- Song Information -->
-<div > <p>Released on February 14, 2016, "Sandy Kim" by Acid Ghost is a captivating blend of chill dream pop and indie garage rock. This standout track is featured on the album *Vacation II* and highlights the bandâ€™s atmospheric and introspective sound.</p>
+<div > <p>Released on February 14, 2016, "Sandy Kim" by Acid Ghost is a captivating blend of chill dream pop and indie garage rock. This standout track is featured on the album *Vacation II* and highlights the band's atmospheric and introspective sound.</p>
 </div> <!-- Footer Links -->
 <div > <p>For more updates and playlists, visit <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Connect with us on <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p>
 </div> 

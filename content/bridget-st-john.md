@@ -8,7 +8,7 @@ tags:
 ---
 
 <!-- Title of the Post -->
-<h1 >BigBanonosâ€™ Favorite Songs by Bridget St John</h1> <!-- Featured Image -->
+<h1 >BigBanonos' Favorite Songs by Bridget St John</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab67616d0000b27330efd5d7c7ff0956a9709300" alt="Bridget St John" >}}
 </div> <!-- Spotify Embed -->
 <div > {{< youtube "embed" >}}

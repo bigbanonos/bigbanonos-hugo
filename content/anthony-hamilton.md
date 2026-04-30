@@ -19,7 +19,7 @@ tags:
 </ol> <!-- YouTube Video Embeds -->
 <div > <h4>Highlights:</h4> {{< youtube "jyW6ww4U1lM" >}} <p><em>"Point Of It All"</em> (2008) showcases Hamilton's soul-stirring performance, a standout in his discography.</p>
 </div> <div > <h4>Featuring:</h4>
-{{< youtube "mLzvaIoSzvM" >}} <p>Donâ€™t miss the incredible collaboration with Al Green on <em>"Lay It Down"</em> (2008), where Hamilton's voice shines alongside the legendary soul icon.</p>
+{{< youtube "mLzvaIoSzvM" >}} <p>Don't miss the incredible collaboration with Al Green on <em>"Lay It Down"</em> (2008), where Hamilton's voice shines alongside the legendary soul icon.</p>
 </div> <!-- Footer Links -->
 <hr />
 <p >For more updates, visit <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Also, check out our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> channel and follow us on <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a> for more exclusive content!</p> 

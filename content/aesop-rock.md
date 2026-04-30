@@ -14,7 +14,7 @@ tags:
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "KNrB6--KBqs" >}}
 </div> <!-- Song Information -->
-<div > <p>Released on August 27, 2007, "None Shall Pass" by Aesop Rock is a standout example of abstract and conscious hip hop. Featured on the album *None Shall Pass*, this track was released under the Rhymesayers label and showcases Aesop Rockâ€™s intricate wordplay and unique production style.</p>
+<div > <p>Released on August 27, 2007, "None Shall Pass" by Aesop Rock is a standout example of abstract and conscious hip hop. Featured on the album *None Shall Pass*, this track was released under the Rhymesayers label and showcases Aesop Rock's intricate wordplay and unique production style.</p>
 </div> <!-- Footer Links -->
 <div > <p>For more updates and playlists, visit <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Connect with us on <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p>
 </div> 

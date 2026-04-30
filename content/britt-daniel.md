@@ -14,7 +14,7 @@ tags:
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "VIDEO_ID" >}}
 </div> <!-- Song Information -->
-<div > <p><em>"You Get Yours"</em>, featured on *Home, Vol. 4* and released under Post-Parlo Records, is a stripped-down acoustic track that highlights Britt Danielâ€™s songwriting prowess. With its raw emotion and intimate delivery, it stands as a gem in his catalog.</p>
+<div > <p><em>"You Get Yours"</em>, featured on *Home, Vol. 4* and released under Post-Parlo Records, is a stripped-down acoustic track that highlights Britt Daniel's songwriting prowess. With its raw emotion and intimate delivery, it stands as a gem in his catalog.</p>
 </div> <!-- Footer Links -->
 <div > 
 </div> 

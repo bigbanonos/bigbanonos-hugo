@@ -14,7 +14,7 @@ tags:
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "Wynz3yq3TBs" >}}
 </div> <!-- Song Information -->
-<div > <p><em>"Seven Years Gone"</em>, released on September 9, 2003, by Touch and Go Records, is a standout track from Quasiâ€™s *Hot Shit*. The song showcases their signature blend of lo-fi production and heartfelt lyrics, cementing their place as a staple in the indie rock scene.</p>
+<div > <p><em>"Seven Years Gone"</em>, released on September 9, 2003, by Touch and Go Records, is a standout track from Quasi's *Hot Shit*. The song showcases their signature blend of lo-fi production and heartfelt lyrics, cementing their place as a staple in the indie rock scene.</p>
 </div> <!-- Footer Links -->
 <div > 
 </div> 

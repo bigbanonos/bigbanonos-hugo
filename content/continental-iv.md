@@ -8,7 +8,7 @@ tags:
 ---
 
 <!-- Title of the Post -->
-<h1 >BigBanonosâ€™ Favorite Songs by The Continental IV</h1> <!-- Featured Image -->
+<h1 >BigBanonos' Favorite Songs by The Continental IV</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab67616d0000b27367aef122aa89291801c64e27" alt="The Continental IV" >}}
 </div> <!-- Spotify Embed -->
 <div > {{< youtube "embed" >}}

@@ -9,7 +9,7 @@ tags:
 
 <!-- Title of the Post -->
 <h1 >Yowler - Go (Audiotree Live Version)</h1> <!-- Introductory Text -->
-<p >Updated with *Go (Audiotree Live Version)* by Yowler, a captivating live recording from their Audiotree session, released on June 1, 2017. The track showcases Yowlerâ€™s intimate and emotive style, captured perfectly in the small room environment.</p> <!-- Featured Image -->
+<p >Updated with *Go (Audiotree Live Version)* by Yowler, a captivating live recording from their Audiotree session, released on June 1, 2017. The track showcases Yowler's intimate and emotive style, captured perfectly in the small room environment.</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d0000b27357d8a2b0a6d82cdf3ec54442" alt="Yowler - Go Audiotree Live" />
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "rbJ5eGFUcxc" >}}

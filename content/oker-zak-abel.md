@@ -10,7 +10,7 @@ tags:
 
 <!-- Post Title -->
 <h1 >BigBanonos' Favorite Tracks: Joker & Zak Abel - "Wise Enough"</h1> <!-- Introductory Text -->
-<p >Updated February 16, 2015, with "Wise Enough" by Joker & Zak Abel. This track from *The Mainframe* seamlessly blends electronic, R&B, and pop influences, featuring Zak Abel's soulful vocals paired with Joker's innovative dubstep production. Itâ€™s a bold exploration of the wonky and contemporary sounds that are making waves in the UK music scene.</p> <!-- Featured Image -->
+<p >Updated February 16, 2015, with "Wise Enough" by Joker & Zak Abel. This track from *The Mainframe* seamlessly blends electronic, R&B, and pop influences, featuring Zak Abel's soulful vocals paired with Joker's innovative dubstep production. It's a bold exploration of the wonky and contemporary sounds that are making waves in the UK music scene.</p> <!-- Featured Image -->
 <div > <img src="https://conversationsabouther.net/wp-content/uploads/2015/01/Joker-.jpg" alt="Joker & Zak Abel - Wise Enough" />
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "Tq56g5lTg_w" >}}

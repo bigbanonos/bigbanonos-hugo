@@ -15,7 +15,7 @@ tags:
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "dhWfKlja7Ys" >}}
 </div> <!-- Song Information -->
-<div > <p><em>"Why"</em> by Les Sins featuring Nate Salman is a standout chillwave track. With its groovy beats and mellow vibes, itâ€™s a highlight from the album <em>Michael</em>, showcasing Les Sinsâ€™ masterful production and Salmanâ€™s smooth vocals.</p>
+<div > <p><em>"Why"</em> by Les Sins featuring Nate Salman is a standout chillwave track. With its groovy beats and mellow vibes, it's a highlight from the album <em>Michael</em>, showcasing Les Sins' masterful production and Salman's smooth vocals.</p>
 </div> <!-- Footer Links -->
 <div > <p>Discover more chillwave favorites on <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Visit our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> channel and follow us on <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a> for more updates and music highlights.</p>
 </div> 

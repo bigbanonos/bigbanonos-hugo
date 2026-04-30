@@ -8,7 +8,7 @@ tags:
 ---
 
 <!-- Title of the Post -->
-<h1>BigBanonosâ€™ Favorite Songs by Pretti Kitti</h1> <!-- Featured Image -->
+<h1>BigBanonos' Favorite Songs by Pretti Kitti</h1> <!-- Featured Image -->
 <div> {{< img-lite src="https://i.scdn.co/image/ab6761610000e5eb0f09d5c358d5582079e6ad63" alt="Pretti Kitti" >}}
 </div> <!-- Spotify Embed -->
 <div> {{< youtube "embed" >}}

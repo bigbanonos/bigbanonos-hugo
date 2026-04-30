@@ -11,7 +11,7 @@ tags:
 <h1>La Roux: Essential Tracks</h1>
 {{< img-lite src="https://upload.wikimedia.org/wikipedia/commons/f/f1/La_Roux.jpg" alt="La Roux" >}} <p>BigBanonos two favorite songs by La Roux is known for her distinctive electropop sound, combining sharp synths with bold, introspective lyrics. Dive into two of her standout tracks:</p> <ol> <li><strong>Gullible Fool - Edit</strong> | Release Date: December 5, 2019 | Label: Supercolour Records</li> <li><strong>Automatic Driver - Tyler, The Creator Remix</strong> (feat. Tyler, The Creator) | Release Date: April 17, 2020 | Label: Supercolour Records</li>
 </ol> <div> {{< youtube "embed" >}}
-</div> <p>These tracks reveal La Roux's evolution and versatility, from the raw emotional depth of â€œGullible Foolâ€ to the fresh take on â€œAutomatic Driverâ€ with Tyler, The Creator.</p> <div> <p>Explore more from BigBanonos: <a href="https://bigbanonos.blogspot.com/">Website</a> | <a href="https://www.youtube.com/@BigBanonos">YouTube</a> | <a href="https://x.com/bigbanonos">Twitter</a></p>
+</div> <p>These tracks reveal La Roux's evolution and versatility, from the raw emotional depth of "Gullible Fool" to the fresh take on "Automatic Driver" with Tyler, The Creator.</p> <div> <p>Explore more from BigBanonos: <a href="https://bigbanonos.blogspot.com/">Website</a> | <a href="https://www.youtube.com/@BigBanonos">YouTube</a> | <a href="https://x.com/bigbanonos">Twitter</a></p>
 </div> 
 <p>@laroux,@tylerthecreator</p>
 

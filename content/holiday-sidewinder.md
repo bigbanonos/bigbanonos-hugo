@@ -14,7 +14,7 @@ tags:
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "74giZVQ1NAI" >}}
 </div> <!-- Song Information -->
-<div > <p><em>"Leo"</em>, released July 6, 2018, is an enchanting track that embodies Holiday Sidewinderâ€™s playful and vibrant alternative pop style. This standout release from Personal Best Records continues to captivate fans worldwide.</p>
+<div > <p><em>"Leo"</em>, released July 6, 2018, is an enchanting track that embodies Holiday Sidewinder's playful and vibrant alternative pop style. This standout release from Personal Best Records continues to captivate fans worldwide.</p>
 </div> <!-- Footer Links -->
 <div > <p>Discover more favorite tracks at <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Check out curated playlists on <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and follow us on <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p>
 </div> 

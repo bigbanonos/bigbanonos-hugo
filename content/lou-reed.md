@@ -8,8 +8,8 @@ tags:
 ---
 
 <!-- Title of the Post -->
-<h1>BigBanonosâ€™ Favorite Songs by Lou Reed</h1> <!-- Introductory Text -->
-<p>Lou Reed, a pioneer of glam rock and an enduring figure in the world of music, has a catalog that spans decades and genres. Updated with his iconic tracks, BigBanonos highlights Lou Reedâ€™s contributions to music history.</p> <!-- Featured Image -->
+<h1>BigBanonos' Favorite Songs by Lou Reed</h1> <!-- Introductory Text -->
+<p>Lou Reed, a pioneer of glam rock and an enduring figure in the world of music, has a catalog that spans decades and genres. Updated with his iconic tracks, BigBanonos highlights Lou Reed's contributions to music history.</p> <!-- Featured Image -->
 <div> {{< img-lite src="https://pyxis.nymag.com/v1/imgs/56b/1c7/760cfd4e1435ff58d2701d237956dbabde-28-lou-reed-non-greatest-hits.2x.h473.w710.jpg" alt="Lou Reed" >}}
 </div> <!-- Spotify Embed -->
 <div> {{< youtube "embed" >}}

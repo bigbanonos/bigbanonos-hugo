@@ -14,7 +14,7 @@ tags:
 </div> <!-- Spotify Embed -->
 <div > {{< youtube "embed" >}}
 </div> <!-- Song Information -->
-<div > <p><strong>"Odiame"</strong><br> Genre: Latin<br> Album: <em>30 Mejores</em><br> Release Date: 2003<br> Label: Tropisounds</p> <p><strong>"Nuestro Juramento"</strong><br> Genre: Latin<br> Album: <em>15 AÃƒÆ’Ã‚Â±os De Exitos</em><br> Release Date: 1993<br> Label: REMO Records</p>
+<div > <p><strong>"Odiame"</strong><br> Genre: Latin<br> Album: <em>30 Mejores</em><br> Release Date: 2003<br> Label: Tropisounds</p> <p><strong>"Nuestro Juramento"</strong><br> Genre: Latin<br> Album: <em>15 AÃƒÆ’Ã‚±os De Exitos</em><br> Release Date: 1993<br> Label: REMO Records</p>
 </div> <!-- Footer Links -->
 <div > 
 </div> 

@@ -11,7 +11,7 @@ tags:
 ---
 
 <!-- Title of the Post -->
-<h1 >BigBanonosâ€™ Favorite Songs by DJ Candlestick</h1> <!-- Featured Image -->
+<h1 >BigBanonos' Favorite Songs by DJ Candlestick</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab6761610000517406ed9c3a24904467a25722ff" alt="DJ Candlestick" >}}
 </div> <!-- Spotify Embed -->
 <div > {{< youtube "embed" >}}

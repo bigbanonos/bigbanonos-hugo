@@ -10,7 +10,7 @@ tags:
 <h2>BigBanonos' Top 2 Favorite Songs by Bartees Strange</h2> <!--Search Description-->
 <p>BigBanonos' top 2 favorite songs by Bartees Strange, featuring his unique blend of bubblegrunge and rock. Last updated September 23, 2021, with "Weights" and "Boomer" from <em>Live Forever</em>, highlighted in the playlist below:</p> <!--Spotify Playlist Embed-->
 {{< youtube "embed" >}} <!--Song List with Album Info-->
-<ul> <li><strong>Weights</strong> â€“ <em>Weights</em> â€“ Released September 23, 2021 â€“ Genre: bubblegrunge</li> <li><strong>Boomer</strong> â€“ <em>Live Forever</em> â€“ Released 2020 â€“ Genre: bubblegrunge, rock</li>
+<ul> <li><strong>Weights</strong> – <em>Weights</em> – Released September 23, 2021 – Genre: bubblegrunge</li> <li><strong>Boomer</strong> – <em>Live Forever</em> – Released 2020 – Genre: bubblegrunge, rock</li>
 </ul> <!--YouTube Video Embed-->
 <h3>Watch "Boomer" Video</h3>
 {{< youtube "EFaZ43nW28c" >}} <!--Image and Links-->

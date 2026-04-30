@@ -9,7 +9,7 @@ tags:
 ---
 
 <!-- Title of the Post -->
-<h1 >BigBanonosâ€™ Favorite Songs by Crucial Conflict</h1> <!-- Featured Image -->
+<h1 >BigBanonos' Favorite Songs by Crucial Conflict</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/f0a36b78ad4f04389602a28a578c6083ea4ff177" alt="Crucial Conflict" >}}
 </div> <!-- Spotify Embed -->
 <div > {{< youtube "embed" >}}

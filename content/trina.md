@@ -18,9 +18,9 @@ tags:
 <div class="spotify-embed"> {{< youtube "embed" >}}
 </div>
 <p>Tracks featured:</p>
-<ul> <li>"BAPS" (feat. Nicki Minaj) â€“ <i>BAPS</i> (June 19, 2019, Rockstarr Music Group)</li> <li>"Pull Over" â€“ <i>Da Baddest Bitch</i> (January 1, 2000, Atlantic/Slip N' Slide)</li>
+<ul> <li>"BAPS" (feat. Nicki Minaj) – <i>BAPS</i> (June 19, 2019, Rockstarr Music Group)</li> <li>"Pull Over" – <i>Da Baddest Bitch</i> (January 1, 2000, Atlantic/Slip N' Slide)</li>
 </ul>
-<p>Explore Trinaâ€™s impactful contributions to hip hop and let her tracks remind you why sheâ€™s the baddest of them all.</p>
+<p>Explore Trina's impactful contributions to hip hop and let her tracks remind you why she's the baddest of them all.</p>
 <hr>
 <div class="post-footer"> <p>Discover more of BigBanonos' favorites at:</p> <ul> <li><a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos Blog</a></li> <li><a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a></li> <li><a href="https://x.com/bigbanonos" target="_blank">BigBanonos on X/Twitter</a></li> </ul>
 </div>

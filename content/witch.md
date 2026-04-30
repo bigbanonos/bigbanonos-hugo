@@ -12,12 +12,12 @@ tags:
 <p>Updated May 22, 2011, with "She Is Mine" and "Lazy Bones" from the album <i>Witch: We Intend to Cause Havoc!</i>, highlighted in the playlist below:</p>
 <div class="post-image"> {{< img-lite src="https://i.guim.co.uk/img/media/c13875b3196988ee344db591a8a28d2a886044ad/28_149_1434_860/master/1434.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f70bc5f2995c741ebfebda8d34061b4a" alt="Witch Album Cover" >}}
 </div>
-<p>Witchâ€™s unique blend of afro psych and stoner metal bridges cultural and musical boundaries. Tracks like "She Is Mine" and "Lazy Bones" are standout examples of their pioneering sound, rooted in Zamrock and infused with high-energy rhythms and psychedelic flair.</p>
+<p>Witch's unique blend of afro psych and stoner metal bridges cultural and musical boundaries. Tracks like "She Is Mine" and "Lazy Bones" are standout examples of their pioneering sound, rooted in Zamrock and infused with high-energy rhythms and psychedelic flair.</p>
 <p>Listen to the playlist below to experience these tracks and more:</p>
 <div class="spotify-embed"> {{< youtube "embed" >}}
 </div>
 <p>Tracks featured:</p>
-<ul> <li>"She Is Mine" â€“ <i>Witch: We Intend to Cause Havoc!</i> (May 22, 2011, Now Again Records)</li> <li>"Lazy Bones" â€“ <i>Witch: We Intend to Cause Havoc!</i> (May 22, 2011, Now Again Records)</li>
+<ul> <li>"She Is Mine" – <i>Witch: We Intend to Cause Havoc!</i> (May 22, 2011, Now Again Records)</li> <li>"Lazy Bones" – <i>Witch: We Intend to Cause Havoc!</i> (May 22, 2011, Now Again Records)</li>
 </ul>
 <p>Immerse yourself in the hypnotic sounds of Witch and explore their influential contributions to psychedelic and Zamrock music.</p>
 <hr>

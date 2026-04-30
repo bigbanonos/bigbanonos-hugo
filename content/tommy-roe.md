@@ -17,9 +17,9 @@ tags:
 <div class="spotify-embed"> {{< youtube "embed" >}}
 </div>
 <p>Tracks featured:</p>
-<ul> <li>"Sheila" â€“ <i>Still Dizzy - [The Dave Cash Collection]</i> (May 9, 2011, The Dave Cash Collection - OMP)</li> <li>"Dizzy" â€“ <i>Tommy's 22 Big Ones</i> (January 1, 2001, Geffen)</li> <li>"Hanky Panky - Re-Record" â€“ <i>All the Hits: Re-Recorded</i> (1992, Good Time Records)</li>
+<ul> <li>"Sheila" – <i>Still Dizzy - [The Dave Cash Collection]</i> (May 9, 2011, The Dave Cash Collection - OMP)</li> <li>"Dizzy" – <i>Tommy's 22 Big Ones</i> (January 1, 2001, Geffen)</li> <li>"Hanky Panky - Re-Record" – <i>All the Hits: Re-Recorded</i> (1992, Good Time Records)</li>
 </ul>
-<p>Revisit the golden age of bubblegum pop with Tommy Roeâ€™s infectious tunes and timeless classics.</p>
+<p>Revisit the golden age of bubblegum pop with Tommy Roe's infectious tunes and timeless classics.</p>
 <hr>
 <div class="post-footer"> <p>Discover more of BigBanonos' favorites at:</p> <ul> <li><a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos Blog</a></li> <li><a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a></li> <li><a href="https://x.com/bigbanonos" target="_blank">BigBanonos on X/Twitter</a></li> </ul>
 </div>

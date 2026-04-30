@@ -8,7 +8,7 @@ tags:
 ---
 
 <!-- Title of the Post -->
-<h1 >BigBanonosâ€™ Favorite Songs by The Cranberries</h1> <!-- Featured Image -->
+<h1 >BigBanonos' Favorite Songs by The Cranberries</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEWOwuhjGoF1SxlfeV1KajKJBvCjoDPGNHcw&s" alt="The Cranberries" >}}
 </div> <!-- Spotify Embed -->
 <div > {{< youtube "embed" >}}

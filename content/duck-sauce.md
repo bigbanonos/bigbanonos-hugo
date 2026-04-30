@@ -16,7 +16,7 @@ tags:
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "vWM5D3MwSgA" >}}
 </div> <!-- Song Information -->
-<div > <p>"aNYway" brings an electrifying blend of disco house and modern electronic vibes. Duck Sauceâ€™s innovative sound, driven by A-Trakâ€™s turntablism and Armand Van Heldenâ€™s classic house influences, makes this track timeless.</p>
+<div > <p>"aNYway" brings an electrifying blend of disco house and modern electronic vibes. Duck Sauce's innovative sound, driven by A-Trak's turntablism and Armand Van Helden's classic house influences, makes this track timeless.</p>
 </div> <!-- Footer Links -->
 <div > <p>Discover more favorites at <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Explore our playlists on <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and follow us on <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p>
 </div> 

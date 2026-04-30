@@ -11,7 +11,7 @@ tags:
 </div> {{< youtube "embed" >}} <p>
 BigBanonos' favorite The 6ths songs, ordered by release date:
 </p> <p>
-All Dressed Up In Dreams â€“ <i>Wasps' Nests</i>, January 1, 1995, Universal (MT)<br>
-You You You You You â€“ <i>Pieces of April</i>, November 4, 2003, Nonesuch/Warner Records<br>
-As You Turn to Go â€“ <i>Pieces of April</i>, November 4, 2003, Nonesuch/Warner Records<br>
+All Dressed Up In Dreams – <i>Wasps' Nests</i>, January 1, 1995, Universal (MT)<br>
+You You You You You – <i>Pieces of April</i>, November 4, 2003, Nonesuch/Warner Records<br>
+As You Turn to Go – <i>Pieces of April</i>, November 4, 2003, Nonesuch/Warner Records<br>
 </p>  <hr />

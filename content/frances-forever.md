@@ -15,7 +15,7 @@ tags:
 </div> <!-- Spotify Embed -->
 <div > {{< youtube "embed" >}}
 </div> <!-- Song Information -->
-<div > <p><em>"paranoia party"</em> is an upbeat anthem that perfectly captures Frances Foreverâ€™s knack for blending relatable lyrics with dreamy melodies. Released June 2, 2021, on <strong>Mom+Pop</strong>.</p> <p><em>"space girl (feat. chloe moriondo)"</em> is an intergalactic indie-pop gem, radiating charm and wit. Released January 29, 2021, on <strong>Mom+Pop</strong>.</p>
+<div > <p><em>"paranoia party"</em> is an upbeat anthem that perfectly captures Frances Forever's knack for blending relatable lyrics with dreamy melodies. Released June 2, 2021, on <strong>Mom+Pop</strong>.</p> <p><em>"space girl (feat. chloe moriondo)"</em> is an intergalactic indie-pop gem, radiating charm and wit. Released January 29, 2021, on <strong>Mom+Pop</strong>.</p>
 </div> <!-- Footer Links -->
 <div > 
 </div> 

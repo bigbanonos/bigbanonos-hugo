@@ -20,7 +20,7 @@ Under The Gun 2014
 <div class="fb-xfbml-parse-ignore">
 <blockquote cite="https://www.facebook.com/events/523956937627946/permalink/540914165932223/">
 WIN a guest list spot +1, free drinks, and more to tomorrow night's show, via The Sun and The Sea and Tunespeak! The contest ends at 7 pm tonight. https://www.tunespeak.com/thesunandthesea#contests/12<br />
-Posted by <a href="https://www.blogger.com/blogger.g?blogID=6817930984197672883#" role="button">Chris Rhein</a> onÃƒâ€šÃ‚Â <a href="https://www.facebook.com/events/523956937627946/permalink/540914165932223/">Monday, February 4, 2013</a></blockquote>
+Posted by <a href="https://www.blogger.com/blogger.g?blogID=6817930984197672883#" role="button">Chris Rhein</a> onÃƒâ€šÃ‚ <a href="https://www.facebook.com/events/523956937627946/permalink/540914165932223/">Monday, February 4, 2013</a></blockquote>
 </div>
 </div>
 

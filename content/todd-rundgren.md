@@ -17,7 +17,7 @@ tags:
 <div class="spotify-embed"> {{< youtube "embed" >}}
 </div>
 <p>Tracks featured:</p>
-<ul> <li>"Bang the Drum All Day" â€“ <i>The Ever Popular Tortured Artist Effect</i> (1982, Rhino)</li> <li>"Hello It's Me" â€“ <i>Something / Anything?</i> (1972, Rhino)</li>
+<ul> <li>"Bang the Drum All Day" – <i>The Ever Popular Tortured Artist Effect</i> (1982, Rhino)</li> <li>"Hello It's Me" – <i>Something / Anything?</i> (1972, Rhino)</li>
 </ul>
 <p>Celebrate the genius of Todd Rundgren and explore his genre-defying discography through these unforgettable tracks.</p>
 <hr>

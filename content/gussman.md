@@ -12,6 +12,6 @@ tags:
 {{< youtube "LEB0Isyc7sI" >}} <p><strong>Live Life</strong><br/>
 Chronic Law, Gussman<br/>
 Release Date: February 12, 2025<br/>
-Label: COLLECT DI BRED Entertainment Ãƒâ€šÃ‚Â· One Law Entertainment</p>  <hr />  <p>@gussman,@chroniclaw</p>
+Label: COLLECT DI BRED Entertainment Ãƒâ€šÃ‚· One Law Entertainment</p>  <hr />  <p>@gussman,@chroniclaw</p>
 
 <hr />

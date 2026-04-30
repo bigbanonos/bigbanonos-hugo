@@ -14,7 +14,7 @@ tags:
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "rb7xOEZslFk" >}}
 </div> <!-- Song Information -->
-<div > <p><em>"Hit the City"</em>, from Mark Laneganâ€™s 2004 album *Bubblegum* under Beggars Banquet, is a standout track that blends acoustic rock, alternative influences, and raw, emotive vocals. Its moody tone and powerful delivery make it a timeless piece in his discography.</p>
+<div > <p><em>"Hit the City"</em>, from Mark Lanegan's 2004 album *Bubblegum* under Beggars Banquet, is a standout track that blends acoustic rock, alternative influences, and raw, emotive vocals. Its moody tone and powerful delivery make it a timeless piece in his discography.</p>
 </div> <!-- Footer Links -->
 <div > 
 </div> 

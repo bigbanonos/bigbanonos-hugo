@@ -14,7 +14,7 @@ tags:
 <li><strong>"Constant Conversations"</strong> (2012, <em>Gossamer</em>) - A smooth, R&B-inflected indie track, showing a more restrained side of Passion Pit.</li>
 <li><strong>"I've Got Your Number"</strong> (2008, <em>Chunk of Change</em>) - Released September 16, 2008, under Frenchkiss/Columbia, this track set the tone for their early success.</li>
 <li><strong>"Sleepyhead"</strong> (2009, <em>Manners</em>) - A breakout hit that introduced Passion Pit's signature glitchy, falsetto-driven sound.</li>
-</ul> <hr /> <h3>Band Info</h3> <p><strong>Passion Pit</strong> â€“ A staple of the late-2000s indie electronic scene, Passion Pit blended bright, soaring synths with deeply personal lyrics. Led by Michael Angelakos, the bandâ€™s signature falsetto vocals and euphoric soundscapes made them a defining act in indietronica.</p> <hr />  
+</ul> <hr /> <h3>Band Info</h3> <p><strong>Passion Pit</strong> – A staple of the late-2000s indie electronic scene, Passion Pit blended bright, soaring synths with deeply personal lyrics. Led by Michael Angelakos, the band's signature falsetto vocals and euphoric soundscapes made them a defining act in indietronica.</p> <hr />  
 <p>@passionpit</p>
 
 <hr />

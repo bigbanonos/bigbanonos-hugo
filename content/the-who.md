@@ -8,7 +8,7 @@ tags:
 ---
 
 <!-- Title of the Post -->
-<h1 >BigBanonosâ€™ Favorite Songs by The Who</h1> <!-- Featured Image -->
+<h1 >BigBanonos' Favorite Songs by The Who</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://www.rollingstone.com/wp-content/uploads/2018/06/rs-230666-the-who.jpg?w=800" alt="The Who" >}}
 </div> <!-- Spotify Embed -->
 <div > {{< youtube "embed" >}}

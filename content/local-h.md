@@ -14,7 +14,7 @@ tags:
 </div> <!-- Spotify Embed -->
 <div > {{< youtube "embed" >}}
 </div> <!-- Song Information -->
-<div > <p><strong>"Mansplainer"</strong><br> Genre: Rock, Metal<br> Album: <em>Hey, Killer</em><br> Release Date: April 14, 2015<br> Label: G&P Records</p> <p><strong>"All The Kids Are Right"</strong><br> Genre: Rock, Metal<br> Album: <em>Best Of Local H â€“ The Island Years</em><br> Release Date: January 1, 2011<br> Label: Island Records</p> <p><strong>"Bound For The Floor"</strong><br> Genre: Rock, Metal<br> Album: <em>Best Of Local H â€“ The Island Years</em><br> Release Date: January 1, 2011<br> Label: Island Records</p> <p><strong>"Wolf Like Me"</strong><br> Genre: Rock, Metal<br> Album: <em>Local H's Awesome Mix Tape #1</em><br> Release Date: October 19, 2010<br> Label: G&P Records</p>
+<div > <p><strong>"Mansplainer"</strong><br> Genre: Rock, Metal<br> Album: <em>Hey, Killer</em><br> Release Date: April 14, 2015<br> Label: G&P Records</p> <p><strong>"All The Kids Are Right"</strong><br> Genre: Rock, Metal<br> Album: <em>Best Of Local H – The Island Years</em><br> Release Date: January 1, 2011<br> Label: Island Records</p> <p><strong>"Bound For The Floor"</strong><br> Genre: Rock, Metal<br> Album: <em>Best Of Local H – The Island Years</em><br> Release Date: January 1, 2011<br> Label: Island Records</p> <p><strong>"Wolf Like Me"</strong><br> Genre: Rock, Metal<br> Album: <em>Local H's Awesome Mix Tape #1</em><br> Release Date: October 19, 2010<br> Label: G&P Records</p>
 </div> <!-- Footer Links -->
 <div > 
 </div> 

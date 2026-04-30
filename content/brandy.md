@@ -9,7 +9,7 @@ tags:
 ---
 
 <!-- Title of the Post -->
-<h1 >BigBanonosâ€™ Favorite Songs by Brandy</h1> <!-- Featured Image -->
+<h1 >BigBanonos' Favorite Songs by Brandy</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab67616d0000b273631fa0b99b2d12e9ecd4ae72" alt="Brandy" >}}
 </div> <!-- Spotify Embed -->
 <div > {{< youtube "embed" >}}

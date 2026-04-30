@@ -14,7 +14,7 @@ tags:
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "Gf7rPJA2UmY" >}}
 </div> <!-- Song Information -->
-<div > <p>"Problemz," released on June 15, 2018, under *Troublemekka Music*, is a dynamic blend of dancehall and riddim. Chan Dizzyâ€™s commanding vocals and rhythmic flow solidify this track as a classic.</p>
+<div > <p>"Problemz," released on June 15, 2018, under *Troublemekka Music*, is a dynamic blend of dancehall and riddim. Chan Dizzy's commanding vocals and rhythmic flow solidify this track as a classic.</p>
 </div> <!-- Footer Links -->
 <div > <p>For more updates and playlists, visit <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Connect with us on <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p>
 </div> 

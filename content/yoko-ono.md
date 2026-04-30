@@ -12,12 +12,12 @@ tags:
 <p>Updated August 24, 2022, with "Move on Fast" from the album <i>Move on Fast</i>, highlighted in the playlist below:</p>
 <div class="post-image"> {{< img-lite src="https://phi.ca/uploads/Importation/yokoono_bg-1280x853.jpg" alt="Yoko Ono Album Cover" >}}
 </div>
-<p>Yoko Onoâ€™s avant-garde and experimental approach to music has solidified her place as a trailblazing artist. Tracks like "Move on Fast" and "Have You Seen a Horizon Lately" showcase her ability to merge abstract ideas with compelling melodies, creating a unique listening experience. Her influence on art and music is profound and enduring.</p>
+<p>Yoko Ono's avant-garde and experimental approach to music has solidified her place as a trailblazing artist. Tracks like "Move on Fast" and "Have You Seen a Horizon Lately" showcase her ability to merge abstract ideas with compelling melodies, creating a unique listening experience. Her influence on art and music is profound and enduring.</p>
 <p>Listen to the playlist below to experience these tracks and more:</p>
 <div class="spotify-embed"> {{< youtube "embed" >}}
 </div>
 <p>Tracks featured:</p>
-<ul> <li>"Move on Fast" â€“ <i>Move on Fast</i> (August 24, 2022, SUPER FUJI DISCS)</li> <li>"Have You Seen a Horizon Lately" â€“ <i>Approximately Infinite Universe</i> (January 8, 1973, Secretly Canadian / Chimera Music)</li> <li>"Looking Over From My Hotel Window" â€“ <i>Approximately Infinite Universe</i> (January 8, 1973, Secretly Canadian / Chimera Music)</li>
+<ul> <li>"Move on Fast" – <i>Move on Fast</i> (August 24, 2022, SUPER FUJI DISCS)</li> <li>"Have You Seen a Horizon Lately" – <i>Approximately Infinite Universe</i> (January 8, 1973, Secretly Canadian / Chimera Music)</li> <li>"Looking Over From My Hotel Window" – <i>Approximately Infinite Universe</i> (January 8, 1973, Secretly Canadian / Chimera Music)</li>
 </ul>
 <p>Explore the groundbreaking artistry of Yoko Ono and dive into her world of experimental sound and emotion.</p>
 <hr>

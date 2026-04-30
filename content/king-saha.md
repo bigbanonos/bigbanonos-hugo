@@ -18,7 +18,7 @@ tags:
 </div> <!-- Song Information -->
 <div > <p><em>"Very Well"</em> is a vibrant collaboration between King Saha, Roja, and Slick Stuart, blending Azonto beats with Ugandan pop to create an irresistible track that stands out in the World/Traditional and Pop genres.</p>
 </div> <!-- Footer Links -->
-<div > <p>Discover more from King Saha and explore our favorite tracks on <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Donâ€™t forget to check out our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> channel and follow us on <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p>
+<div > <p>Discover more from King Saha and explore our favorite tracks on <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Don't forget to check out our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> channel and follow us on <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p>
 </div> 
 <p >Tags: @kingsaha,@roja,@slickstuart,</p>
 

@@ -8,7 +8,7 @@ tags:
 ---
 
 <!-- Title of the Post -->
-<h1>BigBanonosâ€™ Favorite Songs by Kim Fowley</h1> <!-- Introductory Text -->
+<h1>BigBanonos' Favorite Songs by Kim Fowley</h1> <!-- Introductory Text -->
 <p>Kim Fowley, the eccentric genius of garage rock and protopunk, left an indelible mark on music history. BigBanonos revisits his most iconic tracks, capturing his unique and boundary-pushing artistry.</p> <!-- Featured Image -->
 <div> {{< img-lite src="https://www.rollingstone.com/wp-content/uploads/2018/06/rs-181276-73992171.jpg?w=1581&h=1054&crop=1" alt="Kim Fowley" >}}
 </div> <!-- Spotify Embed -->

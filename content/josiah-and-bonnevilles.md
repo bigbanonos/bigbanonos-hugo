@@ -7,5 +7,5 @@ tags:
   - '@josiahandthebonnevilles'
 ---
 
-<div> <h2>Josiah and the Bonnevilles - Blood Moon</h2> {{< img-lite src="https://i.ytimg.com/vi/Trv3MWdy17Y/hq720.jpg" alt="Josiah" >}} <p><strong>BigBanonos' favorite track by Josiah:</strong></p> <p><strong>"Blood Moon (Extended Version)"</strong> â€“ Released December 14, 2022</p> {{< youtube "Fafko6DSYyc" >}}
+<div> <h2>Josiah and the Bonnevilles - Blood Moon</h2> {{< img-lite src="https://i.ytimg.com/vi/Trv3MWdy17Y/hq720.jpg" alt="Josiah" >}} <p><strong>BigBanonos' favorite track by Josiah:</strong></p> <p><strong>"Blood Moon (Extended Version)"</strong> – Released December 14, 2022</p> {{< youtube "Fafko6DSYyc" >}}
 </div>  <hr />

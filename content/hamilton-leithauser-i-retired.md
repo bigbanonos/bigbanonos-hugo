@@ -8,7 +8,7 @@ tags:
 ---
 
 <!-- Title of the Post -->
-<h1>BigBanonosâ€™ Favorite Songs by Hamilton Leithauser</h1> <!-- Introductory Text -->
+<h1>BigBanonos' Favorite Songs by Hamilton Leithauser</h1> <!-- Introductory Text -->
 <p>Hamilton Leithauser, the former frontman of The Walkmen, delivers heartfelt indie rock anthems that capture a range of emotions. BigBanonos highlights his solo work and collaborations that showcase his versatility and artistry.</p> <!-- Featured Image -->
 <div> {{< img-lite src="https://townsquare.media/site/875/files/2016/11/IMG_5670.jpg?w=780&q=75" alt="Hamilton Leithauser" >}}
 </div> <!-- Spotify Embed -->
@@ -24,7 +24,7 @@ tags:
 <h3>Featured Classic</h3>
 <div> {{< youtube "DJ9mP4U-CEA" >}}
 </div> <!-- Additional Content -->
-<p>From introspective solo tracks to collaborative gems with Rostam, Hamilton Leithauser continues to leave a lasting impact on indie rock. <em>The Old King</em> stands out as a heartfelt highlight from his 2020 album, while <em>A 1000 Times</em> captures the magical synergy between him and Rostam. With his 2025 releases <em>â€œBurn the Boatsâ€</em> and <em>â€œI Was Rightâ€</em>, he adds two more powerful songs to his catalog.</p> <!-- Footer Links -->
+<p>From introspective solo tracks to collaborative gems with Rostam, Hamilton Leithauser continues to leave a lasting impact on indie rock. <em>The Old King</em> stands out as a heartfelt highlight from his 2020 album, while <em>A 1000 Times</em> captures the magical synergy between him and Rostam. With his 2025 releases <em>"Burn the Boats"</em> and <em>"I Was Right"</em>, he adds two more powerful songs to his catalog.</p> <!-- Footer Links -->
 <hr />
  
 <p>@hamiltonleithauser,@rostam</p>

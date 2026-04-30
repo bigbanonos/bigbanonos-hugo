@@ -14,7 +14,7 @@ tags:
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "cyLE48i4XY0" >}}
 </div> <!-- Song Information -->
-<div > <p><em>"Replay"</em> captures Zendaya's signature style, blending infectious pop with a catchy hook that has made this song a standout track in her career. Itâ€™s no surprise this song resonates with fans worldwide!</p>
+<div > <p><em>"Replay"</em> captures Zendaya's signature style, blending infectious pop with a catchy hook that has made this song a standout track in her career. It's no surprise this song resonates with fans worldwide!</p>
 </div> <!-- Footer Links -->
 <div > 
 </div> 

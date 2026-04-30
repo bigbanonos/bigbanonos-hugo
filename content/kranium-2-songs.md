@@ -9,8 +9,8 @@ tags:
 ---
 
 <!-- Title of the Post -->
-<h1>BigBanonosâ€™ Favorite Songs by Kranium</h1> <!-- Introductory Text -->
-<p>Kraniumâ€™s fusion of dancehall with modern electronic and R&B influences has earned him global acclaim. BigBanonos revisits some of his best tracks that showcase his versatility and melodic charm.</p> <!-- Featured Image -->
+<h1>BigBanonos' Favorite Songs by Kranium</h1> <!-- Introductory Text -->
+<p>Kranium's fusion of dancehall with modern electronic and R&B influences has earned him global acclaim. BigBanonos revisits some of his best tracks that showcase his versatility and melodic charm.</p> <!-- Featured Image -->
 <div> {{< img-lite src="https://i.scdn.co/image/ab67616d0000b2731880ece67c766527f6361d04" alt="Kranium" >}}
 </div> <!-- Spotify Embed -->
 <div> {{< youtube "embed" >}}

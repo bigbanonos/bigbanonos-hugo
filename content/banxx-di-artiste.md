@@ -14,7 +14,7 @@ tags:
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "k6RYqBwjD5U" >}}
 </div> <!-- Song Information -->
-<div > <p>"Bad Slave" by Banxx Di Artiste delivers powerful vocals and dynamic rhythms on the *GPS Riddim*. Released on September 6, 2019, under DJ Smurf Music, this 3:13-long track highlights Banxxâ€™s unique style and energy, making it a standout hit in the genre.</p>
+<div > <p>"Bad Slave" by Banxx Di Artiste delivers powerful vocals and dynamic rhythms on the *GPS Riddim*. Released on September 6, 2019, under DJ Smurf Music, this 3:13-long track highlights Banxx's unique style and energy, making it a standout hit in the genre.</p>
 </div> <!-- Footer Links -->
 <div > <p>For more updates and playlists, visit <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Connect with us on <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p>
 </div> 

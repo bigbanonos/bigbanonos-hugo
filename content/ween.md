@@ -8,12 +8,12 @@ tags:
 ---
 
 <!-- Title of the Post -->
-<h1 >BigBanonosâ€™ Favorite Songs by Ween</h1> <!-- Featured Image -->
+<h1 >BigBanonos' Favorite Songs by Ween</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://media.gq.com/photos/66abcb3bd715909ef59091c5/16:9/w_2560%2Cc_limit/GettyImages-85050005%2520(1).jpg" alt="Ween" >}}
 </div> <!-- Spotify Embed -->
 <div > {{< youtube "embed" >}}
 </div> <!-- Introductory Text -->
-<p >Weenâ€™s unique alternative rock sound spans decades, offering whimsical, genre-blurring tracks. From the heartfelt live version of *Birthday Boy* to the aquatic charm of *The Mollusk*, here are BigBanonos' favorite tracks by Ween.</p> <!-- Song Highlights -->
+<p >Ween's unique alternative rock sound spans decades, offering whimsical, genre-blurring tracks. From the heartfelt live version of *Birthday Boy* to the aquatic charm of *The Mollusk*, here are BigBanonos' favorite tracks by Ween.</p> <!-- Song Highlights -->
 <div > <p>BigBanonos' standout picks:</p> <ol> <li><strong>Birthday Boy</strong> | <em>At the Cat's Cradle, 1992</em> | Released: June 11, 2013 | Chocodog Records</li> <li><strong>The Mollusk</strong> | <em>The Mollusk</em> | Released: April 18, 1997 | Elektra Records</li> </ol>
 </div> <!-- Footer Links -->
 <div > <p>Explore more from Ween at <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Follow us on <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a> for updates!</p>

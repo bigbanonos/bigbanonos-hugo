@@ -14,7 +14,7 @@ tags:
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "VY3HuDsHyK8" >}}
 </div> <!-- Song Information -->
-<div > <p><em>"Pat's Trick"</em>, from Heliumâ€™s 1995 album *The Dirt of Luck*, released by Matador Records, captures the bandâ€™s unique fusion of ethereal melodies and edgy riot grrrl energy. With its distinctive sound and compelling lyrics, this track is a defining moment in alternative pop and Boston rock history.</p>
+<div > <p><em>"Pat's Trick"</em>, from Helium's 1995 album *The Dirt of Luck*, released by Matador Records, captures the band's unique fusion of ethereal melodies and edgy riot grrrl energy. With its distinctive sound and compelling lyrics, this track is a defining moment in alternative pop and Boston rock history.</p>
 </div> <!-- Footer Links -->
 <div > 
 </div> 

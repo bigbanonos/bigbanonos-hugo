@@ -8,7 +8,7 @@ tags:
 ---
 
 <!-- Title of the Post -->
-<h1 >BigBanonosâ€™ Favorite Songs by The B-52's</h1> <!-- Featured Image -->
+<h1 >BigBanonos' Favorite Songs by The B-52's</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab67616d0000b2739e2d3bc7ecb09e5124cd3f97" alt="The B-52's" >}}
 </div> <!-- Spotify Embed -->
 <div > {{< youtube "embed" >}}

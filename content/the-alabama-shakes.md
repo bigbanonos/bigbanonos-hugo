@@ -8,7 +8,7 @@ tags:
 ---
 
 <!-- Title of the Post -->
-<h1 >BigBanonosâ€™ Favorite Songs by Alabama Shakes</h1> <!-- Featured Image -->
+<h1 >BigBanonos' Favorite Songs by Alabama Shakes</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab6775700000ee85f27236bdb9a200478c8d634c" alt="Alabama Shakes" >}}
 </div> <!-- Spotify Embed -->
 <div > {{< youtube "embed" >}}

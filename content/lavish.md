@@ -8,7 +8,7 @@ tags:
 ---
 
 <h2 >BigBanonos' Favorite Songs by Lavish</h2> <!-- Introductory Text -->
-<p >Updated with standout tracks "She Bod" and "Thank You" from the *Success Story Riddim*. Lavish brings a unique energy and style to dancehall, delivering tracks that resonate with fans of the genre worldwide. Check out BigBanonosâ€™ top picks below!</p> <!-- Featured Image -->
+<p >Updated with standout tracks "She Bod" and "Thank You" from the *Success Story Riddim*. Lavish brings a unique energy and style to dancehall, delivering tracks that resonate with fans of the genre worldwide. Check out BigBanonos' top picks below!</p> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab6761610000517427ccba669ce6d9008a9aac72" alt="Lavish - Featured Image" >}}
 </div> <!-- Spotify Playlist Embed -->
 <div > {{< youtube "embed" >}}

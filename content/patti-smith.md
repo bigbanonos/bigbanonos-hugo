@@ -8,7 +8,7 @@ tags:
 ---
 
 <!-- Introductory Text -->
-<p >Patti Smithâ€™s raw energy and poetic lyrics have defined an era. Explore her influential tracks below!</p> <!-- Featured Image -->
+<p >Patti Smith's raw energy and poetic lyrics have defined an era. Explore her influential tracks below!</p> <!-- Featured Image -->
 <div > <img src="https://faroutmagazine.co.uk/static/uploads/1/2018/01/Patti-Smiths-punk-cover-of-the-Velvet-Underground-song-Pale-Blue-Eyes-in-1976.jpg" alt="Patti Smith" />
 </div> <!-- Spotify Playlist Embed -->
 <div > {{< youtube "embed" >}}

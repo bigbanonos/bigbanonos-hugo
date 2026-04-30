@@ -20,9 +20,9 @@ tags:
 <div class="spotify-embed"> {{< youtube "embed" >}}
 </div>
 <p>Tracks featured:</p>
-<ul> <li>"Givenchy Bag" â€“ <i>Boasty Gang - The Album</i> (June 22, 2020, Independent)</li> <li>"My One" (feat. Tory Lanez, Kranium & Dappy) â€“ <i>My One</i> (July 5, 2019, Relentless Records)</li>
+<ul> <li>"Givenchy Bag" – <i>Boasty Gang - The Album</i> (June 22, 2020, Independent)</li> <li>"My One" (feat. Tory Lanez, Kranium & Dappy) – <i>My One</i> (July 5, 2019, Relentless Records)</li>
 </ul>
-<p>Immerse yourself in Wileyâ€™s energetic and pioneering sound that continues to define and expand the grime genre.</p>
+<p>Immerse yourself in Wiley's energetic and pioneering sound that continues to define and expand the grime genre.</p>
 <hr>
 <div class="post-footer"> <p>Discover more of BigBanonos' favorites at:</p> <ul> <li><a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos Blog</a></li> <li><a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a></li> <li><a href="https://x.com/bigbanonos" target="_blank">BigBanonos on X/Twitter</a></li> </ul>
 </div>

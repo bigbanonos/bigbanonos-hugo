@@ -11,7 +11,7 @@ tags:
 ---
 
 <!-- Title of the Post -->
-<h1 >BigBanonosâ€™ Favorite Songs by 2Pac</h1> <!-- Featured Image -->
+<h1 >BigBanonos' Favorite Songs by 2Pac</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab67616d0000b273073aebff28f79959d2543596" alt="2Pac" >}}
 </div> <!-- Spotify Embed -->
 <div > {{< youtube "embed" >}}

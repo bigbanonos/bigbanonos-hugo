@@ -8,9 +8,9 @@ tags:
 ---
 
 <!-- Tracy + The Plastics -->
-<img src="https://i.scdn.co/image/ab67616d00001e027236f44c4d93bd0cfb6b21a6" /> <p><strong>Updated 2004 with "This is Dog-City" from <em>Culture For Pigeon</em></strong></p> <p><strong>"This is Dog-City"</strong> â€“ <em>Culture For Pigeon</em> (2004)</p>
-<p><strong>"What You Still Want"</strong> â€“ <em>Culture For Pigeon</em> (2004)</p>
-<p><strong>"Henrietta"</strong> â€“ <em>Split Release</em> (2006)</p> {{< youtube "embed" >}} <p>@tracyandtheplastics</p> <hr /> <!-- Footer -->
+<img src="https://i.scdn.co/image/ab67616d00001e027236f44c4d93bd0cfb6b21a6" /> <p><strong>Updated 2004 with "This is Dog-City" from <em>Culture For Pigeon</em></strong></p> <p><strong>"This is Dog-City"</strong> – <em>Culture For Pigeon</em> (2004)</p>
+<p><strong>"What You Still Want"</strong> – <em>Culture For Pigeon</em> (2004)</p>
+<p><strong>"Henrietta"</strong> – <em>Split Release</em> (2006)</p> {{< youtube "embed" >}} <p>@tracyandtheplastics</p> <hr /> <!-- Footer -->
  
 
 <hr />

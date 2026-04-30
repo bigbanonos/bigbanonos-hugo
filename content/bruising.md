@@ -14,7 +14,7 @@ tags:
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "68HXFK3nHjs" >}}
 </div> <!-- Song Information -->
-<div > <p>"Honey" by Bruising, released on November 20, 2015, via Beech Coma, delivers a grungy yet melodic bubblegrunge anthem. At 3:20, itâ€™s a vibrant standout in the indie rock scene.</p>
+<div > <p>"Honey" by Bruising, released on November 20, 2015, via Beech Coma, delivers a grungy yet melodic bubblegrunge anthem. At 3:20, it's a vibrant standout in the indie rock scene.</p>
 </div> <!-- Footer Links -->
 <div > <p>For more updates and playlists, visit <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Connect with us on <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p>
 </div> 

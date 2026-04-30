@@ -11,7 +11,7 @@ tags:
 <div class="separator"><a href="https://lastfm.freetls.fastly.net/i/u/ar0/85ad62d74d4d45ffa60199b8ad8971d5.jpg" ><img alt="" border="0" height="320" data-original-height="400" data-original-width="315" src="https://lastfm.freetls.fastly.net/i/u/ar0/85ad62d74d4d45ffa60199b8ad8971d5.jpg"/></a></div>
 <div> {{< youtube "embed" >}}
 </div> <h3>Updated Playlist</h3>
-<p>All songs arranged by most recently released:</p> <ul> <li><strong>KarakÃƒÆ’Ã‚Â¶y</strong> - Album: <em>Let's Make Love</em> (April 13, 2018)</li> <li><strong>Good Time</strong> - Album: <em>New York City</em> (January 1, 2008)</li> <li><strong>Don't Stop</strong> - Album: <em>Brazilian Girls</em> (January 1, 2005)</li> <li><strong>PPPM</strong> - Album: <em>Brazilian Girls</em> (January 1, 2005)</li> <li><strong>Pussy</strong> - Album: <em>Brazilian Girls</em> (January 1, 2005)</li>
+<p>All songs arranged by most recently released:</p> <ul> <li><strong>KarakÃƒÆ’Ã‚¶y</strong> - Album: <em>Let's Make Love</em> (April 13, 2018)</li> <li><strong>Good Time</strong> - Album: <em>New York City</em> (January 1, 2008)</li> <li><strong>Don't Stop</strong> - Album: <em>Brazilian Girls</em> (January 1, 2005)</li> <li><strong>PPPM</strong> - Album: <em>Brazilian Girls</em> (January 1, 2005)</li> <li><strong>Pussy</strong> - Album: <em>Brazilian Girls</em> (January 1, 2005)</li>
 </ul> <h3>Video Highlights</h3>
 <p>Explore tracks and performances:</p>
 <ul> <li><a href="https://www.youtube.com/watch?v=DONTSTOP" target="_blank">Don't Stop (2005)</a></li> <li><a href="https://www.youtube.com/watch?v=GOODTIME" target="_blank">Good Time (2008)</a></li> <li><a href="https://www.youtube.com/watch?v=PPPM" target="_blank">PPPM (2005)</a></li>

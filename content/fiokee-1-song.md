@@ -8,7 +8,7 @@ tags:
 ---
 
 {{< youtube "xWx7m4D3DkU" >}}<br /><br />
-<h3><ol><li>(ft.Ãƒâ€šÃ‚Â Teni, DJ Coublon) OSAN [2020]</li>
+<h3><ol><li>(ft.Ãƒâ€šÃ‚ Teni, DJ Coublon) OSAN [2020]</li>
 </ol></h3>
 
 <hr />

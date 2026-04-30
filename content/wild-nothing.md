@@ -12,14 +12,14 @@ tags:
 <p>Updated August 7, 2018, with "Shallow Water" from the album <i>Shallow Water</i>, highlighted in the playlist below:</p>
 <div class="post-image"> {{< img-lite src="https://media.pitchfork.com/photos/64da929136a1e9d12cb54d92/1:1/w_2000,h_2000,c_limit/Wild-Nothing.jpg" alt="Wild Nothing Album Cover" >}}
 </div>
-<p>Wild Nothingâ€™s shimmering dream pop and indie rock vibes create a lush and introspective sonic experience. Tracks like "Shallow Water" and "Partners in Motion" are standout examples of their knack for crafting ethereal melodies and poignant lyrics. Their work continues to captivate fans of modern dream pop and indie sounds.</p>
+<p>Wild Nothing's shimmering dream pop and indie rock vibes create a lush and introspective sonic experience. Tracks like "Shallow Water" and "Partners in Motion" are standout examples of their knack for crafting ethereal melodies and poignant lyrics. Their work continues to captivate fans of modern dream pop and indie sounds.</p>
 <p>Listen to the playlist below to experience these tracks and more:</p>
 <div class="spotify-embed"> {{< youtube "embed" >}}
 </div>
 <p>Tracks featured:</p>
-<ul> <li>"Shallow Water" â€“ <i>Shallow Water</i> (August 7, 2018, Captured Tracks)</li> <li>"Partners in Motion" â€“ <i>Partners in Motion</i> (July 19, 2018, Captured Tracks)</li>
+<ul> <li>"Shallow Water" – <i>Shallow Water</i> (August 7, 2018, Captured Tracks)</li> <li>"Partners in Motion" – <i>Partners in Motion</i> (July 19, 2018, Captured Tracks)</li>
 </ul>
-<p>Let Wild Nothingâ€™s dreamy soundscapes transport you to another realm of indie brilliance.</p>
+<p>Let Wild Nothing's dreamy soundscapes transport you to another realm of indie brilliance.</p>
 <hr>
 <div class="post-footer"> <p>Discover more of BigBanonos' favorites at:</p> <ul> <li><a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos Blog</a></li> <li><a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a></li> <li><a href="https://x.com/bigbanonos" target="_blank">BigBanonos on X/Twitter</a></li> </ul>
 </div>

@@ -8,7 +8,7 @@ tags:
 ---
 
 <!-- Title of the Post -->
-<h1 >BigBanonosâ€™ Favorite Songs by BTS</h1> <!-- Featured Image -->
+<h1 >BigBanonos' Favorite Songs by BTS</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab6761610000e5ebd642648235ebf3460d2d1f6a" alt="BTS" >}}
 </div> <!-- Spotify Embed -->
 <div > {{< youtube "embed" >}}

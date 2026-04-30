@@ -8,7 +8,7 @@ tags:
 ---
 
 <!-- Title of the Post -->
-<h1>BigBanonosâ€™ Favorite Songs by Shelly Thunder</h1> <!-- Featured Image -->
+<h1>BigBanonos' Favorite Songs by Shelly Thunder</h1> <!-- Featured Image -->
 <div> {{< img-lite src="https://i.scdn.co/image/ab67616d0000b2735706906932bb9ff798507198" alt="Shelly Thunder" >}}
 </div> <!-- Spotify Embed -->
 <div> {{< youtube "embed" >}}

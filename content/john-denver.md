@@ -15,7 +15,7 @@ tags:
 </div> <!-- Spotify Embed -->
 <div > {{< youtube "embed" >}}
 </div> <!-- Song Information -->
-<div > <p><strong>"Sunshine On My Shoulders"</strong><br> Genre: Pop, Folk/Acoustic, Rock<br> Album: <em>Poems, Prayers and Promises</em><br> Release Date: 1971<br> Label: RCA/Legacy</p> <p><strong>"Take Me Home, Country Roads" (feat. Vinyl on HBO)</strong><br> Genre: Pop, Folk/Acoustic, Rock<br> Album: <em>VINYL: Music From The HBOÃƒâ€šÃ‚Â® Original Series - Vol. 1.8</em><br> Release Date: April 1, 2016<br> Label: Atlantic Records</p>
+<div > <p><strong>"Sunshine On My Shoulders"</strong><br> Genre: Pop, Folk/Acoustic, Rock<br> Album: <em>Poems, Prayers and Promises</em><br> Release Date: 1971<br> Label: RCA/Legacy</p> <p><strong>"Take Me Home, Country Roads" (feat. Vinyl on HBO)</strong><br> Genre: Pop, Folk/Acoustic, Rock<br> Album: <em>VINYL: Music From The HBOÃƒâ€šÃ‚® Original Series - Vol. 1.8</em><br> Release Date: April 1, 2016<br> Label: Atlantic Records</p>
 </div> <!-- Footer Links -->
 <div > 
 </div> 

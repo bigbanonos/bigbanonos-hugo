@@ -14,7 +14,7 @@ tags:
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "CejaCa6Eewc" >}}
 </div> <!-- Song Information -->
-<div > <p><em>"Here Come The Girls"</em>, from Ernie K-Doeâ€™s 1971 self-titled album released under Janus Records, is a vibrant track that showcases his charisma and talent. Its catchy rhythm and celebratory vibe make it a timeless classic in soul music.</p>
+<div > <p><em>"Here Come The Girls"</em>, from Ernie K-Doe's 1971 self-titled album released under Janus Records, is a vibrant track that showcases his charisma and talent. Its catchy rhythm and celebratory vibe make it a timeless classic in soul music.</p>
 </div> <!-- Footer Links -->
 <div > 
 </div> 

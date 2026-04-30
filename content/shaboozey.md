@@ -14,7 +14,7 @@ tags:
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "t7bQwwqW-Hc" >}}
 </div> <!-- Song Information -->
-<div > <p><em>A Bar Song (Tipsy)</em> brings a funand infectious energy, with Shaboozey mixing pop rap and modern country influences to create a lively track thatâ€™s sure to get stuck in your head.</p> <p><strong>Updated on May 31, 2024</strong></p>
+<div > <p><em>A Bar Song (Tipsy)</em> brings a funand infectious energy, with Shaboozey mixing pop rap and modern country influences to create a lively track that's sure to get stuck in your head.</p> <p><strong>Updated on May 31, 2024</strong></p>
 </div> <!-- Footer Links -->
 <div > 
 </div> 

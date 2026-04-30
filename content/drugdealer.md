@@ -9,7 +9,7 @@ tags:
 ---
 
 <!-- Title of the Post -->
-<h1 >BigBanonosâ€™ Favorite Songs by Drugdealer</h1> <!-- Featured Image -->
+<h1 >BigBanonos' Favorite Songs by Drugdealer</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab67616d00001e020bb8bf9663529f0b6cdf5b0e" alt="Drugdealer" >}}
 </div> <!-- Spotify Embed -->
 <div > {{< youtube "embed" >}}

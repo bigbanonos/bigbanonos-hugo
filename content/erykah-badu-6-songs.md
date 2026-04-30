@@ -10,7 +10,7 @@ tags:
 <h2 >BigBanonos' Top 6 Songs by Erykah Badu</h2> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab6761610000e5ebfb1bc9e7ca44d473641b7842" alt="Erykah Badu - Featured Image" >}}
 </div> <!-- Introductory Text -->
-<p >Updated March 30, 2010, with "Window Seat." Erykah Baduâ€™s soulful and genre-defining tracks have made her a timeless icon in R&B. This post highlights BigBanonosâ€™ favorite songs that showcase her unique artistry and powerful voice.</p> <!-- Spotify Playlist Embed -->
+<p >Updated March 30, 2010, with "Window Seat." Erykah Badu's soulful and genre-defining tracks have made her a timeless icon in R&B. This post highlights BigBanonos' favorite songs that showcase her unique artistry and powerful voice.</p> <!-- Spotify Playlist Embed -->
 <div > {{< youtube "embed" >}}
 </div> <!-- Song List -->
 <h3 >Selected Tracks:</h3>

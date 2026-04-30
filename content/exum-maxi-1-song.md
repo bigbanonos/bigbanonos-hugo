@@ -8,11 +8,11 @@ tags:
   - '@maxi'
 ---
 
-<img src="https://www.shazam.com/mkimage/image/thumb/Music126/v4/6f/4d/e5/6f4de545-547f-eefd-e107-1e051bf2a8fe/23SYMIM03242.rgb.jpg/375x375bb.webp" width="100%" alt="EXUM - Waking Up ft. Maxi" /> <h2>BigBanonos' Favorite Song by EXUM</h2> <p>Updated July 4, 2025 with <em>"Waking Up"</em> featuring Maxi, from the album <em>In Russia. A is a 9</em>. Released via <em>ÃƒÆ’Ã‚Â¼cke</em>, this track blends EXUM's experimental indie vision with Maxi's textured delivery, making it a standout cut for 2025.</p> <!-- YouTube Embed -->
-{{< youtube "ZW3d-hOagzA" >}} <p><strong>Waking Up</strong> â€ EXUM, Maxi<br/>
+<img src="https://www.shazam.com/mkimage/image/thumb/Music126/v4/6f/4d/e5/6f4de545-547f-eefd-e107-1e051bf2a8fe/23SYMIM03242.rgb.jpg/375x375bb.webp" width="100%" alt="EXUM - Waking Up ft. Maxi" /> <h2>BigBanonos' Favorite Song by EXUM</h2> <p>Updated July 4, 2025 with <em>"Waking Up"</em> featuring Maxi, from the album <em>In Russia. A is a 9</em>. Released via <em>ÃƒÆ’Ã‚¼cke</em>, this track blends EXUM's experimental indie vision with Maxi's textured delivery, making it a standout cut for 2025.</p> <!-- YouTube Embed -->
+{{< youtube "ZW3d-hOagzA" >}} <p><strong>Waking Up</strong> " EXUM, Maxi<br/>
 Album: <em>In Russia. A is a 9</em><br/>
 Release Date: July 4, 2025<br/>
-Label: ÃƒÆ’Ã‚Â¼cke</p>  <hr />  
+Label: ÃƒÆ’Ã‚¼cke</p>  <hr />  
 <p>@exum,@maxi</p>
 
 <hr />

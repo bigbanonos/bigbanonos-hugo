@@ -14,7 +14,7 @@ tags:
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "3JNLT_ujjKg" >}}
 </div> <!-- Song Information -->
-<div > <p><em>"Burn"</em> is a standout track that exemplifies the best of Joy Orbison, Infinite Coles, and Mansur Brownâ€™s innovative approach to music. With its fluid house rhythms and atmospheric textures, itâ€™s a prime example of the evolving UK bass sound and a must-listen for those into the future of electronic jazz.</p>
+<div > <p><em>"Burn"</em> is a standout track that exemplifies the best of Joy Orbison, Infinite Coles, and Mansur Brown's innovative approach to music. With its fluid house rhythms and atmospheric textures, it's a prime example of the evolving UK bass sound and a must-listen for those into the future of electronic jazz.</p>
 </div> <!-- Footer Links -->
 <div > <p>Discover more of these artists' work on <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>, visit our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> channel, and follow us on <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p>
 </div> 

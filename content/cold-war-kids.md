@@ -8,7 +8,7 @@ tags:
 ---
 
 <!-- Title of the Post -->
-<h1 >BigBanonosâ€™ Favorite Songs by Cold War Kids</h1> <!-- Featured Image -->
+<h1 >BigBanonos' Favorite Songs by Cold War Kids</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab6761610000e5eb27ea8d74714b23fa9e116f91" alt="Cold War Kids" >}}
 </div> <!-- Spotify Embed -->
 <div > {{< youtube "embed" >}}

@@ -15,7 +15,7 @@ tags:
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "9MoU4oYFVWc" >}}
 </div> <!-- Song Information -->
-<div > <p><em>"Jump Off"</em>, released in 2003, is a standout track that highlights Lil' Kimâ€™s lyrical prowess and bold personality. Featuring T.I.P, the song blends catchy beats with sharp, confident verses, solidifying its place as a hip-hop anthem.</p>
+<div > <p><em>"Jump Off"</em>, released in 2003, is a standout track that highlights Lil' Kim's lyrical prowess and bold personality. Featuring T.I.P, the song blends catchy beats with sharp, confident verses, solidifying its place as a hip-hop anthem.</p>
 </div> <!-- Footer Links -->
 <div > 
 </div> 

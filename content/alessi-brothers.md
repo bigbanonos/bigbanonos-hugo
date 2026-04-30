@@ -11,5 +11,5 @@ tags:
 </div> <p>
 BigBanonos' favorite song by Alessi Brothers:
 </p> {{< youtube "6nS37wwHF34" >}} <p>
-<b>Alessi Brothers â€“ "Seabird"</b> (Alessi, 1976) â€“ A&M Records<br>
+<b>Alessi Brothers – "Seabird"</b> (Alessi, 1976) – A&M Records<br>
 </p>  <hr />

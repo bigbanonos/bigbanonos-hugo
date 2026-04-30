@@ -8,7 +8,7 @@ tags:
 ---
 
 <!-- Title of the Post -->
-<h1>BigBanonosâ€™ Favorite Songs by The Libertines</h1> <!-- Introductory Text -->
+<h1>BigBanonos' Favorite Songs by The Libertines</h1> <!-- Introductory Text -->
 <p>The Libertines, icons of the garage rock revival and pioneers of the modern Britpop sound, have left an indelible mark on rock music. Updated to include the most notable tracks from their discography, BigBanonos celebrates their legendary catalog.</p> <!-- Featured Image -->
 <div> {{< img-lite src="https://edgeofarcady.com/wp-content/uploads/2022/06/the-libertines-what-a-waster.jpg" alt="The Libertines" >}}
 </div> <!-- Spotify Embed -->

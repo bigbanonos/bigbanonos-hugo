@@ -14,11 +14,11 @@ tags:
 <li><strong>"Learn How to Hang"</strong> (2010, <em>Learn How to Hang / Wave Country</em>) - Released alongside "Wave Country," blending soft harmonies with nostalgic storytelling.</li>
 <li><strong>"Someone Like You"</strong> (2008, <em>Waiting for the Sunrise</em>) - Released May 8, 2008, showcasing his more introspective side.</li>
 <li><strong>"Wisdom From A Tree"</strong> (2007, <em>The Moonstation House Band</em>) - A slow-burner with haunting vocals and layered instrumentals.</li>
-<li><strong>"Can't See Your Face No More"</strong> (2007, <em>The Moonstation House Band</em>) - One of Vanderveldeâ€™s most underrated deep cuts.</li>
+<li><strong>"Can't See Your Face No More"</strong> (2007, <em>The Moonstation House Band</em>) - One of Vandervelde's most underrated deep cuts.</li>
 <li><strong>"Checkin' Out My Baby"</strong> (2010, <em>Checkin' Out My Baby</em>) - Released June 1, 2010, a groove-heavy, upbeat track with bluesy swagger.</li>
 <li><strong>"Feet of a Liar (From The Daytrotter Sessions)"</strong> (2007, <em>Nothin' No</em>) - A rare acoustic take recorded for Daytrotter.</li>
 <li><strong>"Feet of a Liar"</strong> (2007, <em>The Moonstation House Band</em>) - A fuzzed-out rocker with a signature 70s sound.</li>
-</ul> <hr /> <h3>Artist Info</h3> <p><strong>David Vandervelde</strong> â€“ A multi-instrumentalist with a sound deeply influenced by 70s glam, indie folk, and psychedelic rock. Known for his work with Secretly Canadian, Vanderveldeâ€™s music combines lush production with deeply personal lyrics.</p> <hr />  
+</ul> <hr /> <h3>Artist Info</h3> <p><strong>David Vandervelde</strong> – A multi-instrumentalist with a sound deeply influenced by 70s glam, indie folk, and psychedelic rock. Known for his work with Secretly Canadian, Vandervelde's music combines lush production with deeply personal lyrics.</p> <hr />  
 <p>@davidvandervelde</p>
 
 <hr />

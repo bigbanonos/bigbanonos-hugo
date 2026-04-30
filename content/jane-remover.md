@@ -9,7 +9,7 @@ tags:
 
 <!-- Title of the Post -->
 <h1 >Jane Remover - Magic I Want U</h1> <!-- Introductory Text -->
-<p >Jane Remover drops a new track, â€œMagic I Want U,â€ blending glitchcore and hyper-rock sounds to create an explosive, genre-bending anthem. Watch the official audio video below!</p> <!-- Featured Image -->
+<p >Jane Remover drops a new track, "Magic I Want U," blending glitchcore and hyper-rock sounds to create an explosive, genre-bending anthem. Watch the official audio video below!</p> <!-- Featured Image -->
 <div > <img src="https://media.them.us/photos/6532c339965c5987ed3e10d7/1:1/w_1600,h_1600,c_limit/jane_header.jpg" alt="Jane Remover - Magic I Want U" />
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "Ew3WUpPw2nA" >}}

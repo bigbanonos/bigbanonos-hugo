@@ -8,7 +8,7 @@ tags:
 ---
 
 <!-- Title of the Post -->
-<h1 >BigBanonosâ€™ Favorite Songs by Destiny's Child</h1> <!-- Featured Image -->
+<h1 >BigBanonos' Favorite Songs by Destiny's Child</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab67616d0000b2738e1909b730c3f8fc483f6047" alt="Destiny's Child" >}}
 </div> <!-- Spotify Embed -->
 <div > {{< youtube "embed" >}}

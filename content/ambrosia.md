@@ -14,7 +14,7 @@ tags:
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "TYJGfrKQ7nU" >}}
 </div> <!-- Song Information -->
-<div > <p><em>"You're The Only Woman"</em>, released on August 22, 1980, is a standout track from Ambrosiaâ€™s album *One Eighty*. This timeless classic combines heartfelt lyrics with the bandâ€™s signature soft rock sound.</p>
+<div > <p><em>"You're The Only Woman"</em>, released on August 22, 1980, is a standout track from Ambrosia's album *One Eighty*. This timeless classic combines heartfelt lyrics with the band's signature soft rock sound.</p>
 </div> <!-- Footer Links -->
 <div > 
 </div> 

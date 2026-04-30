@@ -8,7 +8,7 @@ tags:
 ---
 
 <!-- Title of the Post -->
-<h1 >BigBanonosâ€™ Favorite Songs by Bettie Serveert</h1> <!-- Featured Image -->
+<h1 >BigBanonos' Favorite Songs by Bettie Serveert</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab67616d00001e023c309237cf7636f072595106" alt="Bettie Serveert" >}}
 </div> <!-- Spotify Embed -->
 <div > {{< youtube "embed" >}}

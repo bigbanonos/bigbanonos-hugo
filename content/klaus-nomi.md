@@ -14,7 +14,7 @@ tags:
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "gwA4fFY66nI" >}}
 </div> <!-- Song Information -->
-<div > <p><em>"Valentine's Day"</em>, featured on Klaus Nomiâ€™s *Za Bakdaz: The Unfinished Opera*, released posthumously in 2009 by Heliocentric Records, is a mesmerizing piece that highlights Nomi's ethereal voice and experimental artistry. The song's fusion of dark cabaret and avant-garde sensibilities makes it a standout in his catalog.</p>
+<div > <p><em>"Valentine's Day"</em>, featured on Klaus Nomi's *Za Bakdaz: The Unfinished Opera*, released posthumously in 2009 by Heliocentric Records, is a mesmerizing piece that highlights Nomi's ethereal voice and experimental artistry. The song's fusion of dark cabaret and avant-garde sensibilities makes it a standout in his catalog.</p>
 </div> <!-- Footer Links -->
 <div > 
 </div> 

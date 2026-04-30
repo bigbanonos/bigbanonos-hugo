@@ -8,7 +8,7 @@ tags:
 ---
 
 <!-- Title of the Post -->
-<h1>BigBanonosâ€™ Favorite Songs by Little Wings</h1> <!-- Introductory Text -->
+<h1>BigBanonos' Favorite Songs by Little Wings</h1> <!-- Introductory Text -->
 <p>Little Wings brings a whimsical touch to indie folk, weaving poetic lyrics with warm acoustics. BigBanonos dives into their standout tracks that define their unique sound.</p> <!-- Featured Image -->
 <div> {{< img-lite src="https://i.scdn.co/image/ab67616d0000b27300a0460da4b5c58b358da7a7" alt="Little Wings" >}}
 </div> <!-- Spotify Embed -->

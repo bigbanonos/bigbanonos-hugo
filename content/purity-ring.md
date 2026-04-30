@@ -8,7 +8,7 @@ tags:
 ---
 
 <!--Introductory Text-->
-<p >Purity Ringâ€™s shimmering sounds and introspective lyrics create a mesmerizing listening experience. Check out some of their finest tracks below.</p> <!--Featured Image-->
+<p >Purity Ring's shimmering sounds and introspective lyrics create a mesmerizing listening experience. Check out some of their finest tracks below.</p> <!--Featured Image-->
 <div > <img alt="Purity Ring" src="https://www.rollingstone.com/wp-content/uploads/2018/06/rs-6265-rectangle.jpg" />
 </div> <!--Spotify Playlist Embed-->
 <div > {{< youtube "embed" >}}

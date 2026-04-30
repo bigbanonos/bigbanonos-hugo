@@ -14,7 +14,7 @@ tags:
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "Ta_CX-h9fGs" >}}
 </div> <!-- Song Information -->
-<div > <p>"Some Faces" by Bauhaus is an atmospheric post-punk gem that embodies the bandâ€™s gothic rock and dark wave aesthetic. Released on November 23, 2018, as part of the album *The Bela Session* under Leaving Records, this 2:22-long track is a striking example of Bauhausâ€™ influence on alternative rock and UK post-punk.</p>
+<div > <p>"Some Faces" by Bauhaus is an atmospheric post-punk gem that embodies the band's gothic rock and dark wave aesthetic. Released on November 23, 2018, as part of the album *The Bela Session* under Leaving Records, this 2:22-long track is a striking example of Bauhaus' influence on alternative rock and UK post-punk.</p>
 </div> <!-- Footer Links -->
 <div > <p>For more updates and playlists, visit <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Connect with us on <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p>
 </div> 

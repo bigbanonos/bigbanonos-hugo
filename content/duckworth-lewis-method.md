@@ -14,7 +14,7 @@ tags:
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "t3JA-417V_M" >}}
 </div> <!-- Song Information -->
-<div > <p><em>"Meeting Mr. Miandad"</em>, from The Duckworth Lewis Methodâ€™s self-titled 2009 album, is a delightful mix of pop and folk influences. With its witty lyrics and charming arrangement, this track is a testament to the band's creative storytelling prowess.</p>
+<div > <p><em>"Meeting Mr. Miandad"</em>, from The Duckworth Lewis Method's self-titled 2009 album, is a delightful mix of pop and folk influences. With its witty lyrics and charming arrangement, this track is a testament to the band's creative storytelling prowess.</p>
 </div> <!-- Footer Links -->
 <div > 
 </div> 

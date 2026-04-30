@@ -8,7 +8,7 @@ tags:
 ---
 
 <h1>BigBanonos 5 Favorite Songs by Hunx & His Punx</h1> <img src="https://www.self-titledmag.com/wp-content/uploads/2012/02/HXS1.jpg" alt="Hunx & His Punx" /> <p>This collection of BigBanonos' favorite tracks by Hunx & His Punx captures their vibrant blend of Bay Area indie, garage pop, and queercore. These songs from the album <em>Street Punk</em> showcase the band's energetic and rebellious spirit.</p> <h2>Songs #NotOnSpotify</h2>
-<p>BigBanonos takes pride in highlighting tracks that arenâ€™t available on Spotify. Check out these rare gems from Hunx & His Punx:</p> <ul> <li><strong>U Don't Like Rock N Roll</strong></li> {{< youtube "bROXN8BU24A" >}} <li><strong>Always Forever</strong></li> {{< youtube "kE-T7YXc5Yg" >}} <li><strong>Set Them Free</strong></li> {{< youtube "SGMYpapvlwk" >}}
+<p>BigBanonos takes pride in highlighting tracks that aren't available on Spotify. Check out these rare gems from Hunx & His Punx:</p> <ul> <li><strong>U Don't Like Rock N Roll</strong></li> {{< youtube "bROXN8BU24A" >}} <li><strong>Always Forever</strong></li> {{< youtube "kE-T7YXc5Yg" >}} <li><strong>Set Them Free</strong></li> {{< youtube "SGMYpapvlwk" >}}
 </ul> <p>Discover more tracks like these on the BigBanonos <a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">#NotOnSpotify playlist on YouTube</a>.</p> <h2>Top Tracks on Spotify</h2>
 <ol> <li><strong>You Think You're Tough</strong> | <em>Street Punk</em> | Hardly Art | Released: July 23, 2013</li> <li><strong>Mud in Your Eyes</strong> | <em>Street Punk</em> | Hardly Art | Released: July 23, 2013</li>
 </ol> <div> {{< youtube "embed" >}}

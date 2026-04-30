@@ -14,7 +14,7 @@ tags:
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "wEEr6m3dxmA" >}}
 </div> <!-- Song Information -->
-<div > <p><em>"Bawl Cry Wail"</em>, released on February 17, 2015, is a standout track from <em>Driver</em>, an album released under Western Vinyl. The trackâ€™s haunting melodies and reflective lyrics create a mesmerizing listening experience.</p>
+<div > <p><em>"Bawl Cry Wail"</em>, released on February 17, 2015, is a standout track from <em>Driver</em>, an album released under Western Vinyl. The track's haunting melodies and reflective lyrics create a mesmerizing listening experience.</p>
 </div> <!-- Footer Links -->
 <div > <p>Discover more favorite tracks at <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Check out curated playlists on <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and follow us on <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p>
 </div> 

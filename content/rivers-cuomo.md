@@ -14,7 +14,7 @@ tags:
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "xMiLwwjK-0w" >}}
 </div> <!-- Song Information -->
-<div > <p><em>"Lover In The Snow"</em>, released on January 1, 2007, by Geffen Records, is a standout track from Rivers Cuomoâ€™s *Alone: The Home Recordings*. Combining tender lyrics with a stripped-down alternative rock sound, the song offers a glimpse into Cuomoâ€™s personal and creative world.</p>
+<div > <p><em>"Lover In The Snow"</em>, released on January 1, 2007, by Geffen Records, is a standout track from Rivers Cuomo's *Alone: The Home Recordings*. Combining tender lyrics with a stripped-down alternative rock sound, the song offers a glimpse into Cuomo's personal and creative world.</p>
 </div> <!-- Footer Links -->
 <div > 
 </div> 

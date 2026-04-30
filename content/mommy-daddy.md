@@ -14,7 +14,7 @@ tags:
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "NbmLgtQ_Ih4" >}}
 </div> <!-- Song Information -->
-<div > <p><em>"Beachy"</em>, released on January 1, 2003, by Big Cat (UK) Records, is a standout track from Mommy & Daddyâ€™s *Live How You Listen*. With its minimalist production and catchy hooks, the song captures the raw energy and DIY spirit that defines the bandâ€™s style.</p>
+<div > <p><em>"Beachy"</em>, released on January 1, 2003, by Big Cat (UK) Records, is a standout track from Mommy & Daddy's *Live How You Listen*. With its minimalist production and catchy hooks, the song captures the raw energy and DIY spirit that defines the band's style.</p>
 </div> <!-- Footer Links -->
 <div > 
 </div> 

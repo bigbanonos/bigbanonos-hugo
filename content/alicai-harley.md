@@ -14,7 +14,7 @@ tags:
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "SyGkeG4Tvrk" >}}
 </div> <!-- Song Information -->
-<div > <p>"Tek It To Dem" by Alicai Harley is a dynamic blend of dancehall and UK contemporary R&B influences, showcasing her vibrant style and energy. Released on December 13, 2019, under Parlophone UK, this track highlights Harleyâ€™s talent for creating infectious and empowering music.</p>
+<div > <p>"Tek It To Dem" by Alicai Harley is a dynamic blend of dancehall and UK contemporary R&B influences, showcasing her vibrant style and energy. Released on December 13, 2019, under Parlophone UK, this track highlights Harley's talent for creating infectious and empowering music.</p>
 </div> <!-- Footer Links -->
 <div > <p>For more updates and playlists, visit <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Connect with us on <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p>
 </div> 

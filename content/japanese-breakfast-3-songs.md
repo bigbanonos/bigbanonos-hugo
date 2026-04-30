@@ -8,7 +8,7 @@ tags:
 ---
 
 <h1>BigBanonos 4 Must-Hear Tracks by Japanese Breakfast</h1>
-{{< img-lite src="https://assets.vogue.com/photos/5b577f2126f9c7744ad58878/4:3/w_2012,h_1509,c_limit/00-promo-japanese-breakfast.jpg" alt="Japanese Breakfast" >}} <p>Japanese Breakfastâ€™s sound is a vibrant blend of indie pop and art rock, marked by introspective lyrics and hauntingly beautiful melodies. Updated June 10, 2025 with <strong>â€œMy Baby (Got Nothing At All)â€</strong> from the <em>Materialists Original Soundtrack</em>, released via A24 Music.</p> <!-- Featured New Video -->
+{{< img-lite src="https://assets.vogue.com/photos/5b577f2126f9c7744ad58878/4:3/w_2012,h_1509,c_limit/00-promo-japanese-breakfast.jpg" alt="Japanese Breakfast" >}} <p>Japanese Breakfast's sound is a vibrant blend of indie pop and art rock, marked by introspective lyrics and hauntingly beautiful melodies. Updated June 10, 2025 with <strong>"My Baby (Got Nothing At All)"</strong> from the <em>Materialists Original Soundtrack</em>, released via A24 Music.</p> <!-- Featured New Video -->
 <div> {{< youtube "mt7R1J7j6rg" >}}
 </div> <ol> <li><strong>My Baby (Got Nothing At All)</strong> | <em>Materialists Original Soundtrack</em> | A24 Music | Released: June 10, 2025</li> <li><strong>Nobody Sees Me Like You Do</strong> | <em>Nobody Sees Me Like You Do</em> | Canvasback | Released: January 26, 2022</li> <li><strong>Savage Good Boy</strong> | <em>Savage Good Boy</em> | Dead Oceans | Released: May 19, 2021</li> <li><strong>Posing In Bondage</strong> | <em>Posing In Bondage</em> | Dead Oceans | Released: April 8, 2021</li>
 </ol> <div> {{< youtube "embed" >}}

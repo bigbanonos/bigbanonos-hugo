@@ -11,7 +11,7 @@ tags:
 <p><em>Tonight</em>, Domino Recording Co, January 27, 2009</p> <h3>"Walk Away"</h3>
 <p><em>You Could Have It So Much Better</em>, Domino Recording Co, October 3, 2005</p> <h3>"Eleanor Put Your Boots On"</h3>
 <p><em>You Could Have It So Much Better</em>, Domino Recording Co, October 3, 2005</p> <h3>"Take Me Out"</h3>
-<p><em>Franz Ferdinand</em>, Domino Recording Co, February 16, 2004</p> <h3>"The Dark Of The MatinÃƒÆ’Ã‚Â©e"</h3>
+<p><em>Franz Ferdinand</em>, Domino Recording Co, February 16, 2004</p> <h3>"The Dark Of The MatinÃƒÆ’Ã‚©e"</h3>
 <p><em>Franz Ferdinand</em>, Domino Recording Co, February 16, 2004</p> <h3>"Jacqueline"</h3>
 <p><em>Franz Ferdinand</em>, Domino Recording Co, February 16, 2004</p> <h3>"Michael"</h3>
 <p><em>Franz Ferdinand</em>, Domino Recording Co, February 16, 2004</p> <hr /> <h3>Listen on Spotify</h3> {{< youtube "embed" >}} <hr /> <p><strong>Tags:</strong> @franzferdinand</p> <hr />

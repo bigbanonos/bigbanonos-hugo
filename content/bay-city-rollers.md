@@ -14,7 +14,7 @@ tags:
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "csXFpFoRkEk" >}}
 </div> <!-- Song Information -->
-<div > <p><em>"Saturday Night"</em>, from Bay City Rollersâ€™ album *Rollinâ€™* (1974), released under Arista Records, is a bubblegum pop classic. Its catchy chant and upbeat melody make it a timeless pop hit that still brings joy to fans of the genre.</p>
+<div > <p><em>"Saturday Night"</em>, from Bay City Rollers' album *Rollin'* (1974), released under Arista Records, is a bubblegum pop classic. Its catchy chant and upbeat melody make it a timeless pop hit that still brings joy to fans of the genre.</p>
 </div> <!-- Footer Links -->
 <div > 
 </div> 

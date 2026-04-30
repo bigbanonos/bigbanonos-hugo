@@ -8,7 +8,7 @@ tags:
 ---
 
 <!-- Title of the Post -->
-<h1 >BigBanonosâ€™ Favorite Songs by Chairlift</h1> <!-- Featured Image -->
+<h1 >BigBanonos' Favorite Songs by Chairlift</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab6761610000e5eb5e840e15b98bab227b5289a6" alt="Chairlift" >}}
 </div> <!-- Spotify Embed -->
 <div > {{< youtube "embed" >}}

@@ -8,7 +8,7 @@ tags:
 ---
 
 <!-- Title of the Post -->
-<h1 >BigBanonosâ€™ Favorite Songs by Dinah Washington</h1> <!-- Featured Image -->
+<h1 >BigBanonos' Favorite Songs by Dinah Washington</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/219cf4ef5ee4065d4b431da35b9997aaa7293c8d" alt="Dinah Washington" >}}
 </div> <!-- Spotify Embed -->
 <div > {{< youtube "embed" >}}

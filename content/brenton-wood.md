@@ -8,7 +8,7 @@ tags:
 ---
 
 <!-- Title of the Post -->
-<h1 >BigBanonosâ€™ Favorite Songs by Brenton Wood</h1> <!-- Featured Image -->
+<h1 >BigBanonos' Favorite Songs by Brenton Wood</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab67616d0000b273af82af61a16d677bf22f37a1" alt="Brenton Wood" >}}
 </div> <!-- Spotify Embed -->
 <div > {{< youtube "embed" >}}

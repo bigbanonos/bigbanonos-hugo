@@ -17,7 +17,7 @@ tags:
 <div class="spotify-embed"> {{< youtube "embed" >}}
 </div>
 <p>Tracks featured:</p>
-<ul> <li>"Fete Tonight" â€“ <i>Sun Tann Riddim</i> (October 4, 2018, 878333 Records DK)</li> <li>"Haunt Me" â€“ <i>Sun Tann Riddim</i> (October 4, 2018, 878333 Records DK)</li>
+<ul> <li>"Fete Tonight" – <i>Sun Tann Riddim</i> (October 4, 2018, 878333 Records DK)</li> <li>"Haunt Me" – <i>Sun Tann Riddim</i> (October 4, 2018, 878333 Records DK)</li>
 </ul>
 <p>Explore the sounds of Team Rilla and immerse yourself in the vibrant beats of the <i>Sun Tann Riddim</i>. These tracks are sure to get you moving!</p>
 <hr>

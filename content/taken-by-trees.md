@@ -8,7 +8,7 @@ tags:
 ---
 
 <!-- Title of the Post -->
-<h1 >BigBanonosâ€™ Favorite Songs by Taken By Trees</h1> <!-- Featured Image -->
+<h1 >BigBanonos' Favorite Songs by Taken By Trees</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://assets.exclaim.ca/image/upload/v1703873999/up-Taken_By_Trees_.jpg" alt="Taken By Trees" >}}
 </div> <!-- Spotify Embed -->
 <div > {{< youtube "embed" >}}

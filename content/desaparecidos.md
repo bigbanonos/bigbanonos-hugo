@@ -8,7 +8,7 @@ tags:
 ---
 
 <!-- Title of the Post -->
-<h1 >BigBanonosâ€™ Favorite Songs by Desaparecidos</h1> <!-- Featured Image -->
+<h1 >BigBanonos' Favorite Songs by Desaparecidos</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab6772690000dd229737d48c50c9c19c95970d39" alt="Desaparecidos" >}}
 </div> <!-- Spotify Embed -->
 <div > {{< youtube "embed" >}}

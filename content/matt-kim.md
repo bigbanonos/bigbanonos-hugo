@@ -14,7 +14,7 @@ tags:
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "L0lDXoJf8RY" >}}
 </div> <!-- Song Information -->
-<div > <p><em>"Daylight - Milk and Vodka Remix"</em> takes the infectious indie charm of Matt & Kimâ€™s original track and infuses it with pulsating beats and a fresh energy. This remix is a testament to the duo's versatility and ability to captivate across genres. Check it out on <a href="https://youtu.be/L0lDXoJf8RY" target="_blank">YouTube</a>!</p>
+<div > <p><em>"Daylight - Milk and Vodka Remix"</em> takes the infectious indie charm of Matt & Kim's original track and infuses it with pulsating beats and a fresh energy. This remix is a testament to the duo's versatility and ability to captivate across genres. Check it out on <a href="https://youtu.be/L0lDXoJf8RY" target="_blank">YouTube</a>!</p>
 </div> <!-- Footer Links -->
 <div > 
 </div> 

@@ -9,7 +9,7 @@ tags:
 ---
 
 <!-- Title of the Post -->
-<h1 >BigBanonosâ€™ Favorite Tracks by Cassius Clay (Muhammad Ali)</h1> <!-- Featured Image -->
+<h1 >BigBanonos' Favorite Tracks by Cassius Clay (Muhammad Ali)</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_1YmB0Ld2IvY1ubf91r6My9yQ44bXMiuAyQ&s" alt="Cassius Clay / Muhammad Ali" >}}
 </div> <!-- Spotify Embed -->
 <div > {{< youtube "embed" >}}

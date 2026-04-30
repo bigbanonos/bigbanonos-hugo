@@ -14,7 +14,7 @@ tags:
 </div> <!-- Spotify Embed -->
 <div > {{< youtube "embed" >}}
 </div> <!-- Song Information -->
-<div > <p><em>"I'll Stick Around"</em> is a quintessential Foo Fighters track, exuding raw energy and powerful riffs. Taken from their debut album <strong>Foo Fighters</strong>, released on July 4, 1995, it showcases the bandâ€™s post-grunge origins.</p>
+<div > <p><em>"I'll Stick Around"</em> is a quintessential Foo Fighters track, exuding raw energy and powerful riffs. Taken from their debut album <strong>Foo Fighters</strong>, released on July 4, 1995, it showcases the band's post-grunge origins.</p>
 </div> <!-- Footer Links -->
 <div > 
 </div> 

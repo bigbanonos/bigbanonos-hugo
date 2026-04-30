@@ -14,7 +14,7 @@ tags:
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "W3nCx1fvDg8" >}}
 </div> <!-- Song Information -->
-<div > <p><em>"Too Young to Burn"</em> is from Sonny & The Sunsets' 2010 album *Tomorrow Is Alright*. The track captures the bandâ€™s signature popgaze and indie rock vibe.</p>
+<div > <p><em>"Too Young to Burn"</em> is from Sonny & The Sunsets' 2010 album *Tomorrow Is Alright*. The track captures the band's signature popgaze and indie rock vibe.</p>
 </div> <!-- Footer Links -->
 <div > 
 </div> 

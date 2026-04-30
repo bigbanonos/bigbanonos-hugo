@@ -16,7 +16,7 @@ tags:
 </div>
 {{< youtube "videoseries" >}}
 <!-- Song Information -->
-<div > <p><em>"Dice"</em> by Konradsen is a beautiful indie pop piece that encapsulates the ethereal and introspective soundscape of Oslo indie music. A highlight from the album <em>Dice</em>, itâ€™s a must-listen for fans of thoughtful and melodic pop.</p>
+<div > <p><em>"Dice"</em> by Konradsen is a beautiful indie pop piece that encapsulates the ethereal and introspective soundscape of Oslo indie music. A highlight from the album <em>Dice</em>, it's a must-listen for fans of thoughtful and melodic pop.</p>
 </div> <!-- Footer Links -->
 <div > <p>Discover more indie pop gems on <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Visit our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> channel and follow us on <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a> for more updates and music highlights.</p>
 </div> 

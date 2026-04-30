@@ -14,7 +14,7 @@ tags:
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "OIE6CkLpL2I" >}}
 </div> <!-- Song Information -->
-<div > <p>"Mound City Baby" captures the essence of Dubb Nubbâ€™s heartfelt storytelling, enriched with their signature STL indie sound. Itâ€™s a nostalgic and melodic piece that resonates deeply with listeners.</p>
+<div > <p>"Mound City Baby" captures the essence of Dubb Nubb's heartfelt storytelling, enriched with their signature STL indie sound. It's a nostalgic and melodic piece that resonates deeply with listeners.</p>
 </div> <!-- Footer Links -->
 <div > <p>Discover more favorites at <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Explore our playlists on <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and follow us on <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p>
 </div> 

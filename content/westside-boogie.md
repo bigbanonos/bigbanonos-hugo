@@ -20,7 +20,7 @@ tags:
 <div class="spotify-embed"> {{< youtube "embed" >}}
 </div>
 <p>Tracks featured:</p>
-<ul> <li>"CAN'T GET OVER YOU" (feat. Smino & Teezo Touchdown) â€“ <i>MORE BLACK SUPERHEROES</i> (June 17, 2022, Shady Records/Interscope Records)</li> <li>"AIGHT" (feat. Shelley FKA DRAM) â€“ <i>AIGHT</i> (April 22, 2022, Shady Records/Interscope Records)</li> <li>"Time" (feat. Snoh Aalegra) â€“ <i>Everythings For Sale</i> (January 25, 2019, Shady Records)</li>
+<ul> <li>"CAN'T GET OVER YOU" (feat. Smino & Teezo Touchdown) – <i>MORE BLACK SUPERHEROES</i> (June 17, 2022, Shady Records/Interscope Records)</li> <li>"AIGHT" (feat. Shelley FKA DRAM) – <i>AIGHT</i> (April 22, 2022, Shady Records/Interscope Records)</li> <li>"Time" (feat. Snoh Aalegra) – <i>Everythings For Sale</i> (January 25, 2019, Shady Records)</li>
 </ul>
 <p>Explore the introspective and innovative sound of WESTSIDE BOOGIE, and dive into his captivating discography.</p>
 <hr>

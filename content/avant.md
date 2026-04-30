@@ -8,7 +8,7 @@ tags:
 ---
 
 <!-- Title of the Post -->
-<h1 >BigBanonosâ€™ Favorite Songs by Avant</h1> <!-- Featured Image -->
+<h1 >BigBanonos' Favorite Songs by Avant</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab67616d0000b273283d9616980c5cf1ca1fc5eb" alt="Avant" >}}
 </div> <!-- Spotify Embed -->
 <div > {{< youtube "embed" >}}

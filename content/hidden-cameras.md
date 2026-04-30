@@ -10,4 +10,4 @@ tags:
 <div> {{< img-lite src="https://i.scdn.co/image/ab6761610000e5eb0559c910059bdf6e162804f8" alt="The Hidden Cameras" >}}
 </div> <p>
 BigBanonos' favorite tracks by The Hidden Cameras:
-</p> <p><strong>"Awoo"</strong> â€“ *Awoo* (2006) | Rough Trade</p> <p><strong>"She's Gone"</strong> â€“ *Awoo* (2006) | Rough Trade</p> {{< youtube "embed" >}}  <hr />
+</p> <p><strong>"Awoo"</strong> – *Awoo* (2006) | Rough Trade</p> <p><strong>"She's Gone"</strong> – *Awoo* (2006) | Rough Trade</p> {{< youtube "embed" >}}  <hr />

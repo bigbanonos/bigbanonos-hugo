@@ -14,7 +14,7 @@ tags:
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "im992Vt4uZw" >}}
 </div> <!-- Song Information -->
-<div > <p><em>"When Somebody Loves You Back"</em> is a classic track from Teddy Pendergrassâ€™ *The Essential Teddy Pendergrass*, showcasing his iconic Philly soul sound. It's a song that resonates with soulful emotion, blending rich vocals and smooth fun grooves.</p>
+<div > <p><em>"When Somebody Loves You Back"</em> is a classic track from Teddy Pendergrass' *The Essential Teddy Pendergrass*, showcasing his iconic Philly soul sound. It's a song that resonates with soulful emotion, blending rich vocals and smooth fun grooves.</p>
 </div> <!-- Footer Links -->
 <div > <p>Explore more at <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Check out our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a> channels for more music updates.</p>
 </div> 

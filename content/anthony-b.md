@@ -14,7 +14,7 @@ tags:
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "5d5EQnBMU5A" >}}
 </div> <!-- Song Information -->
-<div > <p>"State Of Mind Remaster" by Anthony B is a powerful reggae anthem blending elements of roots reggae, lovers rock, and dancehall. Released on May 13, 2016, under KS Digital, this track captures Anthony Bâ€™s signature modern reggae sound and his commitment to delivering meaningful lyrics.</p>
+<div > <p>"State Of Mind Remaster" by Anthony B is a powerful reggae anthem blending elements of roots reggae, lovers rock, and dancehall. Released on May 13, 2016, under KS Digital, this track captures Anthony B's signature modern reggae sound and his commitment to delivering meaningful lyrics.</p>
 </div> <!-- Footer Links -->
 <div > <p>For more updates and playlists, visit <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Connect with us on <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p>
 </div> 

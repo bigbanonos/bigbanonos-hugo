@@ -17,9 +17,9 @@ tags:
 <div class="spotify-embed"> {{< youtube "embed" >}}
 </div>
 <p>Tracks featured:</p>
-<ul> <li>"New Madrid" â€“ <i>Anodyne</i> (October 1, 1993, Sire/Warner Records)</li> <li>"Sandusky" â€“ <i>March 16-20, 1992</i> (1992, Columbia/Legacy)</li>
+<ul> <li>"New Madrid" – <i>Anodyne</i> (October 1, 1993, Sire/Warner Records)</li> <li>"Sandusky" – <i>March 16-20, 1992</i> (1992, Columbia/Legacy)</li>
 </ul>
-<p>Dive into Uncle Tupeloâ€™s influential discography and celebrate the music that helped define a genre.</p>
+<p>Dive into Uncle Tupelo's influential discography and celebrate the music that helped define a genre.</p>
 <hr>
 <div class="post-footer"> <p>Discover more of BigBanonos' favorites at:</p> <ul> <li><a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos Blog</a></li> <li><a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a></li> <li><a href="https://x.com/bigbanonos" target="_blank">BigBanonos on X/Twitter</a></li> </ul>
 </div>

@@ -8,7 +8,7 @@ tags:
 ---
 
 <!-- Title of the Post -->
-<h1>BigBanonosâ€™ Favorite Songs by The Tallest Man On Earth</h1> <!-- Featured Image -->
+<h1>BigBanonos' Favorite Songs by The Tallest Man On Earth</h1> <!-- Featured Image -->
 <div> {{< img-lite src="https://www.themusichall.org/wp-content/uploads/2019/11/2203_IY_TallestMan_update.jpg" alt="The Tallest Man On Earth" >}}
 </div> <!-- Spotify Embed -->
 <div> {{< youtube "embed" >}}

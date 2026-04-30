@@ -14,7 +14,7 @@ tags:
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "6afqqMO0EJk" >}}
 </div> <!-- Song Information -->
-<div > <p><em>"Teacher's Pet"</em>, from Imperial Teenâ€™s 2002 album *On*, released under Merge Records, is a vibrant and playful track that captures the bandâ€™s unique mix of indie rock and queercore influences. Its infectious energy and witty lyrics make it a standout in their discography.</p>
+<div > <p><em>"Teacher's Pet"</em>, from Imperial Teen's 2002 album *On*, released under Merge Records, is a vibrant and playful track that captures the band's unique mix of indie rock and queercore influences. Its infectious energy and witty lyrics make it a standout in their discography.</p>
 </div> <!-- Footer Links -->
 <div > 
 </div> 

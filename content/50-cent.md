@@ -12,7 +12,7 @@ tags:
 ---
 
 <!-- Title of the Post -->
-<h1 >BigBanonosâ€™ Favorite Songs by 50 Cent</h1> <!-- Featured Image -->
+<h1 >BigBanonos' Favorite Songs by 50 Cent</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/6f0da41419b31d9d2ba55d2df212f59ad0668118" alt="50 Cent" >}}
 </div> <!-- Spotify Embed -->
 <div > {{< youtube "embed" >}}

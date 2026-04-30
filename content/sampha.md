@@ -14,7 +14,7 @@ tags:
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "_NSuIYwBxu4" >}}
 </div> <!-- Song Information -->
-<div > <p><em>"(No One Knows Me) Like the Piano"</em> by Sampha is a track from the album *(No One Knows Me) Like the Piano*, released on January 12, 2017. This emotionally charged song features a soulful, minimalistic piano-driven arrangement, showcasing Samphaâ€™s unique approach to alternative R&B and indie soul.</p>
+<div > <p><em>"(No One Knows Me) Like the Piano"</em> by Sampha is a track from the album *(No One Knows Me) Like the Piano*, released on January 12, 2017. This emotionally charged song features a soulful, minimalistic piano-driven arrangement, showcasing Sampha's unique approach to alternative R&B and indie soul.</p>
 </div> <!-- Footer Links -->
 <div > <p>Explore more at <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Check out our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a> channels for more music updates.</p>
 </div> 

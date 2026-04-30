@@ -14,7 +14,7 @@ tags:
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "J2Lb7Mg3bjI" >}}
 </div> <!-- Song Information -->
-<div > <p><em>"OMG"</em> by Little Mix is a playful pop anthem that perfectly encapsulates the energy and charisma of one of the UKâ€™s most successful girl groups. Featured on the deluxe edition of <em>Get Weird</em>, this track is a fan favorite and a must-listen for pop enthusiasts.</p>
+<div > <p><em>"OMG"</em> by Little Mix is a playful pop anthem that perfectly encapsulates the energy and charisma of one of the UK's most successful girl groups. Featured on the deluxe edition of <em>Get Weird</em>, this track is a fan favorite and a must-listen for pop enthusiasts.</p>
 </div> <!-- Footer Links -->
 <div > <p>Discover more girl group pop hits on <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Visit our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> channel and follow us on <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a> for more updates and music highlights.</p>
 </div> 

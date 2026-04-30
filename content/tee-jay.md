@@ -17,7 +17,7 @@ tags:
 <div class="spotify-embed"> {{< youtube "embed" >}}
 </div>
 <p>Tracks featured:</p>
-<ul> <li>"Brand New" â€“ <i>Sexy Groove Riddim</i> (July 5, 2019, Boogie Down Records)</li> <li>"Owna Lane - Without Intro" â€“ <i>Owna Lane</i> (January 23, 2019, Romeich Entertainment)</li> <li>"Grimy" â€“ <i>Grimy Riddim</i> (November 30, 2018, Tru Ambassador)</li>
+<ul> <li>"Brand New" – <i>Sexy Groove Riddim</i> (July 5, 2019, Boogie Down Records)</li> <li>"Owna Lane - Without Intro" – <i>Owna Lane</i> (January 23, 2019, Romeich Entertainment)</li> <li>"Grimy" – <i>Grimy Riddim</i> (November 30, 2018, Tru Ambassador)</li>
 </ul>
 <p>Dive into Tee-Jay's electrifying rhythms and let his music transport you to the heart of Jamaican dancehall.</p>
 <hr>

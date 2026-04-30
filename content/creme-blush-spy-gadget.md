@@ -7,9 +7,9 @@ tags:
   - '@cremeblush'
 ---
 
-<img src="https://i.discogs.com/eHlloVlfeQZFK_AnyylSDon6QXWbj8TANRAbQ8fhk_M/rs:fit/g:sm/q:90/h:322/w:325/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODk5/MDMtMTI3MTUyNjUw/NS5qcGVn.jpeg" width="100%" /> <h2>BigBanonos' Favorite Songs by CrÃƒÆ’Ã‚Â¨me Blush</h2> <p>Updated 2002 with "Ciao, Manhattan!" Highlights and #NotOnSpotify picks below:</p> {{< youtube "qmQRz8xcDvw" >}} <hr /> <h3>#NotOnSpotify</h3> <p><strong>"Ciao, Manhattan!"</strong> (2002) <span>#NotOnSpotify</span></p>
+<img src="https://i.discogs.com/eHlloVlfeQZFK_AnyylSDon6QXWbj8TANRAbQ8fhk_M/rs:fit/g:sm/q:90/h:322/w:325/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODk5/MDMtMTI3MTUyNjUw/NS5qcGVn.jpeg" width="100%" /> <h2>BigBanonos' Favorite Songs by CrÃƒÆ’Ã‚¨me Blush</h2> <p>Updated 2002 with "Ciao, Manhattan!" Highlights and #NotOnSpotify picks below:</p> {{< youtube "qmQRz8xcDvw" >}} <hr /> <h3>#NotOnSpotify</h3> <p><strong>"Ciao, Manhattan!"</strong> (2002) <span>#NotOnSpotify</span></p>
 <p><strong>"Paul 7E"</strong> (2002) <span>#NotOnSpotify</span></p>
-<p><strong>"Spy Gadget"</strong> (2002) <span>#NotOnSpotify</span></p> <hr /> <h3>Band Info</h3> <p><strong>CrÃƒÆ’Ã‚Â¨me Blush</strong> â€“ A NYC duo active in 2002, blending elements of indie rock, lo-fi, and electronic influences. Despite their short-lived output, their music remains a cult favorite among underground music enthusiasts.</p> <hr />  
+<p><strong>"Spy Gadget"</strong> (2002) <span>#NotOnSpotify</span></p> <hr /> <h3>Band Info</h3> <p><strong>CrÃƒÆ’Ã‚¨me Blush</strong> – A NYC duo active in 2002, blending elements of indie rock, lo-fi, and electronic influences. Despite their short-lived output, their music remains a cult favorite among underground music enthusiasts.</p> <hr />  
 <p>@cremeblush</p>
 
 <hr />

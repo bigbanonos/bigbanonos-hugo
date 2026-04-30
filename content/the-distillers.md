@@ -9,7 +9,7 @@ tags:
 
 <!-- Title of the Post -->
 <h1>BigBanonos' Favorite Songs by The Distillers</h1> <!-- Introductory Text -->
-<p>The Distillers bring raw energy to punk and skate punk scenes. Hereâ€™s a collection of BigBanonos' top picks from their catalog.</p> <!-- Featured Image -->
+<p>The Distillers bring raw energy to punk and skate punk scenes. Here's a collection of BigBanonos' top picks from their catalog.</p> <!-- Featured Image -->
 <div> {{< img-lite src="https://i.scdn.co/image/ab6761610000e5eb34f7e41698b038806c2ce7bb" alt="The Distillers" >}}
 </div> <!-- Spotify Embed -->
 <div> {{< youtube "embed" >}}

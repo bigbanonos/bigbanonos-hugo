@@ -14,7 +14,7 @@ tags:
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "21VG-C_65q8" >}}
 </div> <!-- Song Information -->
-<div > <p>"Chiki Corazon" by Amigos Millonarios is an upbeat and vibrant track, showcasing the lively rhythms and melodies of mÃƒÆ’Ã‚Âºsica otavaleÃƒÆ’Ã‚Â±a. Released on November 22, 2017, as part of the compilation album *San Juanitos y Coplas 1*, this song captures the rich cultural essence of its genre.</p>
+<div > <p>"Chiki Corazon" by Amigos Millonarios is an upbeat and vibrant track, showcasing the lively rhythms and melodies of mÃƒÆ’Ã‚ºsica otavaleÃƒÆ’Ã‚±a. Released on November 22, 2017, as part of the compilation album *San Juanitos y Coplas 1*, this song captures the rich cultural essence of its genre.</p>
 </div> <!-- Footer Links -->
 <div > <p>For more updates and playlists, visit <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Connect with us on <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p>
 </div> 

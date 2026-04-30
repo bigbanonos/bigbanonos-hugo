@@ -9,7 +9,7 @@ tags:
 ---
 
 <!-- Title of the Post -->
-<h1>BigBanonosâ€™ Favorite Songs by Little Jerry Williams</h1> <!-- Introductory Text -->
+<h1>BigBanonos' Favorite Songs by Little Jerry Williams</h1> <!-- Introductory Text -->
 <p>Little Jerry Williams, known for his electrifying soul and rhythm and blues, continues to charm listeners with timeless tracks. BigBanonos highlights some of his best work from the classic era of R&B.</p> <!-- Featured Image -->
 <div> {{< img-lite src="https://f4.bcbits.com/img/0014272700_25.jpg" alt="Little Jerry Williams" >}}
 </div> <!-- Spotify Embed -->

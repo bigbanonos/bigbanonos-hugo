@@ -12,7 +12,7 @@ tags:
 <p>Updated February 23, 2024, with "DOSE OF DOPENESS (2007)"</p>
 <p><strong>Kid Cudi's</strong> introspective lyrics and hip-hop style define his best tracks, chosen by BigBanonos.</p> <h3>Playlist</h3>
 {{< youtube "embed" >}} <h3>Songs</h3>
-<ol> <li>"DOSE OF DOPENESS (2007)" â€“ Released February 23, 2024</li> <li>"MOST AINâ€™T DENNIS" â€“ Released January 12, 2024</li> <li>"PORSCHE TOPLESS" â€“ Released June 2, 2023</li> <li>"Just What I Am" (feat. King Chip) â€“ Released January 1, 2012</li><li><span data-sheets-root="1"><span>Pursuit Of Happiness (ft. Ratatat & MGMT)Ãƒâ€šÃ‚Â </span></span></li>
-</ol> <img alt="Kid Cudi" src="https://media.cnn.com/api/v1/images/stellar/prod/220819082451-kid-cudi-0502-restricted.jpg?c=original" width="100%" /> <p>Experience the world of Kid Cudi, one of BigBanonosâ€™ favorite artists. Check out more <a href="https://bigbanonos.blogspot.com/">here</a>.</p>
+<ol> <li>"DOSE OF DOPENESS (2007)" – Released February 23, 2024</li> <li>"MOST AIN'T DENNIS" – Released January 12, 2024</li> <li>"PORSCHE TOPLESS" – Released June 2, 2023</li> <li>"Just What I Am" (feat. King Chip) – Released January 1, 2012</li><li><span data-sheets-root="1"><span>Pursuit Of Happiness (ft. Ratatat & MGMT)Ãƒâ€šÃ‚ </span></span></li>
+</ol> <img alt="Kid Cudi" src="https://media.cnn.com/api/v1/images/stellar/prod/220819082451-kid-cudi-0502-restricted.jpg?c=original" width="100%" /> <p>Experience the world of Kid Cudi, one of BigBanonos' favorite artists. Check out more <a href="https://bigbanonos.blogspot.com/">here</a>.</p>
 
 <hr />

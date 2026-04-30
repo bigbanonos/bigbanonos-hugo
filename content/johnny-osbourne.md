@@ -14,7 +14,7 @@ tags:
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "ivKXRknd5IE" >}}
 </div> <!-- Song Information -->
-<div > <p><em>"Mushroom"</em> by Johnny Osbourne is a standout track from the *Hi Grade Ganja Anthems Vol. 2* album. A perfect blend of dub and lovers rock, itâ€™s one of the most iconic songs of the reggae and dancehall scene, offering a deep groove that reflects Osbourne's roots in rocksteady and roots reggae.</p>
+<div > <p><em>"Mushroom"</em> by Johnny Osbourne is a standout track from the *Hi Grade Ganja Anthems Vol. 2* album. A perfect blend of dub and lovers rock, it's one of the most iconic songs of the reggae and dancehall scene, offering a deep groove that reflects Osbourne's roots in rocksteady and roots reggae.</p>
 </div> <!-- Footer Links -->
 <div > <p>Discover more reggae classics on <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>, check out our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> channel, and follow us on <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p>
 </div> 

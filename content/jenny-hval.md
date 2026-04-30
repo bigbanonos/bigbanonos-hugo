@@ -14,7 +14,7 @@ tags:
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "csIDglmrupc" >}}
 </div> <!-- Song Information -->
-<div > <p><em>"Sabbath"</em> from Jenny Hvalâ€™s *Apocalypse, girl* explores themes of identity, spirituality, and introspection through a hypnotic blend of art pop and experimental jazz. Released in 2015 under Sacred Bones Records, the track exemplifies her unique ability to merge poetic lyricism with avant-garde soundscapes.</p>
+<div > <p><em>"Sabbath"</em> from Jenny Hval's *Apocalypse, girl* explores themes of identity, spirituality, and introspection through a hypnotic blend of art pop and experimental jazz. Released in 2015 under Sacred Bones Records, the track exemplifies her unique ability to merge poetic lyricism with avant-garde soundscapes.</p>
 </div> <!-- Footer Links -->
 <div > <p>Discover more of BigBanonos' top picks at <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Explore curated playlists on <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and follow us on <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p>
 </div> 

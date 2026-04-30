@@ -9,7 +9,7 @@ tags:
 
 <!-- Post Title -->
 <h1 >BigBanonos' Favorite Song by Eddie Butcher</h1> <!-- Introductory Text -->
-<p >Updated August 10, 2012, with "The Naming of the Child" by Eddie Butcher. This traditional Irish ballad from the album "Sings the Titanic and Other Traditional Folk Songs" showcases Butcherâ€™s mastery of storytelling through song.</p> <!-- Featured Image -->
+<p >Updated August 10, 2012, with "The Naming of the Child" by Eddie Butcher. This traditional Irish ballad from the album "Sings the Titanic and Other Traditional Folk Songs" showcases Butcher's mastery of storytelling through song.</p> <!-- Featured Image -->
 <div > <img src="https://s3.eu-west-1.amazonaws.com/images.itma.ie/wp-content/uploads/2024/08/30111422/Eddie_Butcher-scaled-e1725016677547.jpg" alt="Eddie Butcher - The Naming of the Child" />
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "3jwfv3CT3zo" >}}

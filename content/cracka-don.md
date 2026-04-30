@@ -8,7 +8,7 @@ tags:
 ---
 
 <!-- Title of the Post -->
-<h1 >BigBanonosâ€™ Favorite Songs by Cracka Don</h1> <!-- Featured Image -->
+<h1 >BigBanonos' Favorite Songs by Cracka Don</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab6761610000e5eb0dfe4befdf6b0cc35c8b7c61" alt="Cracka Don" >}}
 </div> <!-- Spotify Embed -->
 <div > {{< youtube "embed" >}}

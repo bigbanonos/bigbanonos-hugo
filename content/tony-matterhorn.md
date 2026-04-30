@@ -9,7 +9,7 @@ tags:
 
 <!-- Title of the Post -->
 <h1 >Tony Matterhorn - Dutty Wine</h1> <!-- Introductory Text -->
-<p >Updated with "Dutty Wine" by Tony Matterhorn, from the album *XXX Dancehall Anthems*, released on April 22, 2010, by Greensleeves Records. The track is a vibrant anthem from the dancehall scene, featuring Tony Matterhornâ€™s energetic delivery and infectious rhythm.</p> <!-- Featured Image -->
+<p >Updated with "Dutty Wine" by Tony Matterhorn, from the album *XXX Dancehall Anthems*, released on April 22, 2010, by Greensleeves Records. The track is a vibrant anthem from the dancehall scene, featuring Tony Matterhorn's energetic delivery and infectious rhythm.</p> <!-- Featured Image -->
 <div > <img src="https://m.media-amazon.com/images/I/51J46wS609L._UXNaN_FMjpg_QL85_.jpg" alt="Tony Matterhorn - Dutty Wine" />
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "cg0qluaxpOo" >}}

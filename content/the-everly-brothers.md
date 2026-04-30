@@ -8,7 +8,7 @@ tags:
 ---
 
 <!-- Title of the Post -->
-<h1 >BigBanonosâ€™ Favorite Songs by The Everly Brothers</h1> <!-- Featured Image -->
+<h1 >BigBanonos' Favorite Songs by The Everly Brothers</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab67616d00001e024934c9839ae3bb7494821f75" alt="The Everly Brothers" >}}
 </div> <!-- Spotify Embed -->
 <div > {{< youtube "embed" >}}

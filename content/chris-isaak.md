@@ -8,7 +8,7 @@ tags:
 ---
 
 <!-- Title of the Post -->
-<h1 >BigBanonosâ€™ Favorite Songs by Chris Isaak</h1> <!-- Featured Image -->
+<h1 >BigBanonos' Favorite Songs by Chris Isaak</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab67616d0000b27357937d25cfcbcc05ce04a517" alt="Chris Isaak" >}}
 </div> <!-- Spotify Embed -->
 <div > {{< youtube "embed" >}}

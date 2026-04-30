@@ -14,7 +14,7 @@ tags:
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "siBeCSdZ1OU" >}}
 </div> <!-- Song Information -->
-<div > <p>Released on April 22, 2016, "World Is Mine" by A$AP Ferg, featuring Big Sean, blends hip hop, trap, and R&B elements into a powerful anthem of ambition and success. The track is from Fergâ€™s album *ALWAYS STRIVE AND PROSPER*, released under A$AP Worldwide and Polo Grounds Music.</p>
+<div > <p>Released on April 22, 2016, "World Is Mine" by A$AP Ferg, featuring Big Sean, blends hip hop, trap, and R&B elements into a powerful anthem of ambition and success. The track is from Ferg's album *ALWAYS STRIVE AND PROSPER*, released under A$AP Worldwide and Polo Grounds Music.</p>
 </div> <!-- Footer Links -->
 <div > <p>For more updates and playlists, visit <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Connect with us on <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p>
 </div> 

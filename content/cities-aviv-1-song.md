@@ -8,7 +8,7 @@ tags:
 ---
 
 <h2>BigBanonos' Favorite Songs by Cities Aviv</h2> <!-- Search Description -->
-<p>BigBanonosâ€™ top Cities Aviv tracks explore his unique mix of drumless, experimental, and psychedelic hip hop.</p> <!-- Spotify Playlist Embed -->
+<p>BigBanonos' top Cities Aviv tracks explore his unique mix of drumless, experimental, and psychedelic hip hop.</p> <!-- Spotify Playlist Embed -->
 {{< youtube "embed" >}} <!-- Song Listings -->
 <ul> <li><strong>Love. Fool. Revue.</strong> - <em>The Crashing Sound of How It Goes</em> - 2021-04-16</li> <li><strong>URL IRL</strong> - <em>Come To Life</em> - 2014-02-18</li>
 </ul> <!-- Image -->

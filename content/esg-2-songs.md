@@ -8,7 +8,7 @@ tags:
 ---
 
 <h2 >BigBanonos' Favorite Songs by ESG</h2> <!-- Introductory Text -->
-<p >Updated with classic ESG songs like â€œDanceâ€ and â€œMy Love for Youâ€ from their iconic 1983 album <em>Come Away with ESG</em>. This post highlights BigBanonosâ€™ top picks from the influential Bronx-based band known for their minimalist fun and post-punk sound.</p> <!-- Featured Image -->
+<p >Updated with classic ESG songs like "Dance" and "My Love for You" from their iconic 1983 album <em>Come Away with ESG</em>. This post highlights BigBanonos' top picks from the influential Bronx-based band known for their minimalist fun and post-punk sound.</p> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab67616d00001e0211818682829954deebb6bbeb" alt="ESG - Come Away with ESG" >}}
 </div> <!-- Song List -->
 <h3 >Top Songs:</h3>

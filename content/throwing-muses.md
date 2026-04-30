@@ -17,7 +17,7 @@ tags:
 <div class="spotify-embed"> {{< youtube "embed" >}}
 </div>
 <p>Tracks featured:</p>
-<ul> <li>"Bright Yellow Gun" â€“ <i>University</i> (January 16, 1995, Woah Dad!)</li> <li>"Not Too Soon" â€“ <i>The Real Ramona</i> (March 8, 1991, Woah Dad!)</li>
+<ul> <li>"Bright Yellow Gun" – <i>University</i> (January 16, 1995, Woah Dad!)</li> <li>"Not Too Soon" – <i>The Real Ramona</i> (March 8, 1991, Woah Dad!)</li>
 </ul>
 <p>Immerse yourself in the dynamic sounds of Throwing Muses and experience their groundbreaking impact on indie rock.</p>
 <hr>
