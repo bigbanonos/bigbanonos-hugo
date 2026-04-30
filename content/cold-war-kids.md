@@ -3,21 +3,12 @@ title: "Cold War Kids"
 slug: "cold-war-kids"
 date: 2025-01-17
 layout: post
+era:
+  - "2000s-2010s"
 tags:
   - '@coldwarkids'
 ---
 
-<!-- Title of the Post -->
-<h1 >BigBanonos Favorite Songs by Cold War Kids</h1> <!-- Featured Image -->
-<div > {{< img-lite src="https://i.scdn.co/image/ab6761610000e5eb27ea8d74714b23fa9e116f91" alt="Cold War Kids" >}}
-</div> <!-- Spotify Embed -->
-<div > 
-</div> <!-- Introductory Text -->
-<p >Cold War Kids captivate with indie rock staples like "First" and "Hang Me Up To Dry." Here are BigBanonos top tracks from this celebrated band.</p> <!-- Song Highlights -->
-<div > <p>BigBanonos standout picks:</p> 
-</div> <!-- Footer Links -->
-<div > <p>Discover more indie rock anthems at <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Stay in the loop with fresh music on <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p>
-</div> 
-<p >Tags: @coldwarkids</p>
+<iframe src="https://open.spotify.com/embed/track/3omXshBamrREltcf24gYDC" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/3IXRdLsQib8m0hBbQpe7T8" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

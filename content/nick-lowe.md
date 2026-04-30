@@ -3,17 +3,17 @@ title: "Nick Lowe"
 slug: "nick-lowe"
 date: 2025-02-12
 layout: post
+era:
+  - "1900s"
+  - "2000s-2010s"
+genre:
+  - "power pop"
 tags:
   - '@nicklowe'
 ---
 
-<h3>Nick Lowe</h3>
-<img src="https://i.scdn.co/image/ab67616d00001e02cadbfaeb3b6a5afbdcd1acf4">
+<iframe src="https://open.spotify.com/embed/track/5fxQWXP9CW0DVMtVRCknrV" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<p>
-<strong>Nick Lowe – "Hope for Us All"</strong> (2007) – <em>At My Age</em> – Yep Roc Records<br>
-<strong>Nick Lowe – "I Love the Sound of Breaking Glass"</strong> (1978) – <em>Jesus of Cool</em> – Yep Roc Records<br>
-<strong>Nick Lowe – "Rollers Show"</strong> (1978) – <em>Jesus of Cool</em> – Yep Roc Records
-</p>
+<iframe src="https://open.spotify.com/embed/track/2FqZ3hYaRor8Dc8W3xiWTT" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/2Enxp6NLWBRXHOfk86H2Dz" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

@@ -3,22 +3,17 @@ title: "Case"
 slug: "case"
 date: 2025-01-17
 layout: post
+era:
+  - "1900s"
+  - "2000s-2010s"
+genre:
+  - "quiet storm"
+  - "r&b"
 tags:
   - '@case'
   - '@joe'
 ---
 
-<!-- Title of the Post -->
-<h1 >BigBanonos Favorite Songs by Case</h1> <!-- Featured Image -->
-<div > {{< img-lite src="https://i.scdn.co/image/ab67616d0000b2731918d1d4b6d359fcf24696f7" alt="Case" >}}
-</div> <!-- Spotify Embed -->
-<div > 
-</div> <!-- Introductory Text -->
-<p >Cases soulful R&B hits are timeless. From the emotional "Missing You" to the heartfelt "Faded Pictures," here are BigBanonos top picks from this smooth crooner.</p> <!-- Song Highlights -->
-<div > <p>BigBanonos standout picks:</p> 
-</div> <!-- Footer Links -->
-<div > <p>Discover more R&B classics at <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Stay connected for fresh music updates on <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p>
-</div> 
-<p >Tags: @case,@joe</p>
+<iframe src="https://open.spotify.com/embed/track/0CmXXEwul09Kf8X68lPA5l" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/1CAw3ethNuSDPf3E7luSFF" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

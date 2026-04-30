@@ -3,21 +3,19 @@ title: "Darkoo"
 slug: "darkoo"
 date: 2025-01-17
 layout: post
+era:
+  - "2000s-2010s"
+genre:
+  - "afrobeats"
+  - "afroswing"
+  - "afrobeat"
+  - "uk drill"
+  - "afropop"
+explicit: true
 tags:
   - '@darkoo'
 ---
 
-<!-- Title of the Post -->
-<h1 >BigBanonos Favorite Songs by Darkoo</h1> <!-- Featured Image -->
-<div > {{< img-lite src="https://i.scdn.co/image/ab6761610000e5ebdb583aec530ee00398fdd375" alt="Darkoo" >}}
-</div> <!-- Spotify Embed -->
-<div > 
-</div> <!-- Introductory Text -->
-<p >Darkoos afrobeats and afroswing anthems like "Gangsta" bring global vibes. BigBanonos highlights their best with these irresistible tracks.</p> <!-- Song Highlights -->
-<div > <p>BigBanonos standout picks:</p> 
-</div> <!-- Footer Links -->
-<div > <p>Vibe to more afrobeats at <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Join us for updates on <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p>
-</div> 
-<p >Tags: @darkoo</p>
+<iframe src="https://open.spotify.com/embed/track/2X6qIZPT8CyoTTfqHScYCB" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/0KzhyaVtr2v4J9GVdMgCk0" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

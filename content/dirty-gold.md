@@ -3,14 +3,12 @@ title: "Dirty Gold"
 slug: "dirty-gold"
 date: 2024-12-17
 layout: post
+era:
+  - "2000s-2010s"
 tags:
   - '@dirtygold'
 ---
 
-<h2>Dirty Gold – Essential Tracks</h2> <div > <img src="https://i.scdn.co/image/ab67616d00001e02ece1c495630ed6d372f3ebb9" alt="Dirty Gold" width="400" />
-</div>  <h3>Highlighted Tracks</h3>
-<ul> <li><strong>California Sunrise</strong> – <em>Roar</em> (2010)</li> <li><strong>North</strong> – <em>Roar</em> (2011)</li> <li><strong>Sea Hare</strong> – <em>Roar</em> (2011)</li>
-</ul> <h3>Tags</h3>
-<p>@dirtygold</p> <p>Discover more from Dirty Gold and other great artists on <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>, and dont forget to subscribe to our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube channel</a>.</p>
+<iframe src="https://open.spotify.com/embed/track/27uTcaM2XWiYLSHgnaZPCF" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/53F5xW12NA0HJWM1CrEN6s" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

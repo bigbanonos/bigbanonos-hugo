@@ -3,6 +3,10 @@ title: "Lala Lala"
 slug: "lala-lala"
 date: 2021-10-08
 layout: post
+era:
+  - "2020s"
+genre:
+  - "lo-fi indie"
 tags:
   - '@lala-lala'
   - '@lala-lala-sen-morimoto'
@@ -10,23 +14,8 @@ tags:
   - 'lo-fi indie'
 ---
 
-## Lala Lala
+<iframe src="https://open.spotify.com/embed/track/5PGSI8vrm02SLytYCNvxV4" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-_3 tracks, all from 2021._
+<iframe src="https://open.spotify.com/embed/track/2JO2pY6DavA3MpNFi8bMci" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
----
-
-**DIVER**
-*Prove It* · 2021 · 3:01
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2suRI59Z9Pge6LF5X28c2G" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**Color of the Pool**
-*I Want The Door To Open* · 2021 · 2:22
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5PGSI8vrm02SLytYCNvxV4" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**Utopia Planet** (feat. Lala Lala;Sen Morimoto)
-*I Want The Door To Open* · 2021 · 3:57
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2JO2pY6DavA3MpNFi8bMci" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe src="https://open.spotify.com/embed/track/2suRI59Z9Pge6LF5X28c2G" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

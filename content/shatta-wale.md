@@ -3,20 +3,22 @@ title: "Shatta Wale"
 slug: "shatta-wale"
 date: 2025-01-16
 layout: post
+era:
+  - "2000s-2010s"
+  - "2020s"
+genre:
+  - "hiplife"
+  - "azonto"
+  - "shatta"
+  - "afrobeats"
+  - "ghanaian hip hop"
+explicit: true
 tags:
   - '@shattawale'
 ---
 
-<!-- Title of the Post -->
-<h1>BigBanonos Favorite Songs by Shatta Wale</h1> <!-- Featured Image -->
-<div> {{< img-lite src="https://i.scdn.co/image/ab6761610000e5eb4b9c8478e046551c38920635" alt="Shatta Wale" >}}
-</div> <!-- Spotify Embed -->
-<div> 
-</div> <!-- Song Information -->
-<h3>Top Songs by Shatta Wale:</h3>
- <!-- Footer Links -->
-<div > <p>Discover more about Shatta Wale on <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Visit our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> channel and follow us on <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p>
-</div> 
-<p >Tags: @shattawale,</p>
+<iframe src="https://open.spotify.com/embed/track/4S0UUI7C5TRoktM4gnkh06" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/3qU6T62xEQCkO7PQIYqf1w" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/0T3pdh1lMx9htNsQ3tDy9n" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

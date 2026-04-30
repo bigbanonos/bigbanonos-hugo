@@ -3,18 +3,19 @@ title: "Tyla Yaweh"
 slug: "tyla-yaweh"
 date: 2024-12-20
 layout: post
+era:
+  - "2000s-2010s"
+  - "2020s"
+genre:
+  - "melodic rap"
+  - "hyphy"
+explicit: true
 tags:
   - '@tylayaweh'
   - '@dababy'
   - '@yg'
 ---
 
-<h1>BigBanonos Favorite Songs by Tyla Yaweh</h1>
-{{< img-lite src="https://d2ljoqkkoec4f6.cloudfront.net/wp-content/uploads/2020/08/25140053/ty1-1-545x750.jpg" alt="Tyla Yaweh" >}} <p>Tyla Yawehs energetic blend of melodic rap and hip hop makes his music stand out in the modern rap scene. Check out BigBanonos favorite picks:</p> 
-{{< youtube "aXRjhs7Q5ag" >}}
-<div> 
-</div> 
-<p><em>Last updated November 14, 2024</em></p>
-<p>Follow BigBanonos on <a href="https://www.youtube.com/@BigBanonos">YouTube</a> and <a href="https://x.com/bigbanonos">Twitter</a> for more music content.</p>
+<iframe src="https://open.spotify.com/embed/track/341lTIxmhybbQsgydwJiFx" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/6VYXuUz1nYMap8gtqeIrQB" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

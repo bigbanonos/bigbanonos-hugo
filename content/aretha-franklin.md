@@ -3,21 +3,37 @@ title: "Aretha Franklin"
 slug: "aretha-franklin"
 date: 2025-01-17
 layout: post
+era:
+  - "1900s"
+  - "2020s"
+genre:
+  - "soul"
+  - "motown"
+  - "classic soul"
 tags:
   - '@arethafranklin'
 ---
 
-<!-- Title of the Post -->
-<h1 >BigBanonos Favorite Songs by Aretha Franklin</h1> <!-- Featured Image -->
-<div > {{< img-lite src="https://i.scdn.co/image/ab67616d0000b27346c31f64babcbfca6e061b6b" alt="Aretha Franklin" >}}
-</div> <!-- Spotify Embed -->
-<div > 
-</div> <!-- Introductory Text -->
-<p >Aretha Franklin, the Queen of Soul, graced us with her powerful voice and emotional depth. From "I Never Loved a Man (The Way I Love You)" to "Day Dreaming," here are BigBanonos top Aretha tracks.</p> <!-- Song Highlights -->
-<div > <p>BigBanonos standout picks:</p> 
-</div> <!-- Footer Links -->
-<div > <p>Celebrate soulful legends at <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Stay updated on <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p>
-</div> 
-<p >Tags: @arethafranklin</p>
+<iframe src="https://open.spotify.com/embed/track/0qlEfa1IwCNGtqToVL4jwI" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/0CfAKdlqdShhs9xYFhTQzb" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/14BW7rBg2kK4YGC7kfTHeT" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/2dvOIxuqz0J3HpEoxlArfg" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/6sVStuP1JnmSAhJTkDKluj" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/11I3VcrPmbay3qKS3uZ8r8" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/2DEwuXTlCYZD4h3uTL2QjH" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/0IvvjZWWztIOyGjIEPUiL9" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/0dSRoWYf0GOzX9L44g53sZ" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/7L4G39PVgMfaeHRyi1ML7y" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/4M1zcX803dgkDkISHZDPYi" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/1hES47PrbU8GPTI5A9lsr0" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

@@ -3,23 +3,13 @@ title: "Mixel Pixel"
 slug: "mixel-pixel"
 date: 2007-01-30
 layout: post
+era:
+  - "2000s-2010s"
 tags:
   - '@mixel-pixel'
   - '00s-10s'
 ---
 
-## Mixel Pixel
+<iframe src="https://open.spotify.com/embed/track/5FhjO7V7qQjKd51c2jrZQb" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-_2 tracks between 2005 and 2007._
-
----
-
-**Body Automatic**
-*Rainbow Panda* · 2005 · 3:47
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3FBBU2L00M6JOItxWmxOeU" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**At The Arcade**
-*OTR Benefit for the National Multiple Sclerosis Society* · 2007 · 4:14
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5FhjO7V7qQjKd51c2jrZQb" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe src="https://open.spotify.com/embed/track/3FBBU2L00M6JOItxWmxOeU" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

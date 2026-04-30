@@ -3,13 +3,21 @@ title: "Special Interest"
 slug: "special-interest"
 date: 2024-12-20
 layout: post
+era:
+  - "2020s"
+genre:
+  - "darkwave"
+  - "cold wave"
+  - "post-punk"
+  - "ebm"
+  - "gothic rock"
 tags:
   - '@boyharsher'
   - '@specialinterest'
 ---
 
-<h1>BigBanonos Top Songs by Special Interest</h1>
-{{< img-lite src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTspKJTnfqJobyn8HCSr2Yp3MD9wqA0AD19zA&s" alt="Special Interest" >}} <p>Special Interests edgy and gritty sound defines synth punk. Here are BigBanonos top selections:</p>  <div> 
-</div>
+<iframe src="https://open.spotify.com/embed/track/2JrozyGS7r75L39rt3xoGx" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/6yKrPY14JWBJx5m4Yi8dfh" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/6IXZvjLHjcCiwZRCQkCMp7" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

@@ -3,6 +3,16 @@ title: "Big Tymers"
 slug: "big-tymers"
 date: 2003-09-09
 layout: post
+era:
+  - "1900s"
+  - "2000s-2010s"
+genre:
+  - "southern hip hop"
+  - "crunk"
+  - "new orleans bounce"
+  - "bounce"
+  - "rap"
+explicit: true
 tags:
   - '@big-tymers'
   - '@big-tymers-juvenile-lil-wayne'
@@ -15,38 +25,14 @@ tags:
   - 'rap'
 ---
 
-## Big Tymers
+<iframe src="https://open.spotify.com/embed/track/3z6WOgxwEcfF9mn4crIQaK" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-_6 tracks between 1998 and 2003._
+<iframe src="https://open.spotify.com/embed/track/563vSy3HB5NHxel1VGQCW6" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
----
+<iframe src="https://open.spotify.com/embed/track/7jeuO70ZhwRuGbfH1laugD" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-**Big Ballin**
-*How You Luv That? Vol. 2* · 1998 · 4:37
+<iframe src="https://open.spotify.com/embed/track/7kBdenpTmgWfAz9clmBcok" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1DV0rYuYKKU6ovn8uzGJQc" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe src="https://open.spotify.com/embed/track/7IWZ567eclnXNWXaOnjePr" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-**How U Luv That** (feat. Big Tymers;Lil Wayne)
-*How You Luv That?* · 1998 · 4:53
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7IWZ567eclnXNWXaOnjePr" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**#1 Stunna** (feat. Big Tymers;JUVENILE;Lil Wayne)
-*I Got That Work* · 2000 · 4:41
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7kBdenpTmgWfAz9clmBcok" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**Project Bitch** (feat. Big Tymers;JUVENILE;Lil Wayne)
-*Baller Blockin* · 2000 · 4:41
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7jeuO70ZhwRuGbfH1laugD" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**Still Fly**
-*Hood Rich* · 2002 · 5:35
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/563vSy3HB5NHxel1VGQCW6" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**This Is How We Do**
-*Big Money Heavyweight* · 2003 · 4:31
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3z6WOgxwEcfF9mn4crIQaK" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe src="https://open.spotify.com/embed/track/1DV0rYuYKKU6ovn8uzGJQc" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

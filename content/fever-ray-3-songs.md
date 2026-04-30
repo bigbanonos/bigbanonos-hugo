@@ -3,11 +3,14 @@ title: "Fever Ray"
 slug: "fever-ray"
 date: 2024-12-21
 layout: post
+era:
+  - "2020s"
 tags:
   - '@feverray'
 ---
 
-<h3><em>BigBanonos</em> Favorite Songs by Fever Ray:</h3> <p>Updated on March 10, 2023, with the standout track "Shiver" from the album <em>Radical Romantics</em>. <em>BigBanonos</em> presents Fever Rays top songs, showcasing their unique blend of alternative dance, art pop, and neo-synthpop.</p> <!--Image-->
- <!--Spotify Playlist Embed-->
- <!--Song Listings-->
- <hr />
+<iframe src="https://open.spotify.com/embed/track/02KyBO8Rkzhs65K9VKmMpQ" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/2Kz1BHGvwsM0wJlh0Y2Dp6" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/5TytypfM1sVy0GIX7MLUz8" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

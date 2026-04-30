@@ -3,6 +3,11 @@ title: "Fiona Apple"
 slug: "fiona-apple"
 date: 2020-04-17
 layout: post
+era:
+  - "1900s"
+  - "2020s"
+genre:
+  - "art pop"
 tags:
   - '@fiona-apple'
   - '1900s'
@@ -10,38 +15,14 @@ tags:
   - 'art pop'
 ---
 
-## Fiona Apple
+<iframe src="https://open.spotify.com/embed/track/73SBAGI4fPFm4VkB3NjXq8" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-_6 tracks from 1996 to 2020. The peak is in there somewhere._
+<iframe src="https://open.spotify.com/embed/track/1UmmSKPdCtBuJsmbZG9G3u" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
----
+<iframe src="https://open.spotify.com/embed/track/104YdibC7VQy78xAVmgRYr" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-**Sleep to Dream**
-*Tidal* · 1996 · 4:08
+<iframe src="https://open.spotify.com/embed/track/51HiIbv8gO0HvwpmAxXAFe" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/51HiIbv8gO0HvwpmAxXAFe" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe src="https://open.spotify.com/embed/track/0XMzFZgFvEqH2nEa3iwNUD" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-**Shadowboxer**
-*Tidal* · 1996 · 5:24
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0XMzFZgFvEqH2nEa3iwNUD" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**Criminal**
-*Tidal* · 1996 · 5:41
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6PNvv1dmDbOWrAYwEcuKBX" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**Fast As You Can**
-*When The Pawn...* · 1999 · 4:38
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1UmmSKPdCtBuJsmbZG9G3u" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**Limp**
-*When The Pawn...* · 1999 · 3:29
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/104YdibC7VQy78xAVmgRYr" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**I Want You To Love Me**
-*Fetch The Bolt Cutters* · 2020 · 3:57
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/73SBAGI4fPFm4VkB3NjXq8" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe src="https://open.spotify.com/embed/track/6PNvv1dmDbOWrAYwEcuKBX" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

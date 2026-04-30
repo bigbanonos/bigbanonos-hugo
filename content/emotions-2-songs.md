@@ -3,14 +3,15 @@ title: "Emotions"
 slug: "emotions"
 date: 2024-10-28
 layout: post
+era:
+  - "1900s"
+genre:
+  - "motown"
+  - "disco"
 tags:
   - '@emotions'
 ---
 
-<h2>BigBanonos Favorite Songs by The Emotions</h2>
-<p>Enjoy BigBanonos favorite soul tracks from The Emotions, like "Best of My Love" and "Flowers."</p> <ul> <li><strong>Best of My Love</strong> - <em>Rejoice</em> (1977)</li> <li><strong>Flowers</strong> - <em>Flowers (Bonus Track Version)</em> (1976)</li>
-</ul> 
-{{< img-lite src="https://i.scdn.co/image/ab67616d0000b273c5a010463c2b450902e57599" alt="The Emotions Album Cover" >}}
-<p>For more favorite tracks, visit <a href="https://bigbanonos.blogspot.com/">BigBanonos Homepage</a>.</p>
+<iframe src="https://open.spotify.com/embed/track/2M2WJ7gBlcKNxdhyfPp9zY" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/7BngbNGLogotcTM0PSvnYB" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

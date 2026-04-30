@@ -3,18 +3,14 @@ title: "White Magic"
 slug: "white-magic"
 date: 2024-12-20
 layout: post
+era:
+  - "2000s-2010s"
 tags:
   - '@whitemagic'
 ---
 
-<h1>BigBanonos Top Songs by White Magic</h1>
+<iframe src="https://open.spotify.com/embed/track/4iCNK5CFrY2v3bdjzCcPU0" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<p>White Magics unique blend of freak folk and new weird America is captivating and otherworldly. Here are BigBanonos favorite tracks:</p>  <div> 
-</div> <h3>#Highlights</h3>
-<div> {{< youtube "drf8UuofXy0" >}}
-</div>
-<hr /> <h3>#Covers w/ Originals</h3>
-<div> {{< youtube "JFIfA-43zOQ" >}}
-</div> <p>Explore more on <a href="https://bigbanonos.blogspot.com/">BigBanonos</a>, or check out BigBanonos on <a href="https://www.youtube.com/@BigBanonos">YouTube</a> and <a href="https://x.com/bigbanonos">Twitter</a>.</p> 
+<iframe src="https://open.spotify.com/embed/track/67AIi5bn10iLcTl8hmtOlg" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/5BfRuhZslWsOv1hg0yNsfw" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

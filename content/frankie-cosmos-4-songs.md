@@ -3,11 +3,19 @@ title: "Frankie Cosmos"
 slug: "frankie-cosmos"
 date: 2024-12-21
 layout: post
+era:
+  - "2000s-2010s"
+  - "2020s"
+genre:
+  - "bedroom pop"
 tags:
   - '@frankiecosmos'
 ---
 
-<h3><em>BigBanonos</em> Favorite Songs by Frankie Cosmos:</h3> <p>Updated on October 18, 2022, with the standout track "Empty Head." Discover <em>BigBanonos</em> favorites by Frankie Cosmos, showcasing her unique indie pop and bedroom pop sound.</p> <!--Image-->
- <!--Spotify Playlist Embed-->
- <!--Song Listings-->
- <hr />
+<iframe src="https://open.spotify.com/embed/track/1yEHKriEfBw6k1Dcb9sEBj" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/0H6avcUiCQxbqpe6NV0r3T" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/4yCwjPq2gEJXshso2XMcc9" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/4LMlviHZfDUXWIZhvGEAKi" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

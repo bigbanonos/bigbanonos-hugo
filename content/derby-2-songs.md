@@ -3,22 +3,18 @@ title: "Derby"
 slug: "derby"
 date: 2025-08-29
 layout: post
+era:
+  - "2020s"
 tags:
   - '@derby'
 ---
 
-<h2>BigBanonos Favorite Songs by DERBY</h2> <div > <a href="https://images.genius.com/cf43cc4f3fe194cf9214a15dddc07119.1000x1000x1.png"> <img src="https://images.genius.com/cf43cc4f3fe194cf9214a15dddc07119.1000x1000x1.png" alt="DERBY - Money Fight EP" width="400" /> </a>
-</div> <p>DERBY has quickly proven themselves as one of the best new bands of 2025. With the release of <em>Slugger</em> on June 6, their blend of alt and hip hop energy feels both elusive and undeniable. BigBanonos favorites from DERBY now include five new cuts alongside earlier singles, making them essential listening this year.</p> <!-- New June 2025 Songs -->
-<h3>"One Time Forever" – DERBY (2025)</h3>
-<p><em>Slugger</em> Ãƒâ€šÃ‚· Many Horses Ãƒâ€šÃ‚· Released June 6, 2025</p>
-{{< youtube "oNvm_y39kK0" >}} <h3>"Ultraviolet" – DERBY (2025)</h3>
-<p><em>Slugger</em> Ãƒâ€šÃ‚· Many Horses Ãƒâ€šÃ‚· Released June 6, 2025</p>
-{{< youtube "op-KxH8wv6A" >}} <h3>"Gold" – DERBY (2025)</h3>
-<p><em>Slugger</em> Ãƒâ€šÃ‚· Many Horses Ãƒâ€šÃ‚· Released June 6, 2025</p>
-{{< youtube "N_55r6jM4ok" >}} <h3>"Two Step" – DERBY (2025)</h3>
-<p><em>Slugger</em> Ãƒâ€šÃ‚· Many Horses Ãƒâ€šÃ‚· Released June 6, 2025</p> <h3>"Money Fight" – DERBY (2025)</h3>
-<p><em>Money Fight</em> Ãƒâ€šÃ‚· Many Horses Ãƒâ€šÃ‚· Released May 29, 2025</p>
-{{< youtube "vodRREALTqw" >}} <!-- Spotify Embed -->
-<h3>Stream the EP</h3>
- <p>Honorable mention: <strong>Move Like That</strong> still bangs and deserves a spin.</p> <h3>Tags</h3>
-<p>@derby</p>  <hr />
+<iframe src="https://open.spotify.com/embed/track/5GfjnLf8aMzfr7VuFiIB0H" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/4yFqqm98NhJeHtkVqIplh3" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/12AzZ7frdHq5rKnnuWhEd8" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/4jLFGr571HOsO4MZTRyG3q" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/7pCB2PknOgGug7SM6hO2oe" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

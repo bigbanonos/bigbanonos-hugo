@@ -3,6 +3,11 @@ title: "Lady"
 slug: "lady"
 date: 2014-05-01
 layout: post
+era:
+  - "2000s-2010s"
+genre:
+  - "krautrock"
+  - "progressive rock"
 tags:
   - '@lady'
   - '00s-10s'
@@ -10,28 +15,10 @@ tags:
   - 'progressive rock'
 ---
 
-## Lady
+<iframe src="https://open.spotify.com/embed/track/1FJTMyBSkf6FfDI7igxGSo" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-_4 tracks between 2013 and 2014._
+<iframe src="https://open.spotify.com/embed/track/70CxzdZL6tkX1bPGG8K0kt" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
----
+<iframe src="https://open.spotify.com/embed/track/3HtZEh9nylzwkGCwCrfafW" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-**Money**
-*Lady* · 2013 · 3:43
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6Y7DOaRqRvDXrCCFQb1LI5" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**Please Dont Do It Again**
-*Lady* · 2013 · 3:11
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3HtZEh9nylzwkGCwCrfafW" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**Tell The Truth**
-*Lady* · 2014 · 4:37
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1FJTMyBSkf6FfDI7igxGSo" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**Get Ready**
-*Lady* · 2014 · 4:06
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/70CxzdZL6tkX1bPGG8K0kt" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe src="https://open.spotify.com/embed/track/6Y7DOaRqRvDXrCCFQb1LI5" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

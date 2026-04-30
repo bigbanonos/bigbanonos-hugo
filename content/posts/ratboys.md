@@ -3,24 +3,15 @@ title: "Ratboys"
 slug: "ratboys"
 date: 2021-03-01
 layout: post
+era:
+  - "2000s-2010s"
+  - "2020s"
 tags:
   - '@ratboys'
   - '00s-10s'
   - '2020s'
 ---
 
-## Ratboys
+<iframe src="https://open.spotify.com/embed/track/732dEpPH51goNx2ZPoxL4P" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-_2 tracks between 2017 and 2021._
-
----
-
-**Elvis is in the Freezer**
-*GN* · 2017 · 2:59
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7bkZib7RjWG1S9HTnOEKWM" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**Go Outside**
-*Go Outside* · 2021 · 2:49
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/732dEpPH51goNx2ZPoxL4P" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe src="https://open.spotify.com/embed/track/7bkZib7RjWG1S9HTnOEKWM" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

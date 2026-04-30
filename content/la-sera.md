@@ -3,12 +3,12 @@ title: "La Sera"
 slug: "la-sera"
 date: 2024-12-17
 layout: post
+era:
+  - "2000s-2010s"
 tags:
   - '@lasera'
 ---
 
-<h2>BigBanonos Favorite Tracks: La Sera</h2> <div > <a href="https://polyvinyl-public.s3.amazonaws.com/344ef5151be171062f42f03e69663ecf71da5f806ff2cf49c617ef9a2d6a408be37bf334_medium.jpg"> <img src="https://polyvinyl-public.s3.amazonaws.com/344ef5151be171062f42f03e69663ecf71da5f806ff2cf49c617ef9a2d6a408be37bf334_medium.jpg" alt="La Sera" width="400" /> </a>
-</div> <p>La Seras sound blends dreamy pop melodies with a gritty, noise-pop edge. This playlist highlights some of their best work, offering a glimpse into their nostalgic yet modern vibe.</p> <h3>Selected Tracks</h3>
- <p>Stream La Seras playlist:</p>
- <h3>Tags</h3>
-<p>@lasera</p> <p>Explore more on <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos YouTube channel</a> and follow us on <a href="https://twitter.com/BigBanonos" target="_blank">Twitter</a>!</p> <hr />
+<iframe src="https://open.spotify.com/embed/track/5kk3Y1DrERcPeVBxIE4r8y" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/6SU4nZ7icSEFCprykH2Lnl" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

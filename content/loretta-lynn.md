@@ -3,13 +3,24 @@ title: "Loretta Lynn"
 slug: "loretta-lynn"
 date: 2025-02-09
 layout: post
+era:
+  - "1900s"
+  - "2000s-2010s"
+genre:
+  - "classic country"
+  - "honky tonk"
+  - "country"
+  - "country christian"
+  - "traditional country"
 tags:
   - '@lorettalynn'
   - '@jackwhite'
 ---
 
-<h2>BigBanonos Favorite Songs by Loretta Lynn</h2> <p><strong>Updated 2004, with "Van Lear Rose" from <em>Van Lear Rose</em></strong></p> {{< img-lite src="https://i.scdn.co/image/ab6761610000e5ebdb1598bb7e50cb69c7053354" alt="Loretta Lynn" >}} <p>Loretta Lynn is one of country musics greatest legends, with songs ranging from outlaw country to heartfelt ballads. Below are BigBanonos favorite songs.</p> <h3>Listen on Spotify</h3>  <h3>"Van Lear Rose"</h3>
-<p><em>Van Lear Rose</em>, 2004</p> <h3>"Portland Oregon" (feat. Jack White)</h3>
-<p><em>Van Lear Rose</em>, 2004</p> {{< youtube "r-MvbfhIIwc" >}} {{< youtube "ZtAcWuu2jv0" >}} <h3>"The Pill"</h3>
-<p>1971</p> <h3>"Rated X"</h3>
-<p>1972</p> <hr /> <p><strong>Tags:</strong> @lorettalynn, @jackwhite</p> <hr />
+<iframe src="https://open.spotify.com/embed/track/5KZ7xHdaC3Y4bdhgpMpYEA" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/4p0GgpkZjy9t9kAsOOgycy" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/7ytzJQs2dMr3n8rjbhO7ZY" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/29csfMpJeRk8w63SP1EMw1" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

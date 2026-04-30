@@ -3,12 +3,16 @@ title: "Sleigh Bells"
 slug: "sleigh-bells"
 date: 2024-12-20
 layout: post
+era:
+  - "2000s-2010s"
 tags:
   - '@sleighbells'
 ---
 
-<h1>BigBanonos Top 4 Songs by Sleigh Bells</h1>
-<img alt="Sleigh Bells" src="https://getinherears.com/wp-content/uploads/2021/09/sleigh-bells_landscape_credit-chris-vultaggio-e1630840280410.jpeg?w=1200" /> <p>Sleigh Bells blend intense beats with noise-pop and experimental sounds. Here are BigBanonos top selections:</p>  <div> 
-</div>
+<iframe src="https://open.spotify.com/embed/track/6eqOGp0DElFtxNqbvOqhK4" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/0FOWOO3fCpd9nc372nIrNK" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/0euDcsQmWbjM0AtsckB8HU" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/4rc6aeLJCWqZ3GBW5rU1P1" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

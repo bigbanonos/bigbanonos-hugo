@@ -3,13 +3,22 @@ title: "Tame Impala"
 slug: "tame-impala"
 date: 2024-12-20
 layout: post
+era:
+  - "2000s-2010s"
+  - "2020s"
+genre:
+  - "neo-psychedelic"
+  - "indie"
+explicit: true
 tags:
   - '@lilyachty'
   - '@tameimpala'
 ---
 
-<h1>BigBanonos Favorite Songs by Tame Impala</h1>
-{{< img-lite src="https://i1.sndcdn.com/avatars-yHA8nds2mqg4uYtr-kyxTzw-t1080x1080.jpg" alt="Tame Impala" >}} <p>Tame Impalas unique blend of neo-psychedelic and modern rock has made them a staple in BigBanonos playlist. Check out these highlights:</p>  <div> 
-</div>
+<iframe src="https://open.spotify.com/embed/track/6GtOsEzNUhJghrIf6UTbRV" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/3LbZIhU0smEU5SUnxod4j4" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/0xtIp0lgccN85GfGOekS5L" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/0LtOwyZoSNZKJWHqjzADpW" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

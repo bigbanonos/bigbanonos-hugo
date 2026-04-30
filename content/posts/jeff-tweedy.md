@@ -3,6 +3,13 @@ title: "Jeff Tweedy"
 slug: "jeff-tweedy"
 date: 2020-10-06
 layout: post
+era:
+  - "2000s-2010s"
+  - "2020s"
+genre:
+  - "alt country"
+  - "americana"
+  - "singer-songwriter"
 tags:
   - '@jeff-tweedy'
   - '00s-10s'
@@ -12,18 +19,6 @@ tags:
   - 'singer-songwriter'
 ---
 
-## Jeff Tweedy
+<iframe src="https://open.spotify.com/embed/track/3gYhiHVReN3IKZANw7TuA9" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-_2 tracks between 2013 and 2020._
-
----
-
-**The Ballad of the Opening Band**
-*Songs for Slim: Rockin Here Tonight – A Benefit Compilation for Slim Dunlap* · 2013 · 4:27
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1kuQWWVyDFi0JHgcMwbF06" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**Gwendolyn**
-*Gwendolyn* · 2020 · 3:25
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3gYhiHVReN3IKZANw7TuA9" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe src="https://open.spotify.com/embed/track/1kuQWWVyDFi0JHgcMwbF06" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

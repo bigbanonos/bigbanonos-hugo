@@ -3,12 +3,16 @@ title: "Dino Btw"
 slug: "dino-btw"
 date: 2024-12-21
 layout: post
+era:
+  - "2020s"
+genre:
+  - "new orleans bounce"
+  - "bounce"
+explicit: true
 tags:
   - '@dinobtw'
 ---
 
-<h3><em>BigBanonos</em> Favorite Songs by Dino BTW:</h3> <p>Updated on September 5, 2022, with the release of "Wrong Bitch." BigBanonos top picks by Dino BTW capture the artists bold trap queen style in R&B, showcasing his unique sound.</p> <!--Image-->
- <!--Spotify Playlist Embed-->
- <!--Song Listings-->
- 
- <hr />
+<iframe src="https://open.spotify.com/embed/track/5u6Ilb0bhEVktALse8agrt" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/5LsE9Czb2jm5ZqiqiFDv0t" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

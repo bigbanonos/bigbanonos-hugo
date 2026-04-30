@@ -3,20 +3,38 @@ title: "Raveonettes"
 slug: "raveonettes"
 date: 2025-02-10
 layout: post
+era:
+  - "2000s-2010s"
 tags:
   - '@raveonettes'
 ---
 
-<!-- The Raveonettes -->
-<img src="https://i.scdn.co/image/ab67616d0000b273a28131c9604069c97efb6412" /> <p><strong>Updated April 4, 2011 with "Recharge & Revolt" from <em>Raven in the Grave</em></strong></p> <p><strong>"Recharge & Revolt"</strong> – <em>Raven in the Grave</em> (Beat Dies Records, 2011)</p>
-<p><strong>"Gone Forever"</strong> – <em>In And Out Of Control</em> (Beat Dies Records, 2009)</p>
-<p><strong>"Last Dance"</strong> – <em>In And Out Of Control</em> (Beat Dies Records, 2009)</p>
-<p><strong>"You Want The Candy"</strong> – <em>Lust Lust Lust</em> (Beat Dies Records, 2007)</p>
-<p><strong>"Love In a Trashcan"</strong> – <em>Pretty In Black</em> (Columbia, 2005)</p>
-<p><strong>"The Christmas Song"</strong> – <em>The Christmas Song</em> (Columbia, 2003)</p>
-<p><strong>"That Great Love Sound"</strong> – <em>That Great Love Sound</em> (Columbia, 2003)</p>
-<p><strong>"Chain Gang of Love"</strong> – <em>Chain Gang Of Love</em> (Columbia, 2003)</p>
-<p><strong>"Beat City"</strong> – <em>Whip It On</em> (Columbia, 2002)</p>  {{< youtube "sWQ_D0xTJws" >}} <p>@raveonettes</p> <hr /><!-- Footer -->
- 
+<iframe src="https://open.spotify.com/embed/track/5DH87mAbfJTKeMNN7DWomr" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/4jrzmQijmAkAXSeikB7J8z" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/1wkDtPvigXJsadOm87RG8S" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/4IedEGayfDsEaTJv3dqCi2" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/6vVeogbozV20zRhRLbWj9j" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/74vAkZaoEU54yZdOoSLrTa" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/1jE4PO9ObgAiDAXpnNJFVB" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/0fXPrbLgWmgZI81oF5Knxx" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/0U1VQmGIderaVxoESXQgqO" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/660Q1v9c2itxSCiu2yRe2N" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/2TsC0VwOQpbuQ5GTbgmzSb" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/69vMu6KPWeIkXTdrEPBXND" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/105AyMMCPcVJvLbIgH7GcU" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/71m1WH2ofyL6riRWx3Qk2g" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/5LraxjzdrZOzO89qAgfTKZ" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

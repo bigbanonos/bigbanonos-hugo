@@ -3,21 +3,17 @@ title: "Allison Russell"
 slug: "allison-russell"
 date: 2025-01-17
 layout: post
+era:
+  - "2020s"
+genre:
+  - "southern gothic"
+  - "folk"
 tags:
   - '@allisonrussell'
 ---
 
-<!-- Title of the Post -->
-<h1 >BigBanonos Favorite Songs by Allison Russell</h1> <!-- Featured Image -->
-<div > {{< img-lite src="https://i.scdn.co/image/ab6761610000e5eb48d1162e2147fe542e75b73d" alt="Allison Russell" >}}
-</div> <!-- Spotify Embed -->
-<div > 
-</div> <!-- Introductory Text -->
-<p >Allison Russells music blends black Americana and folk with heartfelt lyrics. From "Demons" to "The Returner," here are BigBanonos favorite tracks by this visionary artist.</p> <!-- Song Highlights -->
-<div > <p>BigBanonos standout picks:</p> 
-</div> <!-- Footer Links -->
-<div > <p>Discover more soulful tracks at <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Stay tuned for updates on <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p>
-</div> 
-<p >Tags: @allisonrussell</p>
+<iframe src="https://open.spotify.com/embed/track/2tb19wQu9EEK4mFooVSKx8" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/0jQTagUb62PG7IcaFdR4s7" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/4qNolArPDQFWFDY9CV6gho" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

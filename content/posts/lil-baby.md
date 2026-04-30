@@ -3,6 +3,12 @@ title: "Lil Baby"
 slug: "lil-baby"
 date: 2025-01-03
 layout: post
+era:
+  - "2000s-2010s"
+  - "2020s"
+genre:
+  - "melodic rap"
+explicit: true
 tags:
   - '@lil-baby'
   - '@lil-baby-21-savage'
@@ -12,23 +18,8 @@ tags:
   - 'melodic rap'
 ---
 
-## Lil Baby
+<iframe src="https://open.spotify.com/embed/track/7ffZyi3DyQr8Q2612gcqwr" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-_3 tracks between 2018 and 2025._
+<iframe src="https://open.spotify.com/embed/track/72pjcmoE6vBby9gb1ZPvdF" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
----
-
-**Drip Too Hard** (feat. Lil Baby;Gunna)
-*Drip Too Hard* · 2018 · 2:25
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1BxkZE73h9BN3qwuA15TA3" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**5AM**
-*5AM* · 2024 · 1:42
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/72pjcmoE6vBby9gb1ZPvdF" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**Outfit (with 21 Savage)** (feat. Lil Baby;21 Savage)
-*WHAM* · 2025 · 2:57
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7ffZyi3DyQr8Q2612gcqwr" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe src="https://open.spotify.com/embed/track/1BxkZE73h9BN3qwuA15TA3" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

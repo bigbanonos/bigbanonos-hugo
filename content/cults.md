@@ -3,16 +3,12 @@ title: "Cults"
 slug: "cults"
 date: 2024-12-17
 layout: post
+era:
+  - "2000s-2010s"
 tags:
   - '@cults'
 ---
 
-<h2>Cults – Essential Tracks</h2>
+<iframe src="https://open.spotify.com/embed/track/5MVszCCOrf5uh8AKmB5781" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
- <h3>Tracklist</h3>
-<ul> <li><strong>Rave On</strong> – <em>Cults</em> (2011)</li> <li><strong>Go Outside</strong> – <em>Cults</em> (2011)</li>
-</ul> <h3>Highlights</h3>
- <h3>Tags</h3>
-<p>@cults</p> <p>For more playlists and deep dives into Cults music, check out <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a> and subscribe to our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube channel</a>.</p>
-
-<hr />
+<iframe src="https://open.spotify.com/embed/track/0V8jGgK39sLsj2yAHHPigU" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

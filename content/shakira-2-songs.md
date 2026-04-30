@@ -3,13 +3,17 @@ title: "Shakira"
 slug: "shakira"
 date: 2024-10-30
 layout: post
+era:
+  - "2000s-2010s"
+  - "2020s"
+genre:
+  - "latin pop"
 tags:
   - '@shakira'
   - '@wyclefjean'
   - '@cardib'
 ---
 
-<h1>BigBanonos Top 2 Songs by Shakira</h1>
-<p>Last updated March 22, 2024 with "PunterÃƒÆ’Ã‚­a"</p>  <p><img alt="Shakira" src="https://i.ytimg.com/vi/uzauKGnEod8/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDqdcXPPbjKyjcdoMRzvBGDoPW0OQ" /></p> <p>BigBanonos top tracks from Shakira showcase her vibrant pop style with dynamic collaborations. Here are the current favorites, featuring "PunterÃƒÆ’Ã‚­a" and the iconic "Hips Dont Lie" with Wyclef Jean.</p> <h2>Top Tracks by Release Date</h2>
+<iframe src="https://open.spotify.com/embed/track/2dYXrWkNO40NXy2Q3IYLRc" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/3ZFTkvIE7kyPt6Nu3PEa7V" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

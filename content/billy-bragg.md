@@ -3,22 +3,30 @@ title: "Billy Bragg"
 slug: "billy-bragg"
 date: 2024-12-20
 layout: post
+era:
+  - "1900s"
+  - "2000s-2010s"
+genre:
+  - "anti-folk"
+  - "alt country"
+  - "folk punk"
+  - "singer-songwriter"
+  - "americana"
 tags:
   - '@wilco'
   - '@billybragg'
 ---
 
-<!-- BigBanonos voice goes here.
-     - the personal connection (saw them live, friends band, etc.)
-     - the cross-reference (X covered Y, was in band Z, sampled by W)
-     - the hot take (peaked 2006-2019, sucks since 2001, etc.)
-     - whats missing / why these songs
-     -->
+<iframe src="https://open.spotify.com/embed/track/1ZS08hLHF4s3etQft8zNZ3" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<h1>BigBanonos 6 Favorite Songs by Billy Bragg</h1>
-<img alt="Billy Bragg" src="https://i.guim.co.uk/img/media/a1093dfa0e5590c62b607a75e3f7b7b791beed74/0_0_4967_3401/master/4967.jpg?width=465&dpr=1&s=none&crop=none" />   <div> 
-</div> <p>first posted by <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_blank">https://bigbanonos.blogspot.com/</a></p> <div> <p>Explore more BigBanonos content: <a href="https://bigbanonos.blogspot.com/">Website</a> | <a href="https://www.youtube.com/@BigBanonos">YouTube</a> | <a href="https://x.com/bigbanonos">Twitter</a></p>
-</div> 
-<p>@billybragg,@wilco</p>
+<iframe src="https://open.spotify.com/embed/track/5B2mJIk8yso3ugyvfHR62A" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/3eKcrAevTIZvqWqLChKKMW" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/0ApXXb1MZlHOMfZhDnhrsJ" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/1Gt3MKfBeYxQTPCssfuEP3" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/7lBirStriJlmSTvPzHByal" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/6NRw2yQ56lD3B8FDcU36ix" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

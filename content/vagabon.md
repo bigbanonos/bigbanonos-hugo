@@ -3,24 +3,22 @@ title: "Vagabon"
 slug: "vagabon"
 date: 2025-01-10
 layout: post
+era:
+  - "2020s"
+genre:
+  - "art pop"
 tags:
   - '@vagabon'
 ---
 
-<div class="post-title"> <h1>BigBanonos Favorite Songs by Vagabon</h1>
-</div>
-<p>Updated September 15, 2023, with "You Know How" from the album <i>Sorry I Havent Called</i>, highlighted in the playlist below:</p>
-<div class="post-image"> {{< img-lite src="https://thefader-res.cloudinary.com/private_images/w_760,c_limit,f_auto,q_auto:best/Vagabon_-_By_Tonje_Thilesen_nptsnb/vagabon-every-woman-video-new-album-2019.jpg" alt="Vagabon Album Cover" >}}
-</div>
-<p>Vagabons introspective lyricism and lush art pop soundscapes make her a standout artist. Tracks like "You Know How," "Carpenter," and "Lexicon" highlight her innovative approach to songwriting and genre-bending creativity. Released in 2023, these songs from <i>Sorry I Havent Called</i> and <i>Lexicon</i> showcase her ability to capture raw emotion through captivating melodies.</p>
-<p>Listen to the playlist below to experience these tracks and more:</p>
-<div class="spotify-embed"> 
-</div>
-<p>Tracks featured:</p>
-<ul> <li>"You Know How" – <i>Sorry I Havent Called</i> (September 15, 2023, Nonesuch)</li> <li>"Lexicon" – <i>Lexicon</i> (September 12, 2023, Nonesuch)</li> <li>"Can I Talk My Shit?" – <i>Lexicon</i> (September 12, 2023, Nonesuch)</li> <li>"Carpenter" – <i>Lexicon</i> (September 12, 2023, Nonesuch)</li> <li>"Carpenter" – <i>Carpenter</i> (January 12, 2023, Nonesuch)</li> <li>"Can I Talk My Shit?" – <i>Can I Talk My Shit?</i> (June 15, 2023, Nonesuch)</li>
-</ul>
-<p>Explore Vagabons mesmerizing world of art pop and let her music captivate your soul.</p>
-<hr>
-<div class="post-footer"> <p>Discover more of BigBanonos favorites at:</p> <ul> <li><a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos Blog</a></li> <li><a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a></li> <li><a href="https://x.com/bigbanonos" target="_blank">BigBanonos on X
+<iframe src="https://open.spotify.com/embed/track/1DIA047bxy09Z1IAzEf2wc" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/70aDp1WRRHjSO2EFYvFgLK" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/4FyVp8vjTIWJAwu2jVzqEt" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/1UmDhOqumAQHQqpp6QG4BE" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/52qozr06OygMerkZTWPQzL" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/51NHBYYoBLDqgp5COax2JC" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

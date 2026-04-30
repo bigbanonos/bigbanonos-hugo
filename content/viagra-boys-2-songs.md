@@ -3,21 +3,23 @@ title: "Viagra Boys"
 slug: "viagra-boys"
 date: 2025-01-16
 layout: post
+era:
+  - "2000s-2010s"
+  - "2020s"
+genre:
+  - "post-punk"
+  - "egg punk"
+explicit: true
 tags:
   - '@viagraboys'
 ---
 
-<!-- Title of the Post -->
-<h1 >BigBanonos Favorite Songs by Viagra Boys</h1> <!-- Featured Image -->
-<div > {{< img-lite src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/SXSW_2019_-_Viagra_Boys_%2847437549961%29.jpg/1200px-SXSW_2019_-_Viagra_Boys_%2847437549961%29.jpg" alt="Viagra Boys" >}}
-</div> <!-- Spotify Embed -->
-<div > 
-</div> <!-- Introductory Text -->
-<p >Viagra Boys deliver a high-energy blend of crank wave and Stockholm indie. From their raw debut *Street Worms* to their dynamic album *Welfare Jazz*, here are BigBanonos favorite tracks by the eccentric Swedish punk band.</p> <!-- Song Highlights -->
-<div > <p>BigBanonos standout picks:</p> 
-</div> <!-- Footer Links -->
-<div > <p>Discover more quirky tracks at <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Keep up with fresh music updates on <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p>
-</div> 
-<p >Tags: @viagraboys</p>
+<iframe src="https://open.spotify.com/embed/track/1LzBpAQEtHvu73Xib1eMMP" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/321m4OmLaRCxlSfLXKGU2o" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/07iJL5aTEPKh4YGrUIBOsb" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/3anIPGbdjxjkbwtHoBG4W4" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/5j3Ry7VwpyO95YhzozfpRw" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

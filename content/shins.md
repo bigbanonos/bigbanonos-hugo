@@ -3,28 +3,36 @@ title: "Shins"
 slug: "shins"
 date: 2025-02-21
 layout: post
+era:
+  - "2000s-2010s"
+genre:
+  - "indie"
+  - "indie pop"
 tags:
   - '@jamesmercer'
   - '@shins'
 ---
 
-<img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F618aa4c2-f0bd-4223-ab4b-397adf2e3341_960x768.jpeg" width="100%" /> <h2>BigBanonos Favorite Songs by The Shins & James Mercer</h2> <p>Updated October 21, 2003, with highlights from <em>Chutes Too Narrow (20th Anniversary Remaster)</em>. #NotOnSpotify tracks and rare performances below:</p> {{< youtube "_DXnYIBRwsQ" >}} <hr /> <h3>#NotOnSpotify</h3> {{< youtube "xzKUbGqJiFY" >}}
-<p><strong>James Mercer – "Won One Too Many Fights"</strong></p> <hr /> <h3>#Covers w/ Originals</h3> {{< youtube "A6jH8Q_ie_E" >}}
-<p><strong>"Plenty Is Never Enough"</strong> (Tenement Halls)</p> <hr /> <h3>#Highlights</h3>  <p><strong>Highlighted Songs:</strong></p>
-<ul>
-<li>"Gone for Good - 2023 Remaster" (2003, <em>Chutes Too Narrow</em>)</li>
-<li>"Kissing the Lipless - 2023 Remaster" (2003, <em>Chutes Too Narrow</em>)</li>
-<li>"So Says I - 2023 Remaster" (2003, <em>Chutes Too Narrow</em>)</li>
-<li>"Young Pilgrims - 2023 Remaster" (2003, <em>Chutes Too Narrow</em>)</li>
-<li>"Saint Simon - 2023 Remaster" (2003, <em>Chutes Too Narrow</em>)</li>
-<li>"Fighting in a Sack - 2023 Remaster" (2003, <em>Chutes Too Narrow</em>)</li>
-<li>"Pink Bullets - 2023 Remaster" (2003, <em>Chutes Too Narrow</em>)</li>
-<li>"Turn a Square - 2023 Remaster" (2003, <em>Chutes Too Narrow</em>)</li>
-<li>"Caring Is Creepy - 2021 Remaster" (2001, <em>Oh, Inverted World</em>)</li>
-<li>"Know Your Onion! - 2021 Remaster" (2001, <em>Oh, Inverted World</em>)</li>
-<li>"New Slang - 2021 Remaster" (2001, <em>Oh, Inverted World</em>)</li>
-<li>"Pressed in a Book - 2021 Remaster" (2001, <em>Oh, Inverted World</em>)</li>
-</ul> <hr />  
-<p>@theshins,@jamesmercer</p>
+<iframe src="https://open.spotify.com/embed/track/1tJEdsmqcWGSRDM9uU4a67" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/1PVoCVLV1aLoqXpMNBSYYS" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/1o2N62zvfbKfTNdmC8j5c9" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/4DWjyEKZcNUXnb6Nf96hlh" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/2A8GLlJ8vGO2z0MTjau2Jw" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/71ePZUnzPYtx6OgiqFcKQZ" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/58Py6513JqlZ09H0v3m5o5" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/3DvVj8pUm8UlPkrCXznObB" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/1d1Uc9yNUMvUb0RbakGDt0" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/2MqJJotATaZuzfBOewZea0" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/0NslHuacjxQYfUTOW3HCIV" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/2YiQqpLGoqIE7jLIjm5FCv" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

@@ -3,24 +3,17 @@ title: "Bo Burnham"
 slug: "bo-burnham"
 date: 2022-06-03
 layout: post
+era:
+  - "2020s"
+genre:
+  - "comedy"
+explicit: true
 tags:
   - '@bo-burnham'
   - '2020s'
   - 'comedy'
 ---
 
-## Bo Burnham
+<iframe src="https://open.spotify.com/embed/track/4CKhBJA0G3eqgyff3DaM5V" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-_2 tracks, all from 2022._
-
----
-
-**Feel Good**
-*THE INSIDE OUTTAKES* · 2022 · 0:43
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5IrVOyaRwyAVzbKD5TTWNo" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**Microwave Popcorn**
-*INSIDE (DELUXE)* · 2022 · 2:27
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4CKhBJA0G3eqgyff3DaM5V" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe src="https://open.spotify.com/embed/track/5IrVOyaRwyAVzbKD5TTWNo" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

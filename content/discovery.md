@@ -3,14 +3,19 @@ title: "Discovery"
 slug: "discovery"
 date: 2024-12-17
 layout: post
+era:
+  - "2000s-2010s"
+  - "2020s"
 tags:
   - '@discovery'
 ---
 
-<h2>Discovery – Essential Tracks</h2> <div > <img src="https://s3.amazonaws.com/dev1.mtimg.com/product_photos/imgs/000/096/404/full/ROSTAM_Bundle2.png?1726164705" alt="Discovery" width="400" />
-</div>  <h3>Highlighted Tracks</h3>
-<ul> <li><strong>Swing Tree</strong> – <em>LP (Deluxe Edition)</em> (2022)</li> <li><strong>Orange Shirt - Rock Remix</strong> – <em>LP (Deluxe Edition)</em> (2022)</li> <li><strong>Orange Shirt</strong> – <em>LP</em> (2009)</li> <li><strong>Osaka Loop Line</strong> – <em>LP</em> (2009)</li> <li><strong>So Insane</strong> – <em>LP</em> (2009)</li>
-</ul> <h3>Tags</h3>
-<p>@discovery</p> <p>Explore more from Discovery and other great artists on <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>, and dont forget to subscribe to our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube channel</a>.</p>
+<iframe src="https://open.spotify.com/embed/track/3Gec0eWZ22o0rNKKUSSzLI" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/0kDjZRgPU4Bt35ygJC83Af" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/6XCofYuJfYQDykaGvH98Ev" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/4H9FGIjS07wouhMIHNNjEb" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/3hM78tLCS5bRdPefruxA7A" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

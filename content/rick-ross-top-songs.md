@@ -3,6 +3,13 @@ title: "Rick Ross"
 slug: "rick-ross"
 date: 2025-02-10
 layout: post
+era:
+  - "2000s-2010s"
+  - "2020s"
+genre:
+  - "southern hip hop"
+  - "r&b"
+explicit: true
 tags:
   - '@robinthicke'
   - '@rickross'
@@ -10,11 +17,10 @@ tags:
   - '@thedream'
 ---
 
-<!-- Rick Ross -->
-<img src="https://i.scdn.co/image/ab6761610000e5eb8196a8109c28a8b8aca28fae" /> <p><strong>Updated December 3, 2021 with "Little Havana" featuring Willie Falcon & The-Dream</strong></p> <p><strong>"Little Havana (feat. Willie Falcon & The-Dream)"</strong> – <em>Little Havana</em> (Epic, 2021)</p>
-<p><strong>"All I Really Want (feat. The-Dream)"</strong> – <em>Deeper Than Rap</em> (Def Jam Recordings, 2009)</p>
-<p><strong>"Lay Back (feat. Robin Thicke)"</strong> – <em>Deeper Than Rap</em> (Def Jam Recordings, 2009)</p>
-<p><strong>"Hustlin"</strong> – <em>Port Of Miami</em> (Def Jam Recordings, 2006)</p>  <p>@rickross,@robinthicke,@thedream,@williefalcon</p> <hr /> <!-- Footer -->
- 
+<iframe src="https://open.spotify.com/embed/track/3gndNki9XASWs43xZbbVlG" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/3grMTsZBHQlwkCLwY4dYN1" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/68CsK52PDFWCqjPOmrWVkU" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/3hQCHzkE5oSA3F1xM8bpcM" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

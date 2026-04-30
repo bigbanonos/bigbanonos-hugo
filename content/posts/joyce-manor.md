@@ -3,6 +3,15 @@ title: "Joyce Manor"
 slug: "joyce-manor"
 date: 2026-01-27
 layout: post
+era:
+  - "2020s"
+genre:
+  - "midwest emo"
+  - "pop punk"
+  - "emo"
+  - "indie punk"
+  - "math rock"
+explicit: true
 tags:
   - '@joyce-manor'
   - '2020s'
@@ -12,18 +21,6 @@ tags:
   - 'indie punk'
 ---
 
-## Joyce Manor
+<iframe src="https://open.spotify.com/embed/track/0eo2jrW7dPlyt7QXjuRGJU" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-_2 tracks between 2020 and 2026._
-
----
-
-**House Warning Party**
-*Songs From Northern Torrance* · 2020 · 1:04
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6w6SbrNRg994BVbiFegiN6" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**Well, Whatever It Was**
-*I Used To Go To This Bar* · 2026 · 2:06
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0eo2jrW7dPlyt7QXjuRGJU" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe src="https://open.spotify.com/embed/track/6w6SbrNRg994BVbiFegiN6" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

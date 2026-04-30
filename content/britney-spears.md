@@ -3,16 +3,16 @@ title: "Britney Spears"
 slug: "britney-spears"
 date: 2024-12-17
 layout: post
+era:
+  - "2000s-2010s"
+genre:
+  - "pop"
 tags:
   - '@britneyspears'
 ---
 
-<h2>BigBanonos Favorite Songs by Britney Spears</h2> <div> <img alt="Britney Spears" src="https://m.media-amazon.com/images/M/MV5BMTQyMTUyNjI4OF5BMl5BanBnXkFtZTcwMTk4NjkzNw@@._V1_FMjpg_UX1000_.jpg" width="100%" />
-</div>  <h2>"This Kiss" is #NotOnSpotify</h2>
-{{< youtube "tGEBKcxKPuA" >}}
-<h2>"Amnesia" is #NotOnSpotify</h2>
-{{< youtube "e6GXJ3pBbkk" >}} <h3>Songs (Chronological Order):</h3>
-<ul> <li><strong>Piece Of Me</strong> - Album: <em>Blackout</em> (January 1, 2007)</li> <li><strong>If U Seek Amy</strong> - Album: <em>Circus</em> (November 28, 2008)</li> <li><strong>How I Roll</strong> - Album: <em>Femme Fatale</em> (March 25, 2011)</li> <li><strong>This Kiss</strong> (Not available on Spotify) - Released: 2012</li><li><strong>Amnesia</strong>Ãƒâ€šÃ‚ (Not available on Spotify) - Released: 2012</li> <li><strong>Amnesia</strong> (Not available on Spotify) - Released: 2012</li><li><strong>Amnesia</strong>Ãƒâ€šÃ‚ (Not available on Spotify) - Released: 2012</li>
-</ul> <p>Britney Spears remains an iconic figure in pop music, shaping the genre with her unforgettable tracks and magnetic performances. Discover more of her hits and stay updated with our favorites at <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Watch curated playlists on <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a>.</p>
+<iframe src="https://open.spotify.com/embed/track/1uJwgJYIuwUft6CZd8Iw59" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/0f0lWRAs9kdAFZu8mAI9K2" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/6o80U88BO0bRI2VRB4Giqc" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

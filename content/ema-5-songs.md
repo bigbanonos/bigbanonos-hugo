@@ -3,17 +3,20 @@ title: "Ema"
 slug: "ema"
 date: 2024-10-28
 layout: post
+era:
+  - "2000s-2010s"
 tags:
   - '@cityslang'
   - '@ema'
   - '@souterraintransmissions'
 ---
 
-<p>Ãƒâ€šÃ‚ </p>
-<h3><strong>BigBanonos Top 5 Songs by EMA</strong></h3>
-<p>Updated April 7, 2014 with "When She Comes"</p> <p></p> <h4>Selected Tracks</h4>
-<ul> <li><strong>When She Comes</strong> - <em>Album:</em> The Futures Void (2014) - <em>Label:</em> City Slang - <em>Genre:</em> Pop</li> <li><strong>Milkman</strong> - <em>Album:</em> Past Life Martyred Saints (2011) - <em>Label:</em> Souterrain Transmissions - <em>Genre:</em> Pop</li> <li><strong>California</strong> - <em>Album:</em> Past Life Martyred Saints (2011) - <em>Label:</em> Souterrain Transmissions - <em>Genre:</em> Pop</li> <li><strong>Marked</strong> - <em>Album:</em> Past Life Martyred Saints (2011) - <em>Label:</em> Souterrain Transmissions - <em>Genre:</em> Pop</li> <li><strong>Breakfast</strong> - <em>Album:</em> Past Life Martyred Saints (2011) - <em>Label:</em> Souterrain Transmissions - <em>Genre:</em> Pop</li>
-</ul> <p>{{< img-lite src="https://i.scdn.co/image/ab67616d0000b2739cc425916330a9548a33586c" alt="EMA Image" >}}</p>
-<p>Ãƒâ€šÃ‚ </p>
+<iframe src="https://open.spotify.com/embed/track/20UTGzCG8J1i0UKzkUbIJF" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/2vigAxBqt3YBQ23WMCYmCU" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/4c6GK6Hw3NvUYQb8mDmXdH" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/3hQqdQqyz2lPI7S5O2Juqj" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/5XGNkBOX9kdxRPgcH5lOyF" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

@@ -3,20 +3,12 @@ title: "Paul Mccartney"
 slug: "paul-mccartney"
 date: 2025-01-18
 layout: post
+era:
+  - "1900s"
 tags:
   - '@paulmccartney'
 ---
 
-<!-- Introductory Text -->
-<p >Paul McCartneys legendary career has gifted us with unforgettable melodies and profound lyrics. Relive his timeless classics below!</p> <!-- Featured Image -->
-<div > <img src="https://media.newyorker.com/photos/590976142179605b11ad8417/master/pass/160425_r28058.jpg" alt="Paul McCartney" />
-</div> <!-- Spotify Playlist Embed -->
-<div > 
-</div> <!-- Song Information -->
-<div > <p><em>"Temporary Secretary"</em> from *McCartney II* (Special Edition, 1980) showcases his experimental side.</p> <p><em>"Maybe Im Amazed"</em> from *McCartney* (1970) remains a heartfelt ode to love and resilience.</p>
-</div> <!-- Footer Links -->
-<div > 
-</div> 
-<p >Tags: @paulmccartney,</p>
+<iframe src="https://open.spotify.com/embed/track/5L1MJ6tSoNlng4BxhTSiXt" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/1Qa0Y05al633fG8f9Peytc" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

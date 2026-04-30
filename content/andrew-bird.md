@@ -3,16 +3,25 @@ title: "Andrew Bird"
 slug: "andrew-bird"
 date: 2024-12-17
 layout: post
+era:
+  - "2000s-2010s"
+genre:
+  - "baroque pop"
+  - "indie folk"
 tags:
   - '@andrewbird'
 ---
 
-<h1>BigBanonos Favorite Songs by Andrew Bird</h1>
-<img alt="Andrew Bird" src="https://cdn.britannica.com/18/211118-050-78BA0175/Andrew-Bird-2009.jpg" /> <p>This collection of BigBanonos favorite tracks by Andrew Bird was updated November 23, 2024, celebrating his unique blend of indie folk, baroque pop, and virtuosic violin work, featuring tracks like "Heretics" and "Fake Palindromes."</p>  <div> 
-</div> <h3>Andrew Birds Cover: "How Ya Gonna Keep Em Down On The Farm"</h3>
-<div> 
-</div> <h3>Video Highlights:</h3>
-<div> {{< youtube "videoseries" >}}</div> <p></div> 
-<p>@andrewbird</p>
+<iframe src="https://open.spotify.com/embed/track/0d79BhweRgxqySiFBYelDg" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/69zgVn6XO4OWlXaVobQNQt" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/1AJ6dy0kvwMqGNPAT8XlJp" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/0kKqA2QBer4zpchr06o5NS" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/6BWZDKJeVXZBv4Ato2lMDx" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/7cT69XDzJylSPLiPNVCbhv" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/4c2LVTyU1XIfwNJHPVfvCM" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

@@ -3,24 +3,17 @@ title: "Little Jerry Williams"
 slug: "little-jerry-williams"
 date: 2025-01-16
 layout: post
+era:
+  - "2000s-2010s"
+genre:
+  - "northern soul"
 tags:
   - '@swampdogg'
   - '@littlejerrywilliams'
 ---
 
-<!-- Title of the Post -->
-<h1>BigBanonos Favorite Songs by Little Jerry Williams</h1> <!-- Introductory Text -->
-<p>Little Jerry Williams, known for his electrifying soul and rhythm and blues, continues to charm listeners with timeless tracks. BigBanonos highlights some of his best work from the classic era of R&B.</p> <!-- Featured Image -->
-<div> {{< img-lite src="https://f4.bcbits.com/img/0014272700_25.jpg" alt="Little Jerry Williams" >}}
-</div> <!-- Spotify Embed -->
-<div> 
-</div> <!-- Song Information -->
-<h3>Top Tracks by Little Jerry Williams:</h3>
- <!-- YouTube Embed -->
-<div> {{< youtube "t3NYZgh-0EQ" >}}
-</div> <!-- Footer Links -->
-<hr />
-<p>Rediscover the timeless soul of Little Jerry Williams on <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Explore our curated playlists on <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and follow us on <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a> for more music insights.</p> 
-<p>@littlejerrywilliams</p>
+<iframe src="https://open.spotify.com/embed/track/4ze1RS251chHoJE7oI8foA" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/068qdA1vvBOpPALxyWuKV9" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/6ptY5bk34AQ6Nnl1VonLRk" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

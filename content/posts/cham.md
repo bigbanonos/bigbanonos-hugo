@@ -3,6 +3,14 @@ title: "Cham"
 slug: "cham"
 date: 2006-08-14
 layout: post
+era:
+  - "2000s-2010s"
+genre:
+  - "dancehall"
+  - "ragga"
+  - "reggae"
+  - "soca"
+  - "riddim"
 tags:
   - '@cham'
   - '@cham-rihanna'
@@ -13,18 +21,6 @@ tags:
   - 'soca'
 ---
 
-## Cham
+<iframe src="https://open.spotify.com/embed/track/00bnP8RyknzZMkNlEAO2ih" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-_2 tracks, all from 2006._
-
----
-
-**Ghetto Story**
-*Ghetto Story (Explicit Content U.S. Version)* · 2006 · 4:11
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/00bnP8RyknzZMkNlEAO2ih" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**Boom Boom (feat. Rihanna)** (feat. Cham;Rihanna)
-*Ghetto Story (Explicit Content U.S. Version)* · 2006 · 4:13
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0lpVcLhe9jqBbuAkymFlP9" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe src="https://open.spotify.com/embed/track/0lpVcLhe9jqBbuAkymFlP9" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

@@ -3,11 +3,23 @@ title: "Sibylle Baier"
 slug: "sibylle-baier"
 date: 2024-12-20
 layout: post
+era:
+  - "1900s"
+  - "2000s-2010s"
+genre:
+  - "folk"
+  - "disco"
+  - "philly soul"
 tags:
   - '@sibyllebaier'
 ---
 
-<h1>BigBanonos Top Songs by Sibylle Baier</h1> {{< img-lite src="https://sibyllebaier.com/wp-content/uploads/2020/01/robby-and-sibylle.jpg" alt="Sibylle Baier" >}} <p>Sibylle Baiers folk music offers a melancholic and timeless vibe. Here are BigBanonos favorite songs:</p>  <div> 
-</div> 
+<iframe src="https://open.spotify.com/embed/track/2JIVtls9Jf9nAosUbFzbyw" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/4LzQNP2DiVMvQtRobn5iX1" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/61EOCM7gO9689jcDPm8CJj" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/5WwRKYnVy9dekqXAGPbAvU" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/3pVCGj0ks3DdPB8d5D6Kxw" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

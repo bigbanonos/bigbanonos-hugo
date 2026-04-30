@@ -3,16 +3,19 @@ title: "Foushee"
 slug: "foushee"
 date: 2024-12-21
 layout: post
+era:
+  - "2020s"
+genre:
+  - "indie r&b"
+  - "rap"
+  - "hip hop"
+explicit: true
 tags:
   - '@foushee'
   - '@lilwayne'
   - '@stevelacy'
 ---
 
-<h3><em>BigBanonos</em> Favorite Songs by FousheÃƒÆ’Ã‚©:</h3> <p>Updated on June 4, 2021, with the standout track "candy grapes" featuring Steve Lacy. Discover <em>BigBanonos</em> favorite FousheÃƒÆ’Ã‚© hits, blending alternative R&B and indie vibes.</p> <!--Image-->
- <!--Spotify Playlist Embed-->
- <!--Song Listings-->
- 
-<p><em>Be sure to check out more songs fromÃƒâ€šÃ‚ </em><i>FousheÃƒÆ’Ã‚© from her <a href="https://bigbanonos.blogspot.com/2022/07/steve-lacy-2-songs.html" target="_blank">features with Steve Lacy</a>Ãƒâ€šÃ‚ and <a href="https://bigbanonos.blogspot.com/2022/07/steve-lacy-2-songs.html" target="_blank">Vince Staples - from the BigBanonos top 18 song list.</a></i></p>
-{{< youtube "aBmipUOg1Qw" >}}
-<hr />
+<iframe src="https://open.spotify.com/embed/track/4emJOvmhqWJAxpwB7c9JJw" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/7yOEBtOgzkgN52pfM7SOnm" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

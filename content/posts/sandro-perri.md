@@ -3,23 +3,13 @@ title: "Sandro Perri"
 slug: "sandro-perri"
 date: 2019-09-06
 layout: post
+era:
+  - "2000s-2010s"
 tags:
   - '@sandro-perri'
   - '00s-10s'
 ---
 
-## Sandro Perri
+<iframe src="https://open.spotify.com/embed/track/79nIAgXfQs39uY2dETRaeA" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-_2 tracks between 2018 and 2019._
-
----
-
-**In Another Life - Edit**
-*In Another Life (Edit)* · 2018 · 5:51
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5Q3WVC2AievjzG5popM8w2" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**Time (You Got Me)**
-*Soft Landing* · 2019 · 16:10
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/79nIAgXfQs39uY2dETRaeA" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe src="https://open.spotify.com/embed/track/5Q3WVC2AievjzG5popM8w2" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

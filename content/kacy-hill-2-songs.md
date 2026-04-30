@@ -3,16 +3,15 @@ title: "Kacy Hill"
 slug: "kacy-hill"
 date: 2024-10-29
 layout: post
+era:
+  - "2020s"
+genre:
+  - "indie electronic"
 tags:
   - '@kacyhill'
   - '@nourishedbytime'
 ---
 
-<h2>Kacy Hill: BigBanonos Top Songs</h2>
-<p>Updated May 3, 2024, with "My Day Off"</p>
-<p>Explore <strong>Kacy Hills</strong> top tracks, handpicked by BigBanonos, highlighting her unique pop stylings and introspective lyrics.</p> <h3>Playlist</h3>
- <h3>Songs</h3>
- <img alt="Kacy Hill" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfNSDWD0qdVo9ApZaM4DQ1QtYJelaGHqfQCtTPSCYm6JmVDuZc" width="100%" /> <p>BigBanonos favorite Kacy Hill tracks, including her feature in Jim-E Stacks 2020 hit "<a href="https://bigbanonos.blogspot.com/2020/07/jim-e-stack.html">Can We</a>," offer a fresh pop perspective. Enjoy her standout singles on BigBanonos.</p>
-<p><br /></p>
+<iframe src="https://open.spotify.com/embed/track/6GUv3PAHoR1IVoonUmiSFi" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/0iHYfiXZcUlO4jrJseBXAw" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

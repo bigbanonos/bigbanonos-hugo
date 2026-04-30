@@ -3,16 +3,22 @@ title: "leikeli47"
 slug: "leikeli47"
 date: 2024-12-20
 layout: post
+era:
+  - "2000s-2010s"
+  - "2020s"
+genre:
+  - "ballroom vogue"
+explicit: true
 tags:
   - '@leikeli47'
 ---
 
-<h1>Leikeli47 - Top Songs</h1>
-<img alt="Leikeli47 Press Photo" src="https://media.npr.org/assets/img/2019/03/22/image-from-ios_wide-f063dbfd9a4cec513048b1c1f8ca1ccb1fe2d04c.jpg" /> <p>BigBanonos favorite tracks by Leikeli47 deliver a dynamic fusion of alternative R&B, escape room, and trap queen vibes. Here are three of her standout tracks:</p>  <div> 
-</div>
-{{< youtube "videoseries" >}}
-<br />
-<p>Explore the powerful, unapologetic energy of Leikeli47s music, where each track reflects her unique blend of genres and style.</p> 
-<p>@leikeli47</p>
+<iframe src="https://open.spotify.com/embed/track/5Nrs7wLz8uM8EZlMjRNw2U" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/61aj5xAz6vS2ElIMT4nFqu" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/7MGPr84RIWHL9Zz9xLHe93" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/1lAGdqI4Wwa8G0XTP6VqHl" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/7wfQfnNFGWLD0BzcDngCRg" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

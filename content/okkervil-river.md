@@ -3,21 +3,53 @@ title: "Okkervil River"
 slug: "okkervil-river"
 date: 2025-01-16
 layout: post
+era:
+  - "2000s-2010s"
+  - "2020s"
+genre:
+  - "indie folk"
 tags:
   - '@okkervilriver'
 ---
 
-<!-- Title of the Post -->
-<h1>BigBanonos Favorite Songs by Okkervil River</h1> <!-- Introductory Text -->
-<p>Okkervil Rivers discography weaves heartfelt storytelling with lush instrumentation, making them a standout in the indie and folk-rock world. This comprehensive list highlights their most evocative and memorable tracks, spanning their illustrious career.</p> <!-- Featured Image -->
-<div> {{< img-lite src="https://e-cdns-images.dzcdn.net/images/artist/e8cc3331ae094e3c78a9a775ff860b0d/500x500-000000-80-0-0.jpg" alt="Okkervil River" >}}
-</div> <!-- Spotify Embed -->
-<div> 
-</div> <!-- Song Information -->
-<h3>Top Songs by Okkervil River:</h3>
- <!-- Footer Links -->
-<hr />
-<p>Explore Okkervil Rivers timeless discography on <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Check out more curated favorites on our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> channel and follow us on <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p> 
-<p>@okkervilriver</p>
+<iframe src="https://open.spotify.com/embed/track/3hk1lrf4lkc8TDSKvxQSkq" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/4vkDVNTK0vmkRJatTl8HpC" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/3OHiJFGblFsPs0MT27VsN2" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/2X3OTtBAf1j2VOOqZ4KUGp" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/24VvfHJ8Ja1qnFIcDeXTLJ" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/5oAHUdhHbg6wJ3lkmqi3YE" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/3uJPVfbhRYpMXYh2rHYna8" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/7LKv99xL1zPXNHhVMhBf07" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/7LIgP4ObA2R2tC7LNVxc4i" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/5QhPiUySPmu8WRgyXQRLZX" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/31HRDL3nN2BURWwLZKtXRf" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/6U8jVeQPd3g3P5808pJfy1" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/7LjkeqhnJgEgIOGLyNi6HE" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/1UlXUeN5aPvkJ6w6Elk2YG" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/0X5gSxK9MN1FfnnZWKiVhO" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/1drLMQUNNVDJxwsxdHrdbm" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/70R175eDqtOJb5SeSt9yib" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/79oF5cblUALp6en6gURb6q" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/0SY6stNUqPkpI60CxK15uO" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/4hA7jPQaHQq3uc7mu2ZKeZ" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/3Bm9CsRaCg4FDRfnX0XW71" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

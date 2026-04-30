@@ -3,13 +3,41 @@ title: "Ted Leo"
 slug: "ted-leo"
 date: 2024-12-17
 layout: post
+era:
+  - "2000s-2010s"
+genre:
+  - "power pop"
+  - "indie rock"
 tags:
   - '@tedleo'
 ---
 
-<h1>BigBanonos Top Songs by Ted Leo</h1>
+<iframe src="https://open.spotify.com/embed/track/0PkqVbqo5Y9CLMayxMmf4i" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<p>Ted Leo and the Pharmacists bring a unique energy to indie rock with a punk edge and introspective lyrics. Here are BigBanonos top selections in order of most recently released:</p>  <div> 
-</div> <p>Explore more on <a href="https://bigbanonos.blogspot.com/">BigBanonos</a>, or check out BigBanonos on <a href="https://www.youtube.com/@BigBanonos">YouTube</a> and <a href="https://x.com/bigbanonos">Twitter</a>.</p> 
+<iframe src="https://open.spotify.com/embed/track/4vBO3iPTa7yH88pqdMyOhw" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/02qW1m2eo7zPGWPlUGFDzC" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/3v932ol3HyDHfRIr1HQNQn" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/6Z25W20AYhs4lDZ7u273wB" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/4dX4KMAuR0PgVzvMIwGvIm" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/02ePLmR1A5hSSkIuD2S3Zq" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/4wLE9EZjvlqohalz23eIC9" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/3wUCqaJh5mdA1fxBGDjIwp" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/7MgTipXW8eSBbTiGIEv8A5" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/6AxLbtdY1Aygungnqo3mRk" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/559MUQkT32fC1KZ8dHKMmH" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/7aepCrmCaypszWxtEGTyii" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/569n8Nvn74MCzJf4ei9ASX" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/27zqpiDGAR6C2bRbHd0g61" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

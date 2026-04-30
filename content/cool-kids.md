@@ -3,18 +3,13 @@ title: "Cool Kids"
 slug: "cool-kids"
 date: 2024-12-17
 layout: post
+era:
+  - "2000s-2010s"
 tags:
   - '@coolkids'
   - '@lilwayne'
 ---
 
-<h2>The Cool Kids – Essential Tracks</h2> <div > <img src="https://www.brooklynvegan.com/files/img/music/coolkids.jpg" alt="The Cool Kids" width="500" />
-</div>  <h3>#NotOnSpotify Highlight</h3>
-<p>The track <strong>"A Little Bit Cooler"</strong> is unavailable on Spotify, but you can play it from YouTube below:</p>
-{{< youtube "AY2lyILIYOU" >}} <h3>Tracklist</h3>
-<ul> <li><strong>A Little Bit Cooler</strong> – <em>The Bake Sale (Radio Version)</em> (2008)</li> <li><strong>Bassment Party</strong> – <em>The Bake Sale</em> (2008)</li>
-</ul> <h3>Highlights</h3>
- <h3>Tags</h3>
-<p>@thecoolkids, @lilwayne</p> <p>For more playlists and deep dives into The Cool Kids music, check out <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a> and subscribe to our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube channel</a>.</p>
+<iframe src="https://open.spotify.com/embed/track/1lh36JbC8dVYhibRk3o3Im" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/00awbwS0oiNm97iOCQzuYI" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

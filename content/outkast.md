@@ -3,6 +3,16 @@ title: "Outkast"
 slug: "outkast"
 date: 2025-02-10
 layout: post
+era:
+  - "1900s"
+  - "2000s-2010s"
+genre:
+  - "southern hip hop"
+  - "hip hop"
+  - "horrorcore"
+  - "crunk"
+  - "trance"
+explicit: true
 tags:
   - '@jazzepha'
   - '@gangstaboo'
@@ -11,28 +21,28 @@ tags:
   - '@eco'
 ---
 
-<!-- Title of the Post -->
-<h1>BigBanonos Favorite Songs by Outkast</h1> <!-- Featured Image -->
-<div> {{< img-lite src="https://i.scdn.co/image/ab67616d00001e022350e31bc346a6c20e9de166" alt="Outkast" >}}
-</div> <!-- Spotify Embed -->
-<div> 
-</div> <!-- Song Information --> <p><strong>Updated January 24, 2006 with "Hey Ya!" from <em>NOW #1s</em></strong></p> <p><strong>"Hey Ya!"</strong> – <em>NOW #1s</em> (2006)</p>
-<p><strong>"Prototype"</strong> – <em>Speakerboxxx/The Love Below</em> (Arista, 2003)</p>
-<p><strong>"Unhappy"</strong> – <em>Speakerboxxx/The Love Below</em> (Arista, 2003)</p>
-<p><strong>"Bowtie (feat. Sleepy Brown & Jazze Pha)"</strong> – <em>Speakerboxxx/The Love Below</em> (Arista, 2003)</p>
-<p><strong>"B.O.B. - Bombs Over Baghdad"</strong> – <em>Stankonia</em> (Arista, 2000)</p>
-<p><strong>"So Fresh, So Clean"</strong> – <em>Stankonia</em> (Arista, 2000)</p>
-<p><strong>"Ms. Jackson"</strong> – <em>Stankonia</em> (Arista, 2000)</p>
-<p><strong>"Ill Call B4 I Cum (feat. Gangsta Boo & Eco)"</strong> – <em>Stankonia</em> (Arista, 2000)</p>
-<p><strong>"Rosa Parks"</strong> – <em>Aquemini</em> (Arista/LaFace Records, 1998)</p>
-<p><strong>"Da Art of Storytellin (Pt. 1)"</strong> – <em>Aquemini</em> (Arista/LaFace Records, 1998)</p>
-<p><strong>"SpottieOttieDopaliscious"</strong> – <em>Aquemini</em> (Arista/LaFace Records, 1998)</p>
-<p><strong>"ATLiens"</strong> – <em>ATLiens</em> (Arista/LaFace Records, 1996)</p>
-<p><strong>"Crumblin Erb"</strong> – <em>Southernplayalisticadillacmuzik</em> (Arista/LaFace Records, 1994)</p> <!-- Additional Highlights -->
-<h3>Additional Highlights:</h3>
- <!-- Footer Links -->
-<div > <p>Discover more about Outkast on <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Visit our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> channel and follow us on <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p>
-</div> 
-<p >Tags: @outkast,</p>
+<iframe src="https://open.spotify.com/embed/track/5dBdCRTTkibsoj93j1PLvi" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/1QJb6LWvPXZpTMiqqODqkH" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/5voPrNQYQ4kQoRZ9A2NghB" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/5fz2Z7m0u2AKCkdrGKXHtC" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/6F1nkRSfNUh3FcoSmuO4fu" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/3WibbMr6canxRJXhNtAvLU" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/6glsMWIMIxQ4BedzLqGVi4" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/0I3q5fE6wg7LIfHGngUTnV" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/0shK5iZQppbHPQYiy60xs9" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/4GdB5M7GbwLZLouktYocFC" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/1KQymTxNJfWk6vCD5ywKW2" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/2vfvGlqCB7oertO5VLE0sz" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/3T790QTg0ebUUk5tCRbtbN" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

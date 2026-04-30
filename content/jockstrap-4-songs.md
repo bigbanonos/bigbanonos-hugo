@@ -3,14 +3,18 @@ title: "Jockstrap"
 slug: "jockstrap"
 date: 2024-12-20
 layout: post
+era:
+  - "2020s"
+genre:
+  - "art pop"
 tags:
   - '@jockstrap'
 ---
 
-<h1>Dive into Jockstraps Unique Sound: 4 Essential Tracks</h1>
-{{< img-lite src="https://media.pitchfork.com/photos/5e84bcfde4c42e0008da7c8a/2:1/w_2560%2Cc_limit/jockstrapheader.jpg" alt="Jockstrap Album Art" >}} <p>London indie duo Jockstrap, known for their crank wave style and genre-blending sound, brings you some of their most compelling tracks. Explore their hit releases from the album <em>I Love You Jennifer B</em> along with standout singles that showcase their bold and eclectic musical style.</p>  <div> 
-</div> <p>Jockstraps dynamic, genre-bending sound offers a fresh take on indie rock, with tracks like <strong>"Greatest Hits"</strong> and <strong>"Concrete Over Water"</strong> capturing both a haunting ambiance and electrifying energy. Perfect for fans of Londons indie scene and crank wave alike.</p> <div> <p>For more artist explorations, visit BigBanonos: <a href="https://bigbanonos.blogspot.com/">Website</a> | <a href="https://www.youtube.com/@BigBanonos">YouTube</a> | <a href="https://x.com/bigbanonos">Twitter</a></p>
-</div> 
-<p>@jockstrap</p>
+<iframe src="https://open.spotify.com/embed/track/5eWKybWrLV0JyI2rU0NfA1" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/3cGzzigX6yFfqYBLJD5JhL" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/4yBkKSNDihdHWcFQuSRkKV" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/0lARtu6GY3Nkm17tSSSxSJ" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

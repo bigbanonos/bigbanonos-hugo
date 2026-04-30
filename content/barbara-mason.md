@@ -3,21 +3,22 @@ title: "Barbara Mason"
 slug: "barbara-mason"
 date: 2025-01-17
 layout: post
+era:
+  - "1900s"
+genre:
+  - "philly soul"
 tags:
   - '@barbaramason'
 ---
 
-<!-- Title of the Post -->
-<h1 >BigBanonos Favorite Songs by Barbara Mason</h1> <!-- Featured Image -->
-<div > {{< img-lite src="https://i.scdn.co/image/ab67616d0000b273351274f527065d0d5e78d9c5" alt="Barbara Mason" >}}
-</div> <!-- Spotify Embed -->
-<div > 
-</div> <!-- Introductory Text -->
-<p >Barbara Masons soulful ballads and classic Philly sound shine in these timeless tracks. From "Yes, Im Ready" to "Darling Come Back Home," here are BigBanonos favorite picks.</p> <!-- Song Highlights -->
-<div > <p>BigBanonos standout picks:</p> 
-</div> <!-- Footer Links -->
-<div > <p>Explore more soul classics at <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Follow for updates on <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p>
-</div> 
-<p >Tags: @barbaramason</p>
+<iframe src="https://open.spotify.com/embed/track/0CCL62g05IWcMruWqzCbis" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/67x5PxH6RZAW7FXdVpXGKo" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/10IBTu8gY4srVpgqSuHz8Q" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/0ARAvN0l7iViWw15JtsU3E" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/2gZpW5pTZkimGG98loFSl2" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/3aLMilJgzNmCDUbO9ghRug" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

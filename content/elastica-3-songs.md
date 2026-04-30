@@ -3,14 +3,18 @@ title: "Elastica"
 slug: "elastica"
 date: 2025-01-12
 layout: post
+era:
+  - "1900s"
+genre:
+  - "britpop"
+  - "madchester"
+  - "riot grrrl"
 tags:
   - '@elastica'
 ---
 
-<p><strong>BigBanonos Top 3 Elastica Songs</strong></p>
-<p>Updated January 1, 1995Ãƒâ€šÃ‚ with <i>Stutter</i></p>
+<iframe src="https://open.spotify.com/embed/track/53LZqMzQEnjBkFXPqOq0cD" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
- 
-<p>Ãƒâ€šÃ‚ </p>
+<iframe src="https://open.spotify.com/embed/track/3ZGQMBLN5qpkR6R5qEuuUm" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/0d5BPvJhvlyV30xu88DOVW" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

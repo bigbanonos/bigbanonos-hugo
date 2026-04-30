@@ -3,15 +3,20 @@ title: "Zacari"
 slug: "zacari"
 date: 2024-10-31
 layout: post
+era:
+  - "2020s"
+genre:
+  - "trap soul"
+explicit: true
 tags:
   - '@tydolla$ign'
   - '@zacari'
 ---
 
-<h2>BigBanonos Favorite 4 Songs by Zacari</h2>
-<p>These four selections capture the depth and unique sound of Zacari, blending elements of hip hop, R&B, and trap.Ãƒâ€šÃ‚ </p>  <!--Spotify Playlist Embed-->
- <!--Image-->
-<img alt="Zacari Album Cover" src="https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2019%2F10%2Fconversations-with-zacari-hypebeast-interview-2019-tw.jpg?w=960&cbr=1&q=90&fit=max" /> 
-<p>Dont miss these standout tracks and the playlist, and join BigBanonos on the hunt for more #NotOnSpotify gems! For more recommendations, subscribe toÃƒâ€šÃ‚ <a href="https://www.youtube.com/channel/UCLKYEvwP847OahjcnkYMhjg">BigBanonos on YouTube</a>!</p>
+<iframe src="https://open.spotify.com/embed/track/5JIMe6lzagldGkyKSpiFIU" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/3FjHTALrJ66zzELMcge5vn" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/5UzLPjUzrIStZCocniiH1y" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/7Dy7izxbxLPATVQQ5VRbS5" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

@@ -3,15 +3,16 @@ title: "Heavenly"
 slug: "heavenly"
 date: 2024-12-21
 layout: post
+era:
+  - "1900s"
+genre:
+  - "jangle pop"
+  - "riot grrrl"
 tags:
   - '@heavenly'
   - '@calvinjohnson'
 ---
 
-<h1>BigBanonos 2 Favorite Songs by Heavenly</h1>
-<img alt="Heavenly" src="https://i.scdn.co/image/e9515beaabe2268bd5e1c018681514ef327cd04c" /> <p>This collection of BigBanonos favorite tracks by Heavenly captures the essence of twee pop and indie charm. These songs showcase the bands distinctive, playful style that helped define the c86 and tape club scenes.</p>  <div> 
-</div> <p>first posted by <a href="https://bigbanonos.blogspot.com/">https://bigbanonos.blogspot.com/</a></p> <div> <p>Explore more BigBanonos content: <a href="https://bigbanonos.blogspot.com/">Website</a> | <a href="https://www.youtube.com/@BigBanonos">YouTube</a> | <a href="https://x.com/bigbanonos">Twitter</a></p></div><div>
-</div> 
-<p>@heavenly,@calvinjohnson</p>
+<iframe src="https://open.spotify.com/embed/track/4IiXEeH2j5FAVfCncumgXw" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/08mk6DH2nTVwlrQTE0Hunr" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

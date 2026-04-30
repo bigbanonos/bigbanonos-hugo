@@ -3,23 +3,13 @@ title: "Claire George"
 slug: "claire-george"
 date: 2021-05-21
 layout: post
+era:
+  - "2020s"
 tags:
   - '@claire-george'
   - '2020s'
 ---
 
-## Claire George
+<iframe src="https://open.spotify.com/embed/track/6EIxJVh3T5O8nkezu4qGYr" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-_2 tracks, all from 2021._
-
----
-
-**Pink Elephants**
-*Pink Elephants* · 2021 · 4:46
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2By3PicZE6yfAMyYuSqjji" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**Northern Lights**
-*The Land Beyond the Light* · 2021 · 4:18
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6EIxJVh3T5O8nkezu4qGYr" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe src="https://open.spotify.com/embed/track/2By3PicZE6yfAMyYuSqjji" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

@@ -3,14 +3,18 @@ title: "Drama"
 slug: "drama"
 date: 2024-12-17
 layout: post
+era:
+  - "2000s-2010s"
+genre:
+  - "crunk"
+  - "southern hip hop"
+explicit: true
 tags:
   - '@drama'
 ---
 
-<h2>Drama – Essential Tracks</h2> <div > <img src="https://i.ytimg.com/vi/rE1ZIfbXVKY/sddefault.jpg" alt="Drama" width="400" />
-</div>  <h3>Tracklist</h3>
-<ul> <li><strong>Double Time (Dramas Cadence)</strong> – <em>Causin Drama</em> (2000)</li> <li><strong>Left, Right, Left</strong> – <em>Causin Drama</em> (2000)</li> <li><strong>The Plot</strong> – <em>Causin Drama</em> (2000)</li>
-</ul> <h3>Tags</h3>
-<p>@drama</p> <p>Explore more music and playlists featuring Drama on <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>, and dont forget to subscribe to our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube channel</a> for additional hip-hop highlights!</p>
+<iframe src="https://open.spotify.com/embed/track/0fx8GFekg0YfJVZOy1iIrQ" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/0vk5b6kj3QISHg4fpRPi6n" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/05V5UhopXoyKmAUA0MBRZ2" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

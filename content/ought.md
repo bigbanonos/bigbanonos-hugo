@@ -3,20 +3,14 @@ title: "Ought"
 slug: "ought"
 date: 2025-01-16
 layout: post
+era:
+  - "2000s-2010s"
+genre:
+  - "post-punk"
 tags:
   - '@ought'
 ---
 
-<!-- Title of the Post -->
-<h1>BigBanonos Favorite Songs by Ought</h1> <!-- Featured Image -->
-<div> {{< img-lite src="https://i.scdn.co/image/ab6761610000e5ebb6dd67b20cbb1d16fbbf6403" alt="Ought" >}}
-</div> <!-- Spotify Embed -->
-<div> 
-</div> <!-- Song Information -->
-<h3>Top Songs by Ought:</h3>
- <!-- Footer Links -->
-<div > <p>Explore more about Ought on <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Visit our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> channel and follow us on <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p>
-</div> 
-<p >Tags: @ought,</p>
+<iframe src="https://open.spotify.com/embed/track/2id3yB9tZdbpjCp2tkjhXn" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/0UT3lKFiynoSzRFF07ksir" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

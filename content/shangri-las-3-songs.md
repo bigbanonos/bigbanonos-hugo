@@ -3,12 +3,18 @@ title: "Shangri Las"
 slug: "shangri-las"
 date: 2024-12-17
 layout: post
+era:
+  - "1900s"
+genre:
+  - "doo-wop"
 tags:
   - '@shangri-las'
 ---
 
-<h1>BigBanonos Top Songs by The Shangri-Las</h1>
-<img alt="The Shangri-Las" src="https://cdn.britannica.com/85/213685-050-64B35B31/American-musical-group-The-Shangri-Las-circa-1964.jpg" /> <p>The Shangri-Las classic girl-group sound defined an era. Here are BigBanonos top selections:</p>  <div> 
-</div>
+<iframe src="https://open.spotify.com/embed/track/3oXZc7JQUfqs29lpyQFny6" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/1uV3VScw434Wp8vZsZfkra" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/6O5PIO5pAWxdoxvaUFQ02G" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/2nCMkTfSIjCSN7OjdQK1AC" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

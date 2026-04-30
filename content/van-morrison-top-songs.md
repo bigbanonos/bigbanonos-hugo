@@ -3,15 +3,18 @@ title: "Van Morrison"
 slug: "van-morrison"
 date: 2024-12-20
 layout: post
+era:
+  - "1900s"
+  - "2000s-2010s"
+genre:
+  - "christmas"
 tags:
   - '@michaelbuble'
   - '@vanmorrison'
 ---
 
-<h1>BigBanonos Favorite Songs by Van Morrison</h1>
-{{< img-lite src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Van_Morrison_%281972%29.png/220px-Van_Morrison_%281972%29.png" alt="Van Morrison" >}} <p>Van Morrison, with his soulful voice and poetic lyrics, has been a cornerstone of rock and folk music for decades. Here are BigBanonos favorite tracks from Van Morrison:</p>  <div> 
-</div> 
-<p><em>Last updated November 14, 2024</em></p>
-<p>Follow BigBanonos on <a href="https://www.youtube.com/@BigBanonos">YouTube</a> and <a href="https://x.com/bigbanonos">Twitter</a> for more music content.</p>
+<iframe src="https://open.spotify.com/embed/track/7mHKh4SM1RrPfGqcSLnzkq" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/11GKxnTs7al7ROmo45NBOb" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/6zsZvVaKK3VR0s7STZUH5u" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

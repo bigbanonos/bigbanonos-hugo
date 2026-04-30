@@ -3,6 +3,12 @@ title: "Tokischa"
 slug: "tokischa"
 date: 2024-12-20
 layout: post
+era:
+  - "2020s"
+genre:
+  - "dembow"
+  - "neoperreo"
+explicit: true
 tags:
   - '@haracakiko'
   - '@rosalia'
@@ -11,11 +17,10 @@ tags:
   - '@tokischa'
 ---
 
-<h1>BigBanonos Favorite Songs by Tokischa</h1>
-{{< img-lite src="https://i.ytimg.com/vi/abb3ObvdBus/maxresdefault.jpg" alt="Tokischa" >}} <p>Tokischas fusion of dembow and Latin rap is both energetic and influential. Here are BigBanonos top picks:</p>  <div> 
-</div> <p>(ft. Haraca Kiko x El Cherry Scom) Tukuntazo [2021]</p>
-{{< youtube "y8jyhfaoly8" >}} 
-<p><em>Last updated November 14, 2024</em></p>
-<p>Follow BigBanonos on <a href="https://www.youtube.com/@BigBanonos">YouTube</a> and <a href="https://x.com/bigbanonos">Twitter</a> for more music content.</p>
+<iframe src="https://open.spotify.com/embed/track/7oYjWdHi4gwPxOkRVWfSUc" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/1ahCrpeTt94LL7y1aXw0Y8" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/7iVvmOpIfC7axJSK2oZNIJ" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/0EaBXOqo6TNIIhHctCbQPi" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

@@ -3,27 +3,18 @@ title: "Young Fathers"
 slug: "young-fathers"
 date: 2025-01-11
 layout: post
+era:
+  - "2000s-2010s"
+  - "2020s"
+genre:
+  - "experimental hip hop"
+explicit: true
 tags:
   - '@youngfathers'
 ---
 
-<div class="post-title"> <h1>BigBanonos Favorite Songs by Young Fathers</h1>
-</div>
-<p>Updated February 3, 2023, with "Sink Or Swim" and "Holy Moly" from the album <i>Heavy Heavy</i>, highlighted in the playlist below:</p>
-<div class="post-image"> {{< img-lite src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Festival_des_Vieilles_Charrues_2018_-_Young_Fathers_-_021.jpg/800px-Festival_des_Vieilles_Charrues_2018_-_Young_Fathers_-_021.jpg" alt="Young Fathers Album Cover" >}}
-</div>
-<p>Young Fathers genre-defying blend of abstract hip hop, art pop, and chamber psych creates a powerful and emotional musical experience. Tracks like "Sink Or Swim" and "Holy Moly" highlight their ability to fuse intricate rhythms with deeply resonant lyrics. Their innovative sound continues to challenge and inspire.</p>
-<p>Listen to the playlist below to experience these tracks and more:</p>
-<div class="spotify-embed"> 
-</div>
-<p>Tracks featured:</p>
-<ul> <li>"Sink Or Swim" – <i>Heavy Heavy</i> (February 3, 2023, Ninja Tune)</li> <li>"Holy Moly" – <i>Heavy Heavy</i> (February 3, 2023, Ninja Tune)</li> <li>"Nest" – <i>White Men Are Black Men Too</i> (April 6, 2015, Big Dada)</li>
-</ul>
-<p>Let Young Fathers electrifying music take you on an unforgettable journey through sound and emotion.</p>
-<hr>
-<div class="post-footer"> <p>Discover more of BigBanonos favorites at:</p> <ul> <li><a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos Blog</a></li> <li><a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a></li> <li><a href="https://x.com/bigbanonos" target="_blank">BigBanonos on X/Twitter</a></li> </ul>
-</div>
-<div class="post-tags"> Tags: @youngfathers,
-</div>
+<iframe src="https://open.spotify.com/embed/track/105fEjEgDVFrp4gAtyNJLY" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/13v05zK25viQGNoZfRGaWH" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/0BV6oacj2oBi06TWvvNEAl" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

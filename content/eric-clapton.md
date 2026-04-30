@@ -3,21 +3,14 @@ title: "Eric Clapton"
 slug: "eric-clapton"
 date: 2025-01-17
 layout: post
+era:
+  - "2020s"
+genre:
+  - "blues"
+  - "blues rock"
+  - "classic rock"
 tags:
   - '@ericclapton'
 ---
 
-<!-- Title of the Post -->
-<h1 >BigBanonos Favorite Songs by Eric Clapton</h1> <!-- Featured Image -->
-<div > {{< img-lite src="https://i.scdn.co/image/ab67616d0000b2736fdebec51a7d1857829f6f87" alt="Eric Clapton" >}}
-</div> <!-- Spotify Embed -->
-<div > 
-</div> <!-- Introductory Text -->
-<p >Eric Clapton, one of the most influential guitarists of all time, shines in tracks like "This Has Gotta Stop" and his iconic blues-infused rock masterpieces.</p> <!-- Song Highlights -->
-<div > <p>BigBanonos standout picks:</p> 
-</div> <!-- Footer Links -->
-<div > <p>Explore Eric Claptons blues and rock legacy on <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Discover more of his iconic hits on <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p>
-</div> 
-<p >Tags: @ericclapton</p>
-
-<hr />
+<iframe src="https://open.spotify.com/embed/track/4okGpUxLAXA75SpCC3bS7a" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

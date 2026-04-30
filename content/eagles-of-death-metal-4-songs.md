@@ -3,14 +3,19 @@ title: "Eagles Of Death Metal"
 slug: "eagles-of-death-metal"
 date: 2024-12-17
 layout: post
+era:
+  - "2000s-2010s"
+genre:
+  - "stoner rock"
+  - "garage rock"
 tags:
   - '@eaglesofdeathmetal'
 ---
 
-<h2>Eagles of Death Metal – Essential Tracks</h2> <div > <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0tJAY1sqvgfaUTBMFCMppMkq4P9_S3p42WQZc0XRvN3tt1xMQ" alt="Eagles Of Death Metal" width="400" />
-</div>  <h3>Tracklist</h3>
-<ul> <li><strong>Now Im a Fool</strong> – <em>Heart On</em> (2008)</li> <li><strong>Heart On</strong> – <em>Heart On</em> (2008)</li> <li><strong>Cherry Cola</strong> – <em>Death By Sexy</em> (2006)</li> <li><strong>I Only Want You</strong> – <em>Peace Love Death Metal</em> (2004)</li> <li><strong>Bad Dream Mama</strong> – <em>Peace Love Death Metal</em> (2004)</li> <li><strong>Prissy Prancin</strong> – <em>Death By Sexy</em> (2008)</li>
-</ul> <h3>Tags</h3>
-<p>@eaglesofdeathmetal</p> <p>Check out more Eagles of Death Metal playlists and top tracks on <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Watch exclusive live performances and music videos on our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube channel</a>!</p>
+<iframe src="https://open.spotify.com/embed/track/35BpC6tZlPofKaYEnfIVIR" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/1oLDaVcNF02KpFTotGQrG3" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/1085jxrrl2758z3yCI0M6D" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/5D1oPeuU4sGUwI5obM4bKZ" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

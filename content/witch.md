@@ -3,27 +3,15 @@ title: "Witch"
 slug: "witch"
 date: 2025-01-11
 layout: post
+era:
+  - "2000s-2010s"
+genre:
+  - "psychedelic rock"
+  - "stoner rock"
 tags:
   - '@witch'
 ---
 
-<div class="post-title"> <h1>BigBanonos Favorite Songs by Witch</h1>
-</div>
-<p>Updated May 22, 2011, with "She Is Mine" and "Lazy Bones" from the album <i>Witch: We Intend to Cause Havoc!</i>, highlighted in the playlist below:</p>
-<div class="post-image"> {{< img-lite src="https://i.guim.co.uk/img/media/c13875b3196988ee344db591a8a28d2a886044ad/28_149_1434_860/master/1434.jpg?width=300&quality=45&auto=format&fit=max&dpr=2&s=f70bc5f2995c741ebfebda8d34061b4a" alt="Witch Album Cover" >}}
-</div>
-<p>Witchs unique blend of afro psych and stoner metal bridges cultural and musical boundaries. Tracks like "She Is Mine" and "Lazy Bones" are standout examples of their pioneering sound, rooted in Zamrock and infused with high-energy rhythms and psychedelic flair.</p>
-<p>Listen to the playlist below to experience these tracks and more:</p>
-<div class="spotify-embed"> 
-</div>
-<p>Tracks featured:</p>
-<ul> <li>"She Is Mine" – <i>Witch: We Intend to Cause Havoc!</i> (May 22, 2011, Now Again Records)</li> <li>"Lazy Bones" – <i>Witch: We Intend to Cause Havoc!</i> (May 22, 2011, Now Again Records)</li>
-</ul>
-<p>Immerse yourself in the hypnotic sounds of Witch and explore their influential contributions to psychedelic and Zamrock music.</p>
-<hr>
-<div class="post-footer"> <p>Discover more of BigBanonos favorites at:</p> <ul> <li><a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos Blog</a></li> <li><a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a></li> <li><a href="https://x.com/bigbanonos" target="_blank">BigBanonos on X/Twitter</a></li> </ul>
-</div>
-<div class="post-tags"> Tags: @witch,
-</div>
+<iframe src="https://open.spotify.com/embed/track/4tnPnuNBRYBmzWmia1M92f" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/0DPKVOCpCrwITGFqH8QLOw" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

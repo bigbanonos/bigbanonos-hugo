@@ -3,6 +3,16 @@ title: "Kanye West"
 slug: "kanye-west"
 date: 2024-12-17
 layout: post
+era:
+  - "2000s-2010s"
+  - "2020s"
+genre:
+  - "rap"
+  - "east coast hip hop"
+  - "old school hip hop"
+  - "hardcore hip hop"
+  - "hip hop"
+explicit: true
 tags:
   - '@justinbieber'
   - '@kanyewest'
@@ -11,13 +21,24 @@ tags:
   - '@pushat'
 ---
 
-<h1>Kanye West: Top Songs</h1>
-<img alt="Kanye West" src="https://themchenrymessenger.com/wp-content/uploads/2019/04/kanye-hospitalized-900x506.jpg" /> <p>Kanye West has been one of hip hops most influential figures, continuously redefining the genre with each album. Heres a selection of his tracks that highlight his evolution from Chicago rap roots to global superstar:</p> <div><br /></div><div><b><u>"See Me Now" is #NotOnSpotify</u></b></div><div><br /></div>
-{{< youtube "-5pIEDvec0g" >}}
-<div> 
-</div> <p>This list spans Kanyes career, from the early socially conscious anthem <strong>"Jesus Walks"</strong> to later introspective tracks like <strong>"Real Friends"</strong> and the innovative, minimalist production of <strong>"New Slaves"</strong>.</p>
-{{< youtube "videoseries" >}} <div> <p>Discover more music recommendations and insights on BigBanonos: <a href="https://bigbanonos.blogspot.com/">Website</a> | <a href="https://www.youtube.com/@BigBanonos">YouTube</a> | <a href="https://x.com/bigbanonos">Twitter</a></p>
-</div> 
-<p>@kanyewest,@pushat</p>
+<iframe src="https://open.spotify.com/embed/track/7f1w2rZoIf7g56McEUTh5W" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/2QpGZOhTCHHiKmpSO9FW4h" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/7GwMPc1Id4sAotVekDP4b2" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/4BsFUZlt8vQ1wH3vlmBu8c" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/4dmCMIu39DqyalBCENwSxk" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/0T3ruvJQNQeTyK7tWKvdoX" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/0HDdyhtep8nLbCbcjFNlcz" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/4cAgkb0ifwn0FSHGXnr4F6" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/0esMJjir6P5YsfQinJANmm" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/3DK6m7It6Pw857FcQftMds" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/79ek2oolIYyGUO4aVK5IY2" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

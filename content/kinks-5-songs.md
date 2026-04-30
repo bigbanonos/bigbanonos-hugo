@@ -3,25 +3,25 @@ title: "Kinks"
 slug: "kinks"
 date: 2025-01-16
 layout: post
+era:
+  - "1900s"
+  - "2000s-2010s"
+genre:
+  - "proto-punk"
+  - "baroque pop"
 tags:
   - '@kinks'
   - '@arthursandtheemigrants'
 ---
 
-<h2 >BigBanonos Favorite Songs by The Kinks</h2> <!-- Introductory Text -->
-<p >Updated July 30 with a previously unreleased track by Arthur & The Emigrants featuring vocals by Ray Davies. The Kinks timeless blend of rock, storytelling, and innovative soundscapes continues to captivate listeners. Explore BigBanonos top picks below!</p> <!-- Featured Image -->
-<div > {{< img-lite src="https://i.scdn.co/image/ab6761610000517481f4e878e8b959fa68f15322" alt="The Kinks - Featured Image" >}}
-</div> <!-- Spotify Playlist Embed -->
-<div > 
-</div> <!-- YouTube Playlist Embed -->
-<div > {{< youtube "videoseries" >}}
-</div> <!-- Song List -->
-<h3 >Top Songs:</h3>
- <!-- Additional Image -->
-<div > {{< img-lite src="https://pmcvariety.files.wordpress.com/2019/07/shutterstock_editorial_9178a-e1564529443102.jpg?w=1000&h=563&crop=1" alt="The Kinks - Band Photo" >}}
-</div> <!-- Footer Links -->
-<hr />
-<p >For more updates, visit <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Also, check out our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> channel and follow us on <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p> 
-<p >Tags: @thekinks,@raydavies,</p>
+<iframe src="https://open.spotify.com/embed/track/151ba5c5hXhLtw62xPQCXy" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/2Q3Cgx2JvsUvpDLEkFx8BG" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/4SI8n9UiUzDUf2FNBFmIra" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/7rmbm7rn4iAxG7d6B30q7A" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/0ZmqeqiMQgWfyMZDEeYHqK" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/1eYPGMJr6Nu3lg8mtb10Mw" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

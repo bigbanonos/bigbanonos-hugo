@@ -3,16 +3,23 @@ title: "Barrie"
 slug: "barrie"
 date: 2024-11-03
 layout: post
+era:
+  - "2000s-2010s"
+  - "2020s"
+genre:
+  - "dream pop"
 tags:
   - '@barrie'
 ---
 
-<h2>BigBanonos Top 6 Favorite Songs by Barrie</h2> <!--Search Description-->
-<p>BigBanonos top 6 favorite songs by Barrie, highlighting her best in Brooklyn indie, chill dream pop, and indie pop. Last updated March 31, 2023, with "Ghost World," "Doesnt Really Matter," and more, highlighted in the playlist below:</p> <!--Spotify Playlist Embed-->
- <!--Song List with Album Info-->
-<ul> <li><strong>Ghost World</strong> – <em>5K</em> – Released March 31, 2023 – Genre: Brooklyn indie, chill dream pop, indie pop</li> <li><strong>Doesnt Really Matter</strong> – <em>Doesnt Really Matter</em> – Released December 13, 2022 – Genre: Brooklyn indie, chill dream pop</li> <li><strong>Jenny</strong> – <em>Jenny</em> – Released February 7, 2022 – Genre: chill dream pop, indie pop</li> <li><strong>Frankie</strong> – <em>Dig / Frankie</em> – Released October 13, 2021 – Genre: Brooklyn indie, indie pop</li> <li><strong>Clovers</strong> – <em>Clovers</em> – Released February 7, 2019 – Genre: Brooklyn indie, indie pop</li> <li><strong>Canyons</strong> – <em>Canyons</em> – Released February 5, 2018 – Genre: Brooklyn indie, chill dream pop</li>
-</ul> <!--Image and Links-->
-<img alt="Barrie Performing" height="auto" src="https://images.squarespace-cdn.com/content/v1/54c960f7e4b0e23a9bd7fc53/1675656939547-GLATJIZEUYWN0IIPZ1E1/Barrie+-+Approved+Artist+-+006.jpg" width="100%" /> <!--Tags Section-->
-<h3>Discover more Brooklyn indie and chill dream pop with <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Subscribe to the <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos YouTube Channel</a> for exclusive tracks and curated playlists, including the <a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist</a>.</h3>
+<iframe src="https://open.spotify.com/embed/track/4dwxdOkBE8OBXD9E6EruGv" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/2lu9ElghP2Z0IB0FB6vXAG" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/2elR3YPD59tkJYEkHP8IOa" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/0SWsTjmoUl1iIsx1Y9smCA" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/3KCFmeudK7tTzshjxDl6m4" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/7K437a0HWYZhSoDmAsE10T" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

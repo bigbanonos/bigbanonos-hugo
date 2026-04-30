@@ -3,17 +3,20 @@ title: "Kath Bloom"
 slug: "kath-bloom"
 date: 2025-02-12
 layout: post
+era:
+  - "2000s-2010s"
+genre:
+  - "electroacoustic"
+  - "avant-garde"
+  - "ambient folk"
+  - "drone"
 tags:
   - '@kathbloom'
   - '@lorenconnors'
 ---
 
-<div> <h2>Kath Bloom</h2> {{< img-lite src="https://i.scdn.co/image/ab67616d0000b27331a7f84aec4470a0c1468a79" alt="Kath Bloom" >}}  <p><strong>BigBanonos favorite tracks by Kath Bloom:</strong></p> <p><strong>"Come Here"</strong> – *Finally* (2006) | Chapter Music</p> <p><strong>"Forget About Him"</strong> – *Finally* (2006) | Chapter Music</p> <p><strong>"The Breeze / My Baby Cries" (feat. Loren Connors)</strong> – *Loving Takes This Course - A Tribute To The Songs Of Kath Bloom* (2009) | Chapter Music</p>
-</div>  <hr /> <!-- YouTube Embed -->
-<div> {{< youtube "iGj1Cv2X0cM" >}}
-</div> <!-- Footer Links -->
-<hr />
-<p>Explore more heartfelt tracks by Kath Bloom on <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Follow us on <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a> for more unique content!</p> 
-<p>@kathbloom,@lorenconnors</p>
+<iframe src="https://open.spotify.com/embed/track/0obqTfFBEWdH5AeElzGf9D" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/0mOZffSZ1Il75K0f3WhhCo" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/4TFH0iBbYDXT0ZcyiTPWkB" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

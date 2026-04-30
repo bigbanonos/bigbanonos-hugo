@@ -3,6 +3,13 @@ title: "Kevin Gates"
 slug: "kevin-gates"
 date: 2022-06-17
 layout: post
+era:
+  - "2000s-2010s"
+  - "2020s"
+genre:
+  - "r&b"
+  - "trap soul"
+explicit: true
 tags:
   - '@kevin-gates'
   - '@kevin-gates-august-alsina'
@@ -13,38 +20,14 @@ tags:
   - 'trap soul'
 ---
 
-## Kevin Gates
+<iframe src="https://open.spotify.com/embed/track/2We63UGhJEyD2x4n74jwpa" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-_6 tracks between 2013 and 2022._
+<iframe src="https://open.spotify.com/embed/track/0wdKiSBUT7aZkXUIdJWcwC" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
----
+<iframe src="https://open.spotify.com/embed/track/2IAaBzOLUtr2hqcwOItFWJ" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-**4:30am**
-*Stranger Than Fiction* · 2013 · 2:46
+<iframe src="https://open.spotify.com/embed/track/6HMHgBHdLBQ0QYIaOp2gse" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0qw5TBa2hxPqiBxwCf6QIM" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe src="https://open.spotify.com/embed/track/2vgSI3HTdzVfjD23ZIuHol" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-**Out the Mud**
-*Out the Mud* · 2014 · 4:01
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2vgSI3HTdzVfjD23ZIuHol" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**I Dont Get Tired (#IDGT) (feat. August Alsina)** (feat. Kevin Gates;August Alsina)
-*Luca Brasi 2: Gangsta Grillz* · 2014 · 3:29
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6HMHgBHdLBQ0QYIaOp2gse" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**2 Phones**
-*Islah (Deluxe)* · 2016 · 4:00
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0wdKiSBUT7aZkXUIdJWcwC" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**Jam (feat. Trey Songz, Ty Dolla $ign and Jamie Foxx)** (feat. Kevin Gates;Trey Songz;Ty Dolla $ign;Jamie Foxx)
-*Islah (Deluxe)* · 2016 · 3:33
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2IAaBzOLUtr2hqcwOItFWJ" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**Hard To Sleep**
-*Khaza* · 2022 · 2:24
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2We63UGhJEyD2x4n74jwpa" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe src="https://open.spotify.com/embed/track/0qw5TBa2hxPqiBxwCf6QIM" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

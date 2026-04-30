@@ -3,23 +3,14 @@ title: "Lupe Fiasco"
 slug: "lupe-fiasco"
 date: 2018-09-21
 layout: post
+era:
+  - "2000s-2010s"
+explicit: true
 tags:
   - '@lupe-fiasco'
   - '00s-10s'
 ---
 
-## Lupe Fiasco
+<iframe src="https://open.spotify.com/embed/track/0BWve9OJvo7ONwfR36Ty6Z" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-_2 tracks between 2015 and 2018._
-
----
-
-**Dots & Lines**
-*Tetsuo & Youth* · 2015 · 6:32
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0jYhHo2DhmdkLfonFbPixV" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**WAV Files**
-*DROGAS WAVE* · 2018 · 6:38
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0BWve9OJvo7ONwfR36Ty6Z" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe src="https://open.spotify.com/embed/track/0jYhHo2DhmdkLfonFbPixV" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

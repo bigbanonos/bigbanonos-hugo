@@ -3,23 +3,14 @@ title: "Hemlocke Springs"
 slug: "hemlocke-springs"
 date: 2026-02-13
 layout: post
+era:
+  - "2020s"
+explicit: true
 tags:
   - '@hemlocke-springs'
   - '2020s'
 ---
 
-## hemlocke springs
+<iframe src="https://open.spotify.com/embed/track/7ENAU5RHg2yeQ0FOSvlF3C" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-_2 tracks, all from 2026._
-
----
-
-**w-w-w-w-w**
-*the apple tree under the sea* · 2026 · 4:26
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7ENAU5RHg2yeQ0FOSvlF3C" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**set me free**
-*the apple tree under the sea* · 2026 · 3:14
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6mnsRbXEYoJ0qsQrL6GcCB" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe src="https://open.spotify.com/embed/track/6mnsRbXEYoJ0qsQrL6GcCB" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

@@ -3,12 +3,20 @@ title: "Jai Paul"
 slug: "jai-paul"
 date: 2024-12-20
 layout: post
+era:
+  - "2000s-2010s"
 tags:
   - '@jaipaul'
 ---
 
-<h2>BigBanonos Favorite Tracks: Jai Paul</h2> <div > <a href="https://images-prod.dazeddigital.com/900/azure/dazed-prod/1030/4/1034695.jpg"> <img src="https://images-prod.dazeddigital.com/900/azure/dazed-prod/1030/4/1034695.jpg" alt="Jai Paul" width="400" /> </a>
-</div> <p><em>BigBanonos</em> dives into the groundbreaking sound of Jai Paul, blending experimental R&B with escape room vibes.</p> <h3>Selected Tracks</h3>
- <p>Stream the Jai Paul playlist:</p>
- <h3>Tags</h3>
-<p>@jaipaul</p> <p>Explore more of Jai Pauls music on <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and follow us on <a href="https://twitter.com/BigBanonos" target="_blank">Twitter</a> for updates!</p> <hr />
+<iframe src="https://open.spotify.com/embed/track/6ysRK6One7O5GiRVvrs0x1" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/13JjdKeIUy6P916p3MemXn" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/2FDVRMuNMw1pz4d03zyrtQ" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/4fo6QymiAvIc2T7SNDWNZq" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/6KQB9mDc4gNT5mEebiKq7R" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/59tpgfXjTc3QR7mWJj8Wln" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

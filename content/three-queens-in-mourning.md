@@ -3,27 +3,15 @@ title: "Three Queens In Mourning"
 slug: "three-queens-in-mourning"
 date: 2025-01-10
 layout: post
+era:
+  - "2020s"
+genre:
+  - "anti-folk"
+  - "alt country"
 tags:
   - '@threequeensinmourning'
 ---
 
-<div class="post-title"> <h1>BigBanonos Favorite Songs by Three Queens In Mourning</h1>
-</div>
-<p>Updated August 9, 2020, with "Christmas Time in the Mountains" from the album <i>Hello Sorrow / Hello Joy</i>, highlighted in the playlist below:</p>
-<div class="post-image"> {{< img-lite src="https://www.headfirstbristol.co.uk/images/events/486/e48685_i51881_s3.jpg" alt="Three Queens In Mourning Album Cover" >}}
-</div>
-<p>Three Queens In Mournings ethereal sounds and Scottish indie folk influences shine brightly in their album <i>Hello Sorrow / Hello Joy</i>. Tracks like "Christmas Time in the Mountains" and "Trudy Dies," released on August 9, 2020, by Textile Records, capture their hauntingly beautiful melodies and introspective lyricism.</p>
-<p>Listen to the playlist below to experience these tracks and more:</p>
-<div class="spotify-embed"> 
-</div>
-<p>Tracks featured:</p>
-<ul> <li>"Christmas Time in the Mountains" – <i>Hello Sorrow / Hello Joy</i> (August 9, 2020, Textile Records)</li> <li>"Trudy Dies" – <i>Hello Sorrow / Hello Joy</i> (August 9, 2020, Textile Records)</li>
-</ul>
-<p>Let the evocative sounds of Three Queens In Mourning transport you to a world of raw emotion and melodic beauty.</p>
-<hr>
-<div class="post-footer"> <p>Discover more of BigBanonos favorites at:</p> <ul> <li><a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos Blog</a></li> <li><a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a></li> <li><a href="https://x.com/bigbanonos" target="_blank">BigBanonos on X/Twitter</a></li> </ul>
-</div>
-<div class="post-tags"> Tags: @threequeensinmourning,
-</div>
+<iframe src="https://open.spotify.com/embed/track/1a4MsIpQmDzSMQuld7dTaA" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/5RXW2s5gF5ovTbUBkPRMNC" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

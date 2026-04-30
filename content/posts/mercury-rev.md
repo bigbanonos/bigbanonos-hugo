@@ -3,6 +3,11 @@ title: "Mercury Rev"
 slug: "mercury-rev"
 date: 1991-06-01
 layout: post
+era:
+  - "1900s"
+genre:
+  - "neo-psychedelic"
+  - "shoegaze"
 tags:
   - '@mercury-rev'
   - '1900s'
@@ -10,13 +15,4 @@ tags:
   - 'shoegaze'
 ---
 
-## Mercury Rev
-
-_1 tracks, all from 1991._
-
----
-
-**Car Wash Hair - Full Pull**
-*Car Wash Hair* · 1991 · 6:44
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6ldjG3WhbOmA2wJfqfAGBV" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe src="https://open.spotify.com/embed/track/6ldjG3WhbOmA2wJfqfAGBV" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

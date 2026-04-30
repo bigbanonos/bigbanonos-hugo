@@ -3,21 +3,33 @@ title: "Japandroids"
 slug: "japandroids"
 date: 2025-01-16
 layout: post
+era:
+  - "2000s-2010s"
+  - "2020s"
+genre:
+  - "noise rock"
+  - "garage rock"
+explicit: true
 tags:
   - '@japandroids'
 ---
 
-<!-- Title of the Post -->
-<h1>BigBanonos Favorite Songs by Japandroids</h1> <!-- Introductory Text -->
-<p>Japandroids, the Canadian indie rock duo, continue to inspire with their raw energy and thrilling anthems. Updated to include their latest track, BigBanonos ranks their top 10 songs, capturing the spirit of their exhilarating discography.</p> <!-- Featured Image -->
-<div> {{< img-lite src="https://i.scdn.co/image/ab67616d00001e02f491e7fdb94588792b12b7fe" alt="Japandroids" >}}
-</div> <!-- Spotify Embed -->
-<div> 
-</div> <!-- Song Information -->
-<h3>Top 10 Japandroids Songs:</h3>
- <!-- Footer Links -->
-<hr />
-<p>Explore more Japandroids tracks and other BigBanonos favorites on <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Dont forget to check out our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> channel and follow us on <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a> for exclusive content!</p> 
-<p>@japandroids</p>
+<iframe src="https://open.spotify.com/embed/track/0mMmoeYuxbMz9wpqyACPR0" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/3uS4xj4hCZfEKYJxZyw0r7" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/2KrsMeItm3gauDyrXWx99Z" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/3sz3L5lVnIClXXcz5WHvBi" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/0E3EhVsxYH3c1QZgDxg7kl" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/4Lugfet0NIViPd1277sTfx" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/25ksgqit6u1KAdkDXGulLz" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/6Hsk7PR1XZFxp5kg2JA758" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/0BKswHLoI030s5TtlvDqLi" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/5aaj6sbn0wh5ASP9aZ6EtC" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

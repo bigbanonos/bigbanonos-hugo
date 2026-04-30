@@ -3,16 +3,28 @@ title: "Beirut"
 slug: "beirut"
 date: 2024-11-22
 layout: post
+era:
+  - "2000s-2010s"
+  - "2020s"
+genre:
+  - "baroque pop"
+  - "indie folk"
 tags:
   - '@beirut'
 ---
 
-<h2>BigBanonos 7 Favorite Songs by Beirut</h2> <!--Search Description-->
-<p>BigBanonos top 7 songs by Beirut, featuring unique blends of baroque pop, chamber pop, and indie rock. Includes iconic tracks like "Elephant Gun" and "Postcards From Italy."</p> <!--Spotify Playlist Embed-->
- <!--Song Listings-->
-<ul> <li>Elephant Gun - <em>Artifacts</em> (2022)</li> <li>East Harlem - <em>The Rip Tide</em> (2011)</li> <li>Santa Fe - <em>The Rip Tide</em> (2011)</li> <li>Nantes - <em>The Flying Club Cup</em> (2007)</li> <li>Postcards From Italy - <em>The Gulag Orkestar</em> (2006)</li> <li>Mount Wrociai (Idle Days) - <em>Gulag Orkestar</em> (2006)</li> <li>Scenic World - <em>Gulag Orkestar</em> (2006)</li><li>Carousels -Ãƒâ€šÃ‚ <em>Gulag Orkestar</em>Ãƒâ€šÃ‚ (2006)</li>
-</ul> <!--Image-->
-<img alt="Beirut band image" height="auto" src="https://www1.picturepush.com/photo/a/13439474/img/13439474.jpg" width="100%" /> <!--Tags Section-->
-<h3>Discover more from BigBanonos favorite indie artists on the <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos blog</a>. For exclusive music videos and live performances, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a>.</h3>
+<iframe src="https://open.spotify.com/embed/track/5loVmc3MmtYGsTw12eDgcU" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/0nkZmqmEJOMuezTZ8N20nY" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/2bxQP85JNU11CQV4KXCnau" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/2hl1kkp765C7KVpirNzkVb" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/1WBSFlSLyOZnSa8fj7a5yC" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/5YAhKEMTGMh6SxTSYcUJl6" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/5mH358XH1zhWckmobpAkIh" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/1rE0CFRH2Ag4Aa03Gu6bhT" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

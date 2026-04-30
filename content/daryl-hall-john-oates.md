@@ -3,21 +3,34 @@ title: "Daryl Hall John Oates"
 slug: "daryl-hall-john-oates"
 date: 2025-01-17
 layout: post
+era:
+  - "1900s"
+  - "2000s-2010s"
+  - "2020s"
+genre:
+  - "yacht rock"
+  - "soft rock"
+  - "nu disco"
 tags:
   - '@darylhallandjohnoates'
 ---
 
-<!-- Title of the Post -->
-<h1 >BigBanonos Favorite Songs by Daryl Hall & John Oates</h1> <!-- Featured Image -->
-<div > {{< img-lite src="https://i.scdn.co/image/ab67616d0000b273f43547de689aabc4c44ab62d" alt="Daryl Hall & John Oates" >}}
-</div> <!-- Spotify Embed -->
-<div > 
-</div> <!-- Introductory Text -->
-<p >Daryl Hall & John Oates have crafted timeless classics with their signature blend of rock and soul. BigBanonos celebrates their hits like "Private Eyes" and "Maneater," along with standout deep cuts.</p> <!-- Song Highlights -->
-<div > <p>BigBanonos standout picks:</p> 
-</div> <!-- Footer Links -->
-<div > <p>Relive these classics and more at <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Follow us on <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p>
-</div> 
-<p >Tags: @darylhallandjohnoates</p>
+<iframe src="https://open.spotify.com/embed/track/3g7wWCTl5C6yKUA4FrZxxH" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/2hqVSWglOnn0hirn5ZsetA" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/539mfW3JF8g9JmXTzbqg4U" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/6MT2voYmjlstKrGgE0q3Mg" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/7j74lucZ59vqN67Ipe2ZcY" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/41dDygR3r7e926oGUXfrLt" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/5HQ639Z3ms3hnZx0KfWnkp" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/0qRR9d89hIS0MHRkQ0ejxX" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/1qjrYozGqc7upUgfN776lZ" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/17SAYbj2TksOCbjqXcyFyA" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

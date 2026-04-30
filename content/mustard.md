@@ -3,6 +3,13 @@ title: "Mustard"
 slug: "mustard"
 date: 2025-02-09
 layout: post
+era:
+  - "2000s-2010s"
+genre:
+  - "melodic rap"
+  - "rage rap"
+  - "west coast hip hop"
+explicit: true
 tags:
   - '@nipseyhussle'
   - '@aboogiewitdahoodie'
@@ -12,7 +19,8 @@ tags:
   - '@mustard'
 ---
 
-<h2>BigBanonos Favorite Songs by Mustard</h2> <p><strong>Updated June 28, 2019, with "Baguettes in the Face" from <em>Perfect Ten</em></strong></p> {{< img-lite src="https://i.scdn.co/image/ab67616d00001e02ee3e8eabeb860d59db289c20" alt="Mustard" >}} <p>Mustards polished production blends melodic rap and West Coast vibes. These are BigBanonos top picks.</p> <h3>Listen on Spotify</h3>  <h3>"Baguettes in the Face" (feat. NAV, Playboi Carti & A Boogie Wit da Hoodie)</h3>
-<p><em>Perfect Ten</em>, 2019</p> <h3>"Perfect Ten" (feat. Nipsey Hussle)</h3>
-<p><em>Perfect Ten</em>, 2019</p> <h3>"Ballin" (with Roddy Ricch)</h3>
-<p><em>Perfect Ten</em>, 2019</p> <hr /> <p><strong>Tags:</strong> @mustard, @nav, @playboicarti, @aboogiewitdahoodie, @nipseyhussle, @roddyricch</p> <hr />
+<iframe src="https://open.spotify.com/embed/track/2zjGJ0dChMR0KxBZS15aqo" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/3QzAOrNlsabgbMwlZt7TAY" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/6GQ82BpN60dzztUWzYojc7" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

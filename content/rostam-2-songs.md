@@ -3,14 +3,13 @@ title: "Rostam"
 slug: "rostam"
 date: 2024-12-20
 layout: post
+era:
+  - "2020s"
+explicit: true
 tags:
   - '@rostam'
 ---
 
-<h1>BigBanonos Top Songs by Rostam</h1>
-<img alt="Rostam" src="https://consequence.net/wp-content/uploads/2017/09/rostam-2016.png" /> <p>Rostams distinct sound combines art pop sensibilities with emotive lyrics, creating music that resonates on multiple levels. Here are BigBanonos top selections:</p>  <div> 
-</div> <p>first posted by <a href="https://bigbanonos.blogspot.com/">https://bigbanonos.blogspot.com/</a></p> <div> <p>Explore more BigBanonos content: <a href="https://bigbanonos.blogspot.com/">Website</a> | <a href="https://www.youtube.com/@BigBanonos">YouTube</a> | <a href="https://x.com/bigbanonos">Twitter</a></p>
-</div> 
-<p>@rostam</p>
+<iframe src="https://open.spotify.com/embed/track/6SUR3eKUDgKHduyCrPaDng" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/240azm4eUSWi4hXU2MLCFM" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

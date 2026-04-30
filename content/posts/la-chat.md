@@ -3,6 +3,13 @@ title: "La Chat"
 slug: "la-chat"
 date: 2001-10-23
 layout: post
+era:
+  - "2000s-2010s"
+genre:
+  - "southern hip hop"
+  - "horrorcore"
+  - "crunk"
+explicit: true
 tags:
   - '@la-chat'
   - '00s-10s'
@@ -11,18 +18,6 @@ tags:
   - 'crunk'
 ---
 
-## La Chat
+<iframe src="https://open.spotify.com/embed/track/1ohul26GEQzSRaL0EethBk" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-_2 tracks, all from 2001._
-
----
-
-**You Aint Mad Iz Ya**
-*Murder She Spoke* · 2001 · 4:36
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1ohul26GEQzSRaL0EethBk" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**Ghetto Ballin**
-*Murder She Spoke* · 2001 · 2:47
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7u9WD7QybOVswwCvQ8eWsk" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe src="https://open.spotify.com/embed/track/7u9WD7QybOVswwCvQ8eWsk" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

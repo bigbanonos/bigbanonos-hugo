@@ -3,6 +3,12 @@ title: "Keri Hilson"
 slug: "keri-hilson"
 date: 2010-01-01
 layout: post
+era:
+  - "2000s-2010s"
+genre:
+  - "rap"
+  - "hip hop"
+explicit: true
 tags:
   - '@keri-hilson'
   - '@keri-hilson-lil-wayne'
@@ -11,18 +17,6 @@ tags:
   - 'hip hop'
 ---
 
-## Keri Hilson
+<iframe src="https://open.spotify.com/embed/track/2Adn2LNgkHMH5TelQVAu4n" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-_2 tracks between 2008 and 2010._
-
----
-
-**Turnin Me On - Original Dirty** (feat. Keri Hilson;Lil Wayne)
-*Turnin Me On (Explicit)* · 2008 · 4:08
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3R6dN42VdwivkZTMz03Rci" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**Pretty Girl Rock**
-*No Boys Allowed* · 2010 · 4:03
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2Adn2LNgkHMH5TelQVAu4n" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe src="https://open.spotify.com/embed/track/3R6dN42VdwivkZTMz03Rci" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

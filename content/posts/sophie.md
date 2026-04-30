@@ -3,6 +3,15 @@ title: "Sophie"
 slug: "sophie"
 date: 2021-01-14
 layout: post
+era:
+  - "2000s-2010s"
+  - "2020s"
+genre:
+  - "hyperpop"
+  - "art pop"
+  - "experimental"
+  - "idm"
+  - "glitch"
 tags:
   - '@sophie'
   - '@sophie-autechre'
@@ -14,33 +23,12 @@ tags:
   - 'idm'
 ---
 
-## SOPHIE
+<iframe src="https://open.spotify.com/embed/track/4tBdLWvYYr5IjJpvwiZr85" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-_5 tracks between 2013 and 2021._
+<iframe src="https://open.spotify.com/embed/track/5djCX0bDd96N89Ayv5Y8Y2" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
----
+<iframe src="https://open.spotify.com/embed/track/02Mkz55cCAHabqlxwSP6X0" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-**Bipp**
-*Bipp / Elle - Single* · 2013 · 3:44
+<iframe src="https://open.spotify.com/embed/track/18yTgk0VgjB9XDj8h2q6Td" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5Q0YoqbVUvdtwJ36ctVuic" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**JUST LIKE WE NEVER SAID GOODBYE**
-*JUST LIKE WE NEVER SAID GOODBYE* · 2015 · 3:08
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/18yTgk0VgjB9XDj8h2q6Td" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**Immaterial**
-*OIL OF EVERY PEARLS UN-INSIDES* · 2018 · 3:52
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/02Mkz55cCAHabqlxwSP6X0" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**Its Okay To Cry**
-*OIL OF EVERY PEARLS UN-INSIDES* · 2018 · 3:50
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5djCX0bDd96N89Ayv5Y8Y2" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**BIPP - Autechre Mx** (feat. SOPHIE;Autechre)
-*BIPP (Autechre Mx)* · 2021 · 3:33
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4tBdLWvYYr5IjJpvwiZr85" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe src="https://open.spotify.com/embed/track/5Q0YoqbVUvdtwJ36ctVuic" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

@@ -3,12 +3,17 @@ title: "Future Islands"
 slug: "future-islands"
 date: 2024-12-17
 layout: post
+era:
+  - "2000s-2010s"
+explicit: true
 tags:
   - '@futureislands'
 ---
 
-<h2>BigBanonos Favorite Tracks: Future Islands – 4 Songs</h2> <div > <a href="https://static.independent.co.uk/2020/10/06/15/newFile-6.jpg"> <img src="https://static.independent.co.uk/2020/10/06/15/newFile-6.jpg" alt="Future Islands" width="400" /> </a>
-</div> <p><em>BigBanonos</em> highlights the best of Future Islands emotionally charged and synth-driven sound with a curated selection of their standout tracks.</p> <h3>Selected Tracks</h3>
- <p>Future Islands Top Songs Playlist:</p>
- <h3>Tags</h3>
-<p>@futureislands</p> <hr />
+<iframe src="https://open.spotify.com/embed/track/54Wrxd2toG9vKHdlUGvXQV" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/522YBf6WqBwJVAe7oHLymu" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/37bbJfK9ck4TZpakWyXwAd" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/2roh7fKqKBoWaH5kHUXtWX" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

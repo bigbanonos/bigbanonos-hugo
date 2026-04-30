@@ -3,10 +3,19 @@ title: "Jessica Pratt"
 slug: "jessica-pratt"
 date: 2024-10-28
 layout: post
+era:
+  - "2000s-2010s"
+  - "2020s"
+genre:
+  - "ambient folk"
 tags:
   - '@jessicapratt'
 ---
 
-<h1>BigBanonos Top 4 Jessica Pratt Songs</h1> <p><strong>Updated May 3, 2024</strong> with "The Last Year". Dive into Jessica Pratts ethereal world with BigBanonos selection of her best songs, capturing the essence of ambient folk and freak folk in contemporary art pop. Her evocative lyrics and distinct sound make each track a journey through quiet reflections and serene landscapes.</p> <div>  </div> <h2>Featured Songs</h2> <ul> <li><strong>The Last Year</strong> - Jessica Pratt | Album: <em>Here in the Pitch</em> (2024)</li> <li><strong>Life Is</strong> - Jessica Pratt | Album: <em>Life Is</em> (2024)</li> <li><strong>This Time Around</strong> - Jessica Pratt | Album: <em>This Time Around</em> (2018)</li> <li><strong>Night Faces</strong> - Jessica Pratt | Album: <em>Jessica Pratt</em> (2012)</li> </ul> <p>{{< img-lite src="https://media.npr.org/assets/img/2019/01/24/jp_wide-1b768ffb96e2639c08a24f1fd3316f08f3d04d09.jpg?s=1400&c=100&f=jpeg" alt="Jessica Pratt Press Image" width="100%" >}}</p> <h3>Jessica Pratts Sonic Exploration in Folk</h3> <p>Jessica Pratts distinctive sound, shaped by ambient folk and freak folk influences, brings an artful sensitivity to the genre. Her recent release "<strong>The Last Year</strong>" underscores her ability to blend haunting melodies with introspective lyrics. Songs like "<strong>This Time Around</strong>" and "<strong>Night Faces</strong>" further showcase her soft, yet impactful style. BigBanonos highlights these tracks as some of her most compelling, inviting listeners to delve into the beauty of minimalist folk. Discover more on <a href="https://bigbanonos.blogspot.com/">BigBanonos homepage</a>.</p>
+<iframe src="https://open.spotify.com/embed/track/5BgoeQzJbjxOc48yH6wPEH" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/3aJrUfPxOANdzY1weAqrgH" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/75rUliprhl9tf4MjPyWBKJ" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/2l6XDDLJeb75safurlAsiK" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

@@ -3,20 +3,13 @@ title: "Sasha Sloan"
 slug: "sasha-sloan"
 date: 2025-01-16
 layout: post
+era:
+  - "2000s-2010s"
+explicit: true
 tags:
   - '@sashasloan'
 ---
 
-<!-- Title of the Post -->
-<h1>BigBanonos Favorite Songs by Sasha Alex Sloan</h1> <!-- Featured Image -->
-<div> {{< img-lite src="https://assets.teenvogue.com/photos/5dded0996f44a90008d03600/master/pass/promo_sasha_sloan.jpg" alt="Sasha Alex Sloan" >}}
-</div> <!-- Spotify Embed -->
-<div> 
-</div> <!-- Song Information -->
-<h3>Top Songs by Sasha Alex Sloan:</h3>
- <!-- Footer Links -->
-<div > <p>Explore more about Sasha Alex Sloan on <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Visit our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> channel and follow us on <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p>
-</div> 
-<p >Tags: @sashasloan,</p>
+<iframe src="https://open.spotify.com/embed/track/2eLDUK7EkpENZkDL9O5yhz" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/2jm0S3dMxpAz5H59z4lOJH" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

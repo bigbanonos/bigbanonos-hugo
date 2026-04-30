@@ -3,22 +3,17 @@ title: "Ben Folds"
 slug: "ben-folds"
 date: 2025-01-17
 layout: post
+era:
+  - "1900s"
+  - "2000s-2010s"
+explicit: true
 tags:
   - '@benfoldsfive'
   - '@benfolds'
 ---
 
-<!-- Title of the Post -->
-<h1 >BigBanonos Favorite Songs by Ben Folds</h1> <!-- Featured Image -->
-<div > {{< img-lite src="https://i.scdn.co/image/ab67616d0000b27353bea47f99592d7232724ed3" alt="Ben Folds" >}}
-</div> <!-- Spotify Embed -->
-<div > 
-</div> <!-- Introductory Text -->
-<p >Ben Folds and Ben Folds Five deliver timeless piano rock gems. From "Phone In A Pool" to the unforgettable "Brick," here are BigBanonos top picks from this exceptional artist and band.</p> <!-- Song Highlights -->
-<div > <p>BigBanonos standout picks:</p> 
-</div> <!-- Footer Links -->
-<div > <p>Explore more heartfelt piano rock at <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Follow us for updates on <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p>
-</div> 
-<p >Tags: @benfolds,@benfoldsfive</p>
+<iframe src="https://open.spotify.com/embed/track/3Hgt1LcixpkyL5ZrWpMnwM" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/3vxqxKLhQDG8BOu65tXi8g" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/4jKq1e80xAYixkIwt6YyV1" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

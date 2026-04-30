@@ -3,19 +3,14 @@ title: "J Kwon"
 slug: "j-kwon"
 date: 2025-01-16
 layout: post
+era:
+  - "2000s-2010s"
+explicit: true
 tags:
   - '@ebonieyes'
   - '@j-kwon'
 ---
 
-<!-- Title of the Post -->
-<h1>BigBanonos Favorite Songs by J-Kwon</h1> <!-- Introductory Text -->
-<p>J-Kwon became a staple in the early 2000s hip-hop scene with his infectious beats and party anthems. BigBanonos revisits his classic tracks that still resonate today.</p> <!-- Featured Image -->
-<div> {{< img-lite src="https://bloximages.newyork1.vip.townnews.com/stltoday.com/content/tncms/assets/v3/editorial/5/eb/5ebcebe4-8e3f-11ef-b3f3-17899f69939d/6717cb9d560be.preview.jpg" alt="J-Kwon" >}}
-</div> <!-- Spotify Embed -->
-<div> 
-</div> <!-- Song Information -->
-<h3>Top Songs:</h3>
-<ul> <li><strong>Tipsy - Club Mix</strong> | Album: <em>Hood Hop</em> | Released: 2002 | Label: Arista</li> <li><strong>Show Your Ass (feat. Eboni Eyes)</strong> | Album: <em>Hood Hop</em> | Released: 2004 | Label: Arista</li>
-</ul> <!-- Footer Links -->
-<hr />
+<iframe src="https://open.spotify.com/embed/track/0jSMveIWvnhDIvzqN74Uc7" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/3cZUKdWFmmr2sfjOIknA4p" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

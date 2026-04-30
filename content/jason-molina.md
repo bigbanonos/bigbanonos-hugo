@@ -3,21 +3,24 @@ title: "Jason Molina"
 slug: "jason-molina"
 date: 2025-01-18
 layout: post
+era:
+  - "2000s-2010s"
+  - "2020s"
+genre:
+  - "slowcore"
+  - "alt country"
+  - "americana"
+  - "anti-folk"
 tags:
   - '@jasonmolina'
 ---
 
-<!-- Title of the Post -->
-<h1 >BigBanonos Favorite Songs by Jason Molina</h1> <!-- Introductory Text -->
-<p >Updated May 21, 2020, with "Shadow Answers the Wall" from <em>Shadow Answers the Wall</em>. Delve into the haunting alternative country of Jason Molina in the playlist below!</p> <!-- Featured Image -->
-<div > <img src="https://i.scdn.co/image/ab67616d0000b2733137b5bcb9cc6901683c8916" alt="Jason Molina" />
-</div> <!-- Spotify Embed -->
-<div > 
-</div> <!-- Song Information -->
-<div > <p><strong>"Shadow Answers the Wall"</strong><br> Genre: Country, Folk/Acoustic<br> Album: <em>Shadow Answers the Wall</em><br> Release Date: May 21, 2020<br> Label: Secretly Canadian</p> <p><strong>"Leave the City - Live"</strong><br> Genre: Country, Folk/Acoustic<br> Album: <em>Live at La Chapelle</em><br> Release Date: May 15, 2020<br> Label: Secretly Canadian</p> <p><strong>"Ill Be Here In the Morning"</strong><br> Genre: Country, Folk/Acoustic<br> Album: <em>The Townes Van Zandt Covers</em><br> Release Date: April 29, 2016<br> Label: Secretly Canadian</p> <p><strong>"Tower Song"</strong><br> Genre: Country, Folk/Acoustic<br> Album: <em>The Townes Van Zandt Covers</em><br> Release Date: April 29, 2016<br> Label: Secretly Canadian</p> <p><strong>"East St. Louis Blues - Live"</strong><br> Genre: Country, Folk/Acoustic<br> Album: <em>Live at La Chapelle</em><br> Release Date: June 7, 2005<br> Label: Secretly Canadian</p>
-</div> <!-- Footer Links -->
-<div > 
-</div> 
-<p >Tags: @jasonmolina,</p>
+<iframe src="https://open.spotify.com/embed/track/5uXg7PBGI5yIJpF2K01xKO" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/1qqwuXwOYk6refQ4qwR9si" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/0m9iW7qw3PXwqyLqQ4bt72" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/7aZjZBfZ86YHmPUOyammKj" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/01kwCvsDTy1r79IkyGlxxM" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

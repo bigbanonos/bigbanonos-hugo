@@ -3,6 +3,12 @@ title: "Zola Jesus"
 slug: "zola-jesus"
 date: 2022-11-18
 layout: post
+era:
+  - "2000s-2010s"
+  - "2020s"
+genre:
+  - "witch house"
+  - "art pop"
 tags:
   - '@zola-jesus'
   - '00s-10s'
@@ -11,28 +17,10 @@ tags:
   - 'art pop'
 ---
 
-## Zola Jesus
+<iframe src="https://open.spotify.com/embed/track/4oT4Bd9KGuwSoJoXDf406U" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-_4 tracks, 2012 to 2022._
+<iframe src="https://open.spotify.com/embed/track/0lAkQyG72kXq311tICF0cu" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
----
+<iframe src="https://open.spotify.com/embed/track/6CWPvlSGSEP88EkCyqIVfF" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-**In Your Nature**
-*In Your Nature* · 2012 · 3:27
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2RSDLaMibYyAeTSWTHltYK" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**I Can’t Stand**
-*Stridulum* · 2017 · 4:10
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6CWPvlSGSEP88EkCyqIVfF" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**The Fall**
-*Arkhon* · 2022 · 4:03
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0lAkQyG72kXq311tICF0cu" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**Siphon - Live**
-*Alive in Cappadocia* · 2022 · 3:59
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4oT4Bd9KGuwSoJoXDf406U" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe src="https://open.spotify.com/embed/track/2RSDLaMibYyAeTSWTHltYK" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

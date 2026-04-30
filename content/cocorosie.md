@@ -3,13 +3,18 @@ title: "Cocorosie"
 slug: "cocorosie"
 date: 2025-02-09
 layout: post
+era:
+  - "2000s-2010s"
 tags:
   - '@cocorosie'
 ---
 
-<h2>BigBanonos Favorite Songs by CocoRosie</h2> <p><strong>Updated April 10, 2007, with "Werewolf" from <em>The Adventures of Ghosthorse & Stillborn</em></strong></p> {{< img-lite src="https://i.scdn.co/image/ab67616d0000b27391ed7cf5a9a5db54fcc98928" alt="CocoRosie" >}} <p>CocoRosies experimental and ethereal sound defies genres. Below are BigBanonos favorite songs by CocoRosie.</p> <h3>"Werewolf"</h3>
-<p><em>The Adventures of Ghosthorse & Stillborn</em>, Touch and Go Records, April 10, 2007</p> <h3>"Rainbowarriors"</h3>
-<p><em>The Adventures of Ghosthorse & Stillborn</em>, Touch and Go Records, April 10, 2007</p> <h3>"K-hole"</h3>
-<p><em>Noahs Ark</em>, Touch and Go Records, September 13, 2005</p> <h3>"South 2nd"</h3>
-<p><em>Noahs Ark</em>, Touch and Go Records, September 13, 2005</p> <h3>"Terrible Angels"</h3>
-<p><em>La Maison de Mon RÃƒÆ’Ã‚ªve</em>, Touch and Go Records, March 9, 2004</p> <hr /> <h3>#NotOnSpotify</h3> {{< youtube "ocKiErJ64ik" >}} <hr /> <p><strong>Tags:</strong> @cocorosie</p> <hr />
+<iframe src="https://open.spotify.com/embed/track/1nq0L0isqgGi5CpvkvPGLm" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/1RgFmvtcKaMHHRtx1qrtM5" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/6bIKJHtLkmt3dr3ngNZQzQ" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/4IGL5ZVtF8cbkMy0IgnezO" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/2V186ZQAfI0btd69kyyh9D" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

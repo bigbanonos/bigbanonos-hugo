@@ -3,12 +3,25 @@ title: "Cat Stevens"
 slug: "cat-stevens"
 date: 2025-02-12
 layout: post
+era:
+  - "1900s"
+  - "2000s-2010s"
+genre:
+  - "folk rock"
+  - "folk"
+  - "singer-songwriter"
 tags:
   - '@catstevens'
 ---
 
-<div> {{< img-lite src="https://thisis-images.spotifycdn.com/37i9dQZF1DZ06evO00JGQE-default.jpg" alt="Cat Stevens" >}}
-</div> <p>
-BigBanonos favorite songs by Cat Stevens:
-</p>  <ul> <li><b>Yusuf / Cat Stevens – "The Wind"</b> (Teaser And The Firecat, 1971) – Universal-Island Records Ltd.</li> <li><b>Yusuf / Cat Stevens – "Oh Very Young"</b> (The Very Best Of Cat Stevens, 2000) – A&M</li> <li><b>Yusuf / Cat Stevens – "Here Comes My Baby"</b> (On The Road To Find Out, 2001) – Interscope</li> <li><b>Yusuf / Cat Stevens – "Where Do The Children Play?"</b> (Tea For The Tillerman, 1970) – UMC (Universal Music Catalogue)</li> <li><b>Yusuf / Cat Stevens – "Wild World"</b> (Tea For The Tillerman, 1970) – UMC (Universal Music Catalogue)</li> <li><b>Yusuf / Cat Stevens – "Father And Son"</b> (Tea For The Tillerman, 1970) – UMC (Universal Music Catalogue)</li>
-</ul>  <hr />
+<iframe src="https://open.spotify.com/embed/track/2ijQX8n91dEvp466DrYFDZ" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/4a8KnwoaXJencZI26yal0N" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/1rHMg7t3LICgfTl2OsDn46" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/7kTmndsuOxGut8Oy85Mn62" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/7mjSHL2Eb0kAwiKbvNNyD9" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/476V2d6iA2tWXgQboKmTtA" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

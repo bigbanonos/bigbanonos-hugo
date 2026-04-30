@@ -3,6 +3,13 @@ title: "Flume"
 slug: "flume"
 date: 2024-12-21
 layout: post
+era:
+  - "2000s-2010s"
+  - "2020s"
+genre:
+  - "future bass"
+  - "lo-fi house"
+  - "chillwave"
 tags:
   - '@flume'
   - '@emmalouise'
@@ -12,8 +19,12 @@ tags:
   - '@logic1000'
 ---
 
-<h3><em>BigBanonos</em> Favorite Songs by Flume:</h3> <p>Updated on May 17, 2022, with the track "Hollow (feat. Emma Louise)." <em>BigBanonos</em> highlights Flumes standout electronic productions, combining elements of Australian dance and indietronica with a unique downtempo vibe.</p> <!--Image-->
- <!--Spotify Playlist Embed-->
- <!--Song Listings-->
+<iframe src="https://open.spotify.com/embed/track/2aqqwPJTNgOeQgKyO5VweQ" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-{{< youtube "videoseries" >}} <hr />
+<iframe src="https://open.spotify.com/embed/track/3edn8srMWRiiJfYy0DUWLS" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/4nlvKIIetOWGIMyhjQXgOZ" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/2zoNNEAyPK2OGDfajardlY" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/7p0tz5SeCrSxTLSvwR8W3D" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

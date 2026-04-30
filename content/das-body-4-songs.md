@@ -3,15 +3,20 @@ title: "Das Body"
 slug: "das-body"
 date: 2024-12-21
 layout: post
+era:
+  - "2000s-2010s"
+  - "2020s"
+genre:
+  - "norwegian pop"
+explicit: true
 tags:
   - '@dasbody'
 ---
 
-<h3><em>BigBanonos</em> Top 4 Songs by Das Body:</h3> <p>Updated on April 9, 2021 with the standout track "One Night Woman - Single Version." BigBanonos favorite Das Body songs highlight their unique Oslo indie sound, with tracks that merge pop with a moody, introspective style.</p> <!--Image-->
- <!--Spotify Playlist Embed-->
- <!--Song Listings-->
- <p>This list captures the progression of Das Bodys discography, blending pop hooks with Oslo indie influence. Enjoy these memorable tracks from the Norwegian band.</p>
-{{< youtube "videoseries" >}}<br />
-<h3>
-<!--YouTube Embed and Link to Channel-->
-<p>For more Oslo indie and international music recommendations, visit the <a href="https://www.youtube.com/channel/BigBanonos" target="_blank">BigBanonos YouTube Channel</a> and discover exclusive tracks in the #NotOnSpotify playlist.</p> <hr />
+<iframe src="https://open.spotify.com/embed/track/3imbQ56dT30Qmc9EWJAHbB" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/3JXvdae61UYx61OjNJM7Z7" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/2E9f99wMmg8mFu4mTXkpzI" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/1IBQOvxoSRfWfp7hOQdduF" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

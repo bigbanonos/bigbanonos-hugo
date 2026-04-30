@@ -3,13 +3,14 @@ title: "Secret Machines"
 slug: "secret-machines"
 date: 2025-02-10
 layout: post
+era:
+  - "2000s-2010s"
+genre:
+  - "space rock"
 tags:
   - '@secretmachines'
 ---
 
-<!-- Secret Machines -->
-<img src="https://i.scdn.co/image/ab67616d0000b273b0a439986972421aabe05d1d" /> <p><strong>Updated February 27, 2006 with "Alone, Jealous and Stoned" from <em>Ten Silver Drops</em></strong></p> <p><strong>"Alone, Jealous and Stoned"</strong> – <em>Ten Silver Drops</em> (Reprise, 2006)</p>
-<p><strong>"Nowhere Again"</strong> – <em>Now Here Is Nowhere</em> (Warner Records, 2004)</p>  <p>@secretmachines</p> <hr /> <!-- Footer -->
- 
+<iframe src="https://open.spotify.com/embed/track/01tcCOsS0mxkYzMqYBObLq" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/6C7Zo57KvXSMdMZDW5fzD6" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

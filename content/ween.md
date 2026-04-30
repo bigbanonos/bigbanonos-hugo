@@ -3,21 +3,15 @@ title: "Ween"
 slug: "ween"
 date: 2025-01-16
 layout: post
+era:
+  - "1900s"
+  - "2000s-2010s"
+genre:
+  - "neo-psychedelic"
 tags:
   - '@ween'
 ---
 
-<!-- Title of the Post -->
-<h1 >BigBanonos Favorite Songs by Ween</h1> <!-- Featured Image -->
-<div > {{< img-lite src="https://media.gq.com/photos/66abcb3bd715909ef59091c5/16:9/w_2560%2Cc_limit/GettyImages-85050005%2520(1).jpg" alt="Ween" >}}
-</div> <!-- Spotify Embed -->
-<div > 
-</div> <!-- Introductory Text -->
-<p >Weens unique alternative rock sound spans decades, offering whimsical, genre-blurring tracks. From the heartfelt live version of *Birthday Boy* to the aquatic charm of *The Mollusk*, here are BigBanonos favorite tracks by Ween.</p> <!-- Song Highlights -->
-<div > <p>BigBanonos standout picks:</p> 
-</div> <!-- Footer Links -->
-<div > <p>Explore more from Ween at <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Follow us on <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a> for updates!</p>
-</div> 
-<p >Tags: @ween</p>
+<iframe src="https://open.spotify.com/embed/track/71uoPf7rzLHVay5Nhzvmx0" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/1Vi8bCaz8AqucqF88ffnqI" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

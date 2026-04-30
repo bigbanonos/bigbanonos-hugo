@@ -3,6 +3,12 @@ title: "Soundgarden"
 slug: "soundgarden"
 date: 1994-03-09
 layout: post
+era:
+  - "1900s"
+genre:
+  - "grunge"
+  - "post-grunge"
+  - "hard rock"
 tags:
   - '@soundgarden'
   - '1900s'
@@ -11,18 +17,6 @@ tags:
   - 'hard rock'
 ---
 
-## Soundgarden
+<iframe src="https://open.spotify.com/embed/track/1jMaB19DiVR8OihLSuYFOt" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-_2 tracks, all from 1994._
-
----
-
-**Spoonman**
-*Superunknown (20th Anniversary)* · 1994 · 4:06
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1jMaB19DiVR8OihLSuYFOt" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**Black Hole Sun**
-*Superunknown (Deluxe Edition)* · 1994 · 5:18
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2EoOZnxNgtmZaD8uUmz2nD" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe src="https://open.spotify.com/embed/track/2EoOZnxNgtmZaD8uUmz2nD" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

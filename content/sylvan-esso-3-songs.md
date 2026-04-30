@@ -3,15 +3,15 @@ title: "Sylvan Esso"
 slug: "sylvan-esso"
 date: 2024-12-20
 layout: post
+era:
+  - "2000s-2010s"
+  - "2020s"
 tags:
   - '@sylvanesso'
 ---
 
-<h1>BigBanonos Top Songs by Sylvan Esso</h1>
-{{< img-lite src="https://media.npr.org/assets/img/2022/08/10/_images_uploads_gallery_sylvan_esso_by_brian_karlsson_-_photo_1_wide-7c0b65ad8e2c05061d5a5c7ddeb7a58b7aa67914.jpg?s=400&c=85&f=jpeg" alt="Sylvan Esso" >}} <p>Sylvan Essos shimmering blend of indie pop and electronic beats captures the imagination. BigBanonos picks include:</p> 
-<p>Video for "PARAD(w/m)e" [2018]</p>
-{{< youtube "videoseries" >}}
-<div> 
-</div>
+<iframe src="https://open.spotify.com/embed/track/1uVuiGjIrOxDSlHie1oftn" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/3QMgmfO9Jddlf5qWszzbVQ" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/1edOSqQG1mP9hcrI0EDNhw" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

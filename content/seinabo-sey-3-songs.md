@@ -3,12 +3,18 @@ title: "Seinabo Sey"
 slug: "seinabo-sey"
 date: 2024-12-20
 layout: post
+era:
+  - "2000s-2010s"
+  - "2020s"
+genre:
+  - "tropical house"
+explicit: true
 tags:
   - '@seinabosey'
 ---
 
-<h1>BigBanonos Top Songs by Seinabo Sey</h1>
-<img alt="Seinabo Sey" src="https://media.npr.org/assets/img/2015/07/29/seinabosey-fotomikaeldahl_wide-531323ac4c58f35ffba9019ff3c765d95658a444.jpg?s=1100&c=85&f=jpeg" /> <p>Seinabo Seys powerful voice and emotional depth have cemented her as a unique force in Swedish soul. Here are BigBanonos top selections:</p>  <div> 
-</div>
+<iframe src="https://open.spotify.com/embed/track/5o0zuf9X17P9bha9TQT24n" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/1toegeMmVg89OAeZHCAWip" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/3sNAgl9Mm0FC3MgR6vcvtd" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

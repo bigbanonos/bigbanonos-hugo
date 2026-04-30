@@ -3,6 +3,11 @@ title: "Gene Chandler"
 slug: "gene-chandler"
 date: 1967-01-01
 layout: post
+era:
+  - "1900s"
+genre:
+  - "doo-wop"
+  - "northern soul"
 tags:
   - '@gene-chandler'
   - '1900s'
@@ -10,18 +15,6 @@ tags:
   - 'northern soul'
 ---
 
-## Gene Chandler
+<iframe src="https://open.spotify.com/embed/track/7BiRyVxIimvgnlmZg4vSi9" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-_2 tracks between 1962 and 1967._
-
----
-
-**Duke of Earl**
-*The Duke Of Earl* · 1962 · 2:27
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6Hy22YDN9HJMRlJP1LwnJy" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**You Cant Hurt Me No More**
-*The Girl Dont Care* · 1967 · 2:37
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7BiRyVxIimvgnlmZg4vSi9" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe src="https://open.spotify.com/embed/track/6Hy22YDN9HJMRlJP1LwnJy" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

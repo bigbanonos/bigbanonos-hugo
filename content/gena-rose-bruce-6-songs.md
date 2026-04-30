@@ -3,16 +3,23 @@ title: "Gena Rose Bruce"
 slug: "gena-rose-bruce"
 date: 2024-12-21
 layout: post
+era:
+  - "2000s-2010s"
+  - "2020s"
+genre:
+  - "alt country"
 tags:
   - '@genarosebruce'
 ---
 
-<!-- BigBanonos voice goes here.
-     - the personal connection (saw them live, friends band, etc.)
-     - the cross-reference (X covered Y, was in band Z, sampled by W)
-     - the hot take (peaked 2006-2019, sucks since 2001, etc.)
-     - whats missing / why these songs
-     -->
+<iframe src="https://open.spotify.com/embed/track/2jIkCYLQpH2cibzoDqh9CH" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
- <p>This <em>BigBanonos</em> selection highlights Gena Rose Bruces soulful storytelling and folk-pop charm, bringing together six beautiful tracks.</p>  <p>Listen to the playlist on Spotify:</p>
- <hr />
+<iframe src="https://open.spotify.com/embed/track/6Ax2WiLrDrgpbccUIRCmI8" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/6WaAU5o80EjSRO1tjdhtLl" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/65yKaRHv14SnehjSGkx5vp" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/1MaD3aSEnxcqP56n8liBAF" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/44P7qc1TYlQSLzADZ7hP5b" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

@@ -3,14 +3,21 @@ title: "Nelly"
 slug: "nelly"
 date: 2024-12-17
 layout: post
+era:
+  - "2000s-2010s"
+explicit: true
 tags:
   - '@nelly'
 ---
 
-<h1>BigBanonos Top Songs by Nelly</h1>
-<img alt="Nelly" src="https://i.ytimg.com/vi/BfzsMQGqrt0/maxresdefault.jpg" /> <p>Nelly brought a unique style to hip hop with his St. Louis flavor, bridging pop and rap with memorable hits. Here are BigBanonos top Nelly selections:</p> <div><strong>For Nellys best and most unusual song #NotOnSpotify, check out "Bay"</strong>Ãƒâ€šÃ‚ (in which he mimics Spice 1, Too Short, and E-40) |Ãƒâ€šÃ‚ <em>#NotOnSpotify</em>Ãƒâ€šÃ‚ | Released: 2008</div><div>
-</div> <p>first posted by <a href="https://bigbanonos.blogspot.com/">https://bigbanonos.blogspot.com/</a></p> <div> <p>Explore more BigBanonos content: <a href="https://bigbanonos.blogspot.com/">Website</a> | <a href="https://www.youtube.com/@BigBanonos">YouTube</a> | <a href="https://x.com/bigbanonos">Twitter</a></p>
-</div> 
-<p>@nelly</p>
+<iframe src="https://open.spotify.com/embed/track/20IZ0jYjnFO0NxyiaRsJwb" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/3NCLXTIng3gcI2EmtMNWvg" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/0raSt3PcCNmR1RjJGPC0rv" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/5pZrTiyyerSGHUJExDCOxZ" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/4E7QLdfaaKpvTgrLGEls00" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/5ZW6ll4cBB8cWD75qVIyBv" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

@@ -3,14 +3,51 @@ title: "Modest Mouse"
 slug: "modest-mouse"
 date: 2024-12-17
 layout: post
+era:
+  - "1900s"
+  - "2000s-2010s"
+  - "2020s"
+genre:
+  - "indie rock"
+  - "indie"
+  - "alternative rock"
+  - "nu disco"
 tags:
   - '@modestmouse'
 ---
 
-<h1>BigBanonos Top Songs by Modest Mouse</h1>
-<img alt="Modest Mouse" src="https://faroutmagazine.co.uk/static/uploads/1/2019/04/modest-mouse-im-still-here.jpg" /> <p>Modest Mouses unique sound blends alternative rock, indie rock, and elements of chamber pop. Here are BigBanonos top picks from Modest Mouses discography, highlighting some of their most influential tracks across different albums.</p>  <div> 
-</div> <p>first posted by <a href="https://bigbanonos.blogspot.com/">https://bigbanonos.blogspot.com/</a></p> <div> <p>Explore more BigBanonos content: <a href="https://bigbanonos.blogspot.com/">Website</a> | <a href="https://www.youtube.com/@BigBanonos">YouTube</a> | <a href="https://x.com/bigbanonos">Twitter</a></p>
-</div> 
-<p>@modestmouse</p>
+<iframe src="https://open.spotify.com/embed/track/0eS66hzOip4eB0EKUykDGN" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/3qGMykHcjGcsIRj35fUoS7" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/1EbUYOmJkqKgUYgC2OI7Tc" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/5KTaAvodoyuWIUOetdsEFd" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/0ZW2Ajp6Aoc4wrQBzYjF6N" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/1Htkh4wKIhzbCLuGmSXiSq" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/0PmMG8l77apsLiE25ZbxQV" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/1Ra0py3DxQ2dcWHXhd9wq6" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/0uSdPf2hj1cVHBFBjCC1Xr" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/2bh5ZcwRlY8SvMQiOFgpgq" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/3GcRZ1Q9Q6NIeDNw3MVAWS" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/1cThA2YcKTMFMKn72mk7av" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/0lIUEn5vJjIuqa81GIwgdT" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/069PpSYcmXTzUuZNfppGOY" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/4PCRawItOrjbAqZnZTBsca" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/5mVPitVqBDRt608zUWEgIy" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/5PrPN445xZxYuMD4nIR1UC" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/5vtRk4rYxiy4cj95cmJ5Ma" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

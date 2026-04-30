@@ -3,18 +3,15 @@ title: "Lcd Soundsystem"
 slug: "lcd-soundsystem"
 date: 2024-12-17
 layout: post
+era:
+  - "2000s-2010s"
+genre:
+  - "alternative dance"
+  - "new rave"
 tags:
   - '@lcdsoundsystem'
 ---
 
-<h2>BigBanonos Favorite Tracks: LCD Soundsystem</h2> <div > <img src="https://res.cloudinary.com/shotgun/image/upload/c_limit,w_1200,h_627,g_center/f_jpg/q_auto/production/artworks/lcdsoundsystem_bh8uu7.jpg" alt="LCD Soundsystem" />
-</div> <p>LCD Soundsystem brings together punk energy, electronic beats, and indie rock sensibilities to create unforgettable dance anthems. Their music has consistently pushed boundaries and brought fans to the dance floor with both introspective and high-energy tracks. Here are some standout songs from the legendary band:</p> <h3>Selected Tracks</h3>
- <h3>Videos</h3>
-<p>Check out some of their unforgettable moments:</p>
-<div> {{< youtube "QAJNKzG-5lM" >}}
-</div> <h3>Stream the Playlist</h3>
- <h3>Tags</h3>
-<p>@lcdsoundsystem</p> <hr />
-<p>Check out more BigBanonos content: <a href="https://bigbanonos.blogspot.com/" target="_blank">Website</a> | <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> | <a href="https://x.com/bigbanonos" target="_blank">Twitter</a></p>
+<iframe src="https://open.spotify.com/embed/track/2VGDntFPvgvqSiUf9ITEfW" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/73mlvsfJM2qwlDUJxeaatI" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

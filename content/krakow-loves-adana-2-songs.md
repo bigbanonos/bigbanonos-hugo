@@ -3,14 +3,13 @@ title: "Krakow Loves Adana"
 slug: "krakow-loves-adana"
 date: 2024-12-20
 layout: post
+era:
+  - "2000s-2010s"
+  - "2020s"
 tags:
   - '@krakowlovesadana'
 ---
 
-<h1>KrakÃƒÆ’Ã‚³w Loves Adana: BigBanonos two favorite songs</h1>
-<img alt="KrakÃƒÆ’Ã‚³w Loves Adana" src="https://f4.bcbits.com/img/a0695991551_10.jpg" /> <p>Emerging from Hamburgs indie scene, KrakÃƒÆ’Ã‚³w Loves Adana creates music with an atmospheric blend of indie and German new wave influences. Explore some of their most notable tracks below:</p>  <div> 
-</div> <p>With tracks like "(Feels Like) Heaven" and "American Boy," KrakÃƒÆ’Ã‚³w Loves Adana captures an ethereal quality in their music, blending rock elements with hauntingly personal lyrics.</p> <div> <p>Discover more from BigBanonos: <a href="https://bigbanonos.blogspot.com/">Website</a> | <a href="https://www.youtube.com/@BigBanonos">YouTube</a> | <a href="https://x.com/bigbanonos">Twitter</a></p>
-</div> 
-<p>@krakowlovesadana</p>
+<iframe src="https://open.spotify.com/embed/track/22lRN2UdPl4Hb7TM44DSiZ" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/5TbYMP0wbqidP6rK8FilBb" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

@@ -3,23 +3,13 @@ title: "Super Wild Horses"
 slug: "super-wild-horses"
 date: 2013-04-05
 layout: post
+era:
+  - "2000s-2010s"
 tags:
   - '@super-wild-horses'
   - '00s-10s'
 ---
 
-## Super Wild Horses
+<iframe src="https://open.spotify.com/embed/track/7tWCEfch2kbt1JDfRWVGgo" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-_2 tracks between 2010 and 2013._
-
----
-
-**Fifteen**
-*Fifteen* · 2010 · 2:02
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6G6hVpC0ONpVp8TVhgMovc" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**Heavy Step**
-*Crosswords* · 2013 · 2:30
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7tWCEfch2kbt1JDfRWVGgo" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe src="https://open.spotify.com/embed/track/6G6hVpC0ONpVp8TVhgMovc" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

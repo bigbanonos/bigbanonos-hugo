@@ -3,13 +3,14 @@ title: "Paul Westerberg"
 slug: "paul-westerberg"
 date: 2025-02-10
 layout: post
+era:
+  - "1900s"
+genre:
+  - "power pop"
 tags:
   - '@paulwesterberg'
 ---
 
-<hr /> <!-- Paul Westerberg -->
-<img src="https://i.scdn.co/image/ab67616d0000b27357d24f0fc2891296b24d1de7" /> <p><strong>Updated June 11, 1993 with "Things" from <em>14 Songs</em></strong></p> <p><strong>"Things"</strong> – <em>14 Songs</em> (Reprise, 1993)</p>
-<p><strong>"Mannequin Shop"</strong> – <em>14 Songs</em> (Reprise, 1993)</p> {{< youtube "hwedmzoF92A" >}} {{< youtube "nQBEkzUAPG0" >}} <p>@paulwesterberg</p> <hr /> !-- Footer -->
- 
+<iframe src="https://open.spotify.com/embed/track/7qQ4oJatztx8RzTVtP4kvx" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/2RDVUW42IahtVvdeI9tcfN" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

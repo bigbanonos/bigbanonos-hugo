@@ -3,15 +3,31 @@ title: "Leonard Cohen"
 slug: "leonard-cohen"
 date: 2024-12-17
 layout: post
+era:
+  - "1900s"
+  - "2000s-2010s"
+genre:
+  - "singer-songwriter"
 tags:
   - '@leonardcohen'
 ---
 
-<h2>BigBanonos Favorite Tracks: Leonard Cohen</h2>  <p>Leonard Cohen is celebrated for his poetic lyrics and deep, evocative voice that shaped modern songwriting. Below is a full list of BigBanonos favorite tracks:</p> <h3>Tracks</h3>
-<ul> <li><strong>Suzanne</strong> – <em>Songs of Leonard Cohen</em> (1967)</li> <li><strong>Bird on the Wire</strong> – <em>Songs From a Room</em> (1969)</li> <li><strong>Hallelujah</strong> – <em>Various Positions</em> (1984)</li> <li><strong>Famous Blue Raincoat</strong> – <em>Songs of Love and Hate</em> (1971)</li> <li><strong>Dance Me to the End of Love</strong> – <em>Various Positions</em> (1984)</li> <li><strong>Im Your Man</strong> – <em>Im Your Man</em> (1988)</li> <li><strong>So Long, Marianne</strong> – <em>Songs of Leonard Cohen</em> (1967)</li> <li><strong>Avalanche</strong> – <em>Songs of Love and Hate</em> (1971)</li> <li><strong>Everybody Knows</strong> – <em>Im Your Man</em> (1988)</li> <li><strong>The Future</strong> – <em>The Future</em> (1992)</li> <li><strong>Waiting for the Miracle</strong> – <em>The Future</em> (1992)</li> <li><strong>Anthem</strong> – <em>The Future</em> (1992)</li> <li><strong>Closing Time</strong> – <em>The Future</em> (1992)</li> <li><strong>You Want It Darker</strong> – <em>You Want It Darker</em> (2016)</li> <li><strong>Thanks for the Dance</strong> – <em>Thanks for the Dance</em> (2019)</li>
-</ul> <h3>Stream His Playlist</h3>
- <h3>Tags</h3>
-<p>@leonardcohen</p> <hr />
-<p>Check out more BigBanonos content: <a href="https://bigbanonos.blogspot.com/" target="_blank">Website</a> | <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> | <a href="https://x.com/bigbanonos" target="_blank">Twitter</a></p>
+<iframe src="https://open.spotify.com/embed/track/3uzYzmLLLayS9l3m0obKPF" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/4COoY5HS3qPPkUEqos2g3t" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/5xcGcGsrKWBBt0cJXIvSZG" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/0KjHYBDIKaaSnY990oeJHZ" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/50LqU2nhdE3fmWOuqOjpjz" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/48WhdGNxaxHMdRxs11ampi" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/5SJba3AbeutDOH8vk90NnX" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/77K5TB5KZmDZCoJCdd1NvE" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/14CsqOaDkOkrZ49UJLtuOJ" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/0wiwCdb8sWzz9ETztz8taE" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

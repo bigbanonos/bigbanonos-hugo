@@ -3,14 +3,17 @@ title: "Hannah Cohen"
 slug: "hannah-cohen"
 date: 2025-08-29
 layout: post
+era:
+  - "2000s-2010s"
+  - "2020s"
 tags:
   - '@hannahcohen'
 ---
 
-<h1>BigBanonos 4 Favorite Songs by Hannah Cohen</h1> <img alt="Hannah Cohen" src="https://opositivefestival.org/wp-content/uploads/2024/08/Hannah-Cohen_sq.jpg" /> <p>Updated March 28, 2025 with <em>"Draggin"</em> from <em>Earthstar Mountain</em>. This collection of BigBanonos favorite tracks by Hannah Cohen highlights her soulful NYC pop sound. These songs bring an ethereal quality to pop, showcasing her unique vocal style and introspective lyrics.</p> <!-- Latest video -->
-{{< youtube "DLjQSELOB6U" >}}  <div> 
-</div> <p>Enjoy the video for "Dont Say" below:</p> {{< youtube "videoseries" >}} <hr />  <div> <p>Explore more BigBanonos content: <a href="https://bigbanonos.blogspot.com/">Website</a> | <a href="https://www.youtube.com/@BigBanonos">YouTube</a> | <a href="https://x.com/bigbanonos">Twitter</a></p>
-</div> 
-<p>@hannahcohen</p>
+<iframe src="https://open.spotify.com/embed/track/4tYUqYAM5rxOQ4UhjlLV7r" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/3sLCoDAaG4QfO6PZtxxcBi" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/2U6NQiw94MPPEKleyeuc60" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/0TEyE4GHS89WRcYUMyQCeK" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

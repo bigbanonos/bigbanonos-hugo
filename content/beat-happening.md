@@ -3,21 +3,19 @@ title: "Beat Happening"
 slug: "beat-happening"
 date: 2025-01-17
 layout: post
+era:
+  - "1900s"
+  - "2000s-2010s"
+genre:
+  - "jangle pop"
+  - "anti-folk"
+  - "lo-fi indie"
 tags:
   - '@beathappening'
 ---
 
-<!-- Title of the Post -->
-<h1 >BigBanonos Favorite Songs by Beat Happening</h1> <!-- Featured Image -->
-<div > {{< img-lite src="https://i.scdn.co/image/0b4992546b7f1851a19d654c3c435c140eb0fa35" alt="Beat Happening" >}}
-</div> <!-- Spotify Embed -->
-<div > 
-</div> <!-- Introductory Text -->
-<p >Beat Happenings lo-fi, twee pop sound is timeless. From "Indian Summer" to "Angel Gone," here are BigBanonos favorite tracks showcasing their unique blend of indie and alternative rock.</p> <!-- Song Highlights -->
-<div > <p>BigBanonos standout picks:</p> 
-</div> <!-- Footer Links -->
-<div > <p>Discover more lo-fi and indie classics at <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Stay tuned for fresh recommendations on <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p>
-</div> 
-<p >Tags: @beathappening</p>
+<iframe src="https://open.spotify.com/embed/track/5ptmsQnZlAMiSRsc5FDoRk" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/0w2XZU0I8dxEUxB1S1vHMJ" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/0MPsh65qp5QJdcENUNBDZq" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

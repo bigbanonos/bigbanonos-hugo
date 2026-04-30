@@ -3,6 +3,13 @@ title: "Little Richard"
 slug: "little-richard"
 date: 2008-01-01
 layout: post
+era:
+  - "2000s-2010s"
+genre:
+  - "rockabilly"
+  - "rock and roll"
+  - "doo-wop"
+  - "boogie-woogie"
 tags:
   - '@little-richard'
   - '00s-10s'
@@ -12,23 +19,8 @@ tags:
   - 'boogie-woogie'
 ---
 
-## Little Richard
+<iframe src="https://open.spotify.com/embed/track/5eCj8C7m74bBQAcMmm6OuW" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-_3 tracks between 2007 and 2008._
+<iframe src="https://open.spotify.com/embed/track/1xjYJJy5TFFVD9tStu2hfw" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
----
-
-**Tutti Frutti**
-*Hes Got It* · 2007 · 2:25
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1xjYJJy5TFFVD9tStu2hfw" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**The Girl Cant Help It**
-*Hes Got It* · 2007 · 2:33
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4jH9lMWCeAV8jqfYywbugx" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**Lucille**
-*Rock N Roll Legends* · 2008 · 2:25
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5eCj8C7m74bBQAcMmm6OuW" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe src="https://open.spotify.com/embed/track/4jH9lMWCeAV8jqfYywbugx" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

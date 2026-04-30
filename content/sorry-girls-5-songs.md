@@ -3,15 +3,19 @@ title: "Sorry Girls"
 slug: "sorry-girls"
 date: 2024-12-20
 layout: post
+era:
+  - "2000s-2010s"
+  - "2020s"
 tags:
   - '@sorrygirls'
 ---
 
-<h1>BigBanonos Top Songs by Sorry Girls</h1>
-{{< img-lite src="https://www.analoguetrash.com/wp-content/uploads/2018/06/cover-10-24.jpg" alt="Sorry Girls" >}} <p>Montreal indie band Sorry Girls bring dreamy and introspective vibes. Here are BigBanonos top picks:</p> 
-<h3> Videos for One That You Want and Waking Up:</h3>
-{{< youtube "videoseries" >}}<br />
-<div> 
-</div>
+<iframe src="https://open.spotify.com/embed/track/4WFgUozeQqYpohlO0T09Av" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/3WzakEyusKz9x4TUxZmLH7" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/0a9VJaygrWsPeCZvkUrOQI" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/6IigpFKjgmConGlXauCpcj" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/5GJkJKX8Ze4ZCptBlIsLl4" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

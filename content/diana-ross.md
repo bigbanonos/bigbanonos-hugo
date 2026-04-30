@@ -3,21 +3,14 @@ title: "Diana Ross"
 slug: "diana-ross"
 date: 2025-01-19
 layout: post
+era:
+  - "1900s"
+genre:
+  - "motown"
+  - "disco"
+  - "rockabilly"
 tags:
   - '@dianaross'
 ---
 
-<!-- Title of the Post -->
-<h1 >BigBanonos Favorite Songs by Diana Ross</h1> <!-- Featured Image -->
-<div > {{< img-lite src="https://i.scdn.co/image/ab67616100005174db59e1c017a93648b119f0cc" alt="Diana Ross" >}}
-</div> <!-- Spotify Embed -->
-<div > 
-</div> <!-- Introductory Text -->
-<p >Diana Ross, the Queen of Motown, delivers timeless classics with a soulful edge. "Its My House - 12" Remix" from *The Boss (Expanded Edition)* is a highlight in her storied career. Celebrate her elegance with BigBanonos.</p> <!-- Song Highlights -->
-<div > <p>BigBanonos standout pick:</p> 
-</div> <!-- Footer Links -->
-<div > <p>Explore more Motown classics at <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Stay inspired with music on <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p>
-</div> 
-<p >Tags: @dianaross</p>
-
-<hr />
+<iframe src="https://open.spotify.com/embed/track/4IHuMACnW8IMUUVPss9rou" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

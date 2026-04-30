@@ -3,15 +3,36 @@ title: "Animal Collective"
 slug: "animal-collective"
 date: 2024-12-17
 layout: post
+era:
+  - "2000s-2010s"
+  - "2020s"
+genre:
+  - "neo-psychedelic"
+  - "indie rock"
 tags:
   - '@animalcollective'
 ---
 
-<h1>BigBanonos Favorite Songs by Animal Collective</h1>
-{{< img-lite src="https://m.media-amazon.com/images/M/MV5BY2YzMzlkYjQtOTY0Yy00OTA1LWI2NjMtYjhiMzJkMjc2MDZkXkEyXkFqcGc@._V1_.jpg" alt="Animal Collective" >}} <p>This collection of BigBanonos favorite tracks by Animal Collective was updated November 23, 2024, celebrating their experimental pop and freak folk mastery, with highlights like "My Girls" and "Peacebone."</p>  <div> 
-</div> <h3>Stream Highlights:</h3>
-<p> <a href="https://draft.blogger.com/blog/post/edit/6817930984197672883/500789659846909154#" target="_blank">Animal Collective - Fireworks (2007)</a><br> <a href="https://draft.blogger.com/blog/post/edit/6817930984197672883/500789659846909154#" target="_blank">Animal Collective - For Reverend Green (2007)</a><br> <a href="https://draft.blogger.com/blog/post/edit/6817930984197672883/500789659846909154#" target="_blank">Animal Collective - In The Flowers</a><br> <a href="https://draft.blogger.com/blog/post/edit/6817930984197672883/500789659846909154#" target="_blank">Animal Collective - My Girls</a><br> <a href="https://draft.blogger.com/blog/post/edit/6817930984197672883/500789659846909154#" target="_blank">Animal Collective - Peacebone (2007)</a><br> <a href="https://draft.blogger.com/blog/post/edit/6817930984197672883/500789659846909154#" target="_blank">Animal Collective – Grass (2005)</a>
-</p> <p></div> 
-<p>@animalcollective</p>
+<iframe src="https://open.spotify.com/embed/track/0VDJzLBQw9SABBURyQjDvW" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/1qFudtsBIsNMBumicKCVYm" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/1iJdIZU5Ffgixa92wrcZZC" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/43bkeV2MEm4WXMSyus7Fju" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/26WNKAgxNfg1MkhpBrx8UV" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/1LkQj60h7ZaRuy0BCeUe6a" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/1kn0qoZsAYz2IEOSmWGrvX" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/7jZBPuJmkOsfPkwFD30dAA" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/3uqDfaiaOk3ZdxZUOqqQa9" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/3bTyUD39OY8Xu4yOTom383" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/2CWgPzq1WxoWNRakEyHi9f" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/4VG5jWn1LdOt1R6KmmBsYJ" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

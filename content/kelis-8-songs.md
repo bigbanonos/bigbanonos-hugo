@@ -3,15 +3,31 @@ title: "Kelis"
 slug: "kelis"
 date: 2024-12-20
 layout: post
+era:
+  - "2000s-2010s"
+  - "2020s"
+genre:
+  - "hyphy"
+  - "west coast hip hop"
+  - "g-funk"
+  - "old school hip hop"
+  - "gangster rap"
+explicit: true
 tags:
   - '@too$hort'
   - '@kelis'
 ---
 
-<h1>Kelis: Essential Tracks</h1>
-{{< img-lite src="https://m.media-amazon.com/images/I/51yHMiynXsL._UF1000,1000_QL80_.jpg" alt="Kelis Album Cover" >}} <p>From iconic early 2000s hits to more recent soulful releases, Kelis blends dance pop, hip hop, and neo-soul with a unique style. Explore a selection of her essential tracks below:</p>  <div> 
-</div> <p>Experience Kelis evolution through her dynamic mix of urban contemporary, hip hop, and dance pop.</p> <div> <p>Explore more on BigBanonos: <a href="https://bigbanonos.blogspot.com/">Website</a> | <a href="https://www.youtube.com/@BigBanonos">YouTube</a> | <a href="https://x.com/bigbanonos">Twitter</a></p>
-</div> 
-<p>@kelis,@tooshort</p>
+<iframe src="https://open.spotify.com/embed/track/1H2xBXt1eIYbRaYet7CJA9" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/0IFQkwDPJDqoIn1ql9yi5J" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/0Qb5GYJse2GrpBoiASZD5v" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/0Eu5SrReZzaJX0NLKI8tQS" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/1qEZWvdFt9WZocdjlwjW82" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/2cMTIlktg3M9mXYqCPqw1J" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/7h1kWdBH8pV84RNP2foaf5" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

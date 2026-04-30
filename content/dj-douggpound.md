@@ -3,21 +3,12 @@ title: "Dj Douggpound"
 slug: "dj-douggpound"
 date: 2025-01-19
 layout: post
+era:
+  - "2000s-2010s"
 tags:
   - '@djdouggpound'
 ---
 
-<!-- Title of the Post -->
-<h1 >BigBanonos Favorite Songs by DJ Douggpound</h1> <!-- Featured Image -->
-<div > {{< img-lite src="https://i.scdn.co/image/ab6761610000e5eb037eceee8cc183b610cfa98f" alt="DJ Douggpound" >}}
-</div> <!-- Spotify Embed -->
-<div > 
-</div> <!-- Introductory Text -->
-<p >DJ Douggpound delivers humor and rhythm with tracks like "Jumping Jacks" and "Opposite Knees," blending comedy and beats in *The Body Tight Workout.*</p> <!-- Song Highlights -->
-<div > <p>BigBanonos standout picks:</p> 
-</div> <!-- Footer Links -->
-<div > <p>Explore more tracks and humor-infused beats at <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Stay tuned for fresh playlists on <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p>
-</div> 
-<p >Tags: @djdouggpound</p> 
+<iframe src="https://open.spotify.com/embed/track/2GHFVckzRNi7rXMeySdx9v" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/4WiWfoA7freHOUCXhRcL2z" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

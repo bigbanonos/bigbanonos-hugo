@@ -3,17 +3,27 @@ title: "Georgia"
 slug: "georgia"
 date: 2024-12-21
 layout: post
+era:
+  - "2000s-2010s"
+  - "2020s"
 tags:
   - '@georgia'
 ---
 
-<!-- BigBanonos voice goes here.
-     - the personal connection (saw them live, friends band, etc.)
-     - the cross-reference (X covered Y, was in band Z, sampled by W)
-     - the hot take (peaked 2006-2019, sucks since 2001, etc.)
-     - whats missing / why these songs
-     -->
+<iframe src="https://open.spotify.com/embed/track/1mJltElxoEncW8mLbfgNS9" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
- <p>This <em>BigBanonos</em> selection celebrates Georgias infectious UK alternative pop style, combining electronic beats with emotive lyrics. Heres a selection of Georgias finest tracks:</p>  <p>Enjoy this curated playlist on Spotify:</p>
- {{< youtube "videoseries" >}}
-<hr />
+<iframe src="https://open.spotify.com/embed/track/1xAGqmVj5Asg1g8nUhEoFs" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/3se5Q9CtQLv26cFWYOcExQ" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/18yegkWg1YLPFCgif8XfaE" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/7AAMDhzVpaQi6kqjPXSkXi" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/4yByqdDksKZj9yLf6mCbkN" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/7l5Z2grGc47Hs84Zm7XobV" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/6H15f8zwZSiFE1iseSvkLT" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/2VrONWfzJ7aeWPuHSYeFnx" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

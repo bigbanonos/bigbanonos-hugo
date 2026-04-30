@@ -3,27 +3,17 @@ title: "Tommy Roe"
 slug: "tommy-roe"
 date: 2025-01-10
 layout: post
+era:
+  - "1900s"
+  - "2000s-2010s"
+genre:
+  - "bubblegum pop"
 tags:
   - '@tommyroe'
 ---
 
-<div class="post-title"> <h1>BigBanonos Favorite Songs by Tommy Roe</h1>
-</div>
-<p>Updated May 9, 2011, with "Sheila" from the album <i>Still Dizzy - [The Dave Cash Collection]</i>, highlighted in the playlist below:</p>
-<div class="post-image"> {{< img-lite src="https://lastfm.freetls.fastly.net/i/u/ar0/be5f8292172503d15b61ea6f6dc9e974.jpg" alt="Tommy Roe Album Cover" >}}
-</div>
-<p>Tommy Roe, often called the "King of Bubblegum Pop," delivered timeless hits that defined an era. Tracks like "Sheila," "Dizzy," and "Hanky Panky - Re-Record" continue to captivate listeners with their catchy melodies and nostalgic charm. Released across decades, these songs showcase his enduring appeal.</p>
-<p>Listen to the playlist below to experience these tracks and more:</p>
-<div class="spotify-embed"> 
-</div>
-<p>Tracks featured:</p>
-<ul> <li>"Sheila" – <i>Still Dizzy - [The Dave Cash Collection]</i> (May 9, 2011, The Dave Cash Collection - OMP)</li> <li>"Dizzy" – <i>Tommys 22 Big Ones</i> (January 1, 2001, Geffen)</li> <li>"Hanky Panky - Re-Record" – <i>All the Hits: Re-Recorded</i> (1992, Good Time Records)</li>
-</ul>
-<p>Revisit the golden age of bubblegum pop with Tommy Roes infectious tunes and timeless classics.</p>
-<hr>
-<div class="post-footer"> <p>Discover more of BigBanonos favorites at:</p> <ul> <li><a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos Blog</a></li> <li><a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a></li> <li><a href="https://x.com/bigbanonos" target="_blank">BigBanonos on X/Twitter</a></li> </ul>
-</div>
-<div class="post-tags"> Tags: @tommyroe,
-</div>
+<iframe src="https://open.spotify.com/embed/track/5FwinyfThg7OfJH1dPioiV" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/5LvIl1VHaqtCJJXwrB8QR9" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/2I0S46nCrKENNcit9dDl3Q" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

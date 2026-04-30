@@ -3,27 +3,16 @@ title: "Wild Nothing"
 slug: "wild-nothing"
 date: 2025-01-11
 layout: post
+era:
+  - "2000s-2010s"
+genre:
+  - "dream pop"
+  - "shoegaze"
+  - "chillwave"
 tags:
   - '@wildnothing'
 ---
 
-<div class="post-title"> <h1>BigBanonos Favorite Songs by Wild Nothing</h1>
-</div>
-<p>Updated August 7, 2018, with "Shallow Water" from the album <i>Shallow Water</i>, highlighted in the playlist below:</p>
-<div class="post-image"> {{< img-lite src="https://media.pitchfork.com/photos/64da929136a1e9d12cb54d92/1:1/w_2000,h_2000,c_limit/Wild-Nothing.jpg" alt="Wild Nothing Album Cover" >}}
-</div>
-<p>Wild Nothings shimmering dream pop and indie rock vibes create a lush and introspective sonic experience. Tracks like "Shallow Water" and "Partners in Motion" are standout examples of their knack for crafting ethereal melodies and poignant lyrics. Their work continues to captivate fans of modern dream pop and indie sounds.</p>
-<p>Listen to the playlist below to experience these tracks and more:</p>
-<div class="spotify-embed"> 
-</div>
-<p>Tracks featured:</p>
-<ul> <li>"Shallow Water" – <i>Shallow Water</i> (August 7, 2018, Captured Tracks)</li> <li>"Partners in Motion" – <i>Partners in Motion</i> (July 19, 2018, Captured Tracks)</li>
-</ul>
-<p>Let Wild Nothings dreamy soundscapes transport you to another realm of indie brilliance.</p>
-<hr>
-<div class="post-footer"> <p>Discover more of BigBanonos favorites at:</p> <ul> <li><a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos Blog</a></li> <li><a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a></li> <li><a href="https://x.com/bigbanonos" target="_blank">BigBanonos on X/Twitter</a></li> </ul>
-</div>
-<div class="post-tags"> Tags: @wildnothing,
-</div>
+<iframe src="https://open.spotify.com/embed/track/63JE1xclq1I0C0WlOEGpYH" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/0qCeDj0OwjeJL6K0LuRbz8" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

@@ -3,6 +3,11 @@ title: "Queens Of The Stone Age"
 slug: "queens-of-the-stone-age"
 date: 2007-01-01
 layout: post
+era:
+  - "2000s-2010s"
+genre:
+  - "stoner rock"
+  - "alternative rock"
 tags:
   - '@queens-of-the-stone-age'
   - '00s-10s'
@@ -10,23 +15,8 @@ tags:
   - 'alternative rock'
 ---
 
-## Queens of the Stone Age
+<iframe src="https://open.spotify.com/embed/track/0XdEdfiRTeWvEeN1a4kzlk" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-_3 tracks between 2002 and 2007._
+<iframe src="https://open.spotify.com/embed/track/0BqQWfhMrkpRAUCbdfdHUC" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
----
-
-**No One Knows**
-*Songs For The Deaf* · 2002 · 4:38
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6NvRxjfYkkT2SpirAlmsjH" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**Little Sister**
-*Lullabies To Paralyze* · 2005 · 2:54
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0BqQWfhMrkpRAUCbdfdHUC" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**Suture Up Your Future**
-*Era Vulgaris* · 2007 · 4:37
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0XdEdfiRTeWvEeN1a4kzlk" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe src="https://open.spotify.com/embed/track/6NvRxjfYkkT2SpirAlmsjH" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

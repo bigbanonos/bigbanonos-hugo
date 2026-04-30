@@ -3,6 +3,14 @@ title: "Frank Sinatra"
 slug: "frank-sinatra"
 date: 1967-08-01
 layout: post
+era:
+  - "1900s"
+genre:
+  - "christmas"
+  - "big band"
+  - "adult standards"
+  - "swing music"
+  - "jazz"
 tags:
   - '@frank-sinatra'
   - '@frank-sinatra-nancy-sinatra'
@@ -13,18 +21,6 @@ tags:
   - 'swing music'
 ---
 
-## Frank Sinatra
+<iframe src="https://open.spotify.com/embed/track/5jXPgbjkh2WMzRtUWMfYZG" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-_2 tracks between 1958 and 1967._
-
----
-
-**Its Nice To Go Travling - Remastered 1998**
-*Come Fly With Me (Expanded Edition)* · 1958 · 3:52
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4H5YyMYOenIziYhx8UlS0j" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**Somethin Stupid [The Frank Sinatra Collection]** (feat. Frank Sinatra & Nancy Sinatra)
-*The World We Knew* · 1967 · 2:45
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5jXPgbjkh2WMzRtUWMfYZG" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe src="https://open.spotify.com/embed/track/4H5YyMYOenIziYhx8UlS0j" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

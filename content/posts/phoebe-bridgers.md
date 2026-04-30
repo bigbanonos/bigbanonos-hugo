@@ -3,38 +3,19 @@ title: "Phoebe Bridgers"
 slug: "phoebe-bridgers"
 date: 2022-07-01
 layout: post
+era:
+  - "2020s"
 tags:
   - '@phoebe-bridgers'
   - '2020s'
 ---
 
-## Phoebe Bridgers
+<iframe src="https://open.spotify.com/embed/track/4YEcH1SdjdeEyvt4AGYeqI" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-_5 tracks between 2020 and 2022._
+<iframe src="https://open.spotify.com/embed/track/5uQRmdIqyMmKPWJcot4UmV" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
----
+<iframe src="https://open.spotify.com/embed/track/60zlkOrTCHjpRTd1g6PI5y" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-**Kyoto**
-*Kyoto* · 2020 · 3:04
+<iframe src="https://open.spotify.com/embed/track/6Xa2Y4EP6wossxPv1kUy2c" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4m32ZYmSYgGziMwx3cJxS7" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**I See You**
-*I See You* · 2020 · 3:10
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6Xa2Y4EP6wossxPv1kUy2c" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**Garden Song**
-*Punisher* · 2020 · 3:39
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5uQRmdIqyMmKPWJcot4UmV" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**Chinese Satellite**
-*Punisher* · 2020 · 3:37
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/60zlkOrTCHjpRTd1g6PI5y" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**Goodbye To Love - From Minions: The Rise of Gru Soundtrack**
-*Goodbye To Love (From Minions: The Rise of Gru Soundtrack)* · 2022 · 4:02
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4YEcH1SdjdeEyvt4AGYeqI" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe src="https://open.spotify.com/embed/track/4m32ZYmSYgGziMwx3cJxS7" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

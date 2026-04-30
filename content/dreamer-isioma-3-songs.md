@@ -3,12 +3,17 @@ title: "Dreamer Isioma"
 slug: "dreamer-isioma"
 date: 2024-12-21
 layout: post
+era:
+  - "2020s"
+genre:
+  - "alternative r&b"
+explicit: true
 tags:
   - '@dreamerisioma'
 ---
 
-<h3><em>BigBanonos</em> Favorite Songs by Dreamer Isioma:</h3> <p>fka Serena Isioma, Updated on March 24, 2022, with the live version of "Sunset Drive - A COLORS SHOW." BigBanonos highlights Dreamer Isiomas top tracks, showcasing their mix of alternative R&B and indie pop styles.</p> <!--Image-->
- <!--Spotify Playlist Embed-->
- <!--Song Listings-->
- 
- <hr />
+<iframe src="https://open.spotify.com/embed/track/6LAG03Nr7qRvPSdmrPC5JF" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/6Eijbe8cJeRl8yGSotw7iT" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/6Vo8KwBWXiKwHa4bz4XWht" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

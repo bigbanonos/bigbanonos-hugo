@@ -3,6 +3,14 @@ title: "Ariana Grande"
 slug: "ariana-grande"
 date: 2024-10-31
 layout: post
+era:
+  - "2000s-2010s"
+  - "2020s"
+genre:
+  - "pop"
+  - "alternative r&b"
+  - "edm"
+explicit: true
 tags:
   - '@justinbieber'
   - '@zedd'
@@ -10,9 +18,18 @@ tags:
   - '@arianagrande'
 ---
 
-<h2>BigBanonos Favorite 8 Songs by Ariana Grande</h2>
-<p>BigBanonos presents a curated selection of top songs by Ariana Grande, showcasing her unique pop sound and chart-topping hits. BigBanonos Favorite 8 Songs by Ariana Grande, Last updated October 30, 2020, with "positions" from <em>Positions</em>, highlighted in the playlist below:</p>  <img alt="Ariana Grande - Top Songs" src="https://ew.com/thmb/TAdvClENT23xCXxbjhlvOL-Uv-o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/gettyimages-692327234-2000-bba650eece1242e39e3584f25019fdaf.jpg" /> <div> 
-</div> <p>Dont forget to check out BigBanonos on YouTube for more curated music content, especially those tracks #NotOnSpotify!</p>
-<p><a href="https://www.youtube.com/@BigBanonos">BigBanonos YouTube Channel</a></p>
+<iframe src="https://open.spotify.com/embed/track/35mvY5S1H3J2QZyna3TFe0" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/4HBZA5flZLE435QTztThqH" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/3UBE9swDF71ARoV42g6Fcx" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/6tsOcBnaKgzK22yEiqRh8P" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/4kV4N9D1iKVxx1KLvtTpjS" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/5SxkdsY1ufZzoq9iXceLw9" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/2meEiZKWkiN28gITzFwQo5" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/12KUFSHFgT0XCoiSlvdQi4" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

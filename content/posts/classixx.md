@@ -3,6 +3,12 @@ title: "Classixx"
 slug: "classixx"
 date: 2013-05-14
 layout: post
+era:
+  - "2000s-2010s"
+genre:
+  - "nu disco"
+  - "indie dance"
+  - "finnish hip hop"
 tags:
   - '@classixx'
   - '@classixx-jeppe'
@@ -12,18 +18,6 @@ tags:
   - 'finnish hip hop'
 ---
 
-## Classixx
+<iframe src="https://open.spotify.com/embed/track/5BzZtDfhntg4FDj2UUYrX1" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-_2 tracks, all from 2013._
-
----
-
-**Ill Get You** (feat. Classixx;Jeppe)
-*Hanging Gardens* · 2013 · 3:59
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0VnPKYyy3wWkVlGp5CG09S" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**All Youre Waiting For (feat. Nancy Whang)**
-*Hanging Gardens* · 2013 · 4:17
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5BzZtDfhntg4FDj2UUYrX1" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe src="https://open.spotify.com/embed/track/0VnPKYyy3wWkVlGp5CG09S" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

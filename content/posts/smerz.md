@@ -3,6 +3,10 @@ title: "Smerz"
 slug: "smerz"
 date: 2025-11-05
 layout: post
+era:
+  - "2020s"
+genre:
+  - "alternative r&b"
 tags:
   - '@smerz'
   - '@smerz-erika-de-casier'
@@ -10,23 +14,8 @@ tags:
   - 'alternative r&b'
 ---
 
-## Smerz
+<iframe src="https://open.spotify.com/embed/track/5di5j7CqrNxPCD2x8looz1" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-_3 tracks, all from 2025._
+<iframe src="https://open.spotify.com/embed/track/5b3yINi6jbTdURfGU4nKoC" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
----
-
-**You got time and I got money**
-*You got time and I got money* · 2025 · 4:31
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4YDl2Oxc1mVRnZsZAbNzI0" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**Feisty**
-*Big city life* · 2025 · 2:40
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5b3yINi6jbTdURfGU4nKoC" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**Feisty - Erika de Casier EDIT** (feat. Smerz;Erika de Casier)
-*Big city life EDITS* · 2025 · 2:50
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5di5j7CqrNxPCD2x8looz1" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe src="https://open.spotify.com/embed/track/4YDl2Oxc1mVRnZsZAbNzI0" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

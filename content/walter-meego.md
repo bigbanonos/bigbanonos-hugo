@@ -3,10 +3,14 @@ title: "Walter Meego"
 slug: "walter-meego"
 date: 2025-02-10
 layout: post
+era:
+  - "2000s-2010s"
+genre:
+  - "new rave"
 tags:
   - '@waltermeego'
 ---
 
-<!-- Walter Meego -->
-<img src="https://i.ytimg.com/vi/nD-iCanIVUI/hqdefault.jpg" /> <p><strong>Updated 2008 with "Forever"</strong></p> <p><strong>"Looking Through a Keyhole"</strong> – 2008</p>
-<p><strong>"Forever"</strong> – 2008</p> {{< youtube "jtwa6IoWt10" >}} <p>@waltermeego</p> <hr />
+<iframe src="https://open.spotify.com/embed/track/4LGRDHoGfhCCdnYfibJyhh" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/1ZC8qawb8xbC00sDx5qaM7" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

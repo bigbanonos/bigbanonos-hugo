@@ -3,12 +3,19 @@ title: "Stevie Wonder"
 slug: "stevie-wonder"
 date: 2024-12-20
 layout: post
+era:
+  - "1900s"
+  - "2000s-2010s"
+genre:
+  - "motown"
+  - "classic soul"
+  - "soul"
 tags:
   - '@steviewonder'
 ---
 
-<h1>BigBanonos Top Songs by Stevie Wonder</h1>
-<img alt="Stevie Wonder" src="https://classic.motown.com/wp-content/uploads/2016/02/stevie-in-the-70-s.jpg" /> <p>Stevie Wonder, a Motown legend, is celebrated for his profound influence on soul and R&B. Here are BigBanonos top selections:</p>  <div> 
-</div>
+<iframe src="https://open.spotify.com/embed/track/1O1mCVN5hue4lOOqd5EysZ" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/7hRYauk30VeBFmdeFQPNVx" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/6o2NonhsBO71qyrCoPcu1g" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

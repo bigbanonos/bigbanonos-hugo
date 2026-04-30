@@ -3,15 +3,30 @@ title: "Dead Moon"
 slug: "dead-moon"
 date: 2024-12-20
 layout: post
+era:
+  - "1900s"
+  - "2000s-2010s"
+genre:
+  - "garage rock"
+  - "proto-punk"
 tags:
   - '@deadmoon'
 ---
 
-<h2>Dead Moon – Essential Tracks</h2> <div > <img src="https://static01.nyt.com/images/2017/11/13/arts/music/13cole1/13cole1-superJumbo-v5.jpg" alt="Dead Moon" width="500" />
-</div>  <h3>Tracklist</h3>
-<ul> <li><strong>Graveyard</strong> – <em>In the Graveyard</em> (1988)</li> <li><strong>13 Going on 21</strong> – <em>Defiance</em> (1990)</li> <li><strong>Its O.K.</strong> – <em>Crack in the System</em> (1994)</li> <li><strong>Poor Born</strong> – <em>Crack in the System</em> (1994)</li> <li><strong>These Times With You</strong> – <em>Trash & Burn</em> (2001)</li> <li><strong>On Another Plane</strong> – <em>Dead Ahead</em> (1999)</li> <li><strong>The Way It Is</strong> – <em>Dead Ahead</em> (2004)</li> <li><strong>One World</strong> – <em>Dead Ahead</em> (2004)</li>
-</ul> <h3>Albums</h3>
- <h3>Tags</h3>
-<p>@deadmoon</p> <p>Explore more essential tracks at <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a> and subscribe to our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube channel</a>.</p>
+<iframe src="https://open.spotify.com/embed/track/59sbh4Ur10e48XpIGWM2QD" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/75It0xyB7EmLLiYdG6fcIM" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/5MkA4MDq2hc39cn2fc1CPp" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/0FaauWA6qCmdsT9weCnMIy" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/5mhtmgaQBPhYnjg3acofbz" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/1R8TkWAPoo81SGXrQ7oWei" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/5FVKVd1wp7dGqjWzATBJcK" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/49U1sODQvevZPTteuJ4azd" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/0WtFmCcUzJwfz0xpwziODV" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

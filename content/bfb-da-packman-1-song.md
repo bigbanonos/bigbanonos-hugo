@@ -3,6 +3,11 @@ title: "Bfb Da Packman"
 slug: "bfb-da-packman"
 date: 2025-05-29
 layout: post
+era:
+  - "2020s"
+genre:
+  - "hyphy"
+explicit: true
 tags:
   - '@bfbdapackman'
   - '@larussell'
@@ -10,15 +15,8 @@ tags:
   - '@zackfox'
 ---
 
-<h2>BigBanonos Top 3 Favorite Songs by Bfb Da Packman</h2> <!-- Search Description -->
-<p>BigBanonos favorite tracks by Bfb Da Packman, including breakout joints with Sada Baby, Zack Fox, and now LaRussell. "Groovy Gangster" brings a hyphy bounce to the Packman catalog. Watch and listen below.</p> <!-- Spotify Playlist Embed -->
- <!-- Song Listings -->
-<ul> <li>Groovy Gangster (feat. LaRussell) – <em>Thats Brilliant!</em> (April 18, 2025) – The Lunch Crew Company LLC</li> <li>Free Joe Exotic (feat. Sada Baby) – <em>Fat N*ggas Need Love Too</em> (2021)</li> <li>Bob and Weave (feat. Zack Fox) – <em>Fat N*ggas Need Love Too</em> (2021)</li>
-</ul> <!-- New YouTube Embed -->
-<h3>"Groovy Gangster" Official Video</h3>
-{{< youtube "3UXc-Wn3NE8" >}} <!-- Image -->
-<img alt="Bfb Da Packman" height="auto" src="https://images.genius.com/33f335323bbbd0bd373cde173b2454b2.640x640x1.jpg" width="100%" /> <!-- Tags and Links -->
-<h3>Explore more of the best Detroit hip hop on <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a> and subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> for curated playlists and exclusive tracks.</h3> 
-<p>@bfbdaPackman,@larussell,@sadababy,@zackfox</p>
+<iframe src="https://open.spotify.com/embed/track/1XI8vQWmBslPp1ldE7qfuK" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/4X0YZJfqdx4SarbsK69v4Y" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/3asben67kRSobuDjUPaWZB" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

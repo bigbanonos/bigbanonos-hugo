@@ -3,24 +3,16 @@ title: "Natalie Prass"
 slug: "natalie-prass"
 date: 2018-10-25
 layout: post
+era:
+  - "2000s-2010s"
+genre:
+  - "baroque pop"
 tags:
   - '@natalie-prass'
   - '00s-10s'
   - 'baroque pop'
 ---
 
-## Natalie Prass
+<iframe src="https://open.spotify.com/embed/track/24fwYuSrw2xh4BHBW2XGey" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-_2 tracks between 2015 and 2018._
-
----
-
-**My Baby Dont Understand Me**
-*Natalie Prass* · 2015 · 5:12
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1mwwueuXt5NPPtnJyswwA9" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**No Future In Our Frontman - 8**
-*No Future In Our Frontman* · 2018 · 3:26
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/24fwYuSrw2xh4BHBW2XGey" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe src="https://open.spotify.com/embed/track/1mwwueuXt5NPPtnJyswwA9" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

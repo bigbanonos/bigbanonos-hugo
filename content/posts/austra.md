@@ -3,6 +3,11 @@ title: "Austra"
 slug: "austra"
 date: 2011-05-24
 layout: post
+era:
+  - "2000s-2010s"
+genre:
+  - "art pop"
+  - "witch house"
 tags:
   - '@austra'
   - '00s-10s'
@@ -10,18 +15,6 @@ tags:
   - 'witch house'
 ---
 
-## Austra
+<iframe src="https://open.spotify.com/embed/track/3StQeTxTjagZusNO6WxCYl" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-_2 tracks, all from 2011._
-
----
-
-**Hate Crime**
-*Feel It Break* · 2011 · 4:01
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3CKI9OxEJndcTQOq704DW1" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**Lose It**
-*Lose It* · 2011 · 4:30
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3StQeTxTjagZusNO6WxCYl" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe src="https://open.spotify.com/embed/track/3CKI9OxEJndcTQOq704DW1" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

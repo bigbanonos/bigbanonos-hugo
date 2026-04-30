@@ -3,6 +3,12 @@ title: "Jonathan Richman"
 slug: "jonathan-richman"
 date: 2004-07-19
 layout: post
+era:
+  - "1900s"
+  - "2000s-2010s"
+genre:
+  - "proto-punk"
+  - "anti-folk"
 tags:
   - '@jonathan-richman'
   - '@jonathan-richman-the-modern-lovers'
@@ -13,38 +19,14 @@ tags:
   - 'anti-folk'
 ---
 
-## Jonathan Richman
+<iframe src="https://open.spotify.com/embed/track/2rneJaaVTvpEnq22TiCzE9" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-_6 tracks from 1976 to 2004. The peak is in there somewhere._
+<iframe src="https://open.spotify.com/embed/track/4axPxMZwpzQWjcNjv1JOP6" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
----
+<iframe src="https://open.spotify.com/embed/track/5oOC6EBnSQ3PfRAQyfjAla" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-**Pablo Picasso** (feat. Jonathan Richman;The Modern Lovers)
-*The Modern Lovers* · 1976 · 4:21
+<iframe src="https://open.spotify.com/embed/track/2UayKZmrsYyjNj6T8frugJ" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2MJsnBWkvnKLnQldFEJ9zL" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe src="https://open.spotify.com/embed/track/7H3cCK7jEp67pDf7fnJGwq" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-**I Love Hot Nights** (feat. Jonathan Richman;The Modern Lovers)
-*Modern Lovers 88* · 1988 · 2:57
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7H3cCK7jEp67pDf7fnJGwq" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**Parties In The U.S.A.**
-*I, Jonathan* · 1992 · 4:43
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4axPxMZwpzQWjcNjv1JOP6" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**That Summer Feeling**
-*I, Jonathan* · 1992 · 6:06
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5oOC6EBnSQ3PfRAQyfjAla" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**I Was Dancing In The Lesbian Bar**
-*I, Jonathan* · 1992 · 3:43
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2UayKZmrsYyjNj6T8frugJ" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**The Morning of Our Lives** (feat. Jonathan Richman & The Modern Lovers)
-*Roadrunner: The Beserkley Collection* · 2004 · 5:26
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2rneJaaVTvpEnq22TiCzE9" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe src="https://open.spotify.com/embed/track/2MJsnBWkvnKLnQldFEJ9zL" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

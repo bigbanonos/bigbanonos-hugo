@@ -3,6 +3,16 @@ title: "Missy Elliott"
 slug: "missy-elliott"
 date: 2024-12-17
 layout: post
+era:
+  - "1900s"
+  - "2000s-2010s"
+genre:
+  - "hip hop"
+  - "southern hip hop"
+  - "east coast hip hop"
+  - "rap"
+  - "g-funk"
+explicit: true
 tags:
   - '@ludacris'
   - '@beyonce'
@@ -11,10 +21,36 @@ tags:
   - '@jayz'
 ---
 
-<h1>BigBanonos Top Songs by Missy Elliott</h1>
-<img alt="Missy Elliott" src="https://i.ytimg.com/vi/cjIvu7e6Wq8/maxresdefault.jpg" /> <p>Missy Elliott is a trailblazer in hip hop, known for her creative beats, iconic collaborations, and unmatched energy. Here are BigBanonos favorite tracks:</p>  <div> 
-</div> <p>first posted by <a href="https://bigbanonos.blogspot.com/">https://bigbanonos.blogspot.com/</a></p> <div> <p>Explore more BigBanonos content: <a href="https://bigbanonos.blogspot.com/">Website</a> | <a href="https://www.youtube.com/@BigBanonos">YouTube</a> | <a href="https://x.com/bigbanonos">Twitter</a></p>
-</div> 
-<p>@missyelliott,@beyonce,@jayz,@ludacris,@fatmanscoop</p>
+<iframe src="https://open.spotify.com/embed/track/30QVousvHxslg00I7dNLU2" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/1tM9fWkikT0TVvKP34BXId" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/0UaMYEvWZi0ZqiDOoHU3YI" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/1MaI6NwdrqnE3mRzOYTpoo" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/75DjPjiIp2fvJDjtt41Jfs" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/3jagJCUbdqhDSPuxP8cAqF" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/7qpWcD93ZlXfGkv2XNvLo5" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/2ViYduP7BscBX3XGMMdaOy" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/6zsk6uF3MxfIeHPlubKBvR" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/4v6V17Q3pypLu7zayg8vMa" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/13KEdaWIc7T6ozEmnJjHy1" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/4vO3U8AKIjwBEBCTbEFbD9" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/7mYvtEeBdMqRSyj1Qpv6my" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/2WRzpLD8qDRrxMXc63E5WJ" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/08bn759cPYICtUPoYx29P0" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/0hq4njfuLWfjlfinVFCXhA" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/0tmmvIUPYYP3W1Z06bvwkF" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

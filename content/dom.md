@@ -3,18 +3,29 @@ title: "Dom"
 slug: "dom"
 date: 2025-02-09
 layout: post
+era:
+  - "2000s-2010s"
 tags:
   - '@cults'
   - '@dom'
 ---
 
-<h2>BigBanonos Favorite Songs by DoM</h2> <p><strong>Updated January 14, 2011, with "Bowl Cut (feat. Madeline of Cults)"</strong></p> {{< img-lite src="https://media.pitchfork.com/photos/5929b0619d034d5c69bf4877/1:1/w_800%2Ch_450%2Cc_limit/55a358df.jpg" alt="DoM" >}} <p>DoMs lo-fi indie pop and electronic elements made an impact with their unique sound. Below are BigBanonos favorite songs by DoM.</p> <h3>"Bowl Cut (feat. Madeline of Cults)"</h3>
-<p><em>Bowl Cut (Single)</em>, Black Bell Records, January 14, 2011</p> <h3>"Happy Birthday Party"</h3>
-<p><em>Family Of Love</em>, Capitol Records, January 1, 2011</p> <h3>"Some Boys"</h3>
-<p><em>Family Of Love</em>, Capitol Records, January 1, 2011</p> <h3>"Bochicha"</h3>
-<p><em>Sun Bronzed Greek Gods</em>, Astralwerks, January 1, 2010</p> <h3>"I Wonder"</h3>
-<p><em>Sun Bronzed Greek Gods</em>, Astralwerks, January 1, 2010</p> <h3>"Rude As Jude"</h3>
-<p><em>Sun Bronzed Greek Gods</em>, Astralwerks, January 1, 2010</p> <h3>"Jesus"</h3>
-<p><em>Sun Bronzed Greek Gods</em>, Astralwerks, January 1, 2010</p> <h3>"Living In America"</h3>
-<p><em>Sun Bronzed Greek Gods</em>, Astralwerks, January 1, 2010</p> <h3>"Burn Bridges"</h3>
-<p><em>Sun Bronzed Greek Gods</em>, Astralwerks, January 1, 2010</p> <hr /> <h3>Listen on Spotify</h3>  <hr /> <p><strong>Tags:</strong> @dom</p> <hr />
+<iframe src="https://open.spotify.com/embed/track/0AshLrs2EiEhjn1cQlSPkz" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/3y4BP8XhlsRRmPozY9m9PY" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/5MPgm1JlU21lbaNn4hVrdw" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/0DaHlyR79eSRpB5nzEF4Jt" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/3f1yAg2u74Wn8Jj14zhJGS" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/5rUag6Tg1F5eXt6fRf2xdN" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/1lCwTuB8Z79PckREcdvVew" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/5ZLZzSvemy6UJKvGkb5YjZ" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/5RDL6UOEdWyE3LrCSXrNfb" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/5ZmYV5BkzS1IZXwZcrws4V" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

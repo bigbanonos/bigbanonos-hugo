@@ -3,9 +3,16 @@ title: "Lederhosen Lucil"
 slug: "lederhosen-lucil"
 date: 2025-02-12
 layout: post
+era:
+  - "2000s-2010s"
 tags:
   - '@lederhosenlucil'
 ---
 
-<div> <h2>Lederhosen Lucil</h2> {{< img-lite src="https://i.scdn.co/image/ab6761610000e5eb51c7f1d25db78c4dfa8c20bb" alt="Lederhosen Lucil" >}}  <p><strong>BigBanonos favorite tracks by Lederhosen Lucil:</strong></p> <p><strong>"Sigh About This"</strong> – *Tales From The Pantry* (2003) | hypo records</p> <p><strong>"Space"</strong> – *Tales From The Pantry* (2003) | hypo records</p> <p><strong>"Doin The Ganglion"</strong> – *Tales From The Pantry* (2003) | hypo records</p> <p><strong>"Automatic Weapons Of The World"</strong> – *Hosemusik* (2002) | hypo records</p>
-</div>  <hr />
+<iframe src="https://open.spotify.com/embed/track/2ihQjU3SuuQjFt69SrJTl4" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/38hgbIfrL9pvKm9lV2IIQE" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/56X6UZCEVwQI9QbLejgwPK" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/3FJt43QVIAR3ekojzzqVKg" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

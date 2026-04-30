@@ -3,33 +3,17 @@ title: "Sky Ferreira"
 slug: "sky-ferreira"
 date: 2013-01-01
 layout: post
+era:
+  - "2000s-2010s"
 tags:
   - '@sky-ferreira'
   - '00s-10s'
 ---
 
-## Sky Ferreira
+<iframe src="https://open.spotify.com/embed/track/6Nc3KauZ5OOk7ogX7h5HhO" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-_4 tracks between 2012 and 2013._
+<iframe src="https://open.spotify.com/embed/track/0Px73m5ACfeYHYsAo9YTfP" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
----
+<iframe src="https://open.spotify.com/embed/track/3hnlbzC6h0GxLfVmxAG4gA" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-**Sad Dream**
-*Ghost* · 2012 · 3:35
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3hnlbzC6h0GxLfVmxAG4gA" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**Everything Is Embarrassing**
-*Ghost* · 2012 · 4:09
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/70v5mCvyPRquTyU7qTIU81" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**Boys**
-*Night Time, My Time* · 2013 · 4:39
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6Nc3KauZ5OOk7ogX7h5HhO" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**You’re Not The One**
-*Night Time, My Time* · 2013 · 3:55
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0Px73m5ACfeYHYsAo9YTfP" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe src="https://open.spotify.com/embed/track/70v5mCvyPRquTyU7qTIU81" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

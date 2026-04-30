@@ -3,21 +3,29 @@ title: "Crass"
 slug: "crass"
 date: 2025-01-17
 layout: post
+era:
+  - "1900s"
+genre:
+  - "punk"
+  - "hardcore punk"
+  - "proto-punk"
+  - "riot grrrl"
+  - "queercore"
+explicit: true
 tags:
   - '@crass'
 ---
 
-<!-- Title of the Post -->
-<h1 >BigBanonos Favorite Songs by Crass</h1> <!-- Featured Image -->
-<div > {{< img-lite src="https://i.scdn.co/image/ab67616d0000b27308da902d054513244ddc9193" alt="Crass" >}}
-</div> <!-- Spotify Embed -->
-<div > 
-</div> <!-- Introductory Text -->
-<p >Crass embodies anarcho-punk with revolutionary tracks like "Bloody Revolutions" and "Punk Is Dead." BigBanonos highlights their genre-defining hits.</p> <!-- Song Highlights -->
-<div > <p>BigBanonos standout picks:</p> 
-</div> <!-- Footer Links -->
-<div > <p>Revisit punk anthems at <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. For more music insights, follow <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p>
-</div> 
-<p >Tags: @crass</p>
+<iframe src="https://open.spotify.com/embed/track/6esWMiFWAQh4viXqgOVlEX" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/5iGYQSHLFZg3IFXY9sjbqF" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/0Zql18X4utcrigqrQ4a4Ar" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/5fThEt1BCXTnIUWRNIfdta" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/6NCXS9opVblKmvwQOHaJCb" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/2hbh8xvfmQIejYmM8wpxe8" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/0Bz9LyfZ77zJl05Bx9FJrD" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

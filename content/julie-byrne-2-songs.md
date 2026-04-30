@@ -3,14 +3,15 @@ title: "Julie Byrne"
 slug: "julie-byrne"
 date: 2024-12-20
 layout: post
+era:
+  - "2000s-2010s"
+  - "2020s"
+genre:
+  - "ambient folk"
 tags:
   - '@juliebyrne'
 ---
 
-<h1>Julie Byrne: Top Songs</h1>
-{{< img-lite src="https://media.npr.org/assets/img/2016/11/10/julie-byrne---not-even-happiness---press-photo-credit-to-jonathan-bouknight_wide-8d7d9e549233a8ae310f1e9a42017a34437ad6e4.jpg" alt="Julie Byrne" >}} <p>Julie Byrnes music, often described as a transcendent blend of ambient folk and chamber pop, invites listeners into a meditative, introspective world. Here are two of her essential tracks:</p>  <div> 
-</div> <p>"<strong>Conversation Is A Flowstate</strong>" explores the ebb and flow of introspective thought, while "<strong>Prism Song</strong>" transports listeners through serene and reflective soundscapes. Both tracks are stellar examples of Byrnes captivating approach to ambient folk.</p> <div> <p>Discover more favorite tracks on BigBanonos: <a href="https://bigbanonos.blogspot.com/">Website</a> | <a href="https://www.youtube.com/@BigBanonos">YouTube</a> | <a href="https://x.com/bigbanonos">Twitter</a></p>
-</div> 
-<p>@juliebyrne</p>
+<iframe src="https://open.spotify.com/embed/track/0czcu51nwUR7EwgdLKucJB" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/2kSeNucLoBda0BBLYKurtp" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

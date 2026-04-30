@@ -3,20 +3,19 @@ title: "Hyd"
 slug: "hyd"
 date: 2026-04-16
 layout: post
+era:
+  - "2020s"
+genre:
+  - "hyperpop"
+  - "art pop"
 tags:
   - '@hyd'
 ---
 
-{{< youtube id="ZDi6MyrIkPo" >}}
+<iframe src="https://open.spotify.com/embed/track/6NkgYvXm6foboPDWd0yyrM" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6NkgYvXm6foboPDWd0yyrM" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe src="https://open.spotify.com/embed/track/1NI1eV3ekhn0HbfkNp8i6m" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2PoT7jvDPn3lhtJMW0UKYr" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe src="https://open.spotify.com/embed/track/2PoT7jvDPn3lhtJMW0UKYr" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/21fIsLrnYfJnzVoN9luEDR" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1NI1eV3ekhn0HbfkNp8i6m" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/58V9jnfzBFl02vdET97snL" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/2TIZf8pQNGdiou00mZLCMz" width="100%" height="352" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe src="https://open.spotify.com/embed/track/21fIsLrnYfJnzVoN9luEDR" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

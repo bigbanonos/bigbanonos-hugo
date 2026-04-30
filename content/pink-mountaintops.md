@@ -3,15 +3,19 @@ title: "Pink Mountaintops"
 slug: "pink-mountaintops"
 date: 2025-02-10
 layout: post
+era:
+  - "2000s-2010s"
+genre:
+  - "neo-psychedelic"
+explicit: true
 tags:
   - '@pinkmountaintops'
 ---
 
-<!-- Pink Mountaintops -->
-<img src="https://i.scdn.co/image/ab67616d0000b273907265db1a5139705f021376" /> <p><strong>Updated May 5, 2009 with "Execution" from <em>Outside Love</em></strong></p> <p><strong>"Execution"</strong> – <em>Outside Love</em> (Jagjaguwar, 2009)</p>
-<p><strong>"Holiday"</strong> – <em>Outside Love</em> (Jagjaguwar, 2009)</p>
-<p><strong>"Lord, Let Us Shine"</strong> – <em>Axis of Evol</em> (Jagjaguwar, 2006)</p>
-<p><strong>"Erected"</strong> – <em>The Ones I Love b/w Erected</em> (Jagjaguwar, 2005)</p>  <p>@pinkmountaintops</p> <hr /> <!-- Footer -->
- 
+<iframe src="https://open.spotify.com/embed/track/3LO2KY77PdVtDlppTLl7hV" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/2SzgLKdutQ9pnbvamyRfVs" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/6aLtyTCOiimcnjR3RFNCiU" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/79IvgFTrQYSdDnkNOJOdUl" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

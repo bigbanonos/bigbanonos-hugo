@@ -3,6 +3,16 @@ title: "J Hus"
 slug: "j-hus"
 date: 2020-01-23
 layout: post
+era:
+  - "2000s-2010s"
+  - "2020s"
+genre:
+  - "afroswing"
+  - "grime"
+  - "uk grime"
+  - "afrobeats"
+  - "dancehall"
+explicit: true
 tags:
   - '@j-hus'
   - '@j-hus-original-koffee'
@@ -15,23 +25,8 @@ tags:
   - 'afrobeats'
 ---
 
-## J Hus
+<iframe src="https://open.spotify.com/embed/track/0zXE8mMAXCtfzc02MddxWn" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-_3 tracks between 2017 and 2020._
+<iframe src="https://open.spotify.com/embed/track/2n1oPHJVMPWJkjgHwVcksY" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
----
-
-**Bouff Daddy (Dre Skull Remix) (feat. Popcaan)** (feat. J Hus;Popcaan;Dre Skull)
-*Bouff Daddy (Dre Skull Remix) (feat. Popcaan)* · 2017 · 2:56
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/79rbUDrGg6fvdKelEwifTI" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**Must Be**
-*Must Be* · 2019 · 3:27
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2n1oPHJVMPWJkjgHwVcksY" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**Repeat (feat. Koffee)** (feat. J Hus;Original Koffee)
-*Repeat (feat. Koffee)* · 2020 · 2:33
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0zXE8mMAXCtfzc02MddxWn" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe src="https://open.spotify.com/embed/track/79rbUDrGg6fvdKelEwifTI" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

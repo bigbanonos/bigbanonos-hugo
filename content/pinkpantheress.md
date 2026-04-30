@@ -3,11 +3,14 @@ title: "Pinkpantheress"
 slug: "pinkpantheress"
 date: 2025-06-03
 layout: post
+era:
+  - "2020s"
+genre:
+  - "bedroom pop"
 tags:
   - '@pinkpantheress'
 ---
 
-<img src="https://static.wikia.nocookie.net/pinkpantheress/images/7/72/Pinkpantheress_in_2023.webp/revision/latest?cb=20231023213610" width="100%" /> <h2>Favorite Song by PinkPantheress</h2> <p>"Stateside" dropped April 25, 2025 on Warner Records. A breezy cut from PinkPantheress that blends her signature bedroom pop with a glossy pop sheen"low-stakes, highly repeatable, and one of BigBanonos favorite May releases.</p> {{< youtube "577KLifYNc0" >}}  <hr />  
-<p>@pinkpantheress</p>
+<iframe src="https://open.spotify.com/embed/track/1WmBVbFmLt0w6zPP37TeCG" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/7Fr2Q6q3rAxFUcMkuvVrXO" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

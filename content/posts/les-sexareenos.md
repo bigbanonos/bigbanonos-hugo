@@ -3,6 +3,11 @@ title: "Les Sexareenos"
 slug: "les-sexareenos"
 date: 2001-01-01
 layout: post
+era:
+  - "2000s-2010s"
+genre:
+  - "garage rock"
+  - "psychobilly"
 tags:
   - '@les-sexareenos'
   - '00s-10s'
@@ -10,18 +15,6 @@ tags:
   - 'psychobilly'
 ---
 
-## Les Sexareenos
+<iframe src="https://open.spotify.com/embed/track/1OfmY2bi4hmtE191rF8XAZ" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-_2 tracks, all from 2001._
-
----
-
-**We Gonna Ball**
-*14 Frenzied Shakers* · 2001 · 2:34
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1OfmY2bi4hmtE191rF8XAZ" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**Put Out**
-*14 Frenzied Shakers* · 2001 · 2:18
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6lXq8tpLJfKHnwDWvy0YEX" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe src="https://open.spotify.com/embed/track/6lXq8tpLJfKHnwDWvy0YEX" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

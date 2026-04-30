@@ -3,6 +3,14 @@ title: "Mac Demarco"
 slug: "mac-demarco"
 date: 2023-10-02
 layout: post
+era:
+  - "2000s-2010s"
+  - "2020s"
+genre:
+  - "indie"
+  - "lo-fi indie"
+  - "italo disco"
+  - "italo dance"
 tags:
   - '@mac-demarco'
   - '@mac-demarco-ryan-paris'
@@ -14,23 +22,8 @@ tags:
   - 'italo dance'
 ---
 
-## Mac DeMarco
+<iframe src="https://open.spotify.com/embed/track/1EKpwGoisV5nUOqqMZ7gAJ" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-_3 tracks between 2015 and 2023._
+<iframe src="https://open.spotify.com/embed/track/0NcLakoPXeAl29isOQKSDv" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
----
-
-**Just to Put Me Down**
-*Another One* · 2015 · 3:18
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1gfLXyCT1B4WY3lWrvcUiX" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**Trouble Believing - Demo**
-*Old Dog Demos* · 2018 · 2:32
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0NcLakoPXeAl29isOQKSDv" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**Simply Paradise** (feat. Mac DeMarco;Ryan Paris)
-*Simply Paradise* · 2023 · 2:35
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1EKpwGoisV5nUOqqMZ7gAJ" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe src="https://open.spotify.com/embed/track/1gfLXyCT1B4WY3lWrvcUiX" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

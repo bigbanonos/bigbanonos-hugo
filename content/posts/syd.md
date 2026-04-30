@@ -3,6 +3,12 @@ title: "Syd"
 slug: "syd"
 date: 2022-04-08
 layout: post
+era:
+  - "2000s-2010s"
+  - "2020s"
+genre:
+  - "alternative r&b"
+explicit: true
 tags:
   - '@syd'
   - '@syd-smino'
@@ -11,33 +17,12 @@ tags:
   - 'alternative r&b'
 ---
 
-## Syd
+<iframe src="https://open.spotify.com/embed/track/0E3MUIYXSbQ9qbRDubY2vg" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-_5 tracks between 2017 and 2022._
+<iframe src="https://open.spotify.com/embed/track/5MpKIEUUuEICxvFWHarTq9" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
----
+<iframe src="https://open.spotify.com/embed/track/439zbDDCpOPntEFlZFHKbY" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-**Body**
-*Fin* · 2017 · 4:22
+<iframe src="https://open.spotify.com/embed/track/18kMrxuEwLL0i4lHnlF5rK" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0IaiJbZebXLqfetAkMEZzU" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**Fast Car**
-*Fast Car* · 2021 · 3:30
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/18kMrxuEwLL0i4lHnlF5rK" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**Right Track (feat. Smino)** (feat. Syd;Smino)
-*Right Track (feat. Smino)* · 2021 · 2:38
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/439zbDDCpOPntEFlZFHKbY" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**Tie The Knot**
-*Broken Hearts Club* · 2022 · 2:31
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0E3MUIYXSbQ9qbRDubY2vg" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**Getting Late**
-*Broken Hearts Club* · 2022 · 3:10
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5MpKIEUUuEICxvFWHarTq9" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe src="https://open.spotify.com/embed/track/0IaiJbZebXLqfetAkMEZzU" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

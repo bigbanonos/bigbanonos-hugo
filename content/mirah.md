@@ -3,14 +3,24 @@ title: "Mirah"
 slug: "mirah"
 date: 2024-12-17
 layout: post
+era:
+  - "2000s-2010s"
 tags:
   - '@mirah'
 ---
 
-<h1>BigBanonos Top Songs by Mirah</h1>
-<img alt="Mirah" src="https://cdn.shopify.com/s/files/1/0097/0772/files/mirah-OnSweet_for_Weblog_480x480.jpg?v=1611771479" /> <p>Mirahs poetic songwriting and distinctive voice have made her a staple of Olympias indie music scene. Here are BigBanonos favorite tracks:</p>  <div> 
-</div> <p>first posted by <a href="https://bigbanonos.blogspot.com/">https://bigbanonos.blogspot.com/</a></p> <div> <p>Explore more BigBanonos content: <a href="https://bigbanonos.blogspot.com/">Website</a> | <a href="https://www.youtube.com/@BigBanonos">YouTube</a> | <a href="https://x.com/bigbanonos">Twitter</a></p>
-</div> 
-<p>@mirah</p>
+<iframe src="https://open.spotify.com/embed/track/1YHXjbYuRIIyFNiq6UZt1W" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/3c8V9PsQv3TxG5CK1gSqYA" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/3gWNFkP2RTEoaGevcexDoY" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/4j9D2tmMxPTZ3CmXr13Aqi" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/3rrPEwfMtzG3bsZmIzkW3O" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/7GbkORuqnLvjGQYISamrzQ" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/2NtRKgKMf7bfJmM3Sz4RLs" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/4FF6ETYl0Tft0PNxxhKsqI" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

@@ -3,16 +3,25 @@ title: "Too Hort"
 slug: "too-hort"
 date: 2024-12-17
 layout: post
+era:
+  - "1900s"
+genre:
+  - "hyphy"
+  - "west coast hip hop"
+  - "g-funk"
+  - "old school hip hop"
+  - "gangster rap"
+explicit: true
 tags:
   - '@too$hort'
   - '@parliamentfunadelic'
   - '@martinluther'
 ---
 
-<h1>BigBanonos Top Songs by Too $hort</h1>
+<iframe src="https://open.spotify.com/embed/track/5K5dQsYdSdo2LKdepxbYAd" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<p>Too $horts West Coast rap legacy spans decades, blending golden age hip hop with hyphy and Oakland grit. Here are BigBanonos favorite tracks:</p>  <div> 
-</div> <div> {{< youtube "qbeYZK4pRUQ" >}}<br />
-</div> <p>Explore more on <a href="https://bigbanonos.blogspot.com/">BigBanonos</a>, or check out BigBanonos on <a href="https://www.youtube.com/@BigBanonos">YouTube</a> and <a href="https://x.com/bigbanonos">Twitter</a>.</p> 
+<iframe src="https://open.spotify.com/embed/track/6oadMAqfdbOBvGib6lUpn3" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/2JaGw7dXV7yo4Pl1ZQvf2e" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/6s2N5hnHBJc9Satf7l2LrY" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

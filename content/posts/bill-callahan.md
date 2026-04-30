@@ -3,16 +3,41 @@ title: "Bill Callahan"
 slug: "bill-callahan"
 date: 2026-02-27
 layout: post
+era:
+  - "2000s-2010s"
+  - "2020s"
+genre:
+  - "alt country"
 tags:
   - '@billcallahan'
 ---
 
-Still making records that sound like no one else. *Pathol O.G.* from *My Days of 58* is the 2026 addition — also why do men sing.
+<iframe src="https://open.spotify.com/embed/track/3XOapyiO6vB1v6k9KqHz2O" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-**Pathol O.G.** — *My Days of 58* (2026)
+<iframe src="https://open.spotify.com/embed/track/53V82ijlao2g2MOncVevpv" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-{{< youtube id="6gSveB1tLT8" >}}
+<iframe src="https://open.spotify.com/embed/track/1Pxk92XAQEuTGWvu9w4OGN" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/36plAeJKK9eXU8KuUJTKkl" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe src="https://open.spotify.com/embed/track/6fhlEQYtnQI2crUboCBzd3" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/6WFEdkD6htLoSvKxAilZPZ" width="100%" height="352" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe src="https://open.spotify.com/embed/track/3SyNyBa5sPODrURHkSEBLu" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/0VIJNWwesx0bg2XuVcZY1I" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/2YZSs8Yg86AFK3Sp4qXZbr" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/75vwz94h0JYDy4sNqFmRZ6" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/6cx77dkY1krawmMHhekaBk" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/0HJO62rPUU1sZLImnWwMkK" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/07Y15OXS6j4k7QIvnJWFE4" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/65kjjwkx4SO8TzfQS8ULnX" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/1nWRZiUhOLXL4VrnqqxWpD" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/3POTfidt7cMfX4mmukNfeE" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/0do3zfmbVl5DiGxUXrbhrT" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

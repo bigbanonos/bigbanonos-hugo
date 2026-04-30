@@ -3,24 +3,15 @@ title: "Neneh Cherry"
 slug: "neneh-cherry"
 date: 2015-06-15
 layout: post
+era:
+  - "1900s"
+  - "2000s-2010s"
 tags:
   - '@neneh-cherry'
   - '00s-10s'
   - '1900s'
 ---
 
-## Neneh Cherry
+<iframe src="https://open.spotify.com/embed/track/7xC95fmjDmW9MS8Cb71Vvp" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-_2 tracks, 1996 to 2015._
-
----
-
-**Hornbeam**
-*Man* · 1996 · 5:02
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4MC3ItyUrx4zOhY8icLcaw" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**Buffalo Stance**
-*20 #1s: 80s Club Classics* · 2015 · 4:05
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7xC95fmjDmW9MS8Cb71Vvp" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe src="https://open.spotify.com/embed/track/4MC3ItyUrx4zOhY8icLcaw" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

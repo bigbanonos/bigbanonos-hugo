@@ -3,6 +3,13 @@ title: "Zipper"
 slug: "zipper"
 date: 1974-09-30
 layout: post
+era:
+  - "1900s"
+genre:
+  - "stoner metal"
+  - "acid rock"
+  - "stoner rock"
+  - "proto-punk"
 tags:
   - '@zipper'
   - '1900s'
@@ -12,18 +19,6 @@ tags:
   - 'proto-punk'
 ---
 
-## Zipper
+<iframe src="https://open.spotify.com/embed/track/2VjFdQuYSlsTKUEw5fnKhA" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-_2 tracks, all from 1974._
-
----
-
-**Bullets**
-*Zipper* · 1974 · 3:24
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2VjFdQuYSlsTKUEw5fnKhA" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**The Same Old Song**
-*Zipper* · 1974 · 3:19
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7uoP1XmqyyuYonBQhzFO7a" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe src="https://open.spotify.com/embed/track/7uoP1XmqyyuYonBQhzFO7a" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

@@ -3,16 +3,15 @@ title: "Ethel Cain"
 slug: "ethel-cain"
 date: 2024-10-28
 layout: post
+era:
+  - "2020s"
+genre:
+  - "southern gothic"
+explicit: true
 tags:
   - '@ethelcain'
 ---
 
-{{< youtube "COQHYwNS8m4" >}}<h2> <h2>Ethel Cains Top Songs</h2>
-<p><strong>Updated May 12, 2022</strong> with "American Teenager"</p>
-<p>Ethel Cains haunting vocals and evocative lyrics bring listeners into a world of nostalgic, melancholic indie pop. Here are BigBanonos favorite songs by Ethel Cain:</p>
+<iframe src="https://open.spotify.com/embed/track/4ltqfN12ohaVZdM6C45gMg" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-{{< img-lite src="https://i.ytimg.com/vi/F7Ke0NmXoow/maxresdefault.jpg" alt="Ethel Cain" >}}
-<p><strong>Tags:</strong> @ethelcain</p>
-<a href="https://bigbanonos.blogspot.com/">Return to BigBanonos homepage</a>
-
-<hr />
+<iframe src="https://open.spotify.com/embed/track/5bwLs2TUxldWW6ZGOI9Zx6" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

@@ -3,6 +3,16 @@ title: "Dj Khaled"
 slug: "dj-khaled"
 date: 2024-12-21
 layout: post
+era:
+  - "2000s-2010s"
+  - "2020s"
+genre:
+  - "rap"
+  - "melodic rap"
+  - "rage rap"
+  - "r&b"
+  - "hip hop"
+explicit: true
 tags:
   - '@liluzi'
   - '@sza'
@@ -19,10 +29,16 @@ tags:
   - '@lilbaby'
 ---
 
-<h3><em>BigBanonos</em> Favorite Songs by DJ Khaled:</h3> <p>Updated on August 11, 2023, with the track "SUPPOSED TO BE LOVED (feat. Lil Baby, Future & Lil Uzi Vert)." BigBanonos highlights top DJ Khaled songs that showcase his signature blend of hip hop, rap, and star-studded collaborations.</p> <!--Image-->
- <!--Spotify Playlist Embed-->
- <!--Song Listings-->
+<iframe src="https://open.spotify.com/embed/track/2buC0ru4cVutdUhxIjH9Bj" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-{{< youtube "videoseries" >}}
+<iframe src="https://open.spotify.com/embed/track/5kYSScXYOZYyi0fxramiW6" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
- <hr />
+<iframe src="https://open.spotify.com/embed/track/0JiLQRLOeWQdPC9rVpOqqo" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/7C0BHTRLmWUONc8OYjOPdW" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/1W6wxOOYyJyyok8fqYSZ3m" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/72Q0FQQo32KJloivv5xge2" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/0hKBQO2KtkDw99y7oUaTPf" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

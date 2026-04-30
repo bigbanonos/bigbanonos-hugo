@@ -3,28 +3,15 @@ title: "Lesley Gore"
 slug: "lesley-gore"
 date: 1990-01-01
 layout: post
+era:
+  - "1900s"
 tags:
   - '@lesley-gore'
   - '1900s'
 ---
 
-## Lesley Gore
+<iframe src="https://open.spotify.com/embed/track/6f4H3wfzsV0LY9B82cQTWQ" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-_3 tracks from 1963 to 1990. The peak is in there somewhere._
+<iframe src="https://open.spotify.com/embed/track/7ngRS53kqxLcEt9Pythc5d" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
----
-
-**Its My Party**
-*Ill Cry If I Want To* · 1963 · 2:20
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1Pq47iFLC5U7j8xeNiNcuS" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**You Dont Own Me**
-*Lesley Gore Sings Of Mixed-Up Hearts* · 1963 · 2:30
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7ngRS53kqxLcEt9Pythc5d" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**Wonder Boy**
-*The Golden Hits Of Lesley Gore (Expanded Edition)* · 1990 · 2:17
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6f4H3wfzsV0LY9B82cQTWQ" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe src="https://open.spotify.com/embed/track/1Pq47iFLC5U7j8xeNiNcuS" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

@@ -3,12 +3,20 @@ title: "Diet Cig"
 slug: "diet-cig"
 date: 2024-12-21
 layout: post
+era:
+  - "2000s-2010s"
+  - "2020s"
+genre:
+  - "indie punk"
+explicit: true
 tags:
   - '@dietcig'
 ---
 
-<h3><em>BigBanonos</em> Favorite Songs by Diet Cig:</h3> <p>Updated on October 1, 2021, with the acoustic version of "Broken Body" from <em>Dont Like Driving Like I Used To</em>. BigBanonos favorite songs by Diet Cig spotlight the bands indie punk energy, offering a mix of raw emotion and catchy riffs.</p> <!--Image-->
- <!--Spotify Playlist Embed-->
- <!--Song Listings-->
- 
- <hr />
+<iframe src="https://open.spotify.com/embed/track/3no0tVLGPFvhCkQuam3wPF" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/19LCJYRzCHpCYA6lT54TWP" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/1sREUAilX9j7qOIyIiOlLK" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/2eTioKDu4klzCrcceLOn5d" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

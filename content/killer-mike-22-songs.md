@@ -3,6 +3,16 @@ title: "Killer Mike"
 slug: "killer-mike"
 date: 2025-02-15
 layout: post
+era:
+  - "2000s-2010s"
+  - "2020s"
+genre:
+  - "southern hip hop"
+  - "alternative hip hop"
+  - "neo soul"
+  - "r&b"
+  - "quiet storm"
+explicit: true
 tags:
   - '@blxst'
   - '@killermike'
@@ -19,10 +29,44 @@ tags:
   - '@bigboi'
 ---
 
-<h2>Killer Mike: BigBanonos Top Songs</h2>
-<p>Updated August 2, 2024, with "NOBODY KNOWS"</p>
-<p><strong>Killer Mike</strong> continues to be one of hip hops most influential voices, blending political themes with the raw essence of Southern rap. Here are BigBanonos top picks from his discography.<br /></p> <h3>Playlist</h3>
- <h3>Songs</h3>
- <img alt="Killer Mike" src="https://media.npr.org/assets/img/2012/06/18/killermike3_wide-560e74f26b5a4596dacdfdb462ca5650449c0d65.jpg?s=1100&c=85&f=jpeg" width="100%" /> <p>Discover Killer Mikes impactful music, and dont miss his collaboration with Big Boi, covered in the BigBanonos article <a href="https://bigbanonos.blogspot.com/2015/10/big-boi-8-songs.html">here</a>.</p>
+<iframe src="https://open.spotify.com/embed/track/4OquXE3CES3l85wcJ7ck77" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/33Vhm96V7UkegsXlfhMgXq" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/3082IETOpHkL3Z50orI5k3" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/0OPnIBDVMdIB7sQ4R6nkV7" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/7saO85KXMMdSA3y8ITX0zz" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/4H8RhDIpZidT57dKw30k1C" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/0fWtHLKX2LsgOfImCyu94h" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/17K5opp9TO1OANv36IWsCh" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/0SiB6Ac2ZIzzgFS81rgLSB" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/33DOKl2gQ9HNlz4WUKZlEY" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/2O0t6eNn9IUnkU7ngEf04F" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/0ghupqJWfELLIo1EaYpzqV" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/08Kw7NM6Uddgdwa4W5XdDj" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/6Hchbkc4TbkcJGQuA9DfbX" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/2HrDfDoT6HtksQ5eUgPOo7" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/3w4bwnWiuXSFJFxMCAirOc" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/5SLMpKH8EIlp2kpfLOmgvD" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/7EpUBi30lM7lJWFigwruOh" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/2mnuC4B2zrm0bPfQx08lx7" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/4i2HYTGM7yHty0qVhD3lqD" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/246" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

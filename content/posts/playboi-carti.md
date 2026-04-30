@@ -3,6 +3,13 @@ title: "Playboi Carti"
 slug: "playboi-carti"
 date: 2020-12-25
 layout: post
+era:
+  - "2000s-2010s"
+  - "2020s"
+genre:
+  - "rage rap"
+  - "melodic rap"
+explicit: true
 tags:
   - '@playboi-carti'
   - '@playboi-carti-lil-uzi-vert'
@@ -12,23 +19,8 @@ tags:
   - 'melodic rap'
 ---
 
-## Playboi Carti
+<iframe src="https://open.spotify.com/embed/track/29TPjc8wxfz4XMn21O7VsZ" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-_3 tracks between 2017 and 2020._
+<iframe src="https://open.spotify.com/embed/track/2BJSMvOGABRxokHKB0OI8i" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
----
-
-**Magnolia**
-*Playboi Carti* · 2017 · 3:01
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1e1JKLEDKP7hEQzJfNAgPl" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**Shoota (feat. Lil Uzi Vert)** (feat. Playboi Carti;Lil Uzi Vert)
-*Die Lit* · 2018 · 2:33
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2BJSMvOGABRxokHKB0OI8i" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**Sky**
-*Whole Lotta Red* · 2020 · 3:13
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/29TPjc8wxfz4XMn21O7VsZ" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe src="https://open.spotify.com/embed/track/1e1JKLEDKP7hEQzJfNAgPl" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

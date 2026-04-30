@@ -3,38 +3,19 @@ title: "Brakes"
 slug: "brakes"
 date: 2009-04-20
 layout: post
+era:
+  - "2000s-2010s"
 tags:
   - '@brakes'
   - '00s-10s'
 ---
 
-## Brakes
+<iframe src="https://open.spotify.com/embed/track/3BPhufsiRX0QebdWcFYFx5" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-_5 tracks between 2005 and 2009._
+<iframe src="https://open.spotify.com/embed/track/2wS00HKPwyOO7HorOnTqo5" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
----
+<iframe src="https://open.spotify.com/embed/track/6mPdibGsi4ajbXMFLDTag2" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-**Ring a Ding Ding**
-*Give Blood* · 2005 · 1:39
+<iframe src="https://open.spotify.com/embed/track/503rZxthgsY96a9R8Fw4pw" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6mPdibGsi4ajbXMFLDTag2" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**NY Pie**
-*Give Blood* · 2005 · 2:01
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/503rZxthgsY96a9R8Fw4pw" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**Heard About Your Band**
-*Give Blood* · 2005 · 1:31
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0VKA9erH4u5WtBy9DoDt8i" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**Beatific Visions**
-*The Beatific Visions* · 2006 · 2:53
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2wS00HKPwyOO7HorOnTqo5" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**Crush on You**
-*Touchdown* · 2009 · 3:14
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3BPhufsiRX0QebdWcFYFx5" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe src="https://open.spotify.com/embed/track/0VKA9erH4u5WtBy9DoDt8i" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

@@ -3,11 +3,18 @@ title: "Mj Lenderman"
 slug: "mj-lenderman"
 date: 2024-10-29
 layout: post
+era:
+  - "2020s"
+genre:
+  - "alt country"
 tags:
   - '@mjlenderman'
 ---
 
-<div class="blog-post"> <h1>BigBanonos Top 5 MJ Lenderman Songs</h1> <p>Updated July 29, 2024 with "Joker Lips". BigBanonos curates MJ Lendermans slacker rock anthems and introspective folk sound in this top 5 playlist.</p> <div class="embed-code">  </div> <div class="image-container"> <img alt="MJ Lenderman" src="https://f4.bcbits.com/img/0036409817_25.jpg" /> </div> <h2>BigBanonos Top 5 MJ Lenderman Tracks</h2>  <p>Explore MJ Lendermans authentic and relaxed sound in BigBanonos top picks, capturing the rawness of his music.</p>
-</div>
+<iframe src="https://open.spotify.com/embed/track/6tYgLXfFUhNDe6QHZmsJzX" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/0ll3IRoSlJ461DTxW4Z7vc" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/5I2qACyvSTaasSNaWiT90G" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/657PpSizWfiabkjgIzEFWa" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

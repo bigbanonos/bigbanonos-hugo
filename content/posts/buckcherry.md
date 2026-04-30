@@ -3,23 +3,14 @@ title: "Buckcherry"
 slug: "buckcherry"
 date: 1999-01-01
 layout: post
+era:
+  - "1900s"
+explicit: true
 tags:
   - '@buckcherry'
   - '1900s'
 ---
 
-## Buckcherry
+<iframe src="https://open.spotify.com/embed/track/1OBMSzh2ocRqK2gUFaMBSM" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-_2 tracks, all from 1999._
-
----
-
-**Lit Up**
-*Buckcherry* · 1999 · 3:35
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1OBMSzh2ocRqK2gUFaMBSM" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**For The Movies**
-*Buckcherry* · 1999 · 4:34
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5qOrXgHB2Zi6irfZHAhwIP" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe src="https://open.spotify.com/embed/track/5qOrXgHB2Zi6irfZHAhwIP" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

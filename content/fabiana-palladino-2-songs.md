@@ -3,16 +3,15 @@ title: "Fabiana Palladino"
 slug: "fabiana-palladino"
 date: 2024-11-06
 layout: post
+era:
+  - "2000s-2010s"
+  - "2020s"
+genre:
+  - "indie electronic"
 tags:
   - '@fabianapalladino'
 ---
 
-<h3><em>BigBanonos</em> Favorite Songs by Fabiana Palladino:</h3> <p>Updated on August 4, 2020, with the standout track "Waiting" from the Paul Institute. <em>BigBanonos</em> features Fabiana Palladinos top songs, capturing her distinct style and sound.</p> <!--Image-->
- <!--Spotify Playlist Embed-->
- <!--Song Listings-->
+<iframe src="https://open.spotify.com/embed/track/3Yxae132GPcz5iFPsekO31" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-{{< youtube "videoseries" >}}
-
-<p></p>  
-
-<hr />
+<iframe src="https://open.spotify.com/embed/track/1mKnCtcBZHdnbmGcyoO2Vn" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

@@ -3,24 +3,16 @@ title: "Shout Out Louds"
 slug: "shout-out-louds"
 date: 2007-09-11
 layout: post
+era:
+  - "2000s-2010s"
+genre:
+  - "swedish pop"
 tags:
   - '@shout-out-louds'
   - '00s-10s'
   - 'swedish pop'
 ---
 
-## Shout Out Louds
+<iframe src="https://open.spotify.com/embed/track/14Ay2pKTvK5NhGZEYJlphk" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-_2 tracks between 2005 and 2007._
-
----
-
-**Shut Your Eyes**
-*Howl Howl Gaff Gaff* · 2005 · 3:11
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6MfusxFNdmhzrZ0qiatZzv" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**Tonight I Have to Leave It**
-*Our Ill Wills* · 2007 · 3:33
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/14Ay2pKTvK5NhGZEYJlphk" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe src="https://open.spotify.com/embed/track/6MfusxFNdmhzrZ0qiatZzv" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

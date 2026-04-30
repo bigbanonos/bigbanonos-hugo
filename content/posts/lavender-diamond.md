@@ -3,38 +3,19 @@ title: "Lavender Diamond"
 slug: "lavender-diamond"
 date: 2012-09-25
 layout: post
+era:
+  - "2000s-2010s"
 tags:
   - '@lavender-diamond'
   - '00s-10s'
 ---
 
-## Lavender Diamond
+<iframe src="https://open.spotify.com/embed/track/1BlvDzR1MwebVS7f5uw5dw" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-_5 tracks between 2007 and 2012._
+<iframe src="https://open.spotify.com/embed/track/1BrsdDwMRPutLNL27eaa2W" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
----
+<iframe src="https://open.spotify.com/embed/track/28E7ZwyeiPi0u5kFKqqBFa" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-**You Broke My Heart**
-*The Cavalry Of Light* · 2007 · 3:34
+<iframe src="https://open.spotify.com/embed/track/2m6J2Kuz8juxl4KFaQkSgX" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4UyBVKwQ3yr0Mkpp3TJHRP" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**Open Your Heart**
-*Imagine Our Love* · 2007 · 3:11
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/28E7ZwyeiPi0u5kFKqqBFa" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**Here Comes One**
-*Imagine Our Love* · 2007 · 2:57
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2m6J2Kuz8juxl4KFaQkSgX" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**Moment of Laughter**
-*Space Ducks: Soundtrack* · 2012 · 3:31
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1BrsdDwMRPutLNL27eaa2W" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**I Dont Recall**
-*Incorruptible Heart* · 2012 · 3:00
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1BlvDzR1MwebVS7f5uw5dw" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe src="https://open.spotify.com/embed/track/4UyBVKwQ3yr0Mkpp3TJHRP" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

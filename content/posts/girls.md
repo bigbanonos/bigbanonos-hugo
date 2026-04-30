@@ -3,38 +3,20 @@ title: "Girls"
 slug: "girls"
 date: 2011-09-13
 layout: post
+era:
+  - "2000s-2010s"
+explicit: true
 tags:
   - '@girls'
   - '00s-10s'
 ---
 
-## Girls
+<iframe src="https://open.spotify.com/embed/track/6elQsFmZGwZU3upNQpJOx2" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-_5 tracks between 2009 and 2011._
+<iframe src="https://open.spotify.com/embed/track/6hQ924W9N9GKzWlPw8vbMc" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
----
+<iframe src="https://open.spotify.com/embed/track/52I3gAlBVOModNbRbnjHAr" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-**Lust For Life**
-*Album* · 2009 · 2:25
+<iframe src="https://open.spotify.com/embed/track/7CZpXWKCBO2xaZzcUTlfOL" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6hQ924W9N9GKzWlPw8vbMc" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**Big Bad Mean Mother Fucker**
-*Album* · 2009 · 2:15
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/52I3gAlBVOModNbRbnjHAr" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**Hellhole Ratrace**
-*Album* · 2009 · 6:56
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7CZpXWKCBO2xaZzcUTlfOL" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**Lauren Marie**
-*Album* · 2009 · 4:58
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5mC44609cyAbmvUEyxrEOG" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**Honey Bunny**
-*Father, Son, Holy Ghost* · 2011 · 2:33
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6elQsFmZGwZU3upNQpJOx2" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe src="https://open.spotify.com/embed/track/5mC44609cyAbmvUEyxrEOG" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

@@ -3,18 +3,29 @@ title: "Bjork"
 slug: "bjork"
 date: 2024-11-03
 layout: post
+era:
+  - "1900s"
+  - "2020s"
+genre:
+  - "art pop"
+  - "trip hop"
+  - "footwork"
 tags:
   - '@kasimyn'
   - '@bjork'
   - '@sindrieldon'
 ---
 
-<h2>BigBanonos Top Songs by BjÃƒÆ’Ã‚¶rk</h2> <!--Search Description-->
-<p>BigBanonos favorite BjÃƒÆ’Ã‚¶rk tracks, highlighting her genre-defining sounds from alternative rock and experimental pop to Icelandic singer-songwriter roots.</p> <!--Spotify Playlist Embed-->
- <!--Song Listings-->
-<ul> <li>Its Oh So Quiet - <em>Post</em> (143/Lava/Atlantic, 1995-06-13)</li> <li>Human Behaviour - <em>Debut</em> (143/Atlantic Entertainment, 1993-07-05)</li> <li>Venus as a Boy - <em>Debut</em> (143/Atlantic Entertainment, 1993-07-05)</li> <li>Big Time Sensuality - <em>Debut</em> (143/Atlantic Entertainment, 1993-07-05)</li> <li>Theres More to Life Than This (Live Version) - <em>Debut</em> (143/Atlantic Entertainment, 1993-07-05)</li> <li>Atopos (with Kasimyn) - <em>Atopos</em> (One Little Independent Records, 2022-09-06)</li> <li>Ancestress (feat. Sindri Eldon) - <em>Fossora</em> (One Little Independent, 2022-09-30)</li>
-</ul> <!--Image Placeholder for BjÃƒÆ’Ã‚¶rk-->
-<img alt="BjÃƒÆ’Ã‚¶rk - Debut Era" src="https://media.npr.org/assets/img/2014/07/16/bjork-1993-jean-baptiste-mondino-debut-05b_wide-85ffb3106e6456765932840684c86a44d4008602.jpg?s=1400&c=100&f=jpeg" width="100%" /> <!--Tags Section-->
-<h3>Discover more influential tracks by BjÃƒÆ’Ã‚¶rk on <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a> and follow <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> for curated playlists and exclusive tracks.</h3>
+<iframe src="https://open.spotify.com/embed/track/3ERNmiRQoxCTfZjaTmoB9W" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/2OXc8QcD79G6cnvign3cW1" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/0OMNQyneWmmZtTQpULYJcl" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/5OnyZ56HLhrWOXdzeETqLk" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/5G9LvzXcBoIBXOd2jzdJTs" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/0X0LTI0MQG9S3FLSUvjrj5" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/1ENAzA89W0Cln8dlzdgECJ" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

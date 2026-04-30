@@ -3,22 +3,20 @@ title: "Dj Jimi"
 slug: "dj-jimi"
 date: 2025-01-19
 layout: post
+era:
+  - "1900s"
+genre:
+  - "new orleans bounce"
+  - "bounce"
+  - "miami bass"
+  - "southern hip hop"
+  - "crunk"
+explicit: true
 tags:
   - '@djjimi'
   - '@juvenile'
 ---
 
-<!-- Title of the Post -->
-<h1 >BigBanonos Favorite Songs by DJ Jimi</h1> <!-- Featured Image -->
-<div > {{< img-lite src="https://i.scdn.co/image/ab67616d0000b273ecf39bc7da0d3fb9b042db4d" alt="DJ Jimi" >}}
-</div> <!-- Spotify Embed -->
-<div > 
-</div> <!-- Introductory Text -->
-<p >DJ Jimis tracks "Where They At" and "Bounce (For The Juvenile)" represent the pulse of early New Orleans bounce music, a genre-defining sound that paved the way for southern hip hop.</p> <!-- Song Highlights -->
-<div > <p>BigBanonos standout picks:</p> 
-</div> <!-- Footer Links -->
-<div > <p>Dive deeper into bounce music at <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Catch the latest grooves on <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p>
-</div> 
-<p >Tags: @djjimi,@juvenile</p>
+<iframe src="https://open.spotify.com/embed/track/09GSIc0U7YGIWdeGVNyC9A" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/33pmDffCUTrrcSJhOpAS9Y" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

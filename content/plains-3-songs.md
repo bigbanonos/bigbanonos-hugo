@@ -3,19 +3,20 @@ title: "Plains"
 slug: "plains"
 date: 2024-12-20
 layout: post
+era:
+  - "2020s"
+genre:
+  - "alt country"
+  - "americana"
+  - "southern gothic"
 tags:
   - '@plains'
   - '@waxahatchee'
   - '@jesswilliamson'
 ---
 
-<h1>BigBanonos Top Songs by Plains</h1>
-{{< img-lite src="https://images.squarespace-cdn.com/content/v1/62cc8e1695328672f8c6d5fd/5b5b9fdf-287a-4988-92ee-3a19e5e9092d/MAIN+-+Plains+by+Molly+Matalon+8.jpg" alt="Plains" >}} <p>Plains, a collaboration between Waxahatchees Katie Crutchfield and Jess Williamson, merges Americana with contemporary indie influences, creating a unique, soulful sound. Here are BigBanonos top selections:</p>  <div> 
-</div> <p>first posted by <a href="https://bigbanonos.blogspot.com/">https://bigbanonos.blogspot.com/</a></p> <div> <p>Explore more BigBanonos content: <a href="https://bigbanonos.blogspot.com/">Website</a> | <a href="https://www.youtube.com/@BigBanonos">YouTube</a> | <a href="https://x.com/bigbanonos">Twitter</a></p>
-</div> <!-- Video -->
-<p>Video for <strong>Problem With It</strong> featuring Waxahatchee & Jess Williamson:</p>
-<div> {{< youtube "YPNFSXjVH_o" >}}
-</div> 
-<p>@plains,@waxahatchee,@jesswilliamson</p>
+<iframe src="https://open.spotify.com/embed/track/2palH1jCEezLsedTe5yk6m" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/5K9CN4zd8jPy5QyuNiv08s" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/1hCrL9BjC03mTYR5905Q9k" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

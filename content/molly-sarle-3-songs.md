@@ -3,16 +3,15 @@ title: "Molly Sarle"
 slug: "molly-sarle"
 date: 2024-12-20
 layout: post
+era:
+  - "2000s-2010s"
+  - "2020s"
+genre:
+  - "indie folk"
 tags:
   - '@mollysarle'
 ---
 
-<h1>BigBanonos Top Songs by Molly SarlÃƒÆ’Ã‚©</h1>
-{{< img-lite src="https://indyweek.com/wp-content/uploads/2019/09/20190918_JW_INDY_MollySarle-IMG_2542.jpg" alt="Molly SarlÃƒÆ’Ã‚©" >}} <p>Molly SarlÃƒÆ’Ã‚© captures the soul of indie folk and North Carolina roots. Here are BigBanonos top selections from her works, featuring her deeply emotional and resonant sound.</p>  <div> 
-</div> <p>Watch the music video playlist featuring "Human" and "Karaoke Angel" by Molly SarlÃƒÆ’Ã‚©:</p>
-<div> {{< youtube "videoseries" >}}
-</div> <p>first posted by <a href="https://bigbanonos.blogspot.com/">https://bigbanonos.blogspot.com/</a></p> <div> <p>Explore more BigBanonos content: <a href="https://bigbanonos.blogspot.com/">Website</a> | <a href="https://www.youtube.com/@BigBanonos">YouTube</a> | <a href="https://x.com/bigbanonos">Twitter</a></p>
-</div> 
-<p>@mollysarle</p>
+<iframe src="https://open.spotify.com/embed/track/0PpXXuC1TVqAp2BnCNSJzn" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/4uBiUTHSuuRT4CtEoZHz2f" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

@@ -3,14 +3,19 @@ title: "Liz Phair"
 slug: "liz-phair"
 date: 2024-12-17
 layout: post
+era:
+  - "1900s"
+explicit: true
 tags:
   - '@lizphair'
 ---
 
-<h1>Liz Phair - Top Songs</h1>
-<img alt="Liz Phair" src="https://i.ytimg.com/vi/m1tMfKl5b8M/maxresdefault.jpg" /> <p>Liz Phair, a groundbreaking singer-songwriter and a defining voice in alternative pop and rock, has delivered iconic albums that resonate with raw emotion and wit. Heres a selection of her top songs:</p>  <div> 
-</div> <p>first posted by <a href="https://bigbanonos.blogspot.com/">https://bigbanonos.blogspot.com/</a></p> <div> <p>Explore more BigBanonos content: <a href="https://bigbanonos.blogspot.com/">Website</a> | <a href="https://www.youtube.com/@BigBanonos">YouTube</a> | <a href="https://x.com/bigbanonos">Twitter</a></p>
-</div> 
-<p>@lizphair</p>
+<iframe src="https://open.spotify.com/embed/track/0T87EE3AJwuDv5yG3TR3nt" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/1ilCC9X2tcbsJ4RHJBW6c1" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/1iOJzlWm2p8NOFYVHGGgq1" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/2qpmugEb0DI8kZLszkBLBT" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/4OoJ3jnuYRXrXhPQWjv5a8" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

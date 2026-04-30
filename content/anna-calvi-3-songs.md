@@ -3,14 +3,16 @@ title: "Anna Calvi"
 slug: "anna-calvi"
 date: 2024-10-31
 layout: post
+era:
+  - "2000s-2010s"
+  - "2020s"
 tags:
   - '@courtneybarnett'
   - '@annacalvi'
 ---
 
-<h2>BigBanonos Favorite 3 Songs by Anna Calvi</h2>
-<p>BigBanonos presents its top picks from Anna Calvi, featuring her powerful art pop and chamber psych sound. BigBanonos Favorite 3 Songs by Anna Calvi, Last updated January 27, 2020, with "Dont Beat the Girl out of My Boy - Hunted Version" highlighted in the playlist below:</p>  <img alt="Anna Calvi" src="https://www.nme.com/wp-content/uploads/2019/09/GettyImages-1174935138_ANNA_CALVI_2000.jpg" /> <div> 
-</div> <p>Dont forget to check out BigBanonos on YouTube for more curated music content, especially those tracks #NotOnSpotify!</p>
-<p><a href="https://www.youtube.com/@BigBanonos">BigBanonos YouTube Channel</a></p>
+<iframe src="https://open.spotify.com/embed/track/5TO3ZltAFK8Nr6VWNRutdp" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/0cSJ5ZNhyFRw68u0mkGN5m" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/1eQN2B11BU0sIqBGAGnwsH" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

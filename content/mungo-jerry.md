@@ -3,10 +3,13 @@ title: "Mungo Jerry"
 slug: "mungo-jerry"
 date: 2025-02-09
 layout: post
+era:
+  - "1900s"
+  - "2000s-2010s"
 tags:
   - '@mungojerry'
 ---
 
-<h2>BigBanonos Favorite Songs by Mungo Jerry</h2> <p><strong>Updated January 1, 1970, with "In the Summertime" from <em>In the Summertime</em></strong></p> {{< img-lite src="https://i.scdn.co/image/ab67616d0000b2739c71f323289b18028b82b822" alt="Mungo Jerry" >}} <p>Mungo Jerrys infectious skiffle-infused rock defined early 70s feel-good music. These are BigBanonos top picks.</p> <h3>Listen on Spotify</h3>  <h3>"In the Summertime"</h3>
-<p><em>In the Summertime</em>, 1970</p> <h3>"Wild Love"</h3>
-<p><em>Long Legged Woman</em>, 1974</p> <hr /> <p><strong>Tags:</strong> @mungojerry</p> <hr />
+<iframe src="https://open.spotify.com/embed/track/2uzlv8PjqsVvF1DhEahyhy" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/4tr3DvRSO6IYdHo3dVGSV3" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

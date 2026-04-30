@@ -3,20 +3,16 @@ title: "Q Tip"
 slug: "q-tip"
 date: 2025-01-18
 layout: post
+era:
+  - "1900s"
+  - "2000s-2010s"
+genre:
+  - "east coast hip hop"
+explicit: true
 tags:
   - '@qtip'
 ---
 
-<!--Title of the Post-->
-<h1 >Q-Tip - The Abstract Poet of Hip Hop</h1> <!--Introductory Text-->
-<p >Q-Tips distinct style and smooth delivery make him a cornerstone of hip hop. Explore his standout solo tracks below.</p> <!--Featured Image-->
-<div > <img alt="Q-Tip" src="https://www.uppitymusic.com/wp-content/uploads/2016/07/Q-Tip.jpg" />
-</div> <!--Spotify Playlist Embed-->
-<div > 
-</div> <!--Song Information-->
-<div > <p><em>"Wont Trade"</em> (2008) from *The Renaissance* showcases Q-Tips creative genius.</p> <p><em>"Vivrant Thing"</em> (1999) from *Violator: The Album* delivers an unforgettable groove.</p>
-</div> <!--Footer Links-->
-<div > 
-</div> 
+<iframe src="https://open.spotify.com/embed/track/6180Fv9Y1zovHtrIVaTGSM" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/31KK3pcPclmIt087tPuwMr" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

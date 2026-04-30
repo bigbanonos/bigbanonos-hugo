@@ -3,14 +3,20 @@ title: "King Princess"
 slug: "king-princess"
 date: 2024-12-20
 layout: post
+era:
+  - "2000s-2010s"
+  - "2020s"
+explicit: true
 tags:
   - '@kingprincess'
 ---
 
-<h1>King Princess: Essential Tracks</h1>
-{{< img-lite src="https://ew.com/thmb/966R7ZLyIIBh_6zrQiB0mRVOtzs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/King-Princess-01-072822-4ecaccae3a1d44b181db5ba4955b8943.jpg" alt="King Princess" >}} <p>King Princess brings a fresh, bold voice to indie pop with a unique NYC flair. This selection highlights five must-hear tracks that capture the heart of her artistry:</p>  <div> 
-</div> <p>Each song showcases King Princesss alt-pop vibe, offering listeners a mix of vulnerability, empowerment, and NYC-inspired style.</p> <div> <p>Explore more from BigBanonos: <a href="https://bigbanonos.blogspot.com/">Website</a> | <a href="https://www.youtube.com/@BigBanonos">YouTube</a> | <a href="https://x.com/bigbanonos">Twitter</a></p>
-</div> 
-<p>@kingprincess</p>
+<iframe src="https://open.spotify.com/embed/track/6IEzGhvKEeUprf0pVk21ye" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/6mwUNrszsJxayPeqS0OPU2" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/4eA4z7FCy5Fp6mh8acV3GY" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/4jvtuOFXhwTJG1sQHkT1bs" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/53jbdPQBaH6WaQvW0zmGBs" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

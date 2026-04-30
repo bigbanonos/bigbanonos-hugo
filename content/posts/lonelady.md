@@ -3,23 +3,13 @@ title: "Lonelady"
 slug: "lonelady"
 date: 2015-03-23
 layout: post
+era:
+  - "2000s-2010s"
 tags:
   - '@lonelady'
   - '00s-10s'
 ---
 
-## LoneLady
+<iframe src="https://open.spotify.com/embed/track/4zE1EIQ0ixQ0uVKmLHlXkR" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-_2 tracks, all from 2015._
-
----
-
-**Hinterland**
-*Hinterland* · 2015 · 5:07
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4zE1EIQ0ixQ0uVKmLHlXkR" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**Flee!**
-*Hinterland* · 2015 · 5:35
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/79IlzhiqXHMQq2xb4qCJCw" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe src="https://open.spotify.com/embed/track/79IlzhiqXHMQq2xb4qCJCw" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

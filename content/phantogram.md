@@ -3,19 +3,14 @@ title: "Phantogram"
 slug: "phantogram"
 date: 2025-01-18
 layout: post
+era:
+  - "2000s-2010s"
 tags:
   - '@phantogram'
 ---
 
-<!--Introductory Text-->
-<p >Phantograms ethereal blend of electronic beats and indie vibes has captivated fans worldwide. Discover their highlights below!</p> <!--Featured Image-->
-<div > <img alt="Phantogram" src="https://indeflagration.fr/wp-content/uploads/2016/04/Phantogram-Interview-Indeflagration.jpg" />
-</div> <!--Spotify Playlist Embed-->
-<div > 
-</div> <!--Song Information-->
-<div > <p><em>"When Im Small"</em> from *Eyelid Movies* (2010) is a dreamy indietronica masterpiece.</p> <p><em>"You Dont Get Me High Anymore"</em> from *Three* (2016) dives into dark, captivating beats.</p>
-</div> <!--Footer Links-->
-<div > 
-</div> 
+<iframe src="https://open.spotify.com/embed/track/3gkSQbWTDBh0ZKq85WmJDz" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/21nf6u3sQbfViHX7wNZmhK" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/6zO0e11RCBnh1w8kjPZpIh" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

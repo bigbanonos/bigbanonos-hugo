@@ -3,14 +3,26 @@ title: "Empress Of"
 slug: "empress-of"
 date: 2024-11-10
 layout: post
+era:
+  - "2000s-2010s"
+  - "2020s"
+genre:
+  - "art pop"
 tags:
   - '@empressof'
   - '@rinasawyama'
 ---
 
-<h2>Empress Of: BigBanonos Favorite Songs</h2>
-<p><strong>Updated September 25, 2023</strong> with "Kiss Me (feat. Rina Sawayama)." Check out BigBanonos top Empress Of tracks below, and find our playlist at <a href="https://bigbanonos.blogspot.com/">BigBanonos</a>.</p>
+<iframe src="https://open.spotify.com/embed/track/7iUvtFAYg293pzSfKNBGlG" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-{{< img-lite src="https://imageio.forbes.com/specials-images/imageserve/65fbb8717a12ebb47aaa74bd/Empress-Of/960x0.jpg?format=jpg&width=960" alt="Empress Of" >}}
+<iframe src="https://open.spotify.com/embed/track/70HsIqEK1ATmos8ZAz4wHC" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/1e5CWa6Yz7z5J03kTXTDYt" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/4kNmT6S6CMcMsNSNPBMHPE" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/3lXyS3VsU9VbEUWWZNOxDq" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/7IgT48MOFR66Pln4mley21" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/5Nqm4oYBZ8ldrRbvTsKCZg" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

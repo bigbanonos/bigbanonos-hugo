@@ -3,12 +3,12 @@ title: "Superviolet"
 slug: "superviolet"
 date: 2024-12-20
 layout: post
+era:
+  - "2020s"
 tags:
   - '@superviolet'
 ---
 
-<h1>BigBanonos Top Songs by Superviolet</h1>
-{{< img-lite src="https://f4.bcbits.com/img/0031652574_23.jpg" alt="Superviolet" >}} <p>Superviolets poetic lyrics and evocative melodies resonate deeply with listeners. BigBanonos favorites include:</p>  <div> 
-</div>
+<iframe src="https://open.spotify.com/embed/track/5rUCOim82wFgtfdysN45KV" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/4GGykL1fVMyX0d4qPCMaT4" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

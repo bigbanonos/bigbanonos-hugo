@@ -3,6 +3,12 @@ title: "Disclosure"
 slug: "disclosure"
 date: 2025-01-19
 layout: post
+era:
+  - "2000s-2010s"
+  - "2020s"
+genre:
+  - "house"
+  - "future bass"
 tags:
   - '@raye'
   - '@disclosure'
@@ -11,17 +17,12 @@ tags:
   - '@elizadoolittle'
 ---
 
-<p >Tags: <!-- Title of the Post -->
-<h1 >BigBanonos Favorite Songs by Disclosure</h1> <!-- Featured Image -->
-<div > {{< img-lite src="https://i.scdn.co/image/ab676161000051743faf416d3be99d63fec18baa" alt="Disclosure" >}}
-</div> <!-- Spotify Embed -->
-<div > 
-</div> <!-- Introductory Text -->
-<p >Disclosure consistently sets the dancefloor ablaze with their vibrant EDM and house tracks. From "Where You Come From" to their collaborations like "You & Me - Flume Remix," BigBanonos celebrates their genre-defining hits.</p> <!-- Song Highlights -->
-<div > <p>BigBanonos standout picks:</p> 
-</div> <!-- Footer Links -->
-<div > <p>For more dance hits, visit <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Follow us on <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a> for more updates.</p>
-</div> 
-<p >Tags: @disclosure,@elizadoolittle,@flume,@raye,@tokimonsta</p> 
+<iframe src="https://open.spotify.com/embed/track/6mFlyvOviPhIS0K0QLCpVp" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/72EaWichAXl7tTulGwxCKO" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/0DRC6k7M2WlGeoPwyv815Q" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/1snNAXmmPXCn0dkF9DaPWw" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/6eNQBntWe7hh6N0h62tRcg" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

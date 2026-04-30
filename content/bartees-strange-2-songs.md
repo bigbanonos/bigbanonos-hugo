@@ -3,18 +3,13 @@ title: "Bartees Strange"
 slug: "bartees-strange"
 date: 2024-11-03
 layout: post
+era:
+  - "2020s"
+explicit: true
 tags:
   - '@barteesstrange'
 ---
 
-<h2>BigBanonos Top 2 Favorite Songs by Bartees Strange</h2> <!--Search Description-->
-<p>BigBanonos top 2 favorite songs by Bartees Strange, featuring his unique blend of bubblegrunge and rock. Last updated September 23, 2021, with "Weights" and "Boomer" from <em>Live Forever</em>, highlighted in the playlist below:</p> <!--Spotify Playlist Embed-->
- <!--Song List with Album Info-->
-<ul> <li><strong>Weights</strong> – <em>Weights</em> – Released September 23, 2021 – Genre: bubblegrunge</li> <li><strong>Boomer</strong> – <em>Live Forever</em> – Released 2020 – Genre: bubblegrunge, rock</li>
-</ul> <!--YouTube Video Embed-->
-<h3>Watch "Boomer" Video</h3>
-{{< youtube "EFaZ43nW28c" >}} <!--Image and Links-->
-<img alt="Bartees Strange Performing" height="auto" src="https://static01.nyt.com/images/2022/03/13/magazine/13mag-music-15/13mag-music-15-mobileMasterAt3x-v2.jpg" width="100%" /> <!--Tags Section-->
-<h3>Discover more great bubblegrunge and rock music on <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Subscribe to the <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos YouTube Channel</a> for exclusive tracks and curated playlists, including the <a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist</a>.</h3>
+<iframe src="https://open.spotify.com/embed/track/0GGqqihnFeI2asyfdHhXmV" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/6Owc8gM2Nx9UVS8LUN01eS" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

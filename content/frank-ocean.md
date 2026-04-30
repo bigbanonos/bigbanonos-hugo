@@ -3,6 +3,9 @@ title: "Frank Ocean"
 slug: "frank-ocean"
 date: 2024-12-17
 layout: post
+era:
+  - "2000s-2010s"
+explicit: true
 tags:
   - '@mickjagger'
   - '@paulsimonon'
@@ -10,9 +13,18 @@ tags:
   - '@diplo'
 ---
 
-<h2>BigBanonos Favorite Tracks: Frank Ocean – 9 Songs</h2> <div > <a href="https://www.rollingstone.com/wp-content/uploads/2019/09/frank-ocean-next-album-lie.jpg?w=1581&h=1054&crop=1"> <img src="https://www.rollingstone.com/wp-content/uploads/2019/09/frank-ocean-next-album-lie.jpg?w=1581&h=1054&crop=1" alt="Frank Ocean" width="400" /> </a>
-</div> <p><em>BigBanonos</em> celebrates the artistry of Frank Ocean with a selection of his top tracks that blend neo-soul, R&B, and hip-hop influences. Updated to include standout moments from his iconic albums and singles.</p> <h3>Selected Tracks</h3>
- <p>Frank Ocean Top Songs Playlist:</p>
- <p>Watch the music video for "Lost" and other performances below:</p>
-{{< youtube "x-3MYRdgla4" >}} <h3>Tags</h3>
-<p>@frankocean,@mickjagger,@paulsimonon,@diplo</p> <hr />
+<iframe src="https://open.spotify.com/embed/track/41cpvQ2GyGb2BRdIRSsTqK" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/6gtNiLJNLBcV0P6Juenstp" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/6Nle9hKrkL1wQpwNfEkxjh" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/19YKaevk2bce4odJkP5L22" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/2ZWlPOoWh0626oTaHrnl2a" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/3xKsf9qdS1CyvXSMEid6g8" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/7eqoqGkKwgOaWNNHx90uEZ" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/3GZD6HmiNUhxXYf8Gch723" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

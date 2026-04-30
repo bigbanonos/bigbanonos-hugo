@@ -3,6 +3,13 @@ title: "Dead Kennedys"
 slug: "dead-kennedys"
 date: 1987-06-15
 layout: post
+era:
+  - "1900s"
+genre:
+  - "punk"
+  - "hardcore punk"
+  - "skate punk"
+  - "proto-punk"
 tags:
   - '@dead-kennedys'
   - '1900s'
@@ -12,23 +19,8 @@ tags:
   - 'proto-punk'
 ---
 
-## Dead Kennedys
+<iframe src="https://open.spotify.com/embed/track/6capuHDLxgoUUjDD0UhAgN" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-_3 tracks between 1980 and 1987._
+<iframe src="https://open.spotify.com/embed/track/12yWLmPDd5CXA73vqo97PH" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
----
-
-**Kill the Poor**
-*Fresh Fruit for Rotting Vegetables* · 1980 · 3:07
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/36D3pqbUMSvyZEXdHxWhIU" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**Holiday in Cambodia**
-*Give Me Convenience or Give Me Death* · 1987 · 3:44
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6capuHDLxgoUUjDD0UhAgN" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**California Über Alles**
-*Give Me Convenience or Give Me Death* · 1987 · 3:27
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/12yWLmPDd5CXA73vqo97PH" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe src="https://open.spotify.com/embed/track/36D3pqbUMSvyZEXdHxWhIU" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

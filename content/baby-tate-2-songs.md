@@ -3,16 +3,13 @@ title: "Baby Tate"
 slug: "baby-tate"
 date: 2024-11-02
 layout: post
+era:
+  - "2020s"
+explicit: true
 tags:
   - '@babytate'
 ---
 
-<h2>Big Banonos 2 Favorite Baby Tate Tracks</h2> <!--Search Description-->
-<p>Baby Tates latest releases showcase her dynamic style with songs like "Grip" from <em>Baby Tate Presents - Sexploration: The Musical</em>. Last updated October 27, 2023, with the single "Grip," highlighted in the playlist below:</p> <!--Spotify Playlist Embed-->
- <!--Song List with Album Info-->
-<ul> <li><strong>Grip</strong> – <em>Baby Tate Presents - Sexploration: The Musical</em> – Released October 27, 2023 – Genre: trap queen, R&B</li> <li><strong>Jersey</strong> – <em>Jersey</em> – Released September 1, 2023 – Genre: trap queen, R&B</li>
-</ul> <!--Image and Links-->
-<img alt="Baby Tate Promotional Image" height="auto" src="https://i0.wp.com/outnowmagazine.com/wp-content/uploads/2022/10/BABY-TATE.jpg?fit=1640%2C924&ssl=1" width="100%" /> <!--Tags Section-->
-<h3>Discover more of the latest music on <strong>#NotOnSpotify</strong> by subscribing to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and exploring the <a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist</a>.</h3>
+<iframe src="https://open.spotify.com/embed/track/1tHYeRTwPlHkKV3uOY0uSm" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/0bzAIaIHmILyOOiP0nQGMj" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

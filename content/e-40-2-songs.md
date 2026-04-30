@@ -3,13 +3,20 @@ title: "E 40"
 slug: "e-40"
 date: 2024-12-21
 layout: post
+era:
+  - "1900s"
+  - "2020s"
+genre:
+  - "hyphy"
+  - "west coast hip hop"
+  - "g-funk"
+explicit: true
 tags:
   - '@geazy'
   - '@gashi'
   - '@e40'
 ---
 
-<h3><em>BigBanonos</em> Favorite Songs by E-40:</h3> <p>Updated on December 18, 2020, with the standout track "Girl I See You Winning" featuring G-Eazy and GASHI from the album "Aint Gone Do It / Terms and Conditions." <em>BigBanonos</em> highlights E-40s top hits that showcase his signature cali rap and hyphy sound.</p> <!--Image-->
- <!--Spotify Playlist Embed-->
- <!--Song Listings-->
- <hr />
+<iframe src="https://open.spotify.com/embed/track/2FmfwC6Tin0P4E97ShxCvB" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/4I2JCpjzIT22GXx40p708Q" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

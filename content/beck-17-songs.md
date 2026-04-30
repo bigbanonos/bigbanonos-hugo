@@ -3,15 +3,51 @@ title: "Beck"
 slug: "beck"
 date: 2024-12-17
 layout: post
+era:
+  - "1900s"
+  - "2000s-2010s"
+  - "2020s"
+genre:
+  - "anti-folk"
+  - "indie"
+explicit: true
 tags:
   - '@phoenix'
   - '@beck'
 ---
 
-<h2>BigBanonos Top 19 Favorite Songs by Beck</h2> <!--Search Description-->
-<p>BigBanonos top 17 favorite tracks by Beck, showcasing his unique mix of alternative rock, anti-folk, and slacker rock. Last updated June 21, 2023, with "Odyssey" featuring Phoenix, highlighted in the playlist below:</p><p></p><ul> <li><strong>Odyssey (feat. Phoenix)</strong> – <em>Odyssey</em> – Released June 21, 2023 – Genres: alternative rock, indie rock</li> <li><strong>Die Waiting</strong> – <em>Hyperspace</em> – Released August 12, 2020 – Genres: alternative rock, slacker rock</li> <li><strong>Up All Night</strong> – <em>Colors</em> – Released October 13, 2017 – Genres: alternative rock, slacker rock</li> <li><strong>Gamma Ray</strong> – <em>Modern Guilt</em> – Released January 12, 2009 – Genres: alternative rock, slacker rock</li> <li><strong>Modern Guilt</strong> – <em>Modern Guilt</em> – Released January 12, 2009 – Genres: alternative rock, slacker rock</li> <li><strong>Go It Alone</strong> – <em>Guero</em> – Released January 1, 2005 – Genres: alternative rock, slacker rock</li> <li><strong>Little One</strong> – <em>Sea Change</em> – Released January 1, 2002 – Genres: alternative rock, slacker rock</li> <li><strong>Tropicalia</strong> – <em>Mutations</em> – Released January 1, 1998 – Genres: alternative rock, slacker rock</li> <li><strong>Devils Haircut</strong> – <em>Odelay</em> – Released June 18, 1996 – Genres: alternative rock, slacker rock</li> <li><strong>Where Its At</strong> – <em>Odelay</em> – Released June 18, 1996 – Genres: alternative rock, slacker rock</li> <li><strong>I Get Lonesome</strong> – <em>One Foot In The Grave</em> – Released June 27, 1994 – Genres: alternative rock, anti-folk</li> <li><strong>Asshole</strong> – <em>One Foot In The Grave</em> – Released June 27, 1994 – Genres: alternative rock, anti-folk</li> <li><strong>Bogusflow</strong> – <em>DGC Rarities Vol. 1</em> – Released May 7, 1994 – Genres: alternative rock, slacker rock</li> <li><strong>Loser</strong> – <em>Mellow Gold</em> – Released March 1, 1994 – Genres: alternative rock, slacker rock</li> <li><strong>Tropicalia</strong> – <em>Mutations</em> – Released January 1, 1998 – Genres: alternative rock, slacker rock</li> <li><strong>Cold Brains</strong> – <em>Mutations</em> – Released January 1, 1998 – Genres: alternative rock, slacker rock</li> <li><strong>Devils Haircut</strong> – <em>Odelay - Deluxe Edition</em> – Released June 18, 1996 – Genres: alternative rock, slacker rock</li><li><strong>I Get Lonesome</strong></li><li><strong>Modern Guilt</strong></li>
-</ul> <!--Image-->
-<img alt="Beck Performing" height="auto" src="https://lamag.com/.image/ar_4:3%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cq_auto:eco%2Cw_1200/MTk3NTU1Mzg1NzY2NTg2MDQ4/beck_h.jpg" width="100%" /> <!--Tags Section-->
-<h3>Explore more alternative rock and anti-folk on <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> for exclusive tracks and the best songs <strong>#NotOnSpotify</strong>. You can also check out our curated <a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">#NotOnSpotify Playlist</a>.</h3>
+<iframe src="https://open.spotify.com/embed/track/3ULSfbtXLBo4AehHye9ft9" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/1q9QMVt2b0Vs5NkhcdXyPy" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/28AgTOIZke8nitD0NNeb3G" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/3w56ucf59EbjBU6TXN8JiB" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/02Ths5ois3ERay9ckpzPFR" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/7zeCIWu37bKFJuem8MTyM1" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/4oYfMQ6NDGHq0GcbICqsDw" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/6sY5KdLa5DksdV52wPKpB7" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/6rx6Ew1sday1KvsnD4HNdI" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/1NBsbkyRIhya0fnRm9U18z" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/47OEl1PttAFxNEf9KRmx23" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/0myfUjrUP8kMrk48nOXAY0" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/72RKyMzFtG9w752up7GBE1" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/4AGKuAwEnhri1EDP4miEVw" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/1H4qTLNNSsxEVbbMS7cBOD" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/5fqtcniRN1vtt4gAbcYAQ3" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/5PntSbMHC1ud6Vvl8x56qd" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/5IOXHlLaf6rJThZytwFO30" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

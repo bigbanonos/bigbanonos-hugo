@@ -3,6 +3,13 @@ title: "George Strait"
 slug: "george-strait"
 date: 2015-09-25
 layout: post
+era:
+  - "2000s-2010s"
+genre:
+  - "country"
+  - "classic country"
+  - "traditional country"
+  - "honky tonk"
 tags:
   - '@george-strait'
   - '00s-10s'
@@ -12,18 +19,6 @@ tags:
   - 'honky tonk'
 ---
 
-## George Strait
+<iframe src="https://open.spotify.com/embed/track/3w6VIMJd83dPA22ddLasQj" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-_2 tracks between 2011 and 2015._
-
----
-
-**Here For A Good Time**
-*Here For A Good Time* · 2011 · 3:00
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/11OFYsUK9EVJsQ6nutH32M" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**Wish You Well**
-*Cold Beer Conversation* · 2015 · 3:35
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3w6VIMJd83dPA22ddLasQj" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe src="https://open.spotify.com/embed/track/11OFYsUK9EVJsQ6nutH32M" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

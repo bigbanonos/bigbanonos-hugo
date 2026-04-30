@@ -3,13 +3,15 @@ title: "Squeeze"
 slug: "squeeze"
 date: 2025-02-10
 layout: post
+era:
+  - "1900s"
+genre:
+  - "power pop"
+  - "new wave"
 tags:
   - '@squeeze'
 ---
 
-<!-- Squeeze -->
-<img src="https://i.scdn.co/image/ab67616d00001e028fbf4c9edaa684ea4de63879" /> <p><strong>Updated October 31, 1989 with "Black Coffee In Bed" from <em>Singles - 45s And Under</em></strong></p> <p><strong>"Black Coffee In Bed"</strong> – <em>Singles - 45s And Under</em> (A&M, 1989)</p>
-<p><strong>"Tempted"</strong> – <em>East Side Story</em> (A&M, 1981)</p>  <p>@squeeze</p> <hr /> <!-- Footer -->
- 
+<iframe src="https://open.spotify.com/embed/track/4rFq47OSkwikpxDqncu1yC" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/5r2z0FHOoFI06GZEVGDjzM" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

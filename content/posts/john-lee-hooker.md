@@ -3,6 +3,14 @@ title: "John Lee Hooker"
 slug: "john-lee-hooker"
 date: 2006-08-24
 layout: post
+era:
+  - "2000s-2010s"
+genre:
+  - "blues"
+  - "classic blues"
+  - "blues rock"
+  - "country blues"
+  - "soul blues"
 tags:
   - '@john-lee-hooker'
   - '00s-10s'
@@ -12,13 +20,4 @@ tags:
   - 'country blues'
 ---
 
-## John Lee Hooker
-
-_1 tracks, all from 2006._
-
----
-
-**Boogie Chillun**
-*Absolutely the Best of the Blues* · 2006 · 2:38
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0AyuXBS2btC46SOUgnOZ2N" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe src="https://open.spotify.com/embed/track/0AyuXBS2btC46SOUgnOZ2N" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

@@ -3,21 +3,15 @@ title: "Duran Duran"
 slug: "duran-duran"
 date: 2025-01-17
 layout: post
+era:
+  - "1900s"
+genre:
+  - "new wave"
+  - "synthpop"
 tags:
   - '@duranduran'
 ---
 
-<!-- Title of the Post -->
-<h1 >BigBanonos Favorite Songs by Duran Duran</h1> <!-- Featured Image -->
-<div > {{< img-lite src="https://i.scdn.co/image/ab67616d0000b273f94d8df3eae0d0510fc0cf1b" alt="Duran Duran" >}}
-</div> <!-- Spotify Embed -->
-<div > 
-</div> <!-- Introductory Text -->
-<p >Duran Duran masterfully blends new wave and synthpop, as heard in iconic tracks like "Notorious" and the hauntingly beautiful "Come Undone."</p> <!-- Song Highlights -->
-<div > <p>BigBanonos standout picks:</p> 
-</div> <!-- Footer Links -->
-<div > <p>Explore more synthpop favorites from Duran Duran at <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Join us on <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a> for music updates!</p>
-</div> 
-<p >Tags: @duranduran</p>
+<iframe src="https://open.spotify.com/embed/track/4znkNgqRMCF12mY7EbklsA" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/0yfNXxlyXdmP0ue1iJijx1" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

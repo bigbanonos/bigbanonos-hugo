@@ -3,6 +3,13 @@ title: "Jay Rock"
 slug: "jay-rock"
 date: 2025-01-16
 layout: post
+era:
+  - "2000s-2010s"
+genre:
+  - "hip hop"
+  - "west coast hip hop"
+  - "rap"
+explicit: true
 tags:
   - '@jamesblake'
   - '@jeremih'
@@ -12,19 +19,8 @@ tags:
   - '@kendricklamar'
 ---
 
-<!-- Title of the Post -->
-<h1>BigBanonos Favorite Songs by Jay Rock</h1> <!-- Introductory Text -->
-<p>Jay Rock, a pioneer of West Coast hip-hop, blends powerful lyrics with dynamic production. This curated list features his top collaborations and solo tracks, showcasing his versatility and impact on the genre.</p> <!-- Featured Image -->
-<div> {{< img-lite src="https://i.iheart.com/v3/re/new_assets/649b0b0b95ba522b468c757c?ops=contain(1480,0)" alt="Jay Rock" >}}
-</div> <!-- Spotify Embed -->
-<div> 
-</div> <!-- Song Information -->
-<h3>Top Tracks by Jay Rock:</h3>
- <!-- YouTube Embed -->
-<div> {{< youtube "videoseries" >}}
-</div> <!-- Footer Links -->
-<hr />
-<p>Explore more Jay Rock tracks and other BigBanonos favorites on <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Dont forget to check out our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> channel and follow us on <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a> for exclusive content!</p> 
-<p>@jayrock,@blackhippy,@jeremih,@kendricklamar,@future,@jamesblake</p>
+<iframe src="https://open.spotify.com/embed/track/2YaOQzBkhejBu5d4CyGsfS" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/51rXHuKN8Loc4sUlKPODgH" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/2SIdGJTWirTxRNEyCp9ocI" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

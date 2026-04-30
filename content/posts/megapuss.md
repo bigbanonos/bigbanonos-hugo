@@ -3,29 +3,18 @@ title: "Megapuss"
 slug: "megapuss"
 date: 2008-09-08
 layout: post
+era:
+  - "2000s-2010s"
+genre:
+  - "anti-folk"
 tags:
   - '@megapuss'
   - '00s-10s'
   - 'anti-folk'
 ---
 
-## Megapuss
+<iframe src="https://open.spotify.com/embed/track/133SSU80rKgiH25FnSeXiN" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-_3 tracks, all from 2008._
+<iframe src="https://open.spotify.com/embed/track/71nbg14B1JdzLb1cfEWQe5" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
----
-
-**Crop Circle Jerk 94**
-*Surfing* · 2008 · 4:29
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/133SSU80rKgiH25FnSeXiN" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**Theme From Hollywood**
-*Surfing* · 2008 · 4:41
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/71nbg14B1JdzLb1cfEWQe5" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**Chicken Titz**
-*Surfing* · 2008 · 3:53
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3Rf66bggIMT0kRRdx3oJ51" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe src="https://open.spotify.com/embed/track/3Rf66bggIMT0kRRdx3oJ51" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

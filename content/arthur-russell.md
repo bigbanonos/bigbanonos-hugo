@@ -3,21 +3,20 @@ title: "Arthur Russell"
 slug: "arthur-russell"
 date: 2025-01-17
 layout: post
+era:
+  - "1900s"
+  - "2000s-2010s"
+genre:
+  - "art pop"
+  - "minimalism"
 tags:
   - '@arthurrussell'
 ---
 
-<!-- Title of the Post -->
-<h1 >BigBanonos Favorite Songs by Arthur Russell</h1> <!-- Featured Image -->
-<div > {{< img-lite src="https://i.scdn.co/image/ab67616d0000b273de8d964b97a77d617ff64381" alt="Arthur Russell" >}}
-</div> <!-- Spotify Embed -->
-<div > 
-</div> <!-- Introductory Text -->
-<p >Arthur Russells experimental genius blended art pop with minimalism, creating timeless classics. From "This Is How We Walk On The Moon" to "You Did It Yourself," here are BigBanonos favorites by the eclectic artist.</p> <!-- Song Highlights -->
-<div > <p>BigBanonos standout picks:</p> 
-</div> <!-- Footer Links -->
-<div > <p>Dive deeper into experimental sounds at <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Stay connected on <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p>
-</div> 
-<p >Tags: @arthurrussell</p>
+<iframe src="https://open.spotify.com/embed/track/0Y4KG1bfmUMyXiCNYGcQq6" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/0xDEeycZzb03vGNm3rBQ6K" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/2UEKe8Fl9PCd22X0Qu5KB2" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/74LbkcDTjFV1WtMmTAtORI" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

@@ -3,15 +3,19 @@ title: "Ayra Starr"
 slug: "ayra-starr"
 date: 2024-10-31
 layout: post
+era:
+  - "2020s"
+genre:
+  - "afrobeats"
+  - "afrobeat"
+  - "afropop"
+  - "afro r&b"
+  - "afropiano"
 tags:
   - '@ckay'
   - '@ayrastarr'
 ---
 
-<h2>BigBanonos Favorite 2 Songs by Ayra Starr</h2>
-<p>BigBanonos explores the soulful rhythms of Nigerian afrobeats artist Ayra Starr, who brings her unique style and depth to each track. BigBanonos Favorite 2 Songs by Ayra Starr, Last updated August 6, 2021, with "Beggie Beggie" highlighted in the playlist below:</p>  <img alt="Ayra Starr - Top Songs" src="https://ladunliadinews.com/wp-content/uploads/2024/10/IMG_2538.jpeg" /> <div> 
-</div> <p>Dont forget to check out BigBanonos on YouTube for more curated music content, especially those tracks #NotOnSpotify!</p>
-<p><a href="https://www.youtube.com/@BigBanonos">BigBanonos YouTube Channel</a></p>
-{{< youtube "Gm1bpmNKII0" >}}
+<iframe src="https://open.spotify.com/embed/track/6zublRIkZocboXucqc8hgB" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/5687UltkEFNIoi7friwKwt" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

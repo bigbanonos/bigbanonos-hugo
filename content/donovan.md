@@ -3,19 +3,23 @@ title: "Donovan"
 slug: "donovan"
 date: 2025-01-15
 layout: post
+era:
+  - "1900s"
+genre:
+  - "folk rock"
+  - "psychedelic rock"
 tags:
   - '@donovan'
 ---
 
-<h2 >BigBanonos Favorite Songs by Donovan</h2> <!-- Introductory Text -->
-<p >Donovans eclectic blend of folk, psychedelia, and pop made him a defining voice of the 1960s. Updated with BigBanonos favorite tracks, this post highlights Donovans timeless hits and a curated playlist for your enjoyment.</p> <!-- Featured Image -->
-<div > {{< img-lite src="https://i.scdn.co/image/ab67616d0000b273134109069f1e206958ffe83a" alt="Donovan Album Cover" >}}
-</div> <!-- YouTube Playlist Embed -->
-<div > {{< youtube "videoseries" >}}
-</div> <!-- Song List -->
-<h3 >Top Songs:</h3>
- <!-- Footer Links -->
-<hr />
-<p >For more updates, visit <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Also, check out our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> channel and follow us on <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a> for exclusive content!</p>
+<iframe src="https://open.spotify.com/embed/track/7kp7PNbC5OOZUdUvV2pLI8" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/7AL6qzIDHIX7pEUWrzNiIs" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/4cix9zymmhisLuM56RDcB7" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/6MOEQCtAWNSCmvg3SFKF5y" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/4RGxUjaCmVtD30pIhtEi7w" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/2kXjzBRn2YNo2MCNSjYfTS" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

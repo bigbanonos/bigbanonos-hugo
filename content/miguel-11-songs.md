@@ -3,16 +3,39 @@ title: "Miguel"
 slug: "miguel"
 date: 2024-12-20
 layout: post
+era:
+  - "2000s-2010s"
+  - "2020s"
+genre:
+  - "r&b"
+  - "rap"
+  - "g-funk"
+  - "west coast hip hop"
+  - "gangster rap"
+explicit: true
 tags:
   - '@miguel'
   - '@kurupt'
 ---
 
-<h1>BigBanonos Top 11 Songs by Miguel</h1>
-{{< img-lite src="https://i8.amplience.net/i/naras/MI0004336408-MN0002570457" alt="Miguel" >}} <p>This collection of BigBanonos favorite tracks by Miguel showcases his smooth blend of R&B and urban contemporary sounds. From iconic hits like "Adorn" to fan favorites like "Sure Thing," these songs capture Miguels soulful voice and innovative style.</p>  <div> 
-</div> <div> {{< youtube "videoseries" >}}
-</div> <p>first posted by <a href="https://bigbanonos.blogspot.com/">https://bigbanonos.blogspot.com/</a></p> <div> <p>Explore more BigBanonos content: <a href="https://bigbanonos.blogspot.com/">Website</a> | <a href="https://www.youtube.com/@BigBanonos">YouTube</a> | <a href="https://x.com/bigbanonos">Twitter</a></p>
-</div> 
-<p>@miguel</p>
+<iframe src="https://open.spotify.com/embed/track/1erZEUKhZ03cHHD0vOr8aQ" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/736XrOvsUtOpuyLmPdjuG3" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/6Lnn71AwH0uzSocADOF8ei" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/1DRW9bQzt2SE8f7H4KJZyL" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/6vMpPxLV0F5Diwcs6awI1Z" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/1yo5POfHJT1LASjQlsvF0Q" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/2YEr07055St40kz0aUfm4f" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/3K2YM0zZwJMjQrzMqpkOSQ" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/25cUhiAod71TIQSNicOaW3" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/3YA7i7hvNDDplDT79NWLUr" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/4THgRPmLvhNmM9Lzj8qrvH" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

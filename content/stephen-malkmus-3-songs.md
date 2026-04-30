@@ -3,13 +3,17 @@ title: "Stephen Malkmus"
 slug: "stephen-malkmus"
 date: 2024-12-20
 layout: post
+era:
+  - "2000s-2010s"
 tags:
   - '@thejicks'
   - '@stephenmalkmus'
 ---
 
-<h1>BigBanonos Top Songs by Stephen Malkmus</h1>
-<img alt="Stephen Malkmus" src="https://www.rollingstone.com/wp-content/uploads/2018/06/stephen-malkmus-my-life-in-15-songs-6cd56fd4-0316-4508-a2a6-c8e1dcbe139d.jpg?w=1581&h=1054&crop=1" /> <p>Stephen Malkmus, known for his work with Pavement and The Jicks, brings his unique take on indie rock. Here are BigBanonos top selections:</p>  <div> 
-</div>
+<iframe src="https://open.spotify.com/embed/track/1DpozPCjfREUoHgic8dvIw" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/6QyVKZBA22BuXuQDma3Fac" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/6rSQtxF6vhbPhiLXhJRKzp" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/6iOC3FuJ1hBl35DuXqF0Bk" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

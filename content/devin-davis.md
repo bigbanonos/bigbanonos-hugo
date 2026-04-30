@@ -3,11 +3,17 @@ title: "Devin Davis"
 slug: "devin-davis"
 date: 2025-02-09
 layout: post
+era:
+  - "2000s-2010s"
+genre:
+  - "power pop"
+  - "indie punk"
 tags:
   - '@devindavis'
 ---
 
-<h2>BigBanonos Favorite Songs by Devin Davis</h2> <p><strong>Updated March 15, 2005, with "Iron Woman" from <em>Lonely People of the World, Unite!</em></strong></p> {{< img-lite src="https://i.scdn.co/image/32050b3cd1f38818db21adca109c78e5e38e9717" alt="Devin Davis" >}} <p>Devin Davis mix of chamber pop and power pop creates an intimate yet powerful sound. Below are BigBanonos favorite songs by Devin Davis.</p> <h3>"Iron Woman"</h3>
-<p><em>Lonely People of the World, Unite!</em>, Mousse Records, March 15, 2005</p> <h3>"Paratrooper With Amnesia"</h3>
-<p><em>Lonely People of the World, Unite!</em>, Mousse Records, March 15, 2005</p> <h3>"Transcendental Sports Anthem"</h3>
-<p><em>Lonely People of the World, Unite!</em>, Mousse Records, March 15, 2005</p> <hr /> <h3>Listen on Spotify</h3>  <hr /> <p><strong>Tags:</strong> @devindavis</p> <hr />
+<iframe src="https://open.spotify.com/embed/track/2GMui0WzewFAJZpVkTWNdV" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/5ncqABzKrl5RIgugSj8IOX" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/2n7hazvstCNVRpJZW0VW5W" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

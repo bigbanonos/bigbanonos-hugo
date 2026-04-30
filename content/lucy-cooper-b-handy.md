@@ -3,13 +3,25 @@ title: "Lucy Cooper B Handy"
 slug: "lucy-cooper-b-handy"
 date: 2025-01-01
 layout: post
+era:
+  - "2020s"
+genre:
+  - "darkwave"
+  - "cold wave"
 tags:
   - '@lucy'
 ---
 
-<h1>LUCY (Cooper B. Handy)s Top Songs</h1> <p>LUCY (Cooper B. Handy) delivers a unique blend of experimental indie and folk acoustic vibes with the release of <em>Cooper B. Handys Album, Vol. 9</em>. Watch the official music videos for "Radiation" and "Bandage Off" below!</p> <div> {{< img-lite src="https://media.gq.com/photos/6554f5daca9142f7fabfd553/16:9/w_2560%2Cc_limit/Titanic%25207.jpeg.jpg" alt="LUCY (Cooper B. Handy)" >}}
-</div> <div> </div> <div> </div> <div> <p><em>Cooper B. Handys Album, Vol. 9</em>, released on December 6, 2024, features standout tracks like "Mi Amor," "I Do," and "Bandage Off." LUCYs experimental indie sound shines throughout this latest release.</p> <p><strong>Updated on December 6, 2024</strong></p>
-</div> <div> </div> <div> 
-</div>  
+<iframe src="https://open.spotify.com/embed/track/1cxctyHvG1xtO5w5vR2juC" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/5QswtMWFjuYz3S4evMnt8L" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/1avnFmwtICw8Dl6Xl9hJ36" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/6aKEmsF3bQHNueluhKX9I9" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/6WngVIpMOc5nl2HRh6ItK4" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/5iEjogD2Dn0eHWTei4q654" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/2gZnzNvqf3dG0z4wxqfmEv" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

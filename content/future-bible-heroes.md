@@ -3,13 +3,22 @@ title: "Future Bible Heroes"
 slug: "future-bible-heroes"
 date: 2024-12-20
 layout: post
+era:
+  - "2000s-2010s"
+genre:
+  - "anti-folk"
 tags:
   - '@futurebibleheroes'
 ---
 
-<h2>BigBanonos Favorite Tracks: Future Bible Heroes – 6 Songs</h2> <div > <a href="https://m.media-amazon.com/images/I/2120DP2T96L._UF1000,1000_QL80_.jpg"> <img src="https://m.media-amazon.com/images/I/2120DP2T96L._UF1000,1000_QL80_.jpg" alt="Future Bible Heroes" width="400" /> </a>
-</div> <p><em>BigBanonos</em> presents a curated selection of tracks by Future Bible Heroes, highlighting their whimsical and lo-fi charm. This playlist includes both classic favorites and standout cuts from their discography.</p> <h3>Selected Tracks</h3>
- <p>Future Bible Heroes Playlist:</p>
- <p>Watch the video for "How Very Strange":</p>
-{{< youtube "db2wrFg6v6g" >}} <h3>Tags</h3>
-<p>@futurebibleheroes</p> <hr />
+<iframe src="https://open.spotify.com/embed/track/3z4WWiMn7nz9vNowGVfO85" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/0YUY9rM55Qt0X0p5SRYYVY" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/64SSdxdrIRk6XL6dYruA83" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/7cuvYeefvDoQYaVxlhQqo2" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/4LKjbcjXY1bzVPGPCmskL0" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/3sipM7Q121cD9kPrtgXcf0" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

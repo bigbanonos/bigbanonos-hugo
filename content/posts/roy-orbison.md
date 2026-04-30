@@ -3,6 +3,11 @@ title: "Roy Orbison"
 slug: "roy-orbison"
 date: 2006-01-01
 layout: post
+era:
+  - "1900s"
+  - "2000s-2010s"
+genre:
+  - "rockabilly"
 tags:
   - '@roy-orbison'
   - '00s-10s'
@@ -10,18 +15,6 @@ tags:
   - 'rockabilly'
 ---
 
-## Roy Orbison
+<iframe src="https://open.spotify.com/embed/track/2CbdoRm1mykeyYxXsWM3hP" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-_2 tracks spanning 1961 to 2006. 45 years of trying._
-
----
-
-**Ooby Dooby**
-*At the Rock House* · 1961 · 2:10
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4vf0v0GzzrLFqtpbtSYgue" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**Crying**
-*The Essential Roy Orbison* · 2006 · 2:46
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2CbdoRm1mykeyYxXsWM3hP" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe src="https://open.spotify.com/embed/track/4vf0v0GzzrLFqtpbtSYgue" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

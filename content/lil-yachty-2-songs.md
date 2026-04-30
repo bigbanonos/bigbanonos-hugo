@@ -3,6 +3,13 @@ title: "Lil Yachty"
 slug: "lil-yachty"
 date: 2024-10-29
 layout: post
+era:
+  - "2000s-2010s"
+  - "2020s"
+genre:
+  - "rap"
+  - "moombahton"
+explicit: true
 tags:
   - '@drake'
   - '@lilyachty'
@@ -10,10 +17,16 @@ tags:
   - '@dababy'
 ---
 
-<h2>Lil Yachty: BigBanonos Top 7 Songs</h2>
-<p>Updated February 2, 2024, with "A Cold Sunday"</p>
-<p><strong>Lil Yachty</strong> brings his melodic rap style to each track, blending modern hip-hop and trap with catchy beats. Heres BigBanonos favorite selection of Lil Yachty songs.</p> <h3>Playlist</h3>
- <h3>Songs</h3>
- <img alt="Lil Yachty" src="https://urbanislandz.com/wp-content/uploads/2017/08/Lil-Yachty-Diplo-Forever-Young-video-1-800x500.jpg.webp" width="100%" /> <p>Explore more of BigBanonos favorite tracks and get the latest on your favorite artists in the hip-hop scene.</p>
+<iframe src="https://open.spotify.com/embed/track/1Y1jtaZOJYgXBl7lKdLc9o" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/7iTTWHbr4tAlsRJN4m4bay" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/6vDyzD9o8aYhR1963oJpkO" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/6luBKkFUt5wTwz7hpLhp12" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/74loibzxXRL875X20kenvk" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/7wsmIIm0xWmtP7TmACXkJn" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/4CwumbYOUtgSylJnSrZ7oY" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

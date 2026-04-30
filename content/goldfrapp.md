@@ -3,11 +3,16 @@ title: "Goldfrapp"
 slug: "goldfrapp"
 date: 2025-02-12
 layout: post
+era:
+  - "2000s-2010s"
+genre:
+  - "trip hop"
+  - "electroclash"
+  - "art pop"
 tags:
   - '@goldfrapp'
 ---
 
-<div> {{< img-lite src="https://i.scdn.co/image/ab67616d0000b2734d674f0adfac1707ea064885" alt="Goldfrapp" >}}
-</div> <p>
-BigBanonos favorite tracks by Goldfrapp:
-</p> <p><strong>"Lovely Head"</strong> – *Felt Mountain* (2000) | Mute, a BMG Company</p> <p><strong>"Number 1"</strong> – *Supernature* (2005) | Mute, a BMG Company</p>  {{< youtube "ITi6uat0BuQ" >}}  <hr />
+<iframe src="https://open.spotify.com/embed/track/1WVhulmaOQafvebRQ7O8w4" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/1zgep5cR2ZjHRKLi3qqbl8" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

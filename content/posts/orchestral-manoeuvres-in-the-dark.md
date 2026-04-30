@@ -3,6 +3,13 @@ title: "Orchestral Manoeuvres In The Dark"
 slug: "orchestral-manoeuvres-in-the-dark"
 date: 2020-12-04
 layout: post
+era:
+  - "1900s"
+  - "2000s-2010s"
+  - "2020s"
+genre:
+  - "new wave"
+  - "synthpop"
 tags:
   - '@orchestral-manoeuvres-in-the-dark'
   - '00s-10s'
@@ -12,23 +19,8 @@ tags:
   - 'synthpop'
 ---
 
-## Orchestral Manoeuvres In The Dark
+<iframe src="https://open.spotify.com/embed/track/2E7xQHt7Rm4mHBT1i28Rwi" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-_3 tracks spanning 1980 to 2020. 40 years of trying._
+<iframe src="https://open.spotify.com/embed/track/38w6aqERgBYjyvWQsltcvs" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
----
-
-**Enola Gay - Remastered 2003**
-*Organisation* · 1980 · 3:33
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3NYCaxkggl0Hh8vQptSUvV" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**If You Leave - Remastered 2019**
-*Souvenir* · 2019 · 4:29
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/38w6aqERgBYjyvWQsltcvs" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**Enola Gay - Extended Mix**
-*Enola Gay (Remixes)* · 2020 · 4:48
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2E7xQHt7Rm4mHBT1i28Rwi" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe src="https://open.spotify.com/embed/track/3NYCaxkggl0Hh8vQptSUvV" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

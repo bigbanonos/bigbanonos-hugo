@@ -3,23 +3,42 @@ title: "Grimes"
 slug: "grimes"
 date: 2025-01-16
 layout: post
+era:
+  - "2000s-2010s"
+  - "2020s"
+genre:
+  - "art pop"
+explicit: true
 tags:
   - '@grimes'
   - '@i_o'
   - '@hana'
 ---
 
-<!-- Title of the Post -->
-<h1>BigBanonos Favorite Songs by Grimes</h1> <!-- Introductory Text -->
-<p>Grimes, known for her experimental sound and ethereal vocals, continues to push the boundaries of art pop and electronic music. From groundbreaking hits to rare gems, BigBanonos presents a curated list of Grimes top tracks.</p> <!-- Featured Image -->
-<div> {{< img-lite src="https://img.redbull.com/images/c_fill,g_auto,w_1200,h_630/f_auto,q_auto/redbullcom/2015/10/30/1331756794179_2/grimes" alt="Grimes" >}}
-</div> <!-- Spotify Embed -->
-<div> 
-</div> <!-- Song Information -->
-<h3>Top Songs:</h3>
-<ul> <li><strong>Rosa (Nightcore Mix)</strong> | Album: <em>Geidi Primes (Nightcore Edition)</em> | Released: 2024-03-01 | Label: Nazgul Recording LLC</li> <li><strong>Youll miss me when Im not around</strong> | Album: <em>Miss Anthropocene (Deluxe Edition)</em> | Released: 2020-02-21 | Label: 4AD</li> <li><strong>Delete Forever</strong> | Album: <em>Delete Forever</em> | Released: 2020-02-12 | Label: Eerie Organization/Crystal Math Music</li> <li><strong>So Heavy I Fell Through the Earth - Algorithm Mix</strong> | Album: <em>So Heavy I Fell Through the Earth</em> | Released: 2019-11-15 | Label: 4AD</li> <li><strong>World Princess part II</strong> | Album: <em>Art Angels</em> | Released: 2015-11-06 | Label: 4AD</li>
-</ul> <h3>Additional Highlights:</h3>
- <!-- YouTube Embed -->
-<div> {{< youtube "c2EJMd7ZN7w" >}}
-</div> <!-- Footer Links -->
-<hr />
+<iframe src="https://open.spotify.com/embed/track/7lCY0oByjVjpUtvj2V1X5G" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/5CCI3yvULsQRQacPgQ1NCO" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/5B1qeFOEeUCMudPEVeasHp" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/1FMrfmJVha7u0iJfidbgcX" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/5MQz02DFkMOzvgmSC2eAYI" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/1AL43xNYEG5KSoqf9Yd6Cr" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/27TwBntAb6UgUVJVyY0B2U" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/08ZCgkLKpcgrcSPCHN2v8J" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/4tjMjfL8cmYOIRRMFGZ8g7" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/4ZcGbQ5dOKX6rJk4yvza9R" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/7d3cx47aWj0XbW7mLXXT9u" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/3zxqTbepxLQesm41y2NoE4" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/1fkZrEgdvyEPwZ9zuFQjfC" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/1An94iHFKObQq2brAVl5La" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

@@ -3,6 +3,14 @@ title: "Sizzla"
 slug: "sizzla"
 date: 2010-04-15
 layout: post
+era:
+  - "2000s-2010s"
+genre:
+  - "reggae"
+  - "ragga"
+  - "dancehall"
+  - "lovers rock"
+  - "roots reggae"
 tags:
   - '@sizzla'
   - '00s-10s'
@@ -12,33 +20,12 @@ tags:
   - 'lovers rock'
 ---
 
-## Sizzla
+<iframe src="https://open.spotify.com/embed/track/5xoKClIhZpVEXaUw4IY7iM" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-_5 tracks between 2002 and 2010._
+<iframe src="https://open.spotify.com/embed/track/5D0QnhFCV0uiEx3VvRgAkL" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
----
+<iframe src="https://open.spotify.com/embed/track/4pwGFtnF5ZWvvZee3Qmw1n" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-**Good Ways**
-*Best Of Sizzla The Story Unfolds......* · 2002 · 3:20
+<iframe src="https://open.spotify.com/embed/track/4veoZhxFDT5kxuLQQzTsJ1" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4veoZhxFDT5kxuLQQzTsJ1" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**No White God**
-*Best Of Sizzla The Story Unfolds......* · 2002 · 3:56
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4PJRSddliuy49g8JRK9mKl" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**Give Me A Try**
-*Rise To The Occasion* · 2003 · 3:39
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4pwGFtnF5ZWvvZee3Qmw1n" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**(Dry Cry) Just One of Those Days**
-*Strictly The Best Vol. 31* · 2003 · 3:28
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5D0QnhFCV0uiEx3VvRgAkL" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**Just One Of Those Days**
-*The Journey - The Very Best Of Sizzla Kalonji* · 2010 · 3:53
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5xoKClIhZpVEXaUw4IY7iM" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe src="https://open.spotify.com/embed/track/4PJRSddliuy49g8JRK9mKl" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

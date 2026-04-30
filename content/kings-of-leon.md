@@ -3,20 +3,16 @@ title: "Kings Of Leon"
 slug: "kings-of-leon"
 date: 2025-02-12
 layout: post
+era:
+  - "2000s-2010s"
 tags:
   - '@kingsofleon'
 ---
 
-<!-- Title of the Post -->
-<h1 >BigBanonos Favorite Songs by Kings Of Leon</h1> <!-- Introductory Text -->
-<p >Updated January 17, 2025, with "Rock City" from <em>Mechanical Bull (Expanded Edition)</em>. Dive into the modern rock sound of Kings Of Leon in the playlist below!</p> <!-- Featured Image -->
-<div > <img src="https://i.scdn.co/image/ab67616d0000b273b2df9dc89c5c0cfbe79c129d" alt="Kings Of Leon" />
-</div> <!-- Spotify Embed -->
-<div > 
-</div> <div> <h2>Kings of Leon</h2> {{< img-lite src="https://i.scdn.co/image/ab67616d0000b273b2df9dc89c5c0cfbe79c129d" alt="Kings of Leon" >}}  <p><strong>BigBanonos favorite tracks by Kings of Leon:</strong></p> <p><strong>"On Call"</strong> – *Because Of The Times* (2007) | RCA/Legacy</p> <p><strong>"Rock City"</strong> – *Mechanical Bull (Expanded Edition)* (2013) | RCA/Legacy</p> <p><strong>"Sex on Fire"</strong> – *Only By The Night* (2008) | RCA/Legacy</p> <p><strong>"Mollys Chambers"</strong> – *Youth And Young Manhood* (2003) | RCA/Legacy</p>
-</div> <!-- Footer Links -->
-<div > 
-</div> 
-<p >Tags: @kingsofleon,</p>
+<iframe src="https://open.spotify.com/embed/track/6xsREAkenSsThWyJPHYpQT" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/0ntQJM78wzOLVeCUAW7Y45" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/28POcTYQKfkjz6qTIvtjG1" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/0nCAVzknkzRXRgB6LhRv04" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

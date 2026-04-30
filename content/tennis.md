@@ -3,11 +3,14 @@ title: "Tennis"
 slug: "tennis"
 date: 2025-02-10
 layout: post
+era:
+  - "2000s-2010s"
 tags:
   - '@tennis'
 ---
 
-<!-- Tennis -->
-<img src="https://i.scdn.co/image/ab6761610000e5eb76d9c0cc8e9bb869a2232d2e" /> <p><strong>Updated September 9, 2014 with "Mean Streets" from <em>Ritual In Repeat (Deluxe)</em></strong></p> <p><strong>"Marathon"</strong> – <em>Cape Dory</em> (Fat Possum, 2011)</p>
-<p><strong>"Mean Streets"</strong> – <em>Ritual In Repeat (Deluxe)</em> (Communion Records - Tennis, 2014)</p>
-<p><strong>"Take Me Somewhere"</strong> – <em>Cape Dory</em> (Fat Possum, 2011)</p>  <p>@tennis</p> <hr />
+<iframe src="https://open.spotify.com/embed/track/1TO3lTPLvp35VnrqCqYsmR" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/1uCW4X6aY2jsuLX7ZV8zNP" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/0J7Ettdy8q3lffsgq9xO9N" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

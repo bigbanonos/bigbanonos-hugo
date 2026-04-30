@@ -3,6 +3,12 @@ title: "Sg Lewis"
 slug: "sg-lewis"
 date: 2021-02-19
 layout: post
+era:
+  - "2020s"
+genre:
+  - "swedish pop"
+  - "hip house"
+explicit: true
 tags:
   - '@sg-lewis'
   - '@sg-lewis-robyn-channel-tres'
@@ -11,18 +17,6 @@ tags:
   - 'hip house'
 ---
 
-## SG Lewis
+<iframe src="https://open.spotify.com/embed/track/2Oc5ez4PVPnIWAmYr8i99V" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-_2 tracks, all from 2021._
-
----
-
-**Time**
-*times* · 2021 · 4:19
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2Oc5ez4PVPnIWAmYr8i99V" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**Impact (feat. Robyn & Channel Tres)** (feat. SG Lewis;Robyn;Channel Tres)
-*times* · 2021 · 4:44
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7I1oIGR5bcMR4dBFZOtaUi" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe src="https://open.spotify.com/embed/track/7I1oIGR5bcMR4dBFZOtaUi" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

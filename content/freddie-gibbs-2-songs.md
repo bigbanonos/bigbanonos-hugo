@@ -3,13 +3,18 @@ title: "Freddie Gibbs"
 slug: "freddie-gibbs"
 date: 2024-12-21
 layout: post
+era:
+  - "2020s"
+genre:
+  - "jazz rap"
+  - "alternative hip hop"
+explicit: true
 tags:
   - '@offset'
   - '@pushat'
   - '@freddiegibbs'
 ---
 
-<h3><em>BigBanonos</em> Favorite Songs by Freddie Gibbs:</h3> <p>Updated on September 30, 2022, with the standout track "Pain & Strife (feat. Offset)." Explore <em>BigBanonos</em> favorite Freddie Gibbs songs, featuring hard-hitting collaborations with Offset and Pusha T.</p> <!--Image-->
- <!--Spotify Playlist Embed-->
- <!--Song Listings-->
- <hr />
+<iframe src="https://open.spotify.com/embed/track/5sER6mjVIHvloVenvFbgT1" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/67JD6LRHN9MLOvzBKzIlK7" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

@@ -3,21 +3,23 @@ title: "Avey Tare"
 slug: "avey-tare"
 date: 2025-01-17
 layout: post
+era:
+  - "2000s-2010s"
+  - "2020s"
+genre:
+  - "neo-psychedelic"
 tags:
   - '@aveytare'
 ---
 
-<!-- Title of the Post -->
-<h1 >BigBanonos Favorite Songs by Avey Tare</h1> <!-- Featured Image -->
-<div > {{< img-lite src="https://i.scdn.co/image/ab6761610000e5eba72c69fdd7e8f0f26130db39" alt="Avey Tare" >}}
-</div> <!-- Spotify Embed -->
-<div > 
-</div> <!-- Introductory Text -->
-<p >Avey Tares experimental approach to pop music results in a unique, otherworldly sound. From "Lips At Night" to "The Musical," here are BigBanonos top picks from the innovative artist.</p> <!-- Song Highlights -->
-<div > <p>BigBanonos standout picks:</p> 
-</div> <!-- Footer Links -->
-<div > <p>Dive into experimental sounds at <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Stay updated on <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p>
-</div> 
-<p >Tags: @aveytare</p> 
+<iframe src="https://open.spotify.com/embed/track/2eDfizdZBmdxdiql2gVuqv" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/5x5aqkqUDMdaFEEzuOTt7X" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/6IgX4D96grVhNrKW1pDIZ9" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/4mrJvSmzv0tmuzOUOzAUhu" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/7ArU1U22qrYZbjFgUDzN5S" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/2j69Z8GD7eYDiU6zCcVSDQ" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

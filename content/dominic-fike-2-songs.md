@@ -3,14 +3,12 @@ title: "Dominic Fike"
 slug: "dominic-fike"
 date: 2024-10-27
 layout: post
+era:
+  - "2020s"
 tags:
   - '@dominicfike'
 ---
 
-<p>Ãƒâ€šÃ‚ </p>
-<h3><strong>BigBanonos Top 2 Dominic Fike Songs</strong></h3>
-<p>Updated May 3, 2024 with "<i>hi grace</i>"</p>    
-<p><br /></p> <!--Search Description-->
-<p><br /></p>
+<iframe src="https://open.spotify.com/embed/track/0zikWa6k06uycAkRB8CsXA" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/0hABacr1yTSleOlPKpIWBb" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

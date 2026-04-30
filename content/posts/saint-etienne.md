@@ -3,6 +3,13 @@ title: "Saint Etienne"
 slug: "saint-etienne"
 date: 2025-09-05
 layout: post
+era:
+  - "1900s"
+  - "2020s"
+genre:
+  - "britpop"
+  - "madchester"
+  - "alternative dance"
 tags:
   - '@saint-etienne'
   - '@saint-etienne-confidence-man'
@@ -13,18 +20,6 @@ tags:
   - 'alternative dance'
 ---
 
-## Saint Etienne
+<iframe src="https://open.spotify.com/embed/track/6UYzOKGh4hXae0reTWKK24" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-_2 tracks from 1992 to 2025. The peak is in there somewhere._
-
----
-
-**Nothing Can Stop Us**
-*Foxbase Alpha* · 1992 · 4:21
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3izKffzHXSwXdhtJ9DasZU" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**Brand New Me** (feat. Saint Etienne;Confidence Man)
-*International* · 2025 · 3:03
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6UYzOKGh4hXae0reTWKK24" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe src="https://open.spotify.com/embed/track/3izKffzHXSwXdhtJ9DasZU" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

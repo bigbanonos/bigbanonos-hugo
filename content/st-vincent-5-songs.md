@@ -3,13 +3,23 @@ title: "St Vincent"
 slug: "st-vincent"
 date: 2024-12-20
 layout: post
+era:
+  - "2000s-2010s"
+  - "2020s"
+genre:
+  - "art pop"
+explicit: true
 tags:
   - '@djds'
   - '@stvincent'
 ---
 
-<h1>BigBanonos Top Songs by St. Vincent</h1>
-{{< img-lite src="https://www.nme.com/wp-content/uploads/2019/02/rexfeatures_9771174dk.jpg" alt="St. Vincent" >}} <p>St. Vincents art pop and indie rock style has garnered a devoted following. Here are BigBanonos top selections:</p>  <div> 
-</div>
+<iframe src="https://open.spotify.com/embed/track/4YrYuylaABLjyyl2Bw5tkG" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/5LvNPnYoZA1XCMgUGgAges" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/4VpVqy1osXWDRlyFcGwBbb" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/7AHRfGlH26yolPQK0IOlQa" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/71T6ks7uNqlkSAHM2CDWnj" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

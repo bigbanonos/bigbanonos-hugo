@@ -3,18 +3,53 @@ title: "Le Tigre"
 slug: "le-tigre"
 date: 2024-12-17
 layout: post
+era:
+  - "1900s"
+  - "2000s-2010s"
+genre:
+  - "riot grrrl"
+  - "queercore"
+  - "electroclash"
+  - "punk"
+explicit: true
 tags:
   - '@letigre'
 ---
 
-<h2>BigBanonos Favorite Tracks: Le Tigre</h2> <div > <img src="https://images.squarespace-cdn.com/content/v1/6344644a90253d6993375e0a/1bb2a011-9fb7-4920-8d0b-31ab066e2378/13.jpg" alt="Le Tigre Band" />
-</div> <p>Le Tigres blend of dance-punk, riot grrrl ethos, and queercore revolutionized the indie rock scene. From empowering anthems to electrifying dance tracks, the band delivers tracks that inspire and energize. Here are some of their standout songs:</p> <h3>Selected Tracks</h3>
- <h3>Videos</h3>
-<p>Explore more with these iconic videos:</p>
-<div> {{< youtube "PUdpxOLwzTo" >}}
-</div> <h3>Stream the Playlist</h3>
- <h3>Tags</h3>
-<p>@letigre</p> <hr />
-<p>Check out more BigBanonos content: <a href="https://bigbanonos.blogspot.com/" target="_blank">Website</a> | <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> | <a href="https://x.com/bigbanonos" target="_blank">Twitter</a></p>
+<iframe src="https://open.spotify.com/embed/track/5Yn9kHwevPDXHgl7RquhMg" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/4ssD3WrB88YCqkdbtYqUz4" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/4AKtcr1haVAL7I6UbWT3wc" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/5dhoIQL9nmPKmPOqLYwPR2" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/7KCvbMfHeYrBzK1HrZQt0N" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/3zqxA1r5KbEnEwgYMwIzsV" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/7jCEfQECFc00RLNOxTwIbX" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/0iQAJ3S1FLquk0HERbosOb" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/6uAX7MehkRJeHgdycRfa5Y" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/7rcwjsWWaMLksh5TiwFbUa" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/6eN4XvYC1YtPHJPmQZTMcR" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/3M0Tx9lQYcZz8hwz6I6aO9" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/2un9SnAaNkxJyQUWG3koil" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/33SUooCOCn2VFAI6YA1DY1" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/4otN5ZboeohAAAXaGnLCIH" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/4l0HxP8wm5iWHqo9myvFsm" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/1tnXUEQPJwDperVtDNTnE4" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/4ddNGtvMcrfnz4o8bT20n1" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/6exaLl7ZooHc7JlxMoEGxD" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

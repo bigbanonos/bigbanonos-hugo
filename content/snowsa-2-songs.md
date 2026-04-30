@@ -3,12 +3,14 @@ title: "Snowsa"
 slug: "snowsa"
 date: 2024-12-20
 layout: post
+era:
+  - "2000s-2010s"
+  - "2020s"
+explicit: true
 tags:
   - '@snowsa'
 ---
 
-<h1>BigBanonos Top Songs by snowsa</h1>
-{{< img-lite src="https://i1.sndcdn.com/avatars-OkSetKNJP53fE0QQ-ohypyA-t1080x1080.jpg" alt="snowsa" >}} <p>snowsas tracks bring an energetic vibe to the scene with her raw style. Here are BigBanonos top selections:</p>  <div> 
-</div>
+<iframe src="https://open.spotify.com/embed/track/4p51QROZkN1BXzKCwQx8fe" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/6qNV0Y3qiJ4nOoOtzxIu1S" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

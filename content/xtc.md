@@ -3,28 +3,19 @@ title: "Xtc"
 slug: "xtc"
 date: 2025-01-08
 layout: post
+era:
+  - "1900s"
+genre:
+  - "new wave"
+  - "power pop"
+  - "post-punk"
+  - "jangle pop"
 tags:
   - '@xtc'
 ---
 
-<!-- BigBanonos voice goes here.
-     - the personal connection (saw them live, friends band, etc.)
-     - the cross-reference (X covered Y, was in band Z, sampled by W)
-     - the hot take (peaked 2006-2019, sucks since 2001, etc.)
-     - whats missing / why these songs
-     -->
+<iframe src="https://open.spotify.com/embed/track/6nFdjV1Ko66O111x74K2kn" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<!-- Featured Image -->
-<div > <a href="https://i.guim.co.uk/img/media/84c3d4e2aa838352575557dd5a129a5c8c00327c/0_13_4200_2521/master/4200.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=c4d57aa13d4af2b95d3270d90e2c11c2" target="_blank"> {{< img-lite src="https://i.guim.co.uk/img/media/84c3d4e2aa838352575557dd5a129a5c8c00327c/0_13_4200_2521/master/4200.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=c4d57aa13d4af2b95d3270d90e2c11c2" alt="XTC - Making Plans For Nigel" >}} </a>
-</div> <!-- Song List -->
-<h4>Top Songs:</h4>
- <!-- YouTube Video Embed -->
-<h4>Watch "Making Plans For Nigel":</h4>
-<div > {{< youtube "AiIlcew-GVM" >}}
-</div> <!-- Spotify Playlist Embed -->
-<h4>Listen on Spotify:</h4>
-<div > 
-</div> 
-<p>@xtc</p>
+<iframe src="https://open.spotify.com/embed/track/1XT5kxg6Tk0ukCO2vBQN4v" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/3PvmHbVALfJk9rxsSOg0UT" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

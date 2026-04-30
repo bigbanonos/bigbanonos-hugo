@@ -3,6 +3,12 @@ title: "Childish Gambino"
 slug: "childish-gambino"
 date: 2024-11-01
 layout: post
+era:
+  - "2000s-2010s"
+  - "2020s"
+genre:
+  - "r&b"
+explicit: true
 tags:
   - '@youngnudy'
   - '@summerwalker'
@@ -12,8 +18,12 @@ tags:
   - '@ink'
 ---
 
-<p>Ãƒâ€šÃ‚ </p><br /><p></p>
-<h3><strong>BigBanonos Top 5 Childish Gambino Songs</strong></h3>
-<p>Updated May 13, 2024 with "<i>Psilocybae (Millennial Love)</i>" and "<i>Sweet Thang</i>"</p>   
+<iframe src="https://open.spotify.com/embed/track/6ajiOUVtxRjYcf1EvBDoV4" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/5V7QNaunpviHGU1qustwbl" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/1SdqlTmK9P97PntBQrtf85" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/3kxfsdsCpFgN412fpnW85Y" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/5cc9Zbfp9u10sfJeKZ3h16" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

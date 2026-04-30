@@ -3,6 +3,11 @@ title: "Harry Nilsson"
 slug: "harry-nilsson"
 date: 2017-09-29
 layout: post
+era:
+  - "1900s"
+genre:
+  - "baroque pop"
+  - "singer-songwriter"
 tags:
   - '@harry-nilsson'
   - '@robin-williams'
@@ -14,53 +19,18 @@ tags:
   - 'comedy'
 ---
 
-## Harry Nilsson
+<iframe src="https://open.spotify.com/embed/track/65wJ08GA3zZreyLobSGcZb" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-_9 tracks, all from 2017._
+<iframe src="https://open.spotify.com/embed/track/1xcJNBxc4MYFEN6UoE2HUY" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
----
+<iframe src="https://open.spotify.com/embed/track/3z7TPTb3Ul2NzAFZTEUsdh" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-**Everything Is Food** (feat. Paul Dooley;Allan F. Nichols;The Toughs;Barbershop;The Steinettes)
-*Popeye (Music From The Motion Picture / The Deluxe Edition)* · 2017 · 3:09
+<iframe src="https://open.spotify.com/embed/track/6fvIzrJ6boUDFF19fH4S2s" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6zoMFWpaBJlp6KlyU0Txzv" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe src="https://open.spotify.com/embed/track/5oOoQn1bhg6nbuvd54URPF" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-**I Yam What I Yam** (feat. Robin Williams)
-*Popeye (Music From The Motion Picture / The Deluxe Edition)* · 2017 · 2:17
+<iframe src="https://open.spotify.com/embed/track/0eCYcFHv6dJZ2y7NyTI4Ys" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1FWt1Bo93MB0FRvO4PUV5Z" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe src="https://open.spotify.com/embed/track/5KjRITicSHJM88w3U9LwLM" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-**He Needs Me** (feat. Shelley Duvall)
-*Popeye (Music From The Motion Picture / The Deluxe Edition)* · 2017 · 3:34
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1Br1fuUGKnOAEuodPicgis" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**Everything Is Food - Demo**
-*Popeye (Music From The Motion Picture / The Deluxe Edition)* · 2017 · 3:44
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4S03GsO25qmtJkB2ap8WII" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**He Needs Me - Demo**
-*Popeye (Music From The Motion Picture / The Deluxe Edition)* · 2017 · 3:10
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0tws70SKfukHKjXpI1RQ14" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**Everybodys Got To Eat - Demo**
-*Popeye (Music From The Motion Picture / The Deluxe Edition)* · 2017 · 3:25
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4NkiqFcxYNKbth3t2bZvEn" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**Sail With Me - Demo**
-*Popeye (Music From The Motion Picture / The Deluxe Edition)* · 2017 · 2:54
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1nOnT3bvJhkDvISMkJ61nL" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**I Yam What I Yam - Demo**
-*Popeye (Music From The Motion Picture / The Deluxe Edition)* · 2017 · 3:09
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/116hV5AzW1bhU58GNjluov" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**He Needs Me - Demo** (feat. Shelley Duvall)
-*Popeye (Music From The Motion Picture / The Deluxe Edition)* · 2017 · 9:30
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0Lw7ihn7pTR6BUnds40jC5" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe src="https://open.spotify.com/embed/track/4gFB9xxwrJB0uIEPSquCTU" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

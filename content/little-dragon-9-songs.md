@@ -3,17 +3,33 @@ title: "Little Dragon"
 slug: "little-dragon"
 date: 2024-12-21
 layout: post
+era:
+  - "2000s-2010s"
+  - "2020s"
+genre:
+  - "trip hop"
+  - "art pop"
+  - "indie soul"
 tags:
   - '@mosessumney'
   - '@jaydag'
   - '@littledragon'
 ---
 
-<h1>Little Dragon - Top Songs</h1>
-{{< img-lite src="https://api.stereofox.com/wp-content/uploads/2016/02/little-dragon-artist-profile.jpg" alt="Little Dragon" >}} <p>Known for their eclectic fusion of art pop, downtempo, and neo-synthpop, Little Dragon brings a unique sound that spans genres. Heres a list of some of their top tracks:</p>  <div> 
-</div>
-{{< youtube "yiSTcdi82S0" >}}
-<p>Explore Little Dragons sonic landscapes, blending chillwave, indie soul, and more, for a truly immersive musical experience.</p> 
-<p>@littledragon, @mosessumney, @jaydag</p>
+<iframe src="https://open.spotify.com/embed/track/643aAUhE0s5JNaK1Rn50Q7" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/1cU4jWWFTAiclPWyD3X2KP" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/32pBsQrDXw3O3E5sqvlDUB" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/45659OEpkUJgWppTLASMg4" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/5duZe3kHUqNENd97WYqmYL" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/44XKAOF4qb4Rs4pvO6FxuK" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/1R5fxaHIM2eH6CYt6LwCUZ" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/0MmioQjVuzPwaL1HbTVqHE" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/5uTjNzGKCQ50synrf9dWmT" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

@@ -3,29 +3,18 @@ title: "Saturday Looks Good To Me"
 slug: "saturday-looks-good-to-me"
 date: 2013-05-21
 layout: post
+era:
+  - "2000s-2010s"
+genre:
+  - "jangle pop"
 tags:
   - '@saturday-looks-good-to-me'
   - '00s-10s'
   - 'jangle pop'
 ---
 
-## Saturday Looks Good To Me
+<iframe src="https://open.spotify.com/embed/track/3WFhaVCewGQfBYihiq8IZP" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-_3 tracks, 2003 to 2013._
+<iframe src="https://open.spotify.com/embed/track/0dUPeHIzpmrfVMaQMoM4Rh" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
----
-
-**Meet Me By The Water**
-*All Your Summer Songs (Deluxe Edition)* · 2003 · 2:58
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1okEj9J55kGn1QKEqhwL0W" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**Lift Me Up**
-*Every Night* · 2004 · 2:44
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0dUPeHIzpmrfVMaQMoM4Rh" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**Negative Space**
-*One Kiss Ends It All* · 2013 · 3:19
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3WFhaVCewGQfBYihiq8IZP" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe src="https://open.spotify.com/embed/track/1okEj9J55kGn1QKEqhwL0W" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

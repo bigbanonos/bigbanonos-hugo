@@ -3,6 +3,14 @@ title: "Cat Power"
 slug: "cat-power"
 date: 2021-12-14
 layout: post
+era:
+  - "1900s"
+  - "2000s-2010s"
+  - "2020s"
+genre:
+  - "slowcore"
+  - "singer-songwriter"
+explicit: true
 tags:
   - '@cat-power'
   - '@conor-oberst'
@@ -16,33 +24,26 @@ tags:
   - 'post-punk'
 ---
 
-## Cat Power
+<iframe src="https://open.spotify.com/embed/track/2soKDxbzBw8W6Qgwl7B0Zy" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-_5 tracks, 2005 to 2021._
+<iframe src="https://open.spotify.com/embed/track/1rJvaquOqAd353fzF8VAld" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
----
+<iframe src="https://open.spotify.com/embed/track/3P9lJFhYtRWEXEiLJSedgm" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-**Purple Haze** (feat. The Cure)
-*Join the Dots: B-Sides and Rarities, 1978-2001 (The Fiction Years)* · 2005 · 5:22
+<iframe src="https://open.spotify.com/embed/track/0OVXLPJPDCFn1IV6bFxY1N" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1ZXSp8QaAydQaEZQzuDoMf" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe src="https://open.spotify.com/embed/track/32mIImwxWx41xGa2ipEbfN" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-**America** (feat. Courtney Marie Andrews;Molly Sarlé;Liz Cooper)
-*America* · 2020 · 4:11
+<iframe src="https://open.spotify.com/embed/track/7a1QS7lnEtrTfBVAdH97Y8" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1inPvlZzUNG4hqYxLLEF0W" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe src="https://open.spotify.com/embed/track/33J0nVAZWjt1Yd6UYjcptD" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-**Million Dollar Bill** (feat. Conor Oberst)
-*Million Dollar Bill & Easy/Lucky/Free* · 2021 · 6:03
+<iframe src="https://open.spotify.com/embed/track/2N8jxf7r3Y68AToge7CcUV" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/06kZBwv34dg5lp7wGXcQlu" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe src="https://open.spotify.com/embed/track/4U1LT231ytC8WGhCJ4o7pY" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-**Bad Religion**
-*Bad Religion / A Pair Of Brown Eyes* · 2021 · 4:20
+<iframe src="https://open.spotify.com/embed/track/19RemqbBlqzF18hl6J2NSI" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7Kx832x6sRNGRy8o40u7Mr" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe src="https://open.spotify.com/embed/track/4JeMpERu0LS3QhNoNG0cvZ" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-**Ill Be Seeing You**
-*Unhate / Ill Be Seeing You* · 2021 · 3:22
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3d2nL5nrrrv17ffdq3da5G" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe src="https://open.spotify.com/embed/track/6cu0DiairWxhGUujhhcorj" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

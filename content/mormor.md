@@ -3,18 +3,16 @@ title: "Mormor"
 slug: "mormor"
 date: 2019-10-19
 layout: post
+era:
+  - "2000s-2010s"
 tags:
   - '@mormor'
 ---
 
-<a href="https://i.ytimg.com/vi/9PvIIn6cc1M/maxresdefault.jpg" imageanchor="1"><img border="0" data-original-height="450" data-original-width="800" height="225" src="https://i.ytimg.com/vi/9PvIIn6cc1M/maxresdefault.jpg" width="400" /></a><br />
-<h6>
-</h6>
-{{< youtube "videoseries" >}}<br />
-<h3>
+<iframe src="https://open.spotify.com/embed/track/1DvbkyyN4jCcffDbD7mJEC" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-</h3>
-<div>
-<i><br /></i></div>
+<iframe src="https://open.spotify.com/embed/track/1uLfBlfAwUV7SwBTK1ayTQ" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/6GMaJrVobPUrl5M7ZvGEGT" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/0kKkbVim9GLVFsWDDcmgVb" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

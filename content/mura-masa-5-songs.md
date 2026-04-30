@@ -3,6 +3,12 @@ title: "Mura Masa"
 slug: "mura-masa"
 date: 2024-12-20
 layout: post
+era:
+  - "2000s-2010s"
+  - "2020s"
+genre:
+  - "alternative r&b"
+explicit: true
 tags:
   - '@erikadecasier'
   - '@danielalalita'
@@ -10,10 +16,12 @@ tags:
   - '@muramasa'
 ---
 
-<h1>BigBanonos Top Songs by Mura Masa</h1>
-{{< img-lite src="https://www.vinylmnky.com/cdn/shop/articles/3_98400648-f060-4de7-832b-4c8caa5fea65.jpg?v=1588274871&width=2048" alt="Mura Masa" >}} <p>Mura Masas unique style blends hyperpop, indie soul, and vapor soul, bringing fresh sounds from the Channel Islands to a global audience. Here are some of BigBanonos favorite tracks:</p>  <div> 
-</div> <p>first posted by <a href="https://bigbanonos.blogspot.com/">https://bigbanonos.blogspot.com/</a></p> <div> <p>Explore more BigBanonos content: <a href="https://bigbanonos.blogspot.com/">Website</a> | <a href="https://www.youtube.com/@BigBanonos">YouTube</a> | <a href="https://x.com/bigbanonos">Twitter</a></p>
-</div> 
-<p>@muramasa,@danielalalita,@erikadecasier,@gretel</p>
+<iframe src="https://open.spotify.com/embed/track/4hriybgE67pyiH6yz7J8R5" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/38N9pTBZ1OgC8WGkcuZQha" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/5g1IxCinEawQcerAMrs2tU" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/4dzBqc5t2GWJKpGqUoTbrU" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/3GGg9FWBlAjrAvC16kazer" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

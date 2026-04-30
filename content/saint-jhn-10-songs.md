@@ -3,6 +3,16 @@ title: "Saint Jhn"
 slug: "saint-jhn"
 date: 2025-01-09
 layout: post
+era:
+  - "2000s-2010s"
+  - "2020s"
+genre:
+  - "r&b"
+  - "reggaeton"
+  - "latin"
+  - "slap house"
+  - "rap"
+explicit: true
 tags:
   - '@imanbek'
   - '@sza'
@@ -12,8 +22,24 @@ tags:
   - '@saintjhn'
 ---
 
-<h1>BigBanonos Top 11 Songs by SAINt JHN</h1>
-<p>Last updated December 13, 2024, with "Glitching" (Official and Demo Versions) and "Humble" on August 2, 2024</p>  <p>{{< img-lite src="https://cdn.prod.website-files.com/60b2a0a56ec9b06e50e0026b/60e8c360c3c78d0029294e32_60e500355f2723071d72db5c_saintjhn.jpeg" alt="SAINt JHN" >}}</p> <p>BigBanonos favorite tracks by SAINt JHN bring together his unique blend of melodic rap and electronic influences. Here are our top picks, led by the recent addition of "Glitching."</p> <h2>Top Tracks by Release Date</h2>
- <h3>Watch "Glitching" Official Video:</h3>
-{{< youtube "nVJXUAcT-OA" >}} <h3>Watch "Glitching" Demo Version:</h3>
-{{< youtube "TggXrYyGApo" >}} <hr />
+<iframe src="https://open.spotify.com/embed/track/5WuxCmAJkrjEAiJ8Xx3SAq" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/2bGbWQwWJ6EjLUas1tCWTK" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/1Am6QnI4dZi0bkXeJXwW6P" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/3B5yl01KF06NkYG39BdTBa" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/2JCOFv3vvv6HIfw7QOqpIz" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/1KyZ4rUiW2lkqGNLQYKpcC" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/19Obji278XTwlK0Egnv1ps" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/3vkJQv4A2LPtVQYJbWhIQ0" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/1rS0eq80peCPCgfT2t0Kmm" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/1KTvD0VZkvtO5YWQPJ41GK" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/1YDEJTqWioaX3jwo2o9sD8" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

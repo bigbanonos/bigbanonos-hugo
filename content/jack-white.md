@@ -3,12 +3,15 @@ title: "Jack White"
 slug: "jack-white"
 date: 2024-12-17
 layout: post
+era:
+  - "2000s-2010s"
+genre:
+  - "blues rock"
+  - "garage rock"
 tags:
   - '@jackwhite'
 ---
 
-<h2>BigBanonos Favorite Tracks: Jack White</h2> <div > <a href="https://yt3.googleusercontent.com/ok7Irm9JXtgJqE8zwNtLeCnFkgbrHUyRBI642uEKKM9xIieIj0pooXKYuskIVYoU6aligvUMPA=s900-c-k-c0x00ffffff-no-rj"> <img src="https://yt3.googleusercontent.com/ok7Irm9JXtgJqE8zwNtLeCnFkgbrHUyRBI642uEKKM9xIieIj0pooXKYuskIVYoU6aligvUMPA=s900-c-k-c0x00ffffff-no-rj" alt="Jack White" width="400" /> </a>
-</div> <p><em>BigBanonos</em> presents a curated selection of tracks from Jack White, showcasing his mastery in alternative rock, blues rock, and garage rock.</p> <h3>Selected Tracks</h3>
- <p>Stream the Jack White playlist:</p>
- <h3>Tags</h3>
-<p>@jackwhite</p> <p>Explore more Jack White content on <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and follow us on <a href="https://twitter.com/BigBanonos" target="_blank">Twitter</a>!</p> <hr />
+<iframe src="https://open.spotify.com/embed/track/7b7VP81f4qbQ11MIDjaB8Y" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/1AoiVnAj0a9G7zLyLnmfIt" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

@@ -3,14 +3,25 @@ title: "Interpol"
 slug: "interpol"
 date: 2024-12-20
 layout: post
+era:
+  - "2000s-2010s"
+genre:
+  - "indie rock"
+  - "post-punk"
 tags:
   - '@interpol'
 ---
 
-<h1>BigBanonos 7 Essential Tracks by Interpol</h1>
-<img alt="Interpol" src="https://www.rollingstone.com/wp-content/uploads/2018/06/rs-182445-86115878.jpg?w=1600&h=900&crop=1" /> <p>Interpols sound combines haunting melodies and driving rock rhythms, making them a defining force in alternative and indie rock. These selected tracks highlight the bands atmospheric, intense style that has resonated with fans worldwide.</p>  <div> 
-</div> <p>first posted by <a href="https://bigbanonos.blogspot.com/">https://bigbanonos.blogspot.com/</a></p> <div> <p>Explore more BigBanonos content: <a href="https://bigbanonos.blogspot.com/">Website</a> | <a href="https://www.youtube.com/@BigBanonos">YouTube</a> | <a href="https://x.com/bigbanonos">Twitter</a></p>
-</div> 
-<p>@interpol</p>
+<iframe src="https://open.spotify.com/embed/track/4absiGHMelB8eH976ytjBj" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/2ZgyzFYYOz21b2AhPPkWKF" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/1ZBqJilDGBVYktvlCEo9jC" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/4PAR0Zp6Mbu3p6NKYClgBr" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/4zYBNOB5TOf1cMpFxA5e6N" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/0whlogyhf1AejBU72KNv38" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/2pIk8EErerGs25iitIvZ03" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

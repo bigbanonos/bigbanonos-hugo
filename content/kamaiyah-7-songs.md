@@ -3,6 +3,12 @@ title: "Kamaiyah"
 slug: "kamaiyah"
 date: 2024-12-20
 layout: post
+era:
+  - "2000s-2010s"
+  - "2020s"
+genre:
+  - "hyphy"
+explicit: true
 tags:
   - '@quavo'
   - '@tyga'
@@ -11,10 +17,16 @@ tags:
   - '@kamaiyah'
 ---
 
-<h1>Kamaiyah: Top Songs</h1>
-{{< img-lite src="https://media.newyorker.com/photos/5a146c1707ff5466ea9a14a0/4:3/w_1940,h_1455,c_limit/DSF-The-Upbeat-Nostalgia-of-Kamaiyahs-Before-I-Wake.jpg" alt="Kamaiyah - The Upbeat Nostalgia" >}} <p>Kamaiyahs unique blend of alternative R&B and Oakland hip hop has cemented her as a distinctive voice in the genre. Here are some top tracks that showcase her Cali style and West Coast energy:</p>  <div> 
-</div> <p>Kamaiyah brings a mix of nostalgic vibes and modern beats in tracks like <strong>"How Does It Feel"</strong>, which is both upbeat and reflective, and <strong>"Windows"</strong>, a high-energy collaboration that highlights her Cali influence with a twist of ATL flavor from Quavo and Tyga.</p> <div> <p>Explore more of Kamaiyahs hits and other favorite artists on BigBanonos: <a href="https://bigbanonos.blogspot.com/">Website</a> | <a href="https://www.youtube.com/@BigBanonos">YouTube</a> | <a href="https://x.com/bigbanonos">Twitter</a></p>
-</div> 
-<p>@kamaiyah,@dejloaf,@quavo,@tyga,@capolow</p>
+<iframe src="https://open.spotify.com/embed/track/6lXPQAdzSCrw9Y58eagcLE" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/6vBaeDbNh238yXwHgaIH1e" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/4xFAW9RAqNooHsaZ9bFWi9" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/3yieDxC7AjOebaWMXumuDc" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/5YqCVavzzfjCI6EGFt7GSB" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/4FbE6naBQZdn0nhvneroGA" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/1cuwhQ0sMe8qmW6Ixt2y3m" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

@@ -3,16 +3,16 @@ title: "Orange Juice"
 slug: "orange-juice"
 date: 2025-01-16
 layout: post
+era:
+  - "1900s"
+genre:
+  - "jangle pop"
+  - "post-punk"
+  - "new wave"
 tags:
   - '@orangejuice'
 ---
 
-<!-- Title of the Post -->
-<h1>BigBanonos Favorite Songs by Orange Juice</h1> <!-- Featured Image -->
-<div> {{< img-lite src="https://i.scdn.co/image/ab67616d0000b273724b90c41ed526df80d2ddd4" alt="Orange Juice" >}}
-</div> <!-- Spotify Embed -->
-<div> 
-</div> <!-- Song Information -->
-<h3>Top Songs by Orange Juice:</h3>
+<iframe src="https://open.spotify.com/embed/track/1eamsmwcYYhJwTgMFdQ6YN" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/2jIRiLmzqC45L0SnOMimHV" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

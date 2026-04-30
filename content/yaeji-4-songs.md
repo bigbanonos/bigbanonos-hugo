@@ -3,6 +3,14 @@ title: "Yaeji"
 slug: "yaeji"
 date: 2024-12-20
 layout: post
+era:
+  - "2000s-2010s"
+  - "2020s"
+genre:
+  - "experimental hip hop"
+  - "j-r&b"
+  - "japanese indie"
+explicit: true
 tags:
   - '@yaeji'
   - '@glam'
@@ -10,10 +18,10 @@ tags:
   - '@nappynina'
 ---
 
-<h1>BigBanonos Favorite Songs by Yaeji</h1>
-{{< img-lite src="https://media.wired.com/photos/5beca56498b3a67ce2873d69/master/pass/Yaeji-Micaiah-Carter.jpg" alt="Yaeji" >}} <p>Yaeji, known for her innovative blend of alternative R&B, art pop, and experimental house, continues to redefine genres with her unique sound. Here are BigBanonos favorite tracks from Yaeji, listed by release date:</p>  <div> 
-</div> 
-<p><em>Last updated November 15, 2024</em></p>
-<p>Follow BigBanonos on <a href="https://www.youtube.com/@BigBanonos">YouTube</a> and <a href="https://x.com/bigbanonos">Twitter</a> for more music content.</p>
+<iframe src="https://open.spotify.com/embed/track/43Ti9176DSMC4AvCA5jq5q" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/1vzEysIXUdQ510fqPqFtVZ" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/0V61Y32ISHWztELtK7RHF3" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/1hbGVzJGlT55bvawUIFAjb" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

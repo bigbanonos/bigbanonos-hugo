@@ -3,11 +3,20 @@ title: "New Pornographers"
 slug: "new-pornographers"
 date: 2025-02-10
 layout: post
+era:
+  - "2000s-2010s"
+genre:
+  - "power pop"
+  - "indie rock"
+  - "indie"
 tags:
   - '@newpornographers'
 ---
 
-<!-- New Pornographers -->
-<img src="https://i.scdn.co/image/ab67616d0000b273ecd6332935beed35cec9a3d9" /> <p><strong>Updated August 20, 2007 with "Myriad Harbour" from <em>Challengers</em></strong></p> <p><strong>"Myriad Harbour"</strong> – <em>Challengers</em> (Matador, 2007)</p> <p><strong>"Jackie, Dressed In Cobras"</strong> – <em>Twin Cinema</em> (Matador, 2005)</p> <p><strong>"From Blown Speakers"</strong> – <em>Electric Version</em> (Matador, 2003)</p> <p><strong>"The Laws Have Changed"</strong> – <em>Electric Version</em> (Matador, 2003)</p>  <p>@newpornographers</p>
+<iframe src="https://open.spotify.com/embed/track/5XRgh8sTHjMQLcYQHXIYBt" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/43kwlnamcMjVyWyq7RgI1v" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/1gkhXnZAFfaHB78oV8pDXV" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/0mgAzpg1dOmr2meovmlBwp" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

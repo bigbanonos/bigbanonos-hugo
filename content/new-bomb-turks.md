@@ -3,11 +3,18 @@ title: "New Bomb Turks"
 slug: "new-bomb-turks"
 date: 2025-02-10
 layout: post
+era:
+  - "2000s-2010s"
+genre:
+  - "punk"
+  - "skate punk"
+  - "garage rock"
+  - "proto-punk"
+  - "hardcore punk"
 tags:
   - '@newbombturks'
 ---
 
-<!-- New Bomb Turks -->
-<img src="https://i.scdn.co/image/ab67616d0000b273461aca212a45eeb984b7309b" /> <p><strong>Updated 2003 with "Weekend" from <em>Switchblade Tongues, Butterknife Brains</em></strong></p> <p><strong>"Weekend"</strong> – <em>Switchblade Tongues, Butterknife Brains</em> (Gearhead Records, 2003)</p> <p><strong>"Like Ghosts"</strong> – <em>The Night Before The Day The Earth Stood Still</em> (Gearhead Records, 2002)</p>  <p>@newbombturks</p>
+<iframe src="https://open.spotify.com/embed/track/1hsXRAdmOkEqllRX6Nlq8c" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/2xXHMlWHx6AD6gvvr9nYJ6" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

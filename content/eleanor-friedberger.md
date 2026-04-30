@@ -3,16 +3,32 @@ title: "Eleanor Friedberger"
 slug: "eleanor-friedberger"
 date: 2024-12-17
 layout: post
+era:
+  - "2000s-2010s"
 tags:
   - '@eleanorfriedberger'
 ---
 
-<h2>BigBanonos Top Songs by Eleanor Friedberger</h2> <p>Updated February 14, 2018 with "In Between Stars"</p> <div > {{< youtube "v1YiN1yrJDU" >}}
-</div> <div > 
-</div> <h3>Selected Tracks</h3>
-<ul> <li><strong>In Between Stars</strong> – <em>In Between Stars</em> (2018)</li> <li><strong>False Alphabet City</strong> – <em>False Alphabet City</em> (2015)</li> <li><strong>When I Knew</strong> – <em>Personal Record</em> (2013)</li> <li><strong>Ill Never Be Happy Again</strong> – <em>Personal Record</em> (2013)</li> <li><strong>Stare at the Sun</strong> – <em>Personal Record</em> (2013)</li> <li><strong>My Own World</strong> – <em>Personal Record</em> (2013)</li> <li><strong>My Mistakes</strong> – <em>Last Summer</em> (2011)</li> <li><strong>Heaven</strong> – <em>Last Summer</em> (2011)</li> <li><strong>Roosevelt Island</strong> – <em>Last Summer</em> (2011)</li> <li><strong>One-Month Marathon</strong> – <em>Last Summer</em> (2011)</li> <li><strong>I Wont Fall Apart on You Tonight</strong> – <em>Last Summer</em> (2011)</li> <li><strong>Early Earthquake</strong> – <em>Last Summer</em> (2011)</li> <li><strong>Cut the Cake</strong></li> <li><strong>Tropical Iceland</strong></li>
-</ul> <div > <img src="https://upload.wikimedia.org/wikipedia/en/b/b9/Rebound.jpg" alt="Eleanor Friedberger Album Cover" />
-</div> <h3>Tags</h3>
-<p>@eleanorfriedberger</p> <p>Discover more music and playlists on <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>, and subscribe to our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube channel</a> for exclusive music highlights!</p>
+<iframe src="https://open.spotify.com/embed/track/2nTyIuvH7gCpLW4awcpBvC" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/1qAsEOkzHpJKClij6KpYyC" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/6T7mFdbfolow4x0YfJS9CW" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/6cg8ne068x3OmcRXnpU3bq" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/0mFzH1q62MNcGt8QGYEYIu" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/4bUYBwdjdOidEgcmm0Hcwp" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/4QVqNqgxcxZJCGYdhiYf68" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/4nx66B53WbfFTYwl6G3B6g" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/7yB9aP3G0Di7phWWqeySaJ" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/5BDvAxozjaYZUS1MBXOero" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/6WAjGVrtOVPtAQYo3E8Hpv" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/3deEHWdRNLCZF9Qt3TvqMS" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

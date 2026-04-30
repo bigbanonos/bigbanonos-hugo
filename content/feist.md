@@ -3,12 +3,16 @@ title: "Feist"
 slug: "feist"
 date: 2024-12-17
 layout: post
+era:
+  - "2000s-2010s"
+genre:
+  - "alt country"
 tags:
   - '@feist'
 ---
 
-<h2>BigBanonos Favorite Tracks: Feist – 6 Songs</h2> <div > <a href="https://pyxis.nymag.com/v1/imgs/eb1/9f2/56b32925fdce5cee896f6a2994bf23be9c-feist-chat-room-silo.1x.rsquare.w1400.jpg"> <img src="https://pyxis.nymag.com/v1/imgs/eb1/9f2/56b32925fdce5cee896f6a2994bf23be9c-feist-chat-room-silo.1x.rsquare.w1400.jpg" alt="Feist" width="400" /> </a>
-</div> <p><em>BigBanonos</em> celebrates Feists unique blend of indie pop and chamber pop, highlighting her most iconic and heartfelt tracks.</p> <h3>Selected Tracks</h3>
- <p>Feist Playlist:</p>
- <h3>Tags</h3>
-<p>@feist</p> <hr />
+<iframe src="https://open.spotify.com/embed/track/6qtd7bgsCE6Ioi2cv2vboK" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/1Ci0EjcKlx8PzQY7Ue59QM" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/30z3PlzkPYVNUzhpkTT3UY" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

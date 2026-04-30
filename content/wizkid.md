@@ -3,6 +3,15 @@ title: "Wizkid"
 slug: "wizkid"
 date: 2025-01-11
 layout: post
+era:
+  - "2000s-2010s"
+  - "2020s"
+genre:
+  - "afrobeats"
+  - "afrobeat"
+  - "afropop"
+  - "azonto"
+  - "afroswing"
 tags:
   - '@majorlazer'
   - '@bnxn'
@@ -11,23 +20,10 @@ tags:
   - '@wizkid'
 ---
 
-<div class="post-title"> <h1>BigBanonos Favorite Songs by Wizkid</h1>
-</div>
-<p>Updated August 27, 2021, with "Mood" featuring BNXN from the album <i>Made In Lagos: Deluxe Edition</i>, highlighted in the playlist below:</p>
-<div class="post-image"> {{< img-lite src="https://cdn.pmnewsnigeria.com/2021/06/1730191833113418970280071710882965119333446n1.jpg" alt="Wizkid Album Cover" >}}
-</div>
-<p>Wizkids vibrant fusion of afrobeats, afropop, and Nigerian hip hop has solidified his place as one of the most influential artists in global music. Tracks like "Mood," "Ginger," and the smash hit "Essence" showcase his ability to blend catchy melodies with deeply rhythmic beats. His collaborations with artists like Burna Boy and Tems further elevate his sound to new heights.</p>
-<p>Listen to the playlist below to experience these tracks and more:</p>
-<div class="spotify-embed"> 
-</div>
-<p>Tracks featured:</p>
-<ul> <li>"Mood" (feat. BNXN) – <i>Made In Lagos: Deluxe Edition</i> (August 27, 2021, Starboy/RCA Records)</li> <li>"Ginger" (feat. Burna Boy) – <i>Made In Lagos</i> (October 29, 2020, Starboy/RCA Records)</li> <li>"Naughty Ride" (feat. Major Lazer) – <i>Naughty Ride</i> (June 23, 2017, Starboy/RCA Records)</li> <li>"Essence" (feat. Tems) – <i>Made In Lagos</i> (October 29, 2020, Starboy/RCA Records)</li>
-</ul>
-<p>Dive into the infectious beats of Wizkid and let his global hits brighten your playlist.</p>
-<hr>
-<div class="post-footer"> <p>Discover more of BigBanonos favorites at:</p> <ul> <li><a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos Blog</a></li> <li><a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a></li> <li><a href="https://x.com/bigbanonos" target="_blank">BigBanonos on X/Twitter</a></li> </ul>
-</div>
-<div class="post-tags"> Tags: @wizkid,@bnxn,@burnaboy,@tems,@majorlazer,
-</div>
+<iframe src="https://open.spotify.com/embed/track/6jdTkoEaer7XNGSblczoSu" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/5FG7Tl93LdH117jEKYl3Cm" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/51mLQ3w7yR7vjdSTFLWaY5" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/1YU8OXFCPP9fVkvnMzum4z" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

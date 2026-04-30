@@ -3,12 +3,15 @@ title: "Graham Nash"
 slug: "graham-nash"
 date: 2024-12-17
 layout: post
+era:
+  - "1900s"
+genre:
+  - "folk rock"
+  - "singer-songwriter"
 tags:
   - '@grahamnash'
 ---
 
-<h2>BigBanonos Favorite Tracks: Graham Nash</h2> <div > <a href="https://www.rollingstone.com/wp-content/uploads/2024/10/Graham-Nash-interview.jpg?w=1581&h=1054&crop=1"> <img src="https://www.rollingstone.com/wp-content/uploads/2024/10/Graham-Nash-interview.jpg?w=1581&h=1054&crop=1" alt="Graham Nash" width="400" /> </a>
-</div> <p><em>BigBanonos</em> presents a collection of favorite tracks from the legendary Graham Nash, highlighting his timeless contributions to folk rock and singer-songwriter traditions.</p> <h3>Selected Tracks</h3>
- <p>Stream the Graham Nash playlist:</p>
- <h3>Tags</h3>
-<p>@grahamnash</p> <p>Explore more from Graham Nash on <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and follow us on <a href="https://twitter.com/BigBanonos" target="_blank">Twitter</a>!</p> <hr />
+<iframe src="https://open.spotify.com/embed/track/6n3Wk44F3ZZwts8OAyB2zK" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/0Z7XX7XRQ5VZm6aG6qmwcT" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

@@ -3,6 +3,12 @@ title: "Mariah The Scientist"
 slug: "mariah-the-scientist"
 date: 2021-07-02
 layout: post
+era:
+  - "2000s-2010s"
+  - "2020s"
+genre:
+  - "alternative r&b"
+explicit: true
 tags:
   - '@mariah-the-scientist'
   - '00s-10s'
@@ -10,23 +16,8 @@ tags:
   - 'alternative r&b'
 ---
 
-## Mariah the Scientist
+<iframe src="https://open.spotify.com/embed/track/3XEJrEHmUBAtPvk9UsysV5" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-_3 tracks between 2019 and 2021._
+<iframe src="https://open.spotify.com/embed/track/0OEKGHJFPl3qI3BMsyqhzc" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
----
-
-**Reminders**
-*MASTER* · 2019 · 3:54
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/29GyG0MJIyRfbRv5nSZ9is" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**2 You**
-*2 You* · 2021 · 3:04
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0OEKGHJFPl3qI3BMsyqhzc" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**Aura**
-*Aura* · 2021 · 3:12
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3XEJrEHmUBAtPvk9UsysV5" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe src="https://open.spotify.com/embed/track/29GyG0MJIyRfbRv5nSZ9is" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

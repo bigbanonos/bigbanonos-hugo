@@ -3,6 +3,15 @@ title: "Lil Dicky"
 slug: "lil-dicky"
 date: 2017-12-15
 layout: post
+era:
+  - "2000s-2010s"
+genre:
+  - "g-funk"
+  - "west coast hip hop"
+  - "gangster rap"
+  - "old school hip hop"
+  - "hip hop"
+explicit: true
 tags:
   - '@lil-dicky'
   - '@lil-dicky-fetty-wap-rich-homie-quan'
@@ -15,33 +24,12 @@ tags:
   - 'old school hip hop'
 ---
 
-## Lil Dicky
+<iframe src="https://open.spotify.com/embed/track/307o1VJb5klow8ZQ2H5OQk" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-_5 tracks between 2015 and 2017._
+<iframe src="https://open.spotify.com/embed/track/49pteMi1tXYkOLFFepJGpM" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
----
+<iframe src="https://open.spotify.com/embed/track/1Ysc1uDZtf430TGavoS1j4" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-**Meet the Burds (Interlude)**
-*Professional Rapper* · 2015 · 1:03
+<iframe src="https://open.spotify.com/embed/track/7xVwwsQeCIYYafI9hiehii" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/49pteMi1tXYkOLFFepJGpM" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**Professional Rapper (feat. Snoop Dogg)** (feat. Lil Dicky;Snoop Dogg)
-*Professional Rapper* · 2015 · 5:53
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1Ysc1uDZtf430TGavoS1j4" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**Hannibal Interlude (feat. Hannibal Buress)** (feat. Lil Dicky;Hannibal Buress)
-*Professional Rapper* · 2015 · 2:00
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7xVwwsQeCIYYafI9hiehii" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**$ave Dat Money (feat. Fetty Wap & Rich Homie Quan)** (feat. Lil Dicky;Fetty Wap;Rich Homie Quan)
-*Professional Rapper* · 2015 · 4:50
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6AoYWCzsDls6c61Zp5qTuU" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**Ex Boyfriend**
-*Ex Boyfriend* · 2017 · 4:22
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/307o1VJb5klow8ZQ2H5OQk" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe src="https://open.spotify.com/embed/track/6AoYWCzsDls6c61Zp5qTuU" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

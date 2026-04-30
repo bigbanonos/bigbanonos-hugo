@@ -3,6 +3,16 @@ title: "Bad Bunny"
 slug: "bad-bunny"
 date: 2025-01-05
 layout: post
+era:
+  - "2000s-2010s"
+  - "2020s"
+genre:
+  - "reggaeton"
+  - "trap latino"
+  - "latin"
+  - "urbano latino"
+  - "latin indie"
+explicit: true
 tags:
   - '@bad-bunny'
   - '@bad-bunny-abra'
@@ -15,38 +25,14 @@ tags:
   - 'urbano latino'
 ---
 
-## Bad Bunny
+<iframe src="https://open.spotify.com/embed/track/3sK8wGT43QFpWrvNQsrQya" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-_6 tracks between 2019 and 2025._
+<iframe src="https://open.spotify.com/embed/track/6Xom58OOXk2SoU711L2IXO" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
----
+<iframe src="https://open.spotify.com/embed/track/44XjoNvtwevktFKjvVe1vH" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-**Vete**
-*Vete* · 2019 · 3:12
+<iframe src="https://open.spotify.com/embed/track/2JPLbjOn0wPCngEot2STUS" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5DxXgozhkPLgrbKFY91w0c" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe src="https://open.spotify.com/embed/track/5jZ32WOU7sqzDYbzINwMUk" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-**SORRY PAPI** (feat. Bad Bunny;ABRA)
-*EL ÚLTIMO TOUR DEL MUNDO* · 2020 · 2:43
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5jZ32WOU7sqzDYbzINwMUk" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**Yonaguni**
-*Yonaguni* · 2021 · 3:26
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2JPLbjOn0wPCngEot2STUS" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**Moscow Mule**
-*Un Verano Sin Ti* · 2022 · 4:05
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6Xom58OOXk2SoU711L2IXO" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**Andrea** (feat. Bad Bunny;Buscabulla)
-*Un Verano Sin Ti* · 2022 · 5:39
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/44XjoNvtwevktFKjvVe1vH" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**DtMF**
-*DeBÍ TiRAR MáS FOToS* · 2025 · 3:57
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3sK8wGT43QFpWrvNQsrQya" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe src="https://open.spotify.com/embed/track/5DxXgozhkPLgrbKFY91w0c" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

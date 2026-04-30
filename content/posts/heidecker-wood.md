@@ -3,6 +3,11 @@ title: "Heidecker Wood"
 slug: "heidecker-wood"
 date: 2013-12-10
 layout: post
+era:
+  - "2000s-2010s"
+genre:
+  - "comedy"
+  - "yacht rock"
 tags:
   - '@heidecker-wood'
   - '00s-10s'
@@ -10,33 +15,12 @@ tags:
   - 'yacht rock'
 ---
 
-## Heidecker & Wood
+<iframe src="https://open.spotify.com/embed/track/7LapkcYuqyXnlVHhacyQvj" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-_5 tracks between 2011 and 2013._
+<iframe src="https://open.spotify.com/embed/track/4433DT69MLrtBljk62e5Lc" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
----
+<iframe src="https://open.spotify.com/embed/track/21Xq5wyQDBfmpoFyTbjjlM" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-**Wedding Song**
-*Starting From Nowhere* · 2011 · 3:55
+<iframe src="https://open.spotify.com/embed/track/3w9ULShQvv2OAazIutJmty" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/21Xq5wyQDBfmpoFyTbjjlM" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**Weatherman**
-*Starting From Nowhere* · 2011 · 5:34
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3w9ULShQvv2OAazIutJmty" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**Right To The Minute**
-*Starting From Nowhere* · 2011 · 5:29
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6B7NEl9zpotQqXKmSV1jcr" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**Next Ten Years**
-*Some Things Never Stay The Same* · 2013 · 3:12
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7LapkcYuqyXnlVHhacyQvj" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**This Is Life**
-*Some Things Never Stay The Same* · 2013 · 3:35
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4433DT69MLrtBljk62e5Lc" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe src="https://open.spotify.com/embed/track/6B7NEl9zpotQqXKmSV1jcr" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

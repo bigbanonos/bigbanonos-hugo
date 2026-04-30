@@ -3,6 +3,11 @@ title: "Violent Femmes"
 slug: "violent-femmes"
 date: 2021-07-27
 layout: post
+era:
+  - "1900s"
+  - "2020s"
+genre:
+  - "folk punk"
 tags:
   - '@violent-femmes'
   - '1900s'
@@ -10,23 +15,8 @@ tags:
   - 'folk punk'
 ---
 
-## Violent Femmes
+<iframe src="https://open.spotify.com/embed/track/5hfeDBb0ojo6RzW0MekfH3" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-_3 tracks from 1983 to 2021. The peak is in there somewhere._
+<iframe src="https://open.spotify.com/embed/track/16BL6wr8NF6dN8ElbXs8X3" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
----
-
-**Blister In The Sun**
-*Violent Femmes* · 1983 · 2:25
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7jIAttgQTpLDoNtykIQXjH" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**Black Girls**
-*Hallowed Ground* · 1984 · 5:40
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/16BL6wr8NF6dN8ElbXs8X3" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**Me And You**
-*Me And You* · 2021 · 3:06
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5hfeDBb0ojo6RzW0MekfH3" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe src="https://open.spotify.com/embed/track/7jIAttgQTpLDoNtykIQXjH" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

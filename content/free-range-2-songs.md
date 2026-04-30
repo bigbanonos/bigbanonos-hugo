@@ -3,16 +3,14 @@ title: "Free Range"
 slug: "free-range"
 date: 2024-12-21
 layout: post
+era:
+  - "2020s"
+genre:
+  - "alt country"
 tags:
   - '@freerange'
 ---
 
-<!-- BigBanonos voice goes here.
-     - the personal connection (saw them live, friends band, etc.)
-     - the cross-reference (X covered Y, was in band Z, sampled by W)
-     - the hot take (peaked 2006-2019, sucks since 2001, etc.)
-     - whats missing / why these songs
-     -->
+<iframe src="https://open.spotify.com/embed/track/75VKgVYtjR1UAEvtdTZ07V" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
- <p>This list is a <em>BigBanonos</em> selection of Free Ranges top tracks, showcasing their signature sound. Updated with songs from <strong>Growing Away</strong>.</p>  <p>Discover more from Free Range on Spotify:</p>
- <hr />
+<iframe src="https://open.spotify.com/embed/track/0rVCyo7ZsYKnD5nrLYTjho" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

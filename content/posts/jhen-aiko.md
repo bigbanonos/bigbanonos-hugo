@@ -3,6 +3,13 @@ title: "Jhen Aiko"
 slug: "jhen-aiko"
 date: 2021-03-12
 layout: post
+era:
+  - "2000s-2010s"
+  - "2020s"
+genre:
+  - "r&b"
+  - "rap"
+explicit: true
 tags:
   - '@jhen-aiko'
   - '@jhen-aiko-future-miguel'
@@ -14,28 +21,10 @@ tags:
   - 'rap'
 ---
 
-## Jhené Aiko
+<iframe src="https://open.spotify.com/embed/track/5yqqYmSuCgtMfI93s678Ro" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-_4 tracks between 2018 and 2021._
+<iframe src="https://open.spotify.com/embed/track/5wsHLrhch5EIS6nsgld6y2" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
----
+<iframe src="https://open.spotify.com/embed/track/3Wol2exesJNRrj6hGZ6R8s" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-**Sativa** (feat. Jhené Aiko;Rae Sremmurd)
-*Sativa feat. Rae Sremmurd* · 2018 · 3:59
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5oKxax66OjT1ZD8UTCy61h" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**Happiness Over Everything (H.O.E.) (feat. Future & Miguel)** (feat. Jhené Aiko;Future;Miguel)
-*Happiness Over Everything (H.O.E.)* · 2020 · 3:13
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3Wol2exesJNRrj6hGZ6R8s" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**B.S. (feat. Kehlani) - Remix** (feat. Jhené Aiko;Kehlani)
-*Chilombo (Deluxe)* · 2020 · 3:32
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5wsHLrhch5EIS6nsgld6y2" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**space jam**
-*Sailing Soul(s)* · 2021 · 3:00
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5yqqYmSuCgtMfI93s678Ro" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe src="https://open.spotify.com/embed/track/5oKxax66OjT1ZD8UTCy61h" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

@@ -3,11 +3,16 @@ title: "Justice"
 slug: "justice"
 date: 2025-02-09
 layout: post
+era:
+  - "2000s-2010s"
+genre:
+  - "french house"
+  - "new rave"
 tags:
   - '@uffie'
   - '@justice'
 ---
 
-<h2>BigBanonos Favorite Songs by Justice</h2> <p><strong>Updated 2007, with "D.A.N.C.E." from <em>Ãƒ¢Ã¢â€š¬Ã‚ </em></strong></p> {{< img-lite src="https://i.scdn.co/image/ab67616d0000b2731c0bcf8b536295438d26c70d" alt="Justice" >}} <p>Justice shaped modern electro-house with a heavy rock influence. Below are BigBanonos favorite songs.</p> <h3>Listen on Spotify</h3>  <h3>"D.A.N.C.E."</h3>
-<p><em>Ãƒ¢Ã¢â€š¬Ã‚ </em>, 2007</p> <h3>"The Party" (feat. Uffie)</h3>
-<p><em>Ãƒ¢Ã¢â€š¬Ã‚ </em>, 2007</p> <hr /> <p><strong>Tags:</strong> @justice, @uffie</p> <hr />
+<iframe src="https://open.spotify.com/embed/track/1z4835vzYgbtb26uRWpGhq" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/33yAEqzKXexYM3WlOYtTfQ" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

@@ -3,27 +3,22 @@ title: "Widowspeak"
 slug: "widowspeak"
 date: 2025-01-11
 layout: post
+era:
+  - "2000s-2010s"
+  - "2020s"
+genre:
+  - "dream pop"
+  - "chillwave"
 tags:
   - '@widowspeak'
 ---
 
-<div class="post-title"> <h1>BigBanonos Favorite Songs by Widowspeak</h1>
-</div>
-<p>Updated March 11, 2022, with "Slow Dance" from the album <i>The Jacket</i>, highlighted in the playlist below:</p>
-<div class="post-image"> {{< img-lite src="https://f4.bcbits.com/img/0027248232_10.jpg" alt="Widowspeak Album Cover" >}}
-</div>
-<p>Widowspeaks dreamy and atmospheric blend of chillwave and countrygaze offers a captivating listening experience. Tracks like "Slow Dance," "Forget It," and "The Jacket" showcase their ability to craft hazy, introspective melodies. Released in 2022, their album <i>The Jacket</i> stands as a testament to their evolving artistry.</p>
-<p>Listen to the playlist below to experience these tracks and more:</p>
-<div class="spotify-embed"> 
-</div>
-<p>Tracks featured:</p>
-<ul> <li>"Slow Dance" – <i>The Jacket</i> (March 11, 2022, Captured Tracks)</li> <li>"Forget It" – <i>The Jacket</i> (March 11, 2022, Captured Tracks)</li> <li>"The Jacket" – <i>The Jacket</i> (February 16, 2022, Captured Tracks)</li> <li>"Stoned" – <i>All Yours</i> (September 4, 2015, Captured Tracks)</li>
-</ul>
-<p>Step into Widowspeaks lush and introspective soundscapes, and let their music take you to another world.</p>
-<hr>
-<div class="post-footer"> <p>Discover more of BigBanonos favorites at:</p> <ul> <li><a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos Blog</a></li> <li><a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a></li> <li><a href="https://x.com/bigbanonos" target="_blank">BigBanonos on X/Twitter</a></li> </ul>
-</div>
-<div class="post-tags"> Tags: @widowspeak,
-</div>
+<iframe src="https://open.spotify.com/embed/track/0ttQkF7CP9cdkDyX3VezYw" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/57IGLLjpk4CVexlspqOawg" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/0uuS5oCtWGINEVdJBSn0AN" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/5iNrL0WctcJ5S45UFTheiH" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/5Uu6Kdcx62SVKbikkbM5oU" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

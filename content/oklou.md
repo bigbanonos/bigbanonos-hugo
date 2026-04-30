@@ -3,26 +3,31 @@ title: "Oklou"
 slug: "oklou"
 date: 2025-02-12
 layout: post
+era:
+  - "2000s-2010s"
+  - "2020s"
+genre:
+  - "art pop"
+  - "hyperpop"
+  - "cloud rap"
 tags:
   - '@agcook'
   - '@oklou'
   - '@bladee'
 ---
 
-<h3>Oklou</h3>
-<img src="https://officemagazine.net/sites/default/files/styles/article_image_large/public/000542850003.jpg?itok=YFaw4Ivd" />
+<iframe src="https://open.spotify.com/embed/track/7ypm9ZGrUXGmSXgmpAd2hZ" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<p>
-<strong>Oklou – "Blade Bird"</strong> (2025) – <em>Blade Bird</em> – True Panther Records<br />
-<strong>Oklou, Bladee – "Take Me by the Hand"</strong> (2025) – <em>Take Me by the Hand</em> – True Panther Records<br />
-<strong>Oklou – "Galore"</strong> (2020) – <em>Galore</em> – True Panther Records, LLC<br />
-<strong>Oklou – "Fall"</strong> (2020) – <em>Galore</em> – True Panther Records, LLC<br />
-<strong>Oklou – "SGSY"</strong> (2020) – <em>SGSY</em> – True Panther/Virgin<br />
-<strong>Oklou – "Forever"</strong> (2019) – <em>Forever</em> – True Panther/Virgin<br />
-<strong>Oklou, A. G. Cook – "Fall (A. G. Cook Remix)"</strong> (2021) – <em>Fall / Galore (A. G. Cook Remixes)</em> – Oklou
-</p>
-<hr />
- <div> <p>Explore more BigBanonos content: <a href="https://bigbanonos.blogspot.com/">Website</a> | <a href="https://www.youtube.com/@BigBanonos">YouTube</a> | <a href="https://x.com/bigbanonos">Twitter</a></p>
-</div>
+<iframe src="https://open.spotify.com/embed/track/2RsaHAL0eJAwdyrZloFXI7" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/4MzRDrQHDaamTAIH35AWP0" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/4GnW1Wo5OthiGr7XrTUeHx" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/7yfwBgmXO94ZJqHQ48iN9j" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/2Hf3zQaZEPAqDoz59jdGEg" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/77YvCJap06BVaLfF2ouV3g" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/5VXTecZ5LpwLVp9zuJGqRJ" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

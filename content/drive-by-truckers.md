@@ -3,18 +3,101 @@ title: "Drive By Truckers"
 slug: "drive-by-truckers"
 date: 2024-12-17
 layout: post
+era:
+  - "1900s"
+  - "2000s-2010s"
+  - "2020s"
+genre:
+  - "alt country"
+  - "southern rock"
+  - "americana"
+  - "roots rock"
+  - "outlaw country"
+explicit: true
 tags:
   - '@drivebytruckers'
 ---
 
-<h2>Drive-By Truckers – Essential Tracks</h2> <div > <img alt="Drive-By Truckers" src="https://cdn.mos.cms.futurecdn.net/73aLnGFaTQRE9sdE2Eo8jW-320-80.jpg" width="400" />
-</div><div ><br /></div> 
-<div> <img src="https://cdn.mos.cms.futurecdn.net/73aLnGFaTQRE9sdE2Eo8jW-320-80.jpg" alt="Drive-By Truckers Band" width="100%" /> 
-</div>
-<div> <h3>Songs:</h3> <ul> <li>Drive By Truckers - My Sweet Annette (Stream) 2003</li> <li>Drive-By Truckers - George Jones Talkin Cell Phone Blues (Stream) 2009</li> <li>Drive-By Truckers - Goodes Field Road (Alternate) (Stream) 2009</li> <li>Drive-By Truckers - 3 Dimes Down (Stream) 2008</li> <li>Drive-By Truckers - Act 1: Ronnie and Neil (Stream) 2001</li> <li>Drive-By Truckers - Act 1: The Three Great Alabama Icons (Stream) 2001</li> <li>Drive-By Truckers - Act 1: Zip City (Stream) 2001</li> <li>Drive-By Truckers - Act 2: Let There Be Rock (Stream) 2001</li> <li>Drive-By Truckers - Act 2: Road Cases 2001</li> <li>Drive-By Truckers - Act 2: Women Without Whiskey 2001</li> <li>Drive-By Truckers - Bob (Stream) 2008</li> <li>Drive-By Truckers - Decoration Day (Stream) 2003</li> <li>Drive-By Truckers - Feb 14 (Stream) 2006</li> <li>Drive-By Truckers - Goddamn Lonely Love (Stream) 2004</li> <li>Drive-By Truckers - Gravitys Gone (Stream) 2006</li> <li>Drive-By Truckers - Hell No I Aint Happy (Stream) 2003</li> <li>Drive-By Truckers - Lookout Mountain (Stream) 2004</li> <li>Drive-By Truckers - Marry Me (Stream) 2003</li> <li>Drive-By Truckers - Perfect Timing (Stream) 2008</li> <li>Drive-By Truckers - Sink Hole (Stream) 2003</li> <li>Drive-By Truckers - The Deeper In (Stream) 2003</li> <li>Drive-By Truckers - Two Daughters and a Beautiful Wife (Stream) 2008</li> <li>Drive-By Truckers - When the Pin Hits the Shell (Stream) 2003</li> <li>Drive-By Truckers - Daddys Cup (Stream) 2004</li> <li>Drive-By Truckers - Bulldozers and Dirt (Stream) 1997</li> <li>Drive-By Truckers - Love Like This (Stream) 1999</li> <li>Drive-By Truckers - Nine Bullets (Stream) 1997</li> <li>Drive-By Truckers - Tales Facing Up (Stream) 1999</li> <li>Drive-By Truckers - The Living Bubba (Stream) 1998</li> <li>Drive-By Truckers - Girls Who Smoke (Live) (Stream) 2010</li> <li>Drive-By Truckers - Birthday Boy (Stream) 2010</li> </ul>
-</div>
-<div> <h3>YouTube playlist:</h3> {{< youtube "v7lT8SWu6dc" >}}
-</div> <h3>Tags</h3>
-<p>@drivebytruckers</p> <p>Check out the full playlist on <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a> and watch exclusive Drive-By Truckers live videos on <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a>!</p>
+<iframe src="https://open.spotify.com/embed/track/7cStaTKMIKBB3SPWXSs1pN" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/4JbT0mUeUTs4cPXnfXHLca" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/7gAKkbp1kPhZnDrRv35NkA" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/1LvTBlutqbMJjF6OEWHKz2" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/1kPWk8V1l46ICEvDlUi2vB" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/1GcCLmmfxUFZ3Tj3SUjfJs" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/2QAjJ7SzeXIGEKgEC27nlt" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/1iS80iXMGUcjeVLshywMfS" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/0itETTnjkDT8V2EGUR5XSK" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/0UkN64Kh7t9NeXkscqDQdK" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/4fTSnT4iru4N9VBA88yj3t" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/6O5NYYMiIdkmoCaa1EiAr1" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/1UdZFIh5G4LXTqTQopufu1" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/213SiJr4gnWrtyPODW3r08" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/2hOGCBmBTuZSQfnm5mDI5p" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/50s3mlZSp2C6y5Xm1VTCwS" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/4zkLBywJdhfECHXl9NK4tQ" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/2pEG8vhQ87oixWCHeDsPix" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/0dgE8dE48nPvT6ncUiJxFE" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/1U6Dig0ofxzwcAPZRY6czz" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/7F8xYAzJZK7LJ5ra1Jopwk" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/6WJByZqNwxblnGiQISh0JZ" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/7ekj86VgKXB5XFTwVYnTQP" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/5Dxq3YnXlfcDE1lrowHWf8" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/0h8dfDxXQ7vxhoudIxNrsE" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/4R0bq2huJ4rJM0A2ArzHlN" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/0kZcO6YESNfGjM1Sgh84ef" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/1nOQZ40zeRJYPFB7IRUk0N" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/4QPchOoJIiVJ5lpajmwmRL" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/09n5OiITfOYyL5s4zTn9PE" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/2nes7xBxT8C2ol7lthypyF" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/1FVo8EEZPf1tozsu9zC2kB" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/1D6aAb9xY7cTg9bah6JKgm" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/1ByrRMgFE0iEdYfRuYNh54" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/1pVwuSivAfeS8hLOhn4tps" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/1VwwC5ZNFFMfH3ksqQofqz" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/2f8AC7u11MRbGNGZ4kbaOg" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/2a2zqhzAkG77QBynuFy0ws" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/6UuqvuIlWdcNyCrnnD6n5k" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/6v5sl0bsSYqNj3ZBObWFiP" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/2mJ486jLiA644FwETDNROj" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/3dQ6atUPga5A95w2UKVMAC" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

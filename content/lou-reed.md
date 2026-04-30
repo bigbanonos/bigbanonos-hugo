@@ -3,24 +3,69 @@ title: "Lou Reed"
 slug: "lou-reed"
 date: 2025-01-16
 layout: post
+era:
+  - "1900s"
+  - "2020s"
+genre:
+  - "glam rock"
+  - "proto-punk"
+  - "art rock"
+  - "baroque pop"
+  - "singer-songwriter"
 tags:
   - '@loureed'
 ---
 
-<!-- Title of the Post -->
-<h1>BigBanonos Favorite Songs by Lou Reed</h1> <!-- Introductory Text -->
-<p>Lou Reed, a pioneer of glam rock and an enduring figure in the world of music, has a catalog that spans decades and genres. Updated with his iconic tracks, BigBanonos highlights Lou Reeds contributions to music history.</p> <!-- Featured Image -->
-<div> {{< img-lite src="https://pyxis.nymag.com/v1/imgs/56b/1c7/760cfd4e1435ff58d2701d237956dbabde-28-lou-reed-non-greatest-hits.2x.h473.w710.jpg" alt="Lou Reed" >}}
-</div> <!-- Spotify Embed -->
-<div> 
-</div> <!-- Song Information -->
-<h3>Top Tracks by Lou Reed:</h3>
- <!-- Additional Highlights -->
-<h3>Bonus Songs:</h3>
-<ul> <li><strong>Caroline Says II</strong> | Album: <em>Berlin</em></li> <li><strong>Gimmie Some Good Times</strong> | Album: <em>Street Hassle</em></li> <li><strong>Sweet Jane (Take No Prisoners Version)</strong></li> <li><strong>Vicious</strong> | Album: <em>Transformer</em></li> <li><strong>Halloween Parade</strong> | Album: <em>New York</em></li> <li><strong>Heroin (Live)</strong></li> <li><strong>Merry Go Round</strong></li>
-</ul> <!-- Footer Links -->
-<hr />
-<p>Immerse yourself in Lou Reeds timeless music on <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Explore more on our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> channel and follow us on <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a> for more music highlights and updates.</p> 
-<p>@loureed</p>
+<iframe src="https://open.spotify.com/embed/track/7cm0Cf8Xp0JAfJpVpD7BSK" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/1fAKmym9QtIlpGEAChyixA" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/6DmapIgNCejBPv5I4dtk2m" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/5RGQJSVKzZMsa6lDyNKfGQ" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/2YiqytGejSBuSnkW2jdusb" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/3J5vCDzfOekZ1knVvvnXTP" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/0mO0HAHXxtLEkT2F6A5TWb" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/6rQWcomd5gHKdALTXcGw66" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/4TDLfAmx45EpSiQYG6hCzT" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/5Hb0p1Ti6nkeA3SSKfbvM2" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/6ncpg6MiH37iyOXvMnqBLY" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/3ecvnatX2V8cjPr1NMce05" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/1oD6UVuuUJ6CSQhdjcHHED" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/70tBw295bLL8B13Jg3SNUs" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/4n2JJESWebAaRRaYWDVSek" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/5WyuRWUcOOhAic0tj9Pl28" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/201tQSOenbG8kRTD44ioEZ" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/4TOMI010Sd4ZAX4aZ5TS85" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/4A48NL57P16zSRaq3yoYry" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/07kgKnZT1PAOnt4fW8IIXK" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/3O6xCKNtVyHUcL6HhGWcXL" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/1mrfZ1VZj8hdm39K0HUu7R" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/5p3JunprHCxClJjOmcLV8G" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/4tj0T53jJzNpk5f5AByEQR" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/0eS4rPcKiqFFlOACBs9FRU" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/5e55zfjZiqIytDQWEr100c" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/1W0ZDYcuJaxtaV1Fz9zJdn" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

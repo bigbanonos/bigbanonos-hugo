@@ -3,6 +3,11 @@ title: "Vashti Bunyan"
 slug: "vashti-bunyan"
 date: 2007-10-30
 layout: post
+era:
+  - "1900s"
+  - "2000s-2010s"
+genre:
+  - "folk"
 tags:
   - '@vashti-bunyan'
   - '00s-10s'
@@ -10,33 +15,12 @@ tags:
   - 'folk'
 ---
 
-## Vashti Bunyan
+<iframe src="https://open.spotify.com/embed/track/6qRmb4uhIUaWE5LySgSfQS" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-_5 tracks from 1970 to 2007. The peak is in there somewhere._
+<iframe src="https://open.spotify.com/embed/track/4JLnwl0Vkme7OQgGRVk7Nd" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
----
+<iframe src="https://open.spotify.com/embed/track/1Jri474VM7yyIlglywQOx5" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-**Diamond Day**
-*Just Another Diamond Day* · 1970 · 1:47
+<iframe src="https://open.spotify.com/embed/track/1SVbLtv66jl9djDekvnMTq" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1SVbLtv66jl9djDekvnMTq" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**Id Like To Walk Around In Your Mind**
-*Just Another Diamond Day* · 1970 · 2:15
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6bqB7idfAnJVisSMQA1mZQ" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**If I Were**
-*Lookaftering* · 2005 · 2:15
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1Jri474VM7yyIlglywQOx5" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**Train Song**
-*Some Things Just Stick In Your Mind (Singles And Demos 1964 To 1967)* · 2007 · 2:17
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6qRmb4uhIUaWE5LySgSfQS" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
-**I Want To Be Alone**
-*Some Things Just Stick In Your Mind (Singles And Demos 1964 To 1967)* · 2007 · 2:53
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4JLnwl0Vkme7OQgGRVk7Nd" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+<iframe src="https://open.spotify.com/embed/track/6bqB7idfAnJVisSMQA1mZQ" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

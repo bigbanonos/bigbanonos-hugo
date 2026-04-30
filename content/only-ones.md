@@ -3,16 +3,19 @@ title: "Only Ones"
 slug: "only-ones"
 date: 2025-01-16
 layout: post
+era:
+  - "1900s"
+  - "2000s-2010s"
+genre:
+  - "power pop"
+  - "proto-punk"
+  - "new wave"
 tags:
   - '@onlyones'
 ---
 
-<!-- Title of the Post -->
-<h1>BigBanonos Favorite Songs by The Only Ones</h1> <!-- Featured Image -->
-<div> {{< img-lite src="https://i.scdn.co/image/ab67616d00001e02e3f2da9608a1fb4fb81092ac" alt="The Only Ones" >}}
-</div> <!-- Spotify Embed -->
-<div> 
-</div> <!-- Song Information -->
-<h3>Top Songs by The Only Ones:</h3>
+<iframe src="https://open.spotify.com/embed/track/0PDZ4Rgj36MxVgvoMv3sk5" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
-<hr />
+<iframe src="https://open.spotify.com/embed/track/3R1YTecZiuW6284pWTHYB0" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+<iframe src="https://open.spotify.com/embed/track/2AvsDF5NEYlVSXvcnZoiec" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
