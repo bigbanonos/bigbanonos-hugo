@@ -47,21 +47,21 @@ _8 tracks, 2009 to 2020._
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5GZWG4NbneAc9sGVCtqGO3" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **Routine (feat. Rick Ross & Meek Mill)** (feat. Wale;Meek Mill;Rick Ross)
-*Wow... That's Crazy* · 2019 · 3:37
+*Wow... Thats Crazy* · 2019 · 3:37
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5MqPHMhLXyZDDPHMGEF6MQ" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **Love Me Nina / Semiautomatic** (feat. Wale)
-*Wow... That's Crazy* · 2019 · 4:16
+*Wow... Thats Crazy* · 2019 · 4:16
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6kzkaR1UEKP0XjlK4jFgC7" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **On Chill (feat. Jeremih)** (feat. Wale;Jeremih)
-*Wow... That's Crazy* · 2019 · 3:34
+*Wow... Thats Crazy* · 2019 · 3:34
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5z51HY4ei5QhTjcvwq5Msw" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**MOVIN' DIFFERENT (feat. McClenney)**
+**MOVIN DIFFERENT (feat. McClenney)**
 *The Imperfect Storm* · 2020 · 3:02
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4KyCV8JfbknCNM9MqiuKMv" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

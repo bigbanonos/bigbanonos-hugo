@@ -47,7 +47,7 @@ _11 tracks between 2018 and 2023._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0RRm4OS5ymfZryXBuj0G2m" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**What We Doin'**
+**What We Doin**
 *Girl Code* · 2018 · 2:23
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/11TOnapSFVWBUSByMzf1u1" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

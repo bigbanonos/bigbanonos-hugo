@@ -21,7 +21,7 @@ _5 tracks from 1970 to 2007. The peak is in there somewhere._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1SVbLtv66jl9djDekvnMTq" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**I'd Like To Walk Around In Your Mind**
+**Id Like To Walk Around In Your Mind**
 *Just Another Diamond Day* · 1970 · 2:15
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6bqB7idfAnJVisSMQA1mZQ" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

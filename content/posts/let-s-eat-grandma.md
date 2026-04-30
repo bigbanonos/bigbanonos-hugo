@@ -10,7 +10,7 @@ tags:
   - 'art pop'
 ---
 
-## Let's Eat Grandma
+## Lets Eat Grandma
 
 _7 tracks between 2018 and 2023._
 
@@ -22,12 +22,12 @@ _7 tracks between 2018 and 2023._
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6HdC0nzNAXtQknoaRcn2kT" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **Falling Into Me**
-*I'm All Ears* · 2018 · 5:46
+*Im All Ears* · 2018 · 5:46
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6tBoGL2cAkf4e7737QQUU9" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **Ava**
-*I'm All Ears* · 2018 · 3:04
+*Im All Ears* · 2018 · 3:04
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/27CY2Wds2uregQypbxkcWz" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 

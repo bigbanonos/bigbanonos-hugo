@@ -21,7 +21,7 @@ _29 tracks from 1981 to 2020. The peak is in there somewhere._
 
 ---
 
-**Takin' a Ride**
+**Takin a Ride**
 *Sorry Ma, Forgot to Take out the Trash (Expanded)* · 1981 · 2:23
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7KdLwa505qj5lPGD1Pqr0i" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -101,7 +101,7 @@ _29 tracks from 1981 to 2020. The peak is in there somewhere._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1brtRz9XgEp1LifkL8z4wb" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Can't Hardly Wait - 2008 Remaster**
+**Cant Hardly Wait - 2008 Remaster**
 *Pleased to Meet Me (Expanded)* · 1987 · 3:08
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0NX14YH2t16bwwlJSfXazr" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -116,7 +116,7 @@ _29 tracks from 1981 to 2020. The peak is in there somewhere._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2g9EvzLR2sYscJQubwKGqu" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**I Don't Know - 2008 Remaster**
+**I Dont Know - 2008 Remaster**
 *Pleased to Meet Me (Expanded)* · 1987 · 3:24
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/60BKhXrccTif1R2uAWM2HX" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -131,7 +131,7 @@ _29 tracks from 1981 to 2020. The peak is in there somewhere._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5RmDHH54g4IhWO0DVQzD5u" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Can't Hardly Wait - Alternate Version**
+**Cant Hardly Wait - Alternate Version**
 *Pleased to Meet Me (Expanded)* · 1987 · 2:59
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1YpTeGSP1aeOQz5bTsMR6L" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -141,18 +141,18 @@ _29 tracks from 1981 to 2020. The peak is in there somewhere._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3MxOCxCTTaLVCaAsm0ytFC" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Achin' to Be - Bearsville Version**
-*Achin' to Be (Bearsville Version)* · 2019 · 3:23
+**Achin to Be - Bearsville Version**
+*Achin to Be (Bearsville Version)* · 2019 · 3:23
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4jWpurdWuSNLZDBIcMUyAk" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Darlin' One - Bearsville Version**
-*Dead Man's Pop* · 2019 · 3:52
+**Darlin One - Bearsville Version**
+*Dead Mans Pop* · 2019 · 3:52
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2HUseUZ5gIi6QsD1JNpbkX" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **I Can Help (feat. Tom Waits)** (feat. The Replacements;Tom Waits)
-*Dead Man's Pop* · 2019 · 3:03
+*Dead Mans Pop* · 2019 · 3:03
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4egudl5I2eeFeCn0PBZxZb" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 

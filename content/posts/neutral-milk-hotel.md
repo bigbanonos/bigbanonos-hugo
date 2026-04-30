@@ -27,7 +27,7 @@ _9 tracks from 1996 to 2023. The peak is in there somewhere._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5jqPl6oZxya4dtJTcLFjMP" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Where You'll Find Me Now**
+**Where Youll Find Me Now**
 *On Avery Island* · 1996 · 4:04
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1c7ZaXMJKgOFXet5W59B8s" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -57,7 +57,7 @@ _9 tracks from 1996 to 2023. The peak is in there somewhere._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5mLGfs0Z4kKdyj7pAYYWij" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**My Dream Girl Don't Exist - Live, 1992**
+**My Dream Girl Dont Exist - Live, 1992**
 *Ferris Wheel on Fire* · 2023 · 4:15
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7JdLSRZGOEzaq8YvvlAX5x" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

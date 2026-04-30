@@ -33,22 +33,22 @@ _22 favorite songs by artists starting with G. Before 2000. One good song and ou
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/00rDcOb5oBm6tUvhDnDhdJ" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**The Globetrotters** — Bouncin' all Over The World
+**The Globetrotters** — Bouncin all Over The World
 *The Globetrotters* · 1970 · 3:00
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/04tFt8iVdqKsODdDwZ1Hh1" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**The Gaylads** — It's All in the Game
+**The Gaylads** — Its All in the Game
 *Fire and Rain* · 1970 · 2:29
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5JroZqzlahtyp3XttYVjkP" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Grateful Dead** — Franklin's Tower - 2013 Remaster
+**Grateful Dead** — Franklins Tower - 2013 Remaster
 *Blues for Allah (2013 Remaster)* · 1975 · 4:34
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3PgIhd4XmwtmV2XGU5qhzZ" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Guy Clark** — Texas Cookin'
+**Guy Clark** — Texas Cookin
 *Texas Cookin* · 1976 · 3:48
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6uhBxmlfzIbxpIBRteQUQL" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -58,7 +58,7 @@ _22 favorite songs by artists starting with G. Before 2000. One good song and ou
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2Xb6wJYGi0QXwURw5WWvI5" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Glenn Jones** — We've Only Just Begun (The Romance Is Not Over)
+**Glenn Jones** — Weve Only Just Begun (The Romance Is Not Over)
 *Glenn Jones* · 1987 · 5:57
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4MjiEXoUPAIpAG9EIPtH3c" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -83,7 +83,7 @@ _22 favorite songs by artists starting with G. Before 2000. One good song and ou
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1nLnpLXvl68RZCSjfkyiaa" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**GZA;Method Man** — Shadowboxin'
+**GZA;Method Man** — Shadowboxin
 *Liquid Swords* · 1995 · 3:29
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7bp5DfkdK1OAvNJ1U4HfDA" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -98,8 +98,8 @@ _22 favorite songs by artists starting with G. Before 2000. One good song and ou
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/63LVYnGJmWjNnmHiOVsGhe" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Ghost Town DJs** — My Boo - Hitman's Club Mix
-*My Boo (Hitman's Club Mix)* · 1996 · 5:46
+**Ghost Town DJs** — My Boo - Hitmans Club Mix
+*My Boo (Hitmans Club Mix)* · 1996 · 5:46
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4c0rkFPszqQTyC753tsCMU" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -118,8 +118,8 @@ _22 favorite songs by artists starting with G. Before 2000. One good song and ou
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/023ANytNFEk7vglingnI4p" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Gerry & The Pacemakers** — Don't Let the Sun Catch You Crying (Main) - Mono
-*You'll Never Walk Alone (The EMI Years 1963-1966)* · 2008 · 2:37
+**Gerry & The Pacemakers** — Dont Let the Sun Catch You Crying (Main) - Mono
+*Youll Never Walk Alone (The EMI Years 1963-1966)* · 2008 · 2:37
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0ZMMtH875IR2TfkyC4PolD" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 

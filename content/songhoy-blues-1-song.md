@@ -8,6 +8,6 @@ tags:
   - '@mikelindsay'
 ---
 
-{{< youtube "RMZoeLO9IM4" >}}<h2><ol><li>Bon BonÃƒâ€šÃ‚ (Mike Lindsay Remix) [2021]</li></ol></h2>
+{{< youtube "RMZoeLO9IM4" >}}<h2></h2>
 
 <hr />

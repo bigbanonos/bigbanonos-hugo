@@ -35,12 +35,12 @@ _7 tracks from 1993 to 2022. The peak is in there somewhere._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0X0LTI0MQG9S3FLSUvjrj5" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**There's More to Life Than This - Live Version**
+**Theres More to Life Than This - Live Version**
 *Debut* · 1993 · 3:21
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1ENAzA89W0Cln8dlzdgECJ" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**It's Oh So Quiet**
+**Its Oh So Quiet**
 *Post* · 1995 · 3:37
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0OMNQyneWmmZtTQpULYJcl" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

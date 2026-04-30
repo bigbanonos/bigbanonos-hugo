@@ -179,7 +179,7 @@ description: "61 tracks — S artists, 2020s"
 </div>
 
 <div class="track-embed">
-  <p><strong>Underwater</strong> — Sun's Signature</p>
+  <p><strong>Underwater</strong> — Suns Signature</p>
   <iframe src="https://open.spotify.com/embed/track/3ufmZWjnasL9fwddzWw3Ci?utm_source=generator" width="100%" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 </div>
 
@@ -219,7 +219,7 @@ description: "61 tracks — S artists, 2020s"
 </div>
 
 <div class="track-embed">
-  <p><strong>Call My Phone Thinking I'm Doing Nothing Better</strong> — The Streets;Tame Impala</p>
+  <p><strong>Call My Phone Thinking Im Doing Nothing Better</strong> — The Streets;Tame Impala</p>
   <iframe src="https://open.spotify.com/embed/track/6iL8HJz9hm6et1pU9JIvx2?utm_source=generator" width="100%" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 </div>
 

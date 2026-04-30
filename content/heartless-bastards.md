@@ -14,7 +14,7 @@ tags:
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "Ap6Zg1I0YTs" >}}
 </div> <!-- Song Information -->
-<div > <p><em>"Gray"</em>, from Heartless Bastards' 2005 album *Stairs and Elevators*, released by Fat Possum Records, is a standout track that blends raw vocals with a captivating stomp-and-holler rhythm. Its emotional depth and compelling energy make it an unforgettable addition to their discography.</p>
+<div > <p><em>"Gray"</em>, from Heartless Bastards 2005 album *Stairs and Elevators*, released by Fat Possum Records, is a standout track that blends raw vocals with a captivating stomp-and-holler rhythm. Its emotional depth and compelling energy make it an unforgettable addition to their discography.</p>
 </div> <!-- Footer Links -->
 <div > 
 </div> 

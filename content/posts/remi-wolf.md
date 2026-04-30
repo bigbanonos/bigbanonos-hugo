@@ -20,12 +20,12 @@ _9 tracks between 2020 and 2024._
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0fzE5LlGfQwJLvEiJ7UqUZ" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **Woo!**
-*I'm Allergic To Dogs!* · 2020 · 3:16
+*Im Allergic To Dogs!* · 2020 · 3:16
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2q3VZjLVCWbJq0rICML7va" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **Disco Man**
-*I'm Allergic To Dogs!* · 2020 · 3:12
+*Im Allergic To Dogs!* · 2020 · 3:12
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0T7aTl1t15HKHfwep4nANV" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 

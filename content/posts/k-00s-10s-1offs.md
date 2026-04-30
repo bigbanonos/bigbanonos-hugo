@@ -33,7 +33,7 @@ _39 favorite songs by artists starting with K. The peak decades for 1-offs. Pre-
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2RUhtNBh43RtSg0WBPPq3m" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Keyshia Cole** — Fallin' Out
+**Keyshia Cole** — Fallin Out
 *Just Like You* · 2007 · 4:26
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1Tn0b93GeEZ1wDDRpT6WhM" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -54,7 +54,7 @@ _39 favorite songs by artists starting with K. The peak decades for 1-offs. Pre-
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6aJmDsQaB3KDTJWVc4cCbI" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **Katey Red** — Titty Bop
-*Katey's Hits* · 2013 · 4:56
+*Kateys Hits* · 2013 · 4:56
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1lAoxsinr5MiR3rojTOTYn" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -108,8 +108,8 @@ _39 favorite songs by artists starting with K. The peak decades for 1-offs. Pre-
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7f3mNFQ9ue2uCWA8qmgEJo" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Kungs;Cookin' On 3 Burners** — This Girl (Kungs Vs. Cookin' On 3 Burners)
-*This Girl (Kungs Vs. Cookin' On 3 Burners)* · 2016 · 3:15
+**Kungs;Cookin On 3 Burners** — This Girl (Kungs Vs. Cookin On 3 Burners)
+*This Girl (Kungs Vs. Cookin On 3 Burners)* · 2016 · 3:15
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3YlrH4ydAKkxuej6F4Nnkl" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -123,7 +123,7 @@ _39 favorite songs by artists starting with K. The peak decades for 1-offs. Pre-
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6vM4UqSz1GHvkyTjOoy3gu" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Kenix;Bobby Youngblood;Medlar** — There's Never Been No One Like You (feat. Bobby Youngblood) - Medlar Edit
+**Kenix;Bobby Youngblood;Medlar** — Theres Never Been No One Like You (feat. Bobby Youngblood) - Medlar Edit
 *West End Edits: Medlar* · 2017 · 7:24
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/041mn3uFmaPY0b6Vmy657r" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -158,7 +158,7 @@ _39 favorite songs by artists starting with K. The peak decades for 1-offs. Pre-
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/439X8jGytErRiPnaoUJHju" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Kelsey Lu** — I'm Not In Love
+**Kelsey Lu** — Im Not In Love
 *Blood* · 2019 · 6:54
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7InHgiDyJ0GtvnIVslWNPK" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

@@ -8,13 +8,13 @@ tags:
 ---
 
 <!-- Title of the Post -->
-<h1 >BigBanonos' Favorite Songs by Alan Vega</h1> <!-- Featured Image -->
+<h1 >BigBanonos Favorite Songs by Alan Vega</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab67616d0000b273d94f21d2e3a6ccb201aed4f8" alt="Alan Vega" >}}
 </div> <!-- Spotify Embed -->
-<div > {{< youtube "embed" >}}
+<div > 
 </div> <!-- Introductory Text -->
-<p >Alan Vega's experimental and synth-punk sound has influenced countless artists. From live performances to iconic tracks, here are BigBanonos' favorite picks by this legendary innovator.</p> <!-- Song Highlights -->
-<div > <p>BigBanonos' standout picks:</p> <ol> <li><strong>Magdalena</strong> (Live at Rockpalast 1982) | <em>Magdalena (Live at Rockpalast 1982)</em> | Released: 1982 | Play Loud! Productions</li> <li><strong>Juke Box Baby</strong> | <em>ZEtrospective 1: Dancing in the Face of Adversity</em> | Released: 1981 | Ze Records</li> <li><strong>VIDEO BABE</strong> | <em>Saturn Strip</em> | Released: 1983 | Rhino/Elektra</li> </ol>
+<p >Alan Vegas experimental and synth-punk sound has influenced countless artists. From live performances to iconic tracks, here are BigBanonos favorite picks by this legendary innovator.</p> <!-- Song Highlights -->
+<div > <p>BigBanonos standout picks:</p> 
 </div> <!-- Footer Links -->
 <div > <p>Explore experimental classics at <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Keep up with fresh updates on <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p>
 </div> 

@@ -80,7 +80,7 @@ _39 tracks spanning 1969 to 2022. 53 years of trying._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/48UPSzbZjgc449aqz8bxox" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**We're Going To Be Friends** (feat. The White Stripes)
+**Were Going To Be Friends** (feat. The White Stripes)
 *White Blood Cells* · 2001 · 2:22
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6u13tCUeMafkT0KFsmvodB" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -90,7 +90,7 @@ _39 tracks spanning 1969 to 2022. 53 years of trying._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1f2V8U1BiWaC9aJWmpOARe" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Can't Stop**
+**Cant Stop**
 *By the Way (Deluxe Edition)* · 2002 · 4:29
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3ZOEytgrvLwQaqXreDs2Jx" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -111,7 +111,7 @@ _39 tracks spanning 1969 to 2022. 53 years of trying._
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7mAF2MJdbNT75VrVcgwT6F" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **First Day Of My Life** (feat. Bright Eyes)
-*I'm Wide Awake, It's Morning* · 2005 · 3:08
+*Im Wide Awake, Its Morning* · 2005 · 3:08
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5OiaAaIMYlCZONyDBxqk4G" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 

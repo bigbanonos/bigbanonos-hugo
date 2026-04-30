@@ -26,7 +26,7 @@ _9 tracks, 2005 to 2023._
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3PDuc5bojmmi2NqVSYyiWb" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **If It Be Your Will** (feat. Antony)
-*Leonard Cohen: I'm Your Man* · 2006 · 5:54
+*Leonard Cohen: Im Your Man* · 2006 · 5:54
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/65sKEPMT59DU07NXTGAEj4" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -50,8 +50,8 @@ _9 tracks, 2005 to 2023._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/43lzpembjsLyjihPkkpPyy" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**It's All over Now, Baby Blue** (feat. ANOHNI)
-*It's All over Now, Baby Blue b/w Be My Husband* · 2020 · 4:12
+**Its All over Now, Baby Blue** (feat. ANOHNI)
+*Its All over Now, Baby Blue b/w Be My Husband* · 2020 · 4:12
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4nz1UjOhZx5ZlhbAAnvmSi" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 

@@ -8,15 +8,14 @@ tags:
 ---
 
 <!-- Title of the Post -->
-<h1>BigBanonos' Favorite Songs by Kim Fowley</h1> <!-- Introductory Text -->
+<h1>BigBanonos Favorite Songs by Kim Fowley</h1> <!-- Introductory Text -->
 <p>Kim Fowley, the eccentric genius of garage rock and protopunk, left an indelible mark on music history. BigBanonos revisits his most iconic tracks, capturing his unique and boundary-pushing artistry.</p> <!-- Featured Image -->
 <div> {{< img-lite src="https://www.rollingstone.com/wp-content/uploads/2018/06/rs-181276-73992171.jpg?w=1581&h=1054&crop=1" alt="Kim Fowley" >}}
 </div> <!-- Spotify Embed -->
-<div> {{< youtube "embed" >}}
+<div> 
 </div> <!-- Song Information -->
 <h3>Top Tracks by Kim Fowley:</h3>
-<ol> <li><strong>Kim Vincent Fowley</strong> | Album: <em>Death City</em> | Released: October 8, 2012 | Label: Trash-O-Rama</li> <li><strong>Motorboat</strong> | Album: <em>Living in the Streets</em> | Released: January 1, 2003 | Label: Microbe</li>
-</ol> <!-- YouTube Embed -->
+ <!-- YouTube Embed -->
 <div> {{< youtube "2ru4-O3erRk" >}}
 </div> <!-- Footer Links -->
 <hr />

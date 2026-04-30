@@ -36,7 +36,7 @@ _6 tracks, 2012 to 2023._
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6NyaXh11cDhWT7CI5S3TiU" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **Pale Blue Light**
-*What's Your Pleasure? (The Platinum Pleasure Edition)* · 2021 · 4:44
+*Whats Your Pleasure? (The Platinum Pleasure Edition)* · 2021 · 4:44
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1NjUQMlgLjYL6Bm6kjHf57" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 

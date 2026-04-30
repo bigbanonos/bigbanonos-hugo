@@ -39,7 +39,7 @@ _15 tracks between 2002 and 2011._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0fXPrbLgWmgZI81oF5Knxx" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Let's Rave On**
+**Lets Rave On**
 *Chain Gang Of Love* · 2003 · 1:54
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0U1VQmGIderaVxoESXQgqO" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

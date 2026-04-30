@@ -8,10 +8,8 @@ tags:
 ---
 
 <h1>BigBanonos Top Songs by Ted Leo</h1>
-<div class="separator"> <a href="https://upload.wikimedia.org/wikipedia/commons/7/7f/Ted_Leo_Coachella.jpg" > <img alt="Ted Leo" border="0" width="320" data-original-height="480" data-original-width="640" src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Ted_Leo_Coachella.jpg"/> </a>
-</div>
-<p>Ted Leo and the Pharmacists bring a unique energy to indie rock with a punk edge and introspective lyrics. Here are BigBanonos' top selections in order of most recently released:</p> <ol> <li><strong>Bottled In Cork</strong> | Released: 2010-03-08</li> <li><strong>The Crane Takes Flight (Stream)</strong> | Released: 2003</li> <li><strong>Hearts of Oak (Stream)</strong> | Released: 2003</li> <li><strong>I'm a Ghost</strong> | Released: 2003</li> <li><strong>Where Have All the Rude Boys Gone (Stream)</strong> | Released: 2003</li> <li><strong>The High Party (Stream)</strong> | Released: 2003</li> <li><strong>Shake the Sheets</strong> | Released: 2004</li> <li><strong>Me and Mia</strong> | Released: 2004</li> <li><strong>Heart Problems</strong> | Released: 2004</li> <li><strong>The Angels' Share</strong> | Released: 2004</li> <li><strong>The One Who Got Us Out</strong> | Released: 2004</li> <li><strong>Counting Down the Hours</strong> | Released: 2004</li> <li><strong>Better Dead Than Lead</strong> | Released: 2004</li> <li><strong>Bleeding Powers</strong> | Released: 2004</li> <li><strong>Biomusicology</strong> | Released: 2001</li> <li><strong>Timorous Me (Stream)</strong> | Released: 2001</li>
-</ol> <div> {{< youtube "embed" >}}
+
+<p>Ted Leo and the Pharmacists bring a unique energy to indie rock with a punk edge and introspective lyrics. Here are BigBanonos top selections in order of most recently released:</p>  <div> 
 </div> <p>Explore more on <a href="https://bigbanonos.blogspot.com/">BigBanonos</a>, or check out BigBanonos on <a href="https://www.youtube.com/@BigBanonos">YouTube</a> and <a href="https://x.com/bigbanonos">Twitter</a>.</p> 
 
 <hr />

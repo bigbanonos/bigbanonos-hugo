@@ -33,7 +33,7 @@ _5 favorite songs by artists starting with K. Before 2000. One good song and out
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6lQ3uoe6jfsW4gFmArAMSt" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**K-Ci & JoJo** — Don't Rush (Take Love Slowly)
+**K-Ci & JoJo** — Dont Rush (Take Love Slowly)
 *Love Always* · 1997 · 3:13
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0ylORiB7FEq141AsFYNxBu" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

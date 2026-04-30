@@ -8,8 +8,8 @@ tags:
 ---
 
 <!-- Post Title -->
-<h1 >BigBanonos' Favorite Song by Amigos Millonarios</h1> <!-- Introductory Text -->
-<p >Updated November 22, 2017, with BigBanonos' favorite song by Amigos Millonarios, "Chiki Corazon," featured on the compilation album *San Juanitos y Coplas 1*. Watch the video and see more details below:</p> <!-- Featured Image -->
+<h1 >BigBanonos Favorite Song by Amigos Millonarios</h1> <!-- Introductory Text -->
+<p >Updated November 22, 2017, with BigBanonos favorite song by Amigos Millonarios, "Chiki Corazon," featured on the compilation album *San Juanitos y Coplas 1*. Watch the video and see more details below:</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d0000b273da87543f50233fd5354e36b4" alt="Amigos Millonarios - Chiki Corazon" />
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "21VG-C_65q8" >}}

@@ -17,7 +17,7 @@ _6 tracks between 1977 and 1983._
 ---
 
 **Psycho Killer - 2005 Remaster**
-*Talking Heads '77 (Deluxe Version)* · 1977 · 4:21
+*Talking Heads 77 (Deluxe Version)* · 1977 · 4:21
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1i6N76fftMZhijOzFQ5ZtL" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 

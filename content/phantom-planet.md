@@ -9,12 +9,12 @@ tags:
 
 <!-- Title of the Post -->
 <h1 >BigBanonos Favorite Song by Phantom Planet: "The Guest - Demo"</h1> <!-- Introductory Text -->
-<p >Updated January 1, 2002, with "The Guest - Demo" by Phantom Planet. This raw and captivating version of the title track from their *The Guest* album provides a glimpse into the band's creative process and highlights their unmistakable charm. Watch and listen below!</p> <!-- Featured Image -->
+<p >Updated January 1, 2002, with "The Guest - Demo" by Phantom Planet. This raw and captivating version of the title track from their *The Guest* album provides a glimpse into the bands creative process and highlights their unmistakable charm. Watch and listen below!</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d0000b2732363bfe35da36e0c27e0c66b" alt="Phantom Planet - The Guest (Demo)" />
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "YCSDRKoCueg" >}}
 </div> <!-- Song Information -->
-<div > <p><em>"The Guest - Demo"</em>, released in 2002 under Epic/Daylight, provides an intimate and stripped-down take on one of Phantom Planet's iconic tracks. The demo showcases the band's raw talent and ability to craft memorable, emotionally resonant music.</p>
+<div > <p><em>"The Guest - Demo"</em>, released in 2002 under Epic/Daylight, provides an intimate and stripped-down take on one of Phantom Planets iconic tracks. The demo showcases the bands raw talent and ability to craft memorable, emotionally resonant music.</p>
 </div> <!-- Footer Links -->
 <div > 
 </div> 

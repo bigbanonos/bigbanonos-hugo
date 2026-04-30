@@ -48,8 +48,8 @@ _8 tracks, 2010 to 2021._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4qd0GtDDlVH4F5n7tglnfD" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Can't Sleep**
-*Can't Sleep* · 2020 · 3:19
+**Cant Sleep**
+*Cant Sleep* · 2020 · 3:19
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5O5U6mK30xERQSJajy8AZM" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -58,7 +58,7 @@ _8 tracks, 2010 to 2021._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5n1zqeIT9OUd5pOduPPD23" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Doin' It**
+**Doin It**
 *Big Sleepover* · 2021 · 3:12
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5qLGN8Bj9U554PIZTyWaZO" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

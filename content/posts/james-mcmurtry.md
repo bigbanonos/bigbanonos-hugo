@@ -23,7 +23,7 @@ _2 tracks, all from 2015._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2jG8qg7KDYWKm9smYCXz1i" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**These Things I've Come to Know**
+**These Things Ive Come to Know**
 *Complicated Game* · 2015 · 3:18
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7DtagzEf3wZf70hAXpkdJy" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

@@ -8,13 +8,11 @@ tags:
 ---
 
 <!-- BigBanonos voice goes here.
-     - the personal connection (saw them live, friend's band, etc.)
+     - the personal connection (saw them live, friends band, etc.)
      - the cross-reference (X covered Y, was in band Z, sampled by W)
      - the hot take (peaked 2006-2019, sucks since 2001, etc.)
-     - what's missing / why these songs
+     - whats missing / why these songs
      -->
 
-<div class="separator"> <a href="https://link_to_gena_rose_bruce_image.jpg" > <img alt="Gena Rose Bruce" border="0" height="350" src="https://f4.bcbits.com/img/0031230719_10.jpg" /> </a>
-</div> <p>This <em>BigBanonos</em> selection highlights Gena Rose Bruce's soulful storytelling and folk-pop charm, bringing together six beautiful tracks.</p> <ol> <li><strong>Harsh Light</strong> " <em>January 12, 2023</em> " Album: Harsh Light | Label: Dot Dash Recordings</li> <li><strong>Foolishly In Love</strong> " <em>November 8, 2022</em> " Album: Deep Is The Way | Label: Dot Dash Recordings</li> <li><strong>Deep Is The Way (feat. Bill Callahan)</strong> " <em>November 8, 2022</em> " Album: Deep Is The Way | Label: Dot Dash Recordings</li> <li><strong>Coming Down</strong> " <em>June 28, 2019</em> " Album: Can't Make You Love Me | Label: Dot Dash Recordings</li> <li><strong>I Can't Be That Easy</strong> " <em>June 28, 2019</em> " Album: Can't Make You Love Me | Label: Dot Dash Recordings</li> <li><strong>Wild One</strong> " <em>June 28, 2019</em> " Album: Can't Make You Love Me | Label: Dot Dash Recordings</li>
-</ol> <p>Listen to the playlist on Spotify:</p>
-{{< youtube "embed" >}} <hr />
+ <p>This <em>BigBanonos</em> selection highlights Gena Rose Bruces soulful storytelling and folk-pop charm, bringing together six beautiful tracks.</p>  <p>Listen to the playlist on Spotify:</p>
+ <hr />

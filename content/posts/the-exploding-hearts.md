@@ -16,7 +16,7 @@ _6 tracks, all from 2003._
 
 ---
 
-**I'm a Pretender**
+**Im a Pretender**
 *Guitar Romantic* · 2003 · 2:31
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6kMAmPENFUcWoFSB5O93o9" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -41,7 +41,7 @@ _6 tracks, all from 2003._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/61cSpMfLH6dkwB184vTlXf" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**You're Black and Blue**
+**Youre Black and Blue**
 *Guitar Romantic* · 2003 · 2:05
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6wIc6IGvYfHL4y7IgdVNJ8" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

@@ -20,7 +20,7 @@ _2 tracks, all from 2003._
 
 ---
 
-**I've Been Riding With The Ghost**
+**Ive Been Riding With The Ghost**
 *The Magnolia Electric Co.* · 2003 · 3:20
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4LxFtYE0wiBXja7S8TFoqg" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

@@ -13,14 +13,14 @@ tags:
   - 'hyphy'
 ---
 
-## Rappin' 4-Tay
+## Rappin 4-Tay
 
 _2 tracks, 1994 to 2012._
 
 ---
 
 **Playaz Club**
-*Don't Fight The Feelin'* · 1994 · 4:26
+*Dont Fight The Feelin* · 1994 · 4:26
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4ZYM6R5nOZywxACY90Bsla" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 

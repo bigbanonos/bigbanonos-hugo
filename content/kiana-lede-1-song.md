@@ -8,6 +8,6 @@ tags:
   - '@kianalede'
 ---
 
-{{< youtube "zneiqgtWZIU" >}}<h2><ol><li>(ft. Ari Lennox) Chocolate.[2020]</li></ol></h2>
+{{< youtube "zneiqgtWZIU" >}}<h2></h2>
 
 <hr />

@@ -14,7 +14,7 @@ tags:
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "lK2zMpUfqVk" >}}
 </div> <!-- Song Information -->
-<div > <p><em>"Palmitos Park"</em>, from El Guincho's 2008 album *Alegranza*, released under Young, is a standout track in the deep Latin alternative genre. Its rich layers of sound and tropical rhythms create an immersive listening experience that transports fans to a world of musical celebration.</p>
+<div > <p><em>"Palmitos Park"</em>, from El Guinchos 2008 album *Alegranza*, released under Young, is a standout track in the deep Latin alternative genre. Its rich layers of sound and tropical rhythms create an immersive listening experience that transports fans to a world of musical celebration.</p>
 </div> <!-- Footer Links -->
 <div > 
 </div> 

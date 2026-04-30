@@ -9,7 +9,7 @@ tags:
 
 <!-- Peaches -->
 <img src="https://i.scdn.co/image/ab67616d0000b27388170b093550ed085d9f12f4" /> <p><strong>Updated October 8, 2002 with "Fuck the Pain Away" from <em>The Teaches of Peaches</em></strong></p> <p><strong>"Fuck the Pain Away"</strong> – <em>The Teaches of Peaches</em> (XL Recordings, 2002)</p>
-<p><strong>"Talk To Me"</strong> – <em>I Feel Cream</em> (XL Recordings, 2009)</p> {{< youtube "embed" >}} <p>@peaches</p> <!-- Footer -->
+<p><strong>"Talk To Me"</strong> – <em>I Feel Cream</em> (XL Recordings, 2009)</p>  <p>@peaches</p> <!-- Footer -->
  
 
 <hr />

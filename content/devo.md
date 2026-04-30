@@ -14,7 +14,7 @@ tags:
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "0b-nFSUXcuM" >}}
 </div> <!-- Song Information -->
-<div > <p><em>"Mongoloid"</em>, released as a single in 1977 and featured on Devo's 1978 debut album *Q: Are We Not Men? A: We Are Devo!*, is a standout track that blends alternative rock, synth punk, and post-punk aesthetics. Its innovative use of synthesizers and satirical lyrics cement its status as a seminal piece of new wave music.</p>
+<div > <p><em>"Mongoloid"</em>, released as a single in 1977 and featured on Devos 1978 debut album *Q: Are We Not Men? A: We Are Devo!*, is a standout track that blends alternative rock, synth punk, and post-punk aesthetics. Its innovative use of synthesizers and satirical lyrics cement its status as a seminal piece of new wave music.</p>
 </div> <!-- Footer Links -->
 <div > 
 </div> 

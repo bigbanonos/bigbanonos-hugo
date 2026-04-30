@@ -28,7 +28,7 @@ _11 tracks between 2018 and 2025._
 
 ---
 
-**Don't Come Out The House (with 21 Savage)** (feat. Metro Boomin;21 Savage)
+**Dont Come Out The House (with 21 Savage)** (feat. Metro Boomin;21 Savage)
 *NOT ALL HEROES WEAR CAPES (Deluxe)* · 2018 · 2:48
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2Grb4G6t9VIqo6moKUloom" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -38,7 +38,7 @@ _11 tracks between 2018 and 2025._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7Ap7Fpqnh2BUQBQxbLEC9I" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Creepin' (with The Weeknd & 21 Savage)** (feat. Metro Boomin;The Weeknd;21 Savage)
+**Creepin (with The Weeknd & 21 Savage)** (feat. Metro Boomin;The Weeknd;21 Savage)
 *HEROES & VILLAINS* · 2022 · 3:41
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/64BuLY7ggczC17w5LSUlSE" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

@@ -7,5 +7,5 @@ tags:
   - '@howsyournews'
 ---
 
-<div> <h2>How's Your News</h2> {{< youtube "embed" >}} <p><strong>BigBanonos' favorite tracks by How's Your News:</strong></p> <p><strong>"How's Your News"</strong> – *How's Your News (Music Written for and Inspired by the Movie)* (2008) | Nettwerk Music Group</p> <p><strong>"N.E.W.Y.O.R.K."</strong> – *How's Your News (Music Written for and Inspired by the Movie)* (2008) | Nettwerk Music Group</p>
+<div> <h2>Hows Your News</h2>  <p><strong>BigBanonos favorite tracks by Hows Your News:</strong></p> <p><strong>"Hows Your News"</strong> – *Hows Your News (Music Written for and Inspired by the Movie)* (2008) | Nettwerk Music Group</p> <p><strong>"N.E.W.Y.O.R.K."</strong> – *Hows Your News (Music Written for and Inspired by the Movie)* (2008) | Nettwerk Music Group</p>
 </div>  <hr />

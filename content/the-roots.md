@@ -15,7 +15,7 @@ tags:
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "ojC0mg2hJCc" >}}
 </div> <!-- Song Information -->
-<div > <p><em>"The Seed (2.0)"</em> is a standout track from *Phrenology*, showcasing The Roots' unique ability to blend conscious hip hop with various genres. The track's lyrical depth combined with the infectious rhythm makes it one of their most beloved songs.</p>
+<div > <p><em>"The Seed (2.0)"</em> is a standout track from *Phrenology*, showcasing The Roots unique ability to blend conscious hip hop with various genres. The tracks lyrical depth combined with the infectious rhythm makes it one of their most beloved songs.</p>
 </div> <!-- Footer Links -->
 <div > 
 </div> 

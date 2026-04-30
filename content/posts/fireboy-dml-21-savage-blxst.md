@@ -30,7 +30,7 @@ _3 tracks, all from 2022._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2qWwuCVeMjF9mUT0S5Iqvl" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Havin' Fun** (feat. Fireboy DML)
+**Havin Fun** (feat. Fireboy DML)
 *Playboy* · 2022 · 2:57
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4LIOLPc0q8VHa5w7MwvEgI" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

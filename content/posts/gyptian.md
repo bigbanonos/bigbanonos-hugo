@@ -41,8 +41,8 @@ _11 tracks, 2010 to 2026._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/69gksUyAKHIkhlaCOrevY0" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Didn't I**
-*Didn't I* · 2018 · 3:12
+**Didnt I**
+*Didnt I* · 2018 · 3:12
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6LkeDARVpDDxNsJFtXXUvw" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 

@@ -11,6 +11,6 @@ tags:
 {{< youtube "yPCajqLdEyc" >}}
 <br />
 Cardiac Arrest 2006 <br />
-WhatÃƒâ€šÃ‚´s That Sound 2006
+WhatÃƒâ€šÃ‚s That Sound 2006
 
 <hr />

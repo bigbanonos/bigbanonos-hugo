@@ -43,7 +43,7 @@ _14 tracks spanning 1967 to 2014. 47 years of trying._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/48PaX3a1a6l8z4UD4DNrW6" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**That's The Story Of My Life**
+**Thats The Story Of My Life**
 *The Velvet Underground* · 1969 · 2:04
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7bLIGa7g3pLQnxjBwJdN76" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -63,7 +63,7 @@ _14 tracks spanning 1967 to 2014. 47 years of trying._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1rJi8cf8OWsrX4CqBnMSoQ" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**I Can't Stand It**
+**I Cant Stand It**
 *VU* · 1985 · 3:21
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2U7ZghsBnEc4BYTGbZor4L" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

@@ -35,7 +35,7 @@ _6 tracks between 2014 and 2021._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0AxElRZ4ggNSviTSdIgbnm" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**It's Okay** (feat. LION BABE;OSHUN)
+**Its Okay** (feat. LION BABE;OSHUN)
 *Rainbow Child* · 2021 · 2:16
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5xewoPxEFsc2cc9hxJmlEo" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

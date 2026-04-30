@@ -28,7 +28,7 @@ _3 tracks, all from 2024._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1QpJXozmWx1foS6GsIp3fA" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Survive The Night** (feat. Shenseea;Chris Rivers;Nas;Cam'ron;Ghostface Killah;RZA;Busta Rhymes)
+**Survive The Night** (feat. Shenseea;Chris Rivers;Nas;Camron;Ghostface Killah;RZA;Busta Rhymes)
 *Warriors* · 2024 · 4:16
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/25YJpVrQBDAh6Zu8frDwgp" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

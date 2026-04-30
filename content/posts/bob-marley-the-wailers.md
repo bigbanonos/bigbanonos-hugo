@@ -58,7 +58,7 @@ _47 tracks spanning 1971 to 2022. 51 years of trying._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2Ezmm08Oy4772SkEoC18Kt" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**So Jah S'eh**
+**So Jah Seh**
 *Natty Dread* · 1974 · 4:28
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7IlIYk9v4YKWqwwXU5IVrn" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -68,7 +68,7 @@ _47 tracks spanning 1971 to 2022. 51 years of trying._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2fvi4GCSJn9XYdYrLGLX5f" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Talkin' Blues**
+**Talkin Blues**
 *Natty Dread* · 1974 · 4:06
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7KrAiHN2sPEUdOpTGWIqtU" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -113,7 +113,7 @@ _47 tracks spanning 1971 to 2022. 51 years of trying._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6JRLFiX9NJSoRRKxowlBYr" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**She's Gone**
+**Shes Gone**
 *Kaya* · 1978 · 2:25
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6MFWhzNSsLdW3WtsuBZsOg" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -128,7 +128,7 @@ _47 tracks spanning 1971 to 2022. 51 years of trying._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5ApfJDLibIoWL0mRZ5uOKu" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Top Rankin'**
+**Top Rankin**
 *Survival* · 1979 · 3:11
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0uMvm0efKsaADso8NO7pk1" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -163,7 +163,7 @@ _47 tracks spanning 1971 to 2022. 51 years of trying._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6d4B82vt7pjdzumBmV6HiZ" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Pimper's Paradise**
+**Pimpers Paradise**
 *Uprising* · 1980 · 3:27
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5JqCmd41S3PZ2AS6GuHqcR" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -243,8 +243,8 @@ _47 tracks spanning 1971 to 2022. 51 years of trying._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/12zVGzp6yKEgJ86HnPyMZV" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**She's Gone - Kaya 40 Mix** (feat. Bob Marley & The Wailers;Stephen Marley)
-*She's Gone (Kaya 40 Mix)* · 2018 · 3:45
+**Shes Gone - Kaya 40 Mix** (feat. Bob Marley & The Wailers;Stephen Marley)
+*Shes Gone (Kaya 40 Mix)* · 2018 · 3:45
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5Lk437ZwLWtdeBxwQ1zfES" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 

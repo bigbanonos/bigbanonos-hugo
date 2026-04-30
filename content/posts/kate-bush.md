@@ -79,7 +79,7 @@ _22 tracks from 1978 to 2016. The peak is in there somewhere._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/373vZ0g1dpWaUcrbh0WKhd" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**This Woman's Work - 2018 Remaster**
+**This Womans Work - 2018 Remaster**
 *The Sensual World (2018 Remaster)* · 1989 · 3:36
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7ijKen7rccf56qOMGkS22e" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -94,7 +94,7 @@ _22 tracks from 1978 to 2016. The peak is in there somewhere._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0mSlIYcoL8B8igNG8XVKAi" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**You're The One - 2018 Remaster**
+**Youre The One - 2018 Remaster**
 *The Red Shoes (2018 Remaster)* · 1993 · 5:51
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7L1OOk8J8gMywWfStouSwh" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

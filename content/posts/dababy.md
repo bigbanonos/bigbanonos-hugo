@@ -25,7 +25,7 @@ _18 tracks spanning 1985 to 2026. 41 years of trying._
 ---
 
 **Silly Girl** (feat. Descendents)
-*I Don't Want to Grow Up* · 1985 · 2:25
+*I Dont Want to Grow Up* · 1985 · 2:25
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1o0cObpbURSTFEoXSgmL6a" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -79,12 +79,12 @@ _18 tracks spanning 1985 to 2026. 41 years of trying._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7gDBTPpsYhVi93lvhVTJWZ" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**THAT'S WHY I CREEP**
+**THATS WHY I CREEP**
 *Baby On Baby 2* · 2022 · 3:19
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3bl0IUf9Yd9LEfLsIQyovA" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Can't Keep Keisha**
+**Cant Keep Keisha**
 *HOW TF IS THIS A MIXTAPE?* · 2024 · 2:21
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3MQs1qC3LWlHHBdQWRT2f4" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

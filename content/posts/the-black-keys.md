@@ -18,7 +18,7 @@ _10 tracks, 2002 to 2019._
 
 ---
 
-**I'll Be Your Man**
+**Ill Be Your Man**
 *The Big Come Up* · 2002 · 2:20
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7ve0nLuGlLfqw0EbL2UZEV" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -64,6 +64,6 @@ _10 tracks, 2002 to 2019._
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4KVYCdoWmDa4KS1OY6sgMa" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **Walk Across The Water**
-*"Let's Rock"* · 2019 · 3:55
+*"Lets Rock"* · 2019 · 3:55
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5AEyKKiz6YPTLR7EDFLqMS" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

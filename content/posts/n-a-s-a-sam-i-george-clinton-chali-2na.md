@@ -17,7 +17,7 @@ _2 tracks, all from 2020._
 
 ---
 
-**There's a Party**
+**Theres a Party**
 *The Spirit of Apollo (10th Anniversary Special Edition)* · 2020 · 4:07
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/64RpVAte752R7t11gtdviP" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

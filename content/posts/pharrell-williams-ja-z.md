@@ -27,7 +27,7 @@ _5 tracks from 2002 to 2022. The peak is in there somewhere._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7FrJV8tydWEv1Mxu2mIQrm" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Frontin' (feat. JAY-Z) - Club Mix**
+**Frontin (feat. JAY-Z) - Club Mix**
 *The Neptunes Present... Clones* · 2003 · 3:56
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0iFOG4Ki9aDmJUYUFHQlPG" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

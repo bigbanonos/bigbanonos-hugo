@@ -31,8 +31,8 @@ _10 tracks between 2019 and 2023._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4yqUwc3anK2zx40o5hMAJy" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**So Hot You're Hurting My Feelings**
-*So Hot You're Hurting My Feelings* · 2019 · 3:03
+**So Hot Youre Hurting My Feelings**
+*So Hot Youre Hurting My Feelings* · 2019 · 3:03
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1hjQ3EARnSDznlLaXaWAhf" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 

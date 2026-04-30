@@ -7,10 +7,9 @@ tags:
   - '@florist'
 ---
 
-<h3><em>BigBanonos</em> Favorite Songs by Florist:</h3> <p>Updated on July 29, 2022, with the track "Red Bird Pt. 2 (Morning)." <em>BigBanonos</em> highlights Florist's most loved songs, blending the delicate sound of countrygaze and small room vibes.</p> <!--Image-->
-<div class="separator"> <a href="https://media.npr.org/assets/img/2022/07/19/florist-by-carl-solether-2_wide-1138015362b1af7b62047a931c547f549e1faaed.jpg?s=1100&c=85&f=jpeg" > <img alt="Florist" src="https://media.npr.org/assets/img/2022/07/19/florist-by-carl-solether-2_wide-1138015362b1af7b62047a931c547f549e1faaed.jpg?s=1100&c=85&f=jpeg" /> </a>
-</div> <!--Spotify Playlist Embed-->
-{{< youtube "embed" >}} <!--Song Listings-->
-<ol> <li><strong>Red Bird Pt. 2 (Morning)</strong> " <em>Florist</em> " July 29, 2022</li> <li><strong>Spring in Hours</strong> " <em>Florist</em> " July 29, 2022</li> <li><strong>43</strong> " <em>Florist</em> " July 29, 2022</li> <li><strong>River's Bed</strong> " <em>Florist</em> " July 29, 2022</li> <li><strong>Sci-fi Silence</strong> " <em>Florist</em> " July 29, 2022</li> <li><strong>Time Is A Dark Feeling</strong> " <em>Emily Alone</em> " July 26, 2019</li></ol>
+<h3><em>BigBanonos</em> Favorite Songs by Florist:</h3> <p>Updated on July 29, 2022, with the track "Red Bird Pt. 2 (Morning)." <em>BigBanonos</em> highlights Florists most loved songs, blending the delicate sound of countrygaze and small room vibes.</p> <!--Image-->
+ <!--Spotify Playlist Embed-->
+ <!--Song Listings-->
+
 {{< youtube "videoseries" >}}
 <hr />

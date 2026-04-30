@@ -49,7 +49,7 @@ _26 tracks between 2019 and 2025._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0atP61VWxEMiIK1Y59lWOI" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Level Up (Twice As Tall) [feat. Youssou N'Dour]** (feat. Burna Boy;Youssou N'Dour)
+**Level Up (Twice As Tall) [feat. Youssou NDour]** (feat. Burna Boy;Youssou NDour)
 *Twice As Tall* · 2020 · 4:28
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1djCgiQcqe5JnZS61KYNpD" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -124,7 +124,7 @@ _26 tracks between 2019 and 2025._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3A17uQFJab0NDpyIeZAavF" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Sittin' On Top Of The World (feat. 21 Savage)** (feat. Burna Boy;21 Savage)
+**Sittin On Top Of The World (feat. 21 Savage)** (feat. Burna Boy;21 Savage)
 *I Told Them...* · 2023 · 3:08
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0TIYRdf5622SXVPEDvawPy" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

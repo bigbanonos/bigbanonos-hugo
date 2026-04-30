@@ -29,7 +29,7 @@ _4 tracks, 1992 to 2006._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5E6bjaFJZszZHSphdOPHpE" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Effigy (I'm Not An)**
+**Effigy (Im Not An)**
 *With Sympathy* · 2006 · 3:51
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4V6KKSNh9d9DUZ0UyPdG3z" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

@@ -25,7 +25,7 @@ _9 tracks from 1995 to 2025. The peak is in there somewhere._
 
 ---
 
-**Fantasy (feat. O.D.B.)** (feat. Mariah Carey;Ol' Dirty Bastard)
+**Fantasy (feat. O.D.B.)** (feat. Mariah Carey;Ol Dirty Bastard)
 *Fantasy EP* · 1995 · 4:52
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7vALSxOYKr0Z3rrATvvb9d" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

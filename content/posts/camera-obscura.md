@@ -17,12 +17,12 @@ _3 tracks between 2006 and 2009._
 ---
 
 **I Need All The Friends I Can Get**
-*Let's Get Out Of This Country* · 2006 · 3:18
+*Lets Get Out Of This Country* · 2006 · 3:18
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/76aTYy3yLK2214NOQo4AeH" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **If Looks Could Kill**
-*Let's Get Out Of This Country* · 2006 · 3:29
+*Lets Get Out Of This Country* · 2006 · 3:29
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1R3iCFdkpUvP64AR0jKKPm" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 

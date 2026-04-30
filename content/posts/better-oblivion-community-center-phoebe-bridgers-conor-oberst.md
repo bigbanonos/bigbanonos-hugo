@@ -34,7 +34,7 @@ _20 tracks from 1988 to 2020. The peak is in there somewhere._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6qcCyYolb7SH21nWfJqONT" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Where's Teddy** (feat. Dan Potthast)
+**Wheres Teddy** (feat. Dan Potthast)
 *Eyeballs* · 1999 · 2:13
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0D9vTSV4cix8zgyWJKfYtx" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -50,12 +50,12 @@ _20 tracks from 1988 to 2020. The peak is in there somewhere._
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5vemZePnaTvhYExZBmquk5" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **Moon Watching** (feat. Shin Joong Hyun)
-*Beautiful Rivers and Mountains: The Psychedelic Rock Sound of South Korea's Shin Joong Hyun 1958-1974* · 2011 · 2:36
+*Beautiful Rivers and Mountains: The Psychedelic Rock Sound of South Koreas Shin Joong Hyun 1958-1974* · 2011 · 2:36
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0p7rBqUbdeJydjBkkHwGCN" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **The Sun** (feat. Kim Jung Mi)
-*Beautiful Rivers and Mountains: The Psychedelic Rock Sound of South Korea's Shin Joong Hyun 1958-1974* · 2011 · 6:51
+*Beautiful Rivers and Mountains: The Psychedelic Rock Sound of South Koreas Shin Joong Hyun 1958-1974* · 2011 · 6:51
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0RiwjhzME58w763VqHMFyt" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -69,7 +69,7 @@ _20 tracks from 1988 to 2020. The peak is in there somewhere._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5tHSY6tZR411ZTOTh2g2ks" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**L'amour fou** (feat. Grand Blanc)
+**Lamour fou** (feat. Grand Blanc)
 *Mémoires vives* · 2016 · 4:53
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4JvGQUcFf17aDeJJuNAiZf" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

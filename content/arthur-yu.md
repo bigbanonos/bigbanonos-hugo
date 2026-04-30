@@ -14,7 +14,7 @@ tags:
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "5dz9Sk3pf7s" >}}
 </div> <!-- Song Information -->
-<div > <p><em>"There Are Too Many Birds"</em>, from Arthur & Yu's 2007 album *In Camera*, is a standout track that captures the essence of their serene and nostalgic sound. Its lush arrangement and introspective lyrics make it a favorite for fans of atmospheric indie music.</p>
+<div > <p><em>"There Are Too Many Birds"</em>, from Arthur & Yus 2007 album *In Camera*, is a standout track that captures the essence of their serene and nostalgic sound. Its lush arrangement and introspective lyrics make it a favorite for fans of atmospheric indie music.</p>
 </div> <!-- Footer Links -->
 <div > 
 </div> 

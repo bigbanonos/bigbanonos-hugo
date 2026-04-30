@@ -32,7 +32,7 @@ _5 tracks, 2010 to 2023._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6LpTAMYoNwFWzSEZGJ6DVy" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Goin' away**
+**Goin away**
 *My Dearest Darkest Neighbor* · 2013 · 2:19
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4YO1Mqn0KuGXEAAddS0IkU" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

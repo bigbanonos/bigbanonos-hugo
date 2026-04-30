@@ -27,7 +27,7 @@ _14 tracks between 2011 and 2019._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5XzN5lxp4L13c00rIKwtJU" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**You're Not Good Enough**
+**Youre Not Good Enough**
 *Cupid Deluxe* · 2013 · 4:21
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0RKyHBWCOMNQRe3OweFySU" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -88,6 +88,6 @@ _14 tracks between 2011 and 2019._
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1sFqfjMzxrwyvhL8785yUL" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **Tuesday Feeling (Choose To Stay)** (feat. Blood Orange;Tinashe)
-*Angel's Pulse* · 2019 · 2:57
+*Angels Pulse* · 2019 · 2:57
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/22EW5ouRV8EVvmSsEQaLXD" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

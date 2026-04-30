@@ -20,7 +20,7 @@ _3 tracks, 1991 to 2002._
 ---
 
 **Mind Playing Tricks on Me**
-*We Can't Be Stopped* · 1991 · 5:08
+*We Cant Be Stopped* · 1991 · 5:08
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/63BokRfXSQhEU6Qi2dSJpZ" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 

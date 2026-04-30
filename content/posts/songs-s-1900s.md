@@ -19,12 +19,12 @@ description: "44 tracks — S artists, 1900s–1990s"
 </div>
 
 <div class="track-embed">
-  <p><strong>Couldn't You Wait?</strong> — Silkworm</p>
+  <p><strong>Couldnt You Wait?</strong> — Silkworm</p>
   <iframe src="https://open.spotify.com/embed/track/5mRREOmRGxqyM1JI3syE9k?utm_source=generator" width="100%" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 </div>
 
 <div class="track-embed">
-  <p><strong>Nothing Compares 2 U</strong> — Sinéad O'Connor</p>
+  <p><strong>Nothing Compares 2 U</strong> — Sinéad OConnor</p>
   <iframe src="https://open.spotify.com/embed/track/3nvuPQTw2zuFAVuLsC9IYQ?utm_source=generator" width="100%" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 </div>
 
@@ -39,7 +39,7 @@ description: "44 tracks — S artists, 1900s–1990s"
 </div>
 
 <div class="track-embed">
-  <p><strong>You're the One</strong> — SWV</p>
+  <p><strong>Youre the One</strong> — SWV</p>
   <iframe src="https://open.spotify.com/embed/track/67ZorjDM25q7bETfLbHdfS?utm_source=generator" width="100%" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 </div>
 
@@ -84,7 +84,7 @@ description: "44 tracks — S artists, 1900s–1990s"
 </div>
 
 <div class="track-embed">
-  <p><strong>Nothing Compares 2 U</strong> — Sinéad O'Connor</p>
+  <p><strong>Nothing Compares 2 U</strong> — Sinéad OConnor</p>
   <iframe src="https://open.spotify.com/embed/track/5GHY1DFWKz3Prg2V0Iodqo?utm_source=generator" width="100%" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 </div>
 
@@ -114,7 +114,7 @@ description: "44 tracks — S artists, 1900s–1990s"
 </div>
 
 <div class="track-embed">
-  <p><strong>I Can't Escape Myself</strong> — The Sound</p>
+  <p><strong>I Cant Escape Myself</strong> — The Sound</p>
   <iframe src="https://open.spotify.com/embed/track/509HA9Eo90mwvh21AjOMq9?utm_source=generator" width="100%" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 </div>
 
@@ -129,7 +129,7 @@ description: "44 tracks — S artists, 1900s–1990s"
 </div>
 
 <div class="track-embed">
-  <p><strong>Tom's Diner</strong> — Suzanne Vega</p>
+  <p><strong>Toms Diner</strong> — Suzanne Vega</p>
   <iframe src="https://open.spotify.com/embed/track/6OKUhXuJMvoVPde9fMJJzy?utm_source=generator" width="100%" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 </div>
 
@@ -164,7 +164,7 @@ description: "44 tracks — S artists, 1900s–1990s"
 </div>
 
 <div class="track-embed">
-  <p><strong>It's A Beautiful Morning</strong> — Shawn Phillips</p>
+  <p><strong>Its A Beautiful Morning</strong> — Shawn Phillips</p>
   <iframe src="https://open.spotify.com/embed/track/6HL4f0xsa3430enXa6Hevz?utm_source=generator" width="100%" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 </div>
 
@@ -224,6 +224,6 @@ description: "44 tracks — S artists, 1900s–1990s"
 </div>
 
 <div class="track-embed">
-  <p><strong>I Can't Wait</strong> — Sanchez</p>
+  <p><strong>I Cant Wait</strong> — Sanchez</p>
   <iframe src="https://open.spotify.com/embed/track/0lmEx9HcHVUbYGMHiWePXN?utm_source=generator" width="100%" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 </div>

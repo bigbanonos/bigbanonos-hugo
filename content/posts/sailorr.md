@@ -7,7 +7,7 @@ tags:
   - '@sailorr'
 ---
 
-**COCONUT (feat. Eem Triplin)** — *FROM FLORIDA'S FINEST* (2025)
+**COCONUT (feat. Eem Triplin)** — *FROM FLORIDAS FINEST* (2025)
 
 {{< youtube id="TG1Vt7Czs8g" >}}
 

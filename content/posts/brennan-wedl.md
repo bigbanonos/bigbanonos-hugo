@@ -8,7 +8,7 @@ tags:
   - '@waxahatchee'
 ---
 
-**Six O'Clock News** feat. Waxahatchee — (2026)
+**Six OClock News** feat. Waxahatchee — (2026)
 
 {{< youtube id="yrcJWzjZhYQ" >}}
 

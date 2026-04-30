@@ -8,7 +8,7 @@ tags:
   - '@stutterhouse'
 ---
 
-Stutter house — yes that's a genre apparently, and Memphis LK is doing it right.
+Stutter house — yes thats a genre apparently, and Memphis LK is doing it right.
 
 **Some Kinda Heaven** — *Some Kinda Heaven* (2026)
 

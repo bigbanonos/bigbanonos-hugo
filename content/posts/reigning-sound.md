@@ -26,7 +26,7 @@ _19 tracks between 2002 and 2011._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2i1xvAxSjBATmM0eTC3znH" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**You're Not as Pretty**
+**Youre Not as Pretty**
 *Time Bomb High School* · 2002 · 2:55
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5Lm4DtTA843JaTPaNippkO" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -41,7 +41,7 @@ _19 tracks between 2002 and 2011._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/59ByD6A4FbOq7FBd1BtOW7" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**She's Bored with You**
+**Shes Bored with You**
 *Time Bomb High School* · 2002 · 2:11
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0AtuOsn60wirRSzJNyToHY" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -51,12 +51,12 @@ _19 tracks between 2002 and 2011._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1AAhDq43RUBRWLBpHMeL95" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**I'd Much Rather Be with the Boys**
+**Id Much Rather Be with the Boys**
 *Time Bomb High School* · 2002 · 2:17
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/63a9I1afmnFnq16RDfMzwH" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**You're So Strange**
+**Youre So Strange**
 *Time Bomb High School* · 2002 · 3:11
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5VH1VVUdUP2fqiHxNYCefM" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -71,7 +71,7 @@ _19 tracks between 2002 and 2011._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0YWfj97wgBBKdH2emkwy8k" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**If You Can't Give Me Everything**
+**If You Cant Give Me Everything**
 *Too Much Guitar* · 2004 · 2:41
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6l3J90D51QK2GQUmWFU0LJ" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -101,7 +101,7 @@ _19 tracks between 2002 and 2011._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4iEW9hxfZXgPy4crHMblaI" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Don't Send Me No Flowers, I Ain't Dead Yet - Live**
+**Dont Send Me No Flowers, I Aint Dead Yet - Live**
 *Home for Orphans* · 2005 · 2:29
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7M3KMeRgrq2Fuk1oWX04Wp" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

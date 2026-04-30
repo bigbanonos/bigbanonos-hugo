@@ -31,7 +31,7 @@ _4 tracks, 1984 to 1996._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4is3oF4FlWmedh3TK6Ke7z" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Amish Paradise (Parody of "Gangsta's Paradise" by Coolio)**
+**Amish Paradise (Parody of "Gangstas Paradise" by Coolio)**
 *Bad Hair Day* · 1996 · 3:22
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5r96TaQquRrlo3Ym3ZlSL2" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

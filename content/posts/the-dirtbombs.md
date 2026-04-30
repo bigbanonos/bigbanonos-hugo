@@ -17,7 +17,7 @@ _7 tracks, 1998 to 2013._
 
 ---
 
-**I Can't Stop Thinking About It**
+**I Cant Stop Thinking About It**
 *Horndog Fest* · 1998 · 3:03
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6sy3IAvhOXtXrARDBEcIPJ" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -27,7 +27,7 @@ _7 tracks, 1998 to 2013._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/10CzIyOWd75NDoVfJ1myca" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Livin' for the City**
+**Livin for the City**
 *Ultraglide In Black* · 2001 · 3:07
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7vBJtmISAE54x2xmVFi12y" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

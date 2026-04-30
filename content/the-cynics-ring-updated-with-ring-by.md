@@ -14,7 +14,7 @@ tags:
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "QgmxWk6wqlw" >}}
 </div> <!-- Song Information -->
-<div > <p><em>"The Ring"</em> was released as part of *Here We Are* on November 6, 2007. The track showcases The Cynics' mastery of garage rock, combining energetic riffs and raw vocals with a punk blues twist that defines their sound.</p>
+<div > <p><em>"The Ring"</em> was released as part of *Here We Are* on November 6, 2007. The track showcases The Cynics mastery of garage rock, combining energetic riffs and raw vocals with a punk blues twist that defines their sound.</p>
 </div> <!-- Footer Links -->
 <div > 
 </div> 

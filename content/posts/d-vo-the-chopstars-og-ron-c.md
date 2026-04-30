@@ -8,7 +8,7 @@ tags:
   - '2020s'
 ---
 
-## D'Vo;The Chopstars;OG Ron C
+## DVo;The Chopstars;OG Ron C
 
 _2 tracks, all from 2023._
 

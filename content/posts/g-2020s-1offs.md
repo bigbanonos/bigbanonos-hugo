@@ -14,12 +14,12 @@ tags:
 
 ## G · 2020s 1-offs
 
-_16 favorite songs by artists starting with G. Current shit. The 2% that's good._
+_16 favorite songs by artists starting with G. Current shit. The 2% thats good._
 
 ---
 
 **Gil Scott-Heron;Makaya McCraven** — Where Did the Night Go
-*We're New Again - A Reimagining by Makaya McCraven* · 2020 · 2:37
+*Were New Again - A Reimagining by Makaya McCraven* · 2020 · 2:37
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/69lWznHbSlGRz7ZpW48rVt" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -29,7 +29,7 @@ _16 favorite songs by artists starting with G. Current shit. The 2% that's good.
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3adddSwFCDcRzQdL2O15Et" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **glaive;ericdoa** — handle me
-*then i'll be happy* · 2021 · 2:13
+*then ill be happy* · 2021 · 2:13
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7c4CjosJkEQKk83B1v0gfs" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 

@@ -36,11 +36,11 @@ _14 tracks spanning 1968 to 2025. 57 years of trying._
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3J4krWOV6J3mE6tNYiaqn2" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **Lucy Was In Trouble** (feat. Wet Willie)
-*Keep On Smilin'* · 1974 · 3:40
+*Keep On Smilin* · 1974 · 3:40
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6Mq4JbSiA4rb0kywSk5AoQ" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Nobody's Diary** (feat. Yazoo)
+**Nobodys Diary** (feat. Yazoo)
 *Only Yazoo - The Best Of* · 1999 · 4:31
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0DCJUyPArbtLcJlRhjCew9" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -50,7 +50,7 @@ _14 tracks spanning 1968 to 2025. 57 years of trying._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1CL63PSu1KiA1xf1dEPqrL" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Playaz Club 2011 Remix - [Another Carjack]** (feat. Wyclef Jean;Rappin' 4-Tay)
+**Playaz Club 2011 Remix - [Another Carjack]** (feat. Wyclef Jean;Rappin 4-Tay)
 *Playaz Club 2011 Remix [Another Carjack] (feat. Wyclef Jean) - Single* · 2011 · 4:00
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2Jyj6WLSWtcREvbGYKSPPN" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -65,7 +65,7 @@ _14 tracks spanning 1968 to 2025. 57 years of trying._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0zrK5pcePHSPGvKr34DbxV" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**I'm Not Daddy**
+**Im Not Daddy**
 *Big Brain Man* · 2020 · 3:26
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1j8w4X9aIP06DxTm3rVSe6" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -81,11 +81,11 @@ _14 tracks spanning 1968 to 2025. 57 years of trying._
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/759ndr57jb0URg4j9YSWml" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **Women Without Whiskey (Drive-By Truckers)** (feat. Wednesday)
-*Mowing the Leaves Instead of Piling 'em Up* · 2022 · 4:40
+*Mowing the Leaves Instead of Piling em Up* · 2022 · 4:40
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0PdyVtG25TlaRuOn4eZcDU" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**CAN'T GET OVER YOU (feat. Smino & Teezo Touchdown)** (feat. WESTSIDE BOOGIE;Smino;Teezo Touchdown)
+**CANT GET OVER YOU (feat. Smino & Teezo Touchdown)** (feat. WESTSIDE BOOGIE;Smino;Teezo Touchdown)
 *MORE BLACK SUPERHEROES* · 2022 · 3:16
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0u0Wg5JO7Aza12fQJMIZ6Q" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

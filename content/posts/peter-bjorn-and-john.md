@@ -26,17 +26,17 @@ _7 tracks between 2004 and 2009._
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7qjVicjfiFr7X9ZRslPXuY" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **Paris 2004**
-*Writer's Block* · 2006 · 3:51
+*Writers Block* · 2006 · 3:51
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6ZTugqqwUAtGc6paIOkDF4" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **Up Against The Wall**
-*Writer's Block* · 2006 · 7:03
+*Writers Block* · 2006 · 7:03
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5mDhD2P7Gv8Y6PjhsYHocx" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **Young Folks**
-*Writer's Block* · 2006 · 4:36
+*Writers Block* · 2006 · 4:36
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4dyx5SzxPPaD8xQIid5Wjj" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 

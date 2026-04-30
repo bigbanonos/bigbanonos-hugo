@@ -14,7 +14,7 @@ tags:
 
 ## K · 2020s 1-offs
 
-_19 favorite songs by artists starting with K. Current shit. The 2% that's good._
+_19 favorite songs by artists starting with K. Current shit. The 2% thats good._
 
 ---
 
@@ -68,8 +68,8 @@ _19 favorite songs by artists starting with K. Current shit. The 2% that's good.
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4DrUFg8VvQKwzdUL0cGiVe" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**King Combs;Kodak Black** — Can't Stop Won't Stop (feat. Kodak Black)
-*Can't Stop Won't Stop (feat. Kodak Black)* · 2022 · 2:38
+**King Combs;Kodak Black** — Cant Stop Wont Stop (feat. Kodak Black)
+*Cant Stop Wont Stop (feat. Kodak Black)* · 2022 · 2:38
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4L1zI1GJxi0Qq38aSYmsS0" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -83,8 +83,8 @@ _19 favorite songs by artists starting with K. Current shit. The 2% that's good.
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0nz7OgtjAOEyU06uP7xSjm" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Kari Faux;Big K.R.I.T.** — TURNIN' HEADS
-*TURNIN' HEADS* · 2023 · 2:56
+**Kari Faux;Big K.R.I.T.** — TURNIN HEADS
+*TURNIN HEADS* · 2023 · 2:56
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3MT8ekypV5xYBLstqFpDkV" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 

@@ -79,7 +79,7 @@ description: "27 tracks — R artists, 2000s–2010s"
 </div>
 
 <div class="track-embed">
-  <p><strong>It's Gonna Rain</strong> — Rev. Milton Brunson;The Thompson Community Singers</p>
+  <p><strong>Its Gonna Rain</strong> — Rev. Milton Brunson;The Thompson Community Singers</p>
   <iframe src="https://open.spotify.com/embed/track/7fTZUgO8MO7m1w11RsGyVG?utm_source=generator" width="100%" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 </div>
 
@@ -109,7 +109,7 @@ description: "27 tracks — R artists, 2000s–2010s"
 </div>
 
 <div class="track-embed">
-  <p><strong>Quasimodo's Dream</strong> — The Reels</p>
+  <p><strong>Quasimodos Dream</strong> — The Reels</p>
   <iframe src="https://open.spotify.com/embed/track/4fxWwbEvnaNPNBCtLo4YIE?utm_source=generator" width="100%" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 </div>
 
@@ -129,7 +129,7 @@ description: "27 tracks — R artists, 2000s–2010s"
 </div>
 
 <div class="track-embed">
-  <p><strong>I'm Shakin'</strong> — Rooney</p>
+  <p><strong>Im Shakin</strong> — Rooney</p>
   <iframe src="https://open.spotify.com/embed/track/6pfdB0WcH6y22C3enLfFrq?utm_source=generator" width="100%" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 </div>
 

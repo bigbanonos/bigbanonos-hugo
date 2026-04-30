@@ -19,12 +19,12 @@ _2 tracks between 2004 and 2007._
 
 ---
 
-**That's the Way Love Goes**
+**Thats the Way Love Goes**
 *The Essential Merle Haggard: The Epic Years* · 2004 · 3:01
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/29ZJSsfmcSJcShl44iXuP1" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **If We Make It Through December** (feat. Merle Haggard & The Strangers)
-*Hag's Christmas* · 2007 · 2:43
+*Hags Christmas* · 2007 · 2:43
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4sTlOOWxFx5dR7SZmi7S79" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

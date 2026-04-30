@@ -26,7 +26,7 @@ _7 tracks, 2004 to 2021._
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4kAgnAL4WKx7YqnlL2fvMh" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **When You Were Young**
-*Sam's Town* · 2006 · 3:40
+*Sams Town* · 2006 · 3:40
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/70wYA8oYHoMzhRRkARoMhU" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -40,7 +40,7 @@ _7 tracks, 2004 to 2021._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3QdDSXlaNfqKM0G7UMix1k" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**C'est La Vie**
+**Cest La Vie**
 *Imploding The Mirage (Deluxe)* · 2021 · 3:05
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1oyYDQSd9QL06uwYw5F6vx" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

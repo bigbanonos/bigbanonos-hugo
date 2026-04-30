@@ -8,13 +8,13 @@ tags:
 ---
 
 <!-- Title of the Post -->
-<h1 >BigBanonos' Favorite Songs by Viagra Boys</h1> <!-- Featured Image -->
+<h1 >BigBanonos Favorite Songs by Viagra Boys</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/SXSW_2019_-_Viagra_Boys_%2847437549961%29.jpg/1200px-SXSW_2019_-_Viagra_Boys_%2847437549961%29.jpg" alt="Viagra Boys" >}}
 </div> <!-- Spotify Embed -->
-<div > {{< youtube "embed" >}}
+<div > 
 </div> <!-- Introductory Text -->
-<p >Viagra Boys deliver a high-energy blend of crank wave and Stockholm indie. From their raw debut *Street Worms* to their dynamic album *Welfare Jazz*, here are BigBanonos' favorite tracks by the eccentric Swedish punk band.</p> <!-- Song Highlights -->
-<div > <p>BigBanonos' standout picks:</p> <ol> <li><strong>Slow Learner</strong> | <em>Street Worms</em> | Released: September 28, 2018 | YEAR0001</li> <li><strong>Just Like You</strong> | <em>Street Worms</em> | Released: September 28, 2018 | YEAR0001</li> <li><strong>Toad</strong> | <em>Welfare Jazz</em> | Released: January 8, 2021 | YEAR0001</li> <li><strong>To the Country</strong> | <em>Welfare Jazz</em> | Released: January 8, 2021 | YEAR0001</li> <li><strong>Lick the Bag</strong> | <em>Common Sense</em> | Released: March 6, 2020 | YEAR0001</li> </ol>
+<p >Viagra Boys deliver a high-energy blend of crank wave and Stockholm indie. From their raw debut *Street Worms* to their dynamic album *Welfare Jazz*, here are BigBanonos favorite tracks by the eccentric Swedish punk band.</p> <!-- Song Highlights -->
+<div > <p>BigBanonos standout picks:</p> 
 </div> <!-- Footer Links -->
 <div > <p>Discover more quirky tracks at <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Keep up with fresh music updates on <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p>
 </div> 

@@ -7,6 +7,6 @@ tags:
   - '@orlandoweeks'
 ---
 
-{{< youtube "1d5x90tsyZY" >}}<h2><ol><li>Big Skies, Silly Faces [2021]</li></ol></h2>
+{{< youtube "1d5x90tsyZY" >}}<h2></h2>
 
 <hr />

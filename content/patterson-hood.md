@@ -12,7 +12,7 @@ tags:
 <p><strong>"Come Back Little Star"</strong> – <em>Heat Lightning Rumbles In The Distance</em> (ATO Records, 2012)</p>
 <p><strong>"Disappear"</strong> – <em>Heat Lightning Rumbles In The Distance</em> (ATO Records, 2012)</p>
 <p><strong>"Back of a Bible"</strong> – <em>Murdering Oscar (And Other Love Songs)</em> (Ruth St. Records, 2009)</p>
-<p><strong>"I Understand Now"</strong> – <em>Murdering Oscar (And Other Love Songs)</em> (Ruth St. Records, 2009)</p> {{< youtube "embed" >}} <p>@pattersonhood</p> <!-- Footer -->
+<p><strong>"I Understand Now"</strong> – <em>Murdering Oscar (And Other Love Songs)</em> (Ruth St. Records, 2009)</p>  <p>@pattersonhood</p> <!-- Footer -->
  
 
 <hr />

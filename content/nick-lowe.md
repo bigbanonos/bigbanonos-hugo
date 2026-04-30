@@ -9,7 +9,7 @@ tags:
 
 <h3>Nick Lowe</h3>
 <img src="https://i.scdn.co/image/ab67616d00001e02cadbfaeb3b6a5afbdcd1acf4">
-{{< youtube "embed" >}}
+
 <p>
 <strong>Nick Lowe – "Hope for Us All"</strong> (2007) – <em>At My Age</em> – Yep Roc Records<br>
 <strong>Nick Lowe – "I Love the Sound of Breaking Glass"</strong> (1978) – <em>Jesus of Cool</em> – Yep Roc Records<br>

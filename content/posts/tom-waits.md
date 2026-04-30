@@ -31,7 +31,7 @@ _5 tracks, 1980 to 1999._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2VBp1GV4BFZPZ9G1Vo7Elr" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**I Don't Wanna Grow Up**
+**I Dont Wanna Grow Up**
 *Beautiful Maladies: The Island Years* · 1998 · 2:31
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4E3LqCQtXH70B7c0ByJB4t" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

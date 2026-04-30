@@ -8,9 +8,8 @@ tags:
 ---
 
 <h2>Devendra Banhart – Essential Tracks</h2> <div > <img src="https://www.nonesuch.com/sites/g/files/g2000014771/files/2022-05/devendra-banhart-spotlight-2019b.jpg" alt="Devendra Banhart" width="500" />
-</div> {{< youtube "embed" >}} <h3>Tracklist</h3>
-<ul> <li><strong>16th and Valencia Roxy Music</strong> (2009)</li> <li><strong>Rats</strong> (2009)</li> <li><strong>At the Hop</strong> (2004)</li> <li><strong>Be Kind</strong> (2004)</li> <li><strong>Charles C Leary</strong> (2002)</li> <li><strong>Fall</strong> (2004)</li> <li><strong>Heard Somebody Say</strong> (2005)</li> <li><strong>Hows About Tellin A Story</strong> (2005)</li> <li><strong>Lazy Butterfly</strong> (2005)</li> <li><strong>Little Boys</strong> (2005)</li> <li><strong>Little Yellow Spider</strong> (2004)</li> <li><strong>Long Haired Child</strong> (2005)</li> <li><strong>Lover</strong> (2007)</li> <li><strong>Michigan State</strong> (2002)</li> <li><strong>Shabop Shalom</strong> (2007)</li> <li><strong>The Body Breaks</strong> (2004)</li> <li><strong>The Good Red Road</strong> (2004)</li> <li><strong>This Beard Is For Siobhan</strong> (2004)</li> <li><strong>We All Know</strong> (2004)</li> <li><strong>Will Is My Friend</strong> (2004)</li> <li><strong>Bad Girl</strong> (2007)</li> <li><strong>Samba Vexillographica</strong> (2007)</li> <li><strong>So Long Old Bean</strong> (2007)</li> <li><strong>Cristobal Risquez</strong> (2013)</li> <li><strong>FÃƒÆ’Ã‚¼r Hildegard von Bingen</strong> (2013)</li> <li><strong>Hatchet Wound</strong> (2013)</li> <li><strong>Won't You Come Over?</strong> (2013)</li> <li><strong>Your Fine Petting Duck</strong> (2013)</li>
-</ul> <h3>YouTube Playlist</h3>
+</div>  <h3>Tracklist</h3>
+ <h3>YouTube Playlist</h3>
 {{< youtube "xM_-uFDcutQ" >}}
 <hr />
 {{< youtube "Ok4_ObANxAQ" >}} <h3>Tags</h3>

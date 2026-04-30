@@ -8,13 +8,13 @@ tags:
 ---
 
 <!-- Title of the Post -->
-<h1 >BigBanonos' Favorite Tracks by Chastity Belt</h1> <!-- Featured Image -->
+<h1 >BigBanonos Favorite Tracks by Chastity Belt</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab67616d0000b2734531d329f5a25af6116ebde6" alt="Chastity Belt" >}}
 </div> <!-- Spotify Embed -->
-<div > {{< youtube "embed" >}}
+<div > 
 </div> <!-- Introductory Text -->
-<p >Chastity Belt delivers raw emotional depth with their bubblegrunge and indie rock sound. From "Different Now" to "IDC," here are BigBanonos' top picks from this iconic band.</p> <!-- Song Highlights -->
-<div > <p>BigBanonos' standout picks:</p> <ol> <li><strong>Different Now</strong> | <em>I Used to Spend So Much Time Alone</em> | Released: June 2, 2017 | Hardly Art</li> <li><strong>Joke</strong> | <em>Time to Go Home</em> | Released: March 23, 2015 | Hardly Art</li> <li><strong>IDC</strong> | <em>Time to Go Home</em> | Released: March 23, 2015 | Hardly Art</li> </ol>
+<p >Chastity Belt delivers raw emotional depth with their bubblegrunge and indie rock sound. From "Different Now" to "IDC," here are BigBanonos top picks from this iconic band.</p> <!-- Song Highlights -->
+<div > <p>BigBanonos standout picks:</p> 
 </div> <!-- Footer Links -->
 <div > <p>Discover more indie gems at <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Follow us for fresh music updates on <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p>
 </div> 

@@ -16,7 +16,7 @@ tags:
 <p><strong>"The Christmas Song"</strong> – <em>The Christmas Song</em> (Columbia, 2003)</p>
 <p><strong>"That Great Love Sound"</strong> – <em>That Great Love Sound</em> (Columbia, 2003)</p>
 <p><strong>"Chain Gang of Love"</strong> – <em>Chain Gang Of Love</em> (Columbia, 2003)</p>
-<p><strong>"Beat City"</strong> – <em>Whip It On</em> (Columbia, 2002)</p> {{< youtube "embed" >}} {{< youtube "sWQ_D0xTJws" >}} <p>@raveonettes</p> <hr /><!-- Footer -->
+<p><strong>"Beat City"</strong> – <em>Whip It On</em> (Columbia, 2002)</p>  {{< youtube "sWQ_D0xTJws" >}} <p>@raveonettes</p> <hr /><!-- Footer -->
  
 
 <hr />

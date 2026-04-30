@@ -12,7 +12,7 @@ tags:
   - '@soca'
 ---
 
-Haitian descent, raised in Montego Bay. Went viral on TikTok while still in high school and hasn't slowed down — one of the most exciting young voices coming out of Caribbean dancehall right now.
+Haitian descent, raised in Montego Bay. Went viral on TikTok while still in high school and hasnt slowed down — one of the most exciting young voices coming out of Caribbean dancehall right now.
 
 **Whine Fi Mi** feat. Mafio House — *Whine Fi Mi* (2026)
 

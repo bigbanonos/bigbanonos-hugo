@@ -23,6 +23,6 @@ _2 tracks between 2021 and 2022._
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0WDjZuWS4Z0ATgR8eL5cr1" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **inferno** (feat. ELIO)
-*ELIO'S INFERNO* · 2022 · 1:00
+*ELIOS INFERNO* · 2022 · 1:00
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/14NCI5NcVZNMUveIzSEnWq" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

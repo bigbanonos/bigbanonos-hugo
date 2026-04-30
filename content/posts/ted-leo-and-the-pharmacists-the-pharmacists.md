@@ -42,7 +42,7 @@ _15 tracks between 2001 and 2010._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/559MUQkT32fC1KZ8dHKMmH" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**I'm a Ghost** (feat. Ted Leo and the Pharmacists)
+**Im a Ghost** (feat. Ted Leo and the Pharmacists)
 *Hearts of Oak* · 2003 · 4:27
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7aepCrmCaypszWxtEGTyii" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -62,7 +62,7 @@ _15 tracks between 2001 and 2010._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3v932ol3HyDHfRIr1HQNQn" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**The Angels' Share**
+**The Angels Share**
 *Shake the Sheets* · 2004 · 3:46
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6Z25W20AYhs4lDZ7u273wB" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

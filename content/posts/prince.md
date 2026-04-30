@@ -66,26 +66,26 @@ _30 tracks spanning 1979 to 2025. 46 years of trying._
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0cr1UXsH8XdUfrpvxHCane" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **Strange Relationship - 2020 Remaster**
-*Sign O' The Times* · 1987 · 4:01
+*Sign O The Times* · 1987 · 4:01
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6pHmeFHdcGEJ83nzhe78lm" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **Starfish And Coffee - 2020 Remaster**
-*Sign O' The Times* · 1987 · 2:50
+*Sign O The Times* · 1987 · 2:50
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4DDGJtDf0sY7qtSUzrFKKW" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **The Ballad Of Dorothy Parker - 2020 Remaster**
-*Sign O' The Times* · 1987 · 4:03
+*Sign O The Times* · 1987 · 4:03
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4yR9WXd0n67vf8KqG2N4Zv" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **If I Was Your Girlfriend - 2020 Remaster**
-*Sign O' The Times* · 1987 · 5:03
+*Sign O The Times* · 1987 · 5:03
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2laui4O0tY1GDZcsB7iJtK" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**How Come U Don't Call Me Anymore**
+**How Come U Dont Call Me Anymore**
 *The Hits / The B-Sides* · 1993 · 3:53
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7oZKxGPHuMVSVmFzuiKkWG" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -130,7 +130,7 @@ _30 tracks spanning 1979 to 2025. 46 years of trying._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2YFlwqb8nwdhJV6TfrlPBT" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**You're My Love**
+**Youre My Love**
 *Originals* · 2019 · 4:23
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6bs2tsfZFelG16FRxINEF9" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

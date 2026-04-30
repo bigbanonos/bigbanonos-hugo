@@ -50,7 +50,7 @@ _16 tracks spanning 1965 to 2023. 58 years of trying._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5VzvK7YiwWbRePA2JOzhYq" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**How You Gonna Keep 'Em Down On the Farm** (feat. Andrew Bird)
+**How You Gonna Keep Em Down On the Farm** (feat. Andrew Bird)
 *Soldier On* · 2006 · 5:04
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5Pnh772BPHDYz3Juupj9ZS" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -95,8 +95,8 @@ _16 tracks spanning 1965 to 2023. 58 years of trying._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7agCuO2soBI7apsTt6cARI" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**It's All over Now, Baby Blue** (feat. ANOHNI)
-*It's All over Now, Baby Blue b/w Be My Husband* · 2020 · 4:12
+**Its All over Now, Baby Blue** (feat. ANOHNI)
+*Its All over Now, Baby Blue b/w Be My Husband* · 2020 · 4:12
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4nz1UjOhZx5ZlhbAAnvmSi" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 

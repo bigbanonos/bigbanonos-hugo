@@ -31,7 +31,7 @@ _8 tracks from 1987 to 2024. The peak is in there somewhere._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6cvIJ1zOcshUv0yCtcphaG" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**L'Accordéoniste - Live**
+**LAccordéoniste - Live**
 *Eternelle* · 1987 · 3:56
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1GfB9wuiYpnH1b7uZvnq6i" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -41,12 +41,12 @@ _8 tracks from 1987 to 2024. The peak is in there somewhere._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1K1kbAMbbAzVii1v2P1xu3" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**L'Accordéoniste**
+**LAccordéoniste**
 *Edith Piaf - The Best Of* · 2008 · 3:37
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/58BcXxi49kxTBmEOZG67IP" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**L'accordéoniste - 2012 Remastered**
+**Laccordéoniste - 2012 Remastered**
 *Hymne à la môme (Best Of)* · 2013 · 4:03
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2xdo9HR7L3J811cjbKzHcf" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

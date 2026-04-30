@@ -24,7 +24,7 @@ description: "8 tracks — W artists, 2020s"
 </div>
 
 <div class="track-embed">
-  <p><strong>I'm Not Daddy</strong> — Whu Else</p>
+  <p><strong>Im Not Daddy</strong> — Whu Else</p>
   <iframe src="https://open.spotify.com/embed/track/1j8w4X9aIP06DxTm3rVSe6?utm_source=generator" width="100%" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 </div>
 

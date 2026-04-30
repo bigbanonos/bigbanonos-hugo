@@ -8,13 +8,13 @@ tags:
 ---
 
 <!-- Title of the Post -->
-<h1 >BigBanonos' Favorite Songs by Dovey Magnum</h1> <!-- Featured Image -->
+<h1 >BigBanonos Favorite Songs by Dovey Magnum</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab67616d00001e02f333db1b3cbcf424c4c11efb" alt="Dovey Magnum" >}}
 </div> <!-- Spotify Embed -->
-<div > {{< youtube "embed" >}}
+<div > 
 </div> <!-- Introductory Text -->
 <p >Dovey Magnum brings raw energy and powerful vocals to the dancehall scene with tracks like "Good" and the iconic "Bawl Out," featured on *Reggae Gold 2018: 25th Anniversary.*</p> <!-- Song Highlights -->
-<div > <p>BigBanonos' standout picks:</p> <ol> <li><strong>Good</strong> | <em>Good</em> | Released: August 17, 2018 | Tephlon Entertainment</li> <li><strong>Bawl Out</strong> | <em>Reggae Gold 2018: 25th Anniversary</em> | Released: July 27, 2018 | VP Records</li> </ol>
+<div > <p>BigBanonos standout picks:</p> 
 </div> <!-- Footer Links -->
 <div > <p>Explore more dancehall bangers at <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Stay updated on fresh sounds on <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p>
 </div> 

@@ -30,8 +30,8 @@ _7 tracks between 2017 and 2023._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0hKBQO2KtkDw99y7oUaTPf" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**I'm the One** (feat. DJ Khaled;Justin Bieber;Quavo;Chance the Rapper;Lil Wayne)
-*I'm the One* · 2017 · 4:48
+**Im the One** (feat. DJ Khaled;Justin Bieber;Quavo;Chance the Rapper;Lil Wayne)
+*Im the One* · 2017 · 4:48
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/72Q0FQQo32KJloivv5xge2" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 

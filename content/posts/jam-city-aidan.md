@@ -33,8 +33,8 @@ _6 tracks between 2023 and 2025._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1Ywt0ieG8EC4osUu1LkNzI" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Wild n Sweet - Paul Woolford's Special Request Mix** (feat. Jam City;Paul Woolford;Empress Of)
-*Wild n Sweet (Paul Woolford's Special Request Mix)* · 2024 · 4:20
+**Wild n Sweet - Paul Woolfords Special Request Mix** (feat. Jam City;Paul Woolford;Empress Of)
+*Wild n Sweet (Paul Woolfords Special Request Mix)* · 2024 · 4:20
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7InnYgaoJvjo4CP06vgoR0" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 

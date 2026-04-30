@@ -25,7 +25,7 @@ _3 tracks, all from 2001._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/20f72OVnASuw7AvPJ30oOt" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**It'll Soon Be The Weekend**
+**Itll Soon Be The Weekend**
 *Greatest Stiffs* · 2001 · 3:31
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4fvHN3iVDZOeCUKcUpT1LI" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

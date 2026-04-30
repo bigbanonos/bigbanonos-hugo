@@ -8,11 +8,9 @@ tags:
   - '@nourishedbytime'
 ---
 
-<h3><em>BigBanonos</em> Favorite Songs by Dry Cleaning:</h3> <p>Updated on March 1, 2023, with the remix of "Gary Ashby" by Nourished By Time. BigBanonos highlights Dry Cleaning's top track, showcasing their unique crank wave and UK post-punk revival sound.</p> <!--Image-->
-<div class="separator"> <a href="https://media.pitchfork.com/photos/6317ad81d4bc41f168c74c9e/16:9/w_800%2Ch_450%2Cc_limit/dry-cleaning.jpg" > <img alt="Dry Cleaning" src="https://media.pitchfork.com/photos/6317ad81d4bc41f168c74c9e/16:9/w_800%2Ch_450%2Cc_limit/dry-cleaning.jpg" /> </a>
-</div> <!--Spotify Playlist Embed-->
-{{< youtube "embed" >}} <!--Song Listings-->
-<ol> <li><strong>Gary Ashby</strong> " <em>Stumpwork</em> " October 21, 2022</li> <li><strong>Gary Ashby - Nourished By Time Remix</strong> " <em>Swampy EP</em> " March 1, 2023</li>
-</ol> <!--Related Link-->
+<h3><em>BigBanonos</em> Favorite Songs by Dry Cleaning:</h3> <p>Updated on March 1, 2023, with the remix of "Gary Ashby" by Nourished By Time. BigBanonos highlights Dry Cleanings top track, showcasing their unique crank wave and UK post-punk revival sound.</p> <!--Image-->
+ <!--Spotify Playlist Embed-->
+ <!--Song Listings-->
+ <!--Related Link-->
 <p>For more from Nourished By Time, check out their <a href="https://bigbanonos.blogspot.com/2024/05/nourished-by-time-4-songs.html" target="_blank">BigBanonos feature post</a>.</p> 
  <hr />

@@ -8,13 +8,13 @@ tags:
 ---
 
 <!-- Post Title -->
-<h1 >BigBanonos' Favorite Tracks: Louane - "Non-sens"</h1> <!-- Introductory Text -->
-<p >Updated November 10, 2017, with "Non-sens" by Louane. This vibrant French pop track, released under Universal Music Division Island Def Jam, highlights Louane's emotive vocals and modern pop sensibilities.</p> <!-- Featured Image -->
+<h1 >BigBanonos Favorite Tracks: Louane - "Non-sens"</h1> <!-- Introductory Text -->
+<p >Updated November 10, 2017, with "Non-sens" by Louane. This vibrant French pop track, released under Universal Music Division Island Def Jam, highlights Louanes emotive vocals and modern pop sensibilities.</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d0000b273cbda4a3f454d67934d0e8fb5" alt="Louane - Non-sens" />
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "Rk_3h97B7oc" >}}
 </div> <!-- Song Information -->
-<div > <p><em>"Non-sens"</em> by Louane is a standout French pop track that blends catchy rhythms with heartfelt lyrics. With its polished production and Louane's captivating performance, it's a perfect representation of her artistry and appeal.</p>
+<div > <p><em>"Non-sens"</em> by Louane is a standout French pop track that blends catchy rhythms with heartfelt lyrics. With its polished production and Louanes captivating performance, its a perfect representation of her artistry and appeal.</p>
 </div> <!-- Footer Links -->
 <div > <p>Explore more French pop hits on <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Visit our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> channel and follow us on <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a> for more updates and music highlights.</p>
 </div> 

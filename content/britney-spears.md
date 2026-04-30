@@ -7,8 +7,8 @@ tags:
   - '@britneyspears'
 ---
 
-<h2>BigBanonos' Favorite Songs by Britney Spears</h2> <div> <img alt="Britney Spears" src="https://m.media-amazon.com/images/M/MV5BMTQyMTUyNjI4OF5BMl5BanBnXkFtZTcwMTk4NjkzNw@@._V1_FMjpg_UX1000_.jpg" width="100%" />
-</div> {{< youtube "embed" >}} <h2>"This Kiss" is #NotOnSpotify</h2>
+<h2>BigBanonos Favorite Songs by Britney Spears</h2> <div> <img alt="Britney Spears" src="https://m.media-amazon.com/images/M/MV5BMTQyMTUyNjI4OF5BMl5BanBnXkFtZTcwMTk4NjkzNw@@._V1_FMjpg_UX1000_.jpg" width="100%" />
+</div>  <h2>"This Kiss" is #NotOnSpotify</h2>
 {{< youtube "tGEBKcxKPuA" >}}
 <h2>"Amnesia" is #NotOnSpotify</h2>
 {{< youtube "e6GXJ3pBbkk" >}} <h3>Songs (Chronological Order):</h3>

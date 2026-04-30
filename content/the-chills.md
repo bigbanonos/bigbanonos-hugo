@@ -9,6 +9,6 @@ tags:
 
 <div> {{< img-lite src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/The_Chills_%281989%29.jpg/1200px-The_Chills_%281989%29.jpg" alt="The Chills" >}}
 </div> <p>
-BigBanonos' favorite songs by The Chills:
-</p> {{< youtube "embed" >}} <ul> <li><b>The Chills – "Pink Frost"</b> (Kaleidoscope World, 1989) – Fire Records</li> <li><b>The Chills – "Heavenly Pop Hit"</b> (Submarine Bells, 1990) – Rhino/Slash</li>
+BigBanonos favorite songs by The Chills:
+</p>  <ul> <li><b>The Chills – "Pink Frost"</b> (Kaleidoscope World, 1989) – Fire Records</li> <li><b>The Chills – "Heavenly Pop Hit"</b> (Submarine Bells, 1990) – Rhino/Slash</li>
 </ul> {{< youtube "pjW3MT8D9RY" >}}  <hr />

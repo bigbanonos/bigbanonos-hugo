@@ -30,7 +30,7 @@ _4 tracks between 1981 and 1983._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7ywFYGPvsy0dMIfhYeOBu1" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Please Don't Step on My Rainbow**
+**Please Dont Step on My Rainbow**
 *In the Golden Autumn* · 1983 · 3:54
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/12b1V0FHiIURupeWeQy4gD" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

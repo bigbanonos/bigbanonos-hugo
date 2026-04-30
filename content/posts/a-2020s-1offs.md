@@ -14,7 +14,7 @@ tags:
 
 ## A · 2020s 1-offs
 
-_32 favorite songs by artists starting with A. Current shit. The 2% that's good._
+_32 favorite songs by artists starting with A. Current shit. The 2% thats good._
 
 ---
 

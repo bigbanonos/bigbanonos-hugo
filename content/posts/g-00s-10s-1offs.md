@@ -64,7 +64,7 @@ _26 favorite songs by artists starting with G. The peak decades for 1-offs. Pre-
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/27Gjd1GPUoBmvQ77yFRYSf" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **The Gooch Palms** — We Get By
-*Novo's* · 2013 · 3:54
+*Novos* · 2013 · 3:54
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2Dpit6YUPfk70GGsoCQavG" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -78,7 +78,7 @@ _26 favorite songs by artists starting with G. The peak decades for 1-offs. Pre-
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4iQbTXrwkgR3SkpA8Ld5qy" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Gabby's World** — Broken Necks
+**Gabbys World** — Broken Necks
 *O.K.* · 2015 · 3:16
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2cP1Y0x2sl0fOMqRpCTBxF" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -98,8 +98,8 @@ _26 favorite songs by artists starting with G. The peak decades for 1-offs. Pre-
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1qZlS2avJJxzlExALtYpvw" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Glen Hansard** — McCormack's Wall
-*Didn't He Ramble* · 2015 · 4:39
+**Glen Hansard** — McCormacks Wall
+*Didnt He Ramble* · 2015 · 4:39
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3B7ofDKl0x6NeJIoY5lxrO" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -108,8 +108,8 @@ _26 favorite songs by artists starting with G. The peak decades for 1-offs. Pre-
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1d3RMBeBUq9frA2GRJRUA0" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Gallant;A$AP Ferg** — Doesn't Matter (feat. A$AP Ferg)
-*Doesn't Matter (feat. A$AP Ferg)* · 2018 · 3:58
+**Gallant;A$AP Ferg** — Doesnt Matter (feat. A$AP Ferg)
+*Doesnt Matter (feat. A$AP Ferg)* · 2018 · 3:58
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4jgf4d17mxSqhYlAhA6BGr" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -123,18 +123,18 @@ _26 favorite songs by artists starting with G. The peak decades for 1-offs. Pre-
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/33ihZWqvTNPd6MfNDGZTUX" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Gallant** — Doesn't Matter
-*Doesn't Matter (Rynx Remix)* · 2018 · 3:28
+**Gallant** — Doesnt Matter
+*Doesnt Matter (Rynx Remix)* · 2018 · 3:28
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/73BAS4NVDvds3qR0ZuQtEp" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Gavin Rayna Russom;KC Ortiz** — Heaven's Highways
-*Heaven's Highways* · 2019 · 3:43
+**Gavin Rayna Russom;KC Ortiz** — Heavens Highways
+*Heavens Highways* · 2019 · 3:43
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/70KZ8EZrwyLjg3spFR70Fx" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Gina Valentina** — I Don't Care
-*I Don't Care* · 2019 · 2:31
+**Gina Valentina** — I Dont Care
+*I Dont Care* · 2019 · 2:31
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7LYkFFcYnQ9q47vsZ9sEGh" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 

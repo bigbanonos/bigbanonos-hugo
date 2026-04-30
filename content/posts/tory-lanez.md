@@ -35,7 +35,7 @@ _16 tracks, 2016 to 2026._
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7HdZY9UJTylIiNcSDFyUDc" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **48 Floors (with Mansa)** (feat. Tory Lanez;Mansa)
-*MEMORIES DON'T DIE* · 2018 · 3:43
+*MEMORIES DONT DIE* · 2018 · 3:43
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/36wy8sKYBYQKdOBeqA5F0U" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -79,8 +79,8 @@ _16 tracks, 2016 to 2026._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5uKHTLXNcftXtYfU7j9cQ6" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**It Doesn't Matter**
-*It Doesn't Matter* · 2022 · 3:22
+**It Doesnt Matter**
+*It Doesnt Matter* · 2022 · 3:22
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1PctiT4kQofMU6Rge9TE13" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -89,7 +89,7 @@ _16 tracks, 2016 to 2026._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4HArHoORbKn0ioYA6cDRhz" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**This Ain't Working**
+**This Aint Working**
 *Sorry 4 What* · 2022 · 4:11
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7GvB7qLV2OJTEzSuAHXiX9" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

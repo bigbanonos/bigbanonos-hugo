@@ -7,6 +7,6 @@ tags:
   - '@toucheamore'
 ---
 
-{{< youtube "sKHawjBPaxU" >}}<h2><ol><li>Reminders [2020]</li></ol></h2>
+{{< youtube "sKHawjBPaxU" >}}<h2></h2>
 
 <hr />

@@ -14,6 +14,6 @@ description: "2 tracks — V artists, Deeper Highlights"
 </div>
 
 <div class="track-embed">
-  <p><strong>Kimuli - Remix</strong> — Vinka;Mudra D'Viral</p>
+  <p><strong>Kimuli - Remix</strong> — Vinka;Mudra DViral</p>
   <iframe src="https://open.spotify.com/embed/track/5bn7fGupAB46T3SCr2tCFZ?utm_source=generator" width="100%" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 </div>

@@ -69,7 +69,7 @@ _30 favorite songs by artists starting with N. The peak decades for 1-offs. Pre-
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/17fWdcSAhLc6559youmLap" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **The Neighbourhood** — Sweater Weather
-*I'm Sorry...* · 2012 · 4:00
+*Im Sorry...* · 2012 · 4:00
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4pGqFOfzvfe6avb9kbZicC" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -98,7 +98,7 @@ _30 favorite songs by artists starting with N. The peak decades for 1-offs. Pre-
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6xiAfj7cKrrdQNmFUhieMO" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Nedelle Torrisi** — Don't Play Dumb
+**Nedelle Torrisi** — Dont Play Dumb
 *Advice from Paradise* · 2015 · 2:43
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4jPIHz8mvyxBHEXga01Rhs" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

@@ -24,7 +24,7 @@ _5 tracks from 1998 to 2025. The peak is in there somewhere._
 
 ---
 
-**Money Ain't a Thang (feat. JAY-Z)** (feat. Jermaine Dupri;JAŸ-Z)
+**Money Aint a Thang (feat. JAY-Z)** (feat. Jermaine Dupri;JAŸ-Z)
 *Life In 1472 (The Original Soundtrack)* · 1998 · 4:14
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6DUOaqLOi48bwv4o7cxJl9" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

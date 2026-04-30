@@ -47,7 +47,7 @@ _20 tracks, 2014 to 2025._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1KiwmH74Vv2vaxeeyDojSI" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**We Don't Play (feat. Jafrass & Quada)** (feat. Popcaan;Jafrass;Quada)
+**We Dont Play (feat. Jafrass & Quada)** (feat. Popcaan;Jafrass;Quada)
 *Henging Tree Riddim* · 2017 · 3:18
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3ky5MAL9hYdh7QaVREDoNY" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

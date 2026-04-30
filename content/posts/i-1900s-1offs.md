@@ -18,8 +18,8 @@ _5 favorite songs by artists starting with I. Before 2000. One good song and out
 
 ---
 
-**Inner Life** — I'm Caught up (In a One Night Love Affair) - 12” Edit
-*I'm Caught Up (In a One Night Love Affair)* · 1979 · 7:26
+**Inner Life** — Im Caught up (In a One Night Love Affair) - 12” Edit
+*Im Caught Up (In a One Night Love Affair)* · 1979 · 7:26
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5XaBOlOPKJGnq3XFiS5ZHH" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 

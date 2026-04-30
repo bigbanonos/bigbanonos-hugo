@@ -14,7 +14,7 @@ tags:
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "thAN8NrT-H8" >}}
 </div> <!-- Song Information -->
-<div > <p><em>"Miss You Like Crazy"</em>, from Briskeby's 2005 album *Jumping On Cars*, released under Universal Music AS, is a vibrant track blending Norwegian pop and rock influences. Its emotive lyrics and catchy tune make it a standout in the band's discography.</p>
+<div > <p><em>"Miss You Like Crazy"</em>, from Briskebys 2005 album *Jumping On Cars*, released under Universal Music AS, is a vibrant track blending Norwegian pop and rock influences. Its emotive lyrics and catchy tune make it a standout in the bands discography.</p>
 </div> <!-- Footer Links -->
 <div > 
 </div> 

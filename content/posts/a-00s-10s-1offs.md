@@ -103,7 +103,7 @@ _58 favorite songs by artists starting with A. The peak decades for 1-offs. Pre-
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/325dqwFiNxK1ZdZ9WRfJgf" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Annie & the Orphans** — It's The Hard-Knock Life
+**Annie & the Orphans** — Its The Hard-Knock Life
 *Annie: The Broadway Musical 30th Anniversary Cast Recording (2CD)* · 2008 · 3:04
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0Cre282z0eqW4HkeEemvuH" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -148,7 +148,7 @@ _58 favorite songs by artists starting with A. The peak decades for 1-offs. Pre-
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7kEJqyE9tKbdNs7JkoNXqF" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**A.R.T. Wilson** — Rebecca's Theme (Water)
+**A.R.T. Wilson** — Rebeccas Theme (Water)
 *Overworld* · 2014 · 4:36
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5JA1wMXh6C072LePIqWTdR" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -178,7 +178,7 @@ _58 favorite songs by artists starting with A. The peak decades for 1-offs. Pre-
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4XCHxqLiujhLwaVpltAzPV" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Aaron Lee Tasjan** — The Trouble With Drinkin'
+**Aaron Lee Tasjan** — The Trouble With Drinkin
 *In the Blazes* · 2015 · 3:59
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3OzVT1VrK9ZUDIw8hnJFyK" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -199,7 +199,7 @@ _58 favorite songs by artists starting with A. The peak decades for 1-offs. Pre-
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/61kYl7pBKRBefJ2hfBDze2" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **Aidan Moffat** — Jock McGraw
-*Where You're Meant to Be* · 2016 · 2:38
+*Where Youre Meant to Be* · 2016 · 2:38
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7CqR0KkJ72fkXU9JyB1ACS" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -293,8 +293,8 @@ _58 favorite songs by artists starting with A. The peak decades for 1-offs. Pre-
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/72VliVsh3slpViyWTgRtgs" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Alice Boman** — Don't Forget About Me
-*Don't Forget About Me* · 2019 · 3:06
+**Alice Boman** — Dont Forget About Me
+*Dont Forget About Me* · 2019 · 3:06
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3hnAD3Cocqtv8hCAEykfM8" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 

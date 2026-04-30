@@ -58,7 +58,7 @@ _39 tracks from 1998 to 2024. The peak is in there somewhere._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6ZxiIHcQLbsoMXaJI95UNZ" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Lover I Don't Have to Love**
+**Lover I Dont Have to Love**
 *LIFTED or The Story Is in the Soil, Keep Your Ear to the Ground* · 2002 · 3:59
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2wXZeaK0rXF3qrs7ernZ2L" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -68,18 +68,18 @@ _39 tracks from 1998 to 2024. The peak is in there somewhere._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1afP0SRiLQRVexgwyumXS3" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**We Are Nowhere And It's Now**
-*I'm Wide Awake, It's Morning* · 2005 · 4:12
+**We Are Nowhere And Its Now**
+*Im Wide Awake, Its Morning* · 2005 · 4:12
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6QSmeY9pNWnE0fAUrXmYC7" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **Lua**
-*I'm Wide Awake, It's Morning* · 2005 · 4:31
+*Im Wide Awake, Its Morning* · 2005 · 4:31
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4PMvRfhHAx5j6Bb3XsFLoq" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **First Day Of My Life**
-*I'm Wide Awake, It's Morning* · 2005 · 3:08
+*Im Wide Awake, Its Morning* · 2005 · 3:08
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5OiaAaIMYlCZONyDBxqk4G" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -109,7 +109,7 @@ _39 tracks from 1998 to 2024. The peak is in there somewhere._
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5EJ84TfjGj5lgSr3XN8fDN" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **Old Soul Song (for the New World Order)**
-*I'm Wide Awake, It's Morning* · 2005 · 4:29
+*Im Wide Awake, Its Morning* · 2005 · 4:29
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5W6z9ZfzdYeVhWxu9S9KnN" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -123,8 +123,8 @@ _39 tracks from 1998 to 2024. The peak is in there somewhere._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0PNB4v1SqdPrgzkCO3rugF" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**We Are Nowhere and It's Now**
-*I'm Wide Awake, It's Morning* · 2005 · 4:12
+**We Are Nowhere and Its Now**
+*Im Wide Awake, Its Morning* · 2005 · 4:12
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4RzgwNEhL2TxgK0RVmCRPf" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -189,7 +189,7 @@ _39 tracks from 1998 to 2024. The peak is in there somewhere._
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4RfUm78GUYjwTzJesIKUv9" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **Land Locked Blues - Companion Version**
-*I'm Wide Awake, It's Morning: A Companion* · 2022 · 5:59
+*Im Wide Awake, Its Morning: A Companion* · 2022 · 5:59
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/67s921fAmoejLPFxKAlrHh" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -199,7 +199,7 @@ _39 tracks from 1998 to 2024. The peak is in there somewhere._
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0lgoVxhoPCMR5CyvE9GWk5" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **First Day of My Life - Companion Version**
-*I'm Wide Awake, It's Morning: A Companion* · 2022 · 3:25
+*Im Wide Awake, Its Morning: A Companion* · 2022 · 3:25
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6iJYC1zbrAmFJX7MxJEXvt" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 

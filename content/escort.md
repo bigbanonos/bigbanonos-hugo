@@ -14,7 +14,7 @@ tags:
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "5_Q0V_Irma4" >}}
 </div> <!-- Song Information -->
-<div > <p><em>"All Through The Night"</em>, from Escort's 2012 self-titled album released under Escort Records, is a standout in the nu disco and funtronica genres. With its infectious rhythm and vibrant energy, the track is perfect for lighting up any dance floor.</p>
+<div > <p><em>"All Through The Night"</em>, from Escorts 2012 self-titled album released under Escort Records, is a standout in the nu disco and funtronica genres. With its infectious rhythm and vibrant energy, the track is perfect for lighting up any dance floor.</p>
 </div> <!-- Footer Links -->
 <div > 
 </div> 

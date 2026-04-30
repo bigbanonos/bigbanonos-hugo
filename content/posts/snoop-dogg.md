@@ -45,12 +45,12 @@ _10 tracks from 1993 to 2015. The peak is in there somewhere._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2wzMOVWqLMBNx7wVvJ7tt0" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Who Am I (What's My Name)?**
+**Who Am I (Whats My Name)?**
 *Doggystyle* · 1993 · 4:06
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5XhkV07Vou38wnrzwURUOC" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Ain't No Fun (If the Homies Cant Have None) (feat. Nate Dogg, Warren G & Kurupt)** (feat. Snoop Dogg;Kurupt;Nate Dogg;Warren G)
+**Aint No Fun (If the Homies Cant Have None) (feat. Nate Dogg, Warren G & Kurupt)** (feat. Snoop Dogg;Kurupt;Nate Dogg;Warren G)
 *Doggystyle* · 1993 · 4:06
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4rLpAOk5KVNcqEMK3m6Lje" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -60,7 +60,7 @@ _10 tracks from 1993 to 2015. The peak is in there somewhere._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7pf6YT5CmmQxs6Uz7dABNB" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Paper'd Up** (feat. Snoop Dogg;Kokane;Traci Nelson;Mr.Kane)
+**Paperd Up** (feat. Snoop Dogg;Kokane;Traci Nelson;Mr.Kane)
 *Paid Tha Cost To Be Da Bo$$* · 2002 · 3:50
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4ZQOGd1cjahGnvo6d6ANkd" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

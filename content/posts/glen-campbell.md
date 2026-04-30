@@ -25,7 +25,7 @@ _3 tracks, all from 1974._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0aguwWYtGFoOuBVEEyvkp3" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**It's A Sin When You Love Somebody - Remastered 2001**
+**Its A Sin When You Love Somebody - Remastered 2001**
 *Reunion: The Songs Of Jimmy Webb* · 1974 · 2:25
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6A29eEOREu6PXsSXYL9uTS" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

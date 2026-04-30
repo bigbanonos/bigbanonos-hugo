@@ -25,7 +25,7 @@ _6 tracks from 1976 to 2004. The peak is in there somewhere._
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2MJsnBWkvnKLnQldFEJ9zL" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **I Love Hot Nights** (feat. Jonathan Richman;The Modern Lovers)
-*Modern Lovers '88* · 1988 · 2:57
+*Modern Lovers 88* · 1988 · 2:57
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7H3cCK7jEp67pDf7fnJGwq" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 

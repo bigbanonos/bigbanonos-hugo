@@ -25,7 +25,7 @@ _7 tracks, 1985 to 2001._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/32soEc9h0wDy1BEjV5egeh" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**I'm a Man You Don't Meet Every Day**
+**Im a Man You Dont Meet Every Day**
 *Rum Sodomy & The Lash (Expanded Edition)* · 1985 · 2:55
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/26WJMsesrV9FuKNgZ25zW7" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

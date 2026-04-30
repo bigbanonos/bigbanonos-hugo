@@ -20,7 +20,7 @@ _2 tracks between 2003 and 2008._
 ---
 
 **Can You Play Some More (Pull It Up)**
-*Can't Stop A Man* · 2003 · 3:33
+*Cant Stop A Man* · 2003 · 3:33
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1CCEL3jEqzb1ILPsWsxWZz" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 

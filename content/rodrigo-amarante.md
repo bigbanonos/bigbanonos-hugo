@@ -14,7 +14,7 @@ tags:
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "nThZq3e0p3s" >}}
 </div> <!-- Song Information -->
-<div > <p><em>"Nada Em VÃƒÆ’Ã‚£o"</em> by Rodrigo Amarante is a track from the album *Cavalo*, released on May 6, 2014. The song is a beautiful blend of nova MPB, showcasing Amarante's soulful voice and intricate guitar work, capturing the essence of Brazilian music with a modern twist.</p>
+<div > <p><em>"Nada Em VÃƒÆ’Ã‚£o"</em> by Rodrigo Amarante is a track from the album *Cavalo*, released on May 6, 2014. The song is a beautiful blend of nova MPB, showcasing Amarantes soulful voice and intricate guitar work, capturing the essence of Brazilian music with a modern twist.</p>
 </div> <!-- Footer Links -->
 <div > <p>Explore more at <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Check out our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a> channels for more music updates.</p>
 </div> 

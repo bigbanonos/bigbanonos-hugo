@@ -17,7 +17,7 @@ _4 tracks spanning 1965 to 2008. 43 years of trying._
 
 ---
 
-**Can't Nobody Love You**
+**Cant Nobody Love You**
 *Begin Here* · 1965 · 2:16
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2o6sXX0llloUkaUm9DEbLY" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -27,8 +27,8 @@ _4 tracks spanning 1965 to 2008. 43 years of trying._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/02KpkaZbiutsR0ucxce4Sh" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**She's Not There**
-*The 'See For Miles' 10th Anniversary Catalogue* · 1992 · 2:23
+**Shes Not There**
+*The See For Miles 10th Anniversary Catalogue* · 1992 · 2:23
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7ypAh5bxbu8k0D8mScQiM5" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 

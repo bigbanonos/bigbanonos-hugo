@@ -20,7 +20,7 @@ tags:
 <p><strong>"The Weight She Fell Under"</strong> – <em>Safe As Houses</em> (Slender Means Society, 2006)</p>
 <p><strong>"Stolen Children"</strong> – <em>Safe As Houses</em> (Slender Means Society, 2006)</p>
 <p><strong>"The Four Platitudes (A Bridge Song)"</strong> – <em>Safe As Houses</em> (Slender Means Society, 2006)</p>
-<p><strong>"Love Connection"</strong> – <em>((GRRRLS))</em> (Slender Means Society, 2006)</p> {{< youtube "embed" >}} <p>@parentheticalgirls</p>
+<p><strong>"Love Connection"</strong> – <em>((GRRRLS))</em> (Slender Means Society, 2006)</p>  <p>@parentheticalgirls</p>
 <hr /> <!-- Footer -->
  
 

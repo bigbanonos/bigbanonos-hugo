@@ -21,6 +21,6 @@ _2 tracks, 1996 to 2015._
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4MC3ItyUrx4zOhY8icLcaw" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **Buffalo Stance**
-*20 #1's: 80's Club Classics* · 2015 · 4:05
+*20 #1s: 80s Club Classics* · 2015 · 4:05
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7xC95fmjDmW9MS8Cb71Vvp" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

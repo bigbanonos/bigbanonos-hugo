@@ -19,12 +19,12 @@ _5 tracks, 1988 to 1999._
 
 ---
 
-**Children's Story**
+**Childrens Story**
 *The Great Adventures Of Slick Rick* · 1988 · 4:02
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/71A6V5dh5Y8ikhm6NGwZ7p" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Street Talkin'** (feat. Slick Rick;Outkast)
+**Street Talkin** (feat. Slick Rick;Outkast)
 *The Art Of Storytelling* · 1999 · 3:41
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4TGHOWSNAwUXn5onDQr0P1" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

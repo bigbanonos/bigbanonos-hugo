@@ -12,12 +12,7 @@ tags:
 </h6>
 {{< youtube "videoseries" >}}<br />
 <h3>
-<ol>
-<li>Won't Let You [2019]</li>
-<li>Pass The HoursÃƒâ€šÃ‚ [2018]</li>
-<li>Waiting On The Warmth [2018]</li>
-<li>Heaven's Only Wishing [2018] -- <i>neat ass video</i></li>
-</ol>
+
 </h3>
 <div>
 <i><br /></i></div>

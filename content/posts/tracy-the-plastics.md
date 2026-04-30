@@ -17,7 +17,7 @@ _7 tracks between 2002 and 2004._
 
 ---
 
-**Best of the 70's, 80's, and 90's**
+**Best of the 70s, 80s, and 90s**
 *Forever Sucks* · 2002 · 2:36
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7zsTyGnnQitfpxbl8LRlfF" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

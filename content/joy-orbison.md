@@ -8,15 +8,15 @@ tags:
 ---
 
 <!-- Post Title -->
-<h1 >BigBanonos' Favorite Tracks: Joy Orbison, Infinite Coles, Mansur Brown - "Burn"</h1> <!-- Introductory Text -->
+<h1 >BigBanonos Favorite Tracks: Joy Orbison, Infinite Coles, Mansur Brown - "Burn"</h1> <!-- Introductory Text -->
 <p >Updated October 18, 2019, with "Burn" by Joy Orbison, Infinite Coles, and Mansur Brown from the *Slipping* EP. This track blends elements of electronica, UK bass, and British jazz, creating a unique sound that taps into the evolving afrofuturism scene. The collaboration is a masterclass in smooth beats and rich textures, perfect for anyone seeking an immersive audio experience.</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/ab67616d0000b2738b3a28fa6dec291b0c4011b1" alt="Joy Orbison, Infinite Coles, Mansur Brown - Burn" />
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "3JNLT_ujjKg" >}}
 </div> <!-- Song Information -->
-<div > <p><em>"Burn"</em> is a standout track that exemplifies the best of Joy Orbison, Infinite Coles, and Mansur Brown's innovative approach to music. With its fluid house rhythms and atmospheric textures, it's a prime example of the evolving UK bass sound and a must-listen for those into the future of electronic jazz.</p>
+<div > <p><em>"Burn"</em> is a standout track that exemplifies the best of Joy Orbison, Infinite Coles, and Mansur Browns innovative approach to music. With its fluid house rhythms and atmospheric textures, its a prime example of the evolving UK bass sound and a must-listen for those into the future of electronic jazz.</p>
 </div> <!-- Footer Links -->
-<div > <p>Discover more of these artists' work on <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>, visit our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> channel, and follow us on <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p>
+<div > <p>Discover more of these artists work on <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>, visit our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> channel, and follow us on <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p>
 </div> 
 <p >Tags: @joyorbison,</p>
 

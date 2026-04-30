@@ -60,7 +60,7 @@ _12 tracks between 2005 and 2013._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4ARUe13SJ4Ca1OpIjqtjVO" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Don't Swallow the Cap**
+**Dont Swallow the Cap**
 *Trouble Will Find Me* · 2013 · 4:45
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3l3SbRkrK1aQ5Dk1h7vroV" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

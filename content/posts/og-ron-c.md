@@ -29,7 +29,7 @@ _9 tracks, 2004 to 2022._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0fVEowvTORbC4yRSeLbHnh" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Don't Rush**
+**Dont Rush**
 *F-Action 12 (Chopped & Screwed)* · 2008 · 6:27
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1x9sjC6EFY1MdPpWgZ59J6" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -59,7 +59,7 @@ _9 tracks, 2004 to 2022._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0Ha8Uft6m6SRcuQrOWnqqE" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**My Body Callin'**
+**My Body Callin**
 *Og Ron C Presents F-Action 30* · 2022 · 6:44
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/65ixWwStF4yU2NW45gobYW" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

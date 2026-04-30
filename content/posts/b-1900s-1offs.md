@@ -19,7 +19,7 @@ _44 favorite songs by artists starting with B. Before 2000. One good song and ou
 ---
 
 **B.B. King** — You Upset Me, Baby
-*Singin' The Blues* · 1957 · 3:04
+*Singin The Blues* · 1957 · 3:04
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/589yTSHriuSIwARJqnmuMp" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -33,8 +33,8 @@ _44 favorite songs by artists starting with B. Before 2000. One good song and ou
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3UCmuRdeTriWgOZMEJsfqZ" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Barbara Lynn** — You'll Lose A Good Thing
-*You'll Lose A Good Thing* · 1963 · 2:39
+**Barbara Lynn** — Youll Lose A Good Thing
+*Youll Lose A Good Thing* · 1963 · 2:39
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5CEREcGR5WaLt40YzTQ62e" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -69,7 +69,7 @@ _44 favorite songs by artists starting with B. Before 2000. One good song and ou
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3eQJpfJ9NixsuMKg5XHJ2T" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **Bread** — Everything I Own
-*Baby I'm-a Want You* · 1972 · 3:07
+*Baby Im-a Want You* · 1972 · 3:07
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/52VIdyKqp1pJRSyUQaxKUA" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -104,7 +104,7 @@ _44 favorite songs by artists starting with B. Before 2000. One good song and ou
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1tAFvq63jO3n9WaDCZPJNh" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **Bananarama** — Cruel Summer
-*Bananarama (Collector's Edition)* · 1984 · 3:35
+*Bananarama (Collectors Edition)* · 1984 · 3:35
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2EGaDf0cPX789H3LNeB03D" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -119,7 +119,7 @@ _44 favorite songs by artists starting with B. Before 2000. One good song and ou
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3EvpaRZkKWxsgDIO2zMH7g" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **The Buckinghams** — Kind of a Drag
-*Pop Classics Of The 60's* · 1989 · 2:04
+*Pop Classics Of The 60s* · 1989 · 2:04
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5NfMMASaRz01fltWjbYoLu" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -128,13 +128,13 @@ _44 favorite songs by artists starting with B. Before 2000. One good song and ou
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6m59VvDUi0UQsB2eZ9wVbH" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Bonnie Raitt** — I Can't Make You Love Me
+**Bonnie Raitt** — I Cant Make You Love Me
 *Luck Of The Draw* · 1991 · 5:32
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/69uJi5QsBtqlYkGURTBli8" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Bobby Caldwell** — What You Won't Do for Love
-*What You Won't Do for Love* · 1991 · 4:46
+**Bobby Caldwell** — What You Wont Do for Love
+*What You Wont Do for Love* · 1991 · 4:46
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7dL8FCLzEaWC2A3qWQuz1q" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -164,7 +164,7 @@ _44 favorite songs by artists starting with B. Before 2000. One good song and ou
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2hu3U16eTdAlL1P94oDyBo" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **Biz Markie** — Just a Friend
-*Biz's Baddest Beats: The Best of Biz Markie* · 1994 · 3:58
+*Bizs Baddest Beats: The Best of Biz Markie* · 1994 · 3:58
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3yNVfRQlUPViUh8O2V9SQn" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -183,8 +183,8 @@ _44 favorite songs by artists starting with B. Before 2000. One good song and ou
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0ttHpMs250dpFkCYAnuhnE" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Bing Crosby;John Scott Trotter & His Orchestra** — Too-Ra-Loo-Ra-Loo-Ral (That's An Irish Lullaby) - 1945 Single Version
-*Top O' The Morning / His Irish Collection* · 1996 · 3:20
+**Bing Crosby;John Scott Trotter & His Orchestra** — Too-Ra-Loo-Ra-Loo-Ral (Thats An Irish Lullaby) - 1945 Single Version
+*Top O The Morning / His Irish Collection* · 1996 · 3:20
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5wPjeR82lO9lymgarjo7wQ" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -203,12 +203,12 @@ _44 favorite songs by artists starting with B. Before 2000. One good song and ou
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2DjWwfXYH5CnuXPUU0qU30" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**The Bobby Fuller Four** — Anytime at All - Live at PJ's
+**The Bobby Fuller Four** — Anytime at All - Live at PJs
 *Never To Be Forgotten - The Mustang Years* · 1998 · 3:22
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0nlnN6yMoeuPNr1YIC9qMP" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Barrington Levy** — She's Mine
+**Barrington Levy** — Shes Mine
 *Too Experienced - The Best of Barrington Levy* · 1998 · 3:54
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2OMpcE3MxNdBOaDiStQiYk" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

@@ -89,7 +89,7 @@ _59 tracks between 2017 and 2020._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2aOPvzjpMwikBgngKcxsA9" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Don't Cry (feat. XXXTENTACION)** (feat. Lil Wayne;XXXTENTACION)
+**Dont Cry (feat. XXXTENTACION)** (feat. Lil Wayne;XXXTENTACION)
 *Tha Carter V* · 2018 · 4:09
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1Un5u8iqiv4A069MMj36pw" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -134,7 +134,7 @@ _59 tracks between 2017 and 2020._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5JgtpvAwQettRcIIcLRAA4" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**I don't let go**
+**I dont let go**
 *SKINS* · 2018 · 2:01
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5iW2SwTmWBT2deV4HW4HMo" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -284,7 +284,7 @@ _59 tracks between 2017 and 2020._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4IKUAbNp4TeHFsSlkZo3Xd" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**wanna grow old (i won't let go) (feat. Jimmy Levy)** (feat. XXXTENTACION;Jimmy Levy)
+**wanna grow old (i wont let go) (feat. Jimmy Levy)** (feat. XXXTENTACION;Jimmy Levy)
 *Bad Vibes Forever* · 2019 · 2:11
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0Yyyaw20t6iGErOkMEGLiL" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -309,7 +309,7 @@ _59 tracks between 2017 and 2020._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6jvm6KllPkxmHOChWqYWvs" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**IT'S ALL FADING TO BLACK (feat. blink-182)** (feat. XXXTENTACION;blink-182)
+**ITS ALL FADING TO BLACK (feat. blink-182)** (feat. XXXTENTACION;blink-182)
 *Bad Vibes Forever* · 2019 · 2:31
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0E6yzKYs8iRHt8FFZzycys" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

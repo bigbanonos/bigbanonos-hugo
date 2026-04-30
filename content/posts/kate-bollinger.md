@@ -24,7 +24,7 @@ _3 tracks between 2020 and 2023._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2aIMQ8exqALB45htgOenLF" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**J'aime les filles**
-*J'aime les filles* · 2023 · 3:16
+**Jaime les filles**
+*Jaime les filles* · 2023 · 3:16
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6GiwLIxSRc3bEBaLj2RPjK" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

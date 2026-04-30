@@ -14,7 +14,7 @@ tags:
 
 ## P · 2020s 1-offs
 
-_31 favorite songs by artists starting with P. Current shit. The 2% that's good._
+_31 favorite songs by artists starting with P. Current shit. The 2% thats good._
 
 ---
 

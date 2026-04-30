@@ -19,7 +19,7 @@ _3 tracks, all from 1988._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4d6eqRtpDX7tydHJGDZUBQ" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**I'm Not the Man I Used to Be**
+**Im Not the Man I Used to Be**
 *The Raw & The Cooked* · 1988 · 4:18
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0ce4Ru8pHOZKijojglD4JS" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

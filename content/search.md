@@ -15,10 +15,10 @@ layout: post
 
 <script>
     let fuse;
-    const resultsDiv = document.getElementById('searchResults');
+    const resultsDiv = document.getElementById(searchResults);
 
     // Load the database
-    fetch('/index.json')
+    fetch(/index.json)
         .then(response => {
             if (!response.ok) throw new Error("Database not found");
             return response.json();
@@ -26,26 +26,26 @@ layout: post
         .then(data => {
             console.log("Database loaded:", data.length);
             fuse = new Fuse(data, {
-                keys: ['title', 'tags'],
+                keys: [title, tags],
                 threshold: 0.3,
                 limit: 50
             });
         })
         .catch(err => {
             console.error(err);
-            resultsDiv.innerHTML = "<p style='color:red'>Search database is loading... try refreshing in 1 minute.</p>";
+            resultsDiv.innerHTML = "<p style=color:red>Search database is loading... try refreshing in 1 minute.</p>";
         });
 
     // Listen for typing
-    document.getElementById('searchInput').addEventListener('input', (e) => {
+    document.getElementById(searchInput).addEventListener(input, (e) => {
         if (!fuse) return;
         
         const term = e.target.value;
         const results = fuse.search(term);
-        resultsDiv.innerHTML = ''; 
+        resultsDiv.innerHTML = ; 
 
         if (results.length === 0 && term.length > 0) {
-            resultsDiv.innerHTML = '<p>No matches found.</p>';
+            resultsDiv.innerHTML = <p>No matches found.</p>;
             return;
         }
 
@@ -55,17 +55,17 @@ layout: post
             let title = item.title;
             let link = item.permalink;
             
-            const html = `
+            const html = 
                 <div style="margin-bottom: 15px; padding: 10px; border-bottom: 1px solid #eee;">
                     <a href="${link}" style="font-size: 18px; font-weight: bold; text-decoration: none; color: #333; display: block;">
                         ${title}
                     </a>
                     <span style="font-size: 12px; color: #666;">
-                        ${item.tags ? item.tags.join(', ') : ''}
+                        ${item.tags ? item.tags.join(, ) : }
                     </span>
                 </div>
-            `;
-            resultsDiv.insertAdjacentHTML('beforeend', html);
+            ;
+            resultsDiv.insertAdjacentHTML(beforeend, html);
         });
     });
 </script>

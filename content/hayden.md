@@ -8,13 +8,13 @@ tags:
 ---
 
 <!-- Post Title -->
-<h1 >BigBanonos' Favorite Tracks: Hayden - "Just Come Out Tonight"</h1> <!-- Introductory Text -->
-<p >Updated March 23, 2015, with "Just Come Out Tonight" by Hayden. This heartfelt track from the *Hey Love* album captures Hayden's introspective lyricism and warm, modern folk-rock melodies.</p> <!-- Featured Image -->
+<h1 >BigBanonos Favorite Tracks: Hayden - "Just Come Out Tonight"</h1> <!-- Introductory Text -->
+<p >Updated March 23, 2015, with "Just Come Out Tonight" by Hayden. This heartfelt track from the *Hey Love* album captures Haydens introspective lyricism and warm, modern folk-rock melodies.</p> <!-- Featured Image -->
 <div > <img src="https://d2l4kn3pfhqw69.cloudfront.net/wp-content/uploads/2018/11/Hayden-FLAT-2.jpg" alt="Hayden - Hey Love" />
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "XJHZfKoKpwI" >}}
 </div> <!-- Song Information -->
-<div > <p><em>"Just Come Out Tonight"</em> is a standout from Hayden's *Hey Love* album, blending his signature Canadian indie sound with modern folk-rock influences. Released on March 23, 2015, it's a deeply emotional piece that resonates with listeners who appreciate heartfelt storytelling through music.</p>
+<div > <p><em>"Just Come Out Tonight"</em> is a standout from Haydens *Hey Love* album, blending his signature Canadian indie sound with modern folk-rock influences. Released on March 23, 2015, its a deeply emotional piece that resonates with listeners who appreciate heartfelt storytelling through music.</p>
 </div> <!-- Footer Links -->
 <div > <p>Discover more favorite tracks at <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Check out curated playlists on <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and follow us on <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p>
 </div> 

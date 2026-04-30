@@ -9,7 +9,7 @@ description: "11 tracks — O artists, 2020s"
 11 tracks.
 
 <div class="track-embed">
-  <p><strong>Tinko Tinko (Don't Play Me for a Fool)</strong> — Obongjayar</p>
+  <p><strong>Tinko Tinko (Dont Play Me for a Fool)</strong> — Obongjayar</p>
   <iframe src="https://open.spotify.com/embed/track/6f8pOnEswFwiU4FTcZicV6?utm_source=generator" width="100%" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 </div>
 

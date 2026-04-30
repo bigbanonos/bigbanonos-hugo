@@ -14,8 +14,8 @@ _2 tracks, all from 2022._
 
 ---
 
-**It Ain't Your Time**
-*It Ain't Your Time* · 2022 · 3:51
+**It Aint Your Time**
+*It Aint Your Time* · 2022 · 3:51
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/45NGOd2yWjdDrpGifyirFO" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 

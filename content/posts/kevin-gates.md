@@ -29,7 +29,7 @@ _6 tracks between 2013 and 2022._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2vgSI3HTdzVfjD23ZIuHol" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**I Don't Get Tired (#IDGT) (feat. August Alsina)** (feat. Kevin Gates;August Alsina)
+**I Dont Get Tired (#IDGT) (feat. August Alsina)** (feat. Kevin Gates;August Alsina)
 *Luca Brasi 2: Gangsta Grillz* · 2014 · 3:29
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6HMHgBHdLBQ0QYIaOp2gse" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

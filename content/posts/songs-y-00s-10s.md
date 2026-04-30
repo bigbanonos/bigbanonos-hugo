@@ -39,7 +39,7 @@ description: "12 tracks — Y artists, 2000s–2010s"
 </div>
 
 <div class="track-embed">
-  <p><strong>It's Goin' Down (feat. Nitti)</strong> — Yung Joc;NITTI</p>
+  <p><strong>Its Goin Down (feat. Nitti)</strong> — Yung Joc;NITTI</p>
   <iframe src="https://open.spotify.com/embed/track/05Sgj1Hx03ZXc57gsV1kfX?utm_source=generator" width="100%" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 </div>
 

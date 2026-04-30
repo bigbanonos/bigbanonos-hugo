@@ -14,7 +14,7 @@ tags:
 
 ## N · 2020s 1-offs
 
-_31 favorite songs by artists starting with N. Current shit. The 2% that's good._
+_31 favorite songs by artists starting with N. Current shit. The 2% thats good._
 
 ---
 
@@ -109,7 +109,7 @@ _31 favorite songs by artists starting with N. Current shit. The 2% that's good.
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/59NJzV28kIjaPVqnkEX55V" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **NewJeans** — Super Shy
-*NewJeans 'Super Shy'* · 2023 · 2:34
+*NewJeans Super Shy* · 2023 · 2:34
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5sdQOyqq2IDhvmx2lHOpwd" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -118,8 +118,8 @@ _31 favorite songs by artists starting with N. Current shit. The 2% that's good.
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0UilWRSaAPqnwdUc9HJfxG" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**NEIL FRANCES;dreamcastmoe** — She's Just the Type of Girl
-*It's All a Bit Fuzzy* · 2023 · 2:41
+**NEIL FRANCES;dreamcastmoe** — Shes Just the Type of Girl
+*Its All a Bit Fuzzy* · 2023 · 2:41
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/79ri2kyVbP57qMLfNDHI3S" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 

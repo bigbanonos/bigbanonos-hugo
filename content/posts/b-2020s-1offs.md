@@ -14,7 +14,7 @@ tags:
 
 ## B · 2020s 1-offs
 
-_54 favorite songs by artists starting with B. Current shit. The 2% that's good._
+_54 favorite songs by artists starting with B. Current shit. The 2% thats good._
 
 ---
 
@@ -68,8 +68,8 @@ _54 favorite songs by artists starting with B. Current shit. The 2% that's good.
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5rcCDtgYpgcrz6NMg4N1Cb" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Bad Boy Chiller Crew** — Don't You Worry About Me
-*Don't You Worry About Me* · 2021 · 3:40
+**Bad Boy Chiller Crew** — Dont You Worry About Me
+*Dont You Worry About Me* · 2021 · 3:40
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4cJgjjWMjf4nfLRuSr4hVl" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 

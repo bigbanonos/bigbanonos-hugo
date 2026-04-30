@@ -44,7 +44,7 @@ description: "19 tracks — O artists, 2000s–2010s"
 </div>
 
 <div class="track-embed">
-  <p><strong>My House</strong> — The O'My's</p>
+  <p><strong>My House</strong> — The OMys</p>
   <iframe src="https://open.spotify.com/embed/track/7dPs1mOSvfQqwAZsFVtc9g?utm_source=generator" width="100%" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 </div>
 

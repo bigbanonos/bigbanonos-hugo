@@ -22,6 +22,6 @@ _2 tracks between 2019 and 2020._
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4uBiUTHSuuRT4CtEoZHz2f" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **Why**
-*Aquarium Drunkard's Lagniappe Session* · 2020 · 5:49
+*Aquarium Drunkards Lagniappe Session* · 2020 · 5:49
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0PpXXuC1TVqAp2BnCNSJzn" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

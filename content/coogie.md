@@ -11,8 +11,8 @@ tags:
 ---
 
 <!-- Post Title -->
-<h1 >BigBanonos' Favorite Song by Coogie, SUPERBEE, D.Ark, CHANGMO</h1> <!-- Introductory Text -->
-<p >Updated with BigBanonos' favorite track from 2018, "saimsaim" by Coogie, SUPERBEE, D.Ark, and CHANGMO. This standout from *Show Me the Money 777* captures the energetic and innovative sound of Korean hip-hop, blending sharp lyricism and dynamic production.</p> <!-- Featured Image -->
+<h1 >BigBanonos Favorite Song by Coogie, SUPERBEE, D.Ark, CHANGMO</h1> <!-- Introductory Text -->
+<p >Updated with BigBanonos favorite track from 2018, "saimsaim" by Coogie, SUPERBEE, D.Ark, and CHANGMO. This standout from *Show Me the Money 777* captures the energetic and innovative sound of Korean hip-hop, blending sharp lyricism and dynamic production.</p> <!-- Featured Image -->
 <div > <img src="https://static.wikia.nocookie.net/k-hip-hop/images/7/78/Coogie_1.png/revision/latest?cb=20230414210133" alt="Coogie, SUPERBEE, D.Ark, CHANGMO - saimsaim" />
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "d0eu38Xqtz8" >}}

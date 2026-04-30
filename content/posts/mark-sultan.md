@@ -15,7 +15,7 @@ _2 tracks, all from 2011._
 
 ---
 
-**Livin' My Life**
+**Livin My Life**
 *Whatever I Want* · 2011 · 3:11
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4XL26v0gA003qtGRInTn5e" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

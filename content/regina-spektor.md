@@ -14,7 +14,7 @@ tags:
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "M-41HdCf7dI" >}}
 </div> <!-- Song Information -->
-<div > <p><em>"That Time"</em>, released on June 13, 2006, by Sire Records, is a standout track from Regina Spektor's *Begin to Hope*. The song's clever lyrics, emotive vocals, and signature piano-driven sound cement it as a fan favorite, embodying the charm of indie pop.</p>
+<div > <p><em>"That Time"</em>, released on June 13, 2006, by Sire Records, is a standout track from Regina Spektors *Begin to Hope*. The songs clever lyrics, emotive vocals, and signature piano-driven sound cement it as a fan favorite, embodying the charm of indie pop.</p>
 </div> <!-- Footer Links -->
 <div > 
 </div> 

@@ -22,7 +22,7 @@ _2 tracks between 2016 and 2018._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4bZEYhsaCCGSnP04abbygl" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**You Don't Want Me** (feat. Wesley Bright and the Honeytones)
-*You Don't Want Me* · 2018 · 4:25
+**You Dont Want Me** (feat. Wesley Bright and the Honeytones)
+*You Dont Want Me* · 2018 · 4:25
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6CKZZyberMgFFGqbj36qhU" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

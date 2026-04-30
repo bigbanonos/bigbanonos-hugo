@@ -7,20 +7,20 @@ tags:
   - '@vagabon'
 ---
 
-<div class="post-title"> <h1>BigBanonos' Favorite Songs by Vagabon</h1>
+<div class="post-title"> <h1>BigBanonos Favorite Songs by Vagabon</h1>
 </div>
-<p>Updated September 15, 2023, with "You Know How" from the album <i>Sorry I Haven't Called</i>, highlighted in the playlist below:</p>
+<p>Updated September 15, 2023, with "You Know How" from the album <i>Sorry I Havent Called</i>, highlighted in the playlist below:</p>
 <div class="post-image"> {{< img-lite src="https://thefader-res.cloudinary.com/private_images/w_760,c_limit,f_auto,q_auto:best/Vagabon_-_By_Tonje_Thilesen_nptsnb/vagabon-every-woman-video-new-album-2019.jpg" alt="Vagabon Album Cover" >}}
 </div>
-<p>Vagabon's introspective lyricism and lush art pop soundscapes make her a standout artist. Tracks like "You Know How," "Carpenter," and "Lexicon" highlight her innovative approach to songwriting and genre-bending creativity. Released in 2023, these songs from <i>Sorry I Haven't Called</i> and <i>Lexicon</i> showcase her ability to capture raw emotion through captivating melodies.</p>
+<p>Vagabons introspective lyricism and lush art pop soundscapes make her a standout artist. Tracks like "You Know How," "Carpenter," and "Lexicon" highlight her innovative approach to songwriting and genre-bending creativity. Released in 2023, these songs from <i>Sorry I Havent Called</i> and <i>Lexicon</i> showcase her ability to capture raw emotion through captivating melodies.</p>
 <p>Listen to the playlist below to experience these tracks and more:</p>
-<div class="spotify-embed"> {{< youtube "embed" >}}
+<div class="spotify-embed"> 
 </div>
 <p>Tracks featured:</p>
-<ul> <li>"You Know How" – <i>Sorry I Haven't Called</i> (September 15, 2023, Nonesuch)</li> <li>"Lexicon" – <i>Lexicon</i> (September 12, 2023, Nonesuch)</li> <li>"Can I Talk My Shit?" – <i>Lexicon</i> (September 12, 2023, Nonesuch)</li> <li>"Carpenter" – <i>Lexicon</i> (September 12, 2023, Nonesuch)</li> <li>"Carpenter" – <i>Carpenter</i> (January 12, 2023, Nonesuch)</li> <li>"Can I Talk My Shit?" – <i>Can I Talk My Shit?</i> (June 15, 2023, Nonesuch)</li>
+<ul> <li>"You Know How" – <i>Sorry I Havent Called</i> (September 15, 2023, Nonesuch)</li> <li>"Lexicon" – <i>Lexicon</i> (September 12, 2023, Nonesuch)</li> <li>"Can I Talk My Shit?" – <i>Lexicon</i> (September 12, 2023, Nonesuch)</li> <li>"Carpenter" – <i>Lexicon</i> (September 12, 2023, Nonesuch)</li> <li>"Carpenter" – <i>Carpenter</i> (January 12, 2023, Nonesuch)</li> <li>"Can I Talk My Shit?" – <i>Can I Talk My Shit?</i> (June 15, 2023, Nonesuch)</li>
 </ul>
-<p>Explore Vagabon's mesmerizing world of art pop and let her music captivate your soul.</p>
+<p>Explore Vagabons mesmerizing world of art pop and let her music captivate your soul.</p>
 <hr>
-<div class="post-footer"> <p>Discover more of BigBanonos' favorites at:</p> <ul> <li><a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos Blog</a></li> <li><a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a></li> <li><a href="https://x.com/bigbanonos" target="_blank">BigBanonos on X
+<div class="post-footer"> <p>Discover more of BigBanonos favorites at:</p> <ul> <li><a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos Blog</a></li> <li><a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a></li> <li><a href="https://x.com/bigbanonos" target="_blank">BigBanonos on X
 
 <hr />

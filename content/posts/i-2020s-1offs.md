@@ -14,7 +14,7 @@ tags:
 
 ## I · 2020s 1-offs
 
-_5 favorite songs by artists starting with I. Current shit. The 2% that's good._
+_5 favorite songs by artists starting with I. Current shit. The 2% thats good._
 
 ---
 

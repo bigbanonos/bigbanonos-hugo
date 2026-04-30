@@ -7,6 +7,6 @@ tags:
   - '@quicklyquickly'
 ---
 
-{{< youtube "z_RFTrb-GyQ" >}}<h2><ol><li>Everything is Different (To Me)</li></ol></h2>
+{{< youtube "z_RFTrb-GyQ" >}}<h2></h2>
 
 <hr />

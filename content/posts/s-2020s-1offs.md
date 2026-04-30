@@ -14,7 +14,7 @@ tags:
 
 ## S · 2020s 1-offs
 
-_62 favorite songs by artists starting with S. Current shit. The 2% that's good._
+_62 favorite songs by artists starting with S. Current shit. The 2% thats good._
 
 ---
 

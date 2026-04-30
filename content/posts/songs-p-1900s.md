@@ -29,7 +29,7 @@ description: "23 tracks — P artists, 1900s–1990s"
 </div>
 
 <div class="track-embed">
-  <p><strong>Passin' Me By</strong> — The Pharcyde</p>
+  <p><strong>Passin Me By</strong> — The Pharcyde</p>
   <iframe src="https://open.spotify.com/embed/track/4G3dZN9o3o2X4VKwt4CLts?utm_source=generator" width="100%" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 </div>
 
@@ -74,7 +74,7 @@ description: "23 tracks — P artists, 1900s–1990s"
 </div>
 
 <div class="track-embed">
-  <p><strong>Steppin' Razor</strong> — Peter Tosh</p>
+  <p><strong>Steppin Razor</strong> — Peter Tosh</p>
   <iframe src="https://open.spotify.com/embed/track/1xmJqUhVADFGaZFCDdCzPo?utm_source=generator" width="100%" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 </div>
 
@@ -94,7 +94,7 @@ description: "23 tracks — P artists, 1900s–1990s"
 </div>
 
 <div class="track-embed">
-  <p><strong>I'm Alive</strong> — Johnny Thunder</p>
+  <p><strong>Im Alive</strong> — Johnny Thunder</p>
   <iframe src="https://open.spotify.com/embed/track/2IPgxg2c1jk45Ay32Cqz33?utm_source=generator" width="100%" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 </div>
 

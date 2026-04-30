@@ -14,7 +14,7 @@ tags:
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "qCw2jVtDVfA" >}}
 </div> <!-- Song Information -->
-<div > <p><em>"Never Be the Same"</em>, released on April 26, 2011, from the album *Rifle Heart*, showcases Little Majorette's signature Swedish indie pop sound. With its dreamy vocals and poignant lyrics, the track is a standout example of the band's captivating artistry.</p>
+<div > <p><em>"Never Be the Same"</em>, released on April 26, 2011, from the album *Rifle Heart*, showcases Little Majorettes signature Swedish indie pop sound. With its dreamy vocals and poignant lyrics, the track is a standout example of the bands captivating artistry.</p>
 </div> <!-- Footer Links -->
 <div > 
 </div> 

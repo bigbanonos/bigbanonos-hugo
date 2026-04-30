@@ -28,7 +28,7 @@ _3 tracks between 1990 and 1995._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7gfOvncMIM2Ctyzg9nCHcb" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**We'll Let You Know**
+**Well Let You Know**
 *World of Morrissey* · 1995 · 5:16
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/43sFC2c3ssdwVwTp3DXPhD" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

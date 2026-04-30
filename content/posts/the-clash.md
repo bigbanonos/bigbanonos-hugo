@@ -46,7 +46,7 @@ _21 tracks spanning 1977 to 2022. 45 years of trying._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1m7FqT4YSx8UxMUlv46ByF" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Rudie Can't Fail**
+**Rudie Cant Fail**
 *London Calling (Expanded Edition)* · 1979 · 3:29
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4ZwPaJ0MtjFQRxJYRWUOjJ" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -71,7 +71,7 @@ _21 tracks spanning 1977 to 2022. 45 years of trying._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0HYh2bbw7zbKnfVjRVIDVQ" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Lover's Rock**
+**Lovers Rock**
 *London Calling (Expanded Edition)* · 1979 · 4:03
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5nKoCK2SIO2dE9m09sh58d" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -81,7 +81,7 @@ _21 tracks spanning 1977 to 2022. 45 years of trying._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/66MwdlxiFMZ8TJGLEJnS7x" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**I'm Not Down**
+**Im Not Down**
 *London Calling* · 1979 · 3:06
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7bqpe2jwrfOab2NCGkjqay" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

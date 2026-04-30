@@ -21,7 +21,7 @@ _2 tracks between 2022 and 2023._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1iTJmHsepLMSJkkgo69ArU" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Every Day's A Lesson In Humility**
-*Every Day's A Lesson In Humility* · 2023 · 3:36
+**Every Days A Lesson In Humility**
+*Every Days A Lesson In Humility* · 2023 · 3:36
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/61McqEmrnduKFDgd0lY6xf" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

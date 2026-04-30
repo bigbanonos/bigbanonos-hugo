@@ -33,7 +33,7 @@ _22 favorite songs by artists starting with J. Before 2000. One good song and ou
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3vST7tho4iT90949PEtM7i" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Jobriath** — I'm a Man
+**Jobriath** — Im a Man
 *Jobriath* · 1973 · 3:38
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7GoglYZ5ybc2vn9UsbNKib" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -43,7 +43,7 @@ _22 favorite songs by artists starting with J. Before 2000. One good song and ou
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0P2zpkhyIslhGym8j5974Q" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**The Jam** — That's Entertainment
+**The Jam** — Thats Entertainment
 *Sound Affects* · 1980 · 3:32
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7MH7TkjQ4RA1vG454dciw0" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -69,7 +69,7 @@ _22 favorite songs by artists starting with J. Before 2000. One good song and ou
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/55Wm3y6wUy5xS1thd0Zial" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **Jamaica Girls** — Rock the Beat
-*Bad Times (I Can't Stand It) / Rock the Beat* · 1991 · 5:48
+*Bad Times (I Cant Stand It) / Rock the Beat* · 1991 · 5:48
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6UsRCJUB9KJlRpHDb0i9Zb" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -78,7 +78,7 @@ _22 favorite songs by artists starting with J. Before 2000. One good song and ou
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7awYVgOAmDqQIswnzClZDC" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Jade** — Don't Walk Away
+**Jade** — Dont Walk Away
 *Jade To The Max* · 1992 · 3:36
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7tsRp7QKUBp6hc9bth0h7x" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -98,7 +98,7 @@ _22 favorite songs by artists starting with J. Before 2000. One good song and ou
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3boCngcMnOSFkX2gZgadS6" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Jodeci** — Freek'n You
+**Jodeci** — Freekn You
 *The Show, The After Party, The Hotel* · 1995 · 6:19
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/43sNw9nvGYGLYnNiwI8oMZ" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

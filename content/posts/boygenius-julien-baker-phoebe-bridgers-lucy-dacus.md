@@ -15,7 +15,7 @@ _2 tracks, all from 2023._
 
 ---
 
-**Emily I'm Sorry**
+**Emily Im Sorry**
 *the record* · 2023 · 3:34
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/693xmBAOD4xwkS4W71W1Jn" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

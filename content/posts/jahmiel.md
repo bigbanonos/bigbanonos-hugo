@@ -27,7 +27,7 @@ _7 tracks, 2015 to 2026._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/374RyQfAoxXIHvqpY0LHJD" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Dear Frass (I Just Don't Know)** (feat. Jahmeil)
+**Dear Frass (I Just Dont Know)** (feat. Jahmeil)
 *Street Light Riddim - Ep* · 2016 · 2:35
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1xwwQVHBMjwiNVbEvnKA04" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

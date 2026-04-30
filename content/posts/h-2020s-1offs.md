@@ -14,7 +14,7 @@ tags:
 
 ## H · 2020s 1-offs
 
-_14 favorite songs by artists starting with H. Current shit. The 2% that's good._
+_14 favorite songs by artists starting with H. Current shit. The 2% thats good._
 
 ---
 
@@ -54,7 +54,7 @@ _14 favorite songs by artists starting with H. Current shit. The 2% that's good.
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4cUglKuCjNNJkQsrOLG729" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **Harry Styles** — Daylight
-*Harry's House* · 2022 · 2:44
+*Harrys House* · 2022 · 2:44
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/51Zw1cKDgkad0CXv23HCMU" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -79,7 +79,7 @@ _14 favorite songs by artists starting with H. Current shit. The 2% that's good.
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6mGNSZKY6TXs67l20dH5rG" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **Hailey Whitters** — I’m In Love
-*I'm In Love* · 2023 · 2:26
+*Im In Love* · 2023 · 2:26
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5uTQC24DoCTc287oH8Xpp4" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 

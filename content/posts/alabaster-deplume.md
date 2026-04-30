@@ -70,7 +70,7 @@ _15 tracks spanning 1978 to 2026. 48 years of trying._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1WiKlbSUVA1btvYMY60Xrh" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**The Gal From Joe's** (feat. Charlie Barnet & His Orchestra)
+**The Gal From Joes** (feat. Charlie Barnet & His Orchestra)
 *The Complete Charlie Barnet, Vol. II* · 2022 · 3:22
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/00ZfH3toBRVQEkMBcxgs6k" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

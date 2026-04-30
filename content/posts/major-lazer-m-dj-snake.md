@@ -28,23 +28,23 @@ _12 tracks, 2009 to 2023._
 
 ---
 
-**Keep It Goin' Louder** (feat. Major Lazer;Nina Sky;Ricky Blaze)
-*Guns Don't Kill People... Lazers Do* · 2009 · 3:46
+**Keep It Goin Louder** (feat. Major Lazer;Nina Sky;Ricky Blaze)
+*Guns Dont Kill People... Lazers Do* · 2009 · 3:46
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/75CKymj1H1yf4KcMvmJaCI" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Can't Stop Now** (feat. Major Lazer;Mr. Vegas;Jovi Rockwell)
-*Guns Don't Kill People... Lazers Do* · 2009 · 4:03
+**Cant Stop Now** (feat. Major Lazer;Mr. Vegas;Jovi Rockwell)
+*Guns Dont Kill People... Lazers Do* · 2009 · 4:03
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1YMQMb45kvxI7KK0VFNgxU" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **Mary Jane** (feat. Major Lazer;Mr. Evil;Mapei)
-*Guns Don't Kill People... Lazers Do* · 2009 · 3:27
+*Guns Dont Kill People... Lazers Do* · 2009 · 3:27
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/19Mbvf7Lzn2ELDauqBENS5" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **Pon De Floor** (feat. Major Lazer;Vybz Kartel)
-*Guns Don't Kill People... Lazers Do* · 2009 · 3:33
+*Guns Dont Kill People... Lazers Do* · 2009 · 3:33
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2qW141LbW1h8GxOLud0TUx" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 

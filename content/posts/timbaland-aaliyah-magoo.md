@@ -36,11 +36,11 @@ _6 tracks from 1997 to 2024. The peak is in there somewhere._
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7dgIWlNcbKat7SBAuStJlX" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **Fat Rabbit (feat. Ludacris)** (feat. Timbaland;Ludacris)
-*Tim's Bio: From The Motion Picture - Life From Da Bassment* · 1998 · 4:57
+*Tims Bio: From The Motion Picture - Life From Da Bassment* · 1998 · 4:57
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/24Pm9mJzM3Id97qzmJv0NW" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**All Y'all (feat. Tweet)** (feat. Timbaland;Magoo;Tweet)
+**All Yall (feat. Tweet)** (feat. Timbaland;Magoo;Tweet)
 *Indecent Proposal* · 2001 · 3:57
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2nOcuauhAyF67EL7HrzHVZ" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

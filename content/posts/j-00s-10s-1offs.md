@@ -28,7 +28,7 @@ _65 favorite songs by artists starting with J. The peak decades for 1-offs. Pre-
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4lkeB9a3NmLM38zXaQhuHz" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**James & Bobby Purify** — I'm Your Puppet
+**James & Bobby Purify** — Im Your Puppet
 *Shake A Tail Feather! The Best Of James And Bobby Purify* · 2002 · 2:59
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6H8WMHCov3QGaPLbpOMpcJ" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -58,7 +58,7 @@ _65 favorite songs by artists starting with J. The peak decades for 1-offs. Pre-
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/05wSlE2MuBgSe4c2D6BQHs" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**John Holt** — It's A Jam In The Street
+**John Holt** — Its A Jam In The Street
 *Help Me Make It Through The Night: The Best Of John Holt* · 2003 · 2:32
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6ZIAyRC6xxQhbIpWpMb5aO" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -74,7 +74,7 @@ _65 favorite songs by artists starting with J. The peak decades for 1-offs. Pre-
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1DH9DnbeLwtbUbHpGRJIXE" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **Jamie Lidell** — Multiply
-*Grey's Anatomy Volume 2 Original Soundtrack* · 2006 · 4:25
+*Greys Anatomy Volume 2 Original Soundtrack* · 2006 · 4:25
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4EcMUqJ2ykJzPMBGNBgWVJ" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -94,7 +94,7 @@ _65 favorite songs by artists starting with J. The peak decades for 1-offs. Pre-
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4NYYP8wOGGjiXELYHT8C2c" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **Jeffrey Lewis** — Roll Bus Roll
-*'Em Are I* · 2009 · 4:52
+*Em Are I* · 2009 · 4:52
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/11zSKLasyDuRNCKVVMi8os" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -103,7 +103,7 @@ _65 favorite songs by artists starting with J. The peak decades for 1-offs. Pre-
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0LiqsdogoZK5XP54Oc2iWw" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Jay Reatard** — It Ain't Gonna Save Me
+**Jay Reatard** — It Aint Gonna Save Me
 *Watch Me Fall* · 2009 · 2:21
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/46ZvCcdOz7QblKOnLNArWp" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -138,7 +138,7 @@ _65 favorite songs by artists starting with J. The peak decades for 1-offs. Pre-
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/33AQv3sfvHmtGfYNIJpi96" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**The Joy Tones** — This Love That I'm Giving You
+**The Joy Tones** — This Love That Im Giving You
 *The Best of COED Records, Vol. 1* · 2011 · 2:35
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3Av7WMoYHIeSsUaeXJj9Jp" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -303,7 +303,7 @@ _65 favorite songs by artists starting with J. The peak decades for 1-offs. Pre-
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4hpfe5bfkOd3H11XEWsMUd" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Ja'roy;Tory Lanez;Honorebel** — Flaunt That (feat. Tory Lanez & Honorebel)
+**Jaroy;Tory Lanez;Honorebel** — Flaunt That (feat. Tory Lanez & Honorebel)
 *Flaunt That (feat. Tory Lanez & Honorebel)* · 2019 · 3:30
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1T3vLAhy9eX3RHPlycQM2g" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

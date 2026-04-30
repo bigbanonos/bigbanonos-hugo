@@ -10,7 +10,7 @@ tags:
   - 'space rock'
 ---
 
-## Dan Melchior's Broke Revue
+## Dan Melchiors Broke Revue
 
 _4 tracks between 2001 and 2002._
 

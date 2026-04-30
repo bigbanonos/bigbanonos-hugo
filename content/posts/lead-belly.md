@@ -29,6 +29,6 @@ _3 tracks spanning 1949 to 1994. 45 years of trying._
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/13U0E6CXh2dnEi6eDzNyK0" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **Black Betty**
-*Lead Belly's Last Sessions* · 1994 · 1:52
+*Lead Bellys Last Sessions* · 1994 · 1:52
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4ccW0n1s1ByBG88ZwxOPf1" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

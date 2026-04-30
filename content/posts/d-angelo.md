@@ -24,7 +24,7 @@ tags:
   - 'r&b'
 ---
 
-## D'Angelo
+## DAngelo
 
 _39 tracks from 1994 to 2022. The peak is in there somewhere._
 
@@ -45,17 +45,17 @@ _39 tracks from 1994 to 2022. The peak is in there somewhere._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7AjfklMN4WpQYz5FkT4E66" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Cruisin'**
+**Cruisin**
 *Brown Sugar* · 1995 · 6:24
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2voXNGgRrosxCJA6foTVau" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Me And Those Dreamin' Eyes Of Mine**
+**Me And Those Dreamin Eyes Of Mine**
 *Brown Sugar* · 1995 · 4:46
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5MjUkhqCpr5uZ39xZmLZxe" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Keep Tryin'** (feat. Groove Theory)
+**Keep Tryin** (feat. Groove Theory)
 *Groove Theory* · 1995 · 4:20
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0MXNzVX7zTva4U569d5oOq" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -75,7 +75,7 @@ _39 tracks from 1994 to 2022. The peak is in there somewhere._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5mVPitVqBDRt608zUWEgIy" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Nothing Even Matters (feat. D'Angelo)** (feat. Ms. Lauryn Hill;D'Angelo)
+**Nothing Even Matters (feat. DAngelo)** (feat. Ms. Lauryn Hill;DAngelo)
 *The Miseducation of Lauryn Hill* · 1998 · 5:50
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1Q0lOGB52skgfzdcq233vs" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -146,7 +146,7 @@ _39 tracks from 1994 to 2022. The peak is in there somewhere._
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6k5yz5rd2BYSrpUQDhBOTJ" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **Like a Renegade** (feat. Juiceboxxx)
-*I Don't Wanna Go into the Darkness* · 2012 · 3:05
+*I Dont Wanna Go into the Darkness* · 2012 · 3:05
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2WshaXHbGYumlX7l33RkKu" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -186,7 +186,7 @@ _39 tracks from 1994 to 2022. The peak is in there somewhere._
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3dY5DdfVsVtC3MX74Oqffz" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **Pale Blue Light** (feat. Jessie Ware)
-*What's Your Pleasure? (The Platinum Pleasure Edition)* · 2021 · 4:44
+*Whats Your Pleasure? (The Platinum Pleasure Edition)* · 2021 · 4:44
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1NjUQMlgLjYL6Bm6kjHf57" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 

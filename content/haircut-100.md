@@ -14,7 +14,7 @@ tags:
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "I23cCB1dR4o" >}}
 </div> <!-- Song Information -->
-<div > <p><em>"Love Plus One"</em>, from Haircut 100's 1982 album *Pelican West Plus*, released under RCA Camden, captures the playful and sophisticated charm of the early '80s new wave scene. With its breezy melody and catchy rhythm, this track remains a fan favorite and a defining moment in new romantic music.</p>
+<div > <p><em>"Love Plus One"</em>, from Haircut 100s 1982 album *Pelican West Plus*, released under RCA Camden, captures the playful and sophisticated charm of the early 80s new wave scene. With its breezy melody and catchy rhythm, this track remains a fan favorite and a defining moment in new romantic music.</p>
 </div> <!-- Footer Links -->
 <div > 
 </div> 

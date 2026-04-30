@@ -9,7 +9,7 @@ description: "32 tracks — T artists, 1900s–1990s"
 32 tracks.
 
 <div class="track-embed">
-  <p><strong>Can't You See - Original Version</strong> — Total;The Notorious B.I.G.</p>
+  <p><strong>Cant You See - Original Version</strong> — Total;The Notorious B.I.G.</p>
   <iframe src="https://open.spotify.com/embed/track/6UvtZfguvJBwxU6wXsG21R?utm_source=generator" width="100%" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 </div>
 
@@ -29,7 +29,7 @@ description: "32 tracks — T artists, 1900s–1990s"
 </div>
 
 <div class="track-embed">
-  <p><strong>If You Don't Think</strong> — Tammi Terrell</p>
+  <p><strong>If You Dont Think</strong> — Tammi Terrell</p>
   <iframe src="https://open.spotify.com/embed/track/0ypZe6HF8mT7DdxFOGs8Rt?utm_source=generator" width="100%" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 </div>
 
@@ -39,12 +39,12 @@ description: "32 tracks — T artists, 1900s–1990s"
 </div>
 
 <div class="track-embed">
-  <p><strong>I'm Bout It, Bout It</strong> — TRU;Master P;Mia X</p>
+  <p><strong>Im Bout It, Bout It</strong> — TRU;Master P;Mia X</p>
   <iframe src="https://open.spotify.com/embed/track/362ychdHc0vMXhUE50PuoN?utm_source=generator" width="100%" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 </div>
 
 <div class="track-embed">
-  <p><strong>I'm Unkind</strong> — Thee Headcoats;Billy Childish</p>
+  <p><strong>Im Unkind</strong> — Thee Headcoats;Billy Childish</p>
   <iframe src="https://open.spotify.com/embed/track/2748oPgd64JSJghQ3VrZhE?utm_source=generator" width="100%" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 </div>
 
@@ -69,7 +69,7 @@ description: "32 tracks — T artists, 1900s–1990s"
 </div>
 
 <div class="track-embed">
-  <p><strong>You're Makin' Me High</strong> — Toni Braxton</p>
+  <p><strong>Youre Makin Me High</strong> — Toni Braxton</p>
   <iframe src="https://open.spotify.com/embed/track/5bJ796cOnGBzSN5bm4mwMj?utm_source=generator" width="100%" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 </div>
 
@@ -94,7 +94,7 @@ description: "32 tracks — T artists, 1900s–1990s"
 </div>
 
 <div class="track-embed">
-  <p><strong>What's New Pussycat?</strong> — Tom Jones</p>
+  <p><strong>Whats New Pussycat?</strong> — Tom Jones</p>
   <iframe src="https://open.spotify.com/embed/track/4HjwGX3pJKJTeOSDpT6GCo?utm_source=generator" width="100%" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 </div>
 
@@ -114,7 +114,7 @@ description: "32 tracks — T artists, 1900s–1990s"
 </div>
 
 <div class="track-embed">
-  <p><strong>It's Growing - Album Version / Stereo</strong> — The Temptations</p>
+  <p><strong>Its Growing - Album Version / Stereo</strong> — The Temptations</p>
   <iframe src="https://open.spotify.com/embed/track/2HXgkE2VvhMyujBLKAoVVp?utm_source=generator" width="100%" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 </div>
 
@@ -164,6 +164,6 @@ description: "32 tracks — T artists, 1900s–1990s"
 </div>
 
 <div class="track-embed">
-  <p><strong>Shenandoah</strong> — Traditional;Stephen Cleobury;Choir of King's College, Cambridge</p>
+  <p><strong>Shenandoah</strong> — Traditional;Stephen Cleobury;Choir of Kings College, Cambridge</p>
   <iframe src="https://open.spotify.com/embed/track/6YQhfgPqiOX0DIfazSLr4X?utm_source=generator" width="100%" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 </div>

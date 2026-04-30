@@ -8,8 +8,8 @@ tags:
 ---
 
 <!-- Post Title -->
-<h1 >BigBanonos' Favorite Tracks: Mark Mulcahy - "She Makes the World Turn Backwards"</h1> <!-- Introductory Text -->
-<p >Updated June 18, 2013, with "She Makes the World Turn Backwards" by Mark Mulcahy. This heartfelt track from the album <em>Dear Mark J. Mulcahy, I Love You</em>, released under The Mezzotint Label, highlights Mulcahy's distinct voice and the rich storytelling of Connecticut indie rock.</p> <!-- Featured Image -->
+<h1 >BigBanonos Favorite Tracks: Mark Mulcahy - "She Makes the World Turn Backwards"</h1> <!-- Introductory Text -->
+<p >Updated June 18, 2013, with "She Makes the World Turn Backwards" by Mark Mulcahy. This heartfelt track from the album <em>Dear Mark J. Mulcahy, I Love You</em>, released under The Mezzotint Label, highlights Mulcahys distinct voice and the rich storytelling of Connecticut indie rock.</p> <!-- Featured Image -->
 <div > <img src="https://www.rollingstone.com/wp-content/uploads/2018/06/rs-10326-20130403-mm-x624-1365022393.jpg" alt="Mark Mulcahy - She Makes the World Turn Backwards" />
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "f42OyBt6Pbo" >}}

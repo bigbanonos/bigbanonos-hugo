@@ -19,12 +19,12 @@ description: "6 tracks — U artists, 2020s"
 </div>
 
 <div class="track-embed">
-  <p><strong>Popcaan Said My Riddims Aren't Good</strong> — unkle G;Gavsborg</p>
+  <p><strong>Popcaan Said My Riddims Arent Good</strong> — unkle G;Gavsborg</p>
   <iframe src="https://open.spotify.com/embed/track/4HYSJzAmTFsZuaQZP1HHAl?utm_source=generator" width="100%" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 </div>
 
 <div class="track-embed">
-  <p><strong>Can't Go (feat. Ty Dolla $ign)</strong> — UnoTheActivist;Ty Dolla $ign</p>
+  <p><strong>Cant Go (feat. Ty Dolla $ign)</strong> — UnoTheActivist;Ty Dolla $ign</p>
   <iframe src="https://open.spotify.com/embed/track/3JDXds7lriMFNJ6LZknECV?utm_source=generator" width="100%" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 </div>
 

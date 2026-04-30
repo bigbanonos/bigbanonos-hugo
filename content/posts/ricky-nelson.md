@@ -16,7 +16,7 @@ _2 tracks between 2000 and 2008._
 
 ---
 
-**My Bucket's Got A Hole In It - Remastered**
+**My Buckets Got A Hole In It - Remastered**
 *Legacy* · 2000 · 2:03
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5WMhlx0vLyySd8movYprmp" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

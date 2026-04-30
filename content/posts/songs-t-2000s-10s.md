@@ -39,7 +39,7 @@ description: "42 tracks — T artists, 2000s–2010s"
 </div>
 
 <div class="track-embed">
-  <p><strong>Cheaters (John Talabot's Classic Vocal Refix)</strong> — Teengirl Fantasy</p>
+  <p><strong>Cheaters (John Talabots Classic Vocal Refix)</strong> — Teengirl Fantasy</p>
   <iframe src="https://open.spotify.com/embed/track/6xSGgrkVzYGu9iCxaOKbTa?utm_source=generator" width="100%" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 </div>
 
@@ -94,7 +94,7 @@ description: "42 tracks — T artists, 2000s–2010s"
 </div>
 
 <div class="track-embed">
-  <p><strong>Don't Call Me (feat. Yuna)</strong> — TOKiMONSTA;Yuna</p>
+  <p><strong>Dont Call Me (feat. Yuna)</strong> — TOKiMONSTA;Yuna</p>
   <iframe src="https://open.spotify.com/embed/track/51S5WNhRGF3jHnrsPAUZWq?utm_source=generator" width="100%" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 </div>
 
@@ -114,7 +114,7 @@ description: "42 tracks — T artists, 2000s–2010s"
 </div>
 
 <div class="track-embed">
-  <p><strong>Glad He's Gone</strong> — Tove Lo</p>
+  <p><strong>Glad Hes Gone</strong> — Tove Lo</p>
   <iframe src="https://open.spotify.com/embed/track/6aIAuKNU8JlVaTmoCYYN6U?utm_source=generator" width="100%" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 </div>
 
@@ -149,7 +149,7 @@ description: "42 tracks — T artists, 2000s–2010s"
 </div>
 
 <div class="track-embed">
-  <p><strong>Brochos</strong> — Tzlil V'zemer Boys Choir</p>
+  <p><strong>Brochos</strong> — Tzlil Vzemer Boys Choir</p>
   <iframe src="https://open.spotify.com/embed/track/0KNV3GyNTgpPk3jzQJzQO5?utm_source=generator" width="100%" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 </div>
 
@@ -184,7 +184,7 @@ description: "42 tracks — T artists, 2000s–2010s"
 </div>
 
 <div class="track-embed">
-  <p><strong>Santa Cruz (You're Not That Far)</strong> — The Thrills</p>
+  <p><strong>Santa Cruz (Youre Not That Far)</strong> — The Thrills</p>
   <iframe src="https://open.spotify.com/embed/track/0goM5Qsfwgcd06moZiJZCa?utm_source=generator" width="100%" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 </div>
 
@@ -194,7 +194,7 @@ description: "42 tracks — T artists, 2000s–2010s"
 </div>
 
 <div class="track-embed">
-  <p><strong>Pop Songs Your New Boyfriends's Too Stupid To Know About</strong> — Tullycraft</p>
+  <p><strong>Pop Songs Your New Boyfriendss Too Stupid To Know About</strong> — Tullycraft</p>
   <iframe src="https://open.spotify.com/embed/track/1Z2lQY2YpcqpyoHmLHvKIA?utm_source=generator" width="100%" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 </div>
 

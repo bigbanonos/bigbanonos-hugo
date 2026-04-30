@@ -21,7 +21,7 @@ _4 tracks between 2024 and 2025._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6liSKA1Va8rggh6HxKHaYr" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**I'm All Fucked Up**
+**Im All Fucked Up**
 *Box for Buddy, Box for Star* · 2024 · 4:33
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2p1EDUqcrCjrIf3oTgGW85" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

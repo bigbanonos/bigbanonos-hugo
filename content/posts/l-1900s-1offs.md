@@ -48,18 +48,18 @@ _22 favorite songs by artists starting with L. Before 2000. One good song and ou
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/40XXjm2pU6LGZkLq5VmkaQ" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Link Wray** — Fallin' Rain
+**Link Wray** — Fallin Rain
 *Link Wray* · 1971 · 3:45
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/64dByZjmB5NN5PiWZQdM2X" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Lavender Country** — I Can't Shake the Stranger Out of You
+**Lavender Country** — I Cant Shake the Stranger Out of You
 *Lavender Country* · 1973 · 2:39
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6YbMyIVPgdjomWFLuFxk9C" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Lion** — You've Got a Woman
-*You've Got a Woman* · 1975 · 3:25
+**Lion** — Youve Got a Woman
+*Youve Got a Woman* · 1975 · 3:25
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2YHO9pscU1ij1i2Oc3bCae" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -78,7 +78,7 @@ _22 favorite songs by artists starting with L. Before 2000. One good song and ou
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2y7DpKDMzjNZ6Ir60Vemu7" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**L7** — Pretend We're Dead
+**L7** — Pretend Were Dead
 *Bricks Are Heavy* · 1992 · 3:55
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3z5ggGtcs4t8pizW521gW9" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -93,7 +93,7 @@ _22 favorite songs by artists starting with L. Before 2000. One good song and ou
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7IbQHlX8AqelSZzttaQqaz" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Les Brown & His Orchestra** — Joltin' Joe DiMaggio
+**Les Brown & His Orchestra** — Joltin Joe DiMaggio
 *Baseball A Film By Ken Burns - Original Soundtrack Recording* · 1994 · 2:52
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5bOG5FKR5eJOhNYCIO4E35" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -108,7 +108,7 @@ _22 favorite songs by artists starting with L. Before 2000. One good song and ou
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5Qvy4CzFrzcHWSwwDoSikf" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Lil' Kim;Lil' Cease** — Crush on You (feat. Lil' Cease) - Remix
+**Lil Kim;Lil Cease** — Crush on You (feat. Lil Cease) - Remix
 *Not Tonight EP* · 1997 · 4:35
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2LP2uDQQ7eLMcUVE4aOpAV" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -118,12 +118,12 @@ _22 favorite songs by artists starting with L. Before 2000. One good song and ou
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0p2lB3tOc2DJGTUltBxjkv" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Lady Saw** — Hardcore (it's Raining)
+**Lady Saw** — Hardcore (its Raining)
 *Raw: The Best Of Lady Saw* · 1998 · 3:38
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3V2hLTI2RJ3zg0DbGt7pyH" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **LEN** — Steal My Sunshine
-*You Can't Stop The Bum Rush* · 1999 · 4:25
+*You Cant Stop The Bum Rush* · 1999 · 4:25
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4agp6oHofabdUedr0B1krj" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

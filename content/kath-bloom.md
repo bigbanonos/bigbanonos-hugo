@@ -8,7 +8,7 @@ tags:
   - '@lorenconnors'
 ---
 
-<div> <h2>Kath Bloom</h2> {{< img-lite src="https://i.scdn.co/image/ab67616d0000b27331a7f84aec4470a0c1468a79" alt="Kath Bloom" >}} {{< youtube "embed" >}} <p><strong>BigBanonos' favorite tracks by Kath Bloom:</strong></p> <p><strong>"Come Here"</strong> – *Finally* (2006) | Chapter Music</p> <p><strong>"Forget About Him"</strong> – *Finally* (2006) | Chapter Music</p> <p><strong>"The Breeze / My Baby Cries" (feat. Loren Connors)</strong> – *Loving Takes This Course - A Tribute To The Songs Of Kath Bloom* (2009) | Chapter Music</p>
+<div> <h2>Kath Bloom</h2> {{< img-lite src="https://i.scdn.co/image/ab67616d0000b27331a7f84aec4470a0c1468a79" alt="Kath Bloom" >}}  <p><strong>BigBanonos favorite tracks by Kath Bloom:</strong></p> <p><strong>"Come Here"</strong> – *Finally* (2006) | Chapter Music</p> <p><strong>"Forget About Him"</strong> – *Finally* (2006) | Chapter Music</p> <p><strong>"The Breeze / My Baby Cries" (feat. Loren Connors)</strong> – *Loving Takes This Course - A Tribute To The Songs Of Kath Bloom* (2009) | Chapter Music</p>
 </div>  <hr /> <!-- YouTube Embed -->
 <div> {{< youtube "iGj1Cv2X0cM" >}}
 </div> <!-- Footer Links -->

@@ -8,7 +8,7 @@ tags:
 ---
 
 <!-- Post Title -->
-<h1 >BigBanonos' Favorite Tracks: Konradsen - "Dice" and Television Land [2019]</h1> <!-- Introductory Text -->
+<h1 >BigBanonos Favorite Tracks: Konradsen - "Dice" and Television Land [2019]</h1> <!-- Introductory Text -->
 <p >Updated October 2, 2019, with "Dice" by Konradsen. This Oslo indie pop gem is a heartfelt and atmospheric track released under the Cascine label.</p> <!-- Featured Image -->
 <div > <img src="https://f4.bcbits.com/img/0035288986_10.jpg" alt="Konradsen - Dice" />
 </div> <!-- YouTube Video Embed -->
@@ -16,7 +16,7 @@ tags:
 </div>
 {{< youtube "videoseries" >}}
 <!-- Song Information -->
-<div > <p><em>"Dice"</em> by Konradsen is a beautiful indie pop piece that encapsulates the ethereal and introspective soundscape of Oslo indie music. A highlight from the album <em>Dice</em>, it's a must-listen for fans of thoughtful and melodic pop.</p>
+<div > <p><em>"Dice"</em> by Konradsen is a beautiful indie pop piece that encapsulates the ethereal and introspective soundscape of Oslo indie music. A highlight from the album <em>Dice</em>, its a must-listen for fans of thoughtful and melodic pop.</p>
 </div> <!-- Footer Links -->
 <div > <p>Discover more indie pop gems on <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Visit our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> channel and follow us on <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a> for more updates and music highlights.</p>
 </div> 

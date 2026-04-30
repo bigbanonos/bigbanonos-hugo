@@ -9,11 +9,11 @@ layout: post
 title: "4batz"
 date: 2025-11-20
 tags:
-  - '@4batz'
-  - '@maxokream'
-  - '@ogronc'
-  - '@sexyyred'
-  - '@wale'
+  - @4batz
+  - @maxokream
+  - @ogronc
+  - @sexyyred
+  - @wale
 category: "artist"
 cover:
   image: "https://www.rap-up.com/article/media_1f25427492083df7d89b504fe916651d2a0466b52.jpg?width=800&format=jpg&optimize=high"

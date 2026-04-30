@@ -14,7 +14,7 @@ tags:
 
 ## J · 2020s 1-offs
 
-_31 favorite songs by artists starting with J. Current shit. The 2% that's good._
+_31 favorite songs by artists starting with J. Current shit. The 2% thats good._
 
 ---
 
@@ -23,8 +23,8 @@ _31 favorite songs by artists starting with J. Current shit. The 2% that's good.
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7Hw23QTaU6nzktFTDaEF2A" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Julia Bardo** — Please Don't Tell Me
-*Please Don't Tell Me* · 2020 · 3:52
+**Julia Bardo** — Please Dont Tell Me
+*Please Dont Tell Me* · 2020 · 3:52
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3TQlV2vT6ngWbJAe9FFc8y" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -128,7 +128,7 @@ _31 favorite songs by artists starting with J. Current shit. The 2% that's good.
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0AMWZMb5guGCjJpeC4TTJE" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Jonathan Rado** — Don't Wait Too Long
+**Jonathan Rado** — Dont Wait Too Long
 *For Who The Bell Tolls For* · 2023 · 3:48
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4UsxiPmfuDer4WTdiOHVhM" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -169,6 +169,6 @@ _31 favorite songs by artists starting with J. Current shit. The 2% that's good.
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1e8wlGquC1AE7Z0qVuZBTX" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **JADE** — Self Saboteur
-*THAT'S SHOWBIZ BABY!* · 2025 · 4:26
+*THATS SHOWBIZ BABY!* · 2025 · 4:26
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2Lq3oDn3NJgb1eWfttjoYW" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

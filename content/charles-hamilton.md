@@ -9,7 +9,7 @@ tags:
 
 <!-- Title of the Post -->
 <h1 >BigBanonos Favorite Song by Charles Hamilton: "I Hate Parties"</h1> <!-- Introductory Text -->
-<p >Updated January 1, 2009, with "I Hate Parties" by Charles Hamilton. This introspective hip-hop track captures Hamilton's unique lyricism and reflective tone, showcasing his talent for storytelling. Watch the video below!</p> <!-- Featured Image -->
+<p >Updated January 1, 2009, with "I Hate Parties" by Charles Hamilton. This introspective hip-hop track captures Hamiltons unique lyricism and reflective tone, showcasing his talent for storytelling. Watch the video below!</p> <!-- Featured Image -->
 <div > <img src="https://i.scdn.co/image/fdb83fd3d9c8c6ea536b2cc69f542a768c47e0ce" alt="Charles Hamilton - I Hate Parties" />
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "tIYxXgA9RcY" >}}

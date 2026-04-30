@@ -33,12 +33,12 @@ _6 tracks, 1989 to 2004._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6jL1SnyXcXiKOmw4M2RnmT" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Doin' It**
+**Doin It**
 *Mr. Smith* · 1995 · 4:53
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1mU0es3QUBRAxKkYvTANpG" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Doin' It** (feat. LL COOL J;Leshaun)
+**Doin It** (feat. LL COOL J;Leshaun)
 *Mr. Smith (Deluxe Edition)* · 1995 · 4:53
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4WMBl2wiGUSGa5C7tfQEAo" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

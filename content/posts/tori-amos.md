@@ -51,7 +51,7 @@ _11 tracks from 1992 to 2023. The peak is in there somewhere._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5PO0LBm6kZkWBStZKuzW3W" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Job's Coffin** (feat. Tori Amos;Natashya Hawley)
+**Jobs Coffin** (feat. Tori Amos;Natashya Hawley)
 *Night Of Hunters* · 2011 · 3:32
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2IZlJ53urCoHagye4M4Vjc" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

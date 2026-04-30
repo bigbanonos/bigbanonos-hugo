@@ -31,7 +31,7 @@ _3 tracks from 1979 to 2008. The peak is in there somewhere._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4QQEzkxcONBthDLfzqIh9S" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Are 'Friends' Electric?** (feat. Gary Numan;Tubeway Army)
+**Are Friends Electric?** (feat. Gary Numan;Tubeway Army)
 *Replicas Redux* · 2008 · 5:25
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7JyuLsDvmTxJt4wfCQUqeR" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

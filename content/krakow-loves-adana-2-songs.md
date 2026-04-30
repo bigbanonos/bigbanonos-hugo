@@ -8,8 +8,7 @@ tags:
 ---
 
 <h1>KrakÃƒÆ’Ã‚³w Loves Adana: BigBanonos two favorite songs</h1>
-<img alt="KrakÃƒÆ’Ã‚³w Loves Adana" src="https://f4.bcbits.com/img/a0695991551_10.jpg" /> <p>Emerging from Hamburg's indie scene, KrakÃƒÆ’Ã‚³w Loves Adana creates music with an atmospheric blend of indie and German new wave influences. Explore some of their most notable tracks below:</p> <ol> <li><strong>(Feels Like) Heaven</strong> | Release Date: August 30, 2023 | KrakÃƒÆ’Ã‚³w Loves Adana</li> <li><strong>American Boy</strong> | <em>Songs After the Blue</em> | Release Date: April 6, 2018 | KrakÃƒÆ’Ã‚³w Loves Adana</li>
-</ol> <div> {{< youtube "embed" >}}
+<img alt="KrakÃƒÆ’Ã‚³w Loves Adana" src="https://f4.bcbits.com/img/a0695991551_10.jpg" /> <p>Emerging from Hamburgs indie scene, KrakÃƒÆ’Ã‚³w Loves Adana creates music with an atmospheric blend of indie and German new wave influences. Explore some of their most notable tracks below:</p>  <div> 
 </div> <p>With tracks like "(Feels Like) Heaven" and "American Boy," KrakÃƒÆ’Ã‚³w Loves Adana captures an ethereal quality in their music, blending rock elements with hauntingly personal lyrics.</p> <div> <p>Discover more from BigBanonos: <a href="https://bigbanonos.blogspot.com/">Website</a> | <a href="https://www.youtube.com/@BigBanonos">YouTube</a> | <a href="https://x.com/bigbanonos">Twitter</a></p>
 </div> 
 <p>@krakowlovesadana</p>

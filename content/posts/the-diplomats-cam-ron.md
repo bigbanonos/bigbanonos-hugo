@@ -10,7 +10,7 @@ tags:
   - 'east coast hip hop'
 ---
 
-## The Diplomats;Cam'ron
+## The Diplomats;Camron
 
 _3 tracks, all from 2026._
 

@@ -30,7 +30,7 @@ _4 tracks between 2000 and 2004._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2hNf1rawV2XAZ6Jld2Fxwf" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Livin' It Up** (feat. Ja Rule;Case)
+**Livin It Up** (feat. Ja Rule;Case)
 *Pain Is Love* · 2001 · 4:16
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/68ZXSfqZbAVgObLCt8Gvbi" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

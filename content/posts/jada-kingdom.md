@@ -33,13 +33,13 @@ _7 tracks between 2018 and 2026._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0EjyqL8DHNjH6uxdolgYtc" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**What's Up (Big Buddy)**
-*What's Up (Big Buddy)* · 2024 · 2:21
+**Whats Up (Big Buddy)**
+*Whats Up (Big Buddy)* · 2024 · 2:21
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2Zqi4KB2Wl0Luxwwx4qEM7" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Can't Tell Me That**
-*Can't Tell Me That* · 2025 · 2:34
+**Cant Tell Me That**
+*Cant Tell Me That* · 2025 · 2:34
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2BLrKmF2k0oJllTdl4Rl9Z" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -49,6 +49,6 @@ _7 tracks between 2018 and 2026._
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2TrEJjdZoCRf4i43fbBzZ1" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **Ntn but Pumpum**
-*Just a Girl in a Money Man's World* · 2026 · 2:34
+*Just a Girl in a Money Mans World* · 2026 · 2:34
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3vNsa92LjHqbLWVJtneuKm" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

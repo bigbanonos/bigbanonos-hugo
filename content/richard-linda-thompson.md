@@ -11,8 +11,8 @@ tags:
 <!-- Richard Thompson -->
 <img src="https://i.scdn.co/image/ab67616d00001e02d30e8408fcd83b05850e66f0" /> <p><strong>Updated 1994 with "Beeswing" from <em>Mirror Blue</em></strong></p> <p><strong>"Beeswing"</strong> – <em>Mirror Blue</em> (1994)</p>
 <p><strong>"Man In Need"</strong> – <em>Hand of Kindness</em> (1982)</p>
-<p><strong>"Don't Let A Thief Steal into Your Heart"</strong> – <em>First Light</em> (1978)</p>
-<p><strong>"I Want To See The Bright Lights Tonight"</strong> – <em>I Want To See The Bright Lights Tonight</em> (1974)</p> {{< youtube "embed" >}} {{< youtube "57PENuNVapc" >}} <p>@richardthompson</p> <hr /> <!-- Footer -->
+<p><strong>"Dont Let A Thief Steal into Your Heart"</strong> – <em>First Light</em> (1978)</p>
+<p><strong>"I Want To See The Bright Lights Tonight"</strong> – <em>I Want To See The Bright Lights Tonight</em> (1974)</p>  {{< youtube "57PENuNVapc" >}} <p>@richardthompson</p> <hr /> <!-- Footer -->
  
 
 <hr />

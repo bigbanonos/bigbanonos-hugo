@@ -7,9 +7,8 @@ tags:
   - '@judygarland'
 ---
 
-<h2>BigBanonos' Favorite Tracks: Judy Garland</h2> <div > <a href="https://i.ytimg.com/vi/ekczNCpb3Lg/maxresdefault.jpg"> <img src="https://i.ytimg.com/vi/ekczNCpb3Lg/maxresdefault.jpg" alt="Judy Garland" width="400" /> </a>
-</div> <p>Judy Garland, one of the greatest performers of the 20th century, continues to captivate audiences with her iconic voice and timeless songs. Here are <em>BigBanonos'</em> favorite tracks from the legendary artist.</p> <h3>Selected Tracks</h3>
-<ol> <li><strong>Hey! Look Me Over (Live)</strong> – <em>Live!</em> (1962)</li> <li><strong>Then You've Never Been Blue</strong> – <em>Alone</em> (1957)</li>
-</ol> <p>Stream Judy Garland's playlist:</p>
-{{< youtube "embed" >}} <h3>Tags</h3>
-<p>@judygarland</p> <p>Explore more music on <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos' YouTube channel</a> and follow us on <a href="https://twitter.com/BigBanonos" target="_blank">Twitter</a>!</p> <hr />
+<h2>BigBanonos Favorite Tracks: Judy Garland</h2> <div > <a href="https://i.ytimg.com/vi/ekczNCpb3Lg/maxresdefault.jpg"> <img src="https://i.ytimg.com/vi/ekczNCpb3Lg/maxresdefault.jpg" alt="Judy Garland" width="400" /> </a>
+</div> <p>Judy Garland, one of the greatest performers of the 20th century, continues to captivate audiences with her iconic voice and timeless songs. Here are <em>BigBanonos</em> favorite tracks from the legendary artist.</p> <h3>Selected Tracks</h3>
+ <p>Stream Judy Garlands playlist:</p>
+ <h3>Tags</h3>
+<p>@judygarland</p> <p>Explore more music on <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos YouTube channel</a> and follow us on <a href="https://twitter.com/BigBanonos" target="_blank">Twitter</a>!</p> <hr />

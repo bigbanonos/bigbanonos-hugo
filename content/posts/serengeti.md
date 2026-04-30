@@ -28,7 +28,7 @@ _8 tracks, 2006 to 2019._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/70cr1023k7ZEZZYR8UPq6a" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Don't Talk to Jueles**
+**Dont Talk to Jueles**
 *Dennehy* · 2008 · 3:09
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0sXJaKkodTGRzGp1cP6dv7" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

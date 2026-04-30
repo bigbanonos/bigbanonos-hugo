@@ -8,15 +8,15 @@ tags:
 ---
 
 <!-- Title of the Post -->
-<h1 >BigBanonos' Favorite Songs by Eric Clapton</h1> <!-- Featured Image -->
+<h1 >BigBanonos Favorite Songs by Eric Clapton</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab67616d0000b2736fdebec51a7d1857829f6f87" alt="Eric Clapton" >}}
 </div> <!-- Spotify Embed -->
-<div > {{< youtube "embed" >}}
+<div > 
 </div> <!-- Introductory Text -->
 <p >Eric Clapton, one of the most influential guitarists of all time, shines in tracks like "This Has Gotta Stop" and his iconic blues-infused rock masterpieces.</p> <!-- Song Highlights -->
-<div > <p>BigBanonos' standout picks:</p> <ol> <li><strong>This Has Gotta Stop</strong> | <em>This Has Gotta Stop</em> | Released: August 27, 2021 | Bushbranch / Surfdog Records</li> </ol>
+<div > <p>BigBanonos standout picks:</p> 
 </div> <!-- Footer Links -->
-<div > <p>Explore Eric Clapton's blues and rock legacy on <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Discover more of his iconic hits on <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p>
+<div > <p>Explore Eric Claptons blues and rock legacy on <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Discover more of his iconic hits on <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p>
 </div> 
 <p >Tags: @ericclapton</p>
 

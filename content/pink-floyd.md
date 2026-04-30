@@ -14,7 +14,7 @@ tags:
 <p><strong>"Comfortably Numb"</strong> – <em>The Wall</em> (Pink Floyd Records, 1979)</p>
 <p><strong>"Another Brick in the Wall, Pt. 3"</strong> – <em>The Wall</em> (Pink Floyd Records, 1979)</p>
 <p><strong>"Mother"</strong> – <em>The Wall</em> (Pink Floyd Records, 1979)</p>
-<p><strong>"One of My Turns"</strong> – <em>The Wall</em> (Pink Floyd Records, 1979)</p> {{< youtube "embed" >}} <p>@pinkfloyd</p> <hr /> <!-- Footer -->
+<p><strong>"One of My Turns"</strong> – <em>The Wall</em> (Pink Floyd Records, 1979)</p>  <p>@pinkfloyd</p> <hr /> <!-- Footer -->
  
 
 <hr />

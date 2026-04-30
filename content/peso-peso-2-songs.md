@@ -10,8 +10,7 @@ tags:
 ---
 
 <h1>BigBanonos Top Songs by Peso Peso</h1>
-{{< img-lite src="https://images.squarespace-cdn.com/content/v1/55930d01e4b03b84d2cba5a3/1574714796250-VGQ33RCP9VE8ASOLPQZJ/Screen+Shot+2019-11-25+at+2.45.37+PM.png" alt="Peso Peso" >}} <p>Peso Peso, known for his unique style within the corridos tumbados genre, combines traditional Mexican sounds with a modern twist, capturing listeners with his emotive lyrics and raw beats. Here are BigBanonos' top selections:</p> <ol> <li><strong>BIPOLAR</strong> (feat. Jasiel NuÃƒÆ’Ã‚±ez, Junior H) | <em>BIPOLAR</em> | Double P Records | Released: September 7, 2023</li> <li><strong>LUNA</strong> (feat. Junior H) | <em>GÃƒÆ’Ã¢â‚¬°NESIS</em> | Double P Records | Released: June 22, 2023</li>
-</ol> <div> {{< youtube "embed" >}}
+{{< img-lite src="https://images.squarespace-cdn.com/content/v1/55930d01e4b03b84d2cba5a3/1574714796250-VGQ33RCP9VE8ASOLPQZJ/Screen+Shot+2019-11-25+at+2.45.37+PM.png" alt="Peso Peso" >}} <p>Peso Peso, known for his unique style within the corridos tumbados genre, combines traditional Mexican sounds with a modern twist, capturing listeners with his emotive lyrics and raw beats. Here are BigBanonos top selections:</p>  <div> 
 </div> <p>first posted by <a href="https://bigbanonos.blogspot.com/">https://bigbanonos.blogspot.com/</a></p> <div> <p>Explore more BigBanonos content: <a href="https://bigbanonos.blogspot.com/">Website</a> | <a href="https://www.youtube.com/@BigBanonos">YouTube</a> | <a href="https://x.com/bigbanonos">Twitter</a></p>
 </div> 
 <p>@pesopluma,@juniorh,@jasielnuÃƒÆ’Ã‚±ez</p>

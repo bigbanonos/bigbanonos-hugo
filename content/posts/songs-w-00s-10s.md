@@ -39,12 +39,12 @@ description: "19 tracks — W artists, 2000s–2010s"
 </div>
 
 <div class="track-embed">
-  <p><strong>...and It's Not so Pretty</strong> — The Wrong Words</p>
+  <p><strong>...and Its Not so Pretty</strong> — The Wrong Words</p>
   <iframe src="https://open.spotify.com/embed/track/3UXRwj7hNqmRqnPmULEz43?utm_source=generator" width="100%" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 </div>
 
 <div class="track-embed">
-  <p><strong>Playaz Club 2011 Remix - [Another Carjack]</strong> — Wyclef Jean;Rappin' 4-Tay</p>
+  <p><strong>Playaz Club 2011 Remix - [Another Carjack]</strong> — Wyclef Jean;Rappin 4-Tay</p>
   <iframe src="https://open.spotify.com/embed/track/2Jyj6WLSWtcREvbGYKSPPN?utm_source=generator" width="100%" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 </div>
 
@@ -84,7 +84,7 @@ description: "19 tracks — W artists, 2000s–2010s"
 </div>
 
 <div class="track-embed">
-  <p><strong>You're My Disco - ATOC New Romantic Radio Edit</strong> — Waldorf</p>
+  <p><strong>Youre My Disco - ATOC New Romantic Radio Edit</strong> — Waldorf</p>
   <iframe src="https://open.spotify.com/embed/track/4StGLrmzS2ozc7f6yRzv3s?utm_source=generator" width="100%" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 </div>
 

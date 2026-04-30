@@ -24,7 +24,7 @@ _4 tracks spanning 1973 to 2020. 47 years of trying._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7fMOzTcT7U5A9hVCwCfWgD" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**I Couldn't Believe It Was True**
+**I Couldnt Believe It Was True**
 *Red Headed Stranger* · 1975 · 1:32
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4OXBjxTVtXTXgYarf05SPM" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

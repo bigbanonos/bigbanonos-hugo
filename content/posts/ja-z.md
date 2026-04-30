@@ -41,7 +41,7 @@ _12 tracks from 1997 to 2025. The peak is in there somewhere._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4LGMSdeKOUoy5Wf75Je0Hl" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Money Ain't A Thang** (feat. JAŸ-Z;Jermaine Dupri)
+**Money Aint A Thang** (feat. JAŸ-Z;Jermaine Dupri)
 *Vol.2... Hard Knock Life* · 1998 · 4:13
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3dT126FgdirenOn5aDXHBE" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -51,7 +51,7 @@ _12 tracks from 1997 to 2025. The peak is in there somewhere._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1xixUOjgdqMOPZxursTms3" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Big Pimpin'** (feat. JAŸ-Z;UGK)
+**Big Pimpin** (feat. JAŸ-Z;UGK)
 *Vol. 3... Life And Times Of S. Carter* · 1999 · 4:43
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7m97yKVzPpXV9Z4ezEziOD" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -66,7 +66,7 @@ _12 tracks from 1997 to 2025. The peak is in there somewhere._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4h5KBcltGefua73AUPYps7" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Big Pimpin' - Live On MTV Unplugged / 2001** (feat. JAŸ-Z;UGK)
+**Big Pimpin - Live On MTV Unplugged / 2001** (feat. JAŸ-Z;UGK)
 *Jay-Z Unplugged (Live On MTV Unplugged / 2001)* · 2001 · 4:10
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/27zw7FHPWXqr9gsfnAGOGt" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

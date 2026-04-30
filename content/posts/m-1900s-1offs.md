@@ -23,12 +23,12 @@ _21 favorite songs by artists starting with M. Before 2000. One good song and ou
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7N3UAu6FkwdBg9J7OONBBP" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Mel Tormé** — Comin' Home Baby
+**Mel Tormé** — Comin Home Baby
 *Right Now!* · 1966 · 3:22
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6v3azJ2JjGq8bhunkXNozx" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**McFadden & Whitehead** — Ain't No Stoppin' Us Now
+**McFadden & Whitehead** — Aint No Stoppin Us Now
 *McFadden & Whitehead* · 1979 · 7:00
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4Ymk3pqpkGx19gyxxUj5LK" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -53,7 +53,7 @@ _21 favorite songs by artists starting with M. Before 2000. One good song and ou
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/07MzOyhawYbSxp15MElUCv" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Meli'sa Morgan** — Fool's Paradise
+**Melisa Morgan** — Fools Paradise
 *Do Me Baby* · 1986 · 5:00
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2smHxX4ZmwamJ1Cu3BM3Os" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -78,7 +78,7 @@ _21 favorite songs by artists starting with M. Before 2000. One good song and ou
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7rBMZvgeWnOTHWUh3Pvw51" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Mister Rogers** — Won't You Be My Neighbor?
+**Mister Rogers** — Wont You Be My Neighbor?
 *You Are Special* · 1992 · 1:38
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2kZzRXWdTrgxpPet4ePP9y" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

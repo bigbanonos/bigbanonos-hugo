@@ -14,7 +14,7 @@ tags:
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "VIDEO_ID" >}}
 </div> <!-- Song Information -->
-<div > <p><em>"Run To Your Grave"</em>, released on February 26, 2008, under Team Shi as part of their album *HLLLYH*, is a chaotic yet thrilling noise rock anthem. The Mae Shi's unique style, blending high-energy sasscore and experimental rock elements, makes this track a standout in their discography.</p>
+<div > <p><em>"Run To Your Grave"</em>, released on February 26, 2008, under Team Shi as part of their album *HLLLYH*, is a chaotic yet thrilling noise rock anthem. The Mae Shis unique style, blending high-energy sasscore and experimental rock elements, makes this track a standout in their discography.</p>
 </div> <!-- Footer Links -->
 <div > 
 </div> 

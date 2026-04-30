@@ -27,7 +27,7 @@ _5 tracks, all from 2001._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/08sNj2xG8jvhLT5Oedfs1n" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Kathy With A K's Song** (feat. Ambulance;Bright Eyes)
+**Kathy With A Ks Song** (feat. Ambulance;Bright Eyes)
 *Oh Holy Fools - The Music Of Son, Ambulance And Bright Eyes* · 2001 · 4:39
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0skhjllMbTn52udjIlB9Zj" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -37,7 +37,7 @@ _5 tracks, all from 2001._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7B1uRaK8shsFwNgQcWxvwp" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**I Promise You'll Never Grow Old** (feat. Ambulance)
+**I Promise Youll Never Grow Old** (feat. Ambulance)
 *Euphemystic* · 2001 · 5:12
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0PcNWv1bVPuFFhaQRiaNjs" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

@@ -28,8 +28,8 @@ _5 tracks between 2015 and 2020._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0HVba4HUwHnGlkHNitXMEL" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Oodles O' Noodles Babies** (feat. Meek Mill)
-*Oodles O' Noodles Babies* · 2018 · 3:04
+**Oodles O Noodles Babies** (feat. Meek Mill)
+*Oodles O Noodles Babies* · 2018 · 3:04
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/15YteXcgC1tRTDrKKclPOp" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 

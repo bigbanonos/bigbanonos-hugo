@@ -19,7 +19,7 @@ description: "31 tracks — P artists, 2020s"
 </div>
 
 <div class="track-embed">
-  <p><strong>I Can't Get You Out</strong> — Part Time</p>
+  <p><strong>I Cant Get You Out</strong> — Part Time</p>
   <iframe src="https://open.spotify.com/embed/track/03o587cvx04MjIeehZvyQL?utm_source=generator" width="100%" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 </div>
 

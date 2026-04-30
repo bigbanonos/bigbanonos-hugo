@@ -13,23 +13,23 @@ tags:
   - 'melodic techno'
 ---
 
-## Jane's Addiction
+## Janes Addiction
 
 _3 tracks from 1988 to 2009. The peak is in there somewhere._
 
 ---
 
 **Jane Says**
-*Nothing's Shocking* · 1988 · 4:47
+*Nothings Shocking* · 1988 · 4:47
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7c1Dar0pIAW7w5TzaGjt9t" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **Pigs in Zen**
-*Nothing's Shocking* · 1988 · 4:30
+*Nothings Shocking* · 1988 · 4:30
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0MbbjxUwRG0nNbneLXKkHP" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Been Caught Stealing - 12" Remix Version** (feat. Jane's Addiction;Perry Farrell;Ron Champagne)
+**Been Caught Stealing - 12" Remix Version** (feat. Janes Addiction;Perry Farrell;Ron Champagne)
 *A Cabinet of Curiosities* · 2009 · 4:24
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/13ELEX7NzAXuCSVDOshBJC" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

@@ -20,7 +20,7 @@ _2 tracks between 2015 and 2024._
 
 ---
 
-**I Know There's Gonna Be (Good Times)**
+**I Know Theres Gonna Be (Good Times)**
 *In Colour* · 2015 · 3:33
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2zsa7Z6gCA5eBg0p9pbyLs" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

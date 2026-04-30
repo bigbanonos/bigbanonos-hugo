@@ -27,17 +27,17 @@ _8 tracks, 2002 to 2013._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0Ensfv1iBDcsOF6xNok14N" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Bunny Ain't No Kind Of Rider**
+**Bunny Aint No Kind Of Rider**
 *Hissing Fauna, Are You The Destroyer?* · 2007 · 3:51
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1ji6q7yR4oMmtuwV6AM3fU" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**She's A Rejecter**
+**Shes A Rejecter**
 *Hissing Fauna, Are You The Destroyer?* · 2007 · 4:02
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5p3bEueySwUhQTEI7cMA9E" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**I Feel Ya' Strutter**
+**I Feel Ya Strutter**
 *False Priest (Deluxe Edition)* · 2010 · 3:40
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1bpEObO6vZfCrmyvhTCaVv" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -47,7 +47,7 @@ _8 tracks, 2002 to 2013._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1bfQwJE0zgq25vBAVdIja1" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**She Ain't Speakin' Now**
+**She Aint Speakin Now**
 *lousy with sylvianbriar* · 2013 · 3:40
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6PQ8qJPS0w6588gALrBgyA" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

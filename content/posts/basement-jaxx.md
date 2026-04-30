@@ -21,13 +21,13 @@ _7 tracks between 2001 and 2006._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4tI7eIbEUfInHS3sxfqkkr" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Where's Your Head At**
+**Wheres Your Head At**
 *Rooty* · 2001 · 4:45
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3cJh89D0za2SW705fNBo3b" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **Romeo - Acoustic Version**
-*Where's Your Head At* · 2001 · 3:35
+*Wheres Your Head At* · 2001 · 3:35
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0bP7mWfwHzbmheB7K2xXyR" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 

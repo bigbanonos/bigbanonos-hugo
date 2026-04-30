@@ -100,7 +100,7 @@ _24 tracks spanning 1973 to 2022. 49 years of trying._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/08fdJ1Z9V8z2dYCDEJBs8q" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Coward's Song** (feat. Bonnie Prince Billy)
+**Cowards Song** (feat. Bonnie Prince Billy)
 *Hello Sorrow / Hello Joy* · 2020 · 2:52
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/67gcGIOa8fpBhkcRazDSPf" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

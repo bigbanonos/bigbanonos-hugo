@@ -18,7 +18,7 @@ _39 favorite songs by artists starting with L. The peak decades for 1-offs. Pre-
 
 ---
 
-**Lenny Kravitz** — It Ain't Over 'Til It's Over
+**Lenny Kravitz** — It Aint Over Til Its Over
 *Greatest Hits* · 2000 · 4:02
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3aZPzF7Sr0zy3K0EkKyEzk" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -33,7 +33,7 @@ _39 favorite songs by artists starting with L. The peak decades for 1-offs. Pre-
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1AjQE5MtP5jHQMyDepbvLI" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Little Joy** — No One's Better Sake
+**Little Joy** — No Ones Better Sake
 *Little Joy* · 2008 · 2:50
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3HROWikdBjTEad0s2ABEct" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -98,7 +98,7 @@ _39 favorite songs by artists starting with L. The peak decades for 1-offs. Pre-
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1HE9T4GfntciKbhr9Q1EoP" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Lower Dens** — Sucker's Shangri-La
+**Lower Dens** — Suckers Shangri-La
 *Escape From Evil* · 2015 · 4:57
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4UOY3rfKce1S2N2DJBGDyF" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -113,7 +113,7 @@ _39 favorite songs by artists starting with L. The peak decades for 1-offs. Pre-
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2FhK7GOFpIJKkiZGB7NjEO" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Lucero** — Went Looking For Warren Zevon's Los Angeles
+**Lucero** — Went Looking For Warren Zevons Los Angeles
 *All A Man Should Do* · 2015 · 4:29
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7ncsAkWS7Iy7vNEX056o0j" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -128,7 +128,7 @@ _39 favorite songs by artists starting with L. The peak decades for 1-offs. Pre-
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4sivv8imuAYEQaamYl1hcw" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Logic** — Lord Willin'
+**Logic** — Lord Willin
 *The Incredible True Story* · 2015 · 3:28
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4q6oNFTjZmJqkIgPdp8iR1" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -148,8 +148,8 @@ _39 favorite songs by artists starting with L. The peak decades for 1-offs. Pre-
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/26wR9J8FTCVXew5jH51icP" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Likkle Miss;Shawn Storm** — That's What Friends Are For
-*That's What Friends Are For* · 2018 · 3:07
+**Likkle Miss;Shawn Storm** — Thats What Friends Are For
+*Thats What Friends Are For* · 2018 · 3:07
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6SHoVZcjzkFid35HQoFx9y" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 

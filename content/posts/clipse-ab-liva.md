@@ -25,13 +25,13 @@ _7 tracks from 2002 to 2025. The peak is in there somewhere._
 
 ---
 
-**Grindin'** (feat. Clipse)
-*Lord Willin'* · 2002 · 4:24
+**Grindin** (feat. Clipse)
+*Lord Willin* · 2002 · 4:24
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/10fItzbnj7iBE2nQaShNnu" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Ma, I Don't Love Her (feat. Faith Evans)** (feat. Clipse;Faith Evans)
-*Lord Willin'* · 2002 · 4:17
+**Ma, I Dont Love Her (feat. Faith Evans)** (feat. Clipse;Faith Evans)
+*Lord Willin* · 2002 · 4:17
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3VbPE4nMEkIB9PWWquCSGB" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 

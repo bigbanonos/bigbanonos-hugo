@@ -11,8 +11,8 @@ tags:
 ---
 
 <!-- Post Title -->
-<h1 >BigBanonos' Favorite Song: "BROWN SKIN GIRL"</h1> <!-- Introductory Text -->
-<p >Updated July 19, 2019, with BigBanonos' favorite collaboration, "BROWN SKIN GIRL," featuring Blue Ivy, SAINt JHN, BeyoncÃƒÆ’Ã‚©, and Wizkid. From *The Lion King: The Gift* album, this track celebrates beauty, culture, and pride. Watch the video and see more details below:</p> <!-- Featured Image -->
+<h1 >BigBanonos Favorite Song: "BROWN SKIN GIRL"</h1> <!-- Introductory Text -->
+<p >Updated July 19, 2019, with BigBanonos favorite collaboration, "BROWN SKIN GIRL," featuring Blue Ivy, SAINt JHN, BeyoncÃƒÆ’Ã‚©, and Wizkid. From *The Lion King: The Gift* album, this track celebrates beauty, culture, and pride. Watch the video and see more details below:</p> <!-- Featured Image -->
 <div > <img src="https://static01.nyt.com/images/2021/03/14/arts/14grammys-live-blog-blue-ivy1/14grammys-live-blog-blue-ivy1-superJumbo.jpg" alt="BROWN SKIN GIRL" />
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "vRFS0MYTC1I" >}}

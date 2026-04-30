@@ -27,7 +27,7 @@ _9 tracks from 1992 to 2026. The peak is in there somewhere._
 ---
 
 **Bounce (For The Juvenile)** (feat. DJ Jimi;JUVENILE)
-*It's Jimi* · 1992 · 4:44
+*Its Jimi* · 1992 · 4:44
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/33pmDffCUTrrcSJhOpAS9Y" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -47,7 +47,7 @@ _9 tracks from 1992 to 2026. The peak is in there somewhere._
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6o2g1BJvtYQssH84kBYs7y" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **Project Bitch** (feat. Big Tymers;JUVENILE;Lil Wayne)
-*Baller Blockin'* · 2000 · 4:41
+*Baller Blockin* · 2000 · 4:41
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7jeuO70ZhwRuGbfH1laugD" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 

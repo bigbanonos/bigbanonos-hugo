@@ -7,9 +7,8 @@ tags:
   - '@jackson5'
 ---
 
-<h2>BigBanonos' Favorite Tracks: The Jackson 5</h2> <div > <a href="https://fastly-s3.allmusic.com/artist/mn0000083013/400/Z2fW3tupGPWEimksUxUjkT6KsMttLlyBmmVTZ6_CLs0=.jpg"> <img src="https://fastly-s3.allmusic.com/artist/mn0000083013/400/Z2fW3tupGPWEimksUxUjkT6KsMttLlyBmmVTZ6_CLs0=.jpg" alt="Jackson 5" width="400" /> </a>
+<h2>BigBanonos Favorite Tracks: The Jackson 5</h2> <div > <a href="https://fastly-s3.allmusic.com/artist/mn0000083013/400/Z2fW3tupGPWEimksUxUjkT6KsMttLlyBmmVTZ6_CLs0=.jpg"> <img src="https://fastly-s3.allmusic.com/artist/mn0000083013/400/Z2fW3tupGPWEimksUxUjkT6KsMttLlyBmmVTZ6_CLs0=.jpg" alt="Jackson 5" width="400" /> </a>
 </div> <p><em>BigBanonos</em> highlights the timeless tracks of The Jackson 5, a group synonymous with Motown soul and R&B brilliance.</p> <h3>Selected Tracks</h3>
-<ol> <li><strong>I Want You Back</strong> – <em>Diana Ross Presents The Jackson 5</em> (1969)</li> <li><strong>ABC</strong> – <em>ABC</em> (1970)</li> <li><strong>I'll Be There</strong> – <em>Third Album</em> (1970)</li> <li><strong>Never Can Say Goodbye</strong> – <em>Maybe Tomorrow</em> (1971)</li> <li><strong>Dancing Machine</strong> – <em>Get It Together</em> (1974)</li>
-</ol> <p>Stream the Jackson 5 playlist:</p>
-{{< youtube "embed" >}} <h3>Tags</h3>
+ <p>Stream the Jackson 5 playlist:</p>
+ <h3>Tags</h3>
 <p>@jackson5</p> <p>Discover more music from The Jackson 5 on <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and follow us on <a href="https://twitter.com/BigBanonos" target="_blank">Twitter</a>!</p> <hr />

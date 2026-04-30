@@ -22,7 +22,7 @@ _2 tracks between 2000 and 2003._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0pmdRQGsPWYDwjaappyt2H" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Last Of The Travellin' People**
-*Songs From The Travellin' People* · 2003 · 2:24
+**Last Of The Travellin People**
+*Songs From The Travellin People* · 2003 · 2:24
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2IBMKnHuCHjKs22otek5Vi" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

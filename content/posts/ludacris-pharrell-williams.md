@@ -21,11 +21,11 @@ _7 tracks, 1998 to 2015._
 ---
 
 **Fat Rabbit (feat. Ludacris)** (feat. Timbaland;Ludacris)
-*Tim's Bio: From The Motion Picture - Life From Da Bassment* · 1998 · 4:57
+*Tims Bio: From The Motion Picture - Life From Da Bassment* · 1998 · 4:57
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/24Pm9mJzM3Id97qzmJv0NW" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**What's Your Fantasy (Featuring Shawna)** (feat. Ludacris;Shawnna)
+**Whats Your Fantasy (Featuring Shawna)** (feat. Ludacris;Shawnna)
 *Back For The First Time* · 2000 · 4:35
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4LwOrnuxJwR7C5Sw4liY4Z" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

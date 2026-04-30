@@ -18,7 +18,7 @@ _3 tracks, 1979 to 1996._
 
 ---
 
-**Why Can't I Touch It? - 2001 Remastered Version**
+**Why Cant I Touch It? - 2001 Remastered Version**
 *Singles Going Steady* · 1979 · 6:36
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/037DAJ2ClglNQbEvXpGav4" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

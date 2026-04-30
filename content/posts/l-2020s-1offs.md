@@ -14,7 +14,7 @@ tags:
 
 ## L · 2020s 1-offs
 
-_42 favorite songs by artists starting with L. Current shit. The 2% that's good._
+_42 favorite songs by artists starting with L. Current shit. The 2% thats good._
 
 ---
 
@@ -33,8 +33,8 @@ _42 favorite songs by artists starting with L. Current shit. The 2% that's good.
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5JgKjy1Ww33Db0xKzRQ4mM" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Loraine James;Jonnine** — Don't You See It?
-*Don't You See It?* · 2020 · 5:32
+**Loraine James;Jonnine** — Dont You See It?
+*Dont You See It?* · 2020 · 5:32
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0ACZPdl2HgFxdqWvi6t99P" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -53,7 +53,7 @@ _42 favorite songs by artists starting with L. Current shit. The 2% that's good.
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2GZSGeflqy0QJvyMmpHLO6" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**La Femme** — Tu t'en lasses
+**La Femme** — Tu ten lasses
 *Paradigmes* · 2021 · 6:02
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4CWjcFDg1oiONAkIkRiIpG" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -108,8 +108,8 @@ _42 favorite songs by artists starting with L. Current shit. The 2% that's good.
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1yZO5ZUPl4OkO24ZpbtNJS" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Liam Gallagher** — Everything's Electric
-*Everything's Electric* · 2022 · 3:36
+**Liam Gallagher** — Everythings Electric
+*Everythings Electric* · 2022 · 3:36
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/63JU4kHsgytIKkSM4tedme" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -128,12 +128,12 @@ _42 favorite songs by artists starting with L. Current shit. The 2% that's good.
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/46jpUlowSB0ZUpI11PjYeI" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Lou Val** — didn't I
-*didn't I* · 2022 · 1:47
+**Lou Val** — didnt I
+*didnt I* · 2022 · 1:47
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4mIHBM6Ozh1gBITjA6EZ47" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**lonelyboy;Sublime** — doin' time
+**lonelyboy;Sublime** — doin time
 *study and chill with sublime* · 2023 · 2:09
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6IWZWN7sQqPDJPcp7gixVv" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -173,8 +173,8 @@ _42 favorite songs by artists starting with L. Current shit. The 2% that's good.
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2dXj1wnUtGMszNlOnDq5fE" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Loukeman** — Baby You're A Star
-*Baby You're A Star* · 2023 · 2:21
+**Loukeman** — Baby Youre A Star
+*Baby Youre A Star* · 2023 · 2:21
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5zhjQ18PepzPDl9uTz2NH2" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 

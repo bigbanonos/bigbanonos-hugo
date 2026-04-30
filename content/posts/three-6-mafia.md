@@ -25,7 +25,7 @@ _4 tracks between 2000 and 2006._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2EduiM2UNwjCC7PsLxnOCH" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Tear da Club Up '97**
+**Tear da Club Up 97**
 *Most Known Hits* · 2005 · 3:40
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7vIsPrKWqUMk4F7Bu7aIY0" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

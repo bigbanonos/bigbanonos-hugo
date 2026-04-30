@@ -18,7 +18,7 @@ _36 favorite songs by artists starting with A. Before 2000. One good song and ou
 
 ---
 
-**The Animals** — It's My Life
+**The Animals** — Its My Life
 *Animal Tracks* · 1965 · 3:07
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7yGR8R1HgQJeW6s3KRuyGS" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -48,7 +48,7 @@ _36 favorite songs by artists starting with A. Before 2000. One good song and ou
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3lwMauKsIdfDkB3zXXbsqB" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Ambrosia** — You're the Only Woman - You & I
+**Ambrosia** — Youre the Only Woman - You & I
 *One Eighty* · 1980 · 4:22
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/11qmuUlW5q5diLiVSOlsSF" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -58,7 +58,7 @@ _36 favorite songs by artists starting with A. Before 2000. One good song and ou
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6HvUtPLqkP0t6zd6YNdWby" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Altered Images** — Don't Talk to Me About Love
+**Altered Images** — Dont Talk to Me About Love
 *Bite* · 1983 · 4:51
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4QBZTbaM3vreybFgzRO5QQ" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -153,7 +153,7 @@ _36 favorite songs by artists starting with A. Before 2000. One good song and ou
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/62z2rZNo1Isus27ILUaJy9" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Archer Prewitt** — I'll Be Waiting
+**Archer Prewitt** — Ill Be Waiting
 *White Sky* · 1999 · 2:31
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2CNY3CaVzvFDxpYD3hPjqO" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -168,7 +168,7 @@ _36 favorite songs by artists starting with A. Before 2000. One good song and ou
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6I89zh6bYuPEpvKFtrp6q5" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Annie & the Orphans** — It's The Hard-Knock Life
+**Annie & the Orphans** — Its The Hard-Knock Life
 *Annie: The Broadway Musical 30th Anniversary Cast Recording (2CD)* · 2008 · 3:04
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0Cre282z0eqW4HkeEemvuH" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

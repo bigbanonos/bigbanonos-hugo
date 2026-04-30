@@ -14,7 +14,7 @@ tags:
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "ojxcc8RIMlE" >}}
 </div> <!-- Song Information -->
-<div > <p><em>"Records"</em> by The Nude Party is a catchy, energetic anthem that defines the modern indie rock scene. With their unique sound, they fuse psychedelic rock with a distinct North Carolina flavor, making them a standout in today's music landscape.</p>
+<div > <p><em>"Records"</em> by The Nude Party is a catchy, energetic anthem that defines the modern indie rock scene. With their unique sound, they fuse psychedelic rock with a distinct North Carolina flavor, making them a standout in todays music landscape.</p>
 </div> <!-- Footer Links -->
 <div > 
 </div> 

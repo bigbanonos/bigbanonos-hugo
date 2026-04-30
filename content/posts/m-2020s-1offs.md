@@ -14,12 +14,12 @@ tags:
 
 ## M · 2020s 1-offs
 
-_71 favorite songs by artists starting with M. Current shit. The 2% that's good._
+_71 favorite songs by artists starting with M. Current shit. The 2% thats good._
 
 ---
 
-**Mary Clark** — Take Me I'm Yours
-*Take Me I'm Yours* · 1980 · 6:57
+**Mary Clark** — Take Me Im Yours
+*Take Me Im Yours* · 1980 · 6:57
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3rv2u0rfXCZrUoeposkCML" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -83,8 +83,8 @@ _71 favorite songs by artists starting with M. Current shit. The 2% that's good.
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0GzuHFG4Ql6DoyxFRnIk3F" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Marzz** — Feelin' Me
-*Feelin' Me* · 2021 · 2:33
+**Marzz** — Feelin Me
+*Feelin Me* · 2021 · 2:33
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0Zp2Yr4QrCuJ37tNqTEkVJ" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -233,12 +233,12 @@ _71 favorite songs by artists starting with M. Current shit. The 2% that's good.
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0QHZGpHLzjeYgcVARNpb29" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Marlowe;L'Orange;Solemn Brigham;Deniro Farrar** — Godfist (feat. Deniro Farrar)
+**Marlowe;LOrange;Solemn Brigham;Deniro Farrar** — Godfist (feat. Deniro Farrar)
 *Marlowe 3* · 2022 · 3:24
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5r05vTi0NartvIpdImlrL5" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Mad Lasso** — February Evenin'
+**Mad Lasso** — February Evenin
 *Sad Lasso Pt. II* · 2022 · 2:46
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1VOfsizE7ezAkAhWyzr4dX" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -318,8 +318,8 @@ _71 favorite songs by artists starting with M. Current shit. The 2% that's good.
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0QCIpQV3twfqo9kh0t8Zza" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Morgan Wallen;Post Malone** — I Ain't Comin' Back (feat. Post Malone)
-*I Ain't Comin' Back* · 2025 · 2:55
+**Morgan Wallen;Post Malone** — I Aint Comin Back (feat. Post Malone)
+*I Aint Comin Back* · 2025 · 2:55
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5ceKWhT3J34xxw5uzIzgU9" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 

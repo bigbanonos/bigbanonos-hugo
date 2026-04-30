@@ -41,7 +41,7 @@ _8 tracks, 2007 to 2025._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1W4feq7gmwYrDOjaMWoFOc" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Danger Dub - Adrian Sherwood 'Reset In Dub' Version** (feat. Panda Bear;Sonic Boom;Adrian Sherwood)
+**Danger Dub - Adrian Sherwood Reset In Dub Version** (feat. Panda Bear;Sonic Boom;Adrian Sherwood)
 *Reset in Dub* · 2023 · 7:09
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/183xLvcS5Bo9GjJVOoQ8QQ" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

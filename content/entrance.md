@@ -14,7 +14,7 @@ tags:
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "70IAhRo1cAQ" >}}
 </div> <!-- Song Information -->
-<div > <p><em>"Darling"</em>, from Entrance's 2004 album *Wandering Stranger*, released under Fat Possum Records, captures the ethereal essence of the new weird America genre. Its emotional depth and sparse yet striking arrangements make it an unforgettable addition to any folk/acoustic playlist.</p>
+<div > <p><em>"Darling"</em>, from Entrances 2004 album *Wandering Stranger*, released under Fat Possum Records, captures the ethereal essence of the new weird America genre. Its emotional depth and sparse yet striking arrangements make it an unforgettable addition to any folk/acoustic playlist.</p>
 </div> <!-- Footer Links -->
 <div > 
 </div> 

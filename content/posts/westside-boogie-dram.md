@@ -29,7 +29,7 @@ _3 tracks between 2019 and 2022._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/671qYsHx1DL1pNn3qxYg60" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**CAN'T GET OVER YOU (feat. Smino & Teezo Touchdown)** (feat. WESTSIDE BOOGIE;Smino;Teezo Touchdown)
+**CANT GET OVER YOU (feat. Smino & Teezo Touchdown)** (feat. WESTSIDE BOOGIE;Smino;Teezo Touchdown)
 *MORE BLACK SUPERHEROES* · 2022 · 3:16
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0u0Wg5JO7Aza12fQJMIZ6Q" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

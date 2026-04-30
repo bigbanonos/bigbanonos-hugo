@@ -8,8 +8,8 @@ tags:
 ---
 
 <!-- Post Title -->
-<h1 >BigBanonos' Favorite Song by Big Smoak</h1> <!-- Introductory Text -->
-<p >Updated September 27, 2019, with BigBanonos' favorite song by Big Smoak, "Drone and Satellite," from the *Chromematic Riddim* collection. Released under Fox Fuse, this track showcases the artist's unique style. Watch the video and see more details below:</p> <!-- Featured Image -->
+<h1 >BigBanonos Favorite Song by Big Smoak</h1> <!-- Introductory Text -->
+<p >Updated September 27, 2019, with BigBanonos favorite song by Big Smoak, "Drone and Satellite," from the *Chromematic Riddim* collection. Released under Fox Fuse, this track showcases the artists unique style. Watch the video and see more details below:</p> <!-- Featured Image -->
 <div > <img src="https://m.media-amazon.com/images/I/410xwyyACCL._UXNaN_FMjpg_QL85_.jpg" alt="Big Smoak - Drone and Satellite" />
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "Qundy-K1CFg" >}}

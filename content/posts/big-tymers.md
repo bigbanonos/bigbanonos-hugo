@@ -21,7 +21,7 @@ _6 tracks between 1998 and 2003._
 
 ---
 
-**Big Ballin'**
+**Big Ballin**
 *How You Luv That? Vol. 2* · 1998 · 4:37
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1DV0rYuYKKU6ovn8uzGJQc" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -37,7 +37,7 @@ _6 tracks between 1998 and 2003._
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7kBdenpTmgWfAz9clmBcok" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **Project Bitch** (feat. Big Tymers;JUVENILE;Lil Wayne)
-*Baller Blockin'* · 2000 · 4:41
+*Baller Blockin* · 2000 · 4:41
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7jeuO70ZhwRuGbfH1laugD" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 

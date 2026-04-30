@@ -7,12 +7,12 @@ tags:
   - '@beirut'
 ---
 
-<h2>BigBanonos' 7 Favorite Songs by Beirut</h2> <!--Search Description-->
-<p>BigBanonos' top 7 songs by Beirut, featuring unique blends of baroque pop, chamber pop, and indie rock. Includes iconic tracks like "Elephant Gun" and "Postcards From Italy."</p> <!--Spotify Playlist Embed-->
-{{< youtube "embed" >}} <!--Song Listings-->
+<h2>BigBanonos 7 Favorite Songs by Beirut</h2> <!--Search Description-->
+<p>BigBanonos top 7 songs by Beirut, featuring unique blends of baroque pop, chamber pop, and indie rock. Includes iconic tracks like "Elephant Gun" and "Postcards From Italy."</p> <!--Spotify Playlist Embed-->
+ <!--Song Listings-->
 <ul> <li>Elephant Gun - <em>Artifacts</em> (2022)</li> <li>East Harlem - <em>The Rip Tide</em> (2011)</li> <li>Santa Fe - <em>The Rip Tide</em> (2011)</li> <li>Nantes - <em>The Flying Club Cup</em> (2007)</li> <li>Postcards From Italy - <em>The Gulag Orkestar</em> (2006)</li> <li>Mount Wrociai (Idle Days) - <em>Gulag Orkestar</em> (2006)</li> <li>Scenic World - <em>Gulag Orkestar</em> (2006)</li><li>Carousels -Ãƒâ€šÃ‚ <em>Gulag Orkestar</em>Ãƒâ€šÃ‚ (2006)</li>
 </ul> <!--Image-->
 <img alt="Beirut band image" height="auto" src="https://www1.picturepush.com/photo/a/13439474/img/13439474.jpg" width="100%" /> <!--Tags Section-->
-<h3>Discover more from BigBanonos' favorite indie artists on the <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos blog</a>. For exclusive music videos and live performances, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a>.</h3>
+<h3>Discover more from BigBanonos favorite indie artists on the <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos blog</a>. For exclusive music videos and live performances, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a>.</h3>
 
 <hr />

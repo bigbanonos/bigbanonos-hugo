@@ -14,4 +14,4 @@ tags:
 <p><strong>"Going Down"</strong> – 2007</p>
 <p><strong>"In the Club 2"</strong> – 2007</p>
 <p><strong>"Lice In The Rainbow"</strong> – 2007</p>
-<p><strong>"Route To Palm"</strong> – 2007</p> {{< youtube "embed" >}} <p>@whitewilliams</p> <hr />
+<p><strong>"Route To Palm"</strong> – 2007</p>  <p>@whitewilliams</p> <hr />

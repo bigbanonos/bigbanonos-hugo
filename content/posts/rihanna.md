@@ -21,12 +21,12 @@ _5 tracks, 2005 to 2016._
 
 ---
 
-**There's A Thug In My Life** (feat. Rihanna;J-Status)
+**Theres A Thug In My Life** (feat. Rihanna;J-Status)
 *Music Of The Sun* · 2005 · 3:18
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3FgyAHreB004xbcBvw7pYn" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**You Don't Love Me (No, No, No)** (feat. Rihanna;Vybz Kartel)
+**You Dont Love Me (No, No, No)** (feat. Rihanna;Vybz Kartel)
 *Music Of The Sun* · 2005 · 4:20
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7wWU3G8lAYNkro19o1wsBc" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

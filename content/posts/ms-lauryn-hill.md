@@ -28,7 +28,7 @@ _4 tracks between 1998 and 2002._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0uEp9E98JB5awlA084uaIg" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Nothing Even Matters (feat. D'Angelo)** (feat. Ms. Lauryn Hill;D'Angelo)
+**Nothing Even Matters (feat. DAngelo)** (feat. Ms. Lauryn Hill;DAngelo)
 *The Miseducation of Lauryn Hill* · 1998 · 5:50
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1Q0lOGB52skgfzdcq233vs" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

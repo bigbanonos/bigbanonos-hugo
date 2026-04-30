@@ -26,12 +26,12 @@ _4 tracks between 1983 and 1991._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5LkcAjqj5NOctNGi2qUjlw" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**If It Isn't Love**
+**If It Isnt Love**
 *Heart Break* · 1988 · 5:09
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7JmPqImeW3kLoYVNBA9v11" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**If It Isn't Love**
+**If It Isnt Love**
 *Greatest Hits-Volume One* · 1991 · 5:10
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6oGPZcErzd9Hjw3E4sDBrq" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

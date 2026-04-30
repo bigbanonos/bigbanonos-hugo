@@ -14,7 +14,7 @@ tags:
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "hfMUzP7lxgk" >}}
 </div> <!-- Song Information -->
-<div > <p><em>"We Could Walk Together"</em> perfectly captures The Clientele's signature melancholic style, drawing listeners into its world of lush textures and nostalgic vibes. With *Suburban Light* being remastered, this track continues to resonate with fans of chamber pop and reflective indie music.</p>
+<div > <p><em>"We Could Walk Together"</em> perfectly captures The Clienteles signature melancholic style, drawing listeners into its world of lush textures and nostalgic vibes. With *Suburban Light* being remastered, this track continues to resonate with fans of chamber pop and reflective indie music.</p>
 </div> <!-- Footer Links -->
 <div > 
 </div> 

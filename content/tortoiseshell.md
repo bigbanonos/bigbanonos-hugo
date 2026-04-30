@@ -9,7 +9,7 @@ tags:
 
 <!-- Title of the Post -->
 <h1 >BigBanonos Favorite Remix by Tortoiseshell: "This Girl (Canyons Dub)"</h1> <!-- Introductory Text -->
-<p >Updated with "This Girl (Canyons Dub)" by Tortoiseshell, a smooth and groovy remix from 2010 that's sure to get you moving. Check out the video below!</p> <!-- Featured Image -->
+<p >Updated with "This Girl (Canyons Dub)" by Tortoiseshell, a smooth and groovy remix from 2010 thats sure to get you moving. Check out the video below!</p> <!-- Featured Image -->
 <div > <img src="https://i1.sndcdn.com/artworks-000013679891-jq3641-t500x500.jpg" alt="Tortoiseshell - This Girl (Canyons Dub)" />
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "OTPwFsQ46vQ" >}}

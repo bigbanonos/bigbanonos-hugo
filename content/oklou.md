@@ -11,7 +11,7 @@ tags:
 
 <h3>Oklou</h3>
 <img src="https://officemagazine.net/sites/default/files/styles/article_image_large/public/000542850003.jpg?itok=YFaw4Ivd" />
-{{< youtube "embed" >}}
+
 <p>
 <strong>Oklou – "Blade Bird"</strong> (2025) – <em>Blade Bird</em> – True Panther Records<br />
 <strong>Oklou, Bladee – "Take Me by the Hand"</strong> (2025) – <em>Take Me by the Hand</em> – True Panther Records<br />

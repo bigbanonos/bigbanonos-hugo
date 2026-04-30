@@ -34,7 +34,7 @@ _5 tracks between 2020 and 2022._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/60zlkOrTCHjpRTd1g6PI5y" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Goodbye To Love - From 'Minions: The Rise of Gru' Soundtrack**
-*Goodbye To Love (From 'Minions: The Rise of Gru' Soundtrack)* · 2022 · 4:02
+**Goodbye To Love - From Minions: The Rise of Gru Soundtrack**
+*Goodbye To Love (From Minions: The Rise of Gru Soundtrack)* · 2022 · 4:02
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4YEcH1SdjdeEyvt4AGYeqI" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

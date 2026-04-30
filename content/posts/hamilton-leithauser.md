@@ -21,7 +21,7 @@ _6 tracks between 2016 and 2025._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0s2daWQFrTz6UYhPQqHTYx" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Rough Going (I Won't Let Up)** (feat. Hamilton Leithauser + Rostam)
+**Rough Going (I Wont Let Up)** (feat. Hamilton Leithauser + Rostam)
 *I Had A Dream That You Were Mine* · 2016 · 4:15
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3HratlJghRcFbtjzFFmEva" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

@@ -24,7 +24,7 @@ _3 tracks, all from 2019._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2zjGJ0dChMR0KxBZS15aqo" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Ballin' (with Roddy Ricch)** (feat. Mustard;Roddy Ricch)
+**Ballin (with Roddy Ricch)** (feat. Mustard;Roddy Ricch)
 *Perfect Ten* · 2019 · 3:00
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3QzAOrNlsabgbMwlZt7TAY" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

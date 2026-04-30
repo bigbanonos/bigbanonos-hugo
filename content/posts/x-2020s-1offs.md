@@ -14,7 +14,7 @@ tags:
 
 ## X · 2020s 1-offs
 
-_1 favorite songs by artists starting with X. Current shit. The 2% that's good._
+_1 favorite songs by artists starting with X. Current shit. The 2% thats good._
 
 ---
 

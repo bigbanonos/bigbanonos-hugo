@@ -10,7 +10,7 @@ tags:
 ---
 
 <!-- Post Title -->
-<h1 >BigBanonos' Favorite Tracks: Lloyd, AndrÃƒÆ’Ã‚© 3000 & Lil Wayne - "Dedication To My Ex (Miss That)"</h1> <!-- Introductory Text -->
+<h1 >BigBanonos Favorite Tracks: Lloyd, AndrÃƒÆ’Ã‚© 3000 & Lil Wayne - "Dedication To My Ex (Miss That)"</h1> <!-- Introductory Text -->
 <p >Updated January 1, 2011, with "Dedication To My Ex (Miss That)" by Lloyd featuring AndrÃƒÆ’Ã‚© 3000 and Lil Wayne. This genre-blending track from the album <em>King Of Hearts</em>, released under Zone 4 Inc/Interscope, is a standout in hip hop, R&B, and pop.</p> <!-- Featured Image -->
 <div > <img src="https://i.ytimg.com/vi/CrQAdM581Pk/maxresdefault.jpg" alt="Lloyd - Dedication To My Ex (Miss That)" />
 </div> <!-- YouTube Video Embed -->

@@ -21,6 +21,6 @@ _2 tracks between 2005 and 2010._
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0j5CWpFtEusxhJmcSN8LSg" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **Hand Me Down Me Bible**
-*Luke's Legacy* · 2010 · 3:52
+*Lukes Legacy* · 2010 · 3:52
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/23ZmNcTiXx4iLkpBvEgp54" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

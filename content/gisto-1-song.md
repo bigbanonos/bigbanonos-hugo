@@ -8,7 +8,6 @@ tags:
 ---
 
 {{< youtube "4vCkTlglSRk" >}}<br /><br />
-<h3><ol><li>(ft. Gyptian)Ãƒâ€šÃ‚ Move It That Way [2020]</li>
-</ol></h3>
+<h3></h3>
 
 <hr />

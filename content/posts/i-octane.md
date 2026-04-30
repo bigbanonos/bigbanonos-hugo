@@ -50,7 +50,7 @@ _9 tracks between 2014 and 2021._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0UkUyh3P0ODnU5koukFDFT" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Girl's Dem Into We**
+**Girls Dem Into We**
 *Love & Life* · 2018 · 3:35
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6qPqt5MJE9IL4HB4931b91" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

@@ -14,7 +14,7 @@ tags:
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "0Vyj1C8ogtE" >}}
 </div> <!-- Song Information -->
-<div > <p><em>"United States of Whatever"</em>, released in 2002 and featured on Liam Lynch's 2003 album *Fake Songs* via S-Curve Records, is a cheeky, minimalist rock track that became a cult classic. Its quirky humor and deadpan delivery have made it an unforgettable piece of early-2000s novelty music.</p>
+<div > <p><em>"United States of Whatever"</em>, released in 2002 and featured on Liam Lynchs 2003 album *Fake Songs* via S-Curve Records, is a cheeky, minimalist rock track that became a cult classic. Its quirky humor and deadpan delivery have made it an unforgettable piece of early-2000s novelty music.</p>
 </div> <!-- Footer Links -->
 <div > 
 </div> 

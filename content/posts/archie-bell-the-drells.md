@@ -19,8 +19,8 @@ _3 tracks from 1969 to 2007. The peak is in there somewhere._
 
 ---
 
-**(There's Gonna Be A) Showdown**
-*There's Gonna Be A Showdown* · 1969 · 2:44
+**(Theres Gonna Be A) Showdown**
+*Theres Gonna Be A Showdown* · 1969 · 2:44
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1YlljwJpROgtCkyZff54Mo" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 

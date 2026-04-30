@@ -22,7 +22,7 @@ _6 tracks spanning 1974 to 2021. 47 years of trying._
 
 ---
 
-**Ain't I Been Good to You, Pts. 1 & 2**
+**Aint I Been Good to You, Pts. 1 & 2**
 *Live It Up* · 1974 · 8:30
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/65JBTetpUJL7LRKIkb2WGF" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -33,7 +33,7 @@ _6 tracks spanning 1974 to 2021. 47 years of trying._
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/53HL9X1ZFXUvN8OS7HsHCX" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **(At Your Best) You Are Love**
-*It's Your Thing: The Story Of The Isley Brothers* · 1999 · 5:23
+*Its Your Thing: The Story Of The Isley Brothers* · 1999 · 5:23
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/29OEqP6K0C4VadCwRPm1YZ" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 

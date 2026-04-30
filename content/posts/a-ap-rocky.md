@@ -27,7 +27,7 @@ _6 tracks, 2011 to 2026._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3DtOW3gzNTy5SgLWhwOdFW" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**F**kin' Problems (feat. Drake, 2 Chainz & Kendrick Lamar)** (feat. A$AP Rocky;Drake;2 Chainz;Kendrick Lamar)
+**F**kin Problems (feat. Drake, 2 Chainz & Kendrick Lamar)** (feat. A$AP Rocky;Drake;2 Chainz;Kendrick Lamar)
 *LONG.LIVE.A$AP (Deluxe Version)* · 2013 · 3:53
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4X5f3vT8MRuXF68pfjNte5" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

@@ -13,7 +13,7 @@ tags:
   - 'hardcore hip hop'
 ---
 
-## Ol' Dirty Bastard
+## Ol Dirty Bastard
 
 _6 tracks between 1999 and 2006._
 
@@ -24,7 +24,7 @@ _6 tracks between 1999 and 2006._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/44WjOh1qVZGTcGfP6oRbkK" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**I Can't Wait**
+**I Cant Wait**
 *Nigga Please* · 1999 · 3:57
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/71fCbBPiiJNd1rqEbraS1v" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -39,12 +39,12 @@ _6 tracks between 1999 and 2006._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3ALifCbt0uBkXMzuwizCuQ" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Got Your Money (feat. Kelis)** (feat. Ol' Dirty Bastard;Kelis)
+**Got Your Money (feat. Kelis)** (feat. Ol Dirty Bastard;Kelis)
 *Nigga Please* · 1999 · 4:01
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4IagXJz30pi0MvuGyvF8Es" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **Shimmy Shimmy Ya**
-*Rhino Hi-Five: Ol' Dirty Bastard* · 2006 · 2:39
+*Rhino Hi-Five: Ol Dirty Bastard* · 2006 · 2:39
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5GSiW5PowBQibaKHFCxY9Y" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

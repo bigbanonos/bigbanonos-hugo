@@ -7,7 +7,7 @@ tags:
   - '@addisonrae'
 ---
 
-<img src="https://inmusicblog.com/wp-content/uploads/2025/06/img_2858-1.jpg?w=1024" width="100%" /> <p>BigBanonos' favorite song by Addison Rae, last updated June 6, 2025 with <em>"Money is Everything"</em>, highlighted in the video below:</p> {{< youtube "spdX1tq7mec" >}} <p><strong>Money is Everything</strong> " Addison Rae<br/>
+<img src="https://inmusicblog.com/wp-content/uploads/2025/06/img_2858-1.jpg?w=1024" width="100%" /> <p>BigBanonos favorite song by Addison Rae, last updated June 6, 2025 with <em>"Money is Everything"</em>, highlighted in the video below:</p> {{< youtube "spdX1tq7mec" >}} <p><strong>Money is Everything</strong> " Addison Rae<br/>
 Album: <em>Addison</em> " Columbia " 2025<br/>
 Genres: Social Media Pop, Pop</p>  <hr />  <p>@addisonrae</p>
 

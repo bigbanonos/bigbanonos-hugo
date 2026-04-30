@@ -32,29 +32,11 @@ The venue warmed up on a deep cuts tip before anyone famous touched the stage.
 
 Nineteen85 reminisced on the summer of 2016, bridging Sade to the OVO-heavy hits that defined the decade.
 
-**8:32** Sade — No Ordinary Love *(the lead-off)* / **8:33** The Internet ft. KAYTRANADA — Girl / **8:40** Alicia Keys — Un-Thinkable / **8:41** Drake — Marvins Room / **8:42** Chris Brown — Yo (Excuse Me Miss) / **8:46** Chris Brown ft. Drake — No Guidance / **8:48** PARTYNEXTDOOR ft. Drake — SOMEBODY LOVES ME / **8:50** Drake ft. Chris Brown — Not You Too / **8:52** Summer Walker & Drake — Girls Need Love (Remix) / **8:56** Bryson Tiller — Don't / **9:01** Isaiah Falls — TABOO / **9:02** Ella Mai — Might Just / **9:07** Summer Walker — No / **9:08** Ty Dolla $ign & Leon Thomas — miss u 2 / **9:38** Frank Ocean — Godspeed *(intercom transition to live set)*
+**8:32** Sade — No Ordinary Love *(the lead-off)* / **8:33** The Internet ft. KAYTRANADA — Girl / **8:40** Alicia Keys — Un-Thinkable / **8:41** Drake — Marvins Room / **8:42** Chris Brown — Yo (Excuse Me Miss) / **8:46** Chris Brown ft. Drake — No Guidance / **8:48** PARTYNEXTDOOR ft. Drake — SOMEBODY LOVES ME / **8:50** Drake ft. Chris Brown — Not You Too / **8:52** Summer Walker & Drake — Girls Need Love (Remix) / **8:56** Bryson Tiller — Dont / **9:01** Isaiah Falls — TABOO / **9:02** Ella Mai — Might Just / **9:07** Summer Walker — No / **9:08** Ty Dolla $ign & Leon Thomas — miss u 2 / **9:38** Frank Ocean — Godspeed *(intercom transition to live set)*
 
 ---
 
 ## III. dvsn Live
-
-1. **With Me** — the 2016 introduction
-2. **Too Deep** — so dope with live drums — *"i want to hear you sing every word"*
-3. **Try / Effortless (1998 Rock Version)** — *"anyone ever felt like they just doin too much to get somebody's attention?"* — drummer swapped sticks for electric guitar, grunge-heavy reimagining
-4. **Keep The Faith** — non-album track from the Sept 5 era
-5. **Touch It (Do It Well Pt. 4)** — featuring a tame, demure lap dance from a fan (Jennifer)
-6. **Faithful** — dvsn reclaiming the Views collab
-7. **In + Out** — fan request
-8. **Godspeed** — full live Frank Ocean cover; Daniel exited stage for 30 seconds during the bridge
-9. **Sept 5th** — preceded by the origin story of being hypnotized hearing the beat for the first time
-10. **Kiss It Better (Rihanna Cover)** — *tell me what you're willing to do*
-11. **Excited** — single released August 2025
-12. **Hallucinations** — the 2016 breakout anthem, crowd loved this
-13. **Body / Smile & In Between** — a cappella vocal suite, raw planting, no instruments
-14. **Another One / Human Nature** — blended into the MJ classic; *RIP MJ, tribute to the legends we lost*
-15. **One in a Million** — Aaliyah tribute
-16. **Angela** — atmospheric lead-in
-17. **With Me (7-Minute Extended Finale)** — ended at exactly 10:30 PM
 
 ---
 

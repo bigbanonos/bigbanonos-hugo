@@ -8,7 +8,7 @@ tags:
   - '00s-10s'
 ---
 
-## Playboy Tre´
+## Playboy Tre
 
 _1 tracks, all from 2009._
 

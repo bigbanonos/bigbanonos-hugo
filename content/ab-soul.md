@@ -16,7 +16,7 @@ tags:
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "A57agSNR_7Y" >}}
 </div> <!-- Song Information -->
-<div > <p><em>California Dream</em> blends Ab-Soul's introspective lyrics with Vince Staples and Kamm Carson's distinct styles, creating a hard-hitting yet smooth track.</p> <p><strong>Updated on November 8, 2024</strong></p>
+<div > <p><em>California Dream</em> blends Ab-Souls introspective lyrics with Vince Staples and Kamm Carsons distinct styles, creating a hard-hitting yet smooth track.</p> <p><strong>Updated on November 8, 2024</strong></p>
 </div> <!-- Footer Links -->
 <div > 
 </div> 

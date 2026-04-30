@@ -25,7 +25,7 @@ _7 tracks, 2009 to 2022._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3zOkAx0UDYl2LymodKmP53" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**It's Not Supposed To Be That Way**
+**Its Not Supposed To Be That Way**
 *To Willie* · 2009 · 3:35
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2NH75MrX5PYpvQAPB94Cc2" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -40,12 +40,12 @@ _7 tracks, 2009 to 2022._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0TsNcXQKTJhXrYLvnTEymW" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**The Party's Over**
+**The Partys Over**
 *To Willie* · 2009 · 3:53
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0BIzZ6EyQdPzs0zQO387xR" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Tryin' to Get to Heaven**
-*Tryin' to Get to Heaven* · 2022 · 5:28
+**Tryin to Get to Heaven**
+*Tryin to Get to Heaven* · 2022 · 5:28
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5K40n92M6uD2a6qujidhW0" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

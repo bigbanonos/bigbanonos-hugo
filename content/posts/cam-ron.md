@@ -12,18 +12,18 @@ tags:
   - 'east coast hip hop'
 ---
 
-## Cam'ron
+## Camron
 
 _6 tracks from 1999 to 2025. The peak is in there somewhere._
 
 ---
 
 **What Means The World To You**
-*Cam'ron...Harlem's Greatest* · 1999 · 4:39
+*Camron...Harlems Greatest* · 1999 · 4:39
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6lH67bGdVbYWuthCi4iqH4" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Hey Ma** (feat. Cam'ron;Juelz Santana;Freekey Zeekey;Toya)
+**Hey Ma** (feat. Camron;Juelz Santana;Freekey Zeekey;Toya)
 *Come Home With Me* · 2002 · 3:40
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2fE1hcjUxlLxXrZusTEJlq" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

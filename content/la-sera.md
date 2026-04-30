@@ -7,9 +7,8 @@ tags:
   - '@lasera'
 ---
 
-<h2>BigBanonos' Favorite Tracks: La Sera</h2> <div > <a href="https://polyvinyl-public.s3.amazonaws.com/344ef5151be171062f42f03e69663ecf71da5f806ff2cf49c617ef9a2d6a408be37bf334_medium.jpg"> <img src="https://polyvinyl-public.s3.amazonaws.com/344ef5151be171062f42f03e69663ecf71da5f806ff2cf49c617ef9a2d6a408be37bf334_medium.jpg" alt="La Sera" width="400" /> </a>
-</div> <p>La Sera's sound blends dreamy pop melodies with a gritty, noise-pop edge. This playlist highlights some of their best work, offering a glimpse into their nostalgic yet modern vibe.</p> <h3>Selected Tracks</h3>
-<ol> <li><strong>Real Boy</strong> – <em>Sees the Light</em> (2012)</li> <li><strong>Devils Hearts Grow Gold</strong> – <em>La Sera</em> (2011)</li>
-</ol> <p>Stream La Sera's playlist:</p>
-{{< youtube "embed" >}} <h3>Tags</h3>
-<p>@lasera</p> <p>Explore more on <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos' YouTube channel</a> and follow us on <a href="https://twitter.com/BigBanonos" target="_blank">Twitter</a>!</p> <hr />
+<h2>BigBanonos Favorite Tracks: La Sera</h2> <div > <a href="https://polyvinyl-public.s3.amazonaws.com/344ef5151be171062f42f03e69663ecf71da5f806ff2cf49c617ef9a2d6a408be37bf334_medium.jpg"> <img src="https://polyvinyl-public.s3.amazonaws.com/344ef5151be171062f42f03e69663ecf71da5f806ff2cf49c617ef9a2d6a408be37bf334_medium.jpg" alt="La Sera" width="400" /> </a>
+</div> <p>La Seras sound blends dreamy pop melodies with a gritty, noise-pop edge. This playlist highlights some of their best work, offering a glimpse into their nostalgic yet modern vibe.</p> <h3>Selected Tracks</h3>
+ <p>Stream La Seras playlist:</p>
+ <h3>Tags</h3>
+<p>@lasera</p> <p>Explore more on <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos YouTube channel</a> and follow us on <a href="https://twitter.com/BigBanonos" target="_blank">Twitter</a>!</p> <hr />

@@ -9,7 +9,7 @@ description: "16 tracks — W artists, 1900s–1990s"
 16 tracks.
 
 <div class="track-embed">
-  <p><strong>Let's Have A Party</strong> — Wanda Jackson</p>
+  <p><strong>Lets Have A Party</strong> — Wanda Jackson</p>
   <iframe src="https://open.spotify.com/embed/track/3QUGcs2wxh0hs1cpQYejSf?utm_source=generator" width="100%" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 </div>
 
@@ -69,7 +69,7 @@ description: "16 tracks — W artists, 1900s–1990s"
 </div>
 
 <div class="track-embed">
-  <p><strong>Nobody's Diary</strong> — Yazoo</p>
+  <p><strong>Nobodys Diary</strong> — Yazoo</p>
   <iframe src="https://open.spotify.com/embed/track/0DCJUyPArbtLcJlRhjCew9?utm_source=generator" width="100%" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 </div>
 

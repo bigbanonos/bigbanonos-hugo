@@ -12,7 +12,7 @@ tags:
 <p><strong>"Double Vision"</strong> – <em>Turn The Lights Out</em> (Matador, 2007)</p>
 <p><strong>"Get Black"</strong> – <em>Celebration Castle</em> (In The Red, 2005)</p>
 <p><strong>"Glass Conversation"</strong> – <em>Celebration Castle</em> (In The Red, 2005)</p>
-<p><strong>"Chemical Imbalance"</strong> – <em>Laced With Romance</em> (In The Red, 2004)</p> {{< youtube "embed" >}} <p>@ponys</p> <hr /> <!-- Footer -->
+<p><strong>"Chemical Imbalance"</strong> – <em>Laced With Romance</em> (In The Red, 2004)</p>  <p>@ponys</p> <hr /> <!-- Footer -->
  
 
 <hr />

@@ -16,7 +16,7 @@ tags:
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "cgNLTVRFQ1Y" >}}
 </div> <!-- Song Information -->
-<div > <p><em>"Get Money"</em>, released in 2007, showcases Montana Trax's production brilliance with the dynamic contributions of 8Ball and Ammo. This track's infectious rhythm and street-smart lyrics make it an enduring favorite in hip-hop circles.</p>
+<div > <p><em>"Get Money"</em>, released in 2007, showcases Montana Traxs production brilliance with the dynamic contributions of 8Ball and Ammo. This tracks infectious rhythm and street-smart lyrics make it an enduring favorite in hip-hop circles.</p>
 </div> <!-- Footer Links -->
 <div > 
 </div> 

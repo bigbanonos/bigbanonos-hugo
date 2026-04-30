@@ -104,7 +104,7 @@ description: "26 tracks — R artists, 1900s–1990s"
 </div>
 
 <div class="track-embed">
-  <p><strong>Jessie's Girl</strong> — Rick Springfield</p>
+  <p><strong>Jessies Girl</strong> — Rick Springfield</p>
   <iframe src="https://open.spotify.com/embed/track/1sgfjgLRCqSfndpofU8T2C?utm_source=generator" width="100%" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 </div>
 
@@ -129,7 +129,7 @@ description: "26 tracks — R artists, 1900s–1990s"
 </div>
 
 <div class="track-embed">
-  <p><strong>Oh No Don't Do It</strong> — Ronnie Dickerson;Lou Reed</p>
+  <p><strong>Oh No Dont Do It</strong> — Ronnie Dickerson;Lou Reed</p>
   <iframe src="https://open.spotify.com/embed/track/3HKAWKgsg3R9Hmcqigs1qC?utm_source=generator" width="100%" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 </div>
 

@@ -25,13 +25,13 @@ _7 tracks, 2009 to 2022._
 
 ---
 
-**Valentine's Day** (feat. Klaus Nomi)
+**Valentines Day** (feat. Klaus Nomi)
 *Za Bakdaz: The Unfinished Opera* · 2009 · 2:49
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0dM8QwXUJwGzlTouSG9eAF" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **Moon Watching** (feat. Shin Joong Hyun)
-*Beautiful Rivers and Mountains: The Psychedelic Rock Sound of South Korea's Shin Joong Hyun 1958-1974* · 2011 · 2:36
+*Beautiful Rivers and Mountains: The Psychedelic Rock Sound of South Koreas Shin Joong Hyun 1958-1974* · 2011 · 2:36
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0p7rBqUbdeJydjBkkHwGCN" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 

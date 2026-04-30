@@ -27,7 +27,7 @@ _22 tracks from 1994 to 2020. The peak is in there somewhere._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7ywp9MWERblgkSMoMBugC0" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Sweet-Lovin' Man**
+**Sweet-Lovin Man**
 *69 Love Songs* · 1999 · 4:59
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6OSgFozp42r4JrZstWiLje" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -112,7 +112,7 @@ _22 tracks from 1994 to 2020. The peak is in there somewhere._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0fKNI2Xd1v3mjN7GscMZAv" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**I Don't Believe You**
+**I Dont Believe You**
 *i* · 2004 · 3:39
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5qDXgWa9Z2HdawFOOKjCh5" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

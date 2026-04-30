@@ -20,12 +20,12 @@ _5 tracks between 2005 and 2008._
 
 ---
 
-**Flossin' (feat. Big Moe)** (feat. Mike Jones;Big Moe)
+**Flossin (feat. Big Moe)** (feat. Mike Jones;Big Moe)
 *Who Is Mike Jones?* · 2005 · 3:11
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7r8KGFyID2uExN5FupG4AT" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Still Tippin' (feat. Slim Thug and Paul Wall)** (feat. Mike Jones;Paul Wall;Slim Thug)
+**Still Tippin (feat. Slim Thug and Paul Wall)** (feat. Mike Jones;Paul Wall;Slim Thug)
 *Who Is Mike Jones?* · 2005 · 4:31
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/59rtiYOPgMEDf3yPEfU2la" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -35,12 +35,12 @@ _5 tracks between 2005 and 2008._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3LU66Soe9kT5saRxI4wTj6" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Dick Don't Fail Me Now - Shake That Monkey (Swishahouse Remix)**
+**Dick Dont Fail Me Now - Shake That Monkey (Swishahouse Remix)**
 *Running Tha Game* · 2008 · 3:05
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6jgJHstpOPLKzGZhfq2bT8" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Dick Don't Fail Me Now (Remix)** (feat. Mike Jones;Thyra)
+**Dick Dont Fail Me Now (Remix)** (feat. Mike Jones;Thyra)
 *Choppin Em Up Part 8* · 2008 · 3:24
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0YpOYt6FHt7YpZnEppoNg8" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

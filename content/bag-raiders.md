@@ -15,7 +15,7 @@ tags:
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "0zM3nApSvMg" >}}
 </div> <!-- Song Information -->
-<div > <p><em>"Sunlight"</em>, from Bag Raiders' *Bag Raiders (Deluxe)* album, released under Modular Records on January 1, 2011, perfectly encapsulates the duo's signature sound. Its vibrant energy and catchy melodies make it a staple in the alternative dance and nu disco scenes.</p>
+<div > <p><em>"Sunlight"</em>, from Bag Raiders *Bag Raiders (Deluxe)* album, released under Modular Records on January 1, 2011, perfectly encapsulates the duos signature sound. Its vibrant energy and catchy melodies make it a staple in the alternative dance and nu disco scenes.</p>
 </div> <!-- Footer Links -->
 <div > 
 </div> 

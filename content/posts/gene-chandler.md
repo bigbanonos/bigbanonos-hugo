@@ -21,7 +21,7 @@ _2 tracks between 1962 and 1967._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6Hy22YDN9HJMRlJP1LwnJy" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**You Can't Hurt Me No More**
-*The Girl Don't Care* · 1967 · 2:37
+**You Cant Hurt Me No More**
+*The Girl Dont Care* · 1967 · 2:37
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7BiRyVxIimvgnlmZg4vSi9" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

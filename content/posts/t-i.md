@@ -48,7 +48,7 @@ _8 tracks between 2003 and 2012._
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6MfJi2aydSuNiqYDlnZH37" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **Let My Beat Pound**
-*It's the King Bitch* · 2012 · 3:32
+*Its the King Bitch* · 2012 · 3:32
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3Dsw4eD9XcYDlioqT7ASe8" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 

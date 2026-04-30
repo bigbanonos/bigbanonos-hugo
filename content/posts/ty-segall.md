@@ -46,8 +46,8 @@ _11 tracks, 2009 to 2022._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5PwsGXwsnQjsETGXIjf6vh" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**My Lady's On Fire**
-*Freedom's Goblin* · 2018 · 3:52
+**My Ladys On Fire**
+*Freedoms Goblin* · 2018 · 3:52
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5EbTamOuKNYlEsOUGc51kE" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -56,8 +56,8 @@ _11 tracks, 2009 to 2022._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/12kGzGNecTzITMW0xerWbJ" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**I'm a Man**
-*I'm a Man* · 2018 · 3:07
+**Im a Man**
+*Im a Man* · 2018 · 3:07
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/74wiH2ZxnYwXqR2wROyJA5" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -71,7 +71,7 @@ _11 tracks, 2009 to 2022._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4l6fjpInn1vid6UHvKN5z7" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Don't Lie**
-*Don't Lie* · 2022 · 4:10
+**Dont Lie**
+*Dont Lie* · 2022 · 4:10
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4tGa76ritYiYbOqV8vElLh" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

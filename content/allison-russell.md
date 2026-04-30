@@ -8,13 +8,13 @@ tags:
 ---
 
 <!-- Title of the Post -->
-<h1 >BigBanonos' Favorite Songs by Allison Russell</h1> <!-- Featured Image -->
+<h1 >BigBanonos Favorite Songs by Allison Russell</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab6761610000e5eb48d1162e2147fe542e75b73d" alt="Allison Russell" >}}
 </div> <!-- Spotify Embed -->
-<div > {{< youtube "embed" >}}
+<div > 
 </div> <!-- Introductory Text -->
-<p >Allison Russell's music blends black Americana and folk with heartfelt lyrics. From "Demons" to "The Returner," here are BigBanonos' favorite tracks by this visionary artist.</p> <!-- Song Highlights -->
-<div > <p>BigBanonos' standout picks:</p> <ol> <li><strong>Demons</strong> | <em>Demons</em> | Released: September 9, 2023 | Fantasy</li> <li><strong>Stay Right Here</strong> | <em>Stay Right Here</em> | Released: May 14, 2023 | Fantasy</li> <li><strong>The Returner</strong> | <em>The Returner</em> | Released: August 1, 2023 | Fantasy</li> </ol>
+<p >Allison Russells music blends black Americana and folk with heartfelt lyrics. From "Demons" to "The Returner," here are BigBanonos favorite tracks by this visionary artist.</p> <!-- Song Highlights -->
+<div > <p>BigBanonos standout picks:</p> 
 </div> <!-- Footer Links -->
 <div > <p>Discover more soulful tracks at <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Stay tuned for updates on <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p>
 </div> 

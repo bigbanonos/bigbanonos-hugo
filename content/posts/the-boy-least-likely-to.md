@@ -14,7 +14,7 @@ _2 tracks, all from 2005._
 
 ---
 
-**I'm Glad I Hitched My Apple Wagon to Your Star**
+**Im Glad I Hitched My Apple Wagon to Your Star**
 *The Best Party Ever* · 2005 · 4:18
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5nQZ7cD0F1oBPvSZoRGkq2" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

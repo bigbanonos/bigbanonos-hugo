@@ -11,8 +11,7 @@ tags:
 ---
 
 <h1>Ludacris - Top Songs</h1>
-<img alt="Ludacris" src="https://i.ytimg.com/vi/mq-Ru6kQhE4/maxresdefault.jpg" /> <p>Ludacris, a pioneer of southern hip hop, blends witty lyricism with hard-hitting beats. Here's a selection of his top tracks:</p> <ol> <li><strong>Phat Rabbit</strong> | Released: 2000</li> <li><strong>Rollout (My Business)</strong> | Album: Word Of Mouf | Released: January 1, 2001</li> <li><strong>Ho</strong> | Album: Back For The First Time | Released: January 1, 2000</li> <li><strong>Come And See Me</strong> (feat. Big K.R.I.T.) | Album: Ludaversal | Released: March 31, 2015</li> <li><strong>Money Maker</strong> (feat. Pharrell Williams) | Album: Release Therapy | Released: January 1, 2006</li> <li><strong>Southern Hospitality</strong> (feat. Pharrell Williams) | Album: Back For The First Time | Released: January 1, 2000</li> <li><strong>What's Your Fantasy</strong> (feat. Shawnna) | Album: Back For The First Time | Released: January 1, 2000</li>
-</ol> <div> {{< youtube "embed" >}}
+<img alt="Ludacris" src="https://i.ytimg.com/vi/mq-Ru6kQhE4/maxresdefault.jpg" /> <p>Ludacris, a pioneer of southern hip hop, blends witty lyricism with hard-hitting beats. Heres a selection of his top tracks:</p>  <div> 
 </div> <p>first posted by <a href="https://bigbanonos.blogspot.com/">https://bigbanonos.blogspot.com/</a></p> <div> <p>Explore more BigBanonos content: <a href="https://bigbanonos.blogspot.com/">Website</a> | <a href="https://www.youtube.com/@BigBanonos">YouTube</a> | <a href="https://x.com/bigbanonos">Twitter</a></p>
 </div> 
 <p>@ludacris,@bigkrit,@pharrellwilliams,@shawnna</p>

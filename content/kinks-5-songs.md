@@ -8,17 +8,16 @@ tags:
   - '@arthursandtheemigrants'
 ---
 
-<h2 >BigBanonos' Favorite Songs by The Kinks</h2> <!-- Introductory Text -->
-<p >Updated July 30 with a previously unreleased track by Arthur & The Emigrants featuring vocals by Ray Davies. The Kinks' timeless blend of rock, storytelling, and innovative soundscapes continues to captivate listeners. Explore BigBanonos' top picks below!</p> <!-- Featured Image -->
+<h2 >BigBanonos Favorite Songs by The Kinks</h2> <!-- Introductory Text -->
+<p >Updated July 30 with a previously unreleased track by Arthur & The Emigrants featuring vocals by Ray Davies. The Kinks timeless blend of rock, storytelling, and innovative soundscapes continues to captivate listeners. Explore BigBanonos top picks below!</p> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab6761610000517481f4e878e8b959fa68f15322" alt="The Kinks - Featured Image" >}}
 </div> <!-- Spotify Playlist Embed -->
-<div > {{< youtube "embed" >}}
+<div > 
 </div> <!-- YouTube Playlist Embed -->
 <div > {{< youtube "videoseries" >}}
 </div> <!-- Song List -->
 <h3 >Top Songs:</h3>
-<ol > <li><strong>The Future</strong> (2019)</li> <li><strong>Rosie Won't You Please Come Home</strong> (1966)</li> <li><strong>Time Will Tell</strong> (1966)</li> <li><strong>Moments</strong> (1971)</li> <li><strong>Hot Potatoes</strong> (1972)</li>
-</ol> <!-- Additional Image -->
+ <!-- Additional Image -->
 <div > {{< img-lite src="https://pmcvariety.files.wordpress.com/2019/07/shutterstock_editorial_9178a-e1564529443102.jpg?w=1000&h=563&crop=1" alt="The Kinks - Band Photo" >}}
 </div> <!-- Footer Links -->
 <hr />

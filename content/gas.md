@@ -14,7 +14,7 @@ tags:
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "yZyONJbSqnE" >}}
 </div> <!-- Song Information -->
-<div > <p><em>"Ignore Me"</em> by Gas showcases the project's ability to merge ambient textures with subtle rhythmic layers. Its meditative soundscapes and emotional depth make it an essential listen for fans of experimental and minimalist music.</p>
+<div > <p><em>"Ignore Me"</em> by Gas showcases the projects ability to merge ambient textures with subtle rhythmic layers. Its meditative soundscapes and emotional depth make it an essential listen for fans of experimental and minimalist music.</p>
 </div> <!-- Footer Links -->
 <div > 
 </div> 

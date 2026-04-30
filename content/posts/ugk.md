@@ -22,8 +22,8 @@ _6 tracks, 1996 to 2009._
 
 ---
 
-**3 In The Mornin' (feat. C-Note & Big Smokin' Mitch)** (feat. UGK;C-Note;Big Smokin' Mitch)
-*Ridin' Dirty* · 1996 · 5:41
+**3 In The Mornin (feat. C-Note & Big Smokin Mitch)** (feat. UGK;C-Note;Big Smokin Mitch)
+*Ridin Dirty* · 1996 · 5:41
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/57qdKr9lqGuYzHHmiX4O3w" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -42,8 +42,8 @@ _6 tracks, 1996 to 2009._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/13MWAflEguDgVF9vLmuGRG" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Quit Hatin' the South (feat. Charlie Wilson & Willie D)** (feat. UGK;Charlie Wilson;Willie D)
-*Quit Hatin' the South (feat. Charlie Wilson & Willie D)* · 2007 · 6:09
+**Quit Hatin the South (feat. Charlie Wilson & Willie D)** (feat. UGK;Charlie Wilson;Willie D)
+*Quit Hatin the South (feat. Charlie Wilson & Willie D)* · 2007 · 6:09
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7do482cI4q6YgvywYKRWpi" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 

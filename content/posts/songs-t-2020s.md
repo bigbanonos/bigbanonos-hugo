@@ -134,12 +134,12 @@ description: "34 tracks — T artists, 2020s"
 </div>
 
 <div class="track-embed">
-  <p><strong>One Night Ting (feat. Saweetie)</strong> — Tai'Aysha;Saweetie</p>
+  <p><strong>One Night Ting (feat. Saweetie)</strong> — TaiAysha;Saweetie</p>
   <iframe src="https://open.spotify.com/embed/track/0v3WvQ010FCs5IT1VvvHCr?utm_source=generator" width="100%" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 </div>
 
 <div class="track-embed">
-  <p><strong>One Night Ting (feat. Saweetie) - Bloom Line Remix</strong> — Tai'Aysha;Saweetie;Bloom Line</p>
+  <p><strong>One Night Ting (feat. Saweetie) - Bloom Line Remix</strong> — TaiAysha;Saweetie;Bloom Line</p>
   <iframe src="https://open.spotify.com/embed/track/6DyvLwG3zV4hVuBr8OeLvH?utm_source=generator" width="100%" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 </div>
 

@@ -42,7 +42,7 @@ _8 tracks from 1996 to 2019. The peak is in there somewhere._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1WtpkJyC5UNqE4dC3iHplB" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**You're No Rock n' Roll Fun**
+**Youre No Rock n Roll Fun**
 *All Hands on the Bad One (Remastered)* · 2000 · 2:37
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7lTFxSZLqVLhjavLUU9vba" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

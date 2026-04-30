@@ -31,7 +31,7 @@ _4 tracks from 1986 to 2017. The peak is in there somewhere._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2HcuLmit3pA9EbzIK6Qr9Y" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**For You (I'd Do Anything)**
+**For You (Id Do Anything)**
 *All That May Do My Rhyme* · 2017 · 2:18
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1RacSFqIjZvQm9jwCc00ob" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

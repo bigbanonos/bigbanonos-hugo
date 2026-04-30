@@ -26,7 +26,7 @@ tags:
 <p><strong>"Reptilia"</strong> – <em>Room On Fire</em> (RCA Records Label, 2003)</p>
 <p><strong>"Between Love & Hate"</strong> – <em>Room On Fire</em> (RCA Records Label, 2003)</p>
 <p><strong>"12:51"</strong> – <em>Room On Fire</em> (RCA Records Label, 2003)</p>
-<p><strong>"Meet Me in the Bathroom"</strong> – <em>Room On Fire</em> (RCA Records Label, 2003)</p> {{< youtube "embed" >}} {{< youtube "5qfY5U0-oOo" >}} <p>@thestrokes</p> <hr /> <!-- Footer -->
+<p><strong>"Meet Me in the Bathroom"</strong> – <em>Room On Fire</em> (RCA Records Label, 2003)</p>  {{< youtube "5qfY5U0-oOo" >}} <p>@thestrokes</p> <hr /> <!-- Footer -->
   
 
 <hr />

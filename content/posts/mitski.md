@@ -40,7 +40,7 @@ _7 tracks between 2015 and 2023._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6y6bUurXB0FfhddEU5Qch0" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**That's Our Lamp**
+**Thats Our Lamp**
 *Laurel Hell* · 2022 · 2:24
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0qKkNCAbQRtFBpv1FinCt8" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

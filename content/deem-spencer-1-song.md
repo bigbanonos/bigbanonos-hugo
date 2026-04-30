@@ -7,9 +7,7 @@ tags:
   - '@deemspenser'
 ---
 
-<h3><strong>BigBanonos' Top 2 Deem Spencer Songs</strong></h3>
-{{< youtube "LmhqYlJtw88" >}}<div><p>Ãƒâ€šÃ‚ </p> <p>Updated May 9, 2024 with "<i>pony</i>"</p> <ol> <li><p>"pony"<br />Album: <em>pony</em><br />Release Date: May 9, 2024<br />Label: drink sum wtr<br /></p></li> <li><p>"New Light"<br />Album: <em>New Light</em><br />Release Date: June 18, 2021<br />Label: Deem Spencer<br /></p></li>
-</ol> {{< youtube "embed" >}} <div class="separator"> <a href="https://static.wixstatic.com/media/0d4ea1_c91ae53356f8434bbf99fc81109653d5~mv2.jpg/v1/fill/w_640,h_640,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/0d4ea1_c91ae53356f8434bbf99fc81109653d5~mv2.jpg" > <img alt="Deem Spencer" border="0" data-original-height="640" data-original-width="640" src="https://static.wixstatic.com/media/0d4ea1_c91ae53356f8434bbf99fc81109653d5~mv2.jpg/v1/fill/w_640,h_640,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/0d4ea1_c91ae53356f8434bbf99fc81109653d5~mv2.jpg" width="320" /> </a>
-</div>
+<h3><strong>BigBanonos Top 2 Deem Spencer Songs</strong></h3>
+{{< youtube "LmhqYlJtw88" >}}<div><p>Ãƒâ€šÃ‚ </p> <p>Updated May 9, 2024 with "<i>pony</i>"</p>   
 
 <hr />

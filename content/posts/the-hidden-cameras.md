@@ -20,7 +20,7 @@ _2 tracks, all from 2006._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6hmWYs9CLU4IIQu11tEfh1" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**She's Gone**
+**Shes Gone**
 *Awoo* · 2006 · 3:38
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2hPFwPePu29biZhX9oqlf7" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

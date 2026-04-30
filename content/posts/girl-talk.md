@@ -26,7 +26,7 @@ _18 tracks, 2004 to 2021._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/70PTpJAzYS18OxdNVoO5hs" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**That's My DJ**
+**Thats My DJ**
 *Night Ripper* · 2006 · 2:08
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1M1zcBJY235Pr5VonqiHpD" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

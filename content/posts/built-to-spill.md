@@ -23,32 +23,32 @@ _22 tracks, 1993 to 2006._
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5R1B2VAFSmTgNOsJ8CGS1m" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **In the Morning**
-*There's Nothing Wrong With Love* · 1994 · 2:37
+*Theres Nothing Wrong With Love* · 1994 · 2:37
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0zlqp4qK2WxjC1J6ExWPlt" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **Big Dipper**
-*There's Nothing Wrong With Love* · 1994 · 4:09
+*Theres Nothing Wrong With Love* · 1994 · 4:09
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0fHzYUR1Y34lCOsuN3gcXG" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **Car**
-*There's Nothing Wrong With Love* · 1994 · 2:59
+*Theres Nothing Wrong With Love* · 1994 · 2:59
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4qqM11dV7X9CFjSbbgRdZJ" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **Twin Falls**
-*There's Nothing Wrong With Love* · 1994 · 1:49
+*Theres Nothing Wrong With Love* · 1994 · 1:49
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5bUWOlCrgImcjtJT6PVHZ0" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **Some**
-*There's Nothing Wrong With Love* · 1994 · 5:57
+*Theres Nothing Wrong With Love* · 1994 · 5:57
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3FTWUk6P4BnVflvW7r5iwl" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **Distopian Dream Girl**
-*There's Nothing Wrong With Love* · 1994 · 4:24
+*Theres Nothing Wrong With Love* · 1994 · 4:24
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/511VZuvJIubk8ADZrYfOyw" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 

@@ -28,7 +28,7 @@ _16 favorite songs by artists starting with N. Before 2000. One good song and ou
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6SEMWLEAQs90K4XSacidwM" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**NRBQ** — Ridin' In My Car
+**NRBQ** — Ridin In My Car
 *All Hopped Up (Deluxe)* · 1977 · 2:54
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6DDUPXlsye5uUvFTgm4Jn1" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -69,7 +69,7 @@ _16 favorite songs by artists starting with N. Before 2000. One good song and ou
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1Jaah2tmN9Hv81A87KZ1MU" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **New Radicals** — You Get What You Give
-*Maybe You've Been Brainwashed Too* · 1998 · 5:00
+*Maybe Youve Been Brainwashed Too* · 1998 · 5:00
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1Cwsd5xI8CajJz795oy4XF" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 

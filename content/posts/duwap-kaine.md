@@ -7,7 +7,7 @@ tags:
   - '@duwap-kaine'
 ---
 
-**90's Fine** — *Tha Godfather* (2026)
+**90s Fine** — *Tha Godfather* (2026)
 
 _cloud rap_
 

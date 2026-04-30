@@ -22,7 +22,7 @@ _4 tracks, 2011 to 2022._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/68eEV9mz9igj27HgRKYYsw" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**What I've Lost**
+**What Ive Lost**
 *Boy Trouble* · 2011 · 6:12
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6bEwR3d4VLIXSXDHWGxal6" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

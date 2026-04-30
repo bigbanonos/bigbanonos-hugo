@@ -20,7 +20,7 @@ _5 tracks between 1995 and 2003._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4ZD6SiaJi75smnel0d7jl3" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Don't Speak**
+**Dont Speak**
 *Tragic Kingdom* · 1995 · 4:23
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6urCAbunOQI4bLhmGpX7iS" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

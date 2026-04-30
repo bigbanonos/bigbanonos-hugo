@@ -86,7 +86,7 @@ _21 tracks between 2017 and 2026._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1EDDk9JGjIinw7QZawgRXx" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Can't Anymore**
+**Cant Anymore**
 *ALPHA* · 2022 · 2:35
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6zrZ7mVcznNd2Q6qB0iBrq" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

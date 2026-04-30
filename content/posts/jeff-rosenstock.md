@@ -19,7 +19,7 @@ _8 tracks between 2015 and 2023._
 
 ---
 
-**I'm Serious, I'm Sorry**
+**Im Serious, Im Sorry**
 *We Cool?* · 2015 · 2:47
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5YRscayYAKoyfxIhwQUuGX" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

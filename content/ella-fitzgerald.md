@@ -9,15 +9,15 @@ tags:
 ---
 
 <!-- Title of the Post -->
-<h1 >BigBanonos' Favorite Songs by Ella Fitzgerald</h1> <!-- Featured Image -->
+<h1 >BigBanonos Favorite Songs by Ella Fitzgerald</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab7d0c038d876a9ed5a21afb83d6ba760430cf90" alt="Ella Fitzgerald" >}}
 </div> <!-- Spotify Embed -->
-<div > {{< youtube "embed" >}}
+<div > 
 </div> <!-- Introductory Text -->
 <p >Ella Fitzgerald, the First Lady of Song, delivers timeless classics like "A Tisket A Tasket" and her breathtaking collaborations with Louis Armstrong, including "Dream A Little Dream Of Me."</p> <!-- Song Highlights -->
-<div > <p>BigBanonos' standout picks:</p> <ol> <li><strong>A Tisket A Tasket</strong> | <em>Love, Ella</em> | Released: May 3, 2007 | Verve Reissues</li> <li><strong>Dream A Little Dream Of Me - Single Version</strong> (with Louis Armstrong) | <em>Love, Ella</em> | Released: May 3, 2007 | Verve Reissues</li> <li><strong>Summertime</strong> (with Louis Armstrong) | <em>Porgy And Bess</em> | Released: January 1, 1958 | Verve Reissues</li> <li><strong>Cheek To Cheek</strong> (with Louis Armstrong) | <em>The Complete Ella And Louis On Verve</em> | Released: May 20, 1997 | Verve Reissues</li> </ol>
+<div > <p>BigBanonos standout picks:</p> 
 </div> <!-- Footer Links -->
-<div > <p>Discover the best of jazz and swing with Ella Fitzgerald on <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Don't miss more timeless music on <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p>
+<div > <p>Discover the best of jazz and swing with Ella Fitzgerald on <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Dont miss more timeless music on <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p>
 </div> 
 <p >Tags: @ellafitzgerald, @louisarmstrong</p>
 

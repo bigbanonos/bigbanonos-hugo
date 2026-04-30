@@ -19,7 +19,7 @@ _13 favorite songs by artists starting with H. Before 2000. One good song and ou
 ---
 
 **Helene Smith** — Sure Thing
-*True Love Don't Grow On Trees b/w Sure Thing* · 1967 · 2:03
+*True Love Dont Grow On Trees b/w Sure Thing* · 1967 · 2:03
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4a97gI13AgwjtQcAQXBq7W" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -28,7 +28,7 @@ _13 favorite songs by artists starting with H. Before 2000. One good song and ou
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6Vz2IQv3AYoznh4tjsrRPo" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Howlin' Wolf** — I Ain't Superstitious - Single Version
+**Howlin Wolf** — I Aint Superstitious - Single Version
 *Change My Way* · 1975 · 2:50
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7f1ccPGgmQ1szoQbNzGnRK" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -53,23 +53,23 @@ _13 favorite songs by artists starting with H. Before 2000. One good song and ou
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0zKaL4Q6iqQ2GcpoUXvFGf" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**H-Town** — Knockin' da Boots
+**H-Town** — Knockin da Boots
 *Fever for da Flavor* · 1993 · 5:30
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6x53SJOV1PAZ8ZUwH4NFXQ" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Heavy D & The Boyz** — Nuttin' But Love
-*Nuttin' But Love* · 1994 · 3:33
+**Heavy D & The Boyz** — Nuttin But Love
+*Nuttin But Love* · 1994 · 3:33
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/43JSZNyRzLa3nD9W0hfD48" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Helium** — Pat's Trick
+**Helium** — Pats Trick
 *The Dirt of Luck* · 1995 · 3:20
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/061pl3j2yUGQ9aVT55LvbN" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **Hum** — Stars
-*You'd Prefer An Astronaut* · 1995 · 5:09
+*Youd Prefer An Astronaut* · 1995 · 5:09
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6lQE6LF3MU63Z6VyhPxaV3" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 

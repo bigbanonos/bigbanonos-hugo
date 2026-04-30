@@ -29,12 +29,12 @@ _4 tracks from 1992 to 2021. The peak is in there somewhere._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6Nv8dfTm2qMjJeP7OL3hO7" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Grinnin' In Your Face**
+**Grinnin In Your Face**
 *Son House Revisited Vol. 1* · 2006 · 1:56
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7bWhtFDDMgcA6DmFGGlS0C" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Preachin' Blues**
-*Preachin' Blues* · 2021 · 5:16
+**Preachin Blues**
+*Preachin Blues* · 2021 · 5:16
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4YEoVkvvzx5eavtE2u5qG0" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

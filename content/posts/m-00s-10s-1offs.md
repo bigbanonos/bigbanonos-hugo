@@ -58,7 +58,7 @@ _65 favorite songs by artists starting with M. The peak decades for 1-offs. Pre-
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1VdD4Eq6xHzmzoVdSVEMSG" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Miri Ben-Ari;E-40;Lil' Flip;Czarnok** — Sick Wit Da Flip Feat. Lil' Flip, E-40 & Czar-nok
+**Miri Ben-Ari;E-40;Lil Flip;Czarnok** — Sick Wit Da Flip Feat. Lil Flip, E-40 & Czar-nok
 *Sick Wit Da Flip* · 2004 · 5:02
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2KRSnWrohseE33U2GChIb0" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -134,12 +134,12 @@ _65 favorite songs by artists starting with M. The peak decades for 1-offs. Pre-
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/10xvKMI1Ub02Oz1EYtY0ql" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **M83** — Midnight City
-*Hurry Up, We're Dreaming* · 2011 · 4:01
+*Hurry Up, Were Dreaming* · 2011 · 4:01
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1eyzqe2QqGZUmfcPZtrIyt" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Miss Cathy Brasher** — I'll Remember Jimmy
-*Too Late To Be Lovers / I'll Remember Jimmy* · 2011 · 2:21
+**Miss Cathy Brasher** — Ill Remember Jimmy
+*Too Late To Be Lovers / Ill Remember Jimmy* · 2011 · 2:21
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4Dxis4wX4hBBBqIyCVcceV" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -168,7 +168,7 @@ _65 favorite songs by artists starting with M. The peak decades for 1-offs. Pre-
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0thtHhS7m5aWMgW6TmFARB" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Merchandise** — Anxiety's Door
+**Merchandise** — Anxietys Door
 *Totale Nite* · 2013 · 6:51
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0esC11I90ngZYSb0b29aOT" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -198,7 +198,7 @@ _65 favorite songs by artists starting with M. The peak decades for 1-offs. Pre-
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0Bzg9qT58W0ObOkopmNKaZ" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**MARINA** — I'm a Ruin
+**MARINA** — Im a Ruin
 *Froot* · 2015 · 4:32
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6fODVIVjNDHTSzlEHSsCQt" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -233,7 +233,7 @@ _65 favorite songs by artists starting with M. The peak decades for 1-offs. Pre-
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2qtbQginADGL1jI30X8jy4" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Maren Morris** — Drunk Girls Don't Cry
+**Maren Morris** — Drunk Girls Dont Cry
 *Maren Morris - EP* · 2015 · 3:31
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7u3AlMr7wdMVzyn2dwzofK" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -243,7 +243,7 @@ _65 favorite songs by artists starting with M. The peak decades for 1-offs. Pre-
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7HzCxalzzYQOFb9a7Xs3j6" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Mario Winans;Enya;Diddy** — I Don't Wanna Know (feat. Enya & P. Diddy) - 2016 Remaster
+**Mario Winans;Enya;Diddy** — I Dont Wanna Know (feat. Enya & P. Diddy) - 2016 Remaster
 *Bad Boy 20th Anniversary Box Set Edition* · 2016 · 4:17
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2yr2HnFYl7XvqJk4fXoQBt" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -254,7 +254,7 @@ _65 favorite songs by artists starting with M. The peak decades for 1-offs. Pre-
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/59P0rMNweSDx7hOSEhCrhb" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **Moondog** — High On A Rocky Ledge
-*H'art Songs* · 2016 · 4:28
+*Hart Songs* · 2016 · 4:28
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0L2ljTJonS78v8qSlpxM0d" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -273,7 +273,7 @@ _65 favorite songs by artists starting with M. The peak decades for 1-offs. Pre-
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7qkmKT915NDWDCOGAE4WCb" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Melody's Echo Chamber** — Shirim
+**Melodys Echo Chamber** — Shirim
 *Bon Voyage* · 2018 · 4:46
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1HBXXiiegRl0TpzgikBBTP" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -308,7 +308,7 @@ _65 favorite songs by artists starting with M. The peak decades for 1-offs. Pre-
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3JCdRVSHxKQTGuyGAX4dXe" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Mustard;Roddy Ricch** — Ballin' (with Roddy Ricch)
+**Mustard;Roddy Ricch** — Ballin (with Roddy Ricch)
 *Perfect Ten* · 2019 · 3:00
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3QzAOrNlsabgbMwlZt7TAY" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

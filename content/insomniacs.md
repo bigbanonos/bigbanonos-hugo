@@ -14,7 +14,7 @@ tags:
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "2MegGVbBRak" >}}
 </div> <!-- Song Information -->
-<div > <p><em>"Anywhere In The World"</em>, released in 2000, showcases Insomniacs' ability to craft infectious melodies and high-energy performances. Its garage rock sound is timeless, making it a favorite for fans of the genre. Check out the track on <a href="https://youtu.be/2MegGVbBRak" target="_blank">YouTube</a>.</p>
+<div > <p><em>"Anywhere In The World"</em>, released in 2000, showcases Insomniacs ability to craft infectious melodies and high-energy performances. Its garage rock sound is timeless, making it a favorite for fans of the genre. Check out the track on <a href="https://youtu.be/2MegGVbBRak" target="_blank">YouTube</a>.</p>
 </div> <!-- Footer Links -->
 <div > 
 </div> 

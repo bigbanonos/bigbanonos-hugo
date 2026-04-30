@@ -9,12 +9,12 @@ description: "84 tracks — S artists, 2000s–2010s"
 84 tracks.
 
 <div class="track-embed">
-  <p><strong>When You're out of Schlitz</strong> — Schlitz Beer</p>
+  <p><strong>When Youre out of Schlitz</strong> — Schlitz Beer</p>
   <iframe src="https://open.spotify.com/embed/track/6yNqcuq2Rpul8pFJnLEMDI?utm_source=generator" width="100%" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 </div>
 
 <div class="track-embed">
-  <p><strong>D'Evils</strong> — SiR</p>
+  <p><strong>DEvils</strong> — SiR</p>
   <iframe src="https://open.spotify.com/embed/track/0wY9rA9fJkuESyYm9uzVK5?utm_source=generator" width="100%" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 </div>
 
@@ -39,7 +39,7 @@ description: "84 tracks — S artists, 2000s–2010s"
 </div>
 
 <div class="track-embed">
-  <p><strong>Don't Shoot the Messenger</strong> — Sam Cohen</p>
+  <p><strong>Dont Shoot the Messenger</strong> — Sam Cohen</p>
   <iframe src="https://open.spotify.com/embed/track/15mLqpnnHTUsvVoxIqMal6?utm_source=generator" width="100%" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 </div>
 
@@ -74,7 +74,7 @@ description: "84 tracks — S artists, 2000s–2010s"
 </div>
 
 <div class="track-embed">
-  <p><strong>Two Weeks</strong> — Scott & Charlene's Wedding</p>
+  <p><strong>Two Weeks</strong> — Scott & Charlenes Wedding</p>
   <iframe src="https://open.spotify.com/embed/track/0PLdtldVOiKK5uyISUZ6P0?utm_source=generator" width="100%" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 </div>
 
@@ -119,7 +119,7 @@ description: "84 tracks — S artists, 2000s–2010s"
 </div>
 
 <div class="track-embed">
-  <p><strong>Can't You See</strong> — Skylar Spence</p>
+  <p><strong>Cant You See</strong> — Skylar Spence</p>
   <iframe src="https://open.spotify.com/embed/track/563rtG4jPQIqIYLT0hZu32?utm_source=generator" width="100%" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 </div>
 
@@ -149,7 +149,7 @@ description: "84 tracks — S artists, 2000s–2010s"
 </div>
 
 <div class="track-embed">
-  <p><strong>Hurtin' Me</strong> — Stefflon Don;French Montana</p>
+  <p><strong>Hurtin Me</strong> — Stefflon Don;French Montana</p>
   <iframe src="https://open.spotify.com/embed/track/76IkF7pA7RscjDTvOFT4vb?utm_source=generator" width="100%" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 </div>
 
@@ -219,7 +219,7 @@ description: "84 tracks — S artists, 2000s–2010s"
 </div>
 
 <div class="track-embed">
-  <p><strong>You Can't Turn Me Away</strong> — Sylvia Striplin</p>
+  <p><strong>You Cant Turn Me Away</strong> — Sylvia Striplin</p>
   <iframe src="https://open.spotify.com/embed/track/7FylRD4bYiHgh91Z8IyDIn?utm_source=generator" width="100%" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 </div>
 
@@ -304,7 +304,7 @@ description: "84 tracks — S artists, 2000s–2010s"
 </div>
 
 <div class="track-embed">
-  <p><strong>Good Thing It's A Ghost Town Around Here</strong> — Still Flyin'</p>
+  <p><strong>Good Thing Its A Ghost Town Around Here</strong> — Still Flyin</p>
   <iframe src="https://open.spotify.com/embed/track/51rGWLsP1dLArXKB1hZ5RH?utm_source=generator" width="100%" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 </div>
 
@@ -329,7 +329,7 @@ description: "84 tracks — S artists, 2000s–2010s"
 </div>
 
 <div class="track-embed">
-  <p><strong>It Wasn't Me</strong> — Shaggy;Rik Rok</p>
+  <p><strong>It Wasnt Me</strong> — Shaggy;Rik Rok</p>
   <iframe src="https://open.spotify.com/embed/track/1Bt6TZfF8FSqdiHPN0vy4u?utm_source=generator" width="100%" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 </div>
 
@@ -339,7 +339,7 @@ description: "84 tracks — S artists, 2000s–2010s"
 </div>
 
 <div class="track-embed">
-  <p><strong>Ca' the Yowes</strong> — Shirley & Dolly Collins</p>
+  <p><strong>Ca the Yowes</strong> — Shirley & Dolly Collins</p>
   <iframe src="https://open.spotify.com/embed/track/0HHnXuY6ffEMYwkzvhtfDV?utm_source=generator" width="100%" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 </div>
 
@@ -369,12 +369,12 @@ description: "84 tracks — S artists, 2000s–2010s"
 </div>
 
 <div class="track-embed">
-  <p><strong>It Ain't The Meat</strong> — The Swallows</p>
+  <p><strong>It Aint The Meat</strong> — The Swallows</p>
   <iframe src="https://open.spotify.com/embed/track/7qK3GbFV77Sfoq1tLjAIfU?utm_source=generator" width="100%" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 </div>
 
 <div class="track-embed">
-  <p><strong>Good Lovin'</strong> — Shaunta</p>
+  <p><strong>Good Lovin</strong> — Shaunta</p>
   <iframe src="https://open.spotify.com/embed/track/3EnZoxKtVuh9cXMMQgZyhR?utm_source=generator" width="100%" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 </div>
 
@@ -389,7 +389,7 @@ description: "84 tracks — S artists, 2000s–2010s"
 </div>
 
 <div class="track-embed">
-  <p><strong>Baby It's You</strong> — Smith</p>
+  <p><strong>Baby Its You</strong> — Smith</p>
   <iframe src="https://open.spotify.com/embed/track/6DBdd6oYkrNFXAuZwXXBQo?utm_source=generator" width="100%" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 </div>
 

@@ -29,7 +29,7 @@ _5 tracks between 1994 and 1999._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6qspW4YKycviDFjHBOaqUY" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Diggin' On You**
+**Diggin On You**
 *Crazysexycool* · 1994 · 4:14
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2W2vmNmTLERMWT9XBxm35E" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

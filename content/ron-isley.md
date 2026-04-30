@@ -14,7 +14,7 @@ tags:
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "Bh2XtG_MvX0" >}}
 </div> <!-- Song Information -->
-<div > <p><em>"Take It How You Want It"</em>, released on January 1, 2010, as part of Ron Isley's album *Mr. I*, showcases his signature smooth R&B style infused with contemporary and new jack swing influences. The track highlights Isley's timeless vocal prowess and artistry.</p>
+<div > <p><em>"Take It How You Want It"</em>, released on January 1, 2010, as part of Ron Isleys album *Mr. I*, showcases his signature smooth R&B style infused with contemporary and new jack swing influences. The track highlights Isleys timeless vocal prowess and artistry.</p>
 </div> <!-- Footer Links -->
 <div > 
 </div> 

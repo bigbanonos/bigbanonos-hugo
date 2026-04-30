@@ -8,18 +8,18 @@ tags:
   - '00s-10s'
 ---
 
-## How's Your News
+## Hows Your News
 
 _2 tracks, all from 2008._
 
 ---
 
-**How's Your News**
-*How's Your News (Music Written for and Inspired by the Movie)* · 2008 · 1:07
+**Hows Your News**
+*Hows Your News (Music Written for and Inspired by the Movie)* · 2008 · 1:07
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7iRpUxcG1ChhZY5n1WL5rI" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **N.E.W.Y.O.R.K.**
-*How's Your News (Music Written for and Inspired by the Movie)* · 2008 · 3:44
+*Hows Your News (Music Written for and Inspired by the Movie)* · 2008 · 3:44
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6ooFndtlVCAp1NUqh3Fu3e" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

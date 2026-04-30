@@ -7,7 +7,7 @@ tags:
   - '@aldousharding'
 ---
 
-New Zealand singer who makes songs that feel like they're happening in a room with no doors. *One Stop* is in the top tier — up there with Fever, Ennui, She'll Be Coming Round the Mountain, The Barrel, Imagining My Man.
+New Zealand singer who makes songs that feel like theyre happening in a room with no doors. *One Stop* is in the top tier — up there with Fever, Ennui, Shell Be Coming Round the Mountain, The Barrel, Imagining My Man.
 
 **One Stop** — *One Stop* (2026)
 

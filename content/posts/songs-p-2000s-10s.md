@@ -24,7 +24,7 @@ description: "77 tracks — P artists, 2000s–2010s"
 </div>
 
 <div class="track-embed">
-  <p><strong>I Can't Get You Out</strong> — Part Time</p>
+  <p><strong>I Cant Get You Out</strong> — Part Time</p>
   <iframe src="https://open.spotify.com/embed/track/03o587cvx04MjIeehZvyQL?utm_source=generator" width="100%" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 </div>
 
@@ -74,7 +74,7 @@ description: "77 tracks — P artists, 2000s–2010s"
 </div>
 
 <div class="track-embed">
-  <p><strong>Ma quale idea</strong> — Pino D'Angiò</p>
+  <p><strong>Ma quale idea</strong> — Pino DAngiò</p>
   <iframe src="https://open.spotify.com/embed/track/0nHdPB5NA4xkoDoSLbREwD?utm_source=generator" width="100%" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 </div>
 
@@ -119,7 +119,7 @@ description: "77 tracks — P artists, 2000s–2010s"
 </div>
 
 <div class="track-embed">
-  <p><strong>Sizzlin' Hot</strong> — Paradise</p>
+  <p><strong>Sizzlin Hot</strong> — Paradise</p>
   <iframe src="https://open.spotify.com/embed/track/0Ogw5liDubTHEUgvScD9J2?utm_source=generator" width="100%" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 </div>
 
@@ -229,7 +229,7 @@ description: "77 tracks — P artists, 2000s–2010s"
 </div>
 
 <div class="track-embed">
-  <p><strong>You Put It In, I'll Take It Out</strong> — Papa Charlie Jackson</p>
+  <p><strong>You Put It In, Ill Take It Out</strong> — Papa Charlie Jackson</p>
   <iframe src="https://open.spotify.com/embed/track/1AWR9jKlkhrHUZAVgMtzRF?utm_source=generator" width="100%" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 </div>
 
@@ -254,7 +254,7 @@ description: "77 tracks — P artists, 2000s–2010s"
 </div>
 
 <div class="track-embed">
-  <p><strong>Don't Ring Me Up</strong> — Protex</p>
+  <p><strong>Dont Ring Me Up</strong> — Protex</p>
   <iframe src="https://open.spotify.com/embed/track/70FkR8lLLLup6vh8WHmu3G?utm_source=generator" width="100%" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 </div>
 
@@ -309,7 +309,7 @@ description: "77 tracks — P artists, 2000s–2010s"
 </div>
 
 <div class="track-embed">
-  <p><strong>You're so Fine</strong> — Papa Bear & His Cubs</p>
+  <p><strong>Youre so Fine</strong> — Papa Bear & His Cubs</p>
   <iframe src="https://open.spotify.com/embed/track/3xBWfh0s2XgT65AGgMPsj6?utm_source=generator" width="100%" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 </div>
 
@@ -344,7 +344,7 @@ description: "77 tracks — P artists, 2000s–2010s"
 </div>
 
 <div class="track-embed">
-  <p><strong>Paddy's Green Shamrock Shore</strong> — Paul Brady</p>
+  <p><strong>Paddys Green Shamrock Shore</strong> — Paul Brady</p>
   <iframe src="https://open.spotify.com/embed/track/4lvqZhkdURzKWJeECqhZgc?utm_source=generator" width="100%" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 </div>
 
@@ -354,12 +354,12 @@ description: "77 tracks — P artists, 2000s–2010s"
 </div>
 
 <div class="track-embed">
-  <p><strong>Steppin' Razor</strong> — Peter Tosh</p>
+  <p><strong>Steppin Razor</strong> — Peter Tosh</p>
   <iframe src="https://open.spotify.com/embed/track/1xmJqUhVADFGaZFCDdCzPo?utm_source=generator" width="100%" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 </div>
 
 <div class="track-embed">
-  <p><strong>Passin' Me By</strong> — The Pharcyde</p>
+  <p><strong>Passin Me By</strong> — The Pharcyde</p>
   <iframe src="https://open.spotify.com/embed/track/4G3dZN9o3o2X4VKwt4CLts?utm_source=generator" width="100%" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 </div>
 

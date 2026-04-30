@@ -18,7 +18,7 @@ _16 tracks, 2011 to 2023._
 
 ---
 
-**The Boredom Is The Reason I Started Swimming. It's Also The Reason I Started Sinking**
+**The Boredom Is The Reason I Started Swimming. Its Also The Reason I Started Sinking**
 *The Front Bottoms* · 2011 · 4:18
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2bbpITIIT5QAisXXQ22emV" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -34,7 +34,7 @@ _16 tracks, 2011 to 2023._
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6hI8MKJrhbtFkUqwVYy7fK" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **Joanie**
-*Needy When I'm Needy* · 2016 · 3:06
+*Needy When Im Needy* · 2016 · 3:06
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5INWlwa21TSPLA7SdIE9YS" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 

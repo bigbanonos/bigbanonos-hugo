@@ -8,8 +8,8 @@ tags:
 ---
 
 <!-- Post Title -->
-<h1 >BigBanonos' Favorite Tracks: Lucy Rose - "Like an Arrow"</h1> <!-- Introductory Text -->
-<p >Updated July 3, 2015, with "Like an Arrow" by Lucy Rose. This ambient folk track from the deluxe edition of <em>Work It Out</em>, released under Columbia Records, highlights Lucy Rose's ethereal vocals and introspective songwriting.</p> <!-- Featured Image -->
+<h1 >BigBanonos Favorite Tracks: Lucy Rose - "Like an Arrow"</h1> <!-- Introductory Text -->
+<p >Updated July 3, 2015, with "Like an Arrow" by Lucy Rose. This ambient folk track from the deluxe edition of <em>Work It Out</em>, released under Columbia Records, highlights Lucy Roses ethereal vocals and introspective songwriting.</p> <!-- Featured Image -->
 <div > <img src="https://colorising.com/wp-content/uploads/2015/06/lucycrp.jpg" alt="Lucy Rose - Like an Arrow" />
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "8zU0sR1YNSY" >}}

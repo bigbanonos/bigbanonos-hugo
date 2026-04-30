@@ -8,8 +8,7 @@ tags:
 ---
 
 <h1>BigBanonos Top Songs by PEEL</h1>
-{{< img-lite src="https://indianmusicmug.com/wp-content/uploads/2018/03/Peel_bandpic-768x509.jpg" alt="PEEL" >}} <p>PEEL's music brings a gritty edge with alternative rock and indie vibes. Here are BigBanonos' top selections:</p> <ol> <li><strong>Kill the Kahlua</strong> | <em>No Pain</em> | PEEL RULES | Released: April 20, 2020</li> <li><strong>Highway Eyes</strong> | <em>No Pain</em> | PEEL RULES | Released: April 20, 2020</li> <li><strong>Southern Girls</strong> | <em>Goes Bananas</em> | PEEL | Released: August 21, 2017</li>
-</ol> <div> {{< youtube "embed" >}}
+{{< img-lite src="https://indianmusicmug.com/wp-content/uploads/2018/03/Peel_bandpic-768x509.jpg" alt="PEEL" >}} <p>PEELs music brings a gritty edge with alternative rock and indie vibes. Here are BigBanonos top selections:</p>  <div> 
 </div> <p>first posted by <a href="https://bigbanonos.blogspot.com/">https://bigbanonos.blogspot.com/</a></p> <div> <p>Explore more BigBanonos content: <a href="https://bigbanonos.blogspot.com/">Website</a> | <a href="https://www.youtube.com/@BigBanonos">YouTube</a> | <a href="https://x.com/bigbanonos">Twitter</a></p>
 </div> 
 <p>@peel</p>

@@ -8,7 +8,7 @@ tags:
 ---
 
 <!-- Post Title -->
-<h1 >BigBanonos' Favorite Tracks: maxime - "empty"</h1> <!-- Introductory Text -->
+<h1 >BigBanonos Favorite Tracks: maxime - "empty"</h1> <!-- Introductory Text -->
 <p >Updated September 27, 2019, with "empty" by maxime This heartfelt track from the album <em>pity party</em> captures the essence of Ottawa indie music, blending tender acoustic melodies with introspective lyrics.</p> <!-- Featured Image -->
 <div > <img src="https://i.ytimg.com/vi/XePE-WLZgEI/sddefault.jpg" alt="maxime - empty" />
 </div> <!-- YouTube Video Embed -->

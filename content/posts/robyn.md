@@ -27,7 +27,7 @@ _22 tracks from 1995 to 2026. The peak is in there somewhere._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6SluaPiV04KOaRTOIScoff" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**You've Got That Somethin'**
+**Youve Got That Somethin**
 *Robyn Is Here* · 1995 · 3:46
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5BIPkFgSb7UMluywL7fvCq" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -42,18 +42,18 @@ _22 tracks from 1995 to 2026. The peak is in there somewhere._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3S3Yzb3eJXsrmoQcrjOUge" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Don't Stop the Music**
-*Don't Stop the Music* · 2002 · 3:29
+**Dont Stop the Music**
+*Dont Stop the Music* · 2002 · 3:29
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0d4hWY04iLBW4EN5Q20RLi" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **Blow My Mind**
-*Don't Stop the Music* · 2002 · 4:06
+*Dont Stop the Music* · 2002 · 4:06
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2aJXMsIiuIRZZJYy1yjeEW" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **O Baby**
-*Don't Stop the Music* · 2002 · 4:06
+*Dont Stop the Music* · 2002 · 4:06
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0fmFaUlKbT9TDWP1ASZs50" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -87,7 +87,7 @@ _22 tracks from 1995 to 2026. The peak is in there somewhere._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/78kneTmrp4Vg6ZCtPe7pW4" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Who's That Girl?**
+**Whos That Girl?**
 *Robyn* · 2008 · 3:49
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0RxyRs3isS3jidCS1kljOq" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -97,7 +97,7 @@ _22 tracks from 1995 to 2026. The peak is in there somewhere._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1N0rYVSziD8aPL1NRgsWz2" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Because It's In The Music**
+**Because Its In The Music**
 *Honey* · 2018 · 4:34
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5nqHzhn3SDVtQ89kkaYsg8" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

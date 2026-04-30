@@ -34,8 +34,8 @@ _24 tracks between 2015 and 2021._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4qqArAiTPueDxIp7cf87h7" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Don't Leave** (feat. Snakehips;MØ)
-*Don't Leave* · 2017 · 3:34
+**Dont Leave** (feat. Snakehips;MØ)
+*Dont Leave* · 2017 · 3:34
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0Zx8khUcEfCFK2AEoIhC92" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 

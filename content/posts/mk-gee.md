@@ -20,7 +20,7 @@ _8 tracks between 2018 and 2024._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0svfP904ABSMbx4dexP0vn" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Come On (You Know That I'm A Fool)**
+**Come On (You Know That Im A Fool)**
 *Fool* · 2018 · 4:10
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0EqkXNPOl9qUXXvLyVDF20" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

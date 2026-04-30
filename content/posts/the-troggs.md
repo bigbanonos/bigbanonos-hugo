@@ -15,7 +15,7 @@ _2 tracks between 2008 and 2009._
 
 ---
 
-**I Can't Control Myself**
+**I Cant Control Myself**
 *One Hour With The Troggs* · 2008 · 3:10
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1OzzUSom67SbtPOTvPouAy" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

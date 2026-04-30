@@ -66,7 +66,7 @@ _16 tracks from 2005 to 2025. The peak is in there somewhere._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6VZc5PlI7bLmgCYjODYLnG" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Where I'm From**
+**Where Im From**
 *Gifted* · 2022 · 3:22
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0vtivvSAgB90twCgy1uOhh" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

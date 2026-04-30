@@ -129,7 +129,7 @@ _38 tracks, 2012 to 2023._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0fB77VOZ2FkQeKLv1DuEwp" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Doin' Time**
+**Doin Time**
 *Norman Fucking Rockwell!* · 2019 · 3:22
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0Oqc0kKFsQ6MhFOLBNZIGX" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -179,28 +179,28 @@ _38 tracks, 2012 to 2023._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3qydJy5jc1UslvHkm3Hrve" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Did you know that there's a tunnel under Ocean Blvd**
-*Did you know that there's a tunnel under Ocean Blvd* · 2023 · 4:45
+**Did you know that theres a tunnel under Ocean Blvd**
+*Did you know that theres a tunnel under Ocean Blvd* · 2023 · 4:45
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0HEzuLLojblUOaUSdmJ9gl" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **Kintsugi**
-*Did you know that there's a tunnel under Ocean Blvd* · 2023 · 6:18
+*Did you know that theres a tunnel under Ocean Blvd* · 2023 · 6:18
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4VL310GGX3b2ixL3sV0Je8" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **Let The Light In (feat. Father John Misty)** (feat. Lana Del Rey;Father John Misty)
-*Did you know that there's a tunnel under Ocean Blvd* · 2023 · 4:38
+*Did you know that theres a tunnel under Ocean Blvd* · 2023 · 4:38
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4qG7hWhljsqqENL5PaLA2z" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **Margaret (feat. Bleachers)** (feat. Lana Del Rey;Bleachers)
-*Did you know that there's a tunnel under Ocean Blvd* · 2023 · 5:39
+*Did you know that theres a tunnel under Ocean Blvd* · 2023 · 5:39
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1o82DwNisONAd2mu1RcGE6" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **Taco Truck x VB**
-*Did you know that there's a tunnel under Ocean Blvd* · 2023 · 5:53
+*Did you know that theres a tunnel under Ocean Blvd* · 2023 · 5:53
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/79wgotDiVZml9PiTtNtYBA" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 

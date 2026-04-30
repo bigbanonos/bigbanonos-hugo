@@ -23,7 +23,7 @@ _2 tracks, 2003 to 2022._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/05wYGewFSbfilaMjY5vetk" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Sippin' 40z**
+**Sippin 40z**
 *The "Menz" - EP* · 2022 · 2:49
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2rngQGD7AsDOwYkaxeVKjU" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

@@ -44,12 +44,12 @@ _30 tracks from 2003 to 2024. The peak is in there somewhere._
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4WY3HyGXsWqjFRCVD6gnTe" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **Check On It (feat. Bun B & Slim Thug)** (feat. Beyoncé;Bun B;Slim Thug)
-*B'Day* · 2006 · 3:30
+*BDay* · 2006 · 3:30
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2RWxrpsFshOBFwRBRstUlQ" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **Irreplaceable**
-*B'Day Deluxe Edition* · 2007 · 3:47
+*BDay Deluxe Edition* · 2007 · 3:47
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6RX5iL93VZ5fKmyvNXvF1r" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -68,7 +68,7 @@ _30 tracks from 2003 to 2024. The peak is in there somewhere._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3BwDtDoQJjo8lsSMTMuUHg" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Schoolin' Life**
+**Schoolin Life**
 *4* · 2011 · 4:53
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6JoIs4XLvBgjZOkKnyuPPv" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -143,8 +143,8 @@ _30 tracks from 2003 to 2024. The peak is in there somewhere._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3Fwebmu4BzPUpDtPZo0qHb" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**TEXAS HOLD 'EM**
-*TEXAS HOLD 'EM* · 2024 · 3:53
+**TEXAS HOLD EM**
+*TEXAS HOLD EM* · 2024 · 3:53
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0Z7nGFVCLfixWctgePsRk9" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -158,7 +158,7 @@ _30 tracks from 2003 to 2024. The peak is in there somewhere._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1UP7PXne1lIYZB5G5aiRGL" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**LEVII'S JEANS** (feat. Beyoncé;Post Malone)
+**LEVIIS JEANS** (feat. Beyoncé;Post Malone)
 *COWBOY CARTER* · 2024 · 4:17
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2UDARQiksl207HcSduDpov" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -168,7 +168,7 @@ _30 tracks from 2003 to 2024. The peak is in there somewhere._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2dklP2sRuvcJROlrM8F7Dp" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**SWEET ★ HONEY ★ BUCKIIN'** (feat. Beyoncé;Shaboozey)
+**SWEET ★ HONEY ★ BUCKIIN** (feat. Beyoncé;Shaboozey)
 *COWBOY CARTER* · 2024 · 4:56
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7CA0mEKqEZ0WFAIlTS4uEl" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

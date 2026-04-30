@@ -15,7 +15,7 @@ _2 tracks, all from 2009._
 
 ---
 
-**Molly's Lips**
+**Mollys Lips**
 *Enter The Vaselines (Deluxe Edition)* · 2009 · 1:44
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2UG1uN0CdbN4CMyWcjYQ5y" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

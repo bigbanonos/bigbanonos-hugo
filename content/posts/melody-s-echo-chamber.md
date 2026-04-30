@@ -11,7 +11,7 @@ tags:
   - 'psychedelic rock'
 ---
 
-## Melody's Echo Chamber
+## Melodys Echo Chamber
 
 _2 tracks, all from 2022._
 

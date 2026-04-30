@@ -8,7 +8,7 @@ tags:
   - '@juliadigrazia'
 ---
 
-One song. That's all they needed.
+One song. Thats all they needed.
 
 **Jersey Giant** — *Jersey Giant* (2022)
 

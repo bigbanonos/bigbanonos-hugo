@@ -9,13 +9,13 @@ tags:
 ---
 
 <!-- Post Title -->
-<h1 >BigBanonos' Favorite Song by The Dublin Legends</h1> <!-- Introductory Text -->
+<h1 >BigBanonos Favorite Song by The Dublin Legends</h1> <!-- Introductory Text -->
 <p >Updated February 3, 2014, with "FÃƒÆ’Ã‚¡inne Geal An Lae" by The Dublin Legends. This traditional Irish ballad, beautifully performed in their "Live In Vienna" album, captures the essence of Irish folk music with heartfelt lyrics and timeless melodies.</p> <!-- Featured Image -->
 <div > <img src="https://cosmopolite.no/sites/default/files/styles/open_graph_meta/public/2021-10/the-dublin-legends-1.jpg.jpeg?itok=jMUQti-k" alt="The Dublin Legends - FÃƒÆ’Ã‚¡inne Geal An Lae" />
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "Svj7mPs0rTc" >}}
 </div> <!-- Song Information -->
-<div > <p>"FÃƒÆ’Ã‚¡inne Geal An Lae," translating to "The Dawning of the Day," is a cherished piece of Irish heritage, showcasing The Dublin Legends' masterful vocal harmonies and acoustic instrumentation.</p>
+<div > <p>"FÃƒÆ’Ã‚¡inne Geal An Lae," translating to "The Dawning of the Day," is a cherished piece of Irish heritage, showcasing The Dublin Legends masterful vocal harmonies and acoustic instrumentation.</p>
 </div>
 #covers <br />
 {{< youtube "VkhOb0TfEjc" >}}<div><br /></div><div><google-sheets-html-origin><table border="1" cellpadding="0" cellspacing="0" data-sheets-baot="1" data-sheets-root="1" dir="ltr" xmlns="http://www.w3.org/1999/xhtml"><colgroup><col width="522"></col></colgroup><tbody><tr><td>Luke Kelly - Hand Me Down Me Bible (Stream)</td></tr><tr><td>Luke Kelly - The Wild Rover (1964)<br /></td></tr></tbody></table></google-sheets-html-origin></div>

@@ -39,7 +39,7 @@ _42 tracks from 1995 to 2020. The peak is in there somewhere._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0rDsAUGk9wZjU2JmDt0phU" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**She's a Jar**
+**Shes a Jar**
 *Summerteeth* · 1999 · 4:42
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1LhMScqQCHh1u1CZA3PJTu" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -104,7 +104,7 @@ _42 tracks from 1995 to 2020. The peak is in there somewhere._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4xmeLj3uVcoAwgDtwM4MbG" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**I'm the Man Who Loves You**
+**Im the Man Who Loves You**
 *Yankee Hotel Foxtrot* · 2003 · 3:55
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/70gsdxSzE5lCKCCYj2F1Yr" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -124,7 +124,7 @@ _42 tracks from 1995 to 2020. The peak is in there somewhere._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1TRsfoxOCzeSJXHtY8KiQC" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**I'm a Wheel**
+**Im a Wheel**
 *A Ghost Is Born* · 2004 · 2:34
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5FXyNCFVmVJSo0pByfdzXV" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -149,7 +149,7 @@ _42 tracks from 1995 to 2020. The peak is in there somewhere._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0VKBPX8zHyOGGToUrdH0yP" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**I'm the Man Who Loves You**
+**Im the Man Who Loves You**
 *Kicking Television, Live in Chicago* · 2005 · 3:58
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6nkTwo64gWZ5D8W65LTJ8p" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -209,7 +209,7 @@ _42 tracks from 1995 to 2020. The peak is in there somewhere._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/06PHdsyIwWJYFXPcYfA8HI" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**She's a Jar (Alternate) - 2020 Remaster**
+**Shes a Jar (Alternate) - 2020 Remaster**
 *summerteeth (Deluxe Edition)* · 2020 · 4:47
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7is9gbn9ACIgphBBT8XbBR" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

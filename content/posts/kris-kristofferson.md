@@ -17,7 +17,7 @@ _5 tracks between 1970 and 1972._
 
 ---
 
-**Sunday Mornin' Comin' Down**
+**Sunday Mornin Comin Down**
 *Kristofferson* · 1970 · 4:35
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4JwFrnLLSO4qqxOeHQATf4" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

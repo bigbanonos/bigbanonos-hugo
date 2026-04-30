@@ -16,7 +16,7 @@ _2 tracks from 1982 to 2009. The peak is in there somewhere._
 
 ---
 
-**I'm A Wonderful Thing, Baby**
+**Im A Wonderful Thing, Baby**
 *Wise Guy* · 1982 · 5:16
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4pTHRUj33iMfczO9r2Vzjt" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

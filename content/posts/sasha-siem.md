@@ -14,7 +14,7 @@ _4 tracks between 2015 and 2016._
 
 ---
 
-**Kind Man's Kiss**
+**Kind Mans Kiss**
 *Most Of The Boys* · 2015 · 1:45
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4nesZW3NyAoQYN4VdZLLEw" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

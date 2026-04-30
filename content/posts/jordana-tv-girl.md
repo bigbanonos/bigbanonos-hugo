@@ -17,23 +17,23 @@ _5 tracks between 2018 and 2022._
 
 ---
 
-**Crumbs** (feat. Jordan Dennis;Blush'ko)
+**Crumbs** (feat. Jordan Dennis;Blushko)
 *Crumbs* · 2018 · 3:13
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0wgElszsos5fWd2lT8AJGG" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Summer's Over**
-*Summer's Over* · 2021 · 2:53
+**Summers Over**
+*Summers Over* · 2021 · 2:53
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/20pi3c6HXmaEeElCswISpD" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **Jump the Turnstile**
-*Summer's Over* · 2021 · 3:42
+*Summers Over* · 2021 · 3:42
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6EJkSSM4zBJW1AMCLnnXT8" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **Better in the Dark**
-*Summer's Over* · 2021 · 2:35
+*Summers Over* · 2021 · 2:35
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3MUkijIqsNm4XIq3EerPpt" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 

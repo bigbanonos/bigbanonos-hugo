@@ -40,7 +40,7 @@ _42 tracks spanning 1972 to 2024. 52 years of trying._
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5WHyPvdJmNUyU0TtpNeaWd" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **Clay Pigeons** (feat. Blaze Foley)
-*Sittin' by the Road* · 2010 · 3:00
+*Sittin by the Road* · 2010 · 3:00
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2bbmdWor8U0QVHxLiwo4SP" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -94,7 +94,7 @@ _42 tracks spanning 1972 to 2024. 52 years of trying._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0rycQutJWKvH80MU9pPXS5" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**All Your'n** (feat. Tyler Childers)
+**All Yourn** (feat. Tyler Childers)
 *Country Squire* · 2019 · 3:38
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0fCwTrRNfoNk962ati8n2K" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -129,7 +129,7 @@ _42 tracks spanning 1972 to 2024. 52 years of trying._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6K4336phprB3Mj8qwYxibR" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Don't Give up on Me**
+**Dont Give up on Me**
 *DeAnn* · 2019 · 3:23
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1lGtn2Y4XarLIKdgoAeUdU" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -144,7 +144,7 @@ _42 tracks spanning 1972 to 2024. 52 years of trying._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2Dct3GykKZ58hpWRFfe2Qd" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**We Ain't Even Kin** (feat. Benjamin Tod)
+**We Aint Even Kin** (feat. Benjamin Tod)
 *A Heart of Gold Is Hard to Find* · 2019 · 3:46
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0WNmGaNHX0RELqVVuNH9LG" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -195,7 +195,7 @@ _42 tracks spanning 1972 to 2024. 52 years of trying._
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0OWhKvvsHptt6vnnNUSM9a" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **Wyoming** (feat. Benjamin Tod)
-*Songs I Swore I'd Never Sing* · 2022 · 5:16
+*Songs I Swore Id Never Sing* · 2022 · 5:16
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4TcjHqVEYmFKWMSKRyzH7D" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -215,12 +215,12 @@ _42 tracks spanning 1972 to 2024. 52 years of trying._
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/00syWkRGIVQvYsg2OwfBUw" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **In Your Love** (feat. Tyler Childers)
-*Rustin' In The Rain* · 2023 · 3:45
+*Rustin In The Rain* · 2023 · 3:45
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1y3CG6thNhG1ndaNW0JuEp" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **Space and Time** (feat. Tyler Childers)
-*Rustin' In The Rain* · 2023 · 4:42
+*Rustin In The Rain* · 2023 · 4:42
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/49ox9rycOdJrbQlWGAJRBL" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 

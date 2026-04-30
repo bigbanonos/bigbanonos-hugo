@@ -31,7 +31,7 @@ _4 tracks spanning 1967 to 2021. 54 years of trying._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4g94t2vgwZ5Dk8hvnbx2pg" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Nothing's Impossible (feat. Chance The Rapper)** (feat. Dionne Warwick;Chance the Rapper)
-*Nothing's Impossible (feat. Chance The Rapper)* · 2021 · 2:39
+**Nothings Impossible (feat. Chance The Rapper)** (feat. Dionne Warwick;Chance the Rapper)
+*Nothings Impossible (feat. Chance The Rapper)* · 2021 · 2:39
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1HL24HlhtGArbKYH9Xrs4x" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

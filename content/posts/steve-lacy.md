@@ -90,7 +90,7 @@ _62 tracks from 1992 to 2026. The peak is in there somewhere._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7H7NyZ3G075GqPx2evsfeb" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Yes I'm Changing** (feat. Tame Impala)
+**Yes Im Changing** (feat. Tame Impala)
 *Currents* · 2015 · 4:30
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0xtIp0lgccN85GfGOekS5L" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

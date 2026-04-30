@@ -14,7 +14,7 @@ tags:
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "xR20tjZEUww" >}}
 </div> <!-- Song Information -->
-<div > <p><em>"2D2F"</em>, released in 2004, is a standout track from Avenue D's electroclash repertoire. Known for their provocative style and infectious energy, this song continues to resonate with fans of underground electronic music.</p>
+<div > <p><em>"2D2F"</em>, released in 2004, is a standout track from Avenue Ds electroclash repertoire. Known for their provocative style and infectious energy, this song continues to resonate with fans of underground electronic music.</p>
 </div> <!-- Footer Links -->
 <div > 
 </div> 

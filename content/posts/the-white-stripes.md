@@ -89,12 +89,12 @@ _54 tracks between 1999 and 2007._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7npKbWXEH9hapuitQa03ch" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Truth Doesn't Make A Noise**
+**Truth Doesnt Make A Noise**
 *De Stijl* · 2000 · 3:14
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/21MN7yFoKjxx7RwW0lAguG" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**You're Pretty Good Looking (For a Girl)**
+**Youre Pretty Good Looking (For a Girl)**
 *De Stijl* · 2000 · 1:49
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5OjQHOLMSzm9gkcIhtsgMO" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -114,7 +114,7 @@ _54 tracks between 1999 and 2007._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5Z10YWrfpP2UAUwmmHIR8y" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**I'm Bound to Pack It Up**
+**Im Bound to Pack It Up**
 *De Stijl* · 2000 · 3:09
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6OqZHxZHTJ1PHgK7KQZDLw" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -129,17 +129,17 @@ _54 tracks between 1999 and 2007._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1h1CncaFyTssQ9zGiHy1Ez" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Truth Doesn't Make a Noise**
+**Truth Doesnt Make a Noise**
 *De Stijl* · 2000 · 3:14
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4cuKwDw7T3JELdePWwa3hZ" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**A Boy's Best Friend**
+**A Boys Best Friend**
 *De Stijl* · 2000 · 4:22
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/07jaEo7udXVbvzM78W5Ztw" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Let's Build a Home**
+**Lets Build a Home**
 *De Stijl* · 2000 · 1:58
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6eRkRjdcXutZWhXvhbqKTm" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -149,7 +149,7 @@ _54 tracks between 1999 and 2007._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6IuxaCO7x29EfpNkTbeCZT" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Why Can't You Be Nicer to Me?**
+**Why Cant You Be Nicer to Me?**
 *De Stijl* · 2000 · 3:22
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2mcIqH8wKpaRr554Tj4tFM" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -159,7 +159,7 @@ _54 tracks between 1999 and 2007._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1sIqPIuAsHQ6MjgA8ihxCB" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**We're Going To Be Friends**
+**Were Going To Be Friends**
 *White Blood Cells* · 2001 · 2:22
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6u13tCUeMafkT0KFsmvodB" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -184,12 +184,12 @@ _54 tracks between 1999 and 2007._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/47daaR9V5NnoSo68Geb8wm" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**There's No Home For You Here**
+**Theres No Home For You Here**
 *Elephant* · 2003 · 3:43
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0Lkpzy8Xw7ENpI8LgyQUoC" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**I Just Don't Know What to Do With Myself**
+**I Just Dont Know What to Do With Myself**
 *Elephant* · 2003 · 2:46
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5F6tUpAoDzz5PjJos99176" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -199,12 +199,12 @@ _54 tracks between 1999 and 2007._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0U3iqYVmE62HzF50ydBd05" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**I Want To Be The Boy To Warm Your Mother's Heart**
+**I Want To Be The Boy To Warm Your Mothers Heart**
 *Elephant* · 2003 · 3:20
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7j5TsOUAk7MPJZETjw9Gzz" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**You've Got Her In Your Pocket**
+**Youve Got Her In Your Pocket**
 *Elephant* · 2003 · 3:40
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/51YTlhnWG8YT8YuPIxu4WB" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -234,7 +234,7 @@ _54 tracks between 1999 and 2007._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/09BvTBiQgHnIcNVs6r25Uq" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**It's True That We Love One Another**
+**Its True That We Love One Another**
 *Elephant* · 2003 · 3:39
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0tQXz5aCUrDKH4PH80ImgZ" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -284,7 +284,7 @@ _54 tracks between 1999 and 2007._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6EJN9vn9GzzlwVnPCA3JII" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Honey, We Can't Afford to Look This Cheap**
+**Honey, We Cant Afford to Look This Cheap**
 *Conquest* · 2007 · 3:55
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5N6BtStzj4GipkaHAeRvsd" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

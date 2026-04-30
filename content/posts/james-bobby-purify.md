@@ -17,7 +17,7 @@ _2 tracks, all from 1967._
 
 ---
 
-**I'm Your Puppet**
+**Im Your Puppet**
 *James & Bobby Purify* · 1967 · 3:01
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5z71EfouOWMI4HHZHEjnkr" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

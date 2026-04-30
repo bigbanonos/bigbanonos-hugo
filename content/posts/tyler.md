@@ -71,6 +71,6 @@ _10 tracks between 2019 and 2025._
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0VaeksJaXy5R1nvcTMh3Xk" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **Sucka Free** (feat. The Creator)
-*DON'T TAP THE GLASS* · 2025 · 2:41
+*DONT TAP THE GLASS* · 2025 · 2:41
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7DIMKlmJ0CL6eROkbptoqi" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

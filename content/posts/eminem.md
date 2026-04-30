@@ -37,7 +37,7 @@ _12 tracks from 1999 to 2024. The peak is in there somewhere._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3yfqSUWxFvZELEM4PmlwIR" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**My Dad's Gone Crazy** (feat. Eminem;Hailie Jade)
+**My Dads Gone Crazy** (feat. Eminem;Hailie Jade)
 *The Eminem Show* · 2002 · 4:27
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3F14hbIqy1JKKLTb1mzdYV" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

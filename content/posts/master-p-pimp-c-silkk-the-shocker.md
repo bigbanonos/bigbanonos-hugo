@@ -33,7 +33,7 @@ _6 tracks between 1996 and 1997._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/53nmK2ARfSnBFvhYXxmgGc" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Make Em' Say Uhh** (feat. Master P;Silkk The Shocker;Mia X;Fiend)
+**Make Em Say Uhh** (feat. Master P;Silkk The Shocker;Mia X;Fiend)
 *Ghetto D* · 1997 · 5:06
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0l3wp8iEtN8rgag9eTeorW" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -48,7 +48,7 @@ _6 tracks between 1996 and 1997._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4U3JMDnjnUKggATEp7NryT" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Burbons And Lacs** (feat. Master P;Silkk The Shocker;Lil' Gotti)
+**Burbons And Lacs** (feat. Master P;Silkk The Shocker;Lil Gotti)
 *Ghetto D* · 1997 · 4:09
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1Xunvmk47Mju6oZlgzm2Ty" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

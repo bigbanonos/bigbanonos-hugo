@@ -13,8 +13,7 @@ tags:
 ---
 
 <h1>BigBanonos Top Songs by Mudra D Viral</h1>
-{{< img-lite src="https://i0.wp.com/mbu.ug/wp-content/uploads/2023/03/Ava-Peace-4-edited.jpg?fit=1440%2C900&ssl=1" alt="Mudra D Viral" >}} <p>Mudra D Viral is making waves in Ugandan pop with his unique blend of rhythms and infectious energy. Here's a selection of his top songs, showcasing his vibrant style.</p> <ol> <li><strong>Onkosa</strong> | <em>Mudra D Viral</em> | Released: February 25, 2021</li> <li><strong>Balo Balo (Caribbean Remix)</strong> | <em>Balo Balo (Caribbean Remix)</em> | Featuring Cashan, Kiprich, RDx | DCM empire | Released: February 3, 2023</li> <li><strong>Nkuwulira</strong> | <em>Boss</em> | Featuring Karole Kasita | DCM EMPIRE | Released: May 26, 2021</li> <li><strong>Kimuli - Remix</strong> | <em>Kimuli (Remix)</em> | Featuring Vinka | Dream City Music Empire | Released: November 12, 2021</li>
-</ol> <div> {{< youtube "embed" >}}
+{{< img-lite src="https://i0.wp.com/mbu.ug/wp-content/uploads/2023/03/Ava-Peace-4-edited.jpg?fit=1440%2C900&ssl=1" alt="Mudra D Viral" >}} <p>Mudra D Viral is making waves in Ugandan pop with his unique blend of rhythms and infectious energy. Heres a selection of his top songs, showcasing his vibrant style.</p>  <div> 
 </div> <p>first posted by <a href="https://bigbanonos.blogspot.com/">https://bigbanonos.blogspot.com/</a></p> <div> <p>Explore more BigBanonos content: <a href="https://bigbanonos.blogspot.com/">Website</a> | <a href="https://www.youtube.com/@BigBanonos">YouTube</a> | <a href="https://x.com/bigbanonos">Twitter</a></p>
 </div> 
 <p>@mudradviral,@cashan,@kiprich,@rdx,@vinka,@karolekasita</p>

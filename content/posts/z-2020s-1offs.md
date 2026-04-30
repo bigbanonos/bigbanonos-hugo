@@ -14,7 +14,7 @@ tags:
 
 ## Z · 2020s 1-offs
 
-_3 favorite songs by artists starting with Z. Current shit. The 2% that's good._
+_3 favorite songs by artists starting with Z. Current shit. The 2% thats good._
 
 ---
 

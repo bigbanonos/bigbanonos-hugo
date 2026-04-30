@@ -14,7 +14,7 @@ _2 tracks, all from 1971._
 
 ---
 
-**Steppin'**
+**Steppin**
 *Gather Me* · 1971 · 3:27
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3bFYYd53X2krARLT1dNVGO" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

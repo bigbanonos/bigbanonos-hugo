@@ -29,7 +29,7 @@ _80 favorite songs by artists starting with B. The peak decades for 1-offs. Pre-
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0rCvTDPg9xRnpb3NzW0XPS" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **Buckwheat Zydeco** — Ya Ya
-*Buckwheat's Zydeco Party (Deluxe Edition)* · 2001 · 3:34
+*Buckwheats Zydeco Party (Deluxe Edition)* · 2001 · 3:34
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3iPByrF0D4PzbQ8ddWgElA" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -49,7 +49,7 @@ _80 favorite songs by artists starting with B. The peak decades for 1-offs. Pre-
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1YpNcwtmftRJPJ7FcxxTup" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **Beres Hammond** — Double Trouble
-*Can't Stop A Man* · 2003 · 3:31
+*Cant Stop A Man* · 2003 · 3:31
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7xz4VhNH7yG4qnskxeQR8y" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -58,7 +58,7 @@ _80 favorite songs by artists starting with B. The peak decades for 1-offs. Pre-
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6yupFCRj7oQXPRsEhrduN4" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**The Broken Family Band** — Mother O'Jesus
+**The Broken Family Band** — Mother OJesus
 *Jesus Songs* · 2004 · 3:27
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3KgwWbhBBecNx9b4qP0xBm" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -78,13 +78,13 @@ _80 favorite songs by artists starting with B. The peak decades for 1-offs. Pre-
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0Aa08Pjevxd9TtY07wXng9" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Birdman;Lil Wayne** — Stuntin' Like My Daddy - Street
+**Birdman;Lil Wayne** — Stuntin Like My Daddy - Street
 *Like Father Like Son* · 2006 · 4:27
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3rMyMv8EjKXoPnaRo2hdJN" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **Boyracer** — Where To Place Yr Trust
-*Punker Than You Since '92* · 2006 · 1:26
+*Punker Than You Since 92* · 2006 · 1:26
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4KO51UxaT26HoSnRehW8Gk" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -114,7 +114,7 @@ _80 favorite songs by artists starting with B. The peak decades for 1-offs. Pre-
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2GzDTn2Djy9CXyeStcCnO6" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **Bobby Vee** — Come Back When You Grow Up (Rerecorded)
-*100 Hits of the Swingin' Sixties* · 2009 · 2:17
+*100 Hits of the Swingin Sixties* · 2009 · 2:17
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2XhqxaR7CiWTUw1ldSMCCb" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
@@ -168,8 +168,8 @@ _80 favorite songs by artists starting with B. The peak decades for 1-offs. Pre-
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/63Ly2sEzloc9s0yAXlMi6r" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Bok Bok;Kelela** — Melba's Call
-*Melba's Call* · 2014 · 4:11
+**Bok Bok;Kelela** — Melbas Call
+*Melbas Call* · 2014 · 4:11
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3p33xD1WU6B9XNYl0abq6M" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 

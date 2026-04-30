@@ -23,7 +23,7 @@ _7 tracks from 1990 to 2022. The peak is in there somewhere._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2flwvjjAS0hlmI6HNVBziy" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Can't Forget**
+**Cant Forget**
 *Fakebook* · 1990 · 2:18
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/30YWGwz4Y5GWW98ipOwPi2" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -44,7 +44,7 @@ _7 tracks from 1990 to 2022. The peak is in there somewhere._
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/29UIxDmQvCERY4Ps2BvzLa" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **For You Too**
-*There's a Riot Going On* · 2018 · 4:13
+*Theres a Riot Going On* · 2018 · 4:13
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0WAHfqId7rL8Q0VHN4yMeJ" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 

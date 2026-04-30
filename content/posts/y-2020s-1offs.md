@@ -14,7 +14,7 @@ tags:
 
 ## Y · 2020s 1-offs
 
-_10 favorite songs by artists starting with Y. Current shit. The 2% that's good._
+_10 favorite songs by artists starting with Y. Current shit. The 2% thats good._
 
 ---
 

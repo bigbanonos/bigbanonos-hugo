@@ -21,12 +21,12 @@ _4 tracks from 1992 to 2022. The peak is in there somewhere._
 ---
 
 **Real Love**
-*What's The 411?* · 1992 · 4:29
+*Whats The 411?* · 1992 · 4:29
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3XG801WWhqC753dekEBkMt" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 **Sweet Thing**
-*What's The 411?* · 1992 · 3:45
+*Whats The 411?* · 1992 · 3:45
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3X3XuCPTC95ARm9SguWsIa" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 

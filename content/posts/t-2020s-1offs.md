@@ -14,7 +14,7 @@ tags:
 
 ## T · 2020s 1-offs
 
-_34 favorite songs by artists starting with T. Current shit. The 2% that's good._
+_34 favorite songs by artists starting with T. Current shit. The 2% thats good._
 
 ---
 

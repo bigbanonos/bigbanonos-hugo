@@ -26,7 +26,7 @@ _4 tracks, all from 2024._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0aY6eYWRY2qAQJJ8SzL68Y" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Bring 'Em Here**
+**Bring Em Here**
 *Coming Out Party* · 2024 · 2:16
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5mmIMs8J4kx4ntSgT8qdw4" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

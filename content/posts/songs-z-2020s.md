@@ -9,7 +9,7 @@ description: "3 tracks — Z artists, 2020s"
 3 tracks.
 
 <div class="track-embed">
-  <p><strong>EVERYBODY'S GONNA DIE!</strong> — Zia Victoria</p>
+  <p><strong>EVERYBODYS GONNA DIE!</strong> — Zia Victoria</p>
   <iframe src="https://open.spotify.com/embed/track/3YG44aJtUMUtT1OB85s4LK?utm_source=generator" width="100%" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 </div>
 

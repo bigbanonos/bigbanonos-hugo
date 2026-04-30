@@ -14,7 +14,7 @@ description: "10 tracks — Y artists, 2020s"
 </div>
 
 <div class="track-embed">
-  <p><strong>Don't Rush - Remix</strong> — Young T & Bugsey;Rauw Alejandro</p>
+  <p><strong>Dont Rush - Remix</strong> — Young T & Bugsey;Rauw Alejandro</p>
   <iframe src="https://open.spotify.com/embed/track/4ltz90zE6hPqE12EGHDMDu?utm_source=generator" width="100%" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 </div>
 

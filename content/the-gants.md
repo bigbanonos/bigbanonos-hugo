@@ -14,7 +14,7 @@ tags:
 </div> <!-- YouTube Video Embed -->
 <div > {{< youtube "t--ktY1Kgx4" >}}
 </div> <!-- Song Information -->
-<div > <p><em>"I Wonder"</em>, from The Gants' compilation album *Road Runner! The Best Of The Gants*, released by Capitol Records, showcases the band's signature garage rock sound. With its raw energy and infectious melody, this track is a must-listen for fans of 1960s rock and freakbeat vibes.</p>
+<div > <p><em>"I Wonder"</em>, from The Gants compilation album *Road Runner! The Best Of The Gants*, released by Capitol Records, showcases the bands signature garage rock sound. With its raw energy and infectious melody, this track is a must-listen for fans of 1960s rock and freakbeat vibes.</p>
 </div> <!-- Footer Links -->
 <div > 
 </div> 

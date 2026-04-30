@@ -40,7 +40,7 @@ _9 tracks, 2001 to 2018._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/411k1vFJBF4IGEgpVXs1vr" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**Francie's Song**
+**Francies Song**
 *Little Life* · 2008 · 3:07
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7D2w9LM7TfcBLOU2RcerAV" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
@@ -50,8 +50,8 @@ _9 tracks, 2001 to 2018._
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1Pcw7InXymhyDG6vtL1iZE" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
-**I'm a Dreamer**
-*I'm a Dreamer* · 2013 · 3:38
+**Im a Dreamer**
+*Im a Dreamer* · 2013 · 3:38
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2liel0S3UX0hBwb0f3DEpb" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 

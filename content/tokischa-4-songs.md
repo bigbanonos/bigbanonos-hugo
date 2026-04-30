@@ -12,8 +12,7 @@ tags:
 ---
 
 <h1>BigBanonos Favorite Songs by Tokischa</h1>
-{{< img-lite src="https://i.ytimg.com/vi/abb3ObvdBus/maxresdefault.jpg" alt="Tokischa" >}} <p>Tokischa's fusion of dembow and Latin rap is both energetic and influential. Here are BigBanonos' top picks:</p> <ol> <li><strong>Tukuntazo</strong> (with El Cherry Scom & Haraca Kiko) | <em>Tukuntazo</em> | Released: 2021-03-05 | Paulus Music/Equity Distribution</li> <li><strong>MALA</strong> (with Nino Freestyle) | <em>MALA</em> | Released: 2021-05-21 | Equity Distribution</li> <li><strong>Linda</strong> (with ROSALÃƒÆ’Ã‚A) | <em>Linda</em> | Released: 2021-09-01 | Sony Music Latin</li> <li><strong>Daddy</strong> (feat. Sexyy Red) | <em>Daddy (feat. Sexyy Red)</em> | Released: 2023-12-05 | Paulus Music/RTW Records/RCA Records</li>
-</ol> <div> {{< youtube "embed" >}}
+{{< img-lite src="https://i.ytimg.com/vi/abb3ObvdBus/maxresdefault.jpg" alt="Tokischa" >}} <p>Tokischas fusion of dembow and Latin rap is both energetic and influential. Here are BigBanonos top picks:</p>  <div> 
 </div> <p>(ft. Haraca Kiko x El Cherry Scom) Tukuntazo [2021]</p>
 {{< youtube "y8jyhfaoly8" >}} 
 <p><em>Last updated November 14, 2024</em></p>

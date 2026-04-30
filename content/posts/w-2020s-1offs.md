@@ -14,7 +14,7 @@ tags:
 
 ## W · 2020s 1-offs
 
-_8 favorite songs by artists starting with W. Current shit. The 2% that's good._
+_8 favorite songs by artists starting with W. Current shit. The 2% thats good._
 
 ---
 
