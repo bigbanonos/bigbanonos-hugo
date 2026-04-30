@@ -1,14 +1,11 @@
 ---
 title: "The Blow"
+slug: "the-blow"
 date: 2017-09-22
-category: "artist"
-track_count: 11
-first_year: 2003
-last_year: 2017
+layout: post
 tags:
   - '@the-blow'
   - '00s-10s'
-stub: true
 ---
 
 ## The Blow

@@ -1,6 +1,8 @@
 ---
-title: "dvsn at Brooklyn Paramount — Sept 5th 10th Anniversary"
+title: "Dvsn sept5 Anniversary"
+slug: "dvsn-sept5-anniversary"
 date: 2026-03-25
+layout: post
 tags:
   - '@dvsn'
   - '@nineteen85'
@@ -8,10 +10,6 @@ tags:
   - '@ovo'
   - '@brooklyn'
   - '@liveshow'
-category: "liveshow"
-cover:
-  image: "/images/dvsn-march-25-2026-show.jpg"
-  alt: "dvsn at Brooklyn Paramount March 25 2026"
 ---
 
 Brooklyn Paramount. March 25, 2026. 10:30 PM sharp.

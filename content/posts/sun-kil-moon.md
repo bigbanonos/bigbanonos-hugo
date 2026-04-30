@@ -1,16 +1,13 @@
 ---
 title: "Sun Kil Moon"
+slug: "sun-kil-moon"
 date: 2014-08-19
-category: "artist"
-track_count: 2
-first_year: 2003
-last_year: 2014
+layout: post
 tags:
   - '@sun-kil-moon'
   - '00s-10s'
   - 'slowcore'
   - 'southern gothic'
-stub: true
 ---
 
 ## Sun Kil Moon

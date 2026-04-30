@@ -1,12 +1,12 @@
 ---
-title: "' 'East River Pipe'
-'"
+title: "East River Pipe"
+slug: "east-river-pipe"
 date: 2024-12-17
-original_title: "'East River Pipe'"
+layout: post
 tags:
   - '@eastriverpipe'
-layout: post
 ---
+
 <h2>BigBanonos' 4 Favorite East River Pipe Songs</h2> <div > <img src="https://f4.bcbits.com/img/0006133419_10.jpg" alt="East River Pipe" width="400" />
 </div> {{< youtube "embed" >}} <h3>Tracklist</h3>
 <ul> <li><strong>All You Little Suckers</strong> â€“ <em>Poor Fricky</em> (1999)</li> <li><strong>Druglife</strong> â€“ <em>What Are You On?</em> (2006)</li> <li><strong>Shut Up and Row</strong> â€“ <em>What Are You On?</em> (2006)</li> <li><strong>What Does TS Eliot Know About You?</strong> â€“ <em>What Are You On?</em> (2006)</li>

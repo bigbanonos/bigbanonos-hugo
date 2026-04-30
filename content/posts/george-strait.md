@@ -1,10 +1,8 @@
 ---
 title: "George Strait"
+slug: "george-strait"
 date: 2015-09-25
-category: "artist"
-track_count: 2
-first_year: 2011
-last_year: 2015
+layout: post
 tags:
   - '@george-strait'
   - '00s-10s'
@@ -12,7 +10,6 @@ tags:
   - 'classic country'
   - 'traditional country'
   - 'honky tonk'
-stub: true
 ---
 
 ## George Strait

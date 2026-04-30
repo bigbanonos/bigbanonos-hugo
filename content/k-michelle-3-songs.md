@@ -1,14 +1,14 @@
 ---
-title: "' 'K. Michelle'
-'"
+title: "K Michelle"
+slug: "k-michelle"
 date: 2024-12-20
-original_title: "'K. Michelle - 3 Songs'"
+layout: post
 tags:
   - '@kmichelle'
   - '@citygirls'
   - '@kashdoll'
-layout: post
 ---
+
 <h1>K. Michelle: Top Songs</h1>
 {{< img-lite src="https://i.ytimg.com/vi/OD5x9MrNVJk/maxresdefault.jpg" alt="K Michelle - The Rain" >}} <p>K. Michelleâ€™s signature blend of hip pop, R&B, and urban contemporary has set her apart in the music world. Known for her honest lyrics and soulful melodies, here are three standout tracks from her catalog:</p> <ol> <li><strong>The Rain</strong> | <em>Single</em> | Release Date: October 25, 2019 | eOne Music</li> <li><strong>V.S.O.P.</strong> | <em>Rebellious Soul</em> | Release Date: May 20, 2013 | Atlantic Records</li> <li><strong>Supahood</strong> (feat. Kash Doll & City Girls) | <em>All Monsters Are Human</em> | Release Date: January 31, 2020 | eOne Music</li>
 </ol> <div> {{< youtube "embed" >}}

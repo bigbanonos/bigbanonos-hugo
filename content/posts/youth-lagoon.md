@@ -1,17 +1,14 @@
 ---
 title: "Youth Lagoon"
+slug: "youth-lagoon"
 date: 2025-02-21
-category: "artist"
-track_count: 6
-first_year: 2011
-last_year: 2025
+layout: post
 tags:
   - '@youth-lagoon'
   - '00s-10s'
   - '2020s'
   - 'dream pop'
   - 'chillwave'
-stub: true
 ---
 
 ## Youth Lagoon

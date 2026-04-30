@@ -1,17 +1,14 @@
 ---
 title: "Orlando Octave"
+slug: "orlando-octave"
 date: 2019-01-04
-category: "artist"
-track_count: 5
-first_year: 2014
-last_year: 2019
+layout: post
 tags:
   - '@orlando-octave'
   - '00s-10s'
   - 'soca'
   - 'calypso'
   - 'dancehall'
-stub: true
 ---
 
 ## Orlando Octave

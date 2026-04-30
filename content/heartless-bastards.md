@@ -1,12 +1,12 @@
 ---
-title: "' 'Heartless Bastards'
-'"
+title: "Heartless Bastards"
+slug: "heartless-bastards"
 date: 2024-12-29
-original_title: "'Heartless Bastards'"
+layout: post
 tags:
   - '@heartlessbastards'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonos Favorite Song by Heartless Bastards: "Gray"</h1> <!-- Introductory Text -->
 <p >Updated February 22, 2005, with "Gray" by Heartless Bastards. This emotive track from their debut album *Stairs and Elevators* showcases their powerful stomp-and-holler style with raw, heartfelt intensity. Watch the video below!</p> <!-- Featured Image -->

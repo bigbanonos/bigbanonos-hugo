@@ -1,15 +1,15 @@
 ---
-title: "' 'BFB Da Packman'
-'"
+title: "Bfb Da Packman"
+slug: "bfb-da-packman"
 date: 2025-05-29
-original_title: "'BFB Da Packman - 3 Songs'"
+layout: post
 tags:
   - '@bfbdapackman'
   - '@larussell'
   - '@sadababy'
   - '@zackfox'
-layout: post
 ---
+
 <h2>BigBanonos' Top 3 Favorite Songs by Bfb Da Packman</h2> <!-- Search Description -->
 <p>BigBanonos' favorite tracks by Bfb Da Packman, including breakout joints with Sada Baby, Zack Fox, and now LaRussell. "Groovy Gangster" brings a hyphy bounce to the Packman catalog. Watch and listen below.</p> <!-- Spotify Playlist Embed -->
 {{< youtube "embed" >}} <!-- Song Listings -->

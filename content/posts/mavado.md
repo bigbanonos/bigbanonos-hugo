@@ -1,10 +1,8 @@
 ---
 title: "Mavado"
+slug: "mavado"
 date: 2024-05-10
-category: "artist"
-track_count: 12
-first_year: 2007
-last_year: 2024
+layout: post
 tags:
   - '@mavado'
   - '@mavado-di-genius'
@@ -15,7 +13,6 @@ tags:
   - 'ragga'
   - 'soca'
   - 'reggae'
-stub: true
 ---
 
 ## Mavado

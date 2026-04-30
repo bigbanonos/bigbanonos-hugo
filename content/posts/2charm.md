@@ -1,7 +1,8 @@
 ---
 title: "2charm"
+slug: "2charm"
 date: 2025-09-04
-category: "artist"
+layout: post
 tags:
   - '@2charm'
 ---

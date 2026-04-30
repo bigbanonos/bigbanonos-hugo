@@ -1,14 +1,14 @@
 ---
-title: "' 'Murf Dilly'
-'"
+title: "Murf Dilly"
+slug: "murf-dilly"
 date: 2024-12-20
-original_title: "'Murf Dilly - 2 Songs'"
+layout: post
 tags:
   - '@jeremih'
   - '@murfdilly'
   - '@blakeiana'
-layout: post
 ---
+
 <h1>BigBanonos Top Songs by Murf Dilly</h1>
 {{< img-lite src="https://yt3.googleusercontent.com/4UZKsWVroDKERfmxB2DeD8IL-_A42jL9rcEblYaiAmkN8GYy6kqA7SCoZm91TivH1H6WAF4yVQ=s900-c-k-c0x00ffffff-no-rj" alt="Murf Dilly" >}} <p>Murf Dilly blends Chicago rap with elements of pop, R&B, and trap, creating a sound thatâ€™s both gritty and melodic. Check out BigBanonos' favorite tracks from him:</p> <ol> <li><strong>Act Different</strong> (feat. Jeremih and BlakeIANA) | <em>Murfyâ€™s Law</em> | JEL Entertainment, LLC | Released: August 18, 2023</li> <li><strong>2 Câ€™s</strong> (with Jeremih) | <em>2 Câ€™s</em> | JEL Entertainment, LLC | Released: April 14, 2023</li>
 </ol> <div> {{< youtube "embed" >}}

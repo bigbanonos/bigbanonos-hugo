@@ -1,12 +1,12 @@
 ---
-title: "' 'Menomena'
-'"
+title: "Menomena"
+slug: "menomena"
 date: 2024-12-29
-original_title: "'Menomena'"
+layout: post
 tags:
   - '@menomena'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonos Favorite Song by Menomena: "Wet and Rusting"</h1> <!-- Introductory Text -->
 <p >Updated January 1, 2007, with "Wet and Rusting" by Menomena. This atmospheric indie rock track from *Friend and Foe (Expanded Edition)* highlights the bandâ€™s unique sound, blending intricate arrangements and emotive lyrics. Watch the video below!</p> <!-- Featured Image -->

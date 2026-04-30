@@ -1,12 +1,12 @@
 ---
-title: "' 'Dirtbombs'
-'"
+title: "Dirtbombs Crazy For You"
+slug: "dirtbombs-crazy-for-you"
 date: 2024-12-17
-original_title: "'Dirtbombs'"
+layout: post
 tags:
   - '@dirtbombs'
-layout: post
 ---
+
 <h2>The Dirtbombs â€“ Essential Tracks</h2> <div > <img src="https://alpha.creativecirclecdn.com/citypulse/original/20210825-125050-TID_4C_2%20Tom%20Potter%20and%20Mick%20Collins.jpg" alt="The Dirtbombs" width="400" />
 </div> {{< youtube "embed" >}} <h3>#Covers w/ Originals</h3>
 {{< youtube "564PIgP5naQ" >}} <p><strong>Crazy for You</strong> â€“ <em>Ooey Gooey Chewy Ka-Blooey!</em> (2013)</p> <hr /> <h3>#Highlights</h3>

@@ -1,12 +1,12 @@
 ---
-title: "' 'Thin Lizzy'
-'"
+title: "Thin Lizzy"
+slug: "thin-lizzy"
 date: 2024-12-17
-original_title: "'Thin Lizzy'"
+layout: post
 tags:
   - '@thinlizzy'
-layout: post
 ---
+
 <h1>BigBanonos Top Songs by Thin Lizzy</h1>
 <div class="separator"> <a href="https://www.ft.com/__origami/service/image/v2/images/raw/ftcms%3Ad55ba18c-2e40-11ea-84be-a548267b914b?source=ig" > <img alt="Thin Lizzy" border="0" data-original-height="480" data-original-width="640" src="https://www.ft.com/__origami/service/image/v2/images/raw/ftcms%3Ad55ba18c-2e40-11ea-84be-a548267b914b?source=ig" width="320" /> </a>
 </div>

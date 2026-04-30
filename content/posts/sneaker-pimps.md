@@ -1,16 +1,13 @@
 ---
 title: "Sneaker Pimps"
+slug: "sneaker-pimps"
 date: 1996-08-18
-category: "artist"
-track_count: 4
-first_year: 1996
-last_year: 1996
+layout: post
 tags:
   - '@sneaker-pimps'
   - '1900s'
   - 'trip hop'
   - 'downtempo'
-stub: true
 ---
 
 ## Sneaker Pimps

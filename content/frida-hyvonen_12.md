@@ -1,12 +1,12 @@
 ---
-title: "' 'Frida HyvÃƒÆ’Ã‚Â¶nen'
-'"
+title: "Frida Hyvonen"
+slug: "frida-hyvonen"
 date: 2025-02-12
-original_title: "'Frida HyvÃƒÆ’Ã‚Â¶nen'"
+layout: post
 tags:
   - '@fridahyvÃƒÆ’Ã‚Â¶nen'
-layout: post
 ---
+
 <div> {{< img-lite src="https://i.scdn.co/image/ab6761610000e5ebb103176241eee8ef199e03b0" alt="Frida HyvÃƒÆ’Ã‚Â¶nen" >}}
 </div> <p>
 BigBanonos' favorite track by Frida HyvÃƒÆ’Ã‚Â¶nen:

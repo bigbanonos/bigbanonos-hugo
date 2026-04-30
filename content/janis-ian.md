@@ -1,12 +1,12 @@
 ---
-title: "' 'Janis Ian'
-'"
+title: "Janis Ian"
+slug: "janis-ian"
 date: 2025-01-18
-original_title: "'Janis Ian'"
+layout: post
 tags:
   - '@janisian'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonos Favorite Songs by Janis Ian</h1> <!-- Introductory Text -->
 <p >Updated March 24, 2009, with "Society's Child (Baby, Iâ€™ve Been Thinking)" from <em>Classic Protest Songs from Smithsonian Folkways</em>. Experience the iconic folk music of Janis Ian in the playlist below!</p> <!-- Featured Image -->

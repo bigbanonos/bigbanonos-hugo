@@ -1,12 +1,12 @@
 ---
-title: "' 'Yoko Ono'
-'"
+title: "Yoko Ono"
+slug: "yoko-ono"
 date: 2025-01-11
-original_title: "'Yoko Ono'"
+layout: post
 tags:
   - '@yokoono'
-layout: post
 ---
+
 <div class="post-title"> <h1>BigBanonos' Favorite Songs by Yoko Ono</h1>
 </div>
 <p>Updated August 24, 2022, with "Move on Fast" from the album <i>Move on Fast</i>, highlighted in the playlist below:</p>

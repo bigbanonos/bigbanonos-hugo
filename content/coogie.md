@@ -1,15 +1,15 @@
 ---
-title: "' 'Coogie'
-'"
+title: "Coogie"
+slug: "coogie"
 date: 2024-12-03
-original_title: "'Coogie'"
+layout: post
 tags:
   - '@changmo'
   - '@dark'
   - '@superbee'
   - '@coogie'
-layout: post
 ---
+
 <!-- Post Title -->
 <h1 >BigBanonos' Favorite Song by Coogie, SUPERBEE, D.Ark, CHANGMO</h1> <!-- Introductory Text -->
 <p >Updated with BigBanonos' favorite track from 2018, "saimsaim" by Coogie, SUPERBEE, D.Ark, and CHANGMO. This standout from *Show Me the Money 777* captures the energetic and innovative sound of Korean hip-hop, blending sharp lyricism and dynamic production.</p> <!-- Featured Image -->

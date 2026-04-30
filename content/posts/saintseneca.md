@@ -1,15 +1,12 @@
 ---
 title: "Saintseneca"
+slug: "saintseneca"
 date: 2022-10-21
-category: "artist"
-track_count: 2
-first_year: 2019
-last_year: 2022
+layout: post
 tags:
   - '@saintseneca'
   - '00s-10s'
   - '2020s'
-stub: true
 ---
 
 ## Saintseneca

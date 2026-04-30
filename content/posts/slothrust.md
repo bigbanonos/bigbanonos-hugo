@@ -1,15 +1,12 @@
 ---
 title: "Slothrust"
+slug: "slothrust"
 date: 2023-09-13
-category: "artist"
-track_count: 3
-first_year: 2014
-last_year: 2023
+layout: post
 tags:
   - '@slothrust'
   - '00s-10s'
   - '2020s'
-stub: true
 ---
 
 ## Slothrust

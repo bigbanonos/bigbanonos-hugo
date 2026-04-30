@@ -1,17 +1,14 @@
 ---
-title: "SG Lewis"
+title: "Sg Lewis"
+slug: "sg-lewis"
 date: 2021-02-19
-category: "artist"
-track_count: 2
-first_year: 2021
-last_year: 2021
+layout: post
 tags:
   - '@sg-lewis'
   - '@sg-lewis-robyn-channel-tres'
   - '2020s'
   - 'swedish pop'
   - 'hip house'
-stub: true
 ---
 
 ## SG Lewis

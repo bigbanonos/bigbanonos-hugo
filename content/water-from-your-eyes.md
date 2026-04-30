@@ -1,13 +1,13 @@
 ---
-title: "' 'Water From Your Eyes'
-'"
+title: "Water From Your Eyes"
+slug: "water-from-your-eyes"
 date: 2025-01-10
-original_title: "'Water From Your Eyes'"
+layout: post
 tags:
   - '@waterfromyoureyes'
   - '@thedare'
-layout: post
 ---
+
 <div class="post-title"> <h1>BigBanonos' Favorite Songs by Water From Your Eyes</h1>
 </div>
 <p>Updated November 17, 2023, with "Out There - The Dare Version" from the album <i>Crushed By Everyone</i>, highlighted in the playlist below:</p>

@@ -1,10 +1,8 @@
 ---
 title: "Mose Allison"
+slug: "mose-allison"
 date: 2010-09-23
-category: "artist"
-track_count: 2
-first_year: 1988
-last_year: 2010
+layout: post
 tags:
   - '@mose-allison'
   - '00s-10s'
@@ -12,7 +10,6 @@ tags:
   - 'vocal jazz'
   - 'jazz'
   - 'cool jazz'
-stub: true
 ---
 
 ## Mose Allison

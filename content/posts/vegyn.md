@@ -1,10 +1,8 @@
 ---
 title: "Vegyn"
+slug: "vegyn"
 date: 2024-03-20
-category: "artist"
-track_count: 3
-first_year: 2019
-last_year: 2024
+layout: post
 tags:
   - '@vegyn'
   - '@vegyn-lauren-auder'
@@ -13,7 +11,6 @@ tags:
   - 'idm'
   - 'experimental hip hop'
   - 'baroque pop'
-stub: true
 ---
 
 ## Vegyn

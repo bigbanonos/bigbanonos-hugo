@@ -1,10 +1,8 @@
 ---
 title: "Slick Rick"
+slug: "slick-rick"
 date: 1999-01-01
-category: "artist"
-track_count: 5
-first_year: 1988
-last_year: 1999
+layout: post
 tags:
   - '@slick-rick'
   - '@slick-rick-outkast'
@@ -13,7 +11,6 @@ tags:
   - 'east coast hip hop'
   - 'southern hip hop'
   - 'hip hop'
-stub: true
 ---
 
 ## Slick Rick

@@ -1,12 +1,12 @@
 ---
-title: "' 'Orchestral Manoeuvres In The Dark'
-'"
+title: "Orchestral Manoeuvres In Dark"
+slug: "orchestral-manoeuvres-in-dark"
 date: 2025-01-18
-original_title: "'Orchestral Manoeuvres In The Dark'"
+layout: post
 tags:
   - '@omd'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >Orchestral Manoeuvres In The Dark - Synthpop Classics</h1> <!-- Introductory Text -->
 <p >OMDâ€™s legendary synth-driven sound paved the way for a new era of music. Explore their timeless classics below!</p> <!-- Featured Image -->

@@ -1,16 +1,13 @@
 ---
-title: "Mariah the Scientist"
+title: "Mariah The Scientist"
+slug: "mariah-the-scientist"
 date: 2021-07-02
-category: "artist"
-track_count: 3
-first_year: 2019
-last_year: 2021
+layout: post
 tags:
   - '@mariah-the-scientist'
   - '00s-10s'
   - '2020s'
   - 'alternative r&b'
-stub: true
 ---
 
 ## Mariah the Scientist

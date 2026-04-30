@@ -1,17 +1,14 @@
 ---
 title: "Low"
+slug: "low"
 date: 2015-09-11
-category: "artist"
-track_count: 3
-first_year: 2015
-last_year: 2015
+layout: post
 tags:
   - '@low'
   - '00s-10s'
   - 'slowcore'
   - 'dream pop'
   - 'post-rock'
-stub: true
 ---
 
 ## Low

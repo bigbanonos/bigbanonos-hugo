@@ -1,12 +1,12 @@
 ---
-title: "' 'Nedelle Torrisi'
-'"
+title: "Nedelle Torrisi"
+slug: "nedelle-torrisi"
 date: 2024-12-15
-original_title: "'Nedelle Torrisi'"
+layout: post
 tags:
   - '@nedelletorrisi'
-layout: post
 ---
+
 <!-- Post Title -->
 <h1 >BigBanonos' Favorite Tracks: Nedelle Torrisi - "Don't Play Dumb"</h1> <!-- Introductory Text -->
 <p >Updated February 2, 2015, with "Don't Play Dumb" by Nedelle Torrisi. This track from the album <em>Advice from Paradise</em>, released under Ethereal Sequence, blends indie pop with ethereal melodies, showcasing Torrisiâ€™s soulful vocals and unique sound.</p> <!-- Featured Image -->

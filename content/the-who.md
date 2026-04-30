@@ -1,12 +1,12 @@
 ---
-title: "' 'The Who'
-'"
+title: "The Who"
+slug: "the-who"
 date: 2025-01-16
-original_title: "'The Who'"
+layout: post
 tags:
   - '@who'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by The Who</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://www.rollingstone.com/wp-content/uploads/2018/06/rs-230666-the-who.jpg?w=800" alt="The Who" >}}

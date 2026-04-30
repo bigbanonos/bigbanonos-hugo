@@ -1,8 +1,8 @@
 ---
-title: "' 'JR & PH7, Chuuwee'
-'"
+title: "Jr ph7 Chuuwee"
+slug: "jr-ph7-chuuwee"
 date: 2024-12-12
-original_title: "'JR & PH7, Chuuwee'"
+layout: post
 tags:
   - '@indiehiphop'
   - '@chuuwee'
@@ -11,8 +11,8 @@ tags:
   - '@begin themack'
   - '@thesouthsacmack'
   - '@undergroundboombap'
-layout: post
 ---
+
 <!-- Post Title -->
 <h1 >BigBanonos' Favorite Tracks: JR & PH7, Chuuwee - "Begin The Mack (Intro)"</h1> <!-- Introductory Text -->
 <p >Updated March 24, 2015, with "Begin The Mack (Intro)" by JR & PH7 featuring Chuuwee from *The South Sac Mack* album. This track exemplifies the underground boom bap sound that defines Sacramentoâ€™s hip hop scene. With its smooth beats and laid-back flow, itâ€™s a perfect introduction to Chuuweeâ€™s storytelling ability and JR & PH7â€™s production skills.</p> <!-- Featured Image -->

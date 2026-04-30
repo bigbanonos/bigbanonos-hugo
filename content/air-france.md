@@ -1,12 +1,12 @@
 ---
-title: "' 'Air France'
-'"
+title: "Air France"
+slug: "air-france"
 date: 2025-02-12
-original_title: "'Air France'"
+layout: post
 tags:
   - '@airfrance'
-layout: post
 ---
+
 <div> {{< img-lite src="https://i.scdn.co/image/ab67616d0000b273240783171a0e7948681fd14d" alt="Air France" >}}
 </div> <p>
 BigBanonos' favorite Air France song:

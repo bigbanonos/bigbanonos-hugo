@@ -1,12 +1,12 @@
 ---
-title: "' 'Sorry'
-'"
+title: "Sorry"
+slug: "sorry"
 date: 2022-07-13
-original_title: "'Sorry - 1 Song'"
+layout: post
 tags:
   - '@sorry'
-layout: post
 ---
+
 {{< youtube "uEPWy2rvCIY" >}}<div><h2><ol><li>Thereâ€™s So Many People That Want To Be Loved [2022]</li></ol></h2></div>
 
 <!--Subscribe and Playlist Links-->

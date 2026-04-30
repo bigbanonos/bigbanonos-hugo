@@ -1,13 +1,13 @@
 ---
-title: "' 'JD Samson & Men'
-'"
+title: "Men"
+slug: "men"
 date: 2024-12-17
-original_title: "'JD Samson & Men'"
+layout: post
 tags:
   - '@jdsamson'
   - '@men'
-layout: post
 ---
+
 <h2>BigBanonos' Favorite Tracks: JD Samson & MEN</h2> <div > <a href="https://i.ytimg.com/vi/LnkSfAB-X2g/maxresdefault.jpg"> <img src="https://i.ytimg.com/vi/LnkSfAB-X2g/maxresdefault.jpg" alt="JD Samson & MEN" width="400" /> </a>
 </div> <p>Explore the electrifying sounds of JD Samson & MEN, a group known for their blend of electronic beats and socio-political lyrics. Here are some of our favorite tracks:</p> <h3>Selected Tracks</h3>
 <ol> <li><strong>All the Way Thru</strong> â€“ <em>All the Way Thru</em> (2013)</li> <li><strong>Off Our Backs</strong> â€“ <em>Talk About Body</em> (2011)</li> <li><strong>Rip Off</strong> â€“ <em>Talk About Body</em> (2011)</li> <li><strong>My Family</strong> â€“ <em>Talk About Body</em> (2011)</li>

@@ -1,14 +1,11 @@
 ---
 title: "The Futureheads"
+slug: "the-futureheads"
 date: 2004-08-03
-category: "artist"
-track_count: 5
-first_year: 2004
-last_year: 2004
+layout: post
 tags:
   - '@the-futureheads'
   - '00s-10s'
-stub: true
 ---
 
 ## The Futureheads

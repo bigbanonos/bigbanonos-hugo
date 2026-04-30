@@ -1,12 +1,12 @@
 ---
-title: "' 'Chris Isaak'
-'"
+title: "Chris Isaak"
+slug: "chris-isaak"
 date: 2025-01-17
-original_title: "'Chris Isaak'"
+layout: post
 tags:
   - '@chrisisaak'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Chris Isaak</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab67616d0000b27357937d25cfcbcc05ce04a517" alt="Chris Isaak" >}}

@@ -1,7 +1,8 @@
 ---
-title: "Carla dal Forno"
+title: "Carla Dal Forno"
+slug: "carla-dal-forno"
 date: 2026-03-04
-category: "artist"
+layout: post
 tags:
   - '@carla-dal-forno'
 ---

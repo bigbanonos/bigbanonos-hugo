@@ -1,15 +1,12 @@
 ---
-title: "Murf Dilly;Jeremih"
+title: "Murf Dilly Jeremih"
+slug: "murf-dilly-jeremih"
 date: 2023-08-18
-category: "artist"
-track_count: 2
-first_year: 2023
-last_year: 2023
+layout: post
 tags:
   - '@murf-dilly-jeremih'
   - '@murf-dilly-blakeiana-jeremih'
   - '2020s'
-stub: true
 ---
 
 ## Murf Dilly;Jeremih

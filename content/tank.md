@@ -1,14 +1,14 @@
 ---
-title: "' 'Tank'
-'"
+title: "Tank"
+slug: "tank"
 date: 2024-12-16
-original_title: "'Tank'"
+layout: post
 tags:
   - '@tank'
   - '@tydollasign'
   - '@treysongz'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >Tank - When We (Remix) [feat. Ty Dolla $ign and Trey Songz]</h1> <!-- Introductory Text -->
 <p >Updated with "When We (Remix)" by Tank featuring Ty Dolla $ign and Trey Songz, released on February 14, 2018, through R&B Money/Atlantic Records. The remix delivers an irresistible mix of R&B, hip hop, and pop influences.</p> <!-- Featured Image -->

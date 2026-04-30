@@ -1,16 +1,13 @@
 ---
-title: "CHVRCHES"
+title: "Chvrches"
+slug: "chvrches"
 date: 2021-07-12
-category: "artist"
-track_count: 5
-first_year: 2015
-last_year: 2021
+layout: post
 tags:
   - '@chvrches'
   - '00s-10s'
   - '2020s'
   - 'synthpop'
-stub: true
 ---
 
 ## CHVRCHES

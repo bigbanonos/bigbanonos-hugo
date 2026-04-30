@@ -1,13 +1,13 @@
 ---
-title: "' 'Joan Shelley'
-'"
+title: "Joan Shelley"
+slug: "joan-shelley"
 date: 2025-02-28
-original_title: "'Joan Shelley - 7 Songs'"
+layout: post
 tags:
   - '@joanshelley'
   - '@billcallahan'
-layout: post
 ---
+
 <h1>Joan Shelley's Finest Folk Tracks: A Journey into Indie and Americana</h1>
 {{< img-lite src="https://media.npr.org/assets/img/2019/01/22/dsc_0287_wide-83ec59546c7f224853682c5ba8106d61838f3c42.jpg?s=1100&c=85&f=jpeg" alt="Joan Shelley Album Art" >}} <p>Joan Shelleyâ€™s music brings a reflective touch to indie folk and Americana, with soulful and intricate melodies. Here are seven essential tracks that showcase her depth and artistry:</p> <ol> <li><strong>Forever Blues</strong> | <em>The Spur</em> | Release Date: June 24, 2022 | No Quarter</li> <li><strong>When The Light Is Dying</strong> | <em>The Spur</em> | Release Date: June 24, 2022 | No Quarter</li> <li><strong>Fawn</strong> | <em>The Spur</em> | Release Date: June 24, 2022 | No Quarter</li> <li><strong>Why Not Live Here</strong> | <em>The Spur</em> | Release Date: June 24, 2022 | No Quarter</li> <li><strong>The Fading</strong> | <em>Like The River Loves The Sea</em> | Release Date: August 30, 2019 | No Quarter</li> <li><strong>Sweet Dark-Haired Man</strong> | <em>Ginko</em> | Release Date: April 10, 2012 | Ol Kentuck</li> <li><strong>Amberlit Morning</strong> (feat. Bill Callahan) | <em>The Spur</em> | Release Date: June 24, 2022 | No Quarter</li>
 </ol> <div> {{< youtube "embed" >}}

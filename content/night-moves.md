@@ -1,12 +1,12 @@
 ---
-title: "' 'Night Moves'
-'"
+title: "Night Moves"
+slug: "night-moves"
 date: 2024-12-15
-original_title: "'Night Moves'"
+layout: post
 tags:
   - '@nightmoves'
-layout: post
 ---
+
 <!-- Post Title -->
 <h1 >BigBanonos' Favorite Tracks: Night Moves - "Headlights"</h1> <!-- Introductory Text -->
 <p >Updated October 16, 2012, with "Headlights" by Night Moves. This track from the album <em>Colored Emotions</em>, released under Domino Recording Co., blends indie rock with soulful melodies, making it a standout track that captures the essence of Night Moves' unique sound.</p> <!-- Featured Image -->

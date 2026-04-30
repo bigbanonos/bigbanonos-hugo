@@ -1,13 +1,13 @@
 ---
-title: "' 'HAIM'
-'"
+title: "Haim"
+slug: "haim"
 date: 2025-08-30
-original_title: "'HAIM - 10+ Songs'"
+layout: post
 tags:
   - '@toroymoi'
   - '@haim'
-layout: post
 ---
+
 <h1>BigBanonos 10 Favorite Songs by HAIM</h1> <img alt="HAIM" src="https://people.com/thmb/utZLLvl3Zl7hDChsk_qsh3VnXag=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(1027x405:1029x407)/haim-1-e75bd47114cb4291b9655daac5afae9c.jpg" /> <p>Updated with two standouts from 2025: <em>â€œRelationshipsâ€</em> (March 12, 2025) and <em>â€œAll Over Meâ€</em> (June 20, 2025). Both tracks appear on HAIMâ€™s latest projects and continue to showcase their evolving mix of indie pop, rock, and electronic textures. Below, BigBanonos highlights 10 essential songs by HAIM.</p> <h3>Relationships (2025)</h3>
 <p><em>Album:</em> Relationships Ãƒâ€šÃ‚Â· Columbia Records Ãƒâ€šÃ‚Â· Released March 12, 2025</p>
 {{< youtube "dOI_QTmK8Ks" >}} <h3>All Over Me (2025)</h3>

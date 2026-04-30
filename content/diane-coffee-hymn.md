@@ -1,12 +1,12 @@
 ---
-title: "' 'Diane Coffee'
-'"
+title: "Diane Coffee Hymn"
+slug: "diane-coffee-hymn"
 date: 2025-01-12
-original_title: "'Diane Coffee'"
+layout: post
 tags:
   - '@dianecoffee'
-layout: post
 ---
+
 <h2>Diane Coffee â€“ Essential Tracks</h2> <div > <img src="https://dispatch-public.s3.amazonaws.com/1d9e9fd06a514515fd9f1abc8635c7313b635e2b_b13c6d5d24e28a8c1769b222aa4903940abd8eae_medium_jpg" alt="Diane Coffee" width="400" />
 </div> {{< youtube "embed" >}} <h3>YouTube Playlist</h3>
 {{< youtube "1AMxRAjdIUk" >}} <h3>Tracklist</h3>

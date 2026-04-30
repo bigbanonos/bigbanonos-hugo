@@ -1,7 +1,8 @@
 ---
-title: "Mike WiLL Made-It"
+title: "Mike Will Made It"
+slug: "mike-will-made-it"
 date: 2026-03-20
-category: "artist"
+layout: post
 tags:
   - '@mikewillmadeit'
   - '@youngthug'

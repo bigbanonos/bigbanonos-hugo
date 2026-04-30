@@ -1,12 +1,12 @@
 ---
-title: "' 'Shelly Thunder'
-'"
+title: "Shelly Thunder"
+slug: "shelly-thunder"
 date: 2025-01-16
-original_title: "'Shelly Thunder - 2 Songs'"
+layout: post
 tags:
   - '@shellythunder'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1>BigBanonosâ€™ Favorite Songs by Shelly Thunder</h1> <!-- Featured Image -->
 <div> {{< img-lite src="https://i.scdn.co/image/ab67616d0000b2735706906932bb9ff798507198" alt="Shelly Thunder" >}}

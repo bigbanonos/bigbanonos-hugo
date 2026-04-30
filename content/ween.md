@@ -1,12 +1,12 @@
 ---
-title: "' 'Ween'
-'"
+title: "Ween"
+slug: "ween"
 date: 2025-01-16
-original_title: "'Ween'"
+layout: post
 tags:
   - '@ween'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Ween</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://media.gq.com/photos/66abcb3bd715909ef59091c5/16:9/w_2560%2Cc_limit/GettyImages-85050005%2520(1).jpg" alt="Ween" >}}

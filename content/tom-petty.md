@@ -1,12 +1,12 @@
 ---
-title: "' 'Tom Petty'
-'"
+title: "Tom Petty"
+slug: "tom-petty"
 date: 2025-01-10
-original_title: "'Tom Petty'"
+layout: post
 tags:
   - '@tompetty'
-layout: post
 ---
+
 <div class="post-title"> <h1>BigBanonos' Favorite Songs by Tom Petty</h1>
 </div>
 <p>Updated March 1, 2019, with "American Girl" from the compilation <i>The Best Of Everything - The Definitive Career Spanning Hits Collection 1976-2016</i>, highlighted in the playlist below:</p>

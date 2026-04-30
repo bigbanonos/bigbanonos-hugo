@@ -1,12 +1,12 @@
 ---
-title: "' 'Widowspeak'
-'"
+title: "Widowspeak"
+slug: "widowspeak"
 date: 2025-01-11
-original_title: "'Widowspeak'"
+layout: post
 tags:
   - '@widowspeak'
-layout: post
 ---
+
 <div class="post-title"> <h1>BigBanonos' Favorite Songs by Widowspeak</h1>
 </div>
 <p>Updated March 11, 2022, with "Slow Dance" from the album <i>The Jacket</i>, highlighted in the playlist below:</p>

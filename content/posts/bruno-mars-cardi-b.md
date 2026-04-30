@@ -1,17 +1,14 @@
 ---
-title: "Bruno Mars;Cardi B"
+title: "Bruno Mars Cardi B"
+slug: "bruno-mars-cardi-b"
 date: 2021-11-05
-category: "artist"
-track_count: 3
-first_year: 2010
-last_year: 2021
+layout: post
 tags:
   - '@bruno-mars-cardi-b'
   - '@bruno-mars'
   - '@bruno-mars-anderson-paak-silk-sonic'
   - '00s-10s'
   - '2020s'
-stub: true
 ---
 
 ## Bruno Mars;Cardi B

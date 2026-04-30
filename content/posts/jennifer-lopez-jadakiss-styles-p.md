@@ -1,15 +1,12 @@
 ---
-title: "Jennifer Lopez;Jadakiss;Styles P"
+title: "Jennifer Lopez Jadakiss Styles P"
+slug: "jennifer-lopez-jadakiss-styles-p"
 date: 2002-09-26
-category: "artist"
-track_count: 1
-first_year: 2002
-last_year: 2002
+layout: post
 tags:
   - '@jennifer-lopez-jadakiss-styles-p'
   - '00s-10s'
   - 'east coast hip hop'
-stub: true
 ---
 
 ## Jennifer Lopez;Jadakiss;Styles P

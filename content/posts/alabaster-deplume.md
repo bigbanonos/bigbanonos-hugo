@@ -1,10 +1,8 @@
 ---
-title: "Alabaster DePlume"
+title: "Alabaster Deplume"
+slug: "alabaster-deplume"
 date: 2026-03-19
-category: "artist"
-track_count: 15
-first_year: 1978
-last_year: 2026
+layout: post
 tags:
   - '@alabaster-deplume'
   - '@thomas-n-eric'
@@ -24,7 +22,6 @@ tags:
   - 'jazz'
   - 'bebop'
   - 'cool jazz'
-stub: true
 ---
 
 ## Alabaster DePlume

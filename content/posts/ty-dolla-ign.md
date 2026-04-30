@@ -1,10 +1,8 @@
 ---
-title: "Ty Dolla $ign"
+title: "Ty Dolla Ign"
+slug: "ty-dolla-ign"
 date: 2019-08-09
-category: "artist"
-track_count: 9
-first_year: 2014
-last_year: 2019
+layout: post
 tags:
   - '@ty-dolla-ign'
   - '@ty-dolla-ign-24hrs'
@@ -18,7 +16,6 @@ tags:
   - 'hyphy'
   - 'hyperpop'
   - 'art pop'
-stub: true
 ---
 
 ## Ty Dolla $ign

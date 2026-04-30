@@ -1,10 +1,8 @@
 ---
 title: "Delicate Steve"
+slug: "delicate-steve"
 date: 2022-08-05
-category: "artist"
-track_count: 7
-first_year: 2009
-last_year: 2022
+layout: post
 tags:
   - '@delicate-steve'
   - '@fm-skyline-george-clanton'
@@ -19,7 +17,6 @@ tags:
   - 'psychedelic rock'
   - 'k-rock'
   - 'surf rock'
-stub: true
 ---
 
 ## Delicate Steve

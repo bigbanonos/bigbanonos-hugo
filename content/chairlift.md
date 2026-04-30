@@ -1,12 +1,12 @@
 ---
-title: "' 'Chairlift'
-'"
+title: "Chairlift"
+slug: "chairlift"
 date: 2025-01-17
-original_title: "'Chairlift'"
+layout: post
 tags:
   - '@chairlift'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Chairlift</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab6761610000e5eb5e840e15b98bab227b5289a6" alt="Chairlift" >}}

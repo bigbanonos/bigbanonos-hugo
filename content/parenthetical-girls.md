@@ -1,12 +1,12 @@
 ---
-title: "' 'Parenthetical Girls'
-'"
+title: "Parenthetical Girls"
+slug: "parenthetical-girls"
 date: 2025-02-10
-original_title: "'Parenthetical Girls'"
+layout: post
 tags:
   - '@parentheticalgirls'
-layout: post
 ---
+
 <!-- Parenthetical Girls -->
 <img src="https://i.scdn.co/image/ab6761610000e5eb91490ac92c80478fd24ac897" /> <p><strong>Updated August 13, 2013 with "A Note to Self" from <em>Privilege</em></strong></p> <p><strong>"A Note to Self"</strong> â€“ <em>Privilege</em> (Slender Means Society, 2013)</p>
 <p><strong>"Careful Who You Dance With"</strong> â€“ <em>Privilege</em> (Slender Means Society, 2013)</p>

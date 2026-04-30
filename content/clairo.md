@@ -1,13 +1,13 @@
 ---
-title: "' 'Clairo'
-'"
+title: "Clairo"
+slug: "clairo"
 date: 2024-11-03
-original_title: "'Clairo - 14 Songs'"
+layout: post
 tags:
   - '@clairo'
   - '@dannylharle'
-layout: post
 ---
+
 <h2>BigBanonos' Favorite Songs by Clairo</h2> <!--Search Description-->
 <p>BigBanonos' top selections from Clairoâ€™s introspective bedroom pop tracks, featuring live recordings and standout singles.</p> <!--Spotify Playlist Embed-->
 {{< youtube "embed" >}} <!--Song Listings-->

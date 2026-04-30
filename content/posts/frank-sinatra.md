@@ -1,10 +1,8 @@
 ---
 title: "Frank Sinatra"
+slug: "frank-sinatra"
 date: 1967-08-01
-category: "artist"
-track_count: 2
-first_year: 1958
-last_year: 1967
+layout: post
 tags:
   - '@frank-sinatra'
   - '@frank-sinatra-nancy-sinatra'
@@ -13,7 +11,6 @@ tags:
   - 'big band'
   - 'adult standards'
   - 'swing music'
-stub: true
 ---
 
 ## Frank Sinatra

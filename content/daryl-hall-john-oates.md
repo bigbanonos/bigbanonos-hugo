@@ -1,12 +1,12 @@
 ---
-title: "' 'Daryl Hall & John Oates'
-'"
+title: "Daryl Hall John Oates"
+slug: "daryl-hall-john-oates"
 date: 2025-01-17
-original_title: "'Daryl Hall & John Oates'"
+layout: post
 tags:
   - '@darylhallandjohnoates'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Daryl Hall & John Oates</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab67616d0000b273f43547de689aabc4c44ab62d" alt="Daryl Hall & John Oates" >}}

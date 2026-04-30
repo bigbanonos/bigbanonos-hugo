@@ -1,12 +1,12 @@
 ---
-title: "' 'Elise Vatsvaag'
-'"
+title: "Elise Vatsvaag"
+slug: "elise-vatsvaag"
 date: 2024-12-28
-original_title: "'Elise Vatsvaag'"
+layout: post
 tags:
   - '@elisevatsvaag'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonos Favorite Song by Elise Vatsvaag: "Safe Play"</h1> <!-- Introductory Text -->
 <p >Updated January 1, 2012, with "Safe Play" by Elise Vatsvaag. This heartfelt track showcases her delicate vocals and introspective songwriting, making it a standout in the indie pop scene. Watch the official video below!</p> <!-- Featured Image -->

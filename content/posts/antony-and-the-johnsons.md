@@ -1,10 +1,8 @@
 ---
-title: "Antony and the Johnsons"
+title: "Antony And The Johnsons"
+slug: "antony-and-the-johnsons"
 date: 2023-07-06
-category: "artist"
-track_count: 9
-first_year: 2005
-last_year: 2023
+layout: post
 tags:
   - '@antony-and-the-johnsons'
   - '@anohni'
@@ -14,7 +12,6 @@ tags:
   - '2020s'
   - 'baroque pop'
   - 'art pop'
-stub: true
 ---
 
 ## Antony and the Johnsons

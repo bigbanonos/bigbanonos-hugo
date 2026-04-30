@@ -1,13 +1,13 @@
 ---
-title: "' 'Songhoy Blues'
-'"
+title: "Songhoy Blues"
+slug: "songhoy-blues"
 date: 2021-08-14
-original_title: "'Songhoy Blues - 1 Song'"
+layout: post
 tags:
   - '@songhoyblues'
   - '@mikelindsay'
-layout: post
 ---
+
 {{< youtube "RMZoeLO9IM4" >}}<h2><ol><li>Bon BonÃƒâ€šÃ‚Â (Mike Lindsay Remix) [2021]</li></ol></h2>
 
 <!--Subscribe and Playlist Links-->

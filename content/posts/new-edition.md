@@ -1,16 +1,13 @@
 ---
 title: "New Edition"
+slug: "new-edition"
 date: 1991-01-01
-category: "artist"
-track_count: 4
-first_year: 1983
-last_year: 1991
+layout: post
 tags:
   - '@new-edition'
   - '1900s'
   - 'new jack swing'
   - 'quiet storm'
-stub: true
 ---
 
 ## New Edition

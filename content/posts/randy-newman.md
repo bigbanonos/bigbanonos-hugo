@@ -1,14 +1,11 @@
 ---
 title: "Randy Newman"
+slug: "randy-newman"
 date: 1977-09-23
-category: "artist"
-track_count: 3
-first_year: 1972
-last_year: 1977
+layout: post
 tags:
   - '@randy-newman'
   - '1900s'
-stub: true
 ---
 
 ## Randy Newman

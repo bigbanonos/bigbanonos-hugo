@@ -1,17 +1,14 @@
 ---
 title: "Cock Sparrer"
+slug: "cock-sparrer"
 date: 1994-10-10
-category: "artist"
-track_count: 2
-first_year: 1982
-last_year: 1994
+layout: post
 tags:
   - '@cock-sparrer'
   - '1900s'
   - 'punk'
   - 'ska punk'
   - 'hardcore punk'
-stub: true
 ---
 
 ## Cock Sparrer

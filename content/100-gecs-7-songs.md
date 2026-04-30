@@ -1,8 +1,8 @@
 ---
-title: "' '100 Gecs'
-'"
+title: "100 Gecs"
+slug: "100-gecs"
 date: 2025-01-06
-original_title: "'100 Gecs - 8 Songs'"
+layout: post
 tags:
   - '@skrillex'
   - '@dylanbrady'
@@ -11,8 +11,8 @@ tags:
   - '@kerokerobonito'
   - '@riconasty'
   - '@charlixcx'
-layout: post
 ---
+
 <h3>BigBanonos Favorite Tracks: 100 gecs</h3>
 <p>Updated March 17, 2023 with three tracks from the <em>10,000 gecs</em> album.</p> {{< youtube "embed" >}} <div class="separator" > <a href="https://i1.sndcdn.com/artworks-Bs1jS8f9p8PW-0-t500x500.jpg"> <img alt="100 gecs - 10,000 gecs" border="0" width="320" src="https://i1.sndcdn.com/artworks-Bs1jS8f9p8PW-0-t500x500.jpg" /> </a>
 </div> <p>BigBanonos celebrates <strong>100 gecs</strong>, pioneers of hyperpop and experimental music, with tracks from <em>10,000 gecs</em> and their groundbreaking earlier works. Below are some standout tracks that highlight their unique and genre-bending style.</p> <ol> <li><strong>Frog On The Floor</strong> â€ <em>2023</em> â€ Dog Show Records â€ 2:41</li> <li><strong>Dumbest Girl Alive</strong> â€ <em>2023</em> â€ Dog Show Records â€ 2:17</li> <li><strong>Doritos & Fritos</strong> â€ <em>2023</em> â€ Dog Show Records â€ 3:16</li> <li><strong>I Got My Tooth Removed</strong> â€ <em>2023</em> â€ Dog Show Records â€ 3:17</li> <li><strong>Hey Big Man</strong> â€ <em>2022</em> â€ Dog Show Records â€ 1:42</li> <li><strong>Torture Me (feat. Skrillex)</strong> â€ <em>2022</em> â€ Dog Show Records â€ 1:53</li> <li><strong>ringtone (Remix) [feat. Charli XCX, Rico Nasty, Kero Kero Bonito]</strong> â€ <em>2020</em> â€ Dog Show Records â€ 3:34</li> <li><strong>money machine</strong> â€ <em>2019</em> â€ Dog Show Records â€ 1:54</li> <li><strong>ringtone</strong> â€ <em>2019</em> â€ Dog Show Records â€ 2:23</li>

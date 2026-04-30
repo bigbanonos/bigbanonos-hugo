@@ -1,12 +1,12 @@
 ---
-title: "' 'Adam Green'
-'"
+title: "Adam Green"
+slug: "adam-green"
 date: 2025-01-17
-original_title: "'Adam Green'"
+layout: post
 tags:
   - '@adamgreen'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Adam Green</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab67616d00001e028b55fbd00dc1f564f82d61f1" alt="Adam Green" >}}

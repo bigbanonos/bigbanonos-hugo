@@ -1,17 +1,14 @@
 ---
 title: "Mclusky"
+slug: "mclusky"
 date: 2024-10-01
-category: "artist"
-track_count: 4
-first_year: 2002
-last_year: 2024
+layout: post
 tags:
   - '@mclusky'
   - '00s-10s'
   - '2020s'
   - 'noise rock'
   - 'post-hardcore'
-stub: true
 ---
 
 ## Mclusky

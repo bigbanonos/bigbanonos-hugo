@@ -1,15 +1,12 @@
 ---
 title: "Supergrass"
+slug: "supergrass"
 date: 1995-05-15
-category: "artist"
-track_count: 2
-first_year: 1995
-last_year: 1995
+layout: post
 tags:
   - '@supergrass'
   - '1900s'
   - 'britpop'
-stub: true
 ---
 
 ## Supergrass

@@ -1,12 +1,12 @@
 ---
-title: "' 'Matt & Kim'
-'"
+title: "Matt Kim"
+slug: "matt-kim"
 date: 2024-12-29
-original_title: "'Matt & Kim'"
+layout: post
 tags:
   - '@mattandkim'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonos Favorite Song by Matt & Kim: "Daylight - Milk and Vodka Remix"</h1> <!-- Introductory Text -->
 <p >Updated January 1, 2009, with "Daylight - Milk and Vodka Remix" by Matt & Kim. This vibrant remix adds an electrifying twist to the original indie pop anthem, making it a dance floor favorite. Watch the video below!</p> <!-- Featured Image -->

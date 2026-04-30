@@ -1,15 +1,12 @@
 ---
-title: "Amadou & Mariam"
+title: "Amadou Mariam"
+slug: "amadou-mariam"
 date: 2008-01-01
-category: "artist"
-track_count: 2
-first_year: 2008
-last_year: 2008
+layout: post
 tags:
   - '@amadou-mariam'
   - '00s-10s'
   - 'afropop'
-stub: true
 ---
 
 ## Amadou & Mariam

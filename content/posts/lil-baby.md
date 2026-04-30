@@ -1,10 +1,8 @@
 ---
 title: "Lil Baby"
+slug: "lil-baby"
 date: 2025-01-03
-category: "artist"
-track_count: 3
-first_year: 2018
-last_year: 2025
+layout: post
 tags:
   - '@lil-baby'
   - '@lil-baby-21-savage'
@@ -12,7 +10,6 @@ tags:
   - '00s-10s'
   - '2020s'
   - 'melodic rap'
-stub: true
 ---
 
 ## Lil Baby

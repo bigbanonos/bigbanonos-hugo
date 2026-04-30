@@ -1,10 +1,8 @@
 ---
-title: "DaBaby"
+title: "Dababy"
+slug: "dababy"
 date: 2026-01-30
-category: "artist"
-track_count: 18
-first_year: 1985
-last_year: 2026
+layout: post
 tags:
   - '@dababy'
   - '@dababy-davido'
@@ -18,7 +16,6 @@ tags:
   - 'skate punk'
   - 'hardcore punk'
   - 'ska punk'
-stub: true
 ---
 
 ## DaBaby

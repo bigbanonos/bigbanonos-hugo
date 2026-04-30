@@ -1,17 +1,14 @@
 ---
-title: "Plies;Ashanti"
+title: "Plies Ashanti"
+slug: "plies-ashanti"
 date: 2008-12-12
-category: "artist"
-track_count: 2
-first_year: 2007
-last_year: 2008
+layout: post
 tags:
   - '@plies-ashanti'
   - '@plies-akon'
   - '00s-10s'
   - 'southern hip hop'
   - 'r&b'
-stub: true
 ---
 
 ## Plies;Ashanti

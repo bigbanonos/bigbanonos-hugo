@@ -1,12 +1,12 @@
 ---
-title: "' 'JosÃƒÆ’Ã‚Â© GonzÃƒÆ’Ã‚Â¡lez'
-'"
+title: "Jose Gonzalez"
+slug: "jose-gonzalez"
 date: 2024-12-12
-original_title: "'JosÃƒÆ’Ã‚Â© GonzÃƒÆ’Ã‚Â¡lez'"
+layout: post
 tags:
   - '@josegonzalez'
-layout: post
 ---
+
 <!-- Post Title -->
 <h1 >BigBanonos' Favorite Tracks: JosÃƒÆ’Ã‚Â© GonzÃƒÆ’Ã‚Â¡lez - "Every Age"</h1> <!-- Introductory Text -->
 <p >Updated February 17, 2015, with "Every Age" by JosÃƒÆ’Ã‚Â© GonzÃƒÆ’Ã‚Â¡lez. This hauntingly beautiful track showcases GonzÃƒÆ’Ã‚Â¡lez's signature style of introspective folk with delicate acoustic melodies and poignant lyrics. "Every Age" is a prime example of his ability to capture profound emotions through minimalistic yet powerful arrangements.</p> <!-- Featured Image -->

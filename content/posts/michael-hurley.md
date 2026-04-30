@@ -1,16 +1,13 @@
 ---
 title: "Michael Hurley"
+slug: "michael-hurley"
 date: 1976-01-01
-category: "artist"
-track_count: 3
-first_year: 1964
-last_year: 1976
+layout: post
 tags:
   - '@michael-hurley'
   - '1900s'
   - 'anti-folk'
   - 'folk'
-stub: true
 ---
 
 ## Michael Hurley

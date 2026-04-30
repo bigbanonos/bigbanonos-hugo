@@ -1,14 +1,11 @@
 ---
 title: "Levi Turner"
+slug: "levi-turner"
 date: 2026-01-09
-category: "artist"
-track_count: 7
-first_year: 2023
-last_year: 2026
+layout: post
 tags:
   - '@levi-turner'
   - '2020s'
-stub: true
 ---
 
 ## Levi Turner

@@ -1,12 +1,12 @@
 ---
-title: "' 'Team Rilla'
-'"
+title: "Team Rilla"
+slug: "team-rilla"
 date: 2025-01-10
-original_title: "'Team Rilla'"
+layout: post
 tags:
   - '@teamrilla'
-layout: post
 ---
+
 <div class="post-title"> <h1>BigBanonos' Favorite Songs by Team Rilla</h1>
 </div>
 <p>Updated January 10, 2025 with "Fete Tonight" from the <i>Sun Tann Riddim</i>, highlighted in the playlist below:</p>

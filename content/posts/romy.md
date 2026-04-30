@@ -1,14 +1,11 @@
 ---
 title: "Romy"
+slug: "romy"
 date: 2023-09-08
-category: "artist"
-track_count: 3
-first_year: 2023
-last_year: 2023
+layout: post
 tags:
   - '@romy'
   - '2020s'
-stub: true
 ---
 
 ## Romy

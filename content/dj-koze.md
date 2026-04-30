@@ -1,12 +1,12 @@
 ---
-title: "' 'DJ Koze'
-'"
+title: "Dj Koze"
+slug: "dj-koze"
 date: 2024-12-11
-original_title: "'DJ Koze'"
+layout: post
 tags:
   - '@djkoze'
-layout: post
 ---
+
 <!-- Post Title -->
 <h1 >BigBanonos' Favorite Song by DJ Koze</h1> <!-- Introductory Text -->
 <p >Updated April 12, 2018 with "Pick Up" by DJ Koze. This timeless track, released under *Pampa Records*, blends electronica, microhouse, and minimal techno, embodying the soulful grooves of German electronic music.</p> <!-- Featured Image -->

@@ -1,12 +1,12 @@
 ---
-title: "' 'Bench'
-'"
+title: "Bench"
+slug: "bench"
 date: 2024-11-03
-original_title: "'Bench - 2 Songs'"
+layout: post
 tags:
   - '@bench'
-layout: post
 ---
+
 <h2>BigBanonos' Favorite Songs by Bench</h2> <!-- Search Description -->
 <p>BigBanonosâ€™ favorite songs by Bench, featuring the unique sounds of tracks like "Ball Pit" and "Four Things" from their recent releases. Check out more music favorites on BigBanonos.</p> <!-- Spotify Playlist Embed -->
 {{< youtube "embed" >}} <!-- Song Listings -->

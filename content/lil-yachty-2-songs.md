@@ -1,15 +1,15 @@
 ---
-title: "' 'Lil Yachty'
-'"
+title: "Lil Yachty"
+slug: "lil-yachty"
 date: 2024-10-29
-original_title: "'Lil Yachty - 7 Songs'"
+layout: post
 tags:
   - '@drake'
   - '@lilyachty'
   - '@diplo'
   - '@dababy'
-layout: post
 ---
+
 <h2>Lil Yachty: BigBanonos' Top 7 Songs</h2>
 <p>Updated February 2, 2024, with "A Cold Sunday"</p>
 <p><strong>Lil Yachty</strong> brings his melodic rap style to each track, blending modern hip-hop and trap with catchy beats. Hereâ€™s BigBanonos' favorite selection of Lil Yachty songs.</p> <h3>Playlist</h3>

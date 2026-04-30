@@ -1,10 +1,8 @@
 ---
 title: "Duke Ellington"
+slug: "duke-ellington"
 date: 2014-07-29
-category: "artist"
-track_count: 1
-first_year: 2014
-last_year: 2014
+layout: post
 tags:
   - '@duke-ellington'
   - '00s-10s'
@@ -12,7 +10,6 @@ tags:
   - 'big band'
   - 'swing music'
   - 'cool jazz'
-stub: true
 ---
 
 ## Duke Ellington

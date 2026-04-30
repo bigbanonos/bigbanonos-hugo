@@ -1,17 +1,14 @@
 ---
-title: "Gerry Read;Dizzy K Falola"
+title: "Gerry Read Dizzy K Falola"
+slug: "gerry-read-dizzy-k-falola"
 date: 2024-03-22
-category: "artist"
-track_count: 2
-first_year: 2023
-last_year: 2024
+layout: post
 tags:
   - '@gerry-read-dizzy-k-falola'
   - '@gerry-read'
   - '2020s'
   - 'disco house'
   - 'afropop'
-stub: true
 ---
 
 ## Gerry Read;Dizzy K Falola

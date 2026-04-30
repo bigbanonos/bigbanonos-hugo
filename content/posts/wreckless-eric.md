@@ -1,15 +1,12 @@
 ---
 title: "Wreckless Eric"
+slug: "wreckless-eric"
 date: 2001-01-01
-category: "artist"
-track_count: 3
-first_year: 2001
-last_year: 2001
+layout: post
 tags:
   - '@wreckless-eric'
   - '00s-10s'
   - 'power pop'
-stub: true
 ---
 
 ## Wreckless Eric

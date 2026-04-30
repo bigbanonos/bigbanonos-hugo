@@ -1,15 +1,12 @@
 ---
-title: "YoungBoy Never Broke Again"
+title: "Youngboy Never Broke Again"
+slug: "youngboy-never-broke-again"
 date: 2022-09-07
-category: "artist"
-track_count: 2
-first_year: 2019
-last_year: 2022
+layout: post
 tags:
   - '@youngboy-never-broke-again'
   - '00s-10s'
   - '2020s'
-stub: true
 ---
 
 ## YoungBoy Never Broke Again

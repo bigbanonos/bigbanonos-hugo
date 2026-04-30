@@ -1,10 +1,8 @@
 ---
-title: "Lil' Keke;UGK;Paul Wall"
+title: "Lil Keke Ugk Paul Wall"
+slug: "lil-keke-ugk-paul-wall"
 date: 2018-07-13
-category: "artist"
-track_count: 4
-first_year: 1998
-last_year: 2018
+layout: post
 tags:
   - '@lil-keke-ugk-paul-wall'
   - '@lil-keke-big-pokey-mike-jones'
@@ -15,7 +13,6 @@ tags:
   - 'southern hip hop'
   - 'crunk'
   - 'old school hip hop'
-stub: true
 ---
 
 ## Lil' Keke;UGK;Paul Wall

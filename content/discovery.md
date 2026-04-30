@@ -1,12 +1,12 @@
 ---
-title: "' 'Discovery'
-'"
+title: "Discovery"
+slug: "discovery"
 date: 2024-12-17
-original_title: "'Discovery'"
+layout: post
 tags:
   - '@discovery'
-layout: post
 ---
+
 <h2>Discovery â€“ Essential Tracks</h2> <div > <img src="https://s3.amazonaws.com/dev1.mtimg.com/product_photos/imgs/000/096/404/full/ROSTAM_Bundle2.png?1726164705" alt="Discovery" width="400" />
 </div> {{< youtube "embed" >}} <h3>Highlighted Tracks</h3>
 <ul> <li><strong>Swing Tree</strong> â€“ <em>LP (Deluxe Edition)</em> (2022)</li> <li><strong>Orange Shirt - Rock Remix</strong> â€“ <em>LP (Deluxe Edition)</em> (2022)</li> <li><strong>Orange Shirt</strong> â€“ <em>LP</em> (2009)</li> <li><strong>Osaka Loop Line</strong> â€“ <em>LP</em> (2009)</li> <li><strong>So Insane</strong> â€“ <em>LP</em> (2009)</li>

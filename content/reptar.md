@@ -1,12 +1,12 @@
 ---
-title: "' 'Reptar'
-'"
+title: "Reptar"
+slug: "reptar"
 date: 2024-12-29
-original_title: "'Reptar'"
+layout: post
 tags:
   - '@reptar'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonos Favorite Song by Reptar: "Houseboat Babies"</h1> <!-- Introductory Text -->
 <p >Updated May 1, 2012, with "Houseboat Babies" by Reptar. This vibrant and infectious track from their album *Body Faucet*, released under Vagrant Records, showcases their signature shimmer pop sound and Athens indie roots. Watch and listen below!</p> <!-- Featured Image -->

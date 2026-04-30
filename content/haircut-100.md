@@ -1,12 +1,12 @@
 ---
-title: "' 'Haircut 100'
-'"
+title: "Haircut 100"
+slug: "haircut-100"
 date: 2024-12-29
-original_title: "'Haircut 100'"
+layout: post
 tags:
   - '@haircut100'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonos Favorite Song by Haircut 100: "Love Plus One"</h1> <!-- Introductory Text -->
 <p >Updated January 1, 1982, with "Love Plus One" by Haircut 100. This iconic track from the album *Pelican West Plus* blends brit fun, new romantic, and sophisti-pop vibes to deliver a timeless new wave classic. Watch the video below!</p> <!-- Featured Image -->

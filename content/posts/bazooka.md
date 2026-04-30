@@ -1,14 +1,11 @@
 ---
 title: "Bazooka"
+slug: "bazooka"
 date: 2013-05-21
-category: "artist"
-track_count: 2
-first_year: 2013
-last_year: 2013
+layout: post
 tags:
   - '@bazooka'
   - '00s-10s'
-stub: true
 ---
 
 ## Bazooka

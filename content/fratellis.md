@@ -1,12 +1,12 @@
 ---
-title: "' 'Fratellis'
-'"
+title: "Fratellis"
+slug: "fratellis"
 date: 2024-12-28
-original_title: "'Fratellis'"
+layout: post
 tags:
   - '@fratellis'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonos Favorite Song by The Fratellis: "Whistle For The Choir"</h1> <!-- Introductory Text -->
 <p >Updated January 1, 2007, with "Whistle For The Choir" by The Fratellis. This charming track from their debut album *Costello Music* combines garage rock with a melodic, Scottish rock flair. Watch the video below!</p> <!-- Featured Image -->

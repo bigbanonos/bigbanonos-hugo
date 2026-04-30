@@ -1,8 +1,8 @@
 ---
 title: "Ashnikko"
+slug: "ashnikko"
 date: 2023-08-25
-category: "1off"
-era: "2020s"
+layout: post
 tags:
   - '@ashnikko'
   - '1-off'

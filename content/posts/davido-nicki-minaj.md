@@ -1,10 +1,8 @@
 ---
-title: "Davido;Nicki Minaj"
+title: "Davido Nicki Minaj"
+slug: "davido-nicki-minaj"
 date: 2020-11-12
-category: "artist"
-track_count: 4
-first_year: 2017
-last_year: 2020
+layout: post
 tags:
   - '@davido-nicki-minaj'
   - '@davido'
@@ -16,7 +14,6 @@ tags:
   - 'afrobeat'
   - 'afropop'
   - 'afropiano'
-stub: true
 ---
 
 ## Davido;Nicki Minaj

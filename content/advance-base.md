@@ -1,12 +1,12 @@
 ---
-title: "' 'Advance Base'
-'"
+title: "Advance Base"
+slug: "advance-base"
 date: 2024-12-13
-original_title: "'Advance Base'"
+layout: post
 tags:
   - '@advancebase'
-layout: post
 ---
+
 <!-- Post Title -->
 <h1 >BigBanonos' Favorite Song by Advance Base</h1> <!-- Introductory Text -->
 <p >Updated August 21, 2015, with BigBanonos' favorite song by Advance Base, "Summon Satan," from the album *Nephew in the Wild (Deluxe Edition)*. Watch the video and see more details below:</p> <!-- Featured Image -->

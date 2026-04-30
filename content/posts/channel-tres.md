@@ -1,15 +1,12 @@
 ---
 title: "Channel Tres"
+slug: "channel-tres"
 date: 2019-06-06
-category: "artist"
-track_count: 2
-first_year: 2019
-last_year: 2019
+layout: post
 tags:
   - '@channel-tres'
   - '00s-10s'
   - 'hip house'
-stub: true
 ---
 
 ## Channel Tres

@@ -1,12 +1,12 @@
 ---
-title: "' 'Russian Futurists'
-'"
+title: "Russian Futurists"
+slug: "russian-futurists"
 date: 2024-12-29
-original_title: "'Russian Futurists'"
+layout: post
 tags:
   - '@russianfuturists'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonos Favorite Song by Russian Futurists: "Precious Metals"</h1> <!-- Introductory Text -->
 <p >Updated in 2002 with "Precious Metals" by Russian Futurists. From the album *Let's Get Ready To Crumble*, released under Upper Class Recordings, this track exemplifies the unique charm of this one-person Ontario indie band. Watch and listen below!</p> <!-- Featured Image -->

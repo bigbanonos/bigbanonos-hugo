@@ -1,12 +1,12 @@
 ---
-title: "' 'Akinyele'
-'"
+title: "Akinyele"
+slug: "akinyele"
 date: 2024-12-26
-original_title: "'Akinyele'"
+layout: post
 tags:
   - '@akinyele'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonos Favorite Song by Akinyele: "Put It In My Mouth"</h1> <!-- Introductory Text -->
 <p >Updated November 5, 1996, with "Put It In My Mouth" by Akinyele. This provocative and unapologetically bold track showcases Akinyeleâ€™s unique style and lyrical confidence. Watch the video below!</p> <!-- Featured Image -->

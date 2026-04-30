@@ -1,12 +1,12 @@
 ---
-title: "' 'The Offspring'
-'"
+title: "The Offspring"
+slug: "the-offspring"
 date: 2025-02-10
-original_title: "'The Offspring'"
+layout: post
 tags:
   - '@offspring'
-layout: post
 ---
+
 <!-- The Offspring -->
 <img src="https://i.scdn.co/image/ab67616d0000b273cbd2ee7dff77bfb2b5f0af52" /> <p><strong>Updated November 16, 1998 with "Pretty Fly (For A White Guy)" from <em>Americana</em></strong></p> <p><strong>"Pretty Fly (For A White Guy)"</strong> â€“ <em>Americana</em> (Concord Records, 1998)</p>
 <p><strong>"Why Don't You Get A Job"</strong> â€“ <em>Americana</em> (Concord Records, 1998)</p>

@@ -1,8 +1,8 @@
 ---
 title: "Alaska Reid"
+slug: "alaska-reid"
 date: 2020-08-05
-category: "1off"
-era: "2020s"
+layout: post
 tags:
   - '@alaskareid'
   - '1-off'

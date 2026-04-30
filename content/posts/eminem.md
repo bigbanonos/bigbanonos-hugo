@@ -1,10 +1,8 @@
 ---
 title: "Eminem"
+slug: "eminem"
 date: 2024-09-13
-category: "artist"
-track_count: 12
-first_year: 1999
-last_year: 2024
+layout: post
 tags:
   - '@eminem'
   - '@eminem-2-chainz'
@@ -21,7 +19,6 @@ tags:
   - 'hip hop'
   - 'west coast hip hop'
   - 'g-funk'
-stub: true
 ---
 
 ## Eminem

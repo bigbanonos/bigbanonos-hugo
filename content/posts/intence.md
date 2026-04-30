@@ -1,10 +1,8 @@
 ---
 title: "Intence"
+slug: "intence"
 date: 2025-11-07
-category: "artist"
-track_count: 17
-first_year: 2017
-last_year: 2025
+layout: post
 tags:
   - '@intence'
   - '@intence-countree-hype'
@@ -14,7 +12,6 @@ tags:
   - 'dancehall'
   - 'soca'
   - 'gengetone'
-stub: true
 ---
 
 ## Intence

@@ -1,12 +1,12 @@
 ---
-title: "' 'The DÃƒÆ’Ã‚Â¸'
-'"
+title: "The D"
+slug: "the-d"
 date: 2025-01-19
-original_title: "'The DÃƒÆ’Ã‚Â¸'"
+layout: post
 tags:
   - '@thedÃƒÆ’Ã‚Â¸'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by The DÃƒÆ’Ã‚Â¸</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/0d94f0d43132aa9762a9958e4eba50c049d956ce" alt="The DÃƒÆ’Ã‚Â¸" >}}

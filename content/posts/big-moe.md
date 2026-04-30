@@ -1,16 +1,13 @@
 ---
 title: "Big Moe"
+slug: "big-moe"
 date: 2007-12-18
-category: "artist"
-track_count: 6
-first_year: 2007
-last_year: 2007
+layout: post
 tags:
   - '@big-moe'
   - '00s-10s'
   - 'southern hip hop'
   - 'egyptian hip hop'
-stub: true
 ---
 
 ## Big Moe

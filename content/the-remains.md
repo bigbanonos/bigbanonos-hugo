@@ -1,12 +1,12 @@
 ---
-title: "' 'The Remains'
-'"
+title: "The Remains"
+slug: "the-remains"
 date: 2024-12-29
-original_title: "'The Remains'"
+layout: post
 tags:
   - '@remains'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonos Favorite Song by The Remains: "Don't Tell Me the Truth"</h1> <!-- Introductory Text -->
 <p >Updated January 1, 2002, with "Don't Tell Me the Truth" by The Remains. This energetic track from their album *Movin' On*, released under Rock-A-Lot Records, is a quintessential piece of classic garage rock with a timeless charm. Watch and listen below!</p> <!-- Featured Image -->

@@ -1,12 +1,12 @@
 ---
-title: "' 'Ravyn Lenae'
-'"
+title: "Ravyn Lenae"
+slug: "ravyn-lenae"
 date: 2024-12-20
-original_title: "'Ravyn Lenae - 4 Songs'"
+layout: post
 tags:
   - '@stevelacy'
-layout: post
 ---
+
 <h1>BigBanonos Top Songs by Ravyn Lenae</h1>
 {{< img-lite src="https://media.npr.org/assets/img/2018/03/20/ravyn-lenae-jingyu-lin_wide-9c2de06b55ff1e1080bce1028104408914a06859.jpg?s=1100&c=85&f=jpeg" alt="Ravyn Lenae" >}} <p>Ravyn Lenaeâ€™s smooth, soulful voice and unique style bring a fresh sound to alternative R&B. Her music explores love, vulnerability, and empowerment. Here are BigBanonos' top selections:</p> <ol> <li><strong>Light Me Up</strong> | <em>Light Me Up</em> | Atlantic Records | Released: March 18, 2022</li> <li><strong>The Night Song</strong> | <em>Crush EP</em> | Atlantic Records/Three Twenty Three Music Group | Released: February 9, 2018</li> <li><strong>Sticky</strong> | <em>Sticky</em> | Atlantic Records/Three Twenty Three Music Group | Released: December 8, 2017</li> <li><strong>Skin Tight</strong> (feat. Steve Lacy) | <em>Skin Tight (feat. Steve Lacy)</em> | Atlantic Records | Released: February 1, 2022</li>
 </ol> <div> {{< youtube "embed" >}}

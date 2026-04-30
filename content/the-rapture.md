@@ -1,12 +1,12 @@
 ---
-title: "' 'The Rapture'
-'"
+title: "The Rapture"
+slug: "the-rapture"
 date: 2024-12-17
-original_title: "'The Rapture'"
+layout: post
 tags:
   - '@rapture'
-layout: post
 ---
+
 <h1>BigBanonos Top Songs by The Rapture</h1>
 <div class="separator"> <a href="https://i.scdn.co/image/0d5f9ab947edf8f3f7957086668af63b7c239532" > <img alt="The Rapture" border="0" width="320" data-original-height="480" data-original-width="640" src="https://i.scdn.co/image/0d5f9ab947edf8f3f7957086668af63b7c239532"/> </a>
 </div>

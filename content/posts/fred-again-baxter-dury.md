@@ -1,10 +1,8 @@
 ---
-title: "Fred again..;Baxter Dury"
+title: "Fred Again Baxter Dury"
+slug: "fred-again-baxter-dury"
 date: 2026-02-13
-category: "artist"
-track_count: 6
-first_year: 2021
-last_year: 2026
+layout: post
 tags:
   - '@fred-again-baxter-dury'
   - '@fred-again'
@@ -17,7 +15,6 @@ tags:
   - 'house'
   - 'edm'
   - 'alternative r&b'
-stub: true
 ---
 
 ## Fred again..;Baxter Dury

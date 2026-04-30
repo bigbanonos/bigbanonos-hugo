@@ -1,17 +1,14 @@
 ---
 title: "The New Pornographers"
+slug: "the-new-pornographers"
 date: 2007-08-20
-category: "artist"
-track_count: 4
-first_year: 2003
-last_year: 2007
+layout: post
 tags:
   - '@the-new-pornographers'
   - '00s-10s'
   - 'power pop'
   - 'indie rock'
   - 'indie'
-stub: true
 ---
 
 ## The New Pornographers

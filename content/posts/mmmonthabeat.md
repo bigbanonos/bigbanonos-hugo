@@ -1,15 +1,12 @@
 ---
-title: "MMMonthabeat"
+title: "Mmmonthabeat"
+slug: "mmmonthabeat"
 date: 2026-02-25
-category: "artist"
-track_count: 3
-first_year: 2024
-last_year: 2026
+layout: post
 tags:
   - '@mmmonthabeat'
   - '@mmmonthabeat-ai-slaps'
   - '2020s'
-stub: true
 ---
 
 ## MMMonthabeat

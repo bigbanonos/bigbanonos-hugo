@@ -1,10 +1,8 @@
 ---
-title: "XXXTENTACION"
+title: "Xxxtentacion"
+slug: "xxxtentacion"
 date: 2020-12-09
-category: "artist"
-track_count: 59
-first_year: 2017
-last_year: 2020
+layout: post
 tags:
   - '@xxxtentacion'
   - '@kodak-black-xxxtentacion'
@@ -23,7 +21,6 @@ tags:
   - 'rap'
   - 'hip hop'
   - 'reggae'
-stub: true
 ---
 
 ## XXXTENTACION

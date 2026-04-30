@@ -1,12 +1,12 @@
 ---
-title: "' 'Soviet'
-'"
+title: "Soviet"
+slug: "soviet"
 date: 2024-12-30
-original_title: "'Soviet'"
+layout: post
 tags:
   - '@soviet'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonos Favorite Song by Soviet: "Candy Girl"</h1> <!-- Introductory Text -->
 <p >Updated with "Candy Girl" by Soviet. This 2001 synth-infused indie track will transport you to another era. Watch the video below!</p> <!-- Featured Image -->

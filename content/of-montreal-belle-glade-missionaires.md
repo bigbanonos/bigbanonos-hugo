@@ -1,12 +1,12 @@
 ---
-title: "' 'Of Montreal'
-'"
+title: "Of Montreal Belle Glade Missionaires"
+slug: "of-montreal-belle-glade-missionaires"
 date: 2025-02-10
-original_title: "'Of Montreal'"
+layout: post
 tags:
   - '@ofmontreal'
-layout: post
 ---
+
 <!-- Of Montreal -->
 <img src="https://i.scdn.co/image/ab676161000051748afe984471a6470fac5cc1b6" /> <p><strong>Updated October 8, 2013 with "Triumph of Disintegration" from <em>Lousy with Sylvianbriar</em></strong></p> {{< youtube "L0Y0VcxR5x0" >}} <p><strong>"Triumph of Disintegration"</strong> â€“ <em>Lousy with Sylvianbriar</em> (Polyvinyl Records, 2013)</p>
 <p><strong>"She Ain't Speakin' Now"</strong> â€“ <em>Lousy with Sylvianbriar</em> (Polyvinyl Records, 2013)</p>

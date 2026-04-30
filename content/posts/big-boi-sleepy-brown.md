@@ -1,10 +1,8 @@
 ---
-title: "Big Boi;Sleepy Brown"
+title: "Big Boi Sleepy Brown"
+slug: "big-boi-sleepy-brown"
 date: 2021-12-10
-category: "artist"
-track_count: 8
-first_year: 2010
-last_year: 2021
+layout: post
 tags:
   - '@big-boi-sleepy-brown'
   - '@big-boi-gucci-mane'
@@ -17,7 +15,6 @@ tags:
   - 'rap'
   - 'trap'
   - 'crunk'
-stub: true
 ---
 
 ## Big Boi;Sleepy Brown

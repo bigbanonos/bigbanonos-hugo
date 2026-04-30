@@ -1,17 +1,14 @@
 ---
 title: "Royal Headache"
+slug: "royal-headache"
 date: 2015-08-21
-category: "artist"
-track_count: 3
-first_year: 2012
-last_year: 2015
+layout: post
 tags:
   - '@royal-headache'
   - '00s-10s'
   - 'garage rock'
   - 'power pop'
   - 'indie punk'
-stub: true
 ---
 
 ## Royal Headache

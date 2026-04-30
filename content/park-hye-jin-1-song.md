@@ -1,14 +1,14 @@
 ---
-title: "' 'ÃƒÂ«Ã‚Â°Ã¢â‚¬Â¢ÃƒÂ­Ã‹Å“Ã…â€œÃƒÂ¬Ã‚Â§Ã¢â‚¬Å¾ Park Hye Jin'
-'"
+title: "Park Hye Jin"
+slug: "park-hye-jin"
 date: 2021-08-14
-original_title: "'ÃƒÂ«Ã‚Â°Ã¢â‚¬Â¢ÃƒÂ­Ã‹Å“Ã…â€œÃƒÂ¬Ã‚Â§Ã¢â‚¬Å¾ Park Hye Jin - 1 Song'"
+layout: post
 tags:
   - '@takeadaytrip'
   - '@parkhyejin'
   - '@clamscasino'
-layout: post
 ---
+
 {{< youtube "I2fno7DEgXI" >}}<br /><h2><ol><li>(ft. Clams Casino & Take A Daytrip)' Y DONâ€™T U [2021]</li></ol></h2>
 
 <!--Subscribe and Playlist Links-->

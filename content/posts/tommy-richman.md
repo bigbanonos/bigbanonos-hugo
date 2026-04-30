@@ -1,14 +1,11 @@
 ---
 title: "Tommy Richman"
+slug: "tommy-richman"
 date: 2024-06-14
-category: "artist"
-track_count: 3
-first_year: 2023
-last_year: 2024
+layout: post
 tags:
   - '@tommy-richman'
   - '2020s'
-stub: true
 ---
 
 ## Tommy Richman

@@ -1,7 +1,8 @@
 ---
 title: "Gelli Haha"
+slug: "gelli-haha"
 date: 2026-04-16
-category: "artist"
+layout: post
 tags:
   - '@gellihaha'
 ---

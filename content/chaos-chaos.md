@@ -1,12 +1,12 @@
 ---
-title: "' 'Chaos Chaos'
-'"
+title: "Chaos Chaos"
+slug: "chaos-chaos"
 date: 2024-12-03
-original_title: "'Chaos Chaos'"
+layout: post
 tags:
   - '@chaoschaos'
-layout: post
 ---
+
 <!-- Post Title -->
 <h1 >BigBanonos' Favorite Song by Chaos Chaos</h1> <!-- Introductory Text -->
 <p >Updated October 7, 2014, with BigBanonos' favorite track, "Breaker" by Chaos Chaos. This la indie gem comes from their EP *Committed to the Crime* and showcases the duo's unique pop sensibilities.</p> <!-- Featured Image -->

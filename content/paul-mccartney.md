@@ -1,12 +1,12 @@
 ---
-title: "' 'Paul McCartney'
-'"
+title: "Paul Mccartney"
+slug: "paul-mccartney"
 date: 2025-01-18
-original_title: "'Paul McCartney'"
+layout: post
 tags:
   - '@paulmccartney'
-layout: post
 ---
+
 <!-- Introductory Text -->
 <p >Paul McCartneyâ€™s legendary career has gifted us with unforgettable melodies and profound lyrics. Relive his timeless classics below!</p> <!-- Featured Image -->
 <div > <img src="https://media.newyorker.com/photos/590976142179605b11ad8417/master/pass/160425_r28058.jpg" alt="Paul McCartney" />

@@ -1,16 +1,13 @@
 ---
 title: "Lady"
+slug: "lady"
 date: 2014-05-01
-category: "artist"
-track_count: 4
-first_year: 2013
-last_year: 2014
+layout: post
 tags:
   - '@lady'
   - '00s-10s'
   - 'krautrock'
   - 'progressive rock'
-stub: true
 ---
 
 ## Lady

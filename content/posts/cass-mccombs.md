@@ -1,17 +1,14 @@
 ---
-title: "Cass McCombs"
+title: "Cass Mccombs"
+slug: "cass-mccombs"
 date: 2013-10-14
-category: "artist"
-track_count: 6
-first_year: 2009
-last_year: 2013
+layout: post
 tags:
   - '@cass-mccombs'
   - '@cass-mccombs-karen-black'
   - '00s-10s'
   - 'baroque pop'
   - 'singer-songwriter'
-stub: true
 ---
 
 ## Cass McCombs

@@ -1,10 +1,8 @@
 ---
-title: "Ayra Starr;CKay"
+title: "Ayra Starr Ckay"
+slug: "ayra-starr-ckay"
 date: 2021-08-06
-category: "artist"
-track_count: 2
-first_year: 2021
-last_year: 2021
+layout: post
 tags:
   - '@ayra-starr-ckay'
   - '@ayra-starr'
@@ -13,7 +11,6 @@ tags:
   - 'afrobeat'
   - 'afropop'
   - 'afro r&b'
-stub: true
 ---
 
 ## Ayra Starr;CKay

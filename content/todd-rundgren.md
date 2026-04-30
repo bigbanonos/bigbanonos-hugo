@@ -1,12 +1,12 @@
 ---
-title: "' 'Todd Rundgren'
-'"
+title: "Todd Rundgren"
+slug: "todd-rundgren"
 date: 2025-01-10
-original_title: "'Todd Rundgren'"
+layout: post
 tags:
   - '@toddrundgren'
-layout: post
 ---
+
 <div class="post-title"> <h1>BigBanonos' Favorite Songs by Todd Rundgren</h1>
 </div>
 <p>Updated 1982, with "Bang the Drum All Day" from the album <i>The Ever Popular Tortured Artist Effect</i>, highlighted in the playlist below:</p>

@@ -1,16 +1,13 @@
 ---
-title: "DJ Sabrina The Teenage DJ"
+title: "Dj Sabrina The Teenage Dj"
+slug: "dj-sabrina-the-teenage-dj"
 date: 2025-02-17
-category: "artist"
-track_count: 8
-first_year: 2021
-last_year: 2025
+layout: post
 tags:
   - '@dj-sabrina-the-teenage-dj'
   - '2020s'
   - 'plunderphonics'
   - 'lo-fi house'
-stub: true
 ---
 
 ## DJ Sabrina The Teenage DJ

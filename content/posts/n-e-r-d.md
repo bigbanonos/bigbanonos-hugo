@@ -1,10 +1,8 @@
 ---
-title: "N.E.R.D"
+title: "N E R D"
+slug: "n-e-r-d"
 date: 2017-12-15
-category: "artist"
-track_count: 6
-first_year: 2002
-last_year: 2017
+layout: post
 tags:
   - '@n-e-r-d'
   - '@n-e-r-d-kendrick-lamar-pharrell-williams'
@@ -14,7 +12,6 @@ tags:
   - '00s-10s'
   - 'hip hop'
   - 'west coast hip hop'
-stub: true
 ---
 
 ## N.E.R.D

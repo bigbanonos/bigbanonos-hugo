@@ -1,7 +1,8 @@
 ---
-title: "Callahan & Witscher"
+title: "Callahan Witscher"
+slug: "callahan-witscher"
 date: 2026-03-13
-category: "artist"
+layout: post
 tags:
   - '@callahanwitscher'
   - '@fgs'

@@ -1,10 +1,8 @@
 ---
-title: "Future;Drake;Tems"
+title: "Future Drake Tems"
+slug: "future-drake-tems"
 date: 2022-04-29
-category: "artist"
-track_count: 2
-first_year: 2012
-last_year: 2022
+layout: post
 tags:
   - '@future-drake-tems'
   - '@future'
@@ -14,7 +12,6 @@ tags:
   - 'afrobeats'
   - 'afro r&b'
   - 'alté'
-stub: true
 ---
 
 ## Future;Drake;Tems

@@ -1,7 +1,8 @@
 ---
 title: "Yellow Trash Can"
+slug: "yellow-trash-can"
 date: 2026-03-13
-category: "artist"
+layout: post
 tags:
   - '@yellowtrashcan'
   - '@key!'

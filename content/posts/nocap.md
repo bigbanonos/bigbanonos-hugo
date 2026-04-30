@@ -1,15 +1,12 @@
 ---
-title: "NoCap"
+title: "Nocap"
+slug: "nocap"
 date: 2022-04-21
-category: "artist"
-track_count: 3
-first_year: 2021
-last_year: 2022
+layout: post
 tags:
   - '@nocap'
   - '@nocap-kodak-black'
   - '2020s'
-stub: true
 ---
 
 ## NoCap

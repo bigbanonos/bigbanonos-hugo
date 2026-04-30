@@ -1,12 +1,12 @@
 ---
-title: "' 'Carl BarÃƒÆ’Ã‚Â¢t'
-'"
+title: "Carl Barat"
+slug: "carl-barat"
 date: 2024-12-03
-original_title: "'Carl BarÃƒÆ’Ã‚Â¢t'"
+layout: post
 tags:
   - '@carlbarat'
-layout: post
 ---
+
 <!-- Post Title -->
 <h1 >BigBanonos' Favorite Song by Carl BarÃƒÆ’Ã‚Â¢t</h1> <!-- Introductory Text -->
 <p >Updated February 17, 2015, with BigBanonos' favorite track, "Beginning To See" by Carl BarÃƒÆ’Ã‚Â¢t & The Jackals. This standout from the album *Let It Reign* blends British alternative rock and garage rock revival vibes.</p> <!-- Featured Image -->

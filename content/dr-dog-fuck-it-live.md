@@ -1,12 +1,12 @@
 ---
-title: "' 'Dr. Dog'
-'"
+title: "Dr Dog Fuck It Live"
+slug: "dr-dog-fuck-it-live"
 date: 2024-11-24
-original_title: "'Dr. Dog'"
+layout: post
 tags:
   - '@drdog'
-layout: post
 ---
+
 <h2>Dr. Dog â€“ Essential Tracks</h2> <div > <img src="https://backend.xpn.org/app/uploads/2024/05/441530675_996870801804428_6751679856665880722_n.jpg" alt="Dr. Dog" width="400" />
 </div> {{< youtube "embed" >}} <h3>#notonspotify</h3>
 <p>Live Performance: <strong>Fuck It (Live) â€“ 2008</strong></p>

@@ -1,12 +1,12 @@
 ---
-title: "' 'Weather Station'
-'"
+title: "Weather Station"
+slug: "weather-station"
 date: 2025-01-10
-original_title: "'Weather Station'"
+layout: post
 tags:
   - '@weatherstation'
-layout: post
 ---
+
 <div class="post-title"> <h1>BigBanonos' Favorite Songs by The Weather Station</h1>
 </div>
 <p>Updated September 29, 2021, with "Better Now" from the album <i>Ignorance (Deluxe Version)</i>, highlighted in the playlist below:</p>

@@ -1,15 +1,12 @@
 ---
 title: "The Unicorns"
+slug: "the-unicorns"
 date: 2014-07-29
-category: "artist"
-track_count: 9
-first_year: 2014
-last_year: 2014
+layout: post
 tags:
   - '@the-unicorns'
   - '00s-10s'
   - 'anti-folk'
-stub: true
 ---
 
 ## The Unicorns

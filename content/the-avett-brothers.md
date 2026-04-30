@@ -1,12 +1,12 @@
 ---
-title: "' 'The Avett Brothers'
-'"
+title: "The Avett Brothers"
+slug: "the-avett-brothers"
 date: 2025-02-12
-original_title: "'The Avett Brothers'"
+layout: post
 tags:
   - '@avettbrothers'
-layout: post
 ---
+
 <h3>BigBanonos Favorite Tracks: The Avett Brothers</h3>
 <div> {{< img-lite src="https://ew.com/thmb/hKkSLZ-Ap5mANGpUyLJlAU9iylI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/avett-brothers_0-62480e99c41b4c079c8415b6171e6fda.jpg" alt="The Avett Brothers" >}}
 </div> <p>

@@ -1,16 +1,16 @@
 ---
-title: "' 'Kamaiyah'
-'"
+title: "Kamaiyah"
+slug: "kamaiyah"
 date: 2024-12-20
-original_title: "'Kamaiyah - 7 Songs'"
+layout: post
 tags:
   - '@quavo'
   - '@tyga'
   - '@capolo'
   - '@dejloaf'
   - '@kamaiyah'
-layout: post
 ---
+
 <h1>Kamaiyah: Top Songs</h1>
 {{< img-lite src="https://media.newyorker.com/photos/5a146c1707ff5466ea9a14a0/4:3/w_1940,h_1455,c_limit/DSF-The-Upbeat-Nostalgia-of-Kamaiyahs-Before-I-Wake.jpg" alt="Kamaiyah - The Upbeat Nostalgia" >}} <p>Kamaiyahâ€™s unique blend of alternative R&B and Oakland hip hop has cemented her as a distinctive voice in the genre. Here are some top tracks that showcase her Cali style and West Coast energy:</p> <ol> <li><strong>I'm Honored</strong> | <em>Keep It Lit</em> | Release Date: December 9, 2022 | Keep It Lit Records</li> <li><strong>Brand New Rolex</strong> | <em>DIVINE TIMING (DELUXE)</em> | Release Date: August 5, 2022 | KAMAIYAH</li> <li><strong>How Does It Feel</strong> | <em>Single</em> | Release Date: April 29, 2016 | Interscope</li> <li><strong>I'm On</strong> | <em>A Good Night in the Ghetto</em> | Release Date: March 23, 2016 | Kamaiyah</li> <li><strong>Gimme Dat</strong> (feat. Capolow) | <em>Oakland Nights</em> | Release Date: September 18, 2020 | Grnd.Wrk, Inc.</li> <li><strong>PLAYA POTNA</strong> (feat. DeJ Loaf) | <em>DIVINE TIMING (DELUXE)</em> | Release Date: August 5, 2022 | KAMAIYAH</li> <li><strong>Windows</strong> (feat. Quavo & Tyga) | <em>Single</em> | Release Date: June 14, 2019 | Interscope Records</li>
 </ol> <div> {{< youtube "embed" >}}

@@ -1,10 +1,8 @@
 ---
 title: "Molly Nilsson"
+slug: "molly-nilsson"
 date: 2022-01-15
-category: "artist"
-track_count: 3
-first_year: 2018
-last_year: 2022
+layout: post
 tags:
   - '@molly-nilsson'
   - '00s-10s'
@@ -12,7 +10,6 @@ tags:
   - 'cold wave'
   - 'darkwave'
   - 'synthpop'
-stub: true
 ---
 
 ## Molly Nilsson

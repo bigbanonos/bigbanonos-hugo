@@ -1,14 +1,11 @@
 ---
 title: "Neil Michael Hagerty"
+slug: "neil-michael-hagerty"
 date: 2003-04-15
-category: "artist"
-track_count: 2
-first_year: 2002
-last_year: 2003
+layout: post
 tags:
   - '@neil-michael-hagerty'
   - '00s-10s'
-stub: true
 ---
 
 ## Neil Michael Hagerty

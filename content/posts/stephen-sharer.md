@@ -1,15 +1,12 @@
 ---
 title: "Stephen Sharer"
+slug: "stephen-sharer"
 date: 2023-05-26
-category: "artist"
-track_count: 14
-first_year: 2017
-last_year: 2023
+layout: post
 tags:
   - '@stephen-sharer'
   - '00s-10s'
   - '2020s'
-stub: true
 ---
 
 ## Stephen Sharer

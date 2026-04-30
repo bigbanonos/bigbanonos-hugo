@@ -1,12 +1,12 @@
 ---
-title: "' 'Karl Blau'
-'"
+title: "Karl Blau"
+slug: "karl-blau"
 date: 2024-12-17
-original_title: "'Karl Blau'"
+layout: post
 tags:
   - '@karlblau'
-layout: post
 ---
+
 <h2>BigBanonos' Favorite Tracks: Karl Blau</h2> <div > <a href="https://static1.squarespace.com/static/5ca2b8cb65019ffa8f77e5ba/t/66b66ba30cb47843626a313f/1723229277466/"> <img src="https://static1.squarespace.com/static/5ca2b8cb65019ffa8f77e5ba/t/66b66ba30cb47843626a313f/1723229277466/" alt="Karl Blau" width="400" /> </a>
 </div> <p>Karl Blau, a versatile artist known for blending alternative country with soulful melodies, has consistently delivered timeless tracks. Here's a <em>BigBanonos</em> selection of his top songs.</p> <h3>Selected Tracks</h3>
 <ol> <li><strong>Slow Down Joe</strong> â€“ <em>Beneath Waves</em> (2006)</li> <li><strong>Into The Nada</strong> â€“ <em>Beneath Waves</em> (2006)</li>

@@ -1,17 +1,14 @@
 ---
 title: "Ama"
+slug: "ama"
 date: 2025-05-30
-category: "artist"
-track_count: 3
-first_year: 2019
-last_year: 2025
+layout: post
 tags:
   - '@ama'
   - '00s-10s'
   - '2020s'
   - 'uk r&b'
   - 'alternative r&b'
-stub: true
 ---
 
 ## Ama

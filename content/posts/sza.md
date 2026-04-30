@@ -1,10 +1,8 @@
 ---
-title: "SZA"
+title: "Sza"
+slug: "sza"
 date: 2024-12-20
-category: "artist"
-track_count: 24
-first_year: 2017
-last_year: 2024
+layout: post
 tags:
   - '@sza'
   - '@sza-calvin-harris-funk-wav'
@@ -19,7 +17,6 @@ tags:
   - 'hip hop'
   - 'west coast hip hop'
   - 'rap'
-stub: true
 ---
 
 ## SZA

@@ -1,12 +1,12 @@
 ---
-title: "' 'Cat Stevens'
-'"
+title: "Cat Stevens"
+slug: "cat-stevens"
 date: 2025-02-12
-original_title: "'Cat Stevens'"
+layout: post
 tags:
   - '@catstevens'
-layout: post
 ---
+
 <div> {{< img-lite src="https://thisis-images.spotifycdn.com/37i9dQZF1DZ06evO00JGQE-default.jpg" alt="Cat Stevens" >}}
 </div> <p>
 BigBanonos' favorite songs by Cat Stevens:

@@ -1,10 +1,8 @@
 ---
-title: "Mustard;NAV;Playboi Carti;A Boogie Wit da Hoodie"
+title: "Mustard Nav Playboi Carti A Boogie Wit Da Hoodie"
+slug: "mustard-nav-playboi-carti-a-boogie-wit-da-hoodie"
 date: 2019-06-28
-category: "artist"
-track_count: 3
-first_year: 2019
-last_year: 2019
+layout: post
 tags:
   - '@mustard-nav-playboi-carti-a-boogie-wit-da-hoodie'
   - '@mustard-nipsey-hussle'
@@ -13,7 +11,6 @@ tags:
   - 'melodic rap'
   - 'rage rap'
   - 'west coast hip hop'
-stub: true
 ---
 
 ## Mustard;NAV;Playboi Carti;A Boogie Wit da Hoodie

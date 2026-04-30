@@ -1,13 +1,13 @@
 ---
-title: "' 'Electric Six'
-'"
+title: "Electric Six"
+slug: "electric-six"
 date: 2024-10-27
-original_title: "'Electric Six - 4 Songs'"
+layout: post
 tags:
   - '@electricsix'
   - '@jackwhite'
-layout: post
 ---
+
 <p>Ãƒâ€šÃ‚Â </p>
 <h3><strong>BigBanonos' Top 4 Songs by Electric Six</strong></h3>
 <p>Updated October 9, 2012 with "Down At McDonnelzzz"</p> <p>{{< youtube "embed" >}}</p> <h4>Selected Tracks</h4>

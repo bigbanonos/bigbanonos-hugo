@@ -1,12 +1,12 @@
 ---
-title: "' 'Daffo'
-'"
+title: "Daffo"
+slug: "daffo"
 date: 2024-12-30
-original_title: "'Daffo'"
+layout: post
 tags:
   - '@daffo'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >Daffo - Winter Hat</h1> <!-- Introductory Text -->
 <p >Daffoâ€™s â€œWinter Hatâ€ is a standout indie rock track with deep, introspective vibes. Watch the official lyric video below!</p> <!-- Featured Image -->

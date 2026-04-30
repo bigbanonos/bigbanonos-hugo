@@ -1,12 +1,12 @@
 ---
-title: "' 'A$AP Ferg'
-'"
+title: "Aap Ferg"
+slug: "aap-ferg"
 date: 2024-12-13
-original_title: "'A$AP Ferg'"
+layout: post
 tags:
   - '@a$apferg'
-layout: post
 ---
+
 <!-- Post Title -->
 <h1 >BigBanonos' Favorite Song by A$AP Ferg (ft. Big Sean)</h1> <!-- Introductory Text -->
 <p >Updated April 22, 2016, with BigBanonos' favorite song by A$AP Ferg, "World Is Mine," featuring Big Sean, from the album *ALWAYS STRIVE AND PROSPER*. Watch the video and see more details below:</p> <!-- Featured Image -->

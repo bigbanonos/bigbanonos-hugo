@@ -1,15 +1,12 @@
 ---
 title: "Bloc Party"
+slug: "bloc-party"
 date: 2005-03-22
-category: "artist"
-track_count: 2
-first_year: 2005
-last_year: 2005
+layout: post
 tags:
   - '@bloc-party'
   - '00s-10s'
   - 'indie rock'
-stub: true
 ---
 
 ## Bloc Party

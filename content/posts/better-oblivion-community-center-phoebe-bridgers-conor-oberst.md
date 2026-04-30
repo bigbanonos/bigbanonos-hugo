@@ -1,10 +1,8 @@
 ---
-title: "Better Oblivion Community Center;Phoebe Bridgers;Conor Oberst"
+title: "Better Oblivion Community Center Phoebe Bridgers Conor Oberst"
+slug: "better-oblivion-community-center-phoebe-bridgers-conor-oberst"
 date: 2020-05-01
-category: "artist"
-track_count: 20
-first_year: 1988
-last_year: 2020
+layout: post
 tags:
   - '@austra-cecile-believe'
   - '@bad-moves'
@@ -23,7 +21,6 @@ tags:
   - 'power pop'
   - 'celtic rock'
   - 'ska'
-stub: true
 ---
 
 ## Better Oblivion Community Center;Phoebe Bridgers;Conor Oberst

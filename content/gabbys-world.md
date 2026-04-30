@@ -1,12 +1,12 @@
 ---
-title: "' 'Gabby's World'
-'"
+title: "Gabbys World"
+slug: "gabbys-world"
 date: 2024-12-13
-original_title: "'Gabby's World'"
+layout: post
 tags:
   - '@gabbysworld'
-layout: post
 ---
+
 <!-- Post Title -->
 <h1 >BigBanonos' Favorite Bubblegrunge Track: Gabby's World - "Broken Necks"</h1> <!-- Introductory Text -->
 <p >Updated May 12, 2015, with "Broken Necks" by Gabby's World. This heartfelt bubblegrunge anthem, featured on the album <em>O.K.</em>, showcases Gabby's World's raw emotional power and unique style.</p> <!-- Featured Image -->

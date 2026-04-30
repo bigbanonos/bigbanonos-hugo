@@ -1,12 +1,12 @@
 ---
-title: "' 'Eddington Again'
-'"
+title: "Eddington Again"
+slug: "eddington-again"
 date: 2025-01-15
-original_title: "'Eddington Again - 2 Songs'"
+layout: post
 tags:
   - '@eddingtonagain'
-layout: post
 ---
+
 <h2 >BigBanonos' Favorite Songs by Eddington Again</h2> <!-- Introductory Text -->
 <p >Eddington Againâ€™s genre-blending artistry continues to captivate listeners with its soulful, experimental vibes. Updated with BigBanonos' top tracks, including "Fav" and "Sweet," this post highlights the standout moments of Eddington Again's discography.</p> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab67616100005174a9d57c1cf1109d923b59678e" alt="Eddington Again Album Cover" >}}

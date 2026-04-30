@@ -1,12 +1,12 @@
 ---
-title: "' 'Cherry Glazerr'
-'"
+title: "Cherry Glazerr Teenage Girl"
+slug: "cherry-glazerr-teenage-girl"
 date: 2024-12-17
-original_title: "'Cherry Glazerr'"
+layout: post
 tags:
   - '@cherryglazerr'
-layout: post
 ---
+
 <h2>Cherry Glazerr â€“ Essential Tracks</h2> <div > <img src="https://www.tinymixtapes.com/sites/default/files/imagecache/Article_Width/1710/cherry-glazerr.jpg" alt="Cherry Glazerr" width="500" />
 </div> {{< youtube "embed" >}} <h3>Tracklist</h3>
 <ul> <li><strong>Daddi</strong> â€“ <em>Daddi</em> (2018)</li> <li><strong>Teenage Girl</strong> â€“ <em>Papa Cremp</em> (2013)</li>

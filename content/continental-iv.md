@@ -1,12 +1,12 @@
 ---
-title: "' 'Continental IV'
-'"
+title: "Continental Iv"
+slug: "continental-iv"
 date: 2025-01-17
-original_title: "'Continental IV'"
+layout: post
 tags:
   - '@continentaliv'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by The Continental IV</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab67616d0000b27367aef122aa89291801c64e27" alt="The Continental IV" >}}

@@ -1,10 +1,8 @@
 ---
-title: "Röyksopp"
+title: "R Yksopp"
+slug: "r-yksopp"
 date: 2025-01-22
-category: "artist"
-track_count: 2
-first_year: 2009
-last_year: 2025
+layout: post
 tags:
   - '@r-yksopp'
   - '@r-yksopp-fever-ray-trentem-ller'
@@ -14,7 +12,6 @@ tags:
   - 'electronica'
   - 'trip hop'
   - 'minimal techno'
-stub: true
 ---
 
 ## Röyksopp

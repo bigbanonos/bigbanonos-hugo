@@ -1,10 +1,8 @@
 ---
 title: "Son House"
+slug: "son-house"
 date: 2021-12-15
-category: "artist"
-track_count: 4
-first_year: 1992
-last_year: 2021
+layout: post
 tags:
   - '@son-house'
   - '00s-10s'
@@ -13,7 +11,6 @@ tags:
   - 'blues'
   - 'classic blues'
   - 'country blues'
-stub: true
 ---
 
 ## Son House

@@ -1,12 +1,12 @@
 ---
-title: "' 'Esther Rose'
-'"
+title: "Esther Rose"
+slug: "esther-rose"
 date: 2025-01-16
-original_title: "'Esther Rose - 2 Songs'"
+layout: post
 tags:
   - '@estherrose'
-layout: post
 ---
+
 <h2 >BigBanonos' Favorite Songs by Esther Rose</h2> <!-- Introductory Text -->
 <p ><strong>Updated April 6, 2023</strong> with "Spider." Esther Roseâ€™s fresh, Americana sound and deep, soulful lyrics resonate with folk and indie listeners alike. Explore BigBanonosâ€™ favorite tracks below!</p> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab6761610000e5eba9b7c4b2a64b2f0d794a63fa" alt="Esther Rose - Spider" >}}

@@ -1,10 +1,8 @@
 ---
 title: "Rihanna"
+slug: "rihanna"
 date: 2016-01-28
-category: "artist"
-track_count: 5
-first_year: 2005
-last_year: 2016
+layout: post
 tags:
   - '@rihanna'
   - '@rihanna-drake'
@@ -15,7 +13,6 @@ tags:
   - 'dancehall'
   - 'soca'
   - 'ragga'
-stub: true
 ---
 
 ## Rihanna

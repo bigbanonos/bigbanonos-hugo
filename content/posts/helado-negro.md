@@ -1,17 +1,14 @@
 ---
 title: "Helado Negro"
+slug: "helado-negro"
 date: 2021-08-25
-category: "artist"
-track_count: 3
-first_year: 2020
-last_year: 2021
+layout: post
 tags:
   - '@helado-negro'
   - '@helado-negro-xenia-rubinos'
   - '2020s'
   - 'latin alternative'
   - 'latin indie'
-stub: true
 ---
 
 ## Helado Negro

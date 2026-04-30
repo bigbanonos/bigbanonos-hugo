@@ -1,10 +1,8 @@
 ---
-title: "Édith Piaf"
+title: "Dith Piaf"
+slug: "dith-piaf"
 date: 2024-02-01
-category: "artist"
-track_count: 8
-first_year: 1987
-last_year: 2024
+layout: post
 tags:
   - '@dith-piaf'
   - '@dith-piaf-legendis-orchestra'
@@ -15,7 +13,6 @@ tags:
   - 'chanson'
   - 'variété française'
   - 'french jazz'
-stub: true
 ---
 
 ## Édith Piaf

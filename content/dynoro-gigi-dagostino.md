@@ -1,13 +1,13 @@
 ---
-title: "' 'Dynoro & Gigi D'Agostino'
-'"
+title: "Dynoro Gigi Dagostino"
+slug: "dynoro-gigi-dagostino"
 date: 2024-12-12
-original_title: "'Dynoro & Gigi D'Agostino'"
+layout: post
 tags:
   - '@dynoro'
   - '@gigidagostino'
-layout: post
 ---
+
 <!-- Post Title -->
 <h1 >BigBanonos' Favorite Song by Dynoro & Gigi D'Agostino</h1> <!-- Introductory Text -->
 <p >Updated June 8, 2018, with "In My Mind" by Dynoro and Gigi D'Agostino. This global hit merges classic Italo dance vibes with modern EDM flair, making it a standout release under Columbia/B1 Recordings.</p> <!-- Featured Image -->

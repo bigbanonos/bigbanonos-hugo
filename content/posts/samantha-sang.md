@@ -1,15 +1,12 @@
 ---
 title: "Samantha Sang"
+slug: "samantha-sang"
 date: 1978-01-01
-category: "artist"
-track_count: 2
-first_year: 1977
-last_year: 1978
+layout: post
 tags:
   - '@samantha-sang'
   - '1900s'
   - 'yacht rock'
-stub: true
 ---
 
 ## Samantha Sang

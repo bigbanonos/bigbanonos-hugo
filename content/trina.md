@@ -1,13 +1,13 @@
 ---
-title: "' 'Trina'
-'"
+title: "Trina"
+slug: "trina"
 date: 2025-01-10
-original_title: "'Trina'"
+layout: post
 tags:
   - '@trina'
   - '@nickiminaj'
-layout: post
 ---
+
 <div class="post-title"> <h1>BigBanonos' Favorite Songs by Trina</h1>
 </div>
 <p>Updated June 19, 2019, with "BAPS" featuring Nicki Minaj from the single <i>BAPS</i>, highlighted in the playlist below:</p>

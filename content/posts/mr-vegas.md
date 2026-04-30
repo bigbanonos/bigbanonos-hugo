@@ -1,10 +1,8 @@
 ---
-title: "Mr. Vegas"
+title: "Mr Vegas"
+slug: "mr-vegas"
 date: 2018-05-04
-category: "artist"
-track_count: 2
-first_year: 1998
-last_year: 2018
+layout: post
 tags:
   - '@mr-vegas'
   - '00s-10s'
@@ -13,7 +11,6 @@ tags:
   - 'ragga'
   - 'reggae'
   - 'soca'
-stub: true
 ---
 
 ## Mr. Vegas

@@ -1,14 +1,11 @@
 ---
-title: "Edward Sharpe & The Magnetic Zeros"
+title: "Edward Sharpe The Magnetic Zeros"
+slug: "edward-sharpe-the-magnetic-zeros"
 date: 2009-07-14
-category: "artist"
-track_count: 2
-first_year: 2009
-last_year: 2009
+layout: post
 tags:
   - '@edward-sharpe-the-magnetic-zeros'
   - '00s-10s'
-stub: true
 ---
 
 ## Edward Sharpe & The Magnetic Zeros

@@ -1,10 +1,8 @@
 ---
-title: "JELEEL!"
+title: "Jeleel"
+slug: "jeleel"
 date: 2025-10-24
-category: "artist"
-track_count: 11
-first_year: 2023
-last_year: 2025
+layout: post
 tags:
   - '@jeleel'
   - '@jeleel-ayo-maff'
@@ -16,7 +14,6 @@ tags:
   - 'afrobeat'
   - 'afrobeats'
   - 'afroswing'
-stub: true
 ---
 
 ## JELEEL!

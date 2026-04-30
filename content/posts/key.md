@@ -1,15 +1,12 @@
 ---
-title: "KEY!"
+title: "Key"
+slug: "key"
 date: 2020-06-12
-category: "artist"
-track_count: 2
-first_year: 2019
-last_year: 2020
+layout: post
 tags:
   - '@key'
   - '00s-10s'
   - '2020s'
-stub: true
 ---
 
 ## KEY!

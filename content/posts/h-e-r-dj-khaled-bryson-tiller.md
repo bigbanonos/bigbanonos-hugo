@@ -1,10 +1,8 @@
 ---
-title: "H.E.R.;DJ Khaled;Bryson Tiller"
+title: "H E R Dj Khaled Bryson Tiller"
+slug: "h-e-r-dj-khaled-bryson-tiller"
 date: 2021-06-18
-category: "artist"
-track_count: 3
-first_year: 2021
-last_year: 2021
+layout: post
 tags:
   - '@h-e-r-dj-khaled-bryson-tiller'
   - '@h-e-r-lil-baby'
@@ -13,7 +11,6 @@ tags:
   - 'r&b'
   - 'trap soul'
   - 'hyphy'
-stub: true
 ---
 
 ## H.E.R.;DJ Khaled;Bryson Tiller

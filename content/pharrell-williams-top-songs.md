@@ -1,14 +1,14 @@
 ---
-title: "' 'Pharrell Williams - Top Songs'
-'"
+title: "Pharrell Williams"
+slug: "pharrell-williams"
 date: 2024-12-20
-original_title: "'Pharrell Williams - Top Songs'"
+layout: post
 tags:
   - '@travisscott'
   - '@pharrellwilliams'
   - '@jayz'
-layout: post
 ---
+
 <h1>BigBanonos Top Songs by Pharrell Williams</h1>
 <img alt="Pharrell Williams" src="https://www.indiewire.com/wp-content/uploads/2014/02/pharrell-williams.jpg" /> <p>Pharrell Williams, a visionary artist and producer, blends genres to create unforgettable tracks that transcend pop and hip hop. Here are BigBanonos' top selections:</p> <ol> <li><strong>Entrepreneur (feat. JAY-Z)</strong> | <em>Entrepreneur</em> | Columbia | Released: August 21, 2020</li> <li><strong>Frontin' (feat. JAY-Z) - Club Mix</strong> | <em>The Neptunes Present... Clones</em> | Arista | Released: August 19, 2003</li> <li><strong>Down In Atlanta</strong> (feat. Travis Scott) | <em>Down In Atlanta</em> | Columbia | Released: November 18, 2022</li><li><strong>Angel</strong>Ãƒâ€šÃ‚Â 2006</li>
 </ol> <div> {{< youtube "embed" >}}

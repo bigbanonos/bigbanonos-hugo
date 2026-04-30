@@ -1,12 +1,12 @@
 ---
-title: "' 'Eleanor Friedberger - Best Songs'
-'"
+title: "Eleanor Friedberger"
+slug: "eleanor-friedberger"
 date: 2024-12-17
-original_title: "'Eleanor Friedberger - Best Songs'"
+layout: post
 tags:
   - '@eleanorfriedberger'
-layout: post
 ---
+
 <h2>BigBanonos' Top Songs by Eleanor Friedberger</h2> <p>Updated February 14, 2018 with "In Between Stars"</p> <div > {{< youtube "v1YiN1yrJDU" >}}
 </div> <div > {{< youtube "embed" >}}
 </div> <h3>Selected Tracks</h3>

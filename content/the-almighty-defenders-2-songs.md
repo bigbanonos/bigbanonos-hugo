@@ -1,14 +1,14 @@
 ---
-title: "' 'The Almighty Defenders'
-'"
+title: "The Almighty Defenders"
+slug: "the-almighty-defenders"
 date: 2025-01-06
-original_title: "'The Almighty Defenders - 2 Songs'"
+layout: post
 tags:
   - '@almightydefenders'
   - '@kingkhan'
   - '@blacklips'
-layout: post
 ---
+
 <h3>BigBanonos Top Tracks: The Almighty Defenders - 2 Songs</h3>
 <div class="separator"> <a href="https://freemusicarchive.org/image/?file=images%2Fartists%2FAlmighty_Defenders_-_20100607132254307.jpg&width=290&height=290&type=artist" > <img alt="The Almighty Defenders Album Cover" border="0" height="350" src="https://freemusicarchive.org/image/?file=images%2Fartists%2FAlmighty_Defenders_-_20100607132254307.jpg&width=290&height=290&type=artist" /> </a>
 </div> <p>This list is a <em>BigBanonos</em> selection of The Almighty Defenders' top songs, highlighting tracks from their self-titled album released in 2009."</p> <ol> <li><strong>Bow Down And Die</strong> â€ <em>2009</em> â€ Vice Records</li> <li><strong>Cone Of Light</strong> â€ <em>2009</em> â€ Vice Records</li>

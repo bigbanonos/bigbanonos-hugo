@@ -1,17 +1,14 @@
 ---
-title: "Freddie Gibbs;Offset"
+title: "Freddie Gibbs Offset"
+slug: "freddie-gibbs-offset"
 date: 2022-09-30
-category: "artist"
-track_count: 2
-first_year: 2022
-last_year: 2022
+layout: post
 tags:
   - '@freddie-gibbs-offset'
   - '@freddie-gibbs-pusha-t'
   - '2020s'
   - 'jazz rap'
   - 'alternative hip hop'
-stub: true
 ---
 
 ## Freddie Gibbs;Offset

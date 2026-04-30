@@ -1,12 +1,12 @@
 ---
-title: "' 'Mark Robinson'
-'"
+title: "Mark Robinson"
+slug: "mark-robinson"
 date: 2024-12-29
-original_title: "'Mark Robinson'"
+layout: post
 tags:
   - '@markrobinson'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonos Favorite Song by Mark Robinson: "Catalog & Classify"</h1> <!-- Introductory Text -->
 <p >Updated October 9, 2000, with "Catalog & Classify" by Mark Robinson. This track from the album *Tiger Banana* highlights Robinsonâ€™s unique blend of indie sensibilities and experimental sounds. Watch the video below!</p> <!-- Featured Image -->

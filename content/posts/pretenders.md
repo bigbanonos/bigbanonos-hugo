@@ -1,14 +1,11 @@
 ---
 title: "Pretenders"
+slug: "pretenders"
 date: 1994-06-01
-category: "artist"
-track_count: 2
-first_year: 1984
-last_year: 1994
+layout: post
 tags:
   - '@pretenders'
   - '1900s'
-stub: true
 ---
 
 ## Pretenders

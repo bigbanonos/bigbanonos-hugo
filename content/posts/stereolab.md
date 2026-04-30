@@ -1,10 +1,8 @@
 ---
 title: "Stereolab"
+slug: "stereolab"
 date: 2026-03-11
-category: "artist"
-track_count: 2
-first_year: 2026
-last_year: 2026
+layout: post
 tags:
   - '@stereolab'
   - '@iceage'
@@ -13,7 +11,6 @@ tags:
   - 'krautrock'
   - 'post-rock'
   - 'neo-psychedelic'
-stub: true
 ---
 
 ## Stereolab

@@ -1,16 +1,13 @@
 ---
 title: "The Fiery Furnaces"
+slug: "the-fiery-furnaces"
 date: 2020-06-18
-category: "artist"
-track_count: 16
-first_year: 2003
-last_year: 2020
+layout: post
 tags:
   - '@the-fiery-furnaces'
   - '00s-10s'
   - '2020s'
   - 'art pop'
-stub: true
 ---
 
 ## The Fiery Furnaces

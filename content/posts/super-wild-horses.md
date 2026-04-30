@@ -1,14 +1,11 @@
 ---
 title: "Super Wild Horses"
+slug: "super-wild-horses"
 date: 2013-04-05
-category: "artist"
-track_count: 2
-first_year: 2010
-last_year: 2013
+layout: post
 tags:
   - '@super-wild-horses'
   - '00s-10s'
-stub: true
 ---
 
 ## Super Wild Horses

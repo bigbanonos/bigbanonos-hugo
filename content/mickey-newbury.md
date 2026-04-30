@@ -1,12 +1,12 @@
 ---
-title: "' 'Mickey Newbury'
-'"
+title: "Mickey Newbury"
+slug: "mickey-newbury"
 date: 2024-12-29
-original_title: "'Mickey Newbury'"
+layout: post
 tags:
   - '@mickeynewbury'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonos Favorite Song by Mickey Newbury: "The Future's Not What It Used to Be"</h1> <!-- Introductory Text -->
 <p >Updated May 16, 2011, with "The Future's Not What It Used to Be" by Mickey Newbury. Originally released in 1971, this poignant track from the album *An American Trilogy* showcases Newburyâ€™s masterful storytelling and emotional depth within the outlaw country genre. Watch the video below!</p> <!-- Featured Image -->

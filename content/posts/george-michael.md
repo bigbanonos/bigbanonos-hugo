@@ -1,14 +1,11 @@
 ---
 title: "George Michael"
+slug: "george-michael"
 date: 1998-11-09
-category: "artist"
-track_count: 2
-first_year: 1987
-last_year: 1998
+layout: post
 tags:
   - '@george-michael'
   - '1900s'
-stub: true
 ---
 
 ## George Michael

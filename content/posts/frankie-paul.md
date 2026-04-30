@@ -1,7 +1,8 @@
 ---
 title: "Frankie Paul"
+slug: "frankie-paul"
 date: 2026-04-16
-category: "artist"
+layout: post
 tags:
   - '@frankie-paul'
 ---

@@ -1,12 +1,12 @@
 ---
-title: "' 'Bob Dylan'
-'"
+title: "Bob Dylan"
+slug: "bob-dylan"
 date: 2024-11-22
-original_title: "'Bob Dylan - 75+ Songs'"
+layout: post
 tags:
   - '@bobdylan'
-layout: post
 ---
+
 <h2>BigBanonos' 75+ Favorite Songs by Bob Dylan</h2> <!--Search Description-->
 <p>Explore BigBanonos' favorite songs by Bob Dylan, capturing the essence of his folk, rock, and storytelling brilliance.</p> <!--Spotify Playlist Embed-->
 {{< youtube "embed" >}} <!--Song Listings-->

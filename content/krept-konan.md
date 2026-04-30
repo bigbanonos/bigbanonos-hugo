@@ -1,13 +1,13 @@
 ---
-title: "' 'Krept & Konan'
-'"
+title: "Krept Konan"
+slug: "krept-konan"
 date: 2024-12-13
-original_title: "'Krept & Konan'"
+layout: post
 tags:
   - '@jeremih'
   - '@kreptandkonan'
-layout: post
 ---
+
 <!-- Post Title -->
 <h1 >BigBanonos' Favorite Tracks: Krept & Konan & Jeremih - "Freak Of The Week"</h1> <!-- Introductory Text -->
 <p >Updated June 28, 2015, with "Freak Of The Week" by Krept & Konan featuring Jeremih. This track blends grime, UK hip hop, and Chicago rap with elements of R&B, pop rap, and urban contemporary, making it a genre-defying hit.</p> <!-- Featured Image -->

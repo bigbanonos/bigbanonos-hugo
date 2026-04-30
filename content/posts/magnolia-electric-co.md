@@ -1,10 +1,8 @@
 ---
-title: "Magnolia Electric Co."
+title: "Magnolia Electric Co"
+slug: "magnolia-electric-co"
 date: 2009-07-21
-category: "artist"
-track_count: 9
-first_year: 2003
-last_year: 2009
+layout: post
 tags:
   - '@magnolia-electric-co'
   - '@songs-ohia'
@@ -13,7 +11,6 @@ tags:
   - 'alt country'
   - 'americana'
   - 'anti-folk'
-stub: true
 ---
 
 ## Magnolia Electric Co.

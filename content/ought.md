@@ -1,12 +1,12 @@
 ---
-title: "' 'Ought'
-'"
+title: "Ought"
+slug: "ought"
 date: 2025-01-16
-original_title: "'Ought'"
+layout: post
 tags:
   - '@ought'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1>BigBanonosâ€™ Favorite Songs by Ought</h1> <!-- Featured Image -->
 <div> {{< img-lite src="https://i.scdn.co/image/ab6761610000e5ebb6dd67b20cbb1d16fbbf6403" alt="Ought" >}}

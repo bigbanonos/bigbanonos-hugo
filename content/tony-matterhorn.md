@@ -1,12 +1,12 @@
 ---
-title: "' 'Tony Matterhorn'
-'"
+title: "Tony Matterhorn"
+slug: "tony-matterhorn"
 date: 2024-12-16
-original_title: "'Tony Matterhorn'"
+layout: post
 tags:
   - '@tonymatterhorn'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >Tony Matterhorn - Dutty Wine</h1> <!-- Introductory Text -->
 <p >Updated with "Dutty Wine" by Tony Matterhorn, from the album *XXX Dancehall Anthems*, released on April 22, 2010, by Greensleeves Records. The track is a vibrant anthem from the dancehall scene, featuring Tony Matterhornâ€™s energetic delivery and infectious rhythm.</p> <!-- Featured Image -->

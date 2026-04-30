@@ -1,16 +1,13 @@
 ---
 title: "Vampire Weekend"
+slug: "vampire-weekend"
 date: 2019-05-03
-category: "artist"
-track_count: 7
-first_year: 2013
-last_year: 2019
+layout: post
 tags:
   - '@vampire-weekend'
   - '00s-10s'
   - 'indie'
   - 'baroque pop'
-stub: true
 ---
 
 ## Vampire Weekend

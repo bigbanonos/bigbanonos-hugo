@@ -1,10 +1,8 @@
 ---
-title: "Chance the Rapper;Knox Fortune"
+title: "Chance The Rapper Knox Fortune"
+slug: "chance-the-rapper-knox-fortune"
 date: 2020-12-11
-category: "artist"
-track_count: 17
-first_year: 2013
-last_year: 2020
+layout: post
 tags:
   - '@chance-the-rapper-knox-fortune'
   - '@chance-the-rapper-childish-gambino'
@@ -23,7 +21,6 @@ tags:
   - 'neo soul'
   - 'hip hop'
   - 'southern hip hop'
-stub: true
 ---
 
 ## Chance the Rapper;Knox Fortune

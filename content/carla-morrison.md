@@ -1,12 +1,12 @@
 ---
-title: "' 'Carla Morrison'
-'"
+title: "Carla Morrison"
+slug: "carla-morrison"
 date: 2024-12-03
-original_title: "'Carla Morrison'"
+layout: post
 tags:
   - '@carlamorrison'
-layout: post
 ---
+
 <!-- Post Title -->
 <h1 >BigBanonos' Favorite Song by Carla Morrison</h1> <!-- Introductory Text -->
 <p >Updated March 27, 2012 with BigBanonos' favorite track, "Disfruto" by Carla Morrison. This heartfelt ballad from the *DÃƒÆ’Ã‚Â©jenme Llorar* album embodies the essence of Mexican pop with Carla's emotive vocals and poetic lyrics.</p> <!-- Featured Image -->

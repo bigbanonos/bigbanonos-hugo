@@ -1,17 +1,14 @@
 ---
-title: "James & Bobby Purify"
+title: "James Bobby Purify"
+slug: "james-bobby-purify"
 date: 1967-01-01
-category: "artist"
-track_count: 2
-first_year: 1967
-last_year: 1967
+layout: post
 tags:
   - '@james-bobby-purify'
   - '1900s'
   - 'northern soul'
   - 'motown'
   - 'classic soul'
-stub: true
 ---
 
 ## James & Bobby Purify

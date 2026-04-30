@@ -1,12 +1,12 @@
 ---
-title: "' 'LPX'
-'"
+title: "Lpx"
+slug: "lpx"
 date: 2025-01-16
-original_title: "'LPX'"
+layout: post
 tags:
   - '@lpx'
-layout: post
 ---
+
 <h2 >BigBanonos' Favorite Songs by LPX</h2> <!-- Introductory Text -->
 <p ><strong>Updated June 25, 2017</strong> with the music video for "Tremble." LPX, known for her powerful vocals and bold, indie-pop sound, delivers tracks that captivate and inspire. Check out BigBanonosâ€™ favorite song and playlist below!</p> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab6761610000e5ebcb227efe3b9a55c7d8c097a2" alt="LPX - Tremble" >}}

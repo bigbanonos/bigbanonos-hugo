@@ -1,14 +1,11 @@
 ---
-title: "Trembling Bells & Bonnie 'Prince' Billy"
+title: "Trembling Bells Bonnie Prince Billy"
+slug: "trembling-bells-bonnie-prince-billy"
 date: 2012-04-06
-category: "artist"
-track_count: 2
-first_year: 2012
-last_year: 2012
+layout: post
 tags:
   - '@trembling-bells-bonnie-prince-billy'
   - '00s-10s'
-stub: true
 ---
 
 ## Trembling Bells & Bonnie 'Prince' Billy

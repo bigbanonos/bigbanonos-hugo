@@ -1,14 +1,11 @@
 ---
 title: "Claire George"
+slug: "claire-george"
 date: 2021-05-21
-category: "artist"
-track_count: 2
-first_year: 2021
-last_year: 2021
+layout: post
 tags:
   - '@claire-george'
   - '2020s'
-stub: true
 ---
 
 ## Claire George

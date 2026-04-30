@@ -1,14 +1,11 @@
 ---
-title: "doggone"
+title: "Doggone"
+slug: "doggone"
 date: 2026-02-25
-category: "artist"
-track_count: 2
-first_year: 2025
-last_year: 2026
+layout: post
 tags:
   - '@doggone'
   - '2020s'
-stub: true
 ---
 
 ## doggone

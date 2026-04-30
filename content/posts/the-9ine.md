@@ -1,10 +1,8 @@
 ---
 title: "The 9ine"
+slug: "the-9ine"
 date: 2024-07-26
-category: "artist"
-track_count: 4
-first_year: 2022
-last_year: 2024
+layout: post
 tags:
   - '@the-9ine'
   - '@the-9ine-armanii-tjtorry106'
@@ -12,7 +10,6 @@ tags:
   - '2020s'
   - 'dancehall'
   - 'soca'
-stub: true
 ---
 
 ## The 9ine

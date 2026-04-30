@@ -1,12 +1,12 @@
 ---
-title: "' 'Franz Nicolay'
-'"
+title: "Franz Nicolay"
+slug: "franz-nicolay"
 date: 2024-12-12
-original_title: "'Franz Nicolay'"
+layout: post
 tags:
   - '@franznicolay'
-layout: post
 ---
+
 <!-- Post Title -->
 <h1 >BigBanonos' Favorite Indie Track: Franz Nicolay - "Felix & Adelita"</h1> <!-- Introductory Text -->
 <p >Updated October 12, 2010, with "Felix & Adelita" by Franz Nicolay. A poignant track from *Luck And Courage*, this indie gem showcases Nicolayâ€™s storytelling prowess and unique musical stylings.</p> <!-- Featured Image -->

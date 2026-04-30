@@ -1,12 +1,12 @@
 ---
-title: "' 'Daniel Johnston'
-'"
+title: "Daniel Johnston"
+slug: "daniel-johnston"
 date: 2024-12-20
-original_title: "'Daniel Johnston'"
+layout: post
 tags:
   - '@danieljohnston'
-layout: post
 ---
+
 <h2>Daniel Johnston â€“ Essential Tracks</h2> <div > <img src="https://i.ytimg.com/vi/Y1HAizQGGRg/sddefault.jpg?sqp=-oaymwEmCIAFEOAD8quKqQMa8AEB-AH-BIAC4AOKAgwIABABGGUgZShlMA8=&rs=AOn4CLAJpH5Ufw_4VapdDUw4JPDEjyprqg" alt="Daniel Johnston" width="500" />
 </div> {{< youtube "embed" >}} <h3>Tracklist</h3>
 <ul> <li><strong>Devil Town</strong> â€“ <em>1990</em> (1990)</li> <li><strong>Foxy Girl</strong> â€“ <em>fun/em> (1994)</li> <li><strong>My Life Is Starting Over Again</strong> â€“ <em>1990</em> (1990)</li> <li><strong>Joy Without Pleasure</strong> â€“ <em>Songs Of Pain</em> (1980)</li>

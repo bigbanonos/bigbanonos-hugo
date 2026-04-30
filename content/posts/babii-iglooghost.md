@@ -1,10 +1,8 @@
 ---
-title: "BABii;Iglooghost"
+title: "Babii Iglooghost"
+slug: "babii-iglooghost"
 date: 2022-02-10
-category: "artist"
-track_count: 4
-first_year: 2019
-last_year: 2022
+layout: post
 tags:
   - '@babii-iglooghost'
   - '@babii'
@@ -15,7 +13,6 @@ tags:
   - 'idm'
   - 'glitch'
   - 'experimental'
-stub: true
 ---
 
 ## BABii;Iglooghost

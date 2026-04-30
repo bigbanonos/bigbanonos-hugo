@@ -1,10 +1,8 @@
 ---
 title: "Jermaine Dupri"
+slug: "jermaine-dupri"
 date: 2025-09-12
-category: "artist"
-track_count: 5
-first_year: 1998
-last_year: 2025
+layout: post
 tags:
   - '@jermaine-dupri'
   - '@jermaine-dupri-ceelo-green'
@@ -18,7 +16,6 @@ tags:
   - 'rap'
   - 'hip hop'
   - 'east coast hip hop'
-stub: true
 ---
 
 ## Jermaine Dupri

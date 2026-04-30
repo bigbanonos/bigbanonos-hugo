@@ -1,12 +1,12 @@
 ---
-title: "' 'Maxwell'
-'"
+title: "Maxwell"
+slug: "maxwell"
 date: 2024-12-14
-original_title: "'Maxwell'"
+layout: post
 tags:
   - '@maxwell'
-layout: post
 ---
+
 <!-- Post Title -->
 <h1 >BigBanonos' Favorite Tracks: Maxwell - "Lifetime (Remastered 2021)"</h1> <!-- Introductory Text -->
 <p >Updated August 14, 2001, with "Lifetime" by Maxwell, now available as a 2021 remaster. This soulful track from the album <em>Now</em>, released under Columbia Records, is a stunning example of contemporary R&B and neo-soul, blending emotional depth with smooth production.</p> <!-- Featured Image -->

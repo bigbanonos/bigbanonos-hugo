@@ -1,12 +1,12 @@
 ---
-title: "' 'La Sera'
-'"
+title: "La Sera"
+slug: "la-sera"
 date: 2024-12-17
-original_title: "'La Sera'"
+layout: post
 tags:
   - '@lasera'
-layout: post
 ---
+
 <h2>BigBanonos' Favorite Tracks: La Sera</h2> <div > <a href="https://polyvinyl-public.s3.amazonaws.com/344ef5151be171062f42f03e69663ecf71da5f806ff2cf49c617ef9a2d6a408be37bf334_medium.jpg"> <img src="https://polyvinyl-public.s3.amazonaws.com/344ef5151be171062f42f03e69663ecf71da5f806ff2cf49c617ef9a2d6a408be37bf334_medium.jpg" alt="La Sera" width="400" /> </a>
 </div> <p>La Sera's sound blends dreamy pop melodies with a gritty, noise-pop edge. This playlist highlights some of their best work, offering a glimpse into their nostalgic yet modern vibe.</p> <h3>Selected Tracks</h3>
 <ol> <li><strong>Real Boy</strong> â€“ <em>Sees the Light</em> (2012)</li> <li><strong>Devils Hearts Grow Gold</strong> â€“ <em>La Sera</em> (2011)</li>

@@ -1,10 +1,8 @@
 ---
-title: "Boosie Badazz;Webbie"
+title: "Boosie Badazz Webbie"
+slug: "boosie-badazz-webbie"
 date: 2015-05-26
-category: "artist"
-track_count: 2
-first_year: 2006
-last_year: 2015
+layout: post
 tags:
   - '@boosie-badazz-webbie'
   - '@boosie-badazz'
@@ -12,7 +10,6 @@ tags:
   - 'southern hip hop'
   - 'crunk'
   - 'new orleans bounce'
-stub: true
 ---
 
 ## Boosie Badazz;Webbie

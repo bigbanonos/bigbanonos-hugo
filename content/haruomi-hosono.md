@@ -1,12 +1,12 @@
 ---
-title: "' 'Haruomi Hosono'
-'"
+title: "Haruomi Hosono"
+slug: "haruomi-hosono"
 date: 2024-12-13
-original_title: "'Haruomi Hosono'"
+layout: post
 tags:
   - '@haruomihosono'
-layout: post
 ---
+
 <!-- Post Title -->
 <h1 >BigBanonos' Favorite Tracks: Haruomi Hosono - "ÃƒÂ§Ã¢â‚¬ÂºÃ‚Â¸ÃƒÂ¥Ã‚ÂÃ‹â€ ÃƒÂ¥Ã¢â‚¬Å¡Ã‹Å“ (Aiaigasa) - Broken Radio Version"</h1> <!-- Introductory Text -->
 <p >Updated March 6, 2019, with "ÃƒÂ§Ã¢â‚¬ÂºÃ‚Â¸ÃƒÂ¥Ã‚ÂÃ‹â€ ÃƒÂ¥Ã¢â‚¬Å¡Ã‹Å“ (Aiaigasa) - Broken Radio Version" by Haruomi Hosono. This reflective track from *HOCHONO HOUSE* blends elements of classic J-rock and Japanese folk, offering a uniquely nostalgic and ambient experience.</p> <!-- Featured Image -->

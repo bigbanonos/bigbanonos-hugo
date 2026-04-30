@@ -1,10 +1,8 @@
 ---
-title: "The B-52's"
+title: "The B 52 S"
+slug: "the-b-52-s"
 date: 2008-01-01
-category: "artist"
-track_count: 8
-first_year: 1983
-last_year: 2008
+layout: post
 tags:
   - '@the-b-52-s'
   - '@the-b-52-s-shep-pettibone'
@@ -14,7 +12,6 @@ tags:
   - 'post-punk'
   - 'post-disco'
   - 'hi-nrg'
-stub: true
 ---
 
 ## The B-52's

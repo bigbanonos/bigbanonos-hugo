@@ -1,12 +1,12 @@
 ---
-title: "' 'Gender Infinity'
-'"
+title: "Gender Infinity Highlights From 9 Lives"
+slug: "gender-infinity-highlights-from-9-lives"
 date: 2025-02-12
-original_title: "'Gender Infinity'"
+layout: post
 tags:
   - '@genderinfinity'
-layout: post
 ---
+
 <div> {{< img-lite src="https://f4.bcbits.com/img/a2146932949_5.jpg" alt="Gender Infinity" >}}
 </div> <p>
 BigBanonos' favorite tracks by Gender Infinity:

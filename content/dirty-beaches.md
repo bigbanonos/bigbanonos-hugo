@@ -1,12 +1,12 @@
 ---
-title: "' 'Dirty Beaches'
-'"
+title: "Dirty Beaches"
+slug: "dirty-beaches"
 date: 2024-12-11
-original_title: "'Dirty Beaches'"
+layout: post
 tags:
   - '@dirtybeaches'
-layout: post
 ---
+
 <!-- Post Title -->
 <h1 >BigBanonos' Favorite Song by Dirty Beaches</h1> <!-- Introductory Text -->
 <p >Updated 2011 with "True Blue" by Dirty Beaches. This haunting track from the album *Badlands* (ZOO MUSIC) delves into the experimental realms of hypnagogic pop and noise pop, showcasing the raw emotion of a one-person band.</p> <!-- Featured Image -->

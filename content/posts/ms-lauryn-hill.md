@@ -1,10 +1,8 @@
 ---
-title: "Ms. Lauryn Hill"
+title: "Ms Lauryn Hill"
+slug: "ms-lauryn-hill"
 date: 2002-05-07
-category: "artist"
-track_count: 4
-first_year: 1998
-last_year: 2002
+layout: post
 tags:
   - '@ms-lauryn-hill'
   - '@ms-lauryn-hill-carlos-santana'
@@ -12,7 +10,6 @@ tags:
   - '00s-10s'
   - '1900s'
   - 'neo soul'
-stub: true
 ---
 
 ## Ms. Lauryn Hill

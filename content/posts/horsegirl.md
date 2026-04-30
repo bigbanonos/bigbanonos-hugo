@@ -1,15 +1,12 @@
 ---
 title: "Horsegirl"
+slug: "horsegirl"
 date: 2022-11-15
-category: "artist"
-track_count: 2
-first_year: 2022
-last_year: 2022
+layout: post
 tags:
   - '@horsegirl'
   - '2020s'
   - 'lo-fi indie'
-stub: true
 ---
 
 ## Horsegirl

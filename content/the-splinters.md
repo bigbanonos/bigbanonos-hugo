@@ -1,12 +1,12 @@
 ---
-title: "' 'The Splinters'
-'"
+title: "The Splinters"
+slug: "the-splinters"
 date: 2024-12-30
-original_title: "'The Splinters'"
+layout: post
 tags:
   - '@splinters'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonos Favorite Song by The Splinters: "Sorry"</h1> <!-- Introductory Text -->
 <p >Updated with "Sorry" by The Splinters, a standout track from 2010 that remains a hidden gem. This one is #NotOnSpotify, so enjoy the journey below!</p> <!-- Featured Image -->

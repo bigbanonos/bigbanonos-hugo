@@ -1,16 +1,16 @@
 ---
-title: "' 'Wizkid'
-'"
+title: "Wizkid"
+slug: "wizkid"
 date: 2025-01-11
-original_title: "'Wizkid'"
+layout: post
 tags:
   - '@majorlazer'
   - '@bnxn'
   - '@burnaboy'
   - '@tems'
   - '@wizkid'
-layout: post
 ---
+
 <div class="post-title"> <h1>BigBanonos' Favorite Songs by Wizkid</h1>
 </div>
 <p>Updated August 27, 2021, with "Mood" featuring BNXN from the album <i>Made In Lagos: Deluxe Edition</i>, highlighted in the playlist below:</p>

@@ -1,17 +1,14 @@
 ---
 title: "Material Issue"
+slug: "material-issue"
 date: 2006-01-01
-category: "artist"
-track_count: 2
-first_year: 1991
-last_year: 2006
+layout: post
 tags:
   - '@material-issue'
   - '00s-10s'
   - '1900s'
   - 'power pop'
   - 'jangle pop'
-stub: true
 ---
 
 ## Material Issue

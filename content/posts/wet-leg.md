@@ -1,16 +1,13 @@
 ---
 title: "Wet Leg"
+slug: "wet-leg"
 date: 2025-07-11
-category: "artist"
-track_count: 3
-first_year: 2021
-last_year: 2025
+layout: post
 tags:
   - '@wet-leg'
   - '2020s'
   - 'indie rock'
   - 'indie'
-stub: true
 ---
 
 ## Wet Leg

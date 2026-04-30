@@ -1,12 +1,12 @@
 ---
-title: "' 'Blondie'
-'"
+title: "Blondie"
+slug: "blondie"
 date: 2025-01-17
-original_title: "'Blondie'"
+layout: post
 tags:
   - '@blondie'
-layout: post
 ---
+
  <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Blondie</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab6761610000e5eb67dc4da82c968767d994f3c3" alt="Blondie" >}}

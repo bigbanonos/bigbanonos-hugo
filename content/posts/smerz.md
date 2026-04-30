@@ -1,16 +1,13 @@
 ---
 title: "Smerz"
+slug: "smerz"
 date: 2025-11-05
-category: "artist"
-track_count: 3
-first_year: 2025
-last_year: 2025
+layout: post
 tags:
   - '@smerz'
   - '@smerz-erika-de-casier'
   - '2020s'
   - 'alternative r&b'
-stub: true
 ---
 
 ## Smerz

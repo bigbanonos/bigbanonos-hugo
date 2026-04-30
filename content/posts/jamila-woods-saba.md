@@ -1,16 +1,13 @@
 ---
-title: "Jamila Woods;Saba"
+title: "Jamila Woods Saba"
+slug: "jamila-woods-saba"
 date: 2023-10-10
-category: "artist"
-track_count: 2
-first_year: 2023
-last_year: 2023
+layout: post
 tags:
   - '@jamila-woods-saba'
   - '@jamila-woods-duendita'
   - '2020s'
   - 'alternative r&b'
-stub: true
 ---
 
 ## Jamila Woods;Saba

@@ -1,8 +1,8 @@
 ---
-title: "' 'Busy Signal'
-'"
+title: "Busy Signal"
+slug: "busy-signal"
 date: 2024-11-03
-original_title: "'Busy Signal - 14+ Songs'"
+layout: post
 tags:
   - '@birchill'
   - '@walshyfire'
@@ -10,8 +10,8 @@ tags:
   - '@djseptik'
   - '@afrob'
   - '@busysignal'
-layout: post
 ---
+
 <h2>BigBanonos' 16 Favorite Songs by Busy Signal</h2> <!--Search Description-->
 <p>BigBanonos highlights the top tracks from Busy Signal, showcasing his unique dancehall and reggae fusion style. Discover fan-favorite tunes and exclusive tracks in the #NotOnSpotify playlist.</p> <!--Spotify Playlist Embed-->
 {{< youtube "embed" >}} <!--Song Listings-->

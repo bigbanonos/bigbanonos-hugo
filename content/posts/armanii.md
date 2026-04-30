@@ -1,15 +1,13 @@
 ---
 title: "Armanii"
+slug: "armanii"
 date: 2026-01-18
+layout: post
 tags:
   - '@armanii'
   - '@maliedonn'
   - '@sortie'
   - '@dancehall'
-category: "artist"
-cover:
-  image: "https://static.wixstatic.com/media/10f2e2_91bfe19171e4405d9fb5eab03b1476f3~mv2.jpg/v1/fill/w_568,h_736,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/10f2e2_91bfe19171e4405d9fb5eab03b1476f3~mv2.jpg"
-  alt: "Armanii"
 ---
 
 Jamaican dancehall — two tracks in and already delivering.

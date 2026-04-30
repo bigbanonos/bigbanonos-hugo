@@ -1,12 +1,12 @@
 ---
-title: "' 'Bad Moves'
-'"
+title: "Bad Moves"
+slug: "bad-moves"
 date: 2024-12-01
-original_title: "'Bad Moves - 1 Song'"
+layout: post
 tags:
   - '@badmoves'
-layout: post
 ---
+
 <!-- Post Title -->
 <h1 >BigBanonos' Favorite Song by Bad Moves</h1> <!-- Introductory Text -->
 <p >Updated December 2, 2016, with BigBanonos' favorite song by Bad Moves, "The Verge," from their self-titled album *Bad Moves*. Watch the video and see more details below:</p> <!-- Featured Image -->

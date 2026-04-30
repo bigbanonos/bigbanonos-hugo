@@ -1,13 +1,13 @@
 ---
-title: "' 'EXUM, Maxi'
-'"
+title: "Exum Maxi"
+slug: "exum-maxi"
 date: 2025-08-30
-original_title: "'EXUM, Maxi - 1 Song'"
+layout: post
 tags:
   - '@exum'
   - '@maxi'
-layout: post
 ---
+
 <img src="https://www.shazam.com/mkimage/image/thumb/Music126/v4/6f/4d/e5/6f4de545-547f-eefd-e107-1e051bf2a8fe/23SYMIM03242.rgb.jpg/375x375bb.webp" width="100%" alt="EXUM - Waking Up ft. Maxi" /> <h2>BigBanonos' Favorite Song by EXUM</h2> <p>Updated July 4, 2025 with <em>"Waking Up"</em> featuring Maxi, from the album <em>In Russia. A is a 9</em>. Released via <em>ÃƒÆ’Ã‚Â¼cke</em>, this track blends EXUM's experimental indie vision with Maxi's textured delivery, making it a standout cut for 2025.</p> <!-- YouTube Embed -->
 {{< youtube "ZW3d-hOagzA" >}} <p><strong>Waking Up</strong> â€ EXUM, Maxi<br/>
 Album: <em>In Russia. A is a 9</em><br/>

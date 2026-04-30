@@ -1,15 +1,15 @@
 ---
-title: "' 'Davido'
-'"
+title: "Davido"
+slug: "davido"
 date: 2024-12-21
-original_title: "'Davido - 4 Songs'"
+layout: post
 tags:
   - '@davido'
   - '@popcaan'
   - '@nickiminaj'
   - '@tiwasavage'
-layout: post
 ---
+
 <h3><em>BigBanonos</em> Top 4 Songs by Davido:</h3> <p>Updated on November 12, 2020, with the standout track â€œHoly Ground (feat. Nicki Minaj)â€ from the album <em>A Better Time</em>. BigBanonosâ€™ favorite Davido songs showcase his unique blend of afrobeats, afropop, and international collaborations.</p> <!--Image-->
 <div class="separator"> <a href="https://cdn.platinumlist.net/upload/artist/davido_634-orig1691140652.jpg" > <img alt="Davido" src="https://cdn.platinumlist.net/upload/artist/davido_634-orig1691140652.jpg" /> </a>
 </div> <!--Spotify Playlist Embed-->

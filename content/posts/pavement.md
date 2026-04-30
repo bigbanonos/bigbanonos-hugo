@@ -1,17 +1,14 @@
 ---
 title: "Pavement"
+slug: "pavement"
 date: 2008-12-09
-category: "artist"
-track_count: 9
-first_year: 1992
-last_year: 2008
+layout: post
 tags:
   - '@pavement'
   - '00s-10s'
   - '1900s'
   - 'alternative rock'
   - 'indie'
-stub: true
 ---
 
 ## Pavement

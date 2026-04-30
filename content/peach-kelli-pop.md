@@ -1,12 +1,12 @@
 ---
-title: "' 'Peach Kelli Pop'
-'"
+title: "Peach Kelli Pop"
+slug: "peach-kelli-pop"
 date: 2025-02-10
-original_title: "'Peach Kelli Pop'"
+layout: post
 tags:
   - '@peachkellipop'
-layout: post
 ---
+
  <!-- Peach Kelli Pop -->
 <img src="https://i.scdn.co/image/ab67616d00001e0243ad9a8aad3adfa0e05a9c49" /> <p><strong>Updated December 12, 2012 with "Dreamphone" from <em>Peach Kelli Pop II</em></strong></p> <p><strong>"Dreamphone"</strong> â€“ <em>Peach Kelli Pop II</em> (Lauren Records, 2012)</p>
 <p><strong>"Julie Oulie"</strong> â€“ <em>Peach Kelli Pop II</em> (Lauren Records, 2012)</p>

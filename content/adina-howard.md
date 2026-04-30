@@ -1,13 +1,13 @@
 ---
-title: "' 'Adina Howard'
-'"
+title: "Adina Howard"
+slug: "adina-howard"
 date: 2025-01-17
-original_title: "'Adina Howard'"
+layout: post
 tags:
   - '@adinahoward'
   - '@jamiefoxx'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Adina Howard</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab67616d0000b27390dd696c2447379104f80c7a" alt="Adina Howard" >}}

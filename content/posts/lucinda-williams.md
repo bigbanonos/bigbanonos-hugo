@@ -1,10 +1,8 @@
 ---
 title: "Lucinda Williams"
+slug: "lucinda-williams"
 date: 2020-03-27
-category: "artist"
-track_count: 4
-first_year: 2003
-last_year: 2020
+layout: post
 tags:
   - '@lucinda-williams'
   - '00s-10s'
@@ -13,7 +11,6 @@ tags:
   - 'americana'
   - 'outlaw country'
   - 'singer-songwriter'
-stub: true
 ---
 
 ## Lucinda Williams

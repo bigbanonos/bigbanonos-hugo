@@ -1,12 +1,12 @@
 ---
-title: "' 'P.S. Eliot'
-'"
+title: "Ps Eliot"
+slug: "ps-eliot"
 date: 2024-12-15
-original_title: "'P.S. Eliot'"
+layout: post
 tags:
   - '@pseliot'
-layout: post
 ---
+
 <!-- Post Title -->
 <h1 >BigBanonos' Favorite Tracks: P.S. Eliot - "Incoherent Love Songs"</h1> <!-- Introductory Text -->
 <p >Updated with "Incoherent Love Songs" by P.S. Eliot from *Introverted Romance In Our Troubled Minds*. This indie punk gem from Alabamaâ€™s P.S. Eliot explores emotional complexity with raw, vulnerable energy.</p> <!-- Featured Image -->

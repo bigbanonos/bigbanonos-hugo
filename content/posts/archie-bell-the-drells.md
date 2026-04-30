@@ -1,10 +1,8 @@
 ---
-title: "Archie Bell & The Drells"
+title: "Archie Bell The Drells"
+slug: "archie-bell-the-drells"
 date: 2007-10-30
-category: "artist"
-track_count: 3
-first_year: 1969
-last_year: 2007
+layout: post
 tags:
   - '@archie-bell-the-drells'
   - '00s-10s'
@@ -13,7 +11,6 @@ tags:
   - 'northern soul'
   - 'classic soul'
   - 'motown'
-stub: true
 ---
 
 ## Archie Bell & The Drells

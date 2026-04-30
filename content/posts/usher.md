@@ -1,16 +1,13 @@
 ---
-title: "USHER"
+title: "Usher"
+slug: "usher"
 date: 2004-03-23
-category: "artist"
-track_count: 4
-first_year: 1999
-last_year: 2004
+layout: post
 tags:
   - '@usher'
   - '00s-10s'
   - '1900s'
   - 'r&b'
-stub: true
 ---
 
 ## USHER

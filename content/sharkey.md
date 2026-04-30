@@ -1,12 +1,12 @@
 ---
-title: "' 'Sharkey'
-'"
+title: "Sharkey"
+slug: "sharkey"
 date: 2024-12-30
-original_title: "'Sharkey'"
+layout: post
 tags:
   - '@sharkey'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >Sharkey - Someone Like Me</h1> <!-- Introductory Text -->
 <p >Sharkeyâ€™s new single â€œSomeone Like Meâ€ brings a fresh sound to indie pop, with smooth vocals and mellow vibes. Watch the official video below!</p> <!-- Featured Image -->

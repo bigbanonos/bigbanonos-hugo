@@ -1,12 +1,12 @@
 ---
-title: "' 'Beat Happening'
-'"
+title: "Beat Happening"
+slug: "beat-happening"
 date: 2025-01-17
-original_title: "'Beat Happening'"
+layout: post
 tags:
   - '@beathappening'
-layout: post
 ---
+
  <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Beat Happening</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/0b4992546b7f1851a19d654c3c435c140eb0fa35" alt="Beat Happening" >}}

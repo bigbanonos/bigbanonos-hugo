@@ -1,12 +1,12 @@
 ---
-title: "' 'Young Fathers'
-'"
+title: "Young Fathers"
+slug: "young-fathers"
 date: 2025-01-11
-original_title: "'Young Fathers'"
+layout: post
 tags:
   - '@youngfathers'
-layout: post
 ---
+
 <div class="post-title"> <h1>BigBanonos' Favorite Songs by Young Fathers</h1>
 </div>
 <p>Updated February 3, 2023, with "Sink Or Swim" and "Holy Moly" from the album <i>Heavy Heavy</i>, highlighted in the playlist below:</p>

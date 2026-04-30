@@ -1,14 +1,11 @@
 ---
 title: "Black Kids"
+slug: "black-kids"
 date: 2008-07-22
-category: "artist"
-track_count: 3
-first_year: 2008
-last_year: 2008
+layout: post
 tags:
   - '@black-kids'
   - '00s-10s'
-stub: true
 ---
 
 ## Black Kids

@@ -1,12 +1,12 @@
 ---
-title: "' 'The Delfonics'
-'"
+title: "The Delfonics"
+slug: "the-delfonics"
 date: 2025-01-17
-original_title: "'The Delfonics'"
+layout: post
 tags:
   - '@thedelfonics'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by The Delfonics</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab67616d0000b273f606a66ae319776c0dc86ce8" alt="The Delfonics" >}}

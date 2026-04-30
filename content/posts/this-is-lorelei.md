@@ -1,16 +1,13 @@
 ---
 title: "This Is Lorelei"
+slug: "this-is-lorelei"
 date: 2025-03-25
-category: "artist"
-track_count: 4
-first_year: 2024
-last_year: 2025
+layout: post
 tags:
   - '@this-is-lorelei'
   - '@this-is-lorelei-mj-lenderman'
   - '2020s'
   - 'alt country'
-stub: true
 ---
 
 ## This Is Lorelei

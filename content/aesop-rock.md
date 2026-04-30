@@ -1,12 +1,12 @@
 ---
-title: "' 'Aesop Rock'
-'"
+title: "Aesop Rock"
+slug: "aesop-rock"
 date: 2024-12-13
-original_title: "'Aesop Rock'"
+layout: post
 tags:
   - '@aesoprock'
-layout: post
 ---
+
 <!-- Post Title -->
 <h1 >BigBanonos' Favorite Song by Aesop Rock</h1> <!-- Introductory Text -->
 <p >Updated August 27, 2007, with BigBanonos' favorite song by Aesop Rock, "None Shall Pass," from the album of the same name. Watch the video and see more details below:</p> <!-- Featured Image -->

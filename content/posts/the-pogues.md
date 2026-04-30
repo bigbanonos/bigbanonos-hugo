@@ -1,10 +1,8 @@
 ---
 title: "The Pogues"
+slug: "the-pogues"
 date: 2001-01-01
-category: "artist"
-track_count: 7
-first_year: 1985
-last_year: 2001
+layout: post
 tags:
   - '@the-pogues'
   - '@the-pogues-kirsty-maccoll'
@@ -14,7 +12,6 @@ tags:
   - 'celtic rock'
   - 'christmas'
   - 'folk punk'
-stub: true
 ---
 
 ## The Pogues

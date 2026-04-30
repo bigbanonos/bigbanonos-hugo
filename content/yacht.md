@@ -1,13 +1,13 @@
 ---
-title: "' 'YACHT'
-'"
+title: "Yacht"
+slug: "yacht"
 date: 2025-01-11
-original_title: "'YACHT'"
+layout: post
 tags:
   - '@classixx'
   - '@yacht'
-layout: post
 ---
+
 <div class="post-title"> <h1>BigBanonos' Favorite Songs by YACHT</h1>
 </div>
 <p>Updated May 20, 2010, with "Psychic City - Classixx Remix," highlighted in the playlist below:</p>

@@ -1,15 +1,15 @@
 ---
-title: "' 'Blue Ivy'
-'"
+title: "Blue Ivy"
+slug: "blue-ivy"
 date: 2024-12-02
-original_title: "'Blue Ivy'"
+layout: post
 tags:
   - '@beyonce'
   - '@blueivy'
   - '@wizkid'
   - '@saintjhn'
-layout: post
 ---
+
 <!-- Post Title -->
 <h1 >BigBanonos' Favorite Song: "BROWN SKIN GIRL"</h1> <!-- Introductory Text -->
 <p >Updated July 19, 2019, with BigBanonos' favorite collaboration, "BROWN SKIN GIRL," featuring Blue Ivy, SAINt JHN, BeyoncÃƒÆ’Ã‚Â©, and Wizkid. From *The Lion King: The Gift* album, this track celebrates beauty, culture, and pride. Watch the video and see more details below:</p> <!-- Featured Image -->

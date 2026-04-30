@@ -1,17 +1,14 @@
 ---
 title: "La Chat"
+slug: "la-chat"
 date: 2001-10-23
-category: "artist"
-track_count: 2
-first_year: 2001
-last_year: 2001
+layout: post
 tags:
   - '@la-chat'
   - '00s-10s'
   - 'southern hip hop'
   - 'horrorcore'
   - 'crunk'
-stub: true
 ---
 
 ## La Chat

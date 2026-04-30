@@ -1,14 +1,11 @@
 ---
 title: "The Equatics"
+slug: "the-equatics"
 date: 1972-01-01
-category: "artist"
-track_count: 2
-first_year: 1972
-last_year: 1972
+layout: post
 tags:
   - '@the-equatics'
   - '1900s'
-stub: true
 ---
 
 ## The Equatics

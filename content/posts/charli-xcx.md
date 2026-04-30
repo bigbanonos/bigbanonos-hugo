@@ -1,10 +1,8 @@
 ---
-title: "Charli xcx"
+title: "Charli Xcx"
+slug: "charli-xcx"
 date: 2026-02-13
-category: "artist"
-track_count: 18
-first_year: 2013
-last_year: 2026
+layout: post
 tags:
   - '@charli-xcx'
   - '@charli-xcx-caroline-polachek'
@@ -18,7 +16,6 @@ tags:
   - 'art pop'
   - 'dancehall'
   - 'soca'
-stub: true
 ---
 
 ## Charli xcx

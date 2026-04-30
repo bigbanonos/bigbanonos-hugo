@@ -1,15 +1,15 @@
 ---
-title: "' '2Pac'
-'"
+title: "2pac"
+slug: "2pac"
 date: 2025-01-17
-original_title: "'2Pac'"
+layout: post
 tags:
   - '@snoopdogg'
   - '@bigsyke'
   - '@2pac'
   - '@tupac'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by 2Pac</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab67616d0000b273073aebff28f79959d2543596" alt="2Pac" >}}

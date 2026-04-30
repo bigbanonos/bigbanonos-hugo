@@ -1,12 +1,12 @@
 ---
-title: "' 'Rodrigo Amarante'
-'"
+title: "Rodrigo Amarante"
+slug: "rodrigo-amarante"
 date: 2024-12-15
-original_title: "'Rodrigo Amarante'"
+layout: post
 tags:
   - '@rodrigoamarante'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >Rodrigo Amarante - Nada Em VÃƒÆ’Ã‚Â£o</h1> <!-- Introductory Text -->
 <p >Updated with "Nada Em VÃƒÆ’Ã‚Â£o" by Rodrigo Amarante, from the album *Cavalo*, released on May 6, 2014, by Easy Sound Recording Company.</p> <!-- Featured Image -->

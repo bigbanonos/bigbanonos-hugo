@@ -1,10 +1,8 @@
 ---
 title: "Scorpions"
+slug: "scorpions"
 date: 2002-01-01
-category: "artist"
-track_count: 2
-first_year: 1977
-last_year: 2002
+layout: post
 tags:
   - '@scorpions'
   - '00s-10s'
@@ -12,7 +10,6 @@ tags:
   - 'hard rock'
   - 'glam metal'
   - 'rock'
-stub: true
 ---
 
 ## Scorpions

@@ -1,15 +1,12 @@
 ---
-title: "Club Intl;Logan Avidan"
+title: "Club Intl Logan Avidan"
+slug: "club-intl-logan-avidan"
 date: 2022-08-12
-category: "artist"
-track_count: 2
-first_year: 2020
-last_year: 2022
+layout: post
 tags:
   - '@club-intl-logan-avidan'
   - '@club-intl-john-eatherly-madeline-follin'
   - '2020s'
-stub: true
 ---
 
 ## Club Intl;Logan Avidan

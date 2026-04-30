@@ -1,10 +1,8 @@
 ---
-title: "Bob Marley & The Wailers"
+title: "Bob Marley The Wailers"
+slug: "bob-marley-the-wailers"
 date: 2022-06-24
-category: "artist"
-track_count: 47
-first_year: 1971
-last_year: 2022
+layout: post
 tags:
   - '@bob-marley-the-wailers'
   - '@bob-marley'
@@ -17,7 +15,6 @@ tags:
   - 'roots reggae'
   - 'rocksteady'
   - 'ragga'
-stub: true
 ---
 
 ## Bob Marley & The Wailers

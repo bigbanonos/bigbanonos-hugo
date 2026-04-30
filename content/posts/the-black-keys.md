@@ -1,10 +1,8 @@
 ---
 title: "The Black Keys"
+slug: "the-black-keys"
 date: 2019-06-28
-category: "artist"
-track_count: 10
-first_year: 2002
-last_year: 2019
+layout: post
 tags:
   - '@the-black-keys'
   - '00s-10s'
@@ -12,7 +10,6 @@ tags:
   - 'garage rock'
   - 'modern blues'
   - 'rock'
-stub: true
 ---
 
 ## The Black Keys

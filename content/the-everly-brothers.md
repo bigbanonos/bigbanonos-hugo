@@ -1,12 +1,12 @@
 ---
-title: "' 'The Everly Brothers'
-'"
+title: "The Everly Brothers"
+slug: "the-everly-brothers"
 date: 2025-01-17
-original_title: "'The Everly Brothers'"
+layout: post
 tags:
   - '@everlybrothers'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by The Everly Brothers</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab67616d00001e024934c9839ae3bb7494821f75" alt="The Everly Brothers" >}}

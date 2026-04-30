@@ -1,10 +1,8 @@
 ---
-title: "Sly & The Family Stone"
+title: "Sly The Family Stone"
+slug: "sly-the-family-stone"
 date: 2008-02-11
-category: "artist"
-track_count: 10
-first_year: 1970
-last_year: 2008
+layout: post
 tags:
   - '@sly-the-family-stone'
   - '@sister-sledge'
@@ -14,7 +12,6 @@ tags:
   - 'motown'
   - 'classic soul'
   - 'funk rock'
-stub: true
 ---
 
 ## Sly & The Family Stone

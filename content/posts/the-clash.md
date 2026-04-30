@@ -1,16 +1,13 @@
 ---
 title: "The Clash"
+slug: "the-clash"
 date: 2022-04-06
-category: "artist"
-track_count: 21
-first_year: 1977
-last_year: 2022
+layout: post
 tags:
   - '@the-clash'
   - '1900s'
   - '2020s'
   - 'punk'
-stub: true
 ---
 
 ## The Clash

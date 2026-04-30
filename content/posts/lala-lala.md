@@ -1,16 +1,13 @@
 ---
 title: "Lala Lala"
+slug: "lala-lala"
 date: 2021-10-08
-category: "artist"
-track_count: 3
-first_year: 2021
-last_year: 2021
+layout: post
 tags:
   - '@lala-lala'
   - '@lala-lala-sen-morimoto'
   - '2020s'
   - 'lo-fi indie'
-stub: true
 ---
 
 ## Lala Lala

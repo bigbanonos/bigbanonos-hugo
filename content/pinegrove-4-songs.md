@@ -1,12 +1,12 @@
 ---
-title: "' 'Pinegrove'
-'"
+title: "Pinegrove"
+slug: "pinegrove"
 date: 2024-12-20
-original_title: "'Pinegrove - 4 Songs'"
+layout: post
 tags:
   - '@pinegrove'
-layout: post
 ---
+
 <h1>BigBanonos Top Songs by Pinegrove</h1>
 {{< img-lite src="https://images.squarespace-cdn.com/content/v1/5e3cc11ed2bb072570aa443e/1613848839214-Y1G4R7LMDDXX0KW91UHR/pinegrove.jpg" alt="Pinegrove" >}} <p>Pinegroveâ€™s signature â€œcountrygazeâ€ style brings a warm, reflective sound to indie rock. Known for their evocative lyrics and intimate recordings, Pinegrove continues to resonate deeply with fans. Here are BigBanonos' top picks:</p> <ol> <li><strong>Alaska</strong> | <em>Alaska</em> | Rough Trade | Released: November 11, 2021</li> <li><strong>The Alarmist</strong> | <em>The Alarmist</em> | Rough Trade | Released: January 14, 2020</li> <li><strong>Old Friends</strong> | <em>Cardinal</em> | Run For Cover Records, LLC | Released: February 12, 2016</li> <li><strong>New Friends</strong> | <em>Cardinal</em> | Run For Cover Records, LLC | Released: February 12, 2016</li>
 </ol> <div> {{< youtube "embed" >}}

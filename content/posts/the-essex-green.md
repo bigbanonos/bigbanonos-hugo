@@ -1,17 +1,14 @@
 ---
 title: "The Essex Green"
+slug: "the-essex-green"
 date: 2006-02-21
-category: "artist"
-track_count: 3
-first_year: 1999
-last_year: 2006
+layout: post
 tags:
   - '@the-essex-green'
   - '00s-10s'
   - '1900s'
   - 'neo-psychedelic'
   - 'jangle pop'
-stub: true
 ---
 
 ## The Essex Green

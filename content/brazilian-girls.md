@@ -1,12 +1,12 @@
 ---
-title: "' 'Brazilian Girls'
-'"
+title: "Brazilian Girls"
+slug: "brazilian-girls"
 date: 2024-12-17
-original_title: "'Brazilian Girls'"
+layout: post
 tags:
   - '@braziliangirls'
-layout: post
 ---
+
 <h2>BigBanonos' Favorite Songs by Brazilian Girls</h2>
 <div class="separator"><a href="https://lastfm.freetls.fastly.net/i/u/ar0/85ad62d74d4d45ffa60199b8ad8971d5.jpg" ><img alt="" border="0" height="320" data-original-height="400" data-original-width="315" src="https://lastfm.freetls.fastly.net/i/u/ar0/85ad62d74d4d45ffa60199b8ad8971d5.jpg"/></a></div>
 <div> {{< youtube "embed" >}}

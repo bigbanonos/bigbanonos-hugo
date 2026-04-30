@@ -1,12 +1,12 @@
 ---
-title: "' 'Liam Lynch'
-'"
+title: "Liam Lynch"
+slug: "liam-lynch"
 date: 2024-12-29
-original_title: "'Liam Lynch'"
+layout: post
 tags:
   - '@liamlynch'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonos Favorite Song by Liam Lynch: "United States of Whatever"</h1> <!-- Introductory Text -->
 <p >Updated January 1, 2003, with "United States of Whatever" by Liam Lynch. This novelty hit from the album *Fake Songs* delivers a hilarious, irreverent take on rock with its snarky lyrics and catchy rhythm. Watch the video below!</p> <!-- Featured Image -->

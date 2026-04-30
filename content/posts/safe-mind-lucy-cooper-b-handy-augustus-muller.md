@@ -1,17 +1,14 @@
 ---
-title: "Safe Mind;LUCY (Cooper B. Handy);Augustus Muller"
+title: "Safe Mind Lucy Cooper B Handy Augustus Muller"
+slug: "safe-mind-lucy-cooper-b-handy-augustus-muller"
 date: 2025-07-25
-category: "artist"
-track_count: 2
-first_year: 2025
-last_year: 2025
+layout: post
 tags:
   - '@safe-mind-lucy-cooper-b-handy-augustus-muller'
   - '2020s'
   - 'darkwave'
   - 'cold wave'
   - 'dark ambient'
-stub: true
 ---
 
 ## Safe Mind;LUCY (Cooper B. Handy);Augustus Muller

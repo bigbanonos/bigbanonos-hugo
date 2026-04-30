@@ -1,10 +1,8 @@
 ---
-title: "Memphis Bleek;JAŸ-Z;Missy Elliott;Twista"
+title: "Memphis Bleek Ja Z Missy Elliott Twista"
+slug: "memphis-bleek-ja-z-missy-elliott-twista"
 date: 2005-01-01
-category: "artist"
-track_count: 4
-first_year: 2000
-last_year: 2005
+layout: post
 tags:
   - '@memphis-bleek-ja-z-missy-elliott-twista'
   - '@memphis-bleek'
@@ -14,7 +12,6 @@ tags:
   - 'east coast hip hop'
   - 'hip hop'
   - 'rap'
-stub: true
 ---
 
 ## Memphis Bleek;JAŸ-Z;Missy Elliott;Twista

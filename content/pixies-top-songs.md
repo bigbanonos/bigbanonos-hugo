@@ -1,12 +1,12 @@
 ---
-title: "' 'Pixies - Top Songs'
-'"
+title: "Pixies"
+slug: "pixies"
 date: 2024-12-20
-original_title: "'Pixies - Top Songs'"
+layout: post
 tags:
   - '@pixies'
-layout: post
 ---
+
 <h1>BigBanonos Top Songs by Pixies</h1>
 {{< img-lite src="https://cdn.mos.cms.futurecdn.net/DguKmSPjSXW8Ur6hrt96yJ.jpg" alt="Pixies" >}} <p>The Pixies are pioneers of alternative rock, blending raw energy with surreal lyrics and unforgettable hooks. Their influential sound continues to resonate across generations. Here are BigBanonos' top selections:</p> <ol> <li><strong>Debaser</strong> | <em>Doolittle</em> | Released: 1989</li> <li><strong>Bone Machine</strong> | <em>Surfer Rosa</em> | Released: 1988</li> <li><strong>Broken Face</strong> | <em>Surfer Rosa</em> | Released: 1988</li> <li><strong>Cactus</strong> | <em>Surfer Rosa</em> | Released: 1988</li> <li><strong>Crackity Jones</strong> | <em>Doolittle</em> | Released: 1989</li> <li><strong>Ed Is Dead</strong> | <em>Come On Pilgrim</em> | Released: 1987</li> <li><strong>Gigantic</strong> | <em>Surfer Rosa</em> | Released: 1988</li> <li><strong>Gouge Away</strong> | <em>Doolittle</em> | Released: 1989</li> <li><strong>Here Comes Your Man</strong> | <em>Doolittle</em> | Released: 1989</li> <li><strong>Hey</strong> | <em>Doolittle</em> | Released: 1989</li> <li><strong>I Bleed</strong> | <em>Doolittle</em> | Released: 1989</li> <li><strong>Iâ€™m Amazed</strong> | <em>Surfer Rosa</em> | Released: 1988</li> <li><strong>Iâ€™ve Been Tired</strong> | <em>Come On Pilgrim</em> | Released: 1987</li> <li><strong>La La Love You</strong> | <em>Doolittle</em> | Released: 1989</li> <li><strong>Levitate Me</strong> | <em>Come On Pilgrim</em> | Released: 1987</li> <li><strong>Monkey Gone To Heaven</strong> | <em>Doolittle</em> | Released: 1989</li> <li><strong>Motorway To Roswell</strong> | <em>Trompe le Monde</em> | Released: 1991</li> <li><strong>Mr. Grieves</strong> | <em>Doolittle</em> | Released: 1989</li> <li><strong>Nimrodâ€™s Son</strong> | <em>Come On Pilgrim</em> | Released: 1987</li> <li><strong>No. 13 Baby</strong> | <em>Doolittle</em> | Released: 1989</li> <li><strong>Tame</strong> | <em>Doolittle</em> | Released: 1989</li> <li><strong>The Holiday Song</strong> | <em>Come On Pilgrim</em> | Released: 1987</li> <li><strong>There Goes My Gun</strong> | <em>Doolittle</em> | Released: 1989</li> <li><strong>Tonyâ€™s Theme</strong> | <em>Surfer Rosa</em> | Released: 1988</li> <li><strong>Wave Of Mutilation</strong> | <em>Doolittle</em> | Released: 1989</li> <li><strong>Where Is My Mind?</strong> | <em>Surfer Rosa</em> | Released: 1988</li> <li><strong>Alec Eiffel</strong> | <em>Trompe le Monde</em> | Released: 1991</li> <li><strong>Hang Wire</strong> | <em>Bossanova</em> | Released: 1990</li> <li><strong>Is She Weird</strong> | <em>Bossanova</em> | Released: 1990</li> <li><strong>Letter To Memphis</strong> | <em>Trompe le Monde</em> | Released: 1991</li> <li><strong>Palace Of The Brine</strong> | <em>Trompe le Monde</em> | Released: 1991</li> <li><strong>U-Mass</strong> | <em>Trompe le Monde</em> | Released: 1991</li> <li><strong>Dig For Fire</strong> | <em>Bossanova</em> | Released: 1990</li>
 </ol> <div> {{< youtube "embed" >}}

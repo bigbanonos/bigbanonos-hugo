@@ -1,12 +1,12 @@
 ---
-title: "' 'Allison Russell'
-'"
+title: "Allison Russell"
+slug: "allison-russell"
 date: 2025-01-17
-original_title: "'Allison Russell'"
+layout: post
 tags:
   - '@allisonrussell'
-layout: post
 ---
+
  <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Allison Russell</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab6761610000e5eb48d1162e2147fe542e75b73d" alt="Allison Russell" >}}

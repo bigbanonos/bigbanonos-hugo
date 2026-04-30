@@ -1,16 +1,13 @@
 ---
 title: "Les Sexareenos"
+slug: "les-sexareenos"
 date: 2001-01-01
-category: "artist"
-track_count: 2
-first_year: 2001
-last_year: 2001
+layout: post
 tags:
   - '@les-sexareenos'
   - '00s-10s'
   - 'garage rock'
   - 'psychobilly'
-stub: true
 ---
 
 ## Les Sexareenos

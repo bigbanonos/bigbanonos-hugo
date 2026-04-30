@@ -1,12 +1,12 @@
 ---
-title: "' 'Mae Shi'
-'"
+title: "Mae Shi"
+slug: "mae-shi"
 date: 2024-12-29
-original_title: "'Mae Shi'"
+layout: post
 tags:
   - '@maeshi'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonos Favorite Song by The Mae Shi: "Run To Your Grave"</h1> <!-- Introductory Text -->
 <p >Updated February 26, 2008, with "Run To Your Grave" by The Mae Shi. This energetic track from their album *HLLLYH* blends noise rock and sasscore to create a chaotic yet infectious sound. Watch the video below!</p> <!-- Featured Image -->

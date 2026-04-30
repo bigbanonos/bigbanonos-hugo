@@ -1,6 +1,8 @@
 ---
-title: "10Tik"
+title: "10tik"
+slug: "10tik"
 date: 2026-03-02
+layout: post
 tags:
   - '@10tik'
   - '@quada'
@@ -9,10 +11,6 @@ tags:
   - '@laioung'
   - '@wsg'
   - '@dancehall'
-category: "artist"
-cover:
-  image: "https://www.dancehallmag.com/assets/2021/02/10tik.jpg"
-  alt: "10Tik"
 ---
 
 Jamaican dancehall artist from Red Hills Road, Kingston. Former firefighter, one of the most consistent artists in the genre right now.

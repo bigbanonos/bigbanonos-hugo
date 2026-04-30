@@ -1,13 +1,13 @@
 ---
-title: "' 'Cate Le Bon'
-'"
+title: "Cate Le Bon Ft Perfume Genius I Think I"
+slug: "cate-le-bon-ft-perfume-genius-i-think-i"
 date: 2024-12-03
-original_title: "'Cate Le Bon'"
+layout: post
 tags:
   - '@perfumegenius'
   - '@catelebon'
-layout: post
 ---
+
 <!-- Post Title -->
 <h1 >BigBanonos' Favorite Song by Cate Le Bon</h1> <!-- Introductory Text -->
 <p >Updated November 12, 2013 with BigBanonos' favorite track, "I Think I Knew" by Cate Le Bon featuring Perfume Genius. This stunning piece from *Mug Museum* exemplifies art pop brilliance with a touch of chamber psych magic.</p> <!-- Featured Image -->

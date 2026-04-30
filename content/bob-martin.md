@@ -1,12 +1,12 @@
 ---
-title: "' 'Bob Martin'
-'"
+title: "Bob Martin"
+slug: "bob-martin"
 date: 2024-12-27
-original_title: "'Bob Martin'"
+layout: post
 tags:
   - '@bobmartin'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonos Favorite Song by Bob Martin: "Frog Dick, South Dakota"</h1> <!-- Introductory Text -->
 <p >Updated October 1, 1972, with "Frog Dick, South Dakota" by Bob Martin. This folk storytelling gem from the album *Midwest Farm Disaster* captures Martinâ€™s unique wit and evocative imagery. Watch the video below!</p> <!-- Featured Image -->

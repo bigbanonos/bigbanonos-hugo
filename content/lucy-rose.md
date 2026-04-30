@@ -1,12 +1,12 @@
 ---
-title: "' 'Lucy Rose'
-'"
+title: "Lucy Rose"
+slug: "lucy-rose"
 date: 2024-12-14
-original_title: "'Lucy Rose'"
+layout: post
 tags:
   - '@lucyrose'
-layout: post
 ---
+
 <!-- Post Title -->
 <h1 >BigBanonos' Favorite Tracks: Lucy Rose - "Like an Arrow"</h1> <!-- Introductory Text -->
 <p >Updated July 3, 2015, with "Like an Arrow" by Lucy Rose. This ambient folk track from the deluxe edition of <em>Work It Out</em>, released under Columbia Records, highlights Lucy Roseâ€™s ethereal vocals and introspective songwriting.</p> <!-- Featured Image -->

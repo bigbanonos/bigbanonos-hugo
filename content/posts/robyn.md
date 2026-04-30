@@ -1,10 +1,8 @@
 ---
 title: "Robyn"
+slug: "robyn"
 date: 2026-01-07
-category: "artist"
-track_count: 22
-first_year: 1995
-last_year: 2026
+layout: post
 tags:
   - '@robyn'
   - '@robyn-cherno-jah-johan-ekh-ulf-lindstr-m'
@@ -16,7 +14,6 @@ tags:
   - '1900s'
   - '2020s'
   - 'swedish pop'
-stub: true
 ---
 
 ## Robyn

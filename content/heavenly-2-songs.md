@@ -1,13 +1,13 @@
 ---
-title: "' 'Heavenly'
-'"
+title: "Heavenly"
+slug: "heavenly"
 date: 2024-12-21
-original_title: "'Heavenly - 2 Songs'"
+layout: post
 tags:
   - '@heavenly'
   - '@calvinjohnson'
-layout: post
 ---
+
 <h1>BigBanonos 2 Favorite Songs by Heavenly</h1>
 <img alt="Heavenly" src="https://i.scdn.co/image/e9515beaabe2268bd5e1c018681514ef327cd04c" /> <p>This collection of BigBanonos' favorite tracks by Heavenly captures the essence of twee pop and indie charm. These songs showcase the bandâ€™s distinctive, playful style that helped define the c86 and tape club scenes.</p> <ol> <li><strong>P.U.N.K. Girl</strong> | <em>Atta Girl</em> | SARAH RECORDS | Released: January 1, 1993</li> <li><strong>C Is The Heavenly Option</strong> (feat. Calvin Johnson) | <em>Le Jardin De Heavenly</em> | SARAH RECORDS | Released: January 1, 1992</li>
 </ol> <div> {{< youtube "embed" >}}

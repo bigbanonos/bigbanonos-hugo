@@ -1,12 +1,12 @@
 ---
-title: "' 'Whitney'
-'"
+title: "Whitney"
+slug: "whitney"
 date: 2025-01-11
-original_title: "'Whitney'"
+layout: post
 tags:
   - '@whitney'
-layout: post
 ---
+
 <div class="post-title"> <h1>BigBanonos' Favorite Songs by Whitney</h1>
 </div>
 <p>Updated July 28, 2022, with "REAL LOVE" from the album <i>BLUE b/w TWIRL</i>, highlighted in the playlist below:</p>

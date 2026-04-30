@@ -1,17 +1,14 @@
 ---
 title: "The Rolling Stones"
+slug: "the-rolling-stones"
 date: 2015-02-06
-category: "artist"
-track_count: 11
-first_year: 1965
-last_year: 2015
+layout: post
 tags:
   - '@the-rolling-stones'
   - '00s-10s'
   - '1900s'
   - 'classic rock'
   - 'rock'
-stub: true
 ---
 
 ## The Rolling Stones

@@ -1,15 +1,12 @@
 ---
 title: "Mando Diao"
+slug: "mando-diao"
 date: 2004-09-22
-category: "artist"
-track_count: 3
-first_year: 2002
-last_year: 2004
+layout: post
 tags:
   - '@mando-diao'
   - '00s-10s'
   - 'swedish pop'
-stub: true
 ---
 
 ## Mando Diao

@@ -1,10 +1,8 @@
 ---
 title: "Mr Eazi"
+slug: "mr-eazi"
 date: 2025-07-18
-category: "artist"
-track_count: 5
-first_year: 2017
-last_year: 2025
+layout: post
 tags:
   - '@mr-eazi'
   - '@mr-eazi-major-lazer-french-montana-ty-dolla-ign'
@@ -15,7 +13,6 @@ tags:
   - 'afrobeat'
   - 'afropop'
   - 'azonto'
-stub: true
 ---
 
 ## Mr Eazi

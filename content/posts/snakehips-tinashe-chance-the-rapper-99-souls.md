@@ -1,10 +1,8 @@
 ---
-title: "Snakehips;Tinashe;Chance the Rapper;99 Souls"
+title: "Snakehips Tinashe Chance The Rapper 99 Souls"
+slug: "snakehips-tinashe-chance-the-rapper-99-souls"
 date: 2019-09-27
-category: "artist"
-track_count: 4
-first_year: 2015
-last_year: 2019
+layout: post
 tags:
   - '@snakehips-tinashe-chance-the-rapper-99-souls'
   - '@snakehips-anna-of-the-north-channel-tres'
@@ -15,7 +13,6 @@ tags:
   - 'hip hop'
   - 'jazz rap'
   - 'rap'
-stub: true
 ---
 
 ## Snakehips;Tinashe;Chance the Rapper;99 Souls

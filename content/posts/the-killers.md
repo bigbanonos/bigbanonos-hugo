@@ -1,10 +1,8 @@
 ---
 title: "The Killers"
+slug: "the-killers"
 date: 2021-08-12
-category: "artist"
-track_count: 7
-first_year: 2004
-last_year: 2021
+layout: post
 tags:
   - '@the-killers'
   - '@the-killers-bruce-springsteen'
@@ -14,7 +12,6 @@ tags:
   - 'alternative rock'
   - 'glam rock'
   - 'proto-punk'
-stub: true
 ---
 
 ## The Killers

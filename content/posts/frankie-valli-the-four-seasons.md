@@ -1,10 +1,8 @@
 ---
-title: "Frankie Valli & The Four Seasons"
+title: "Frankie Valli The Four Seasons"
+slug: "frankie-valli-the-four-seasons"
 date: 2003-01-14
-category: "artist"
-track_count: 5
-first_year: 2003
-last_year: 2003
+layout: post
 tags:
   - '@frankie-valli-the-four-seasons'
   - '@frankie-valli'
@@ -13,7 +11,6 @@ tags:
   - 'doo-wop'
   - 'northern soul'
   - 'motown'
-stub: true
 ---
 
 ## Frankie Valli & The Four Seasons

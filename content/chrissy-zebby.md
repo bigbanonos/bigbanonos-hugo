@@ -1,12 +1,12 @@
 ---
-title: "' 'Chrissy Zebby'
-'"
+title: "Chrissy Zebby"
+slug: "chrissy-zebby"
 date: 2025-01-15
-original_title: "'Chrissy Zebby'"
+layout: post
 tags:
   - '@chrisszebby'
-layout: post
 ---
+
 <h3 >BigBanonos' 2 Favorite Songs by Chrissy Zebby, Coffin Maker, and Fisherman</h3> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab67616d0000b2731d01bee2a6e4a80f35a948a5" alt="Chrissy Zebby Tembo Album Cover" >}}
 </div> <!-- Introductory Text -->

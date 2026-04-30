@@ -1,10 +1,8 @@
 ---
-title: "Project Pat;La Chat;Three 6 Mafia"
+title: "Project Pat La Chat Three 6 Mafia"
+slug: "project-pat-la-chat-three-6-mafia"
 date: 2001-02-13
-category: "artist"
-track_count: 3
-first_year: 1999
-last_year: 2001
+layout: post
 tags:
   - '@project-pat-la-chat-three-6-mafia'
   - '@project-pat'
@@ -15,7 +13,6 @@ tags:
   - 'crunk'
   - 'gangster rap'
   - 'horrorcore'
-stub: true
 ---
 
 ## Project Pat;La Chat;Three 6 Mafia

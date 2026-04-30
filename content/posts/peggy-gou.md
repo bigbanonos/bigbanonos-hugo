@@ -1,16 +1,13 @@
 ---
 title: "Peggy Gou"
+slug: "peggy-gou"
 date: 2023-11-08
-category: "artist"
-track_count: 4
-first_year: 2018
-last_year: 2023
+layout: post
 tags:
   - '@peggy-gou'
   - '@peggy-gou-lenny-kravitz'
   - '00s-10s'
   - '2020s'
-stub: true
 ---
 
 ## Peggy Gou

@@ -1,15 +1,12 @@
 ---
 title: "Mulatu Astatke"
+slug: "mulatu-astatke"
 date: 1998-10-06
-category: "artist"
-track_count: 2
-first_year: 1969
-last_year: 1998
+layout: post
 tags:
   - '@mulatu-astatke'
   - '1900s'
   - 'ethiopian jazz'
-stub: true
 ---
 
 ## Mulatu Astatke

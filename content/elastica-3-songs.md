@@ -1,12 +1,12 @@
 ---
-title: "' 'Elastica'
-'"
+title: "Elastica"
+slug: "elastica"
 date: 2025-01-12
-original_title: "'Elastica - 3 Songs'"
+layout: post
 tags:
   - '@elastica'
-layout: post
 ---
+
 <p><strong>BigBanonos' Top 3 Elastica Songs</strong></p>
 <p>Updated January 1, 1995Ãƒâ€šÃ‚Â with <i>Stutter</i></p>
 <ol> <li> <p>"Connection"<br /> Album: <em>Elastica</em><br /> Release Date: January 1, 1995<br /> Label: DGC<br /> Genres: Pop</p> </li> <li> <p>"Stutter"<br /> Album: <em>Elastica</em><br /> Release Date: January 1, 1995<br /> Label: DGC<br /> Genres: Pop</p> </li> <li> <p>"Car Song"<br /> Album: <em>Elastica</em><br /> Release Date: January 1, 1995<br /> Label: DGC<br /> Genres: Pop</p> </li>

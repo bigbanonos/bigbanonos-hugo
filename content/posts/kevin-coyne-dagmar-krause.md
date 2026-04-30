@@ -1,10 +1,8 @@
 ---
-title: "Kevin Coyne;Dagmar Krause"
+title: "Kevin Coyne Dagmar Krause"
+slug: "kevin-coyne-dagmar-krause"
 date: 1979-01-01
-category: "artist"
-track_count: 3
-first_year: 1979
-last_year: 1979
+layout: post
 tags:
   - '@kevin-coyne-dagmar-krause'
   - '1900s'
@@ -12,7 +10,6 @@ tags:
   - 'art rock'
   - 'singer-songwriter'
   - 'folk rock'
-stub: true
 ---
 
 ## Kevin Coyne;Dagmar Krause

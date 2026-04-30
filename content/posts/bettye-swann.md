@@ -1,10 +1,8 @@
 ---
 title: "Bettye Swann"
+slug: "bettye-swann"
 date: 2004-01-01
-category: "artist"
-track_count: 3
-first_year: 1967
-last_year: 2004
+layout: post
 tags:
   - '@bettye-swann'
   - '00s-10s'
@@ -12,7 +10,6 @@ tags:
   - 'northern soul'
   - 'soul'
   - 'classic soul'
-stub: true
 ---
 
 ## Bettye Swann

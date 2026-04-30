@@ -1,10 +1,8 @@
 ---
 title: "Christopher Martin"
+slug: "christopher-martin"
 date: 2019-05-03
-category: "artist"
-track_count: 3
-first_year: 2017
-last_year: 2019
+layout: post
 tags:
   - '@christopher-martin'
   - '00s-10s'
@@ -12,7 +10,6 @@ tags:
   - 'lovers rock'
   - 'dancehall'
   - 'riddim'
-stub: true
 ---
 
 ## Christopher Martin

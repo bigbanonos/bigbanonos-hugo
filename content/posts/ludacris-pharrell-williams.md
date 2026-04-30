@@ -1,10 +1,8 @@
 ---
-title: "Ludacris;Pharrell Williams"
+title: "Ludacris Pharrell Williams"
+slug: "ludacris-pharrell-williams"
 date: 2015-03-31
-category: "artist"
-track_count: 7
-first_year: 1998
-last_year: 2015
+layout: post
 tags:
   - '@ludacris-pharrell-williams'
   - '@ludacris'
@@ -14,7 +12,6 @@ tags:
   - '00s-10s'
   - '1900s'
   - 'southern hip hop'
-stub: true
 ---
 
 ## Ludacris;Pharrell Williams

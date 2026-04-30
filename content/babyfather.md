@@ -1,12 +1,12 @@
 ---
-title: "' 'Babyfather'
-'"
+title: "Babyfather"
+slug: "babyfather"
 date: 2025-01-17
-original_title: "'Babyfather'"
+layout: post
 tags:
   - '@babyfather'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Babyfather</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab67616d0000b273197c88ce274bb0228a1979ba" alt="Babyfather" >}}

@@ -1,13 +1,12 @@
 ---
-title: "BigBreeze"
+title: "Bigbreeze"
+slug: "bigbreeze"
 date: 2025-07-11
+layout: post
 tags:
   - '@bigbreeze'
   - '@swaizy'
   - '@meezo'
-spotify_url: "https://open.spotify.com/track/3u7cw5EXq0a2uz1hj8cPw9"
-not_on_spotify: false
-category: "1off-2020s"
 ---
 
 **DIP** feat. Swaizy & MEEZO! — *116 Summer Twenty-Five* (2025)

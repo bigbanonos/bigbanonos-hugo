@@ -1,12 +1,12 @@
 ---
-title: "' 'TV Girl'
-'"
+title: "Tv Girl"
+slug: "tv-girl"
 date: 2025-01-22
-original_title: "'TV Girl'"
+layout: post
 tags:
   - '@tvgirl'
-layout: post
 ---
+
 <div class="post-title"> <h1>BigBanonos' Favorite Songs by TV Girl</h1>
 </div>
 <p>Updated January 21, 2025, with "Lizzy Come Back to Life" from <em>Benny and the Jetts</em> by TV Girl, highlighted in the playlist below:</p> <div class="featured-image"> <img src="https://lastfm.freetls.fastly.net/i/u/500x500/b1a5e6a6e03a4eed8a1c9923157c78c4.jpg" alt="TV Girl Album Cover" />

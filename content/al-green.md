@@ -1,15 +1,15 @@
 ---
-title: "' 'Al Green'
-'"
+title: "Al Green"
+slug: "al-green"
 date: 2025-01-17
-original_title: "'Al Green'"
+layout: post
 tags:
   - '@darrentate'
   - '@anthonyhamilton'
   - '@olegkondratenko'
   - '@algreen'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Al Green</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab67616d0000b273400cef779a4cd24ebe742e9c" alt="Al Green" >}}

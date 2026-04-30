@@ -1,17 +1,14 @@
 ---
-title: "Sharon Jones & The Dap-Kings"
+title: "Sharon Jones The Dap Kings"
+slug: "sharon-jones-the-dap-kings"
 date: 2015-10-30
-category: "artist"
-track_count: 3
-first_year: 2005
-last_year: 2015
+layout: post
 tags:
   - '@sharon-jones-the-dap-kings'
   - '00s-10s'
   - 'retro soul'
   - 'soul'
   - 'funk'
-stub: true
 ---
 
 ## Sharon Jones & The Dap-Kings

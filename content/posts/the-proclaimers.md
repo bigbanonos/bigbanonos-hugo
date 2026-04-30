@@ -1,16 +1,13 @@
 ---
 title: "The Proclaimers"
+slug: "the-proclaimers"
 date: 2003-09-01
-category: "artist"
-track_count: 3
-first_year: 1987
-last_year: 2003
+layout: post
 tags:
   - '@the-proclaimers'
   - '00s-10s'
   - '1900s'
   - 'celtic rock'
-stub: true
 ---
 
 ## The Proclaimers

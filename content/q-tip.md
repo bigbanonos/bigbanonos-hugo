@@ -1,12 +1,12 @@
 ---
-title: "' 'Q-Tip'
-'"
+title: "Q Tip"
+slug: "q-tip"
 date: 2025-01-18
-original_title: "'Q-Tip'"
+layout: post
 tags:
   - '@qtip'
-layout: post
 ---
+
 <!--Title of the Post-->
 <h1 >Q-Tip - The Abstract Poet of Hip Hop</h1> <!--Introductory Text-->
 <p >Q-Tipâ€™s distinct style and smooth delivery make him a cornerstone of hip hop. Explore his standout solo tracks below.</p> <!--Featured Image-->

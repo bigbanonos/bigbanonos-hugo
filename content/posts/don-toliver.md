@@ -1,10 +1,8 @@
 ---
 title: "Don Toliver"
+slug: "don-toliver"
 date: 2026-01-30
-category: "artist"
-track_count: 6
-first_year: 2021
-last_year: 2026
+layout: post
 tags:
   - '@don-toliver'
   - '@don-toliver-baby-keem'
@@ -12,7 +10,6 @@ tags:
   - '@don-toliver-travis-scott'
   - '2020s'
   - 'rap'
-stub: true
 ---
 
 ## Don Toliver

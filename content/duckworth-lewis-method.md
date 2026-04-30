@@ -1,12 +1,12 @@
 ---
-title: "' 'Duckworth Lewis Method'
-'"
+title: "Duckworth Lewis Method"
+slug: "duckworth-lewis-method"
 date: 2024-12-29
-original_title: "'Duckworth Lewis Method'"
+layout: post
 tags:
   - '@duckworthlewismethod'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonos Favorite Song by The Duckworth Lewis Method: "Meeting Mr. Miandad"</h1> <!-- Introductory Text -->
 <p >Updated July 20, 2009, with "Meeting Mr. Miandad" by The Duckworth Lewis Method. This quirky and melodic track captures the band's unique blend of humor and storytelling, set against lush instrumentation. Watch the video below!</p> <!-- Featured Image -->

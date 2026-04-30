@@ -1,17 +1,14 @@
 ---
-title: "Melody's Echo Chamber"
+title: "Melody S Echo Chamber"
+slug: "melody-s-echo-chamber"
 date: 2022-04-29
-category: "artist"
-track_count: 2
-first_year: 2022
-last_year: 2022
+layout: post
 tags:
   - '@melody-s-echo-chamber'
   - '2020s'
   - 'neo-psychedelic'
   - 'dream pop'
   - 'psychedelic rock'
-stub: true
 ---
 
 ## Melody's Echo Chamber

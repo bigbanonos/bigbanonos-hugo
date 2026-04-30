@@ -1,17 +1,14 @@
 ---
 title: "Jerry Lee Lewis"
+slug: "jerry-lee-lewis"
 date: 1969-01-01
-category: "artist"
-track_count: 1
-first_year: 1969
-last_year: 1969
+layout: post
 tags:
   - '@jerry-lee-lewis'
   - '1900s'
   - 'rockabilly'
   - 'rock and roll'
   - 'boogie-woogie'
-stub: true
 ---
 
 ## Jerry Lee Lewis

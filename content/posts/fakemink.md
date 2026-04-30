@@ -1,15 +1,12 @@
 ---
-title: "fakemink"
+title: "Fakemink"
+slug: "fakemink"
 date: 2026-01-29
-category: "artist"
-track_count: 3
-first_year: 2023
-last_year: 2026
+layout: post
 tags:
   - '@fakemink'
   - '2020s'
   - 'cloud rap'
-stub: true
 ---
 
 ## fakemink

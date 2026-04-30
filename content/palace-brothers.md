@@ -1,12 +1,12 @@
 ---
-title: "' 'Palace Brothers'
-'"
+title: "Palace Brothers"
+slug: "palace-brothers"
 date: 2024-12-29
-original_title: "'Palace Brothers'"
+layout: post
 tags:
   - '@palacebrothers'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonos Favorite Song by Palace Brothers: "Riding"</h1> <!-- Introductory Text -->
 <p >Updated January 1, 1993, with "Riding" by Palace Brothers. This hauntingly beautiful track from *There Is No One What Will Take Care of You* showcases Will Oldhamâ€™s raw, emotive vocals and poetic lyricism. Watch and listen below!</p> <!-- Featured Image -->

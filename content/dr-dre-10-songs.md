@@ -1,8 +1,8 @@
 ---
-title: "' 'Dr. Dre'
-'"
+title: "Dr Dre"
+slug: "dr-dre"
 date: 2024-12-21
-original_title: "'Dr. Dre - 10 Songs'"
+layout: post
 tags:
   - '@hittman'
   - '@snoopdogg'
@@ -13,8 +13,8 @@ tags:
   - '@xzibit'
   - '@eminem'
   - '@andersonpaak'
-layout: post
 ---
+
 <h3><em>BigBanonos</em> Favorite Songs by Dr. Dre:</h3> <p>Updated on February 4, 2022, with the addition of â€œGospelâ€ and â€œETA.â€ BigBanonos highlights Dr. Dreâ€™s top tracks, showcasing his influence on g fun, west coast rap, and hip hop classics.</p> <!--Image-->
 <div class="separator"> <a href="https://media.gq.com/photos/64b162bef8b3d9b70b372fcd/1:1/w_1125,h_1125,c_limit/dre.jpg" > <img alt="Dr. Dre" src="https://media.gq.com/photos/64b162bef8b3d9b70b372fcd/1:1/w_1125,h_1125,c_limit/dre.jpg" /> </a>
 </div> <!--Spotify Playlist Embed-->

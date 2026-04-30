@@ -1,16 +1,13 @@
 ---
-title: "'Weird Al' Yankovic"
+title: "Weird Al Yankovic"
+slug: "weird-al-yankovic"
 date: 1996-12-31
-category: "artist"
-track_count: 4
-first_year: 1984
-last_year: 1996
+layout: post
 tags:
   - '@weird-al-yankovic'
   - '1900s'
   - 'comedy'
   - 'polka'
-stub: true
 ---
 
 ## "Weird Al" Yankovic

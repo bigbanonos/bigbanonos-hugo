@@ -1,15 +1,15 @@
 ---
-title: "' 'Adi Oasis'
-'"
+title: "Adi Oasis"
+slug: "adi-oasis"
 date: 2024-10-27
-original_title: "'Adi Oasis - 3 Songs'"
+layout: post
 tags:
   - '@kirby'
   - '@levenkali'
   - '@adioasis'
   - '@youngfranco'
-layout: post
 ---
+
 <p>Ãƒâ€šÃ‚Â </p>
 <h3><strong>Adi Oasis's Top 3 Songs</strong></h3>
 <p>updated May 2024 with the Naked remix featuring Leven Kali</p>

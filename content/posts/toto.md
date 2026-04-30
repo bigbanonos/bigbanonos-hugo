@@ -1,16 +1,13 @@
 ---
-title: "TOTO"
+title: "Toto"
+slug: "toto"
 date: 1982-04-08
-category: "artist"
-track_count: 2
-first_year: 1978
-last_year: 1982
+layout: post
 tags:
   - '@toto'
   - '1900s'
   - 'yacht rock'
   - 'soft rock'
-stub: true
 ---
 
 ## TOTO

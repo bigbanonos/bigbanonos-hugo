@@ -1,17 +1,14 @@
 ---
 title: "Ryan Adams"
+slug: "ryan-adams"
 date: 2015-09-21
-category: "artist"
-track_count: 12
-first_year: 2000
-last_year: 2015
+layout: post
 tags:
   - '@ryan-adams'
   - '00s-10s'
   - 'alt country'
   - 'americana'
   - 'singer-songwriter'
-stub: true
 ---
 
 ## Ryan Adams

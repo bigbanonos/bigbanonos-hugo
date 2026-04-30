@@ -1,10 +1,8 @@
 ---
 title: "Comet Gain"
+slug: "comet-gain"
 date: 2023-06-02
-category: "artist"
-track_count: 4
-first_year: 1995
-last_year: 2023
+layout: post
 tags:
   - '@comet-gain'
   - '00s-10s'
@@ -13,7 +11,6 @@ tags:
   - 'jangle pop'
   - 'indie pop'
   - 'power pop'
-stub: true
 ---
 
 ## Comet Gain

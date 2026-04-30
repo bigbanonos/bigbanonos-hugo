@@ -1,12 +1,12 @@
 ---
-title: "' 'Francis and the Lights'
-'"
+title: "Francis And Lights If They Dont Come"
+slug: "francis-and-lights-if-they-dont-come"
 date: 2024-12-20
-original_title: "'Francis and the Lights'"
+layout: post
 tags:
   - '@francisandthelights'
-layout: post
 ---
+
 <h2>BigBanonos' Favorite Tracks: Francis and the Lights â€“ 5 Songs</h2> <div > <a href="https://www.out.com/media-library/francislights1.jpg?id=32817122&width=1245&height=700&quality=85&coordinates=0%2C15%2C0%2C217"> <img src="https://www.out.com/media-library/francislights1.jpg?id=32817122&width=1245&height=700&quality=85&coordinates=0%2C15%2C0%2C217" alt="Francis and the Lights" width="400" /> </a>
 </div> <p><em>BigBanonos</em> celebrates the artistry of Francis and the Lights with this curated selection of tracks, blending art pop with indie and hip-hop influences.</p> <h3>Selected Tracks</h3>
 <ol> <li><strong>Take Me to the Light</strong> â€“ <em>Take Me to the Light</em> (2019), featuring Bon Iver and Kanye West</li> <li><strong>If They Don't Come Tomorrow</strong> â€“ <em>Standalone Single</em> (2013)</li> <li><strong>Scream so Loud (Lammer Dance Mix)</strong> â€“ <em>Standalone Single</em> (2018)</li> <li><strong>Tap the Phone</strong> â€“ <em>It'll Be Better</em> (2010)</li> <li><strong>Going Out</strong> â€“ <em>Standalone Single</em> (2010)</li>

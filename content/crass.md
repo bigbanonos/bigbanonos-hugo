@@ -1,12 +1,12 @@
 ---
-title: "' 'Crass'
-'"
+title: "Crass"
+slug: "crass"
 date: 2025-01-17
-original_title: "'Crass'"
+layout: post
 tags:
   - '@crass'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Crass</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab67616d0000b27308da902d054513244ddc9193" alt="Crass" >}}

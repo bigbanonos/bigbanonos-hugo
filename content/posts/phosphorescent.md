@@ -1,15 +1,12 @@
 ---
 title: "Phosphorescent"
+slug: "phosphorescent"
 date: 2022-12-07
-category: "artist"
-track_count: 7
-first_year: 2009
-last_year: 2022
+layout: post
 tags:
   - '@phosphorescent'
   - '00s-10s'
   - '2020s'
-stub: true
 ---
 
 ## Phosphorescent

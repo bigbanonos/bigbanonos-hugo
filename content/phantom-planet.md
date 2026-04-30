@@ -1,12 +1,12 @@
 ---
-title: "' 'Phantom Planet'
-'"
+title: "Phantom Planet"
+slug: "phantom-planet"
 date: 2024-12-29
-original_title: "'Phantom Planet'"
+layout: post
 tags:
   - '@phantomplanet'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonos Favorite Song by Phantom Planet: "The Guest - Demo"</h1> <!-- Introductory Text -->
 <p >Updated January 1, 2002, with "The Guest - Demo" by Phantom Planet. This raw and captivating version of the title track from their *The Guest* album provides a glimpse into the bandâ€™s creative process and highlights their unmistakable charm. Watch and listen below!</p> <!-- Featured Image -->

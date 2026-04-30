@@ -1,14 +1,14 @@
 ---
-title: "' 'Freddie Gibbs'
-'"
+title: "Freddie Gibbs"
+slug: "freddie-gibbs"
 date: 2024-12-21
-original_title: "'Freddie Gibbs - 2 Songs'"
+layout: post
 tags:
   - '@offset'
   - '@pushat'
   - '@freddiegibbs'
-layout: post
 ---
+
 <h3><em>BigBanonos</em> Favorite Songs by Freddie Gibbs:</h3> <p>Updated on September 30, 2022, with the standout track â€œPain & Strife (feat. Offset).â€ Explore <em>BigBanonos</em> favorite Freddie Gibbs songs, featuring hard-hitting collaborations with Offset and Pusha T.</p> <!--Image-->
 <div class="separator"> <a href="https://i.ytimg.com/vi/kxZaovFzw5Q/sddefault.jpg" > <img alt="Freddie Gibbs" src="https://i.ytimg.com/vi/kxZaovFzw5Q/sddefault.jpg" /> </a>
 </div> <!--Spotify Playlist Embed-->

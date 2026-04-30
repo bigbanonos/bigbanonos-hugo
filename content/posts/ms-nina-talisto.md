@@ -1,16 +1,13 @@
 ---
-title: "Ms Nina;Talisto"
+title: "Ms Nina Talisto"
+slug: "ms-nina-talisto"
 date: 2019-07-03
-category: "artist"
-track_count: 2
-first_year: 2017
-last_year: 2019
+layout: post
 tags:
   - '@ms-nina-talisto'
   - '@ms-nina-maria-escarmiento'
   - '00s-10s'
   - 'neoperreo'
-stub: true
 ---
 
 ## Ms Nina;Talisto

@@ -1,12 +1,12 @@
 ---
-title: "' 'Lily Konigsberg'
-'"
+title: "Lily Konigsberg"
+slug: "lily-konigsberg"
 date: 2024-12-21
-original_title: "'Lily Konigsberg - 4 Songs'"
+layout: post
 tags:
   - '@lilykonigsberg'
-layout: post
 ---
+
 <h1>Lily Konigsberg - Top Songs</h1>
 <img alt="Lily Konigsberg" src="https://f4.bcbits.com/img/a3814913118_65" /> <p>Explore the unique experimental indie sounds of Lily Konigsberg. Known for her intricate folk influences and captivating style, here are some standout tracks:</p> <ol> <li><strong>Sweat Forever</strong> | Released: September 15, 2021</li> <li><strong>That's The Way I Like It</strong> | Released: August 18, 2021</li> <li><strong>Talk To Me w. Birds</strong> | Album: The Best of Lily Konigsberg Right Now | Released: May 21, 2021</li> <li><strong>Owe Me</strong> | Released: March 10, 2021</li>
 </ol> <div> {{< youtube "embed" >}}

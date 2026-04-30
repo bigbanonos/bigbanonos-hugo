@@ -1,12 +1,12 @@
 ---
-title: "' 'Alan Lomax'
-'"
+title: "Alan Lomax"
+slug: "alan-lomax"
 date: 2025-02-12
-original_title: "'Alan Lomax'"
+layout: post
 tags:
   - '@alanlomax'
-layout: post
 ---
+
 <div> {{< img-lite src="https://i.scdn.co/image/ab67616d00001e02520ac3bea2571b3ebe4df65d" alt="Alan Lomax - International Songs" >}}
 </div> <p>
 BigBanonos' favorite Alan Lomax recordings:

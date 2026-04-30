@@ -1,8 +1,8 @@
 ---
-title: "' 'Mudra D Viral'
-'"
+title: "Mudra D Viral"
+slug: "mudra-d-viral"
 date: 2024-12-20
-original_title: "'Mudra D Viral - 4 Songs'"
+layout: post
 tags:
   - '@karolekasita'
   - '@vinka'
@@ -10,8 +10,8 @@ tags:
   - '@cashan'
   - '@kiprich'
   - '@mudradviral'
-layout: post
 ---
+
 <h1>BigBanonos Top Songs by Mudra D Viral</h1>
 {{< img-lite src="https://i0.wp.com/mbu.ug/wp-content/uploads/2023/03/Ava-Peace-4-edited.jpg?fit=1440%2C900&ssl=1" alt="Mudra D Viral" >}} <p>Mudra D Viral is making waves in Ugandan pop with his unique blend of rhythms and infectious energy. Hereâ€™s a selection of his top songs, showcasing his vibrant style.</p> <ol> <li><strong>Onkosa</strong> | <em>Mudra D Viral</em> | Released: February 25, 2021</li> <li><strong>Balo Balo (Caribbean Remix)</strong> | <em>Balo Balo (Caribbean Remix)</em> | Featuring Cashan, Kiprich, RDx | DCM empire | Released: February 3, 2023</li> <li><strong>Nkuwulira</strong> | <em>Boss</em> | Featuring Karole Kasita | DCM EMPIRE | Released: May 26, 2021</li> <li><strong>Kimuli - Remix</strong> | <em>Kimuli (Remix)</em> | Featuring Vinka | Dream City Music Empire | Released: November 12, 2021</li>
 </ol> <div> {{< youtube "embed" >}}

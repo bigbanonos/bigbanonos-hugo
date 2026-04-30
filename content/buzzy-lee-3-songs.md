@@ -1,12 +1,12 @@
 ---
-title: "' 'Buzzy Lee'
-'"
+title: "Buzzy Lee"
+slug: "buzzy-lee"
 date: 2024-11-03
-original_title: "'Buzzy Lee - 3 Songs'"
+layout: post
 tags:
   - '@buzzylee'
-layout: post
 ---
+
 <h2>BigBanonos' Top 3 Tracks by Buzzy Lee</h2> <!-- Search Description -->
 <p>BigBanonosâ€™ favorite Buzzy Lee tracks explore modern indie pop through deeply emotive songs. Enjoy the top picks with this playlist below, including the recent release â€œInternal Affairs.â€</p> <!-- Spotify Playlist Embed -->
 {{< youtube "embed" >}} <!-- Song Listings -->

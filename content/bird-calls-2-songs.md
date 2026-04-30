@@ -1,12 +1,12 @@
 ---
-title: "' 'Bird Calls'
-'"
+title: "Bird Calls"
+slug: "bird-calls"
 date: 2024-11-03
-original_title: "'Bird Calls - 2 Songs'"
+layout: post
 tags:
   - '@birdcalls'
-layout: post
 ---
+
 <h2>BigBanonos' Favorite Tracks by The Bird Calls</h2> <!-- Search Description -->
 <p>Explore BigBanonosâ€™ top two tracks by The Bird Calls, capturing their unique style from the recent release "Exodus All Over." Listen to these picks on the playlist below.</p> <!-- Spotify Playlist Embed -->
 {{< youtube "embed" >}} <!-- Song Listings -->

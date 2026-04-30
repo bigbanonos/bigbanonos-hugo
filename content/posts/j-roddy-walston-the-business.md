@@ -1,14 +1,11 @@
 ---
-title: "J. Roddy Walston & The Business"
+title: "J Roddy Walston The Business"
+slug: "j-roddy-walston-the-business"
 date: 2013-01-01
-category: "artist"
-track_count: 2
-first_year: 2010
-last_year: 2013
+layout: post
 tags:
   - '@j-roddy-walston-the-business'
   - '00s-10s'
-stub: true
 ---
 
 ## J. Roddy Walston & The Business

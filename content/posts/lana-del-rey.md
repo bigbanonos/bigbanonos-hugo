@@ -1,10 +1,8 @@
 ---
 title: "Lana Del Rey"
+slug: "lana-del-rey"
 date: 2023-05-19
-category: "artist"
-track_count: 38
-first_year: 2012
-last_year: 2023
+layout: post
 tags:
   - '@lana-del-rey'
   - '@lana-del-ray'
@@ -13,7 +11,6 @@ tags:
   - '@lana-del-rey-father-john-misty'
   - '00s-10s'
   - '2020s'
-stub: true
 ---
 
 ## Lana Del Rey

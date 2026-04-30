@@ -1,7 +1,8 @@
 ---
-title: "DORIS"
+title: "Doris"
+slug: "doris"
 date: 2026-03-28
-category: "artist"
+layout: post
 tags:
   - '@doris'
 ---

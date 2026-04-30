@@ -1,17 +1,14 @@
 ---
 title: "Built To Spill"
+slug: "built-to-spill"
 date: 2006-04-10
-category: "artist"
-track_count: 22
-first_year: 1993
-last_year: 2006
+layout: post
 tags:
   - '@built-to-spill'
   - '00s-10s'
   - '1900s'
   - 'indie rock'
   - 'alternative rock'
-stub: true
 ---
 
 ## Built To Spill

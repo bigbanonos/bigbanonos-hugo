@@ -1,15 +1,12 @@
 ---
 title: "The Range"
+slug: "the-range"
 date: 2022-03-23
-category: "artist"
-track_count: 2
-first_year: 2016
-last_year: 2022
+layout: post
 tags:
   - '@the-range'
   - '00s-10s'
   - '2020s'
-stub: true
 ---
 
 ## The Range

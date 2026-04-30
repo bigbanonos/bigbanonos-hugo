@@ -1,12 +1,12 @@
 ---
-title: "' 'Faces'
-'"
+title: "Faces"
+slug: "faces"
 date: 2025-01-16
-original_title: "'Faces'"
+layout: post
 tags:
   - '@faces'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonos' 2 Favorite Songs by Faces: "You Can Make Me Dance, Sing or Anything" & "Just Another Honky"</h1> <!-- Introductory Text -->
 <p >"You Can Make Me Dance, Sing or Anything" and "Just Another Honky" by Faces. These tracks from the compilation *1970-1975: You Can Make Me Dance, Sing or Anything* showcase the bandâ€™s blend of blues rock, folk rock, and glam-infused sounds. Watch the video for "You Can Make Me Dance, Sing or Anything" below!</p> <!-- Featured Image -->

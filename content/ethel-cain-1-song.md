@@ -1,12 +1,12 @@
 ---
-title: "' 'Ethel Cain'
-'"
+title: "Ethel Cain"
+slug: "ethel-cain"
 date: 2024-10-28
-original_title: "'Ethel Cain - 2 Songs'"
+layout: post
 tags:
   - '@ethelcain'
-layout: post
 ---
+
 {{< youtube "COQHYwNS8m4" >}}<h2> <h2>Ethel Cain's Top Songs</h2>
 <p><strong>Updated May 12, 2022</strong> with "American Teenager"</p>
 <p>Ethel Cainâ€™s haunting vocals and evocative lyrics bring listeners into a world of nostalgic, melancholic indie pop. Here are BigBanonos' favorite songs by Ethel Cain:</p>

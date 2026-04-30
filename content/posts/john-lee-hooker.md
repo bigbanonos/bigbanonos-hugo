@@ -1,10 +1,8 @@
 ---
 title: "John Lee Hooker"
+slug: "john-lee-hooker"
 date: 2006-08-24
-category: "artist"
-track_count: 1
-first_year: 2006
-last_year: 2006
+layout: post
 tags:
   - '@john-lee-hooker'
   - '00s-10s'
@@ -12,7 +10,6 @@ tags:
   - 'classic blues'
   - 'blues rock'
   - 'country blues'
-stub: true
 ---
 
 ## John Lee Hooker

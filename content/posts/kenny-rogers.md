@@ -1,16 +1,13 @@
 ---
 title: "Kenny Rogers"
+slug: "kenny-rogers"
 date: 1999-05-11
-category: "artist"
-track_count: 2
-first_year: 1983
-last_year: 1999
+layout: post
 tags:
   - '@kenny-rogers'
   - '1900s'
   - 'country'
   - 'classic country'
-stub: true
 ---
 
 ## Kenny Rogers

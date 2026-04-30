@@ -1,12 +1,12 @@
 ---
-title: "' 'The Ronettes'
-'"
+title: "The Ronettes"
+slug: "the-ronettes"
 date: 2024-12-16
-original_title: "'The Ronettes'"
+layout: post
 tags:
   - '@theronettes'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >The Ronettes - Be My Baby</h1> <!-- Introductory Text -->
 <p >"Be My Baby" by The Ronettes is a timeless classic that defined the girl group genre and became a hallmark of the 1960s. Released as part of *Be My Baby: The Very Best of The Ronettes*, the track is known for its lush production and Ronnie Spectorâ€™s unforgettable vocals. Watch the official audio below!</p> <!-- Featured Image -->

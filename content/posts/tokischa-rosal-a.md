@@ -1,10 +1,8 @@
 ---
-title: "Tokischa;ROSALÍA"
+title: "Tokischa Rosal A"
+slug: "tokischa-rosal-a"
 date: 2023-12-05
-category: "artist"
-track_count: 4
-first_year: 2021
-last_year: 2023
+layout: post
 tags:
   - '@tokischa-rosal-a'
   - '@tokischa-haraca-kiko-el-cherry-scom'
@@ -13,7 +11,6 @@ tags:
   - '2020s'
   - 'dembow'
   - 'neoperreo'
-stub: true
 ---
 
 ## Tokischa;ROSALÍA

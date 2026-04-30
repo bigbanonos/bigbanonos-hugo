@@ -1,17 +1,14 @@
 ---
-title: "Frank Black & The Catholics"
+title: "Frank Black The Catholics"
+slug: "frank-black-the-catholics"
 date: 2011-03-15
-category: "artist"
-track_count: 5
-first_year: 2001
-last_year: 2011
+layout: post
 tags:
   - '@frank-black-the-catholics'
   - '@black-francis'
   - '00s-10s'
   - 'indie punk'
   - 'alternative rock'
-stub: true
 ---
 
 ## Frank Black & The Catholics

@@ -1,14 +1,11 @@
 ---
 title: "Architecture In Helsinki"
+slug: "architecture-in-helsinki"
 date: 2011-04-08
-category: "artist"
-track_count: 9
-first_year: 2005
-last_year: 2011
+layout: post
 tags:
   - '@architecture-in-helsinki'
   - '00s-10s'
-stub: true
 ---
 
 ## Architecture In Helsinki

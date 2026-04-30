@@ -1,16 +1,13 @@
 ---
 title: "Hoagy Carmichael"
+slug: "hoagy-carmichael"
 date: 2023-07-21
-category: "artist"
-track_count: 2
-first_year: 1947
-last_year: 2023
+layout: post
 tags:
   - '@hoagy-carmichael'
   - '1900s'
   - '2020s'
   - 'big band'
-stub: true
 ---
 
 ## Hoagy Carmichael

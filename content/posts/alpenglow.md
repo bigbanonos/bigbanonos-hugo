@@ -1,8 +1,8 @@
 ---
 title: "Alpenglow"
+slug: "alpenglow"
 date: 2020-09-04
-category: "1off"
-era: "2020s"
+layout: post
 tags:
   - '@alpenglow'
   - '1-off'

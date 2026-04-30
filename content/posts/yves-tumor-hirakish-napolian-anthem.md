@@ -1,10 +1,8 @@
 ---
-title: "Yves Tumor;Hirakish;Napolian;ANTHEM"
+title: "Yves Tumor Hirakish Napolian Anthem"
+slug: "yves-tumor-hirakish-napolian-anthem"
 date: 2020-02-18
-category: "artist"
-track_count: 2
-first_year: 2019
-last_year: 2020
+layout: post
 tags:
   - '@yves-tumor-hirakish-napolian-anthem'
   - '@yves-tumor'
@@ -13,7 +11,6 @@ tags:
   - 'vaporwave'
   - 'chillwave'
   - 'future house'
-stub: true
 ---
 
 ## Yves Tumor;Hirakish;Napolian;ANTHEM

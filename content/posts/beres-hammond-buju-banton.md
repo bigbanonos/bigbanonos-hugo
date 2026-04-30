@@ -1,10 +1,8 @@
 ---
-title: "Beres Hammond;Buju Banton"
+title: "Beres Hammond Buju Banton"
+slug: "beres-hammond-buju-banton"
 date: 2008-08-19
-category: "artist"
-track_count: 2
-first_year: 2003
-last_year: 2008
+layout: post
 tags:
   - '@beres-hammond-buju-banton'
   - '@beres-hammond'
@@ -13,7 +11,6 @@ tags:
   - 'reggae'
   - 'roots reggae'
   - 'dancehall'
-stub: true
 ---
 
 ## Beres Hammond;Buju Banton

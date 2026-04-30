@@ -1,10 +1,8 @@
 ---
-title: "JAŸ-Z"
+title: "Ja Z"
+slug: "ja-z"
 date: 2025-07-08
-category: "artist"
-track_count: 12
-first_year: 1997
-last_year: 2025
+layout: post
 tags:
   - '@ja-z'
   - '@geese'
@@ -20,7 +18,6 @@ tags:
   - 'east coast hip hop'
   - 'rap'
   - 'southern hip hop'
-stub: true
 ---
 
 ## JAŸ-Z

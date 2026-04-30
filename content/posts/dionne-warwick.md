@@ -1,16 +1,13 @@
 ---
 title: "Dionne Warwick"
+slug: "dionne-warwick"
 date: 2021-11-26
-category: "artist"
-track_count: 4
-first_year: 1967
-last_year: 2021
+layout: post
 tags:
   - '@dionne-warwick'
   - '@dionne-warwick-chance-the-rapper'
   - '1900s'
   - '2020s'
-stub: true
 ---
 
 ## Dionne Warwick

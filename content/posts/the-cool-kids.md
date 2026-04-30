@@ -1,14 +1,11 @@
 ---
 title: "The Cool Kids"
+slug: "the-cool-kids"
 date: 2008-06-10
-category: "artist"
-track_count: 2
-first_year: 2008
-last_year: 2008
+layout: post
 tags:
   - '@the-cool-kids'
   - '00s-10s'
-stub: true
 ---
 
 ## The Cool Kids

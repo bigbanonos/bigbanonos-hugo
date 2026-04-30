@@ -1,12 +1,12 @@
 ---
-title: "' 'Prefab Sprout'
-'"
+title: "Prefab Sprout"
+slug: "prefab-sprout"
 date: 2025-01-18
-original_title: "'Prefab Sprout'"
+layout: post
 tags:
   - '@prefabsprout'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >Prefab Sprout - Sophisti-Pop Legends</h1> <!-- Introductory Text -->
 <p >Prefab Sproutâ€™s sophisticated sound and poetic lyrics cement their place in music history. Explore some highlights from their discography below.</p> <!-- Featured Image -->

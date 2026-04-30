@@ -1,12 +1,12 @@
 ---
-title: "' 'Entrance'
-'"
+title: "Entrance"
+slug: "entrance"
 date: 2024-12-28
-original_title: "'Entrance'"
+layout: post
 tags:
   - '@entrance'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonos Favorite Song by Entrance: "Darling"</h1> <!-- Introductory Text -->
 <p >Updated January 1, 2004, with "Darling" by Entrance. This soulful track from the album *Wandering Stranger* blends the haunting beauty of new weird America with folk and acoustic roots. Watch the video below!</p> <!-- Featured Image -->

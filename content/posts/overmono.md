@@ -1,16 +1,13 @@
 ---
 title: "Overmono"
+slug: "overmono"
 date: 2022-04-08
-category: "artist"
-track_count: 3
-first_year: 2021
-last_year: 2022
+layout: post
 tags:
   - '@overmono'
   - '2020s'
   - 'uk garage'
   - 'breakbeat'
-stub: true
 ---
 
 ## Overmono

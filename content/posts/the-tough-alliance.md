@@ -1,15 +1,12 @@
 ---
 title: "The Tough Alliance"
+slug: "the-tough-alliance"
 date: 2005-04-20
-category: "artist"
-track_count: 2
-first_year: 2005
-last_year: 2005
+layout: post
 tags:
   - '@the-tough-alliance'
   - '00s-10s'
   - 'swedish pop'
-stub: true
 ---
 
 ## The Tough Alliance

@@ -1,15 +1,12 @@
 ---
 title: "Josephine Foster"
+slug: "josephine-foster"
 date: 2018-10-19
-category: "artist"
-track_count: 9
-first_year: 2001
-last_year: 2018
+layout: post
 tags:
   - '@josephine-foster'
   - '@josephine-foster-the-supposed'
   - '00s-10s'
-stub: true
 ---
 
 ## Josephine Foster

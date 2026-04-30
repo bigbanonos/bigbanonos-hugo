@@ -1,16 +1,13 @@
 ---
-title: "Queens of the Stone Age"
+title: "Queens Of The Stone Age"
+slug: "queens-of-the-stone-age"
 date: 2007-01-01
-category: "artist"
-track_count: 3
-first_year: 2002
-last_year: 2007
+layout: post
 tags:
   - '@queens-of-the-stone-age'
   - '00s-10s'
   - 'stoner rock'
   - 'alternative rock'
-stub: true
 ---
 
 ## Queens of the Stone Age

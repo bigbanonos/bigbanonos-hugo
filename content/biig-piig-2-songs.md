@@ -1,12 +1,12 @@
 ---
-title: "' 'Biig Piig'
-'"
+title: "Biig Piig"
+slug: "biig-piig"
 date: 2024-11-03
-original_title: "'Biig Piig - 2 Songs'"
+layout: post
 tags:
   - '@biigpiig'
-layout: post
 ---
+
 <h2>BigBanonos' Favorite 2 Songs by Biig Piig</h2> <!--Search Description-->
 <p>BigBanonos' top tracks by Biig Piig, showcasing her unique blend of indie soul and modern alternative pop. Featuring popular songs like "In the Dark" and "Switch."</p> <!--Spotify Playlist Embed-->
 {{< youtube "embed" >}} <!--Song Listings-->

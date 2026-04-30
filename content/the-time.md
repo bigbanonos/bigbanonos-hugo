@@ -1,12 +1,12 @@
 ---
-title: "' 'The Time'
-'"
+title: "The Time"
+slug: "the-time"
 date: 2025-01-10
-original_title: "'The Time'"
+layout: post
 tags:
   - '@time'
-layout: post
 ---
+
 <div class="post-title"> <h1>BigBanonos' Favorite Songs by The Time</h1>
 </div>
 <p>Updated August 24, 1982, with "777-9311" from the album <i>What Time Is It?</i>, highlighted in the playlist below:</p>

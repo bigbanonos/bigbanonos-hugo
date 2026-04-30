@@ -1,12 +1,12 @@
 ---
-title: "' 'Louane'
-'"
+title: "Louane"
+slug: "louane"
 date: 2024-12-14
-original_title: "'Louane'"
+layout: post
 tags:
   - '@louane'
-layout: post
 ---
+
 <!-- Post Title -->
 <h1 >BigBanonos' Favorite Tracks: Louane - "Non-sens"</h1> <!-- Introductory Text -->
 <p >Updated November 10, 2017, with "Non-sens" by Louane. This vibrant French pop track, released under Universal Music Division Island Def Jam, highlights Louane's emotive vocals and modern pop sensibilities.</p> <!-- Featured Image -->

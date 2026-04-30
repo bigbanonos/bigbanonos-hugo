@@ -1,12 +1,12 @@
 ---
-title: "' 'Bruising'
-'"
+title: "Bruising"
+slug: "bruising"
 date: 2024-12-02
-original_title: "'Bruising'"
+layout: post
 tags:
   - '@bruising'
-layout: post
 ---
+
 <!-- Post Title -->
 <h1 >BigBanonos' Favorite Song by Bruising</h1> <!-- Introductory Text -->
 <p >Updated November 20, 2015, with BigBanonos' favorite track by Bruising, "Honey." Featured on the release *Emo Friends / Honey* from Beech Coma, this bubblegrunge gem captivates with its raw energy. Watch the video and see more details below:</p> <!-- Featured Image -->

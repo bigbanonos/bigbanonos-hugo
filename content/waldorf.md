@@ -1,12 +1,12 @@
 ---
-title: "' 'Waldorf'
-'"
+title: "Waldorf"
+slug: "waldorf"
 date: 2024-12-16
-original_title: "'Waldorf'"
+layout: post
 tags:
   - '@waldorf'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >Waldorf - You're My Disco (New Romantic Mix)</h1> <!-- Introductory Text -->
 <p >Updated with "You're My Disco" by Waldorf, from the *Waldorf EP*, released on May 1, 2001, by A Touch Of Class Recordings USA. A dazzling fusion of retro and modern electronic sounds, this track channels the New Romantic movement into the world of contemporary disco.</p> <!-- Featured Image -->

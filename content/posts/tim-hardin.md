@@ -1,16 +1,13 @@
 ---
 title: "Tim Hardin"
+slug: "tim-hardin"
 date: 1967-01-01
-category: "artist"
-track_count: 2
-first_year: 1966
-last_year: 1967
+layout: post
 tags:
   - '@tim-hardin'
   - '1900s'
   - 'folk rock'
   - 'singer-songwriter'
-stub: true
 ---
 
 ## Tim Hardin

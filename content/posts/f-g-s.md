@@ -1,14 +1,11 @@
 ---
-title: "F.G.S."
+title: "F G S"
+slug: "f-g-s"
 date: 2024-09-16
-category: "artist"
-track_count: 2
-first_year: 2022
-last_year: 2024
+layout: post
 tags:
   - '@f-g-s'
   - '2020s'
-stub: true
 ---
 
 ## F.G.S.

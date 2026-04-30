@@ -1,10 +1,8 @@
 ---
-title: "MGMT"
+title: "Mgmt"
+slug: "mgmt"
 date: 2024-02-23
-category: "artist"
-track_count: 9
-first_year: 2007
-last_year: 2024
+layout: post
 tags:
   - '@mgmt'
   - '@mgmt-christine-and-the-queens'
@@ -13,7 +11,6 @@ tags:
   - 'indie'
   - 'art pop'
   - 'french pop'
-stub: true
 ---
 
 ## MGMT

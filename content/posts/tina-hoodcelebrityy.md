@@ -1,17 +1,14 @@
 ---
-title: "Tina (Hoodcelebrityy)"
+title: "Tina Hoodcelebrityy"
+slug: "tina-hoodcelebrityy"
 date: 2022-01-07
-category: "artist"
-track_count: 6
-first_year: 2017
-last_year: 2022
+layout: post
 tags:
   - '@tina-hoodcelebrityy'
   - '00s-10s'
   - '2020s'
   - 'dancehall'
   - 'soca'
-stub: true
 ---
 
 ## Tina (Hoodcelebrityy)

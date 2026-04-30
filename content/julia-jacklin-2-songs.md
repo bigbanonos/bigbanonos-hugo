@@ -1,12 +1,12 @@
 ---
-title: "' 'Julia Jacklin'
-'"
+title: "Julia Jacklin"
+slug: "julia-jacklin"
 date: 2024-12-20
-original_title: "'Julia Jacklin - 2 Songs'"
+layout: post
 tags:
   - '@juliajacklin'
-layout: post
 ---
+
 <h1>Julia Jacklin: Top Songs</h1>
 {{< img-lite src="https://i0.wp.com/thecosmicclash.com/wp-content/uploads/2022/09/DSC03189.jpg?fit=1200%2C738&ssl=1" alt="Julia Jacklin" >}} <p>Julia Jacklinâ€™s music combines introspective lyrics with indie pop and chamber pop influences, resonating deeply with fans worldwide. Here are two standout tracks from her discography:</p> <ol> <li><strong>baby jesus is nobody's baby now</strong> | <em>Single</em> | Release Date: December 8, 2020 | Polyvinyl Records</li> <li><strong>Don't Know How To Keep Loving You</strong> | <em>Crushing</em> | Release Date: February 22, 2019 | Polyvinyl Records</li>
 </ol> <div> {{< youtube "embed" >}}

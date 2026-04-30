@@ -1,12 +1,12 @@
 ---
-title: "' 'Gisto'
-'"
+title: "Gisto"
+slug: "gisto"
 date: 2020-10-30
-original_title: "'Gisto - 1 Song'"
+layout: post
 tags:
   - '@gyptian'
-layout: post
 ---
+
 {{< youtube "4vCkTlglSRk" >}}<br /><br />
 <h3><ol><li>(ft. Gyptian)Ãƒâ€šÃ‚Â Move It That Way [2020]</li>
 </ol></h3>

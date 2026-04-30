@@ -1,14 +1,11 @@
 ---
 title: "David Thomas Broughton"
+slug: "david-thomas-broughton"
 date: 2011-10-04
-category: "artist"
-track_count: 2
-first_year: 2006
-last_year: 2011
+layout: post
 tags:
   - '@david-thomas-broughton'
   - '00s-10s'
-stub: true
 ---
 
 ## David Thomas Broughton

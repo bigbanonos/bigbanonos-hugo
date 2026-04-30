@@ -1,12 +1,12 @@
 ---
-title: "' 'Kings Of Leon'
-'"
+title: "Kings Of Leon"
+slug: "kings-of-leon"
 date: 2025-02-12
-original_title: "'Kings Of Leon'"
+layout: post
 tags:
   - '@kingsofleon'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonos Favorite Songs by Kings Of Leon</h1> <!-- Introductory Text -->
 <p >Updated January 17, 2025, with "Rock City" from <em>Mechanical Bull (Expanded Edition)</em>. Dive into the modern rock sound of Kings Of Leon in the playlist below!</p> <!-- Featured Image -->

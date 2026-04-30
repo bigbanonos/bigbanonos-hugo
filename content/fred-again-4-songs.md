@@ -1,15 +1,15 @@
 ---
-title: "' 'Fred again...'
-'"
+title: "Fred Again"
+slug: "fred-again"
 date: 2024-12-21
-original_title: "'Fred again...- 4 Songs'"
+layout: post
 tags:
   - '@fredagain'
   - '@romy'
   - '@baxterdury'
   - '@haai'
-layout: post
 ---
+
 <h3><em>BigBanonos</em> Favorite Songs by Fred Again..:</h3> <p>Updated on October 17, 2022, with the standout track â€œDelilah (pull me out of this).â€ Dive into <em>BigBanonos</em> favorite Fred Again.. songs, blending his signature EDM, house, and experimental vibes.</p> <!--Image-->
 <div class="separator"> <a href="https://www.rollingstone.com/wp-content/uploads/2024/09/fred-again-press.jpg?w=1581&h=1054&crop=1" > <img alt="Fred Again.." src="https://www.rollingstone.com/wp-content/uploads/2024/09/fred-again-press.jpg?w=1581&h=1054&crop=1" /> </a>
 </div> <!--Spotify Playlist Embed-->

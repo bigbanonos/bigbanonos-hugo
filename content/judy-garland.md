@@ -1,12 +1,12 @@
 ---
-title: "' 'Judy Garland'
-'"
+title: "Judy Garland"
+slug: "judy-garland"
 date: 2024-12-17
-original_title: "'Judy Garland'"
+layout: post
 tags:
   - '@judygarland'
-layout: post
 ---
+
 <h2>BigBanonos' Favorite Tracks: Judy Garland</h2> <div > <a href="https://i.ytimg.com/vi/ekczNCpb3Lg/maxresdefault.jpg"> <img src="https://i.ytimg.com/vi/ekczNCpb3Lg/maxresdefault.jpg" alt="Judy Garland" width="400" /> </a>
 </div> <p>Judy Garland, one of the greatest performers of the 20th century, continues to captivate audiences with her iconic voice and timeless songs. Here are <em>BigBanonos'</em> favorite tracks from the legendary artist.</p> <h3>Selected Tracks</h3>
 <ol> <li><strong>Hey! Look Me Over (Live)</strong> â€“ <em>Live!</em> (1962)</li> <li><strong>Then You've Never Been Blue</strong> â€“ <em>Alone</em> (1957)</li>

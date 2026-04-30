@@ -1,14 +1,11 @@
 ---
 title: "Jeremy Jay"
+slug: "jeremy-jay"
 date: 2010-01-01
-category: "artist"
-track_count: 3
-first_year: 2007
-last_year: 2010
+layout: post
 tags:
   - '@jeremy-jay'
   - '00s-10s'
-stub: true
 ---
 
 ## Jeremy Jay

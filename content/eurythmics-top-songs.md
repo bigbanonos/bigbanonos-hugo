@@ -1,12 +1,12 @@
 ---
-title: "' 'Eurythmics - Top Songs'
-'"
+title: "Eurythmics"
+slug: "eurythmics"
 date: 2024-10-28
-original_title: "'Eurythmics - Top Songs'"
+layout: post
 tags:
   - '@eurythmics'
-layout: post
 ---
+
 <h2>Eurythmics - Top Songs</h2>
 <p>Updated with timeless Eurythmics classics like â€œThere Must Be an Angel (Playing with My Heart)â€ and â€œSweet Dreams (Are Made of This).â€</p> <ul> <li><strong>There Must Be an Angel (Playing with My Heart)</strong> - <em>Be Yourself Tonight</em> (1985)</li> <li><strong>Sweet Dreams (Are Made of This) - Remaster</strong> - <em>Sweet Dreams (Are Made of This)</em> (1983)</li>
 </ul> {{< youtube "embed" >}}

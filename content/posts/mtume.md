@@ -1,17 +1,14 @@
 ---
 title: "Mtume"
+slug: "mtume"
 date: 1990-07-03
-category: "artist"
-track_count: 2
-first_year: 1984
-last_year: 1990
+layout: post
 tags:
   - '@mtume'
   - '1900s'
   - 'post-disco'
   - 'funk'
   - 'quiet storm'
-stub: true
 ---
 
 ## Mtume

@@ -1,13 +1,13 @@
 ---
-title: "' 'Elujay'
-'"
+title: "Elujay"
+slug: "elujay"
 date: 2025-01-16
-original_title: "'Elujay - 3 Songs'"
+layout: post
 tags:
   - '@elujay'
   - '@kyledion'
-layout: post
 ---
+
 <h2 >BigBanonos' Top 3 Songs by Elujay</h2> <!-- Introductory Text -->
 <p >Elujayâ€™s smooth fusion of R&B, soul, and alternative vibes has established him as a standout artist. Updated with "RISEN," this post highlights BigBanonosâ€™ favorite tracks that showcase his creativity and soulful energy.</p> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab6761610000e5ebca98ba2ccd44fb2325aedbe2" alt="Elujay - RISEN" >}}

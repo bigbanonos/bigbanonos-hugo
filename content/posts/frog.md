@@ -1,15 +1,12 @@
 ---
 title: "Frog"
+slug: "frog"
 date: 2025-09-19
-category: "artist"
-track_count: 12
-first_year: 2015
-last_year: 2025
+layout: post
 tags:
   - '@frog'
   - '00s-10s'
   - '2020s'
-stub: true
 ---
 
 ## Frog

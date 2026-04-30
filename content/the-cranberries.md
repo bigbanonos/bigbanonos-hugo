@@ -1,12 +1,12 @@
 ---
-title: "' 'The Cranberries'
-'"
+title: "The Cranberries"
+slug: "the-cranberries"
 date: 2025-01-17
-original_title: "'The Cranberries'"
+layout: post
 tags:
   - '@cranberries'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by The Cranberries</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEWOwuhjGoF1SxlfeV1KajKJBvCjoDPGNHcw&s" alt="The Cranberries" >}}

@@ -1,12 +1,12 @@
 ---
-title: "' 'Billie Holiday'
-'"
+title: "Billie Holiday"
+slug: "billie-holiday"
 date: 2025-01-17
-original_title: "'Billie Holiday'"
+layout: post
 tags:
   - '@billieholiday'
-layout: post
 ---
+
  <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Billie Holiday</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/11f685f3011fd163c386ce1afe7ce543ad814817" alt="Billie Holiday" >}}

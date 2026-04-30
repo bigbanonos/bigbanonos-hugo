@@ -1,15 +1,15 @@
 ---
-title: "' 'Omarion'
-'"
+title: "Omarion"
+slug: "omarion"
 date: 2024-12-15
-original_title: "'Omarion'"
+layout: post
 tags:
   - '@omarion'
   - '@chrisbrown'
   - '@posttobe'
   - '@jheneaiko'
-layout: post
 ---
+
 <!-- Post Title -->
 <h1 >BigBanonos' Favorite Tracks: Omarion - "Post to Be" (feat. Chris Brown & JhenÃƒÆ’Ã‚Â© Aiko)</h1> <!-- Introductory Text -->
 <p >Updated December 2, 2014, with "Post to Be" by Omarion, featuring Chris Brown and JhenÃƒÆ’Ã‚Â© Aiko. This chart-topping hit from Omarionâ€™s album <em>Sex Playlist</em> combines smooth R&B with infectious dance pop, making it a standout track with its catchy beat and unforgettable collaborations.</p> <!-- Featured Image -->

@@ -1,15 +1,12 @@
 ---
-title: "Stephen Malkmus & The Jicks"
+title: "Stephen Malkmus The Jicks"
+slug: "stephen-malkmus-the-jicks"
 date: 2018-05-18
-category: "artist"
-track_count: 4
-first_year: 2003
-last_year: 2018
+layout: post
 tags:
   - '@stephen-malkmus-the-jicks'
   - '@stephen-malkmus-the-jicks'
   - '00s-10s'
-stub: true
 ---
 
 ## Stephen Malkmus & The Jicks

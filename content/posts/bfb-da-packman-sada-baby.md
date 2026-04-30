@@ -1,17 +1,14 @@
 ---
-title: "Bfb Da Packman;Sada Baby"
+title: "Bfb Da Packman Sada Baby"
+slug: "bfb-da-packman-sada-baby"
 date: 2025-04-18
-category: "artist"
-track_count: 3
-first_year: 2021
-last_year: 2025
+layout: post
 tags:
   - '@bfb-da-packman-sada-baby'
   - '@bfb-da-packman-larussell'
   - '@bfb-da-packman-zack-fox'
   - '2020s'
   - 'hyphy'
-stub: true
 ---
 
 ## Bfb Da Packman;Sada Baby

@@ -1,16 +1,13 @@
 ---
 title: "The Lemonheads"
+slug: "the-lemonheads"
 date: 1996-01-01
-category: "artist"
-track_count: 2
-first_year: 1992
-last_year: 1996
+layout: post
 tags:
   - '@the-lemonheads'
   - '1900s'
   - 'power pop'
   - 'alternative rock'
-stub: true
 ---
 
 ## The Lemonheads

@@ -1,15 +1,15 @@
 ---
-title: "' 'Kehlani'
-'"
+title: "Kehlani"
+slug: "kehlani"
 date: 2024-11-11
-original_title: "'Kehlani -  3 Songs'"
+layout: post
 tags:
   - '@kehlani'
   - '@lilmo'
   - '@vincestaples'
   - '@tydolla$ign'
-layout: post
 ---
+
 <h2>Kehlani: BigBanonos' Top Songs</h2>
 <p>Updated August 28, 2024, with "Know Better" (feat. Lil' Mo & Vince Staples)</p>
 <p>Kehlani's fusion of R&B and hip hop is captured in BigBanonos' top song picks, bringing fresh, soulful vibes.</p> <h3>Playlist</h3>

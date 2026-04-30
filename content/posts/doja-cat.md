@@ -1,10 +1,8 @@
 ---
 title: "Doja Cat"
+slug: "doja-cat"
 date: 2025-09-26
-category: "artist"
-track_count: 10
-first_year: 2018
-last_year: 2025
+layout: post
 tags:
   - '@doja-cat'
   - '@doja-cat-nicki-minaj'
@@ -12,7 +10,6 @@ tags:
   - '00s-10s'
   - '2020s'
   - 'r&b'
-stub: true
 ---
 
 ## Doja Cat

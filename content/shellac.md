@@ -1,12 +1,12 @@
 ---
-title: "' 'Shellac'
-'"
+title: "Shellac"
+slug: "shellac"
 date: 2024-12-16
-original_title: "'Shellac'"
+layout: post
 tags:
   - '@shellac'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >Shellac - Prayer To God</h1> <!-- Introductory Text -->
 <p >Updated with "Prayer To God" by Shellac, from the album *1000 Hurts*, released on August 8, 2000, by Touch and Go Records.</p> <!-- Featured Image -->

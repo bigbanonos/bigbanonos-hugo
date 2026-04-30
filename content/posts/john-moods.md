@@ -1,14 +1,11 @@
 ---
 title: "John Moods"
+slug: "john-moods"
 date: 2022-11-11
-category: "artist"
-track_count: 2
-first_year: 2022
-last_year: 2022
+layout: post
 tags:
   - '@john-moods'
   - '2020s'
-stub: true
 ---
 
 ## John Moods

@@ -1,13 +1,12 @@
 ---
-title: "Ninajirachi"
+title: "Ninajirachi Delete"
+slug: "ninajirachi-delete"
 date: 2026-01-30
+layout: post
 tags:
   - '@ninajirachi'
   - '@horsegiirl'
   - '@hyperpop'
-spotify_url: "https://open.spotify.com/track/3OqV1YnTNsKMwphZw46k5M"
-not_on_spotify: false
-category: "1off-2020s"
 ---
 
 The horsegiirL remix of Delete is the move — takes the original somewhere weirder and better. Australian hyperpop doing what it does.

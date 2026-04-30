@@ -1,16 +1,13 @@
 ---
 title: "The Shins"
+slug: "the-shins"
 date: 2003-10-21
-category: "artist"
-track_count: 12
-first_year: 2001
-last_year: 2003
+layout: post
 tags:
   - '@the-shins'
   - '00s-10s'
   - 'indie'
   - 'indie pop'
-stub: true
 ---
 
 ## The Shins

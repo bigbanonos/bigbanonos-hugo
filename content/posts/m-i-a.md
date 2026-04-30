@@ -1,10 +1,8 @@
 ---
-title: "M.I.A."
+title: "M I A"
+slug: "m-i-a"
 date: 2020-09-25
-category: "artist"
-track_count: 7
-first_year: 2005
-last_year: 2020
+layout: post
 tags:
   - '@m-i-a'
   - '@m-i-a-the-weeknd'
@@ -12,7 +10,6 @@ tags:
   - '00s-10s'
   - '2020s'
   - 'funk'
-stub: true
 ---
 
 ## M.I.A.

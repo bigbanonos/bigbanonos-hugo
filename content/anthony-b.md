@@ -1,12 +1,12 @@
 ---
-title: "' 'Anthony B'
-'"
+title: "Anthony B"
+slug: "anthony-b"
 date: 2024-11-30
-original_title: "'Anthony B'"
+layout: post
 tags:
   - '@anthonyb'
-layout: post
 ---
+
 <!-- Post Title -->
 <h1 >BigBanonos' Favorite Song by Anthony B</h1> <!-- Introductory Text -->
 <p >Updated May 13, 2016, with BigBanonos' favorite song by Anthony B, "State Of Mind Remaster," released under KS Digital. Watch the video and see more details below:</p> <!-- Featured Image -->

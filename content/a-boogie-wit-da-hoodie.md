@@ -1,14 +1,14 @@
 ---
-title: "' 'A Boogie Wit Da Hoodie'
-'"
+title: "A Boogie Wit Da Hoodie"
+slug: "a-boogie-wit-da-hoodie"
 date: 2024-10-31
-original_title: "'A Boogie Wit Da Hoodie - 2 Songs'"
+layout: post
 tags:
   - '@6ix9ine'
   - '@aboogiewitdahoodie'
   - '@her'
-layout: post
 ---
+
 <h2>BigBanonos' Favorite 2 Songs by A Boogie Wit da Hoodie</h2>
 <p>BigBanonos celebrates A Boogie Wit da Hoodie's top tracks, diving into the vibrant Hip Hop scene with this NYC talent. Join us for a mix of melodic rap and trap.Ãƒâ€šÃ‚Â <em>BigBanonos' Favorite 2 Songs by A Boogie Wit da Hoodie, Last updated April 1, 2022, with â€œPlayaâ€ from Playa, highlighted in the playlist below:</em></p><ol><li><strong><p><strong>Playa (feat. H.E.R.) - Bonus</strong>Ãƒâ€šÃ‚Â - Album:Ãƒâ€šÃ‚Â <em>Playa</em>Ãƒâ€šÃ‚Â (2022-04-01), 2:38</p></strong></li><li><p><strong>Swervin (feat. 6ix9ine)</strong> - Album: <em>Hoodie SZN</em> (2018-12-21), 3:09</p></li>
 </ol>

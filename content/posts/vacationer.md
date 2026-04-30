@@ -1,10 +1,8 @@
 ---
 title: "Vacationer"
+slug: "vacationer"
 date: 2014-01-01
-category: "artist"
-track_count: 3
-first_year: 2009
-last_year: 2014
+layout: post
 tags:
   - '@vacationer'
   - '@vybz-kartel'
@@ -13,7 +11,6 @@ tags:
   - 'soca'
   - 'riddim'
   - 'ragga'
-stub: true
 ---
 
 ## Vacationer

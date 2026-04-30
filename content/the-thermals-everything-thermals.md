@@ -1,12 +1,12 @@
 ---
-title: "' 'The Thermals'
-'"
+title: "The Thermals Everything Thermals"
+slug: "the-thermals-everything-thermals"
 date: 2025-02-10
-original_title: "'The Thermals'"
+layout: post
 tags:
   - '@thermals'
-layout: post
 ---
+
 <!-- The Thermals -->
 <img src="https://i.scdn.co/image/ab67616d0000b27314811cfab3a9353f8c49aed1" /> <p><strong>Updated August 22, 2006 with "A Pillar Of Salt" from <em>The Body, The Blood, The Machine</em></strong></p> <p><strong>"A Pillar Of Salt"</strong> â€“ <em>The Body, The Blood, The Machine</em> (Sub Pop Records, 2006)</p>
 <p><strong>"An Ear for Baby"</strong> â€“ <em>LIVE [at the Echoplex - December 7th, 2007]</em> (Spaceland Recordings, 2008)</p>

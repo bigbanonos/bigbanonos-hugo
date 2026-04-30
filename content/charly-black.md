@@ -1,12 +1,12 @@
 ---
-title: "' 'Charly Black'
-'"
+title: "Charly Black"
+slug: "charly-black"
 date: 2025-01-17
-original_title: "'Charly Black'"
+layout: post
 tags:
   - '@charlyblack'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Tracks by Charly Black</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab6761610000e5eb9a2d905368962946b801cfd8" alt="Charly Black" >}}

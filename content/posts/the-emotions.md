@@ -1,16 +1,13 @@
 ---
 title: "The Emotions"
+slug: "the-emotions"
 date: 1977-06-10
-category: "artist"
-track_count: 2
-first_year: 1976
-last_year: 1977
+layout: post
 tags:
   - '@the-emotions'
   - '1900s'
   - 'motown'
   - 'disco'
-stub: true
 ---
 
 ## The Emotions

@@ -1,10 +1,8 @@
 ---
 title: "Anz"
+slug: "anz"
 date: 2021-08-31
-category: "1off"
-genre_primary: "rnb"
-genre_secondary: "electronic"
-era: "2020s"
+layout: post
 tags:
   - '@anz'
   - '1-off'

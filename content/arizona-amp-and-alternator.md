@@ -1,12 +1,12 @@
 ---
-title: "' 'Arizona Amp and Alternator'
-'"
+title: "Arizona Amp And Alternator"
+slug: "arizona-amp-and-alternator"
 date: 2024-12-26
-original_title: "'Arizona Amp and Alternator'"
+layout: post
 tags:
   - '@arizonaampandalternator'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonos Favorite Song by Arizona Amp and Alternator: "Arizona Amp and Alternator Pt. 3"</h1> <!-- Introductory Text -->
 <p >Updated November 7, 2005, with "Arizona Amp and Alternator Pt. 3" by Arizona Amp and Alternator. This experimental indie track captures the eclectic soundscapes and introspective vibe of Howe Gelbâ€™s side project. Watch the video below!</p> <!-- Featured Image -->

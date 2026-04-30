@@ -1,12 +1,12 @@
 ---
-title: "' 'Buffalo Springfield'
-'"
+title: "Buffalo Springfield"
+slug: "buffalo-springfield"
 date: 2025-01-17
-original_title: "'Buffalo Springfield'"
+layout: post
 tags:
   - '@buffalospringfield'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Buffalo Springfield</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab67616d0000b273d231bd1716b71b6444e25f89" alt="Buffalo Springfield" >}}

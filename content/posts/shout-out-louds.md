@@ -1,15 +1,12 @@
 ---
 title: "Shout Out Louds"
+slug: "shout-out-louds"
 date: 2007-09-11
-category: "artist"
-track_count: 2
-first_year: 2005
-last_year: 2007
+layout: post
 tags:
   - '@shout-out-louds'
   - '00s-10s'
   - 'swedish pop'
-stub: true
 ---
 
 ## Shout Out Louds

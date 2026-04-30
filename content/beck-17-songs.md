@@ -1,13 +1,13 @@
 ---
-title: "' 'Beck'
-'"
+title: "Beck"
+slug: "beck"
 date: 2024-12-17
-original_title: "'Beck - 19+ Songs'"
+layout: post
 tags:
   - '@phoenix'
   - '@beck'
-layout: post
 ---
+
 <h2>BigBanonos' Top 19 Favorite Songs by Beck</h2> <!--Search Description-->
 <p>BigBanonos' top 17 favorite tracks by Beck, showcasing his unique mix of alternative rock, anti-folk, and slacker rock. Last updated June 21, 2023, with "Odyssey" featuring Phoenix, highlighted in the playlist below:</p><p>{{< youtube "embed" >}}</p><ul> <li><strong>Odyssey (feat. Phoenix)</strong> â€“ <em>Odyssey</em> â€“ Released June 21, 2023 â€“ Genres: alternative rock, indie rock</li> <li><strong>Die Waiting</strong> â€“ <em>Hyperspace</em> â€“ Released August 12, 2020 â€“ Genres: alternative rock, slacker rock</li> <li><strong>Up All Night</strong> â€“ <em>Colors</em> â€“ Released October 13, 2017 â€“ Genres: alternative rock, slacker rock</li> <li><strong>Gamma Ray</strong> â€“ <em>Modern Guilt</em> â€“ Released January 12, 2009 â€“ Genres: alternative rock, slacker rock</li> <li><strong>Modern Guilt</strong> â€“ <em>Modern Guilt</em> â€“ Released January 12, 2009 â€“ Genres: alternative rock, slacker rock</li> <li><strong>Go It Alone</strong> â€“ <em>Guero</em> â€“ Released January 1, 2005 â€“ Genres: alternative rock, slacker rock</li> <li><strong>Little One</strong> â€“ <em>Sea Change</em> â€“ Released January 1, 2002 â€“ Genres: alternative rock, slacker rock</li> <li><strong>Tropicalia</strong> â€“ <em>Mutations</em> â€“ Released January 1, 1998 â€“ Genres: alternative rock, slacker rock</li> <li><strong>Devils Haircut</strong> â€“ <em>Odelay</em> â€“ Released June 18, 1996 â€“ Genres: alternative rock, slacker rock</li> <li><strong>Where It's At</strong> â€“ <em>Odelay</em> â€“ Released June 18, 1996 â€“ Genres: alternative rock, slacker rock</li> <li><strong>I Get Lonesome</strong> â€“ <em>One Foot In The Grave</em> â€“ Released June 27, 1994 â€“ Genres: alternative rock, anti-folk</li> <li><strong>Asshole</strong> â€“ <em>One Foot In The Grave</em> â€“ Released June 27, 1994 â€“ Genres: alternative rock, anti-folk</li> <li><strong>Bogusflow</strong> â€“ <em>DGC Rarities Vol. 1</em> â€“ Released May 7, 1994 â€“ Genres: alternative rock, slacker rock</li> <li><strong>Loser</strong> â€“ <em>Mellow Gold</em> â€“ Released March 1, 1994 â€“ Genres: alternative rock, slacker rock</li> <li><strong>Tropicalia</strong> â€“ <em>Mutations</em> â€“ Released January 1, 1998 â€“ Genres: alternative rock, slacker rock</li> <li><strong>Cold Brains</strong> â€“ <em>Mutations</em> â€“ Released January 1, 1998 â€“ Genres: alternative rock, slacker rock</li> <li><strong>Devils Haircut</strong> â€“ <em>Odelay - Deluxe Edition</em> â€“ Released June 18, 1996 â€“ Genres: alternative rock, slacker rock</li><li><strong>I Get Lonesome</strong></li><li><strong>Modern Guilt</strong></li>
 </ul> <!--Image-->

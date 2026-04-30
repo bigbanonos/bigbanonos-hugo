@@ -1,14 +1,11 @@
 ---
 title: "Vetiver"
+slug: "vetiver"
 date: 2005-06-14
-category: "artist"
-track_count: 3
-first_year: 2004
-last_year: 2005
+layout: post
 tags:
   - '@vetiver'
   - '00s-10s'
-stub: true
 ---
 
 ## Vetiver

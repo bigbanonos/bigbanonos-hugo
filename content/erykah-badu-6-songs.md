@@ -1,12 +1,12 @@
 ---
-title: "' 'Erykah Badu'
-'"
+title: "Erykah Badu"
+slug: "erykah-badu"
 date: 2025-01-16
-original_title: "'Erykah Badu - 6 Songs'"
+layout: post
 tags:
   - '@erykahbadu'
-layout: post
 ---
+
 <h2 >BigBanonos' Top 6 Songs by Erykah Badu</h2> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab6761610000e5ebfb1bc9e7ca44d473641b7842" alt="Erykah Badu - Featured Image" >}}
 </div> <!-- Introductory Text -->

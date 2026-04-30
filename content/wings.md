@@ -1,13 +1,13 @@
 ---
-title: "' 'Wings'
-'"
+title: "Wings"
+slug: "wings"
 date: 2025-01-11
-original_title: "'Wings'"
+layout: post
 tags:
   - '@wings'
   - '@paulmccartney'
-layout: post
 ---
+
 <div class="post-title"> <h1>BigBanonos' Favorite Songs by Wings</h1>
 </div>
 <p>Updated March 25, 1976, with "Silly Love Songs - 2014 Remaster" from the album <i>Wings At The Speed Of Sound (Archive Collection)</i>, highlighted in the playlist below:</p>

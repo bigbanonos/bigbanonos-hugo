@@ -1,10 +1,8 @@
 ---
 title: "Au Pairs"
+slug: "au-pairs"
 date: 2006-06-06
-category: "artist"
-track_count: 2
-first_year: 2006
-last_year: 2006
+layout: post
 tags:
   - '@au-pairs'
   - '00s-10s'
@@ -12,7 +10,6 @@ tags:
   - 'riot grrrl'
   - 'new wave'
   - 'gothic rock'
-stub: true
 ---
 
 ## Au Pairs

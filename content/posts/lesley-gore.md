@@ -1,14 +1,11 @@
 ---
 title: "Lesley Gore"
+slug: "lesley-gore"
 date: 1990-01-01
-category: "artist"
-track_count: 3
-first_year: 1963
-last_year: 1990
+layout: post
 tags:
   - '@lesley-gore'
   - '1900s'
-stub: true
 ---
 
 ## Lesley Gore

@@ -1,10 +1,8 @@
 ---
 title: "Slapp Happy"
+slug: "slapp-happy"
 date: 1993-01-01
-category: "artist"
-track_count: 4
-first_year: 1993
-last_year: 1993
+layout: post
 tags:
   - '@slapp-happy'
   - '1900s'
@@ -12,7 +10,6 @@ tags:
   - 'art pop'
   - 'art rock'
   - 'avant-garde'
-stub: true
 ---
 
 ## Slapp Happy

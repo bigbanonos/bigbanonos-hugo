@@ -1,15 +1,12 @@
 ---
 title: "The Troggs"
+slug: "the-troggs"
 date: 2009-02-16
-category: "artist"
-track_count: 2
-first_year: 2008
-last_year: 2009
+layout: post
 tags:
   - '@the-troggs'
   - '00s-10s'
   - 'proto-punk'
-stub: true
 ---
 
 ## The Troggs

@@ -1,15 +1,12 @@
 ---
 title: "Ashanti"
+slug: "ashanti"
 date: 2005-01-01
-category: "artist"
-track_count: 4
-first_year: 2002
-last_year: 2005
+layout: post
 tags:
   - '@ashanti'
   - '00s-10s'
   - 'r&b'
-stub: true
 ---
 
 ## Ashanti

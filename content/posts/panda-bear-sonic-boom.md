@@ -1,10 +1,8 @@
 ---
-title: "Panda Bear;Sonic Boom"
+title: "Panda Bear Sonic Boom"
+slug: "panda-bear-sonic-boom"
 date: 2025-02-28
-category: "artist"
-track_count: 8
-first_year: 2007
-last_year: 2025
+layout: post
 tags:
   - '@panda-bear-sonic-boom'
   - '@panda-bear'
@@ -15,7 +13,6 @@ tags:
   - 'neo-psychedelic'
   - 'space rock'
   - 'dub'
-stub: true
 ---
 
 ## Panda Bear;Sonic Boom

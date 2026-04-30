@@ -1,17 +1,14 @@
 ---
-title: "kurtains"
+title: "Kurtains"
+slug: "kurtains"
 date: 2025-03-28
-category: "artist"
-track_count: 4
-first_year: 2020
-last_year: 2025
+layout: post
 tags:
   - '@kurtains'
   - '@kurtains-glaive'
   - '2020s'
   - 'hyperpop'
   - 'glitch'
-stub: true
 ---
 
 ## kurtains

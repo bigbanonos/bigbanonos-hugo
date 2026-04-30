@@ -1,12 +1,12 @@
 ---
-title: "' 'Penny & The Quarters'
-'"
+title: "Penny Quarters"
+slug: "penny-quarters"
 date: 2024-12-29
-original_title: "'Penny & The Quarters'"
+layout: post
 tags:
   - '@pennyandthequarters'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonos Favorite Song by Penny & The Quarters: "You & Me"</h1> <!-- Introductory Text -->
 <p >Updated March 4, 2011, with "You & Me" by Penny & The Quarters. Originally recorded in 1973, this traditional soul gem was rediscovered and released on the *Penny & The Quarters EP* by Numero Group. Its raw emotion and timeless charm have captivated audiences anew. Watch and listen below!</p> <!-- Featured Image -->

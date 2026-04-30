@@ -1,8 +1,8 @@
 ---
-title: "' 'Eminem'
-'"
+title: "Eminem Rap God"
+slug: "eminem-rap-god"
 date: 2024-11-22
-original_title: "'Eminem - 12 Songs'"
+layout: post
 tags:
   - '@snoopdogg'
   - '@2chainz'
@@ -12,8 +12,8 @@ tags:
   - '@eminem'
   - '@kendricklamar'
   - '@whitegold'
-layout: post
 ---
+
 <p>Ãƒâ€šÃ‚Â </p>
 <h3><strong>BigBanonos' Top 11 Songs by Eminem</strong></h3>
 <p>Updated September 13, 2024 with "Kyrie & Luka"</p> <p>{{< youtube "embed" >}}</p> <h4>Selected Tracks</h4>

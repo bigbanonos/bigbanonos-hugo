@@ -1,16 +1,13 @@
 ---
 title: "Sister Sledge"
+slug: "sister-sledge"
 date: 1995-01-01
-category: "artist"
-track_count: 2
-first_year: 1992
-last_year: 1995
+layout: post
 tags:
   - '@sister-sledge'
   - '1900s'
   - 'disco'
   - 'philly soul'
-stub: true
 ---
 
 ## Sister Sledge

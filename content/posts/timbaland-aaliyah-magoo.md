@@ -1,10 +1,8 @@
 ---
-title: "Timbaland;Aaliyah;Magoo"
+title: "Timbaland Aaliyah Magoo"
+slug: "timbaland-aaliyah-magoo"
 date: 2024-06-14
-category: "artist"
-track_count: 6
-first_year: 1997
-last_year: 2024
+layout: post
 tags:
   - '@timbaland-aaliyah-magoo'
   - '@timbaland-ludacris'
@@ -19,7 +17,6 @@ tags:
   - 'contemporary r&b'
   - 'g-funk'
   - 'quiet storm'
-stub: true
 ---
 
 ## Timbaland;Aaliyah;Magoo

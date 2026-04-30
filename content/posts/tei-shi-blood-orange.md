@@ -1,17 +1,14 @@
 ---
-title: "Tei Shi;Blood Orange"
+title: "Tei Shi Blood Orange"
+slug: "tei-shi-blood-orange"
 date: 2019-09-27
-category: "artist"
-track_count: 3
-first_year: 2015
-last_year: 2019
+layout: post
 tags:
   - '@tei-shi-blood-orange'
   - '@tei-shi'
   - '@tei-shi-nick-talos'
   - '00s-10s'
   - 'art pop'
-stub: true
 ---
 
 ## Tei Shi;Blood Orange

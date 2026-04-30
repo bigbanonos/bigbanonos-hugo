@@ -1,10 +1,8 @@
 ---
 title: "The Gun Club"
+slug: "the-gun-club"
 date: 2021-07-23
-category: "artist"
-track_count: 7
-first_year: 1981
-last_year: 2021
+layout: post
 tags:
   - '@the-gun-club'
   - '1900s'
@@ -13,7 +11,6 @@ tags:
   - 'post-punk'
   - 'proto-punk'
   - 'deathrock'
-stub: true
 ---
 
 ## The Gun Club

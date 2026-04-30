@@ -1,12 +1,12 @@
 ---
-title: "' 'Westerman'
-'"
+title: "Westerman"
+slug: "westerman"
 date: 2025-01-10
-original_title: "'Westerman'"
+layout: post
 tags:
   - '@westerman'
-layout: post
 ---
+
 <div class="post-title"> <h1>BigBanonos' Favorite Songs by Westerman</h1>
 </div>
 <p>Updated April 7, 2020, with "Waiting on Design" from the album <i>Waiting on Design</i>, highlighted in the playlist below:</p>

@@ -1,14 +1,11 @@
 ---
 title: "Tim Heidecker"
+slug: "tim-heidecker"
 date: 2022-06-24
-category: "artist"
-track_count: 2
-first_year: 2022
-last_year: 2022
+layout: post
 tags:
   - '@tim-heidecker'
   - '2020s'
-stub: true
 ---
 
 ## Tim Heidecker

@@ -1,15 +1,15 @@
 ---
-title: "' 'Amindi'
-'"
+title: "Amindi"
+slug: "amindi"
 date: 2024-11-01
-original_title: "'Amindi - 3 Songs'"
+layout: post
 tags:
   - '@amindi'
   - '@chlothegod'
   - '@valleyz'
   - '@tessellated'
-layout: post
 ---
+
 <h2>BigBanonos' Favorite 3 Songs by Amindi</h2>
 <p>BigBanonos presents its top picks from Amindi, blending her unique alternative R&B and dancehall influences. BigBanonos' Favorite 3 Songs by Amindi, Last updated September 22, 2023, with â€œladyâ€ from <em>Take What You Need</em>, highlighted in the playlist below:</p> <ol> <li><strong>lady (feat. chlothegod)</strong> - Album: <em>Take What You Need</em> (September 22, 2023)</li> <li><strong>nwts</strong> - Album: <em>nwts</em> (July 7, 2021)</li> <li><strong>Pine & Ginger</strong> - Album: <em>Pine & Ginger</em> (September 8, 2017)</li>
 </ol> {{< img-lite src="https://dev-essap.s3.amazonaws.com/uploads/2023/08/Amindi-by-Breyona-Holt.jpg" alt="Amindi Image" >}} <div> {{< youtube "embed" >}}

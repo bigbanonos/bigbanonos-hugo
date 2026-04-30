@@ -1,17 +1,14 @@
 ---
-title: "Denzel Curry;TiaCorine;A$AP Ferg"
+title: "Denzel Curry Tiacorine A Ap Ferg"
+slug: "denzel-curry-tiacorine-a-ap-ferg"
 date: 2024-06-25
-category: "artist"
-track_count: 2
-first_year: 2015
-last_year: 2024
+layout: post
 tags:
   - '@denzel-curry-tiacorine-a-ap-ferg'
   - '@denzel-curry'
   - '00s-10s'
   - '2020s'
   - 'rap'
-stub: true
 ---
 
 ## Denzel Curry;TiaCorine;A$AP Ferg

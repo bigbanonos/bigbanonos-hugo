@@ -1,13 +1,13 @@
 ---
-title: "' 'Elis Regina & AntÃƒÆ’Ã‚Â´nio Carlos Jobim'
-'"
+title: "Elis Regina Antonio Carlos Jobim"
+slug: "elis-regina-antonio-carlos-jobim"
 date: 2024-12-12
-original_title: "'Elis Regina & AntÃƒÆ’Ã‚Â´nio Carlos Jobim'"
+layout: post
 tags:
   - '@antÃƒÆ’Ã‚Â´niocarlosjobim'
   - '@elisregina'
-layout: post
 ---
+
 <!-- Post Title -->
 <h1 >BigBanonos' Favorite Song by Elis Regina & AntÃƒÆ’Ã‚Â´nio Carlos Jobim</h1> <!-- Introductory Text -->
 <p >Updated June 17, 1974, with "ÃƒÆ’Ã‚Âguas De MarÃƒÆ’Ã‚Â§o" by Elis Regina & AntÃƒÆ’Ã‚Â´nio Carlos Jobim. A timeless bossa nova classic from the iconic *Elis & Tom* album.</p> <!-- Featured Image -->

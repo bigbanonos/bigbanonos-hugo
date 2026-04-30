@@ -1,13 +1,13 @@
 ---
-title: "' 'FARIANA & Tokischa'
-'"
+title: "Fariana Tokischa"
+slug: "fariana-tokischa"
 date: 2024-12-12
-original_title: "'FARIANA & Tokischa'"
+layout: post
 tags:
   - '@fariana'
   - '@tokischa'
-layout: post
 ---
+
 <!-- Post Title -->
 <h1 >BigBanonos' Favorite Song by FARIANA & Tokischa</h1> <!-- Introductory Text -->
 <p >Updated February 1, 2019, with "Perras Como TÃƒÆ’Ã‚Âº" by FARIANA & Tokischa, from the motion picture <em>Miss Bala</em>. This collaboration blends Colombian pop and Dominican trap with a fierce urbano latino vibe.</p> <!-- Featured Image -->

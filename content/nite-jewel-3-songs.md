@@ -1,12 +1,12 @@
 ---
-title: "' 'Nite Jewel'
-'"
+title: "Nite Jewel"
+slug: "nite-jewel"
 date: 2024-12-20
-original_title: "'Nite Jewel - 3 Songs'"
+layout: post
 tags:
   - '@nitejewel'
-layout: post
 ---
+
 <h1>BigBanonos Top Songs by Nite Jewel</h1>
 {{< img-lite src="https://media.pitchfork.com/photos/60d4955c0eb25a9e7ea22bff/16:9/w_800%2Ch_450%2Cc_limit/Nite-Jewel.jpg" alt="Nite Jewel" >}} <p>Nite Jewelâ€™s unique blend of art pop and chillwave creates an ethereal, reflective experience. Here are BigBanonos' favorite tracks from her discography:</p> <ol> <li><strong>Skinny Dipper</strong> | <em>Skinny Dipper</em> | Gloriette Records | Released: October 31, 2023</li> <li><strong>To Feel It</strong> | <em>To Feel It</em> | Gloriette Records | Released: August 17, 2021</li> <li><strong>Before I Go</strong> | <em>Before I Go</em> | Gloriette Records | Released: July 20, 2021</li>
 </ol> <div> {{< youtube "embed" >}}

@@ -1,12 +1,12 @@
 ---
-title: "' 'Yowler'
-'"
+title: "Yowler"
+slug: "yowler"
 date: 2024-12-16
-original_title: "'Yowler'"
+layout: post
 tags:
   - '@yowler'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >Yowler - Go (Audiotree Live Version)</h1> <!-- Introductory Text -->
 <p >Updated with *Go (Audiotree Live Version)* by Yowler, a captivating live recording from their Audiotree session, released on June 1, 2017. The track showcases Yowlerâ€™s intimate and emotive style, captured perfectly in the small room environment.</p> <!-- Featured Image -->

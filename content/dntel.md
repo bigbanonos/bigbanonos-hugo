@@ -1,14 +1,14 @@
 ---
-title: "' 'Dntel'
-'"
+title: "Dntel"
+slug: "dntel"
 date: 2024-12-17
-original_title: "'Dntel'"
+layout: post
 tags:
   - '@conoroberst'
   - '@dntel'
   - '@jennylewis'
-layout: post
 ---
+
 <h2>Dntel â€“ Essential Tracks</h2> <div > <img src="https://subpop-img.s3.amazonaws.com/asset/artist_images/attachments/000/003/951/max_600_400/9609.jpg?1389019126" alt="Dntel" width="400" />
 </div> {{< youtube "embed" >}} <h3>Highlighted Tracks</h3>
 <ul> <li><strong>Roll On</strong> â€“ <em>Dumb Luck</em> (2007)</li> <li><strong>Breakfast In Bed</strong> â€“ <em>Dumb Luck</em> (2007)</li>

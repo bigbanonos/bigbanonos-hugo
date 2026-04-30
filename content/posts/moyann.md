@@ -1,10 +1,8 @@
 ---
 title: "Moyann"
+slug: "moyann"
 date: 2024-03-08
-category: "artist"
-track_count: 2
-first_year: 2021
-last_year: 2024
+layout: post
 tags:
   - '@moyann'
   - '@moyann-shenseea'
@@ -12,7 +10,6 @@ tags:
   - 'dancehall'
   - 'soca'
   - 'afrobeats'
-stub: true
 ---
 
 ## Moyann

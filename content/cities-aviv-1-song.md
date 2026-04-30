@@ -1,12 +1,12 @@
 ---
-title: "' 'Cities Aviv'
-'"
+title: "Cities Aviv"
+slug: "cities-aviv"
 date: 2024-11-03
-original_title: "'Cities Aviv - 2 Songs'"
+layout: post
 tags:
   - '@citiesaviv'
-layout: post
 ---
+
 <h2>BigBanonos' Favorite Songs by Cities Aviv</h2> <!-- Search Description -->
 <p>BigBanonosâ€™ top Cities Aviv tracks explore his unique mix of drumless, experimental, and psychedelic hip hop.</p> <!-- Spotify Playlist Embed -->
 {{< youtube "embed" >}} <!-- Song Listings -->

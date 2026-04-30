@@ -1,15 +1,12 @@
 ---
-title: "Paul McCartney;Wings"
+title: "Paul Mccartney Wings"
+slug: "paul-mccartney-wings"
 date: 1976-03-25
-category: "artist"
-track_count: 2
-first_year: 1973
-last_year: 1976
+layout: post
 tags:
   - '@paul-mccartney-wings'
   - '@wings'
   - '1900s'
-stub: true
 ---
 
 ## Paul McCartney;Wings

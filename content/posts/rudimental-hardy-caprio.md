@@ -1,10 +1,8 @@
 ---
-title: "Rudimental;Hardy Caprio"
+title: "Rudimental Hardy Caprio"
+slug: "rudimental-hardy-caprio"
 date: 2021-09-03
-category: "artist"
-track_count: 4
-first_year: 2018
-last_year: 2021
+layout: post
 tags:
   - '@rudimental-hardy-caprio'
   - '@rudimental-major-lazer-anne-marie-mr-eazi'
@@ -16,7 +14,6 @@ tags:
   - 'moombahton'
   - 'afrobeats'
   - 'afrobeat'
-stub: true
 ---
 
 ## Rudimental;Hardy Caprio

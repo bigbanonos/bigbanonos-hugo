@@ -1,16 +1,13 @@
 ---
 title: "Ben Folds Five"
+slug: "ben-folds-five"
 date: 2015-09-11
-category: "artist"
-track_count: 3
-first_year: 1997
-last_year: 2015
+layout: post
 tags:
   - '@ben-folds-five'
   - '@ben-folds'
   - '00s-10s'
   - '1900s'
-stub: true
 ---
 
 ## Ben Folds Five

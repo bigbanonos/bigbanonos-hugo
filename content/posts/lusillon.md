@@ -1,7 +1,8 @@
 ---
-title: "LUSILLON"
+title: "Lusillon"
+slug: "lusillon"
 date: 2023-01-13
-category: "artist"
+layout: post
 tags:
   - '@lusillon'
 ---

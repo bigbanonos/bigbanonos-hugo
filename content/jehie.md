@@ -1,12 +1,12 @@
 ---
-title: "' 'JEHIE'
-'"
+title: "Jehie"
+slug: "jehie"
 date: 2024-12-12
-original_title: "'JEHIE'"
+layout: post
 tags:
   - '@jehie'
-layout: post
 ---
+
 <!-- Post Title -->
 <h1 >BigBanonos' Favorite Tracks: JEHIE - "Cash!"</h1> <!-- Introductory Text -->
 <p >Updated September 16, 2019, with "Cash!" by JEHIE. This independent release delivers high-energy beats and confident lyricism, making it a standout in the modern music scene.</p> <!-- Featured Image -->

@@ -1,10 +1,8 @@
 ---
-title: "LUMP;Laura Marling;Mike Lindsay"
+title: "Lump Laura Marling Mike Lindsay"
+slug: "lump-laura-marling-mike-lindsay"
 date: 2021-07-30
-category: "artist"
-track_count: 2
-first_year: 2021
-last_year: 2021
+layout: post
 tags:
   - '@lump-laura-marling-mike-lindsay'
   - '2020s'
@@ -12,7 +10,6 @@ tags:
   - 'southern gothic'
   - 'folk'
   - 'indie folk'
-stub: true
 ---
 
 ## LUMP;Laura Marling;Mike Lindsay

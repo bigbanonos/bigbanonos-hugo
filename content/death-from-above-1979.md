@@ -1,12 +1,12 @@
 ---
-title: "' 'Death From Above 1979'
-'"
+title: "Death From Above 1979"
+slug: "death-from-above-1979"
 date: 2024-12-17
-original_title: "'Death From Above 1979'"
+layout: post
 tags:
   - '@deathfromabove1979'
-layout: post
 ---
+
 <h2>Death From Above 1979 â€“ Essential Tracks</h2> <div > <img alt="Death From Above 1979" src="https://consequence.net/wp-content/uploads/2014/09/death-from-above-1979.jpg?quality=80" width="500" />
 </div> {{< youtube "embed" >}} <h3>Tracklist</h3>
 <ul> <li><strong>Black History Month</strong> â€“ <em>Youâ€™re A Woman, Iâ€™m A Machine</em> (2004)</li> <li><strong>Romantic Rights</strong> â€“ <em>Youâ€™re A Woman, Iâ€™m A Machine</em> (2004)</li> <li><strong>Trainwreck 1979</strong> â€“ <em>The Physical World</em> (2014)</li> <li><strong>Crystal Ball</strong> â€“ <em>The Physical World</em> (2014)</li> <li><strong>Turn It Out</strong> â€“ <em>Youâ€™re A Woman, Iâ€™m A Machine</em> (2004)</li> <li><strong>Sexy Results</strong> â€“ <em>Youâ€™re A Woman, Iâ€™m A Machine</em> (2004)</li></ul><ul>

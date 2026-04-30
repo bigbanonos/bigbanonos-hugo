@@ -1,12 +1,12 @@
 ---
-title: "' 'Dinah Washington'
-'"
+title: "Dinah Washington"
+slug: "dinah-washington"
 date: 2025-01-19
-original_title: "'Dinah Washington'"
+layout: post
 tags:
   - '@dinahwashington'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Dinah Washington</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/219cf4ef5ee4065d4b431da35b9997aaa7293c8d" alt="Dinah Washington" >}}

@@ -1,10 +1,8 @@
 ---
-title: "Tyla Yaweh;YG"
+title: "Tyla Yaweh Yg"
+slug: "tyla-yaweh-yg"
 date: 2020-07-17
-category: "artist"
-track_count: 2
-first_year: 2019
-last_year: 2020
+layout: post
 tags:
   - '@tyla-yaweh-yg'
   - '@tyla-yaweh-dababy'
@@ -12,7 +10,6 @@ tags:
   - '2020s'
   - 'melodic rap'
   - 'hyphy'
-stub: true
 ---
 
 ## Tyla Yaweh;YG

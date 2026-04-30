@@ -1,16 +1,13 @@
 ---
-title: "Eurythmics;Annie Lennox;Dave Stewart"
+title: "Eurythmics Annie Lennox Dave Stewart"
+slug: "eurythmics-annie-lennox-dave-stewart"
 date: 1985-04-29
-category: "artist"
-track_count: 2
-first_year: 1983
-last_year: 1985
+layout: post
 tags:
   - '@eurythmics-annie-lennox-dave-stewart'
   - '1900s'
   - 'new wave'
   - 'synthpop'
-stub: true
 ---
 
 ## Eurythmics;Annie Lennox;Dave Stewart

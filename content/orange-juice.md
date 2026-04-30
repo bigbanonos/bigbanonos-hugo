@@ -1,12 +1,12 @@
 ---
-title: "' 'Orange Juice'
-'"
+title: "Orange Juice"
+slug: "orange-juice"
 date: 2025-01-16
-original_title: "'Orange Juice'"
+layout: post
 tags:
   - '@orangejuice'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1>BigBanonosâ€™ Favorite Songs by Orange Juice</h1> <!-- Featured Image -->
 <div> {{< img-lite src="https://i.scdn.co/image/ab67616d0000b273724b90c41ed526df80d2ddd4" alt="Orange Juice" >}}

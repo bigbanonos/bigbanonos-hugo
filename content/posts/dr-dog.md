@@ -1,14 +1,11 @@
 ---
-title: "Dr. Dog"
+title: "Dr Dog"
+slug: "dr-dog"
 date: 2010-11-02
-category: "artist"
-track_count: 7
-first_year: 2003
-last_year: 2010
+layout: post
 tags:
   - '@dr-dog'
   - '00s-10s'
-stub: true
 ---
 
 ## Dr. Dog

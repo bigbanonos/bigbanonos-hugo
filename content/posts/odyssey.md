@@ -1,16 +1,13 @@
 ---
 title: "Odyssey"
+slug: "odyssey"
 date: 1982-05-01
-category: "artist"
-track_count: 2
-first_year: 1977
-last_year: 1982
+layout: post
 tags:
   - '@odyssey'
   - '1900s'
   - 'disco'
   - 'post-disco'
-stub: true
 ---
 
 ## Odyssey

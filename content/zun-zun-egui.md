@@ -1,12 +1,12 @@
 ---
-title: "' 'Zun Zun Egui'
-'"
+title: "Zun Zun Egui"
+slug: "zun-zun-egui"
 date: 2024-12-16
-original_title: "'Zun Zun Egui'"
+layout: post
 tags:
   - '@zunzunegui'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >Zun Zun Egui - African Tree</h1> <!-- Introductory Text -->
 <p >Updated with *African Tree* by Zun Zun Egui, an eclectic track from their 2015 album *Shackles Gift*. This piece combines chamber psych with vibrant rhythms, offering a unique sound thatâ€™s hard to categorize but impossible to forget. Released on January 27, 2015, *African Tree* stands out as one of the standout tracks of the album, exemplifying the band's genre-defying style.</p> <!-- Featured Image -->

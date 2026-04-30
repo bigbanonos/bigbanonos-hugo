@@ -1,17 +1,14 @@
 ---
-title: "Matt Sweeney;Bonnie Prince Billy"
+title: "Matt Sweeney Bonnie Prince Billy"
+slug: "matt-sweeney-bonnie-prince-billy"
 date: 2021-04-30
-category: "artist"
-track_count: 2
-first_year: 2020
-last_year: 2021
+layout: post
 tags:
   - '@matt-sweeney-bonnie-prince-billy'
   - '2020s'
   - 'alt country'
   - 'indie folk'
   - 'americana'
-stub: true
 ---
 
 ## Matt Sweeney;Bonnie Prince Billy

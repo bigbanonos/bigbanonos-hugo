@@ -1,12 +1,12 @@
 ---
-title: "' 'Avant'
-'"
+title: "Avant"
+slug: "avant"
 date: 2025-01-17
-original_title: "'Avant'"
+layout: post
 tags:
   - '@avant'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Avant</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab67616d0000b273283d9616980c5cf1ca1fc5eb" alt="Avant" >}}

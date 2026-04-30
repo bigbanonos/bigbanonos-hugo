@@ -1,16 +1,13 @@
 ---
-title: "Kevin Abstract;Ryan Beatty"
+title: "Kevin Abstract Ryan Beatty"
+slug: "kevin-abstract-ryan-beatty"
 date: 2025-06-27
-category: "artist"
-track_count: 3
-first_year: 2021
-last_year: 2025
+layout: post
 tags:
   - '@kevin-abstract-ryan-beatty'
   - '@kevin-abstract'
   - '@kevin-abstract-derby'
   - '2020s'
-stub: true
 ---
 
 ## Kevin Abstract;Ryan Beatty

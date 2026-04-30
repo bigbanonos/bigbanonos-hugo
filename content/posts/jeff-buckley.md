@@ -1,14 +1,11 @@
 ---
 title: "Jeff Buckley"
+slug: "jeff-buckley"
 date: 1998-05-26
-category: "artist"
-track_count: 3
-first_year: 1994
-last_year: 1998
+layout: post
 tags:
   - '@jeff-buckley'
   - '1900s'
-stub: true
 ---
 
 ## Jeff Buckley

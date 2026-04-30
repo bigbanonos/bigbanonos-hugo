@@ -1,12 +1,12 @@
 ---
-title: "' 'James Blake'
-'"
+title: "James Blake"
+slug: "james-blake"
 date: 2024-12-20
-original_title: "'James Blake - 2 Songs'"
+layout: post
 tags:
   - '@jamesblake'
-layout: post
 ---
+
 <h1>BigBanonos 2 Favorite Tracks by James Blake</h1>
 <img alt="James Blake" src="https://www.rollingstone.com/wp-content/uploads/2023/06/GettyImages-1495823912.jpg" /> <p>James Blake continues to redefine the boundaries of art pop and indie soul, merging introspective lyrics with innovative production. These two tracks capture his unique approach, showcasing collaborations and a soulful sound thatâ€™s all his own.</p> <ol> <li><strong>Say What You Will</strong> | <em>Say What You Will</em> | Republic Records / Polydor Records | Released: July 22, 2021</li> <li><strong>Coming Back</strong> (feat. SZA) | <em>Friends That Break Your Heart</em> | Republic Records / Polydor Records | Released: October 8, 2021</li>
 </ol> <div> {{< youtube "embed" >}}

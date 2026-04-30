@@ -1,10 +1,8 @@
 ---
 title: "Wilco"
+slug: "wilco"
 date: 2020-11-06
-category: "artist"
-track_count: 42
-first_year: 1995
-last_year: 2020
+layout: post
 tags:
   - '@wilco'
   - '00s-10s'
@@ -13,7 +11,6 @@ tags:
   - 'alt country'
   - 'americana'
   - 'indie rock'
-stub: true
 ---
 
 ## Wilco

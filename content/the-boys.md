@@ -1,12 +1,12 @@
 ---
-title: "' 'The Boys'
-'"
+title: "The Boys"
+slug: "the-boys"
 date: 2025-01-17
-original_title: "'The Boys'"
+layout: post
 tags:
   - '@theboys'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by The Boys</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab67616d0000b273a19beefa6870198c1b8936c3" alt="The Boys" >}}

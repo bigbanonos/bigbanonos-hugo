@@ -1,14 +1,11 @@
 ---
-title: "F. J. McMahon"
+title: "F J Mcmahon"
+slug: "f-j-mcmahon"
 date: 2020-02-27
-category: "artist"
-track_count: 2
-first_year: 2020
-last_year: 2020
+layout: post
 tags:
   - '@f-j-mcmahon'
   - '2020s'
-stub: true
 ---
 
 ## F. J. McMahon

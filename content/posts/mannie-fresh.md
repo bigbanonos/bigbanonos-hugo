@@ -1,17 +1,14 @@
 ---
 title: "Mannie Fresh"
+slug: "mannie-fresh"
 date: 2004-01-01
-category: "artist"
-track_count: 2
-first_year: 2004
-last_year: 2004
+layout: post
 tags:
   - '@mannie-fresh'
   - '@mannie-fresh-tateeze'
   - '00s-10s'
   - 'southern hip hop'
   - 'new orleans bounce'
-stub: true
 ---
 
 ## Mannie Fresh

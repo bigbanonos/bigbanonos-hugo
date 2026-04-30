@@ -1,17 +1,14 @@
 ---
-title: "Mark Kozelek;Desertshore"
+title: "Mark Kozelek Desertshore"
+slug: "mark-kozelek-desertshore"
 date: 2013-08-20
-category: "artist"
-track_count: 4
-first_year: 2006
-last_year: 2013
+layout: post
 tags:
   - '@mark-kozelek-desertshore'
   - '@mark-kozelek'
   - '@mark-kozelek-jimmy-lavalle'
   - '00s-10s'
   - 'slowcore'
-stub: true
 ---
 
 ## Mark Kozelek;Desertshore

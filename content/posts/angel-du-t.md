@@ -1,10 +1,8 @@
 ---
-title: "Angel Du$t"
+title: "Angel Du T"
+slug: "angel-du-t"
 date: 2021-10-22
-category: "artist"
-track_count: 5
-first_year: 2021
-last_year: 2021
+layout: post
 tags:
   - '@angel-du-t'
   - '@angel-du-t-lunice'
@@ -14,7 +12,6 @@ tags:
   - 'hardcore punk'
   - 'neo-psychedelic'
   - 'edm trap'
-stub: true
 ---
 
 ## Angel Du$t

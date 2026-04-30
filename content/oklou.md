@@ -1,14 +1,14 @@
 ---
-title: "' 'Oklou'
-'"
+title: "Oklou"
+slug: "oklou"
 date: 2025-02-12
-original_title: "'Oklou'"
+layout: post
 tags:
   - '@agcook'
   - '@oklou'
   - '@bladee'
-layout: post
 ---
+
 <h3>Oklou</h3>
 <img src="https://officemagazine.net/sites/default/files/styles/article_image_large/public/000542850003.jpg?itok=YFaw4Ivd" />
 {{< youtube "embed" >}}

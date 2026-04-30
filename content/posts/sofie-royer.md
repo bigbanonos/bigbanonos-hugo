@@ -1,14 +1,11 @@
 ---
 title: "Sofie Royer"
+slug: "sofie-royer"
 date: 2022-08-31
-category: "artist"
-track_count: 2
-first_year: 2022
-last_year: 2022
+layout: post
 tags:
   - '@sofie-royer'
   - '2020s'
-stub: true
 ---
 
 ## Sofie Royer

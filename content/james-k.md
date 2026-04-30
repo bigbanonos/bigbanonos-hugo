@@ -1,12 +1,12 @@
 ---
-title: "' 'James K'
-'"
+title: "James K"
+slug: "james-k"
 date: 2025-08-30
-original_title: "'James K'"
+layout: post
 tags:
   - '@jamesk'
-layout: post
 ---
+
 <h1>BigBanonosâ€™ Favorite Track by james K</h1> <img src="https://townsquare.media/site/833/files/2025/06/attachment-james-k-play-vid.jpg" alt="james K - Play" /> <p>BigBanonos highlights <strong>â€œPlayâ€</strong>, the hallucinatory new single from james Kâ€™s upcoming album <em>Friend</em>, out via AD 93. With its shimmering breakbeat textures and dreamlike vocal delivery, â€œPlayâ€ captures james Kâ€™s uncanny ability to merge ambient pop with deconstructed club energy.</p> <p><em>Last updated July 24, 2025 with â€œPlay,â€ the lead single from <em>Doom Bikini</em>.</em></p> <!-- YouTube Embed -->
 <div> {{< youtube "2chmQiR8R10" >}}
 </div> <h3>Track Details</h3>

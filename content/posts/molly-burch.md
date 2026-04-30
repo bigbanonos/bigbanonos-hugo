@@ -1,15 +1,12 @@
 ---
 title: "Molly Burch"
+slug: "molly-burch"
 date: 2021-07-23
-category: "artist"
-track_count: 3
-first_year: 2018
-last_year: 2021
+layout: post
 tags:
   - '@molly-burch'
   - '00s-10s'
   - '2020s'
-stub: true
 ---
 
 ## Molly Burch

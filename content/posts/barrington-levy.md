@@ -1,7 +1,8 @@
 ---
 title: "Barrington Levy"
+slug: "barrington-levy"
 date: 2026-03-30
-category: "artist"
+layout: post
 tags:
   - '@barringtonlevy'
 ---

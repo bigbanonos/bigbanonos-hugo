@@ -1,10 +1,8 @@
 ---
 title: "Rema"
+slug: "rema"
 date: 2022-03-11
-category: "artist"
-track_count: 2
-first_year: 2022
-last_year: 2022
+layout: post
 tags:
   - '@rema'
   - '@rema-aj-tracey'
@@ -13,7 +11,6 @@ tags:
   - 'afrobeat'
   - 'afropop'
   - 'afropiano'
-stub: true
 ---
 
 ## Rema

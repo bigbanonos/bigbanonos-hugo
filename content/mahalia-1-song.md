@@ -1,12 +1,12 @@
 ---
-title: "' 'Mahalia'
-'"
+title: "Mahalia"
+slug: "mahalia"
 date: 2024-12-14
-original_title: "'Mahalia'"
+layout: post
 tags:
   - '@mahalia'
-layout: post
 ---
+
 <!-- Post Title -->
 <h1 >BigBanonos' Favorite Tracks: Mahalia - "I Wish I Missed My Ex"</h1> <!-- Introductory Text -->
 <p >Updated September 6, 2019, with "I Wish I Missed My Ex" by Mahalia. This standout track from the album <em>LOVE AND COMPROMISE</em>, released under Atlantic Records UK, blends alternative R&B with indie anthem-folk influences, showcasing Mahaliaâ€™s signature style.</p> <!-- Featured Image -->

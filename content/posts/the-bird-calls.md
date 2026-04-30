@@ -1,14 +1,11 @@
 ---
 title: "The Bird Calls"
+slug: "the-bird-calls"
 date: 2023-08-11
-category: "artist"
-track_count: 2
-first_year: 2023
-last_year: 2023
+layout: post
 tags:
   - '@the-bird-calls'
   - '2020s'
-stub: true
 ---
 
 ## The Bird Calls

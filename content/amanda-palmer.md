@@ -1,12 +1,12 @@
 ---
-title: "' 'Amanda Palmer'
-'"
+title: "Amanda Palmer"
+slug: "amanda-palmer"
 date: 2024-12-26
-original_title: "'Amanda Palmer'"
+layout: post
 tags:
   - '@amandapalmer'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonos Favorite Song by Amanda Palmer: "Runs In The Family"</h1> <!-- Introductory Text -->
 <p >Updated September 16, 2008, with "Runs In The Family" by Amanda Palmer. This intense and emotionally charged track showcases Palmerâ€™s raw lyricism and bold performance style. Watch the video below!</p> <!-- Featured Image -->

@@ -1,12 +1,12 @@
 ---
-title: "' 'Dirty Gold'
-'"
+title: "Dirty Gold"
+slug: "dirty-gold"
 date: 2024-12-17
-original_title: "'Dirty Gold'"
+layout: post
 tags:
   - '@dirtygold'
-layout: post
 ---
+
 <h2>Dirty Gold â€“ Essential Tracks</h2> <div > <img src="https://i.scdn.co/image/ab67616d00001e02ece1c495630ed6d372f3ebb9" alt="Dirty Gold" width="400" />
 </div> {{< youtube "embed" >}} <h3>Highlighted Tracks</h3>
 <ul> <li><strong>California Sunrise</strong> â€“ <em>Roar</em> (2010)</li> <li><strong>North</strong> â€“ <em>Roar</em> (2011)</li> <li><strong>Sea Hare</strong> â€“ <em>Roar</em> (2011)</li>

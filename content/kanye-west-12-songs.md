@@ -1,16 +1,16 @@
 ---
-title: "' 'Kanye West'
-'"
+title: "Kanye West"
+slug: "kanye-west"
 date: 2024-12-17
-original_title: "'Kanye West - 12 Songs'"
+layout: post
 tags:
   - '@justinbieber'
   - '@kanyewest'
   - '@charliewilson'
   - '@raekwon'
   - '@pushat'
-layout: post
 ---
+
 <h1>Kanye West: Top Songs</h1>
 <img alt="Kanye West" src="https://themchenrymessenger.com/wp-content/uploads/2019/04/kanye-hospitalized-900x506.jpg" /> <p>Kanye West has been one of hip hopâ€™s most influential figures, continuously redefining the genre with each album. Hereâ€™s a selection of his tracks that highlight his evolution from Chicago rap roots to global superstar:</p> <ol> <li><strong>Jail pt 2</strong> | <em>Donda</em> | Release Date: August 29, 2021 | Rock The World/IDJ/Kanye LP7</li> <li><strong>Follow God</strong> | <em>JESUS IS KING</em> | Release Date: October 25, 2019 | Getting Out Our Dreams II / Def Jam Recordings</li> <li><strong>Father Stretch My Hands Pt. 1</strong> | <em>The Life Of Pablo</em> | Release Date: April 1, 2016 | Universal Music Group</li> <li><strong>Famous</strong> | <em>The Life Of Pablo</em> | Release Date: April 1, 2016 | Universal Music Group</li> <li><strong>Highlights</strong> | <em>The Life Of Pablo</em> | Release Date: April 1, 2016 | Universal Music Group</li> <li><strong>Waves</strong> | <em>The Life Of Pablo</em> | Release Date: April 1, 2016 | Universal Music Group</li> <li><strong>Real Friends</strong> | <em>The Life Of Pablo</em> | Release Date: April 1, 2016 | Universal Music Group</li> <li><strong>New Slaves</strong> | <em>Yeezus</em> | Release Date: June 18, 2013 | Rock The World/IDJ/Kanye/LP6</li> <li><strong>Jesus Walks</strong> | <em>The College Dropout</em> | Release Date: January 1, 2004 | Universal Music Group</li> <li><strong>Runaway</strong> (feat. Pusha T) | <em>My Beautiful Dark Twisted Fantasy</em> | Release Date: November 22, 2010 | Roc-A-Fella</li> <li>(ft. Beyonce, Charlie Wilson) See Me NowÃƒâ€šÃ‚Â [2010]</li> <li>(ft. Justin Bieber, Raekwon) Runaway LoveÃƒâ€šÃ‚Â [2010]</li>
 </ol><div><br /></div><div><b><u>"See Me Now" is #NotOnSpotify</u></b></div><div><br /></div>

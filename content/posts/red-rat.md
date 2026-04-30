@@ -1,17 +1,14 @@
 ---
 title: "Red Rat"
+slug: "red-rat"
 date: 2008-04-21
-category: "artist"
-track_count: 2
-first_year: 2008
-last_year: 2008
+layout: post
 tags:
   - '@red-rat'
   - '00s-10s'
   - 'dancehall'
   - 'ragga'
   - 'reggae'
-stub: true
 ---
 
 ## Red Rat

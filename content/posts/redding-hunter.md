@@ -1,16 +1,13 @@
 ---
 title: "Redding Hunter"
+slug: "redding-hunter"
 date: 2017-09-09
-category: "artist"
-track_count: 13
-first_year: 2015
-last_year: 2017
+layout: post
 tags:
   - '@redding-hunter'
   - '@advance-base'
   - '00s-10s'
   - 'anti-folk'
-stub: true
 ---
 
 ## Redding Hunter

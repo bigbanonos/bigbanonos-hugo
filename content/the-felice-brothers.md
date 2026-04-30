@@ -1,12 +1,12 @@
 ---
-title: "' 'The Felice Brothers'
-'"
+title: "The Felice Brothers"
+slug: "the-felice-brothers"
 date: 2025-01-17
-original_title: "'The Felice Brothers'"
+layout: post
 tags:
   - '@felicebrothers'
-layout: post
 ---
+
 <!-- The Felice Brothers - BigBanonos' Favorite Songs -->
 <h1 >BigBanonosâ€™ Favorite Songs by The Felice Brothers</h1>
 <div > {{< img-lite src="https://i.scdn.co/image/ab6761610000e5eb9a7482d55f535bfe31fd2498" alt="The Felice Brothers" >}}

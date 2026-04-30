@@ -1,12 +1,12 @@
 ---
-title: "' 'A.G. Club - QUESO'
-'"
+title: "Ag Club Queso"
+slug: "ag-club-queso"
 date: 2024-10-31
-original_title: "'A.G. Club - QUESO'"
+layout: post
 tags:
   - '@agclub'
-layout: post
 ---
+
 {{< youtube "uETAon915mc" >}}<div><br /></div><h4>Queso [2022]</h4><div>Donâ€™t forget to check out <a href="https://www.youtube.com/@BigBanonos">BigBanonos on YouTube</a> for more curated music content, especially those tracks #NotOnSpotify!</div>
 
 <!--Subscribe and Playlist Links-->

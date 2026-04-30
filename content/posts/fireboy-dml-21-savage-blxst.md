@@ -1,10 +1,8 @@
 ---
-title: "Fireboy DML;21 Savage;Blxst"
+title: "Fireboy Dml 21 Savage Blxst"
+slug: "fireboy-dml-21-savage-blxst"
 date: 2022-08-04
-category: "artist"
-track_count: 3
-first_year: 2022
-last_year: 2022
+layout: post
 tags:
   - '@fireboy-dml-21-savage-blxst'
   - '@fireboy-dml'
@@ -14,7 +12,6 @@ tags:
   - 'afrobeat'
   - 'afropop'
   - 'afro r&b'
-stub: true
 ---
 
 ## Fireboy DML;21 Savage;Blxst

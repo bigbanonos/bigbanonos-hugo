@@ -1,9 +1,8 @@
 ---
 title: "Alice Longyu Gao"
+slug: "alice-longyu-gao"
 date: 2023-01-25
-category: "1off"
-genre_primary: "pop"
-era: "2020s"
+layout: post
 tags:
   - '@alicelongyugao'
   - '1-off'

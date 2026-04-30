@@ -1,16 +1,13 @@
 ---
 title: "Lady Gaga"
+slug: "lady-gaga"
 date: 2020-05-29
-category: "artist"
-track_count: 1
-first_year: 2020
-last_year: 2020
+layout: post
 tags:
   - '@lady-gaga'
   - '2020s'
   - 'art pop'
   - 'pop'
-stub: true
 ---
 
 ## Lady Gaga

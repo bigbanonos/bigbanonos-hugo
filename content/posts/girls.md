@@ -1,14 +1,11 @@
 ---
 title: "Girls"
+slug: "girls"
 date: 2011-09-13
-category: "artist"
-track_count: 5
-first_year: 2009
-last_year: 2011
+layout: post
 tags:
   - '@girls'
   - '00s-10s'
-stub: true
 ---
 
 ## Girls

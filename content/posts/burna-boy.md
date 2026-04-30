@@ -1,10 +1,8 @@
 ---
 title: "Burna Boy"
+slug: "burna-boy"
 date: 2025-07-10
-category: "artist"
-track_count: 26
-first_year: 2019
-last_year: 2025
+layout: post
 tags:
   - '@burna-boy'
   - '@asake-burna-boy'
@@ -23,7 +21,6 @@ tags:
   - 'afrobeat'
   - 'afropop'
   - 'afroswing'
-stub: true
 ---
 
 ## Burna Boy

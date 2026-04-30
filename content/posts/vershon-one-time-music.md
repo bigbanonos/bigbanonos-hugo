@@ -1,10 +1,8 @@
 ---
-title: "Vershon;One Time Music"
+title: "Vershon One Time Music"
+slug: "vershon-one-time-music"
 date: 2019-06-28
-category: "artist"
-track_count: 3
-first_year: 2015
-last_year: 2019
+layout: post
 tags:
   - '@vershon-one-time-music'
   - '@vershon'
@@ -13,7 +11,6 @@ tags:
   - 'dancehall'
   - 'riddim'
   - 'soca'
-stub: true
 ---
 
 ## Vershon;One Time Music

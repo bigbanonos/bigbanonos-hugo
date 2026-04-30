@@ -1,12 +1,12 @@
 ---
-title: "' 'The Men'
-'"
+title: "The Men"
+slug: "the-men"
 date: 2025-01-18
-original_title: "'The Men'"
+layout: post
 tags:
   - '@themen'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >The Men</h1> <!-- Introductory Text -->
 <p >The Men bring raw energy and diverse influences to Brooklynâ€™s indie scene. Their dynamic sound ranges from garage rock to noise pop. Check out their standout tracks below.</p> <!-- Featured Image -->

@@ -1,10 +1,8 @@
 ---
 title: "Jeff Tweedy"
+slug: "jeff-tweedy"
 date: 2020-10-06
-category: "artist"
-track_count: 2
-first_year: 2013
-last_year: 2020
+layout: post
 tags:
   - '@jeff-tweedy'
   - '00s-10s'
@@ -12,7 +10,6 @@ tags:
   - 'alt country'
   - 'americana'
   - 'singer-songwriter'
-stub: true
 ---
 
 ## Jeff Tweedy

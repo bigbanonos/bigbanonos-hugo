@@ -1,10 +1,8 @@
 ---
-title: "Victoria Monét"
+title: "Victoria Mon T"
+slug: "victoria-mon-t"
 date: 2023-03-24
-category: "artist"
-track_count: 11
-first_year: 2018
-last_year: 2023
+layout: post
 tags:
   - '@victoria-mon-t'
   - '@saint-jhn-future'
@@ -14,7 +12,6 @@ tags:
   - '2020s'
   - 'alternative r&b'
   - 'rap'
-stub: true
 ---
 
 ## Victoria Monét

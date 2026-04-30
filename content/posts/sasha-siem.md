@@ -1,14 +1,11 @@
 ---
 title: "Sasha Siem"
+slug: "sasha-siem"
 date: 2016-10-28
-category: "artist"
-track_count: 4
-first_year: 2015
-last_year: 2016
+layout: post
 tags:
   - '@sasha-siem'
   - '00s-10s'
-stub: true
 ---
 
 ## Sasha Siem

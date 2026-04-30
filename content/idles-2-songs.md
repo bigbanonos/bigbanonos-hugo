@@ -1,13 +1,13 @@
 ---
-title: "' 'IDLES'
-'"
+title: "Idles"
+slug: "idles"
 date: 2024-12-20
-original_title: "'IDLES - 2 Songs'"
+layout: post
 tags:
   - '@idles'
   - '@slowthai'
-layout: post
 ---
+
 <h1>BigBanonos 2 Must-Hear Tracks by IDLES</h1>
 {{< img-lite src="https://static01.nyt.com/images/2020/09/23/arts/23idles1/23idles1-videoSixteenByNineJumbo1600.jpg" alt="IDLES" >}} <p>IDLES brings high energy and raw intensity to the indie rock scene, with a unique Bristol sound that blends elements of crank wave and modern rock. These two tracks capture the bandâ€™s unapologetic and socially conscious edge, making IDLES a powerful voice in contemporary rock.</p> <ol> <li><strong>Mr. Motivator</strong> | <em>Ultra Mono</em> | PTKF | Released: September 25, 2020</li> <li><strong>Model Village</strong> (feat. slowthai) | <em>Model Village (feat. slowthai)</em> | PTKF | Released: July 20, 2021</li>
 </ol> <div> {{< youtube "embed" >}}

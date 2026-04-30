@@ -1,12 +1,12 @@
 ---
-title: "' 'Dan Melchior'
-'"
+title: "Dan Melchior"
+slug: "dan-melchior"
 date: 2024-12-17
-original_title: "'Dan Melchior'"
+layout: post
 tags:
   - '@danmelchior'
-layout: post
 ---
+
 <h2>Dan Melchior â€“ Essential Tracks</h2> <div > <img alt="Dan Melchior" src="https://assets.exclaim.ca/dr2uqw6xy/image/upload/c_limit,w_890/f_auto/q_auto/up-dan_melichor_1_lg?_a=BAVAfVIB0" width="300" />
 </div> {{< youtube "embed" >}} <h3>Tracklist</h3>
 <ul> <li><strong>Beast Of The Field</strong> â€“ <em>Bitterness, Spite, Rage And Scorn</em> (2002)</li> <li><strong>Gatecrasher</strong> â€“ <em>Bitterness, Spite, Rage And Scorn</em> (2002)</li> <li><strong>I Just Sing</strong> â€“ <em>Bitterness, Spite, Rage And Scorn</em> (2002)</li> <li><strong>Me and JG Ballard</strong> â€“ <em>Bitterness, Spite, Rage And Scorn</em> (2002)</li> <li><strong>Out Of The Swamp</strong> â€“ <em>Bitterness, Spite, Rage And Scorn</em> (2002)</li> <li><strong>Watcha Gonna Do About It</strong> â€“ <em>Bitterness, Spite, Rage And Scorn</em> (2002)</li>

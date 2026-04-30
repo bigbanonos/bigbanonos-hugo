@@ -1,12 +1,12 @@
 ---
-title: "' 'Devin Di Dakta'
-'"
+title: "Devin Di Dakta"
+slug: "devin-di-dakta"
 date: 2025-01-19
-original_title: "'Devin Di Dakta'"
+layout: post
 tags:
   - '@devindidakta'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Devin Di Dakta</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab6761610000e5eb5d8b4f33f8f96d36cf0b8de3" alt="Devin Di Dakta" >}}

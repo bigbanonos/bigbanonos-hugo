@@ -1,12 +1,12 @@
 ---
-title: "' 'Trey Songz'
-'"
+title: "Trey Songz"
+slug: "trey-songz"
 date: 2024-12-17
-original_title: "'Trey Songz'"
+layout: post
 tags:
   - '@treysongz'
-layout: post
 ---
+
 <h1>BigBanonos Top Songs by Trey Songz</h1>
 <div class="separator"> <a href="https://m.media-amazon.com/images/I/71LvxVNBpQL._UF1000,1000_QL80_.jpg" > <img alt="Trey Songz" border="0" width="320" data-original-height="480" data-original-width="640" src="https://m.media-amazon.com/images/I/71LvxVNBpQL._UF1000,1000_QL80_.jpg"/> </a>
 </div>

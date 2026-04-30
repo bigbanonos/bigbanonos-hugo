@@ -1,10 +1,8 @@
 ---
 title: "Turnstile"
+slug: "turnstile"
 date: 2023-08-11
-category: "artist"
-track_count: 10
-first_year: 2013
-last_year: 2023
+layout: post
 tags:
   - '@turnstile'
   - '@turnstile-badbadnotgood'
@@ -14,7 +12,6 @@ tags:
   - 'hardcore punk'
   - 'hardcore'
   - 'art pop'
-stub: true
 ---
 
 ## Turnstile

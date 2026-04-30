@@ -1,10 +1,8 @@
 ---
 title: "Yo La Tengo"
+slug: "yo-la-tengo"
 date: 2022-04-22
-category: "artist"
-track_count: 7
-first_year: 1990
-last_year: 2022
+layout: post
 tags:
   - '@yo-la-tengo'
   - '00s-10s'
@@ -12,7 +10,6 @@ tags:
   - '2020s'
   - 'dream pop'
   - 'slowcore'
-stub: true
 ---
 
 ## Yo La Tengo

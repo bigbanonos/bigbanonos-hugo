@@ -1,12 +1,12 @@
 ---
-title: "' 'Pretti Kitti'
-'"
+title: "Pretti Kitti"
+slug: "pretti-kitti"
 date: 2025-01-16
-original_title: "'Pretti Kitti'"
+layout: post
 tags:
   - '@prettikitti'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1>BigBanonosâ€™ Favorite Songs by Pretti Kitti</h1> <!-- Featured Image -->
 <div> {{< img-lite src="https://i.scdn.co/image/ab6761610000e5eb0f09d5c358d5582079e6ad63" alt="Pretti Kitti" >}}

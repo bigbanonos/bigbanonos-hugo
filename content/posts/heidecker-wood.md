@@ -1,16 +1,13 @@
 ---
-title: "Heidecker & Wood"
+title: "Heidecker Wood"
+slug: "heidecker-wood"
 date: 2013-12-10
-category: "artist"
-track_count: 5
-first_year: 2011
-last_year: 2013
+layout: post
 tags:
   - '@heidecker-wood'
   - '00s-10s'
   - 'comedy'
   - 'yacht rock'
-stub: true
 ---
 
 ## Heidecker & Wood

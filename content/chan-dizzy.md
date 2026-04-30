@@ -1,12 +1,12 @@
 ---
-title: "' 'Chan Dizzy'
-'"
+title: "Chan Dizzy"
+slug: "chan-dizzy"
 date: 2024-12-03
-original_title: "'Chan Dizzy'"
+layout: post
 tags:
   - '@chandizzy'
-layout: post
 ---
+
 <!-- Post Title -->
 <h1 >BigBanonos' Favorite Song by Chan Dizzy</h1> <!-- Introductory Text -->
 <p >Updated June 15, 2018 with BigBanonos' favorite track, "Problemz" by Chan Dizzy. This hard-hitting dancehall tune delivers raw energy and sharp lyrics, making it a standout from the *Troublemekka Music* label.</p> <!-- Featured Image -->

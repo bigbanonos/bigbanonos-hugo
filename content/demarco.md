@@ -1,12 +1,12 @@
 ---
-title: "' 'Demarco'
-'"
+title: "Demarco"
+slug: "demarco"
 date: 2025-01-17
-original_title: "'Demarco'"
+layout: post
 tags:
   - '@demarco'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Demarco</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab67616d0000b2739d377496c6bc8724b521222d" alt="Demarco" >}}

@@ -1,17 +1,14 @@
 ---
-title: "Shakira;Cardi B"
+title: "Shakira Cardi B"
+slug: "shakira-cardi-b"
 date: 2024-03-22
-category: "artist"
-track_count: 2
-first_year: 2005
-last_year: 2024
+layout: post
 tags:
   - '@shakira-cardi-b'
   - '@shakira-wyclef-jean'
   - '00s-10s'
   - '2020s'
   - 'latin pop'
-stub: true
 ---
 
 ## Shakira;Cardi B

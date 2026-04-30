@@ -1,16 +1,13 @@
 ---
-title: "The Continental IV"
+title: "The Continental Iv"
+slug: "the-continental-iv"
 date: 1972-10-04
-category: "artist"
-track_count: 2
-first_year: 1972
-last_year: 1972
+layout: post
 tags:
   - '@the-continental-iv'
   - '1900s'
   - 'philly soul'
   - 'classic soul'
-stub: true
 ---
 
 ## The Continental IV

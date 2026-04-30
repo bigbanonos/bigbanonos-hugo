@@ -1,12 +1,12 @@
 ---
-title: "' 'Girl Ray'
-'"
+title: "Girl Ray"
+slug: "girl-ray"
 date: 2024-12-21
-original_title: "'Girl Ray - 4 Songs'"
+layout: post
 tags:
   - '@girlray'
-layout: post
 ---
+
 <h3>BigBanonos Top Tracks: Girl Ray - 4 Songs</h3>
 <div class="separator"> <a href="https://herasayssheshouldbethestarnow.wordpress.com/wp-content/uploads/2018/07/07-girl-ray-photo-heaven-events.jpg" > <img alt="Girl Ray" border="0" height="350" src="https://herasayssheshouldbethestarnow.wordpress.com/wp-content/uploads/2018/07/07-girl-ray-photo-heaven-events.jpg" /> </a>
 </div> <p>Celebrating <em>BigBanonos</em> favorites from Girl Ray, this selection dives into their latest chamber psych sound. Here are their standout tracks from recent releases:</p> <ol> <li><strong>Tell Me</strong> â€ <em>August 4, 2023</em> â€ Album: Prestige | Label: Moshi Moshi Records | Genre: chamber psych, Folk/Acoustic</li> <li><strong>Love Is Enough</strong> â€ <em>June 27, 2023</em> â€ Album: Love Is Enough | Label: Moshi Moshi Records | Genre: chamber psych, Folk/Acoustic</li> <li><strong>Up</strong> â€ <em>May 16, 2023</em> â€ Album: Up | Label: Moshi Moshi Records | Genre: chamber psych, Folk/Acoustic</li> <li><strong>Hold Tight</strong> â€ <em>May 16, 2023</em> â€ Album: Up | Label: Moshi Moshi Records | Genre: chamber psych, Folk/Acoustic</li>

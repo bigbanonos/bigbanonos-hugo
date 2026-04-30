@@ -1,16 +1,13 @@
 ---
 title: "Mercury Rev"
+slug: "mercury-rev"
 date: 1991-06-01
-category: "artist"
-track_count: 1
-first_year: 1991
-last_year: 1991
+layout: post
 tags:
   - '@mercury-rev'
   - '1900s'
   - 'neo-psychedelic'
   - 'shoegaze'
-stub: true
 ---
 
 ## Mercury Rev

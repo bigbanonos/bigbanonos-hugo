@@ -1,10 +1,8 @@
 ---
 title: "William Bell"
+slug: "william-bell"
 date: 1990-01-01
-category: "artist"
-track_count: 2
-first_year: 1990
-last_year: 1990
+layout: post
 tags:
   - '@william-bell'
   - '@william-bell-judy-clay'
@@ -12,7 +10,6 @@ tags:
   - 'classic soul'
   - 'northern soul'
   - 'soul'
-stub: true
 ---
 
 ## William Bell

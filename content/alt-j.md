@@ -1,12 +1,12 @@
 ---
-title: "' 'alt-j'
-'"
+title: "Alt J"
+slug: "alt-j"
 date: 2025-01-17
-original_title: "'alt-j'"
+layout: post
 tags:
   - '@altj'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by alt-J</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab6761610000e5eb3fb5214e667e278a20878a6b" alt="alt-J" >}}

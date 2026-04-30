@@ -1,14 +1,11 @@
 ---
 title: "Art Brut"
+slug: "art-brut"
 date: 2013-04-16
-category: "artist"
-track_count: 5
-first_year: 2013
-last_year: 2013
+layout: post
 tags:
   - '@art-brut'
   - '00s-10s'
-stub: true
 ---
 
 ## Art Brut

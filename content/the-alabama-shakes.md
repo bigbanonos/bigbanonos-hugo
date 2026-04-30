@@ -1,12 +1,12 @@
 ---
-title: "' 'The Alabama Shakes'
-'"
+title: "The Alabama Shakes"
+slug: "the-alabama-shakes"
 date: 2025-01-17
-original_title: "'The Alabama Shakes'"
+layout: post
 tags:
   - '@alabamashakes'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Alabama Shakes</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab6775700000ee85f27236bdb9a200478c8d634c" alt="Alabama Shakes" >}}

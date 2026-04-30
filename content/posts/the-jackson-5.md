@@ -1,17 +1,14 @@
 ---
 title: "The Jackson 5"
+slug: "the-jackson-5"
 date: 2006-01-01
-category: "artist"
-track_count: 3
-first_year: 1986
-last_year: 2006
+layout: post
 tags:
   - '@the-jackson-5'
   - '00s-10s'
   - '1900s'
   - 'motown'
   - 'christmas'
-stub: true
 ---
 
 ## The Jackson 5

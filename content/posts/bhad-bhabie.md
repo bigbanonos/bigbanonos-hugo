@@ -1,17 +1,14 @@
 ---
 title: "Bhad Bhabie"
+slug: "bhad-bhabie"
 date: 2025-10-17
-category: "artist"
-track_count: 4
-first_year: 2018
-last_year: 2025
+layout: post
 tags:
   - '@bhad-bhabie'
   - '@bhad-bhabie-lil-yachty'
   - '@bhad-bhabie-megan-thee-stallion'
   - '00s-10s'
   - '2020s'
-stub: true
 ---
 
 ## Bhad Bhabie

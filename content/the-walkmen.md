@@ -1,13 +1,13 @@
 ---
-title: "' 'The Walkmen'
-'"
+title: "The Walkmen"
+slug: "the-walkmen"
 date: 2025-02-10
-original_title: "'The Walkmen'"
+layout: post
 tags:
   - '@walkmen'
   - '@nicolesheahan'
-layout: post
 ---
+
 <!-- The Walkmen -->
 <img src="https://m.media-amazon.com/images/M/MV5BNDY2NTM4MWMtZWEwNy00NjUyLWFiODAtOWFiZTExYWMzNjBmXkEyXkFqcGc@._V1_.jpg" /> <p><strong>Updated June 24, 2022 with "The Christmas Party (feat. Nicole Sheahan)"</strong></p> <p><strong>"New Year's Eve"</strong> â€“ <em>Bows + Arrows</em> (2004-02-03) â€“ Record Collection Music</p>
 <p><strong>"Vermeer '65"</strong> â€“ <em>Dance With Your Partner</em> (2012-11-06) â€“ Fat Possum</p>

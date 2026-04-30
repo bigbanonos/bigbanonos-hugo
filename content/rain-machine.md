@@ -1,12 +1,12 @@
 ---
-title: "' 'Rain Machine'
-'"
+title: "Rain Machine"
+slug: "rain-machine"
 date: 2024-12-29
-original_title: "'Rain Machine'"
+layout: post
 tags:
   - '@rainmachine'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonos Favorite Song by Rain Machine: "Smiling Black Faces"</h1> <!-- Introductory Text -->
 <p >Updated September 22, 2009, with "Smiling Black Faces" by Rain Machine. This evocative and soulful track from the self-titled album *Rain Machine* showcases the projectâ€™s unique blend of experimental sounds and profound lyricism. Watch and listen below!</p> <!-- Featured Image -->

@@ -1,10 +1,8 @@
 ---
-title: "Etana;Vybz Kartel"
+title: "Etana Vybz Kartel"
+slug: "etana-vybz-kartel"
 date: 2024-05-11
-category: "artist"
-track_count: 4
-first_year: 2018
-last_year: 2024
+layout: post
 tags:
   - '@etana-vybz-kartel'
   - '@etana'
@@ -16,7 +14,6 @@ tags:
   - 'reggae'
   - 'roots reggae'
   - 'riddim'
-stub: true
 ---
 
 ## Etana;Vybz Kartel

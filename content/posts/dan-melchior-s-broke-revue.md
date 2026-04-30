@@ -1,16 +1,13 @@
 ---
-title: "Dan Melchior's Broke Revue"
+title: "Dan Melchior S Broke Revue"
+slug: "dan-melchior-s-broke-revue"
 date: 2002-11-05
-category: "artist"
-track_count: 4
-first_year: 2001
-last_year: 2002
+layout: post
 tags:
   - '@dan-melchior-s-broke-revue'
   - '00s-10s'
   - 'garage rock'
   - 'space rock'
-stub: true
 ---
 
 ## Dan Melchior's Broke Revue

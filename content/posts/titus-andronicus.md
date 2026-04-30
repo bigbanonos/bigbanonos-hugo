@@ -1,15 +1,12 @@
 ---
 title: "Titus Andronicus"
+slug: "titus-andronicus"
 date: 2018-02-05
-category: "artist"
-track_count: 6
-first_year: 2010
-last_year: 2018
+layout: post
 tags:
   - '@titus-andronicus'
   - '00s-10s'
   - 'indie punk'
-stub: true
 ---
 
 ## Titus Andronicus

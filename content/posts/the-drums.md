@@ -1,15 +1,12 @@
 ---
 title: "The Drums"
+slug: "the-drums"
 date: 2010-06-07
-category: "artist"
-track_count: 2
-first_year: 2009
-last_year: 2010
+layout: post
 tags:
   - '@the-drums'
   - '00s-10s'
   - 'indie'
-stub: true
 ---
 
 ## The Drums

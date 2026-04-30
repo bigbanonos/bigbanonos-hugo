@@ -1,16 +1,13 @@
 ---
 title: "Sheer Mag"
+slug: "sheer-mag"
 date: 2024-03-01
-category: "artist"
-track_count: 10
-first_year: 2017
-last_year: 2024
+layout: post
 tags:
   - '@sheer-mag'
   - '00s-10s'
   - '2020s'
   - 'power pop'
-stub: true
 ---
 
 ## Sheer Mag

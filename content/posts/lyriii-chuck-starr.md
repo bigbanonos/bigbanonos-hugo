@@ -1,17 +1,14 @@
 ---
-title: "Lyriii;Chuck Starr"
+title: "Lyriii Chuck Starr"
+slug: "lyriii-chuck-starr"
 date: 2025-04-17
-category: "artist"
-track_count: 2
-first_year: 2025
-last_year: 2025
+layout: post
 tags:
   - '@lyriii-chuck-starr'
   - '@lyriii-chuck-starr-countree-hype'
   - '2020s'
   - 'dancehall'
   - 'gengetone'
-stub: true
 ---
 
 ## Lyriii;Chuck Starr

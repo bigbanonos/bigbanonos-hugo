@@ -1,10 +1,8 @@
 ---
-title: "Misfits;Glenn Danzig"
+title: "Misfits Glenn Danzig"
+slug: "misfits-glenn-danzig"
 date: 1997-01-01
-category: "artist"
-track_count: 12
-first_year: 1985
-last_year: 1997
+layout: post
 tags:
   - '@misfits-glenn-danzig'
   - '@misfits'
@@ -13,7 +11,6 @@ tags:
   - 'punk'
   - 'psychobilly'
   - 'hardcore punk'
-stub: true
 ---
 
 ## Misfits;Glenn Danzig

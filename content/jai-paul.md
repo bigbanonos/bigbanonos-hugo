@@ -1,12 +1,12 @@
 ---
-title: "' 'Jai Paul'
-'"
+title: "Jai Paul"
+slug: "jai-paul"
 date: 2024-12-20
-original_title: "'Jai Paul'"
+layout: post
 tags:
   - '@jaipaul'
-layout: post
 ---
+
 <h2>BigBanonos' Favorite Tracks: Jai Paul</h2> <div > <a href="https://images-prod.dazeddigital.com/900/azure/dazed-prod/1030/4/1034695.jpg"> <img src="https://images-prod.dazeddigital.com/900/azure/dazed-prod/1030/4/1034695.jpg" alt="Jai Paul" width="400" /> </a>
 </div> <p><em>BigBanonos</em> dives into the groundbreaking sound of Jai Paul, blending experimental R&B with escape room vibes.</p> <h3>Selected Tracks</h3>
 <ol> <li><strong>jasmine (Demo)</strong> â€“ <em>Leak 04-13 (Bait Ones)</em> (2012)</li> <li><strong>BTSTU</strong> â€“ <em>Leak 04-13 (Bait Ones)</em> (2013)</li> <li><strong>Str8 Outta Mumbai</strong> â€“ <em>Leak 04-13 (Bait Ones)</em> (2013)</li> <li><strong>Do You Love Her Now</strong> â€“ <em>Do You Love Her Now / He</em> (2019)</li> <li><strong>He</strong> â€“ <em>Do You Love Her Now / He</em> (2019)</li>

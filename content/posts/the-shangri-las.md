@@ -1,15 +1,12 @@
 ---
-title: "The Shangri-Las"
+title: "The Shangri Las"
+slug: "the-shangri-las"
 date: 1996-01-01
-category: "artist"
-track_count: 4
-first_year: 1996
-last_year: 1996
+layout: post
 tags:
   - '@the-shangri-las'
   - '1900s'
   - 'doo-wop'
-stub: true
 ---
 
 ## The Shangri-Las

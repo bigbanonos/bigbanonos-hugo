@@ -1,12 +1,12 @@
 ---
-title: "' 'Tifa'
-'"
+title: "Tifa"
+slug: "tifa"
 date: 2024-12-20
-original_title: "'Tifa - 1 Song'"
+layout: post
 tags:
   - '@tifa'
-layout: post
 ---
+
 <h1>BigBanonos Favorite Songs by Tifa - DH SONGS</h1>
 {{< img-lite src="https://urbanislandz.com/wp-content/uploads/2016/02/Tifa-760x760.jpg.webp" alt="Tifa" >}} <p>Tifa brings energy to the dancehall scene with her unique style and powerful beats. Hereâ€™s BigBanonos' top pick:</p> <ol> <li><strong>My Man</strong> | <em>Divas of the Dancehall, Vol. 2</em> | Released: 2020-03-08 | 21st Hapilos Compilations</li>
 </ol> <div> {{< youtube "embed" >}}

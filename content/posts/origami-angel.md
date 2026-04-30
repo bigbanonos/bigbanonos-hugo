@@ -1,10 +1,8 @@
 ---
 title: "Origami Angel"
+slug: "origami-angel"
 date: 2021-04-30
-category: "artist"
-track_count: 2
-first_year: 2021
-last_year: 2021
+layout: post
 tags:
   - '@origami-angel'
   - '2020s'
@@ -12,7 +10,6 @@ tags:
   - 'math rock'
   - 'indie punk'
   - 'emo'
-stub: true
 ---
 
 ## Origami Angel

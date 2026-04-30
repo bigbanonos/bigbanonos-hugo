@@ -1,17 +1,14 @@
 ---
 title: "Monsters Of Folk"
+slug: "monsters-of-folk"
 date: 2009-09-22
-category: "artist"
-track_count: 2
-first_year: 2009
-last_year: 2009
+layout: post
 tags:
   - '@monsters-of-folk'
   - '00s-10s'
   - 'indie folk'
   - 'folk'
   - 'alt country'
-stub: true
 ---
 
 ## Monsters Of Folk

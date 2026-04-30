@@ -1,12 +1,12 @@
 ---
-title: "' 'Hefner'
-'"
+title: "Hefner"
+slug: "hefner"
 date: 2025-02-12
-original_title: "'Hefner'"
+layout: post
 tags:
   - '@hefner'
-layout: post
 ---
+
 <div> {{< img-lite src="https://i.scdn.co/image/81ec5d8f7412f2a3d08d4019950f79189123826d" alt="Hefner" >}}
 </div> <p>
 BigBanonos' favorite tracks by Hefner:

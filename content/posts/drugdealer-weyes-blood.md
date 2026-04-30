@@ -1,17 +1,14 @@
 ---
-title: "Drugdealer;Weyes Blood"
+title: "Drugdealer Weyes Blood"
+slug: "drugdealer-weyes-blood"
 date: 2019-04-19
-category: "artist"
-track_count: 3
-first_year: 2016
-last_year: 2019
+layout: post
 tags:
   - '@drugdealer-weyes-blood'
   - '@drugdealer'
   - '00s-10s'
   - 'art pop'
   - 'baroque pop'
-stub: true
 ---
 
 ## Drugdealer;Weyes Blood

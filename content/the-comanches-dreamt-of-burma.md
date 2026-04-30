@@ -1,13 +1,13 @@
 ---
-title: "' 'The Comanches'
-'"
+title: "The Comanches Dreamt Of Burma"
+slug: "the-comanches-dreamt-of-burma"
 date: 2024-12-17
-original_title: "'The Comanches'"
+layout: post
 tags:
   - '@peel'
   - '@comanches'
-layout: post
 ---
+
 <h2>The Comanches â€“ The Very Best Track</h2> <div > <img src="https://indianmusicmug.com/wp-content/uploads/2018/03/Peel_bandpic-768x509.jpg" alt="The Comanches Band Picture" width="400" />
 </div> {{< youtube "MN7qBU_mnFk" >}} <h3>Track</h3>
 <ul> <li><strong>I Dreamt of Burma</strong> â€“ <em>The Comanches</em> (2012)</li>

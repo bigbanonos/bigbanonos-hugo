@@ -1,12 +1,12 @@
 ---
-title: "' 'The Ponys'
-'"
+title: "The Ponys"
+slug: "the-ponys"
 date: 2025-02-10
-original_title: "'The Ponys'"
+layout: post
 tags:
   - '@ponys'
-layout: post
 ---
+
 <!-- The Ponys -->
 <img src="https://img.youtube.com/vi/JmRwYzawubc/0.jpg" /> <p><strong>Updated March 20, 2007 with "Turn The Lights Out" from <em>Turn The Lights Out</em></strong></p> <p><strong>"Turn The Lights Out"</strong> â€“ <em>Turn The Lights Out</em> (Matador, 2007)</p>
 <p><strong>"Double Vision"</strong> â€“ <em>Turn The Lights Out</em> (Matador, 2007)</p>

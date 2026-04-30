@@ -1,15 +1,12 @@
 ---
-title: "Trina;Nicki Minaj"
+title: "Trina Nicki Minaj"
+slug: "trina-nicki-minaj"
 date: 2019-06-19
-category: "artist"
-track_count: 2
-first_year: 2000
-last_year: 2019
+layout: post
 tags:
   - '@trina-nicki-minaj'
   - '@trina'
   - '00s-10s'
-stub: true
 ---
 
 ## Trina;Nicki Minaj

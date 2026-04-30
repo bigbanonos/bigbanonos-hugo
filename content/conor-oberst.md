@@ -1,12 +1,12 @@
 ---
-title: "' 'Conor Oberst'
-'"
+title: "Conor Oberst"
+slug: "conor-oberst"
 date: 2024-12-28
-original_title: "'Conor Oberst'"
+layout: post
 tags:
   - '@conoroberst'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonos Favorite Song by Conor Oberst: "Cabbage Town"</h1> <!-- Introductory Text -->
 <p >Updated May 5, 2009, with "Cabbage Town" by Conor Oberst. This track from the album *Outer South* blends chamber pop and indie rock with Oberstâ€™s signature melancholic lyricism, creating a hauntingly beautiful soundscape. Watch the video below!</p> <!-- Featured Image -->

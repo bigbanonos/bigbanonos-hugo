@@ -1,10 +1,8 @@
 ---
 title: "Bonnie Prince Billy"
+slug: "bonnie-prince-billy"
 date: 2023-11-17
-category: "artist"
-track_count: 12
-first_year: 2005
-last_year: 2023
+layout: post
 tags:
   - '@bonnie-prince-billy'
   - '@bonnie-prince-billy-matt-sweeney'
@@ -13,7 +11,6 @@ tags:
   - 'alt country'
   - 'indie folk'
   - 'americana'
-stub: true
 ---
 
 ## Bonnie Prince Billy

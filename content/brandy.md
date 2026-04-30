@@ -1,13 +1,13 @@
 ---
-title: "' 'Brandy'
-'"
+title: "Brandy"
+slug: "brandy"
 date: 2025-01-17
-original_title: "'Brandy'"
+layout: post
 tags:
   - '@monica'
   - '@brandy'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Brandy</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab67616d0000b273631fa0b99b2d12e9ecd4ae72" alt="Brandy" >}}

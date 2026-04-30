@@ -1,12 +1,12 @@
 ---
-title: "' 'Brian Jonestown Massacre'
-'"
+title: "Brian Jonestown Massacre"
+slug: "brian-jonestown-massacre"
 date: 2025-01-17
-original_title: "'Brian Jonestown Massacre'"
+layout: post
 tags:
   - '@brianjonestownmassacre'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by The Brian Jonestown Massacre</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab67616d00001e02060888901fd0c03cded8b639" alt="The Brian Jonestown Massacre" >}}

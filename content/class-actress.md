@@ -1,12 +1,12 @@
 ---
-title: "' 'Class Actress'
-'"
+title: "Class Actress"
+slug: "class-actress"
 date: 2025-01-17
-original_title: "'Class Actress'"
+layout: post
 tags:
   - '@classactress'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Class Actress</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab67616d00001e02c27e5f12fc3c836d3c2da386" alt="Class Actress" >}}

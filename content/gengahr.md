@@ -1,12 +1,12 @@
 ---
-title: "' 'Gengahr'
-'"
+title: "Gengahr"
+slug: "gengahr"
 date: 2024-12-13
-original_title: "'Gengahr'"
+layout: post
 tags:
   - '@gengahr'
-layout: post
 ---
+
 <!-- Post Title -->
 <h1 >BigBanonos' Favorite Tracks: Gengahr - "Dizzy Ghosts"</h1> <!-- Introductory Text -->
 <p >Updated June 15, 2015, with "Dizzy Ghosts" by Gengahr. A standout track from their album <em>A Dream Outside</em>, showcasing the bandâ€™s signature blend of ethereal melodies and English indie rock.</p> <!-- Featured Image -->

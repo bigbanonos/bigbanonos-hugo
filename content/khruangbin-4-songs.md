@@ -1,13 +1,13 @@
 ---
-title: "' 'Khruangbin'
-'"
+title: "Khruangbin"
+slug: "khruangbin"
 date: 2024-10-29
-original_title: "'Khruangbin - 4 Songs'"
+layout: post
 tags:
   - '@khruangbin'
   - '@leonbridges'
-layout: post
 ---
+
 <h2>Khruangbin: BigBanonos' Top Songs</h2>
 <p>Updated February 20, 2024, with "May Ninth"</p>
 <p>Explore <strong>Khruangbin's</strong> top songs, blending neo-psychedelic and world influences, as picked by BigBanonos.</p> <h3>Playlist</h3>

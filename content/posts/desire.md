@@ -1,14 +1,11 @@
 ---
 title: "Desire"
+slug: "desire"
 date: 2023-04-30
-category: "artist"
-track_count: 3
-first_year: 2020
-last_year: 2023
+layout: post
 tags:
   - '@desire'
   - '2020s'
-stub: true
 ---
 
 ## Desire

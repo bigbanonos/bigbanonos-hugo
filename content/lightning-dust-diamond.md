@@ -1,12 +1,12 @@
 ---
-title: "' 'Lightning Dust'
-'"
+title: "Lightning Dust Diamond"
+slug: "lightning-dust-diamond"
 date: 2025-01-16
-original_title: "'Lightning Dust'"
+layout: post
 tags:
   - '@lightningdust'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1>BigBanonosâ€™ Favorite Songs by Lightning Dust</h1> <!-- Introductory Text -->
 <p>Lightning Dustâ€™s ethereal soundscapes blend indie rock and psychedelic rock into a mesmerizing experience. BigBanonos shares the top tracks from their introspective discography.</p> <!-- Featured Image -->

@@ -1,12 +1,12 @@
 ---
-title: "' 'Equipment'
-'"
+title: "Equipment"
+slug: "equipment"
 date: 2025-08-30
-original_title: "'Equipment - 3+ Songs'"
+layout: post
 tags:
   - '@equipment'
-layout: post
 ---
+
 <img src="https://f4.bcbits.com/img/0040010393_25.jpg" width="100%" alt="Equipment - espresso lemonade" /> <h2>BigBanonos' Favorite Songs by Equipment</h2> <p>Updated June 2025 with two new tracks from <em>espresso lemonade</em>: <strong>"Tequila Redbull"</strong> and <strong>"espresso lemonade"</strong>. Equipment continues to carry Midwest emo into the present with clever songwriting and raw, urgent delivery. These sit alongside <strong>"Hot, Young Doctors"</strong> from their 2023 debut <em>Alt. Account</em>, which remains a defining moment for the band.</p> <h3>espresso lemonade (2025)</h3>
 <p><em>Album:</em> espresso lemonade Ãƒâ€šÃ‚Â· Brain Synthesizer Ãƒâ€šÃ‚Â· Released June 10, 2025</p>
 {{< youtube "VehfFQmcYQ8" >}} <h3>Tequila Redbull (2025)</h3>

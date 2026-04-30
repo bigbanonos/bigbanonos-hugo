@@ -1,12 +1,12 @@
 ---
-title: "' 'Tee-Jay'
-'"
+title: "Tee Jay"
+slug: "tee-jay"
 date: 2025-01-10
-original_title: "'Tee-Jay'"
+layout: post
 tags:
   - '@teejay'
-layout: post
 ---
+
 <div class="post-title"> <h1>BigBanonos' Favorite Songs by Tee-Jay</h1>
 </div>
 <p>Updated July 5, 2019, with "Brand New" from the <i>Sexy Groove Riddim</i>, highlighted in the playlist below:</p>

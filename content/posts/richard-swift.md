@@ -1,14 +1,11 @@
 ---
 title: "Richard Swift"
+slug: "richard-swift"
 date: 2018-09-21
-category: "artist"
-track_count: 2
-first_year: 2009
-last_year: 2018
+layout: post
 tags:
   - '@richard-swift'
   - '00s-10s'
-stub: true
 ---
 
 ## Richard Swift

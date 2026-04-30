@@ -1,16 +1,13 @@
 ---
 title: "The Raconteurs"
+slug: "the-raconteurs"
 date: 2008-03-05
-category: "artist"
-track_count: 2
-first_year: 2006
-last_year: 2008
+layout: post
 tags:
   - '@the-raconteurs'
   - '00s-10s'
   - 'garage rock'
   - 'alternative rock'
-stub: true
 ---
 
 ## The Raconteurs

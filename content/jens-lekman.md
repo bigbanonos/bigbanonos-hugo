@@ -1,12 +1,12 @@
 ---
-title: "' 'Jens Lekman'
-'"
+title: "Jens Lekman"
+slug: "jens-lekman"
 date: 2025-02-09
-original_title: "'Jens Lekman'"
+layout: post
 tags:
   - '@jenslekman'
-layout: post
 ---
+
 <h2>BigBanonos' Favorite Songs by Jens Lekman</h2> <p><strong>Updated May 4, 2022, with "Your Arms Around Me" from <em>The Linden Trees Are Still In Blossom</em></strong></p> {{< img-lite src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Jens_Lekman_Accelerator_2004.jpg/220px-Jens_Lekman_Accelerator_2004.jpg" alt="Jens Lekman" >}} <p>Jens Lekmanâ€™s heartfelt storytelling and lush instrumentation make him one of indie popâ€™s greats. Below are BigBanonos' favorite songs by Jens Lekman.</p> <h3>"Your Arms Around Me"</h3>
 <p><em>The Linden Trees Are Still In Blossom (Night Falls Over Kortedala)</em>, Secretly Canadian, May 4, 2022</p> <h3>"I'm Leaving You Because I Don't Love You"</h3>
 <p><em>The Linden Trees Are Still In Blossom (Night Falls Over Kortedala)</em>, Secretly Canadian, May 4, 2022</p> <h3>"A Postcard to Nina"</h3>

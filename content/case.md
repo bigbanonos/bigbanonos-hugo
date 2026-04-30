@@ -1,13 +1,13 @@
 ---
-title: "' 'Case'
-'"
+title: "Case"
+slug: "case"
 date: 2025-01-17
-original_title: "'Case'"
+layout: post
 tags:
   - '@case'
   - '@joe'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Case</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab67616d0000b2731918d1d4b6d359fcf24696f7" alt="Case" >}}

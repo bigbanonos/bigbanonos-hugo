@@ -1,12 +1,12 @@
 ---
-title: "' 'War On Drugs'
-'"
+title: "War On Drugs"
+slug: "war-on-drugs"
 date: 2025-01-10
-original_title: "'War On Drugs'"
+layout: post
 tags:
   - '@warondrugs'
-layout: post
 ---
+
 <div class="post-title"> <h1>BigBanonos' Favorite Songs by The War On Drugs</h1>
 </div>
 <p>Updated June 17, 2008, with "A Needle In Your Eye #16" from the album <i>Wagonwheel Blues</i>, highlighted in the playlist below:</p>

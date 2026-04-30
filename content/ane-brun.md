@@ -1,12 +1,12 @@
 ---
-title: "' 'Ane Brun'
-'"
+title: "Ane Brun"
+slug: "ane-brun"
 date: 2024-12-26
-original_title: "'Ane Brun'"
+layout: post
 tags:
   - '@anebrun'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonos Favorite Song by Ane Brun: "The Treehouse Song"</h1> <!-- Introductory Text -->
 <p >Updated March 3, 2008, with "The Treehouse Song" by Ane Brun. This beautifully crafted track captures Ane Brun's unique folk-inspired sound and poetic lyricism. Watch the video below!</p> <!-- Featured Image -->

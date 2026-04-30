@@ -1,17 +1,14 @@
 ---
 title: "James Carr"
+slug: "james-carr"
 date: 2013-01-02
-category: "artist"
-track_count: 4
-first_year: 2013
-last_year: 2013
+layout: post
 tags:
   - '@james-carr'
   - '00s-10s'
   - 'northern soul'
   - 'classic soul'
   - 'soul'
-stub: true
 ---
 
 ## James Carr

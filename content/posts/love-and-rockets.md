@@ -1,10 +1,8 @@
 ---
-title: "Love and Rockets"
+title: "Love And Rockets"
+slug: "love-and-rockets"
 date: 1989-09-04
-category: "artist"
-track_count: 2
-first_year: 1986
-last_year: 1989
+layout: post
 tags:
   - '@love-and-rockets'
   - '1900s'
@@ -12,7 +10,6 @@ tags:
   - 'gothic rock'
   - 'post-punk'
   - 'deathrock'
-stub: true
 ---
 
 ## Love and Rockets

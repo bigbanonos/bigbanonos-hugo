@@ -1,16 +1,13 @@
 ---
 title: "The Flaming Lips"
+slug: "the-flaming-lips"
 date: 2002-05-13
-category: "artist"
-track_count: 4
-first_year: 1993
-last_year: 2002
+layout: post
 tags:
   - '@the-flaming-lips'
   - '00s-10s'
   - '1900s'
   - 'neo-psychedelic'
-stub: true
 ---
 
 ## The Flaming Lips

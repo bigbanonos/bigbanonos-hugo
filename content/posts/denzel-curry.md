@@ -1,7 +1,8 @@
 ---
 title: "Denzel Curry"
+slug: "denzel-curry"
 date: 2026-03-06
-category: "artist"
+layout: post
 tags:
   - '@denzelcurry'
   - '@tiacorine'

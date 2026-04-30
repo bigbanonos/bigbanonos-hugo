@@ -1,12 +1,12 @@
 ---
-title: "' 'Avey Tare'
-'"
+title: "Avey Tare"
+slug: "avey-tare"
 date: 2025-01-17
-original_title: "'Avey Tare'"
+layout: post
 tags:
   - '@aveytare'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Avey Tare</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab6761610000e5eba72c69fdd7e8f0f26130db39" alt="Avey Tare" >}}

@@ -1,17 +1,14 @@
 ---
 title: "King Tuff"
+slug: "king-tuff"
 date: 2012-05-29
-category: "artist"
-track_count: 2
-first_year: 2008
-last_year: 2012
+layout: post
 tags:
   - '@king-tuff'
   - '00s-10s'
   - 'garage rock'
   - 'neo-psychedelic'
   - 'surf rock'
-stub: true
 ---
 
 ## King Tuff

@@ -1,10 +1,8 @@
 ---
 title: "Saint Etienne"
+slug: "saint-etienne"
 date: 2025-09-05
-category: "artist"
-track_count: 2
-first_year: 1992
-last_year: 2025
+layout: post
 tags:
   - '@saint-etienne'
   - '@saint-etienne-confidence-man'
@@ -13,7 +11,6 @@ tags:
   - 'britpop'
   - 'madchester'
   - 'alternative dance'
-stub: true
 ---
 
 ## Saint Etienne

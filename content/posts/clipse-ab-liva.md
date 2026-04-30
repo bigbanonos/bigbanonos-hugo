@@ -1,10 +1,8 @@
 ---
-title: "Clipse;Ab Liva"
+title: "Clipse Ab Liva"
+slug: "clipse-ab-liva"
 date: 2025-07-11
-category: "artist"
-track_count: 7
-first_year: 2002
-last_year: 2025
+layout: post
 tags:
   - '@clipse-ab-liva'
   - '@clipse'
@@ -19,7 +17,6 @@ tags:
   - 'r&b'
   - 'hip hop'
   - 'west coast hip hop'
-stub: true
 ---
 
 ## Clipse;Ab Liva

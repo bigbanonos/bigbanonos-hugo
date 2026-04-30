@@ -1,10 +1,8 @@
 ---
 title: "Ivor Cutler"
+slug: "ivor-cutler"
 date: 2009-10-20
-category: "artist"
-track_count: 3
-first_year: 1983
-last_year: 2009
+layout: post
 tags:
   - '@ivor-cutler'
   - '@parenthetical-girls'
@@ -14,7 +12,6 @@ tags:
   - 'comedy'
   - 'baroque pop'
   - 'art pop'
-stub: true
 ---
 
 ## Ivor Cutler

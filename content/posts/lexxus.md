@@ -1,10 +1,8 @@
 ---
 title: "Lexxus"
+slug: "lexxus"
 date: 2017-01-20
-category: "artist"
-track_count: 2
-first_year: 2005
-last_year: 2017
+layout: post
 tags:
   - '@lexxus'
   - '@lexxus-lady-saw'
@@ -13,7 +11,6 @@ tags:
   - 'ragga'
   - 'riddim'
   - 'reggae'
-stub: true
 ---
 
 ## Lexxus

@@ -1,10 +1,8 @@
 ---
-title: "Matoma;MNEK;Kiana Ledé"
+title: "Matoma Mnek Kiana Led"
+slug: "matoma-mnek-kiana-led"
 date: 2019-06-14
-category: "artist"
-track_count: 2
-first_year: 2015
-last_year: 2019
+layout: post
 tags:
   - '@matoma-mnek-kiana-led'
   - '@matoma-the-notorious-b-i-g-ja-rule-ralph-tresvant'
@@ -13,7 +11,6 @@ tags:
   - 'old school hip hop'
   - 'gangster rap'
   - 'east coast hip hop'
-stub: true
 ---
 
 ## Matoma;MNEK;Kiana Ledé

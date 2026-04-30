@@ -1,12 +1,12 @@
 ---
-title: "' 'Destiny's Child'
-'"
+title: "Destinys Child"
+slug: "destinys-child"
 date: 2025-01-19
-original_title: "'Destiny's Child'"
+layout: post
 tags:
   - '@destinyschild'
-layout: post
 ---
+
  <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Destiny's Child</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab67616d0000b2738e1909b730c3f8fc483f6047" alt="Destiny's Child" >}}

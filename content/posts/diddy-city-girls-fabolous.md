@@ -1,10 +1,8 @@
 ---
-title: "Diddy;City Girls;Fabolous"
+title: "Diddy City Girls Fabolous"
+slug: "diddy-city-girls-fabolous"
 date: 2023-09-20
-category: "artist"
-track_count: 4
-first_year: 2015
-last_year: 2023
+layout: post
 tags:
   - '@diddy-city-girls-fabolous'
   - '@diddy'
@@ -16,7 +14,6 @@ tags:
   - 'east coast hip hop'
   - 'trap soul'
   - 'r&b'
-stub: true
 ---
 
 ## Diddy;City Girls;Fabolous

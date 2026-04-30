@@ -1,16 +1,13 @@
 ---
 title: "Moses Sumney"
+slug: "moses-sumney"
 date: 2024-06-05
-category: "artist"
-track_count: 2
-first_year: 2020
-last_year: 2024
+layout: post
 tags:
   - '@moses-sumney'
   - '2020s'
   - 'art pop'
   - 'indie soul'
-stub: true
 ---
 
 ## Moses Sumney

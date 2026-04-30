@@ -1,12 +1,12 @@
 ---
-title: "' 'Anthony Hamilton'
-'"
+title: "Anthony Hamilton"
+slug: "anthony-hamilton"
 date: 2025-01-16
-original_title: "'Anthony Hamilton'"
+layout: post
 tags:
   - '@anthonyhamilton'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonos' Favorite Songs by Anthony Hamilton</h1> <!-- Introductory Text -->
 <p >Updated with timeless tracks like "Pray For Me" and "Best of Me" by Anthony Hamilton. A master of neo-soul and contemporary R&B, Hamilton's heartfelt lyrics and soulful voice continue to captivate audiences worldwide.</p> <!-- Featured Image -->

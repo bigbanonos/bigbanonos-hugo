@@ -1,12 +1,12 @@
 ---
-title: "' 'Kacey Musgraves'
-'"
+title: "Kacey Musgraves Best Three Tracks"
+slug: "kacey-musgraves-best-three-tracks"
 date: 2024-10-29
-original_title: "'Kacey Musgraves - 6 Songs'"
+layout: post
 tags:
   - '@kaceymusgraves'
-layout: post
 ---
+
 <h2>Kacey Musgraves: BigBanonos' Top Songs</h2>
 <p>Updated February 8, 2024, with "Deeper Well"</p>
 <p>Discover the soulful storytelling of <strong>Kacey Musgraves</strong> in BigBanonos' favorite songs, from her country roots to contemporary hits.</p> <h3>Playlist</h3>

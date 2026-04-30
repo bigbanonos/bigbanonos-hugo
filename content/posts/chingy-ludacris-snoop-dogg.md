@@ -1,10 +1,8 @@
 ---
-title: "Chingy;Ludacris;Snoop Dogg"
+title: "Chingy Ludacris Snoop Dogg"
+slug: "chingy-ludacris-snoop-dogg"
 date: 2003-01-01
-category: "artist"
-track_count: 2
-first_year: 2003
-last_year: 2003
+layout: post
 tags:
   - '@chingy-ludacris-snoop-dogg'
   - '@chingy'
@@ -13,7 +11,6 @@ tags:
   - 'southern hip hop'
   - 'g-funk'
   - 'west coast hip hop'
-stub: true
 ---
 
 ## Chingy;Ludacris;Snoop Dogg

@@ -1,14 +1,11 @@
 ---
-title: "United State of Electronica"
+title: "United State Of Electronica"
+slug: "united-state-of-electronica"
 date: 2004-04-20
-category: "artist"
-track_count: 2
-first_year: 2004
-last_year: 2004
+layout: post
 tags:
   - '@united-state-of-electronica'
   - '00s-10s'
-stub: true
 ---
 
 ## United State of Electronica

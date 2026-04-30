@@ -1,17 +1,14 @@
 ---
-title: "Axel Boman;Man Tear;Inre Frid"
+title: "Axel Boman Man Tear Inre Frid"
+slug: "axel-boman-man-tear-inre-frid"
 date: 2022-04-15
-category: "artist"
-track_count: 2
-first_year: 2011
-last_year: 2022
+layout: post
 tags:
   - '@axel-boman-man-tear-inre-frid'
   - '@axel-boman'
   - '00s-10s'
   - '2020s'
   - 'jazz house'
-stub: true
 ---
 
 ## Axel Boman;Man Tear;Inre Frid

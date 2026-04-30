@@ -1,10 +1,8 @@
 ---
-title: "DJDS;Khalid;Charlie Wilson;Charlotte Day Wilson"
+title: "Djds Khalid Charlie Wilson Charlotte Day Wilson"
+slug: "djds-khalid-charlie-wilson-charlotte-day-wilson"
 date: 2020-07-09
-category: "artist"
-track_count: 6
-first_year: 2017
-last_year: 2020
+layout: post
 tags:
   - '@djds-khalid-charlie-wilson-charlotte-day-wilson'
   - '@djds-amber-mark-marco-mckinnis'
@@ -18,7 +16,6 @@ tags:
   - 'indie soul'
   - 'sexy drill'
   - 'afrobeats'
-stub: true
 ---
 
 ## DJDS;Khalid;Charlie Wilson;Charlotte Day Wilson

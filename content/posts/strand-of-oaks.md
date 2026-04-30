@@ -1,14 +1,11 @@
 ---
-title: "Strand of Oaks"
+title: "Strand Of Oaks"
+slug: "strand-of-oaks"
 date: 2021-10-01
-category: "artist"
-track_count: 2
-first_year: 2021
-last_year: 2021
+layout: post
 tags:
   - '@strand-of-oaks'
   - '2020s'
-stub: true
 ---
 
 ## Strand of Oaks

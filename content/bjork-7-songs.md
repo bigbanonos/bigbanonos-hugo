@@ -1,14 +1,14 @@
 ---
-title: "' 'Bjork'
-'"
+title: "Bjork"
+slug: "bjork"
 date: 2024-11-03
-original_title: "'Bjork - 7 Songs'"
+layout: post
 tags:
   - '@kasimyn'
   - '@bjork'
   - '@sindrieldon'
-layout: post
 ---
+
 <h2>BigBanonos' Top Songs by BjÃƒÆ’Ã‚Â¶rk</h2> <!--Search Description-->
 <p>BigBanonos' favorite BjÃƒÆ’Ã‚Â¶rk tracks, highlighting her genre-defining sounds from alternative rock and experimental pop to Icelandic singer-songwriter roots.</p> <!--Spotify Playlist Embed-->
 {{< youtube "embed" >}} <!--Song Listings-->

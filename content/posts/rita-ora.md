@@ -1,14 +1,11 @@
 ---
 title: "Rita Ora"
+slug: "rita-ora"
 date: 2017-10-20
-category: "artist"
-track_count: 2
-first_year: 2014
-last_year: 2017
+layout: post
 tags:
   - '@rita-ora'
   - '00s-10s'
-stub: true
 ---
 
 ## Rita Ora

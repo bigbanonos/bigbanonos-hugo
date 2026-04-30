@@ -1,12 +1,12 @@
 ---
-title: "' 'The Hunches'
-'"
+title: "The Hunches"
+slug: "the-hunches"
 date: 2024-12-29
-original_title: "'The Hunches'"
+layout: post
 tags:
   - '@thehunches'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonos Favorite Song by The Hunches: "Like I Could Die"</h1> <!-- Introductory Text -->
 <p >Updated May 3, 2016, with "Like I Could Die" by The Hunches. Originally released in 2003, this track was reissued under Almost Ready Records and captures the bandâ€™s raw, garage rock energy. Watch the video below!</p> <!-- Featured Image -->

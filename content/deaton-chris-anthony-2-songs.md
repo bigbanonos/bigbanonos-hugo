@@ -1,15 +1,15 @@
 ---
-title: "' 'Deaton Chris Anthony'
-'"
+title: "Deaton Chris Anthony"
+slug: "deaton-chris-anthony"
 date: 2024-12-21
-original_title: "'Deaton Chris Anthony - 2 Songs'"
+layout: post
 tags:
   - '@clairo'
   - '@deatonchrisanthony'
   - '@beabadoobee'
   - '@cocoandclairclair'
-layout: post
 ---
+
 <h3><em>BigBanonos</em> Top 2 Songs by Deaton Chris Anthony:</h3> <p>Updated on April 13, 2022, with the track â€œiScreamâ€ featuring beabadoobee. BigBanonosâ€™ favorite songs by Deaton Chris Anthony showcase his innovative mix of experimental R&B, bedroom pop, and indie influences, with collaborations from notable artists.</p> <!--Image-->
 <div class="separator"> <a href="https://www.famousbirthdays.com/faces/anthony-deaton-image.jpg" > <img alt="Deaton Chris Anthony" src="https://www.famousbirthdays.com/faces/anthony-deaton-image.jpg" /> </a>
 </div> <!--Spotify Playlist Embed-->

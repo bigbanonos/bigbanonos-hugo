@@ -1,12 +1,12 @@
 ---
-title: "' 'Family Portrait'
-'"
+title: "Family Portrait"
+slug: "family-portrait"
 date: 2024-12-28
-original_title: "'Family Portrait'"
+layout: post
 tags:
   - '@familyportrait'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonos 2 Favorite Songs by Family Portrait: "Mega Secrets" & "Super Cool"</h1> <!-- Introductory Text -->
 <p >Updated July 27, 2016, with "Mega Secrets" and "Super Cool" by Family Portrait. These tracks from the release *Mega Secrets / Super Cool* highlight the bandâ€™s dreamy popgaze sound and folk-inspired melodies. Watch the video for "Mega Secrets" below!</p> <!-- Featured Image -->

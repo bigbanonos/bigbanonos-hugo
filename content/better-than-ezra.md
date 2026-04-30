@@ -1,12 +1,12 @@
 ---
-title: "' 'Better Than Ezra'
-'"
+title: "Better Than Ezra"
+slug: "better-than-ezra"
 date: 2024-12-27
-original_title: "'Better Than Ezra'"
+layout: post
 tags:
   - '@betterthanezra'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonos Favorite Song by Better Than Ezra: "Good"</h1> <!-- Introductory Text -->
 <p >Updated August 7, 1994, with "Good" by Better Than Ezra. This alternative rock classic combines heartfelt lyrics with a catchy melody, making it a staple of '90s music. Watch the video below!</p> <!-- Featured Image -->

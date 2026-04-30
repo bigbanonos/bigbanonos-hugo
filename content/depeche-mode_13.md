@@ -1,12 +1,12 @@
 ---
-title: "' 'Depeche Mode'
-'"
+title: "Depeche Mode"
+slug: "depeche-mode"
 date: 2025-01-19
-original_title: "'Depeche Mode'"
+layout: post
 tags:
   - '@depechemode'
-layout: post
 ---
+
  <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Depeche Mode</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab67616d0000b273948ef6fe82ba65a6259190c7" alt="Depeche Mode" >}}

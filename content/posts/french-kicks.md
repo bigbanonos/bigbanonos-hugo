@@ -1,14 +1,11 @@
 ---
 title: "French Kicks"
+slug: "french-kicks"
 date: 2002-01-01
-category: "artist"
-track_count: 2
-first_year: 2002
-last_year: 2002
+layout: post
 tags:
   - '@french-kicks'
   - '00s-10s'
-stub: true
 ---
 
 ## French Kicks

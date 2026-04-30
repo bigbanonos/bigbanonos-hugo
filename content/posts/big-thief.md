@@ -1,15 +1,12 @@
 ---
 title: "Big Thief"
+slug: "big-thief"
 date: 2025-09-05
-category: "artist"
-track_count: 25
-first_year: 2016
-last_year: 2025
+layout: post
 tags:
   - '@big-thief'
   - '00s-10s'
   - '2020s'
-stub: true
 ---
 
 ## Big Thief

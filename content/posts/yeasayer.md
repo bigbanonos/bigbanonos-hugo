@@ -1,14 +1,11 @@
 ---
 title: "Yeasayer"
+slug: "yeasayer"
 date: 2013-04-23
-category: "artist"
-track_count: 3
-first_year: 2010
-last_year: 2013
+layout: post
 tags:
   - '@yeasayer'
   - '00s-10s'
-stub: true
 ---
 
 ## Yeasayer

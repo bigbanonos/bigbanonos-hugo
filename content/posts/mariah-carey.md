@@ -1,10 +1,8 @@
 ---
 title: "Mariah Carey"
+slug: "mariah-carey"
 date: 2025-09-26
-category: "artist"
-track_count: 9
-first_year: 1995
-last_year: 2025
+layout: post
 tags:
   - '@mariah-carey'
   - '@mariah-carey-damian-marley'
@@ -19,7 +17,6 @@ tags:
   - 'r&b'
   - 'east coast hip hop'
   - 'old school hip hop'
-stub: true
 ---
 
 ## Mariah Carey

@@ -1,12 +1,12 @@
 ---
-title: "' 'Jimi Hendrix'
-'"
+title: "Jimi Hendrix"
+slug: "jimi-hendrix"
 date: 2025-01-16
-original_title: "'Jimi Hendrix'"
+layout: post
 tags:
   - '@jimihendrix'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1>BigBanonosâ€™ Favorite Songs by Jimi Hendrix</h1> <!-- Introductory Text -->
 <p>Jimi Hendrix, the legendary guitarist, revolutionized rock music with his unparalleled skill and innovative sound. BigBanonos celebrates his top tracks that continue to inspire generations.</p> <!-- Featured Image -->

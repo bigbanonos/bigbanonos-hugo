@@ -1,7 +1,8 @@
 ---
 title: "Hardcover Beats"
+slug: "hardcover-beats"
 date: 2026-02-20
-category: "artist"
+layout: post
 tags:
   - '@hardcoverbeats'
 ---

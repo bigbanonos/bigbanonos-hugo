@@ -1,12 +1,12 @@
 ---
-title: "' 'The Gants'
-'"
+title: "The Gants"
+slug: "the-gants"
 date: 2024-12-28
-original_title: "'The Gants'"
+layout: post
 tags:
   - '@gants'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonos Favorite Song by The Gants: "I Wonder"</h1> <!-- Introductory Text -->
 <p >The 1965 gem "I Wonder" by The Gants. This track from their compilation album *Road Runner! The Best Of The Gants* captures the essence of classic garage rock with a touch of freakbeat energy. Watch the video below!</p> <!-- Featured Image -->

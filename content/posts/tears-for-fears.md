@@ -1,16 +1,13 @@
 ---
 title: "Tears For Fears"
+slug: "tears-for-fears"
 date: 1985-02-25
-category: "artist"
-track_count: 2
-first_year: 1983
-last_year: 1985
+layout: post
 tags:
   - '@tears-for-fears'
   - '1900s'
   - 'new wave'
   - 'synthpop'
-stub: true
 ---
 
 ## Tears For Fears

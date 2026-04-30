@@ -1,15 +1,12 @@
 ---
 title: "Sweatheart"
+slug: "sweatheart"
 date: 2010-05-04
-category: "artist"
-track_count: 2
-first_year: 2006
-last_year: 2010
+layout: post
 tags:
   - '@sweatheart'
   - '00s-10s'
   - 'electroclash'
-stub: true
 ---
 
 ## Sweatheart

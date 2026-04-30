@@ -1,16 +1,16 @@
 ---
-title: "' '50 Cent'
-'"
+title: "50 Cent"
+slug: "50-cent"
 date: 2025-01-17
-original_title: "'50 Cent'"
+layout: post
 tags:
   - '@50cent'
   - '@jeremih'
   - '@2chainz'
   - '@ti'
   - '@kendricklamar'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by 50 Cent</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/6f0da41419b31d9d2ba55d2df212f59ad0668118" alt="50 Cent" >}}

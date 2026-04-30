@@ -1,15 +1,12 @@
 ---
-title: "Mk.gee"
+title: "Mk Gee"
+slug: "mk-gee"
 date: 2024-02-09
-category: "artist"
-track_count: 8
-first_year: 2018
-last_year: 2024
+layout: post
 tags:
   - '@mk-gee'
   - '00s-10s'
   - '2020s'
-stub: true
 ---
 
 ## Mk.gee

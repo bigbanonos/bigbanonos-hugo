@@ -1,16 +1,13 @@
 ---
-title: "Hank Ballard & The Midnighters"
+title: "Hank Ballard The Midnighters"
+slug: "hank-ballard-the-midnighters"
 date: 2017-05-28
-category: "artist"
-track_count: 2
-first_year: 1990
-last_year: 2017
+layout: post
 tags:
   - '@hank-ballard-the-midnighters'
   - '00s-10s'
   - '1900s'
   - 'doo-wop'
-stub: true
 ---
 
 ## Hank Ballard & The Midnighters

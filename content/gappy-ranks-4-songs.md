@@ -1,12 +1,12 @@
 ---
-title: "' 'Gappy Ranks'
-'"
+title: "Gappy Ranks"
+slug: "gappy-ranks"
 date: 2024-12-21
-original_title: "'Gappy Ranks - 4 Songs'"
+layout: post
 tags:
   - '@gappyranks'
-layout: post
 ---
+
 <h3>BigBanonos Top Tracks: Gappy Ranks - 4 Songs</h3>
 <div class="separator"> <a href="https://i1.sndcdn.com/artworks-000021441020-9ypkpl-t500x500.jpg" > <img alt="Gappy Ranks" border="0" height="350" src="https://i1.sndcdn.com/artworks-000021441020-9ypkpl-t500x500.jpg" /> </a>
 </div> <p>This collection from <em>BigBanonos</em> highlights the top tracks of Gappy Ranks, a unique fusion of lovers rock, modern reggae, and UK dancehall.</p> <ol> <li><strong>Bad Now</strong> â€ <em>November 8, 2019</em> â€ Album: Blood & Crip Riddim | Label: Mustang Beats | Genres: Rock, World/Traditional, Hip Hop, lovers rock, modern reggae, riddim, uk dancehall</li> <li><strong>Saucy</strong> â€ <em>October 5, 2018</em> â€ Album: Saucy | Label: Marvoni Records | Genres: Rock, World/Traditional, Hip Hop, lovers rock, modern reggae, riddim, uk dancehall</li> <li><strong>Bad and Bold</strong> â€ <em>July 13, 2018</em> â€ Album: 9.30 Appointment | Label: Bread Back Productions | Genres: Rock, World/Traditional, Hip Hop, lovers rock, modern reggae, riddim, uk dancehall</li> <li><strong>Me Same One</strong> â€ <em>October 5, 2018</em> â€ Album: Star Dawg | Label: Mustang Beats | Genres: Rock, World/Traditional, Hip Hop, lovers rock, modern reggae, riddim, uk dancehall</li>

@@ -1,10 +1,8 @@
 ---
 title: "Santigold"
+slug: "santigold"
 date: 2018-07-27
-category: "artist"
-track_count: 6
-first_year: 2008
-last_year: 2018
+layout: post
 tags:
   - '@santigold'
   - '@santigold-shenseea'
@@ -13,7 +11,6 @@ tags:
   - 'dancehall'
   - 'soca'
   - 'afrobeats'
-stub: true
 ---
 
 ## Santigold

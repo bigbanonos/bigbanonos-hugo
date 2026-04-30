@@ -1,15 +1,12 @@
 ---
-title: "Z-Ro"
+title: "Z Ro"
+slug: "z-ro"
 date: 2009-01-01
-category: "artist"
-track_count: 1
-first_year: 2009
-last_year: 2009
+layout: post
 tags:
   - '@z-ro'
   - '00s-10s'
   - 'southern hip hop'
-stub: true
 ---
 
 ## Z-Ro

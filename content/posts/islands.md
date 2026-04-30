@@ -1,14 +1,11 @@
 ---
 title: "Islands"
+slug: "islands"
 date: 2016-11-11
-category: "artist"
-track_count: 2
-first_year: 2016
-last_year: 2016
+layout: post
 tags:
   - '@islands'
   - '00s-10s'
-stub: true
 ---
 
 ## Islands

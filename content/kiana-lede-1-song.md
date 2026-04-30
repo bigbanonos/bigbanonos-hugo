@@ -1,13 +1,13 @@
 ---
-title: "' 'Kiana LedÃƒÆ’Ã‚Â©'
-'"
+title: "Kiana Lede"
+slug: "kiana-lede"
 date: 2021-02-15
-original_title: "'Kiana LedÃƒÆ’Ã‚Â© - 1 Song'"
+layout: post
 tags:
   - '@arilennox'
   - '@kianalede'
-layout: post
 ---
+
 {{< youtube "zneiqgtWZIU" >}}<h2><ol><li>(ft. Ari Lennox) Chocolate.[2020]</li></ol></h2>
 
 <!--Subscribe and Playlist Links-->

@@ -1,10 +1,8 @@
 ---
 title: "Caetano Veloso"
+slug: "caetano-veloso"
 date: 2007-03-26
-category: "artist"
-track_count: 3
-first_year: 1972
-last_year: 2007
+layout: post
 tags:
   - '@caetano-veloso'
   - '00s-10s'
@@ -12,7 +10,6 @@ tags:
   - 'mpb'
   - 'bossa nova'
   - 'samba'
-stub: true
 ---
 
 ## Caetano Veloso

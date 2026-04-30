@@ -1,15 +1,12 @@
 ---
 title: "Wolf Parade"
+slug: "wolf-parade"
 date: 2019-10-16
-category: "artist"
-track_count: 8
-first_year: 2005
-last_year: 2019
+layout: post
 tags:
   - '@wolf-parade'
   - '00s-10s'
   - 'indie rock'
-stub: true
 ---
 
 ## Wolf Parade

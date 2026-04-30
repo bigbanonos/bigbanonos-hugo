@@ -1,14 +1,14 @@
 ---
-title: "' 'BABii'
-'"
+title: "Babii"
+slug: "babii"
 date: 2024-11-01
-original_title: "'BABii - 4 Songs'"
+layout: post
 tags:
   - '@babii'
   - '@pholo'
   - '@iglooghost'
-layout: post
 ---
+
 <h2>BigBanonos 4 Favorite BABii Songs</h2> <!--Search Description-->
 <p>BABiiâ€™s glitch pop and proto-hyperpop tracks highlight her unique sonic landscape. Last updated February 10, 2022, with â€œEMBER (crashed) (crashed)_PHOLOâ€ from the album <em>EMBER (crashed) (crashed)_PHOLO</em>, highlighted in the playlist below:</p> <!--YouTube Playlist Embed-->
 {{< youtube "XWjbCSxoA2s" >}} <!--Song List with YouTube Embed, Image, and Playlist-->

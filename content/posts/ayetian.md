@@ -1,6 +1,8 @@
 ---
 title: "Ayetian"
+slug: "ayetian"
 date: 2026-02-21
+layout: post
 tags:
   - '@ayetian'
   - '@shenseea'
@@ -8,10 +10,6 @@ tags:
   - '@mafiohouse'
   - '@dancehall'
   - '@soca'
-category: "artist"
-cover:
-  image: "https://i.ytimg.com/vi/_sZfEsgqfHc/maxresdefault.jpg"
-  alt: "Ayetian"
 ---
 
 Haitian descent, raised in Montego Bay. Went viral on TikTok while still in high school and hasn't slowed down — one of the most exciting young voices coming out of Caribbean dancehall right now.

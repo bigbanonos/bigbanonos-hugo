@@ -1,16 +1,13 @@
 ---
-title: "Meet Me @ The Altar"
+title: "Meet Me The Altar"
+slug: "meet-me-the-altar"
 date: 2022-09-30
-category: "artist"
-track_count: 2
-first_year: 2021
-last_year: 2022
+layout: post
 tags:
   - '@meet-me-the-altar'
   - '2020s'
   - 'pop punk'
   - 'queercore'
-stub: true
 ---
 
 ## Meet Me @ The Altar

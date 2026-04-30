@@ -1,13 +1,13 @@
 ---
-title: "' 'Koffee'
-'"
+title: "Koffee"
+slug: "koffee"
 date: 2025-06-03
-original_title: "'Koffee - 15 Songs'"
+layout: post
 tags:
   - '@koffee'
   - '@gunna'
-layout: post
 ---
+
 <h2>BigBanonos' Favorite Tracks: Koffee</h2> <div > <a href="https://media.newyorker.com/photos/5d796458b031ee000889f6b0/4:3/w_1640,h_1230,c_limit/Doreen-Koffee.jpg"> <img src="https://media.newyorker.com/photos/5d796458b031ee000889f6b0/4:3/w_1640,h_1230,c_limit/Doreen-Koffee.jpg" alt="Koffee" width="400" /> </a>
 </div> <p>Koffee's blend of modern reggae and dancehall vibes has earned her a place in the global music scene. Here's a <em>BigBanonos</em> curated selection of her top tracks, including hits from her celebrated album <em>Gifted</em> and more.</p> <h3>2025 Update: Original Koffee â€“ "KOFFEE"</h3>
 <p>Reintroducing herself under the name <strong>Original Koffee</strong>, she released the official video for <em>"KOFFEE"</em> on April 29, 2025â€a sharp new track that continues her unique fusion of reggae, hip hop, and global style.</p> {{< youtube "PA32XOdGA0w" >}} <h3>Selected Tracks</h3>

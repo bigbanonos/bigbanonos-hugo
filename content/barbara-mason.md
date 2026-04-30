@@ -1,12 +1,12 @@
 ---
-title: "' 'Barbara Mason'
-'"
+title: "Barbara Mason"
+slug: "barbara-mason"
 date: 2025-01-17
-original_title: "'Barbara Mason'"
+layout: post
 tags:
   - '@barbaramason'
-layout: post
 ---
+
  <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Barbara Mason</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab67616d0000b273351274f527065d0d5e78d9c5" alt="Barbara Mason" >}}

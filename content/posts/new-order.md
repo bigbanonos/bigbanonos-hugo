@@ -1,10 +1,8 @@
 ---
 title: "New Order"
+slug: "new-order"
 date: 2017-02-10
-category: "artist"
-track_count: 7
-first_year: 1983
-last_year: 2017
+layout: post
 tags:
   - '@new-order'
   - '00s-10s'
@@ -13,7 +11,6 @@ tags:
   - 'synthpop'
   - 'post-punk'
   - 'madchester'
-stub: true
 ---
 
 ## New Order

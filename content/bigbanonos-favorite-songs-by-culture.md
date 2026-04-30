@@ -1,12 +1,12 @@
 ---
-title: "' 'Untitled'
-'"
+title: "Bigbanonos Favorite Songs By Culture"
+slug: "bigbanonos-favorite-songs-by-culture"
 date: 2025-01-17
-original_title: "'Untitled'"
+layout: post
 tags:
   - '@cultureclub'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Culture Club</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab67616d00001e0202db07911a6be712e97c8f36" alt="Culture Club" >}}

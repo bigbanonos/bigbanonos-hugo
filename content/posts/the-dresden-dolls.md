@@ -1,14 +1,11 @@
 ---
 title: "The Dresden Dolls"
+slug: "the-dresden-dolls"
 date: 2006-03-29
-category: "artist"
-track_count: 7
-first_year: 2004
-last_year: 2006
+layout: post
 tags:
   - '@the-dresden-dolls'
   - '00s-10s'
-stub: true
 ---
 
 ## The Dresden Dolls

@@ -1,15 +1,12 @@
 ---
 title: "The Sidekicks"
+slug: "the-sidekicks"
 date: 2018-05-18
-category: "artist"
-track_count: 2
-first_year: 2015
-last_year: 2018
+layout: post
 tags:
   - '@the-sidekicks'
   - '00s-10s'
   - 'indie punk'
-stub: true
 ---
 
 ## The Sidekicks

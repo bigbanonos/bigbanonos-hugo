@@ -1,12 +1,12 @@
 ---
-title: "' 'Little Wings'
-'"
+title: "Little Wings"
+slug: "little-wings"
 date: 2025-01-16
-original_title: "'Little Wings'"
+layout: post
 tags:
   - '@littlewings'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1>BigBanonosâ€™ Favorite Songs by Little Wings</h1> <!-- Introductory Text -->
 <p>Little Wings brings a whimsical touch to indie folk, weaving poetic lyrics with warm acoustics. BigBanonos dives into their standout tracks that define their unique sound.</p> <!-- Featured Image -->

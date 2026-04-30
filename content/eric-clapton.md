@@ -1,12 +1,12 @@
 ---
-title: "' 'Eric Clapton'
-'"
+title: "Eric Clapton"
+slug: "eric-clapton"
 date: 2025-01-17
-original_title: "'Eric Clapton'"
+layout: post
 tags:
   - '@ericclapton'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Eric Clapton</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab67616d0000b2736fdebec51a7d1857829f6f87" alt="Eric Clapton" >}}

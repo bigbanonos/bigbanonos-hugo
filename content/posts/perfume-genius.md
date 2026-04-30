@@ -1,16 +1,13 @@
 ---
 title: "Perfume Genius"
+slug: "perfume-genius"
 date: 2020-05-15
-category: "artist"
-track_count: 6
-first_year: 2010
-last_year: 2020
+layout: post
 tags:
   - '@perfume-genius'
   - '00s-10s'
   - '2020s'
   - 'art pop'
-stub: true
 ---
 
 ## Perfume Genius

@@ -1,12 +1,12 @@
 ---
-title: "' 'Panjabi MC'
-'"
+title: "Panjabi Mc"
+slug: "panjabi-mc"
 date: 2024-12-29
-original_title: "'Panjabi MC'"
+layout: post
 tags:
   - '@panjabi'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonos Favorite Song by Panjabi MC: "Jogi"</h1> <!-- Introductory Text -->
 <p >Updated May 5, 2003, with "Jogi" by Panjabi MC. This electrifying track from *The Album* blends traditional Punjabi sounds with contemporary beats, showcasing Panjabi MCâ€™s groundbreaking approach to global music. Watch the official video below!</p> <!-- Featured Image -->

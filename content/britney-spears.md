@@ -1,12 +1,12 @@
 ---
-title: "' 'Britney Spears'
-'"
+title: "Britney Spears"
+slug: "britney-spears"
 date: 2024-12-17
-original_title: "'Britney Spears'"
+layout: post
 tags:
   - '@britneyspears'
-layout: post
 ---
+
 <h2>BigBanonos' Favorite Songs by Britney Spears</h2> <div> <img alt="Britney Spears" src="https://m.media-amazon.com/images/M/MV5BMTQyMTUyNjI4OF5BMl5BanBnXkFtZTcwMTk4NjkzNw@@._V1_FMjpg_UX1000_.jpg" width="100%" />
 </div> {{< youtube "embed" >}} <h2>"This Kiss" is #NotOnSpotify</h2>
 {{< youtube "tGEBKcxKPuA" >}}

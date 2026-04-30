@@ -1,15 +1,12 @@
 ---
 title: "The Weather Station"
+slug: "the-weather-station"
 date: 2021-09-29
-category: "artist"
-track_count: 1
-first_year: 2021
-last_year: 2021
+layout: post
 tags:
   - '@the-weather-station'
   - '2020s'
   - 'indie folk'
-stub: true
 ---
 
 ## The Weather Station

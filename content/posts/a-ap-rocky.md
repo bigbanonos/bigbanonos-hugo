@@ -1,10 +1,8 @@
 ---
-title: "A$AP Rocky"
+title: "A Ap Rocky"
+slug: "a-ap-rocky"
 date: 2026-01-05
-category: "artist"
-track_count: 6
-first_year: 2011
-last_year: 2026
+layout: post
 tags:
   - '@a-ap-rocky'
   - '@a-ap-rocky-a-ap-nast-a-ap-twelvyy'
@@ -16,7 +14,6 @@ tags:
   - 'grime'
   - 'uk grime'
   - 'southern hip hop'
-stub: true
 ---
 
 ## A$AP Rocky

@@ -1,13 +1,13 @@
 ---
-title: "' 'Herbert'
-'"
+title: "Herbert"
+slug: "herbert"
 date: 2024-12-21
-original_title: "'Herbert - 2 Songs'"
+layout: post
 tags:
   - '@matthewherbert'
   - '@herbert'
-layout: post
 ---
+
 <h1>BigBanonos 2 Favorite Songs by Herbert</h1>
 {{< img-lite src="https://prruk.org/wp-content/uploads/2017/10/matthew-herbert-studio-2.jpg" alt="Herbert" >}} <p>This collection of BigBanonos' favorite tracks by Herbert highlights the artistâ€™s signature microhouse sound, blending intricate beats with electronic textures that push genre boundaries.</p> <ol> <li><strong>Something Isn't Right</strong> | <em>Scale</em> | Accidental | Released: 2006</li> <li><strong>The Movers And The Shakers</strong> (feat. Matthew Herbert) | <em>Scale</em> | Accidental Records Ltd | Released: May 30, 2006</li>
 </ol> <div> {{< youtube "embed" >}}

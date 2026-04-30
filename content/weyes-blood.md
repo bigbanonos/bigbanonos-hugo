@@ -1,12 +1,12 @@
 ---
-title: "' 'Weyes Blood'
-'"
+title: "Weyes Blood"
+slug: "weyes-blood"
 date: 2025-01-11
-original_title: "'Weyes Blood'"
+layout: post
 tags:
   - '@weyesblood'
-layout: post
 ---
+
 <div class="post-title"> <h1>BigBanonos' Favorite Songs by Weyes Blood</h1>
 </div>
 <p>Updated November 18, 2022, with "Children of the Empire" and "Hearts Aglow" from the album <i>And In The Darkness, Hearts Aglow</i>, highlighted in the playlist below:</p>

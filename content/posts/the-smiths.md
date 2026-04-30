@@ -1,17 +1,14 @@
 ---
 title: "The Smiths"
+slug: "the-smiths"
 date: 1987-09-28
-category: "artist"
-track_count: 9
-first_year: 1984
-last_year: 1987
+layout: post
 tags:
   - '@the-smiths'
   - '1900s'
   - 'new wave'
   - 'madchester'
   - 'jangle pop'
-stub: true
 ---
 
 ## The Smiths

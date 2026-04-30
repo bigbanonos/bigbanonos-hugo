@@ -1,10 +1,8 @@
 ---
 title: "Alton Ellis"
+slug: "alton-ellis"
 date: 2017-04-14
-category: "artist"
-track_count: 3
-first_year: 2009
-last_year: 2017
+layout: post
 tags:
   - '@alton-ellis'
   - '00s-10s'
@@ -12,7 +10,6 @@ tags:
   - 'reggae'
   - 'lovers rock'
   - 'ska'
-stub: true
 ---
 
 ## Alton Ellis

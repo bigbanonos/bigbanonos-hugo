@@ -1,12 +1,12 @@
 ---
-title: "' 'Taken By Trees'
-'"
+title: "Taken By Trees"
+slug: "taken-by-trees"
 date: 2025-01-16
-original_title: "'Taken By Trees'"
+layout: post
 tags:
   - '@takenbytrees'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Taken By Trees</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://assets.exclaim.ca/image/upload/v1703873999/up-Taken_By_Trees_.jpg" alt="Taken By Trees" >}}

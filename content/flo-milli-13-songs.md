@@ -1,14 +1,14 @@
 ---
-title: "' 'Flo Milli'
-'"
+title: "Flo Milli"
+slug: "flo-milli"
 date: 2024-12-21
-original_title: "'Flo Milli - 13 Songs'"
+layout: post
 tags:
   - '@monaleo'
   - '@flomilli'
   - '@riconasty'
-layout: post
 ---
+
 <h3><em>BigBanonos</em> Favorite Songs by Flo Milli:</h3> <p>Updated on July 27, 2023, with the track â€œFruit Loop.â€ <em>BigBanonos</em> presents Flo Milli's top viral rap hits that showcase her bold, unapologetic style.</p> <!--Image-->
 <div class="separator"> <a href="https://925thebeat.com/wp-content/uploads/2024/05/flo-milli-rapper.png" > <img alt="Flo Milli" src="https://925thebeat.com/wp-content/uploads/2024/05/flo-milli-rapper.png" /> </a>
 </div> <!--Spotify Playlist Embed-->

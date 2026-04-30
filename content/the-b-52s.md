@@ -1,12 +1,12 @@
 ---
-title: "' 'The B-52's'
-'"
+title: "The B 52s"
+slug: "the-b-52s"
 date: 2025-01-17
-original_title: "'The B-52's'"
+layout: post
 tags:
   - '@theb52s'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by The B-52's</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab67616d0000b2739e2d3bc7ecb09e5124cd3f97" alt="The B-52's" >}}

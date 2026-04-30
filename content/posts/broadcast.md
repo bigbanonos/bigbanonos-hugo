@@ -1,17 +1,14 @@
 ---
 title: "Broadcast"
+slug: "broadcast"
 date: 2005-09-19
-category: "artist"
-track_count: 4
-first_year: 2003
-last_year: 2005
+layout: post
 tags:
   - '@broadcast'
   - '00s-10s'
   - 'dream pop'
   - 'neo-psychedelic'
   - 'shoegaze'
-stub: true
 ---
 
 ## Broadcast

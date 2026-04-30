@@ -1,10 +1,8 @@
 ---
 title: "Ari Lennox"
+slug: "ari-lennox"
 date: 2025-03-26
-category: "artist"
-track_count: 13
-first_year: 2016
-last_year: 2025
+layout: post
 tags:
   - '@ari-lennox'
   - '@ari-lennox-cozz'
@@ -16,7 +14,6 @@ tags:
   - '2020s'
   - 'alternative r&b'
   - 'neo soul'
-stub: true
 ---
 
 ## Ari Lennox

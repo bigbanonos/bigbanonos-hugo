@@ -1,16 +1,13 @@
 ---
 title: "Smog"
+slug: "smog"
 date: 1999-12-01
-category: "artist"
-track_count: 5
-first_year: 1995
-last_year: 1999
+layout: post
 tags:
   - '@smog'
   - '1900s'
   - 'slowcore'
   - 'anti-folk'
-stub: true
 ---
 
 ## Smog

@@ -1,15 +1,12 @@
 ---
 title: "Cruza"
+slug: "cruza"
 date: 2024-03-22
-category: "artist"
-track_count: 2
-first_year: 2021
-last_year: 2024
+layout: post
 tags:
   - '@cruza'
   - '2020s'
   - 'alternative r&b'
-stub: true
 ---
 
 ## Cruza

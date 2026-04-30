@@ -1,10 +1,8 @@
 ---
 title: "City Girls"
+slug: "city-girls"
 date: 2023-10-20
-category: "artist"
-track_count: 11
-first_year: 2018
-last_year: 2023
+layout: post
 tags:
   - '@city-girls'
   - '@city-girls-cardi-b'
@@ -16,7 +14,6 @@ tags:
   - 'new york drill'
   - 'drill'
   - 'uk drill'
-stub: true
 ---
 
 ## City Girls

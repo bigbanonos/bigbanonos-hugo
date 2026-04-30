@@ -1,15 +1,12 @@
 ---
 title: "My Idea"
+slug: "my-idea"
 date: 2022-04-22
-category: "artist"
-track_count: 6
-first_year: 2022
-last_year: 2022
+layout: post
 tags:
   - '@my-idea'
   - '2020s'
   - 'bedroom pop'
-stub: true
 ---
 
 ## My Idea

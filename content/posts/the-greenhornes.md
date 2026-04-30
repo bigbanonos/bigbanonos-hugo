@@ -1,16 +1,13 @@
 ---
 title: "The Greenhornes"
+slug: "the-greenhornes"
 date: 2002-01-01
-category: "artist"
-track_count: 4
-first_year: 1999
-last_year: 2002
+layout: post
 tags:
   - '@the-greenhornes'
   - '00s-10s'
   - '1900s'
   - 'garage rock'
-stub: true
 ---
 
 ## The Greenhornes

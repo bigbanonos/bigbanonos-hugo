@@ -1,12 +1,12 @@
 ---
-title: "' 'Claud'
-'"
+title: "Claud"
+slug: "claud"
 date: 2024-11-03
-original_title: "'Claud - 7 Songs'"
+layout: post
 tags:
   - '@claud'
-layout: post
 ---
+
 <h2>BigBanonos' Favorite Songs by Claud</h2> <!--Search Description-->
 <p>BigBanonosâ€™ selection of Claud's standout tracks in indie pop, offering a mix of intimate bedroom pop and vibrant pop sounds.</p> <!--Spotify Playlist Embed-->
 {{< youtube "embed" >}} <!--Song Listings-->

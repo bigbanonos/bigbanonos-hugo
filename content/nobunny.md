@@ -1,12 +1,12 @@
 ---
-title: "' 'Nobunny'
-'"
+title: "Nobunny"
+slug: "nobunny"
 date: 2024-12-15
-original_title: "'Nobunny'"
+layout: post
 tags:
   - '@nobunny'
-layout: post
 ---
+
 <!-- Post Title -->
 <h1 >BigBanonos' Favorite Tracks: Nobunny - "Mess Me Up"</h1> <!-- Introductory Text -->
 <p >Updated 2008, with "Mess Me Up" by Nobunny. This track from the album <em>Love Visions</em>, released under Almost Ready Records, blends garage pop and indie rock, capturing the raw energy and rebellious spirit of Nobunnyâ€™s signature style.</p> <!-- Featured Image -->

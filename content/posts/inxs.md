@@ -1,14 +1,11 @@
 ---
-title: "INXS"
+title: "Inxs"
+slug: "inxs"
 date: 1987-01-01
-category: "artist"
-track_count: 2
-first_year: 1987
-last_year: 1987
+layout: post
 tags:
   - '@inxs'
   - '1900s'
-stub: true
 ---
 
 ## INXS

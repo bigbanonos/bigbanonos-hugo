@@ -1,14 +1,11 @@
 ---
 title: "Culture Club"
+slug: "culture-club"
 date: 1993-01-01
-category: "artist"
-track_count: 3
-first_year: 1982
-last_year: 1993
+layout: post
 tags:
   - '@culture-club'
   - '1900s'
-stub: true
 ---
 
 ## Culture Club

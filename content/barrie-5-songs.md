@@ -1,12 +1,12 @@
 ---
-title: "' 'Barrie'
-'"
+title: "Barrie"
+slug: "barrie"
 date: 2024-11-03
-original_title: "'Barrie - 5 Songs'"
+layout: post
 tags:
   - '@barrie'
-layout: post
 ---
+
 <h2>BigBanonos' Top 6 Favorite Songs by Barrie</h2> <!--Search Description-->
 <p>BigBanonos' top 6 favorite songs by Barrie, highlighting her best in Brooklyn indie, chill dream pop, and indie pop. Last updated March 31, 2023, with "Ghost World," "Doesn't Really Matter," and more, highlighted in the playlist below:</p> <!--Spotify Playlist Embed-->
 {{< youtube "embed" >}} <!--Song List with Album Info-->

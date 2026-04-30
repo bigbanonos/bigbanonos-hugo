@@ -1,14 +1,11 @@
 ---
 title: "The Postal Service"
+slug: "the-postal-service"
 date: 2003-02-19
-category: "artist"
-track_count: 3
-first_year: 2003
-last_year: 2003
+layout: post
 tags:
   - '@the-postal-service'
   - '00s-10s'
-stub: true
 ---
 
 ## The Postal Service

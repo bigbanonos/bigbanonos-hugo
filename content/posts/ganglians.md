@@ -1,15 +1,12 @@
 ---
 title: "Ganglians"
+slug: "ganglians"
 date: 2009-06-23
-category: "artist"
-track_count: 2
-first_year: 2009
-last_year: 2009
+layout: post
 tags:
   - '@ganglians'
   - '00s-10s'
   - 'surf rock'
-stub: true
 ---
 
 ## Ganglians

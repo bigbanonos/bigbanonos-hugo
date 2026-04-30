@@ -1,10 +1,8 @@
 ---
 title: "Kate Bush"
+slug: "kate-bush"
 date: 2016-12-02
-category: "artist"
-track_count: 22
-first_year: 1978
-last_year: 2016
+layout: post
 tags:
   - '@kate-bush'
   - '@kate-bush-albert-mcintosh'
@@ -13,7 +11,6 @@ tags:
   - 'art pop'
   - 'baroque pop'
   - 'art rock'
-stub: true
 ---
 
 ## Kate Bush

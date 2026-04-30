@@ -1,12 +1,12 @@
 ---
-title: "' 'Alessi Brothers'
-'"
+title: "Alessi Brothers"
+slug: "alessi-brothers"
 date: 2025-02-12
-original_title: "'Alessi Brothers'"
+layout: post
 tags:
   - '@alessibrothers'
-layout: post
 ---
+
 <div> {{< img-lite src="https://i.scdn.co/image/ab67616d0000b273656b4f412e4d1c284ef27bc9" alt="Alessi Brothers" >}}
 </div> <p>
 BigBanonos' favorite song by Alessi Brothers:

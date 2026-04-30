@@ -1,13 +1,13 @@
 ---
-title: "' 'Chimbala'
-'"
+title: "Chimbala"
+slug: "chimbala"
 date: 2025-01-17
-original_title: "'Chimbala'"
+layout: post
 tags:
   - '@farruko'
   - '@chimbala'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Chimbala</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab6761610000e5eb8dae3d78c468f6ac3ac8158e" alt="Chimbala" >}}

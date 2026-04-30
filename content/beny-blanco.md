@@ -1,14 +1,14 @@
 ---
-title: "' 'beny blanco'
-'"
+title: "Beny Blanco"
+slug: "beny-blanco"
 date: 2025-01-17
-original_title: "'beny blanco'"
+layout: post
 tags:
   - '@amandamallory'
   - '@bennyblanco'
   - '@spankrock'
-layout: post
 ---
+
  <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Benny Blanco</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab6761610000e5eb860c37890942e05e58c19372" alt="Benny Blanco" >}}

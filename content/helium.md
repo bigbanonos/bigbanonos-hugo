@@ -1,12 +1,12 @@
 ---
-title: "' 'Helium'
-'"
+title: "Helium"
+slug: "helium"
 date: 2024-12-29
-original_title: "'Helium'"
+layout: post
 tags:
   - '@helium'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonos Favorite Song by Helium: "Pat's Trick"</h1> <!-- Introductory Text -->
 <p >Updated March 21, 1995, with "Pat's Trick" by Helium. This standout track from their album *The Dirt of Luck* blends alternative pop with the raw energy of riot grrrl and Boston rock. Watch the video below!</p> <!-- Featured Image -->

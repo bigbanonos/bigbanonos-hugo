@@ -1,14 +1,11 @@
 ---
 title: "Remi Wolf"
+slug: "remi-wolf"
 date: 2024-05-10
-category: "artist"
-track_count: 9
-first_year: 2020
-last_year: 2024
+layout: post
 tags:
   - '@remi-wolf'
   - '2020s'
-stub: true
 ---
 
 ## Remi Wolf

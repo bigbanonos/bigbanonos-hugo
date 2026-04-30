@@ -1,10 +1,8 @@
 ---
-title: "Father Philis;BahaMian Trae"
+title: "Father Philis Bahamian Trae"
+slug: "father-philis-bahamian-trae"
 date: 2026-01-16
-category: "artist"
-track_count: 4
-first_year: 2023
-last_year: 2026
+layout: post
 tags:
   - '@father-philis-bahamian-trae'
   - '@father-philis'
@@ -15,7 +13,6 @@ tags:
   - 'dancehall'
   - 'riddim'
   - 'ragga'
-stub: true
 ---
 
 ## Father Philis;BahaMian Trae

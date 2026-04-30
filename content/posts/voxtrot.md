@@ -1,15 +1,12 @@
 ---
 title: "Voxtrot"
+slug: "voxtrot"
 date: 2022-05-06
-category: "artist"
-track_count: 4
-first_year: 2005
-last_year: 2022
+layout: post
 tags:
   - '@voxtrot'
   - '00s-10s'
   - '2020s'
-stub: true
 ---
 
 ## Voxtrot

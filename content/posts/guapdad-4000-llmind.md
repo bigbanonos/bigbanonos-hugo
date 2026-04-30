@@ -1,10 +1,8 @@
 ---
-title: "Guapdad 4000;!llmind"
+title: "Guapdad 4000 Llmind"
+slug: "guapdad-4000-llmind"
 date: 2021-12-02
-category: "artist"
-track_count: 3
-first_year: 2019
-last_year: 2021
+layout: post
 tags:
   - '@guapdad-4000-llmind'
   - '@guapdad-4000'
@@ -12,7 +10,6 @@ tags:
   - '00s-10s'
   - '2020s'
   - 'sexy drill'
-stub: true
 ---
 
 ## Guapdad 4000;!llmind

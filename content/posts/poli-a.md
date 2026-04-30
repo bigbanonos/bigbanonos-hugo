@@ -1,14 +1,11 @@
 ---
-title: "POLIÇA"
+title: "Poli A"
+slug: "poli-a"
 date: 2022-05-09
-category: "artist"
-track_count: 2
-first_year: 2022
-last_year: 2022
+layout: post
 tags:
   - '@poli-a'
   - '2020s'
-stub: true
 ---
 
 ## POLIÇA

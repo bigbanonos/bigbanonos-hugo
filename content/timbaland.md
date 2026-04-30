@@ -1,8 +1,8 @@
 ---
-title: "' 'Timbaland'
-'"
+title: "Timbaland"
+slug: "timbaland"
 date: 2025-01-10
-original_title: "'Timbaland'"
+layout: post
 tags:
   - '@magoo'
   - '@sebastian'
@@ -12,8 +12,8 @@ tags:
   - '@n3wyrkla'
   - '@timbaland'
   - '@rajeshwari'
-layout: post
 ---
+
 <div class="post-title"> <h1>BigBanonos' Favorite Songs by Timbaland</h1>
 </div>
 <p>Updated June 14, 2024, with "CH3RRY (with N3WYRKLA)" from the single <i>CH3RRY (with N3WYRKLA)</i>, highlighted in the playlist below:</p>

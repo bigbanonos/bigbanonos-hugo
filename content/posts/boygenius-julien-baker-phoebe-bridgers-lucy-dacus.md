@@ -1,15 +1,12 @@
 ---
-title: "boygenius;Julien Baker;Phoebe Bridgers;Lucy Dacus"
+title: "Boygenius Julien Baker Phoebe Bridgers Lucy Dacus"
+slug: "boygenius-julien-baker-phoebe-bridgers-lucy-dacus"
 date: 2023-03-31
-category: "artist"
-track_count: 2
-first_year: 2023
-last_year: 2023
+layout: post
 tags:
   - '@boygenius-julien-baker-phoebe-bridgers-lucy-dacus'
   - '2020s'
   - 'ambient folk'
-stub: true
 ---
 
 ## boygenius;Julien Baker;Phoebe Bridgers;Lucy Dacus

@@ -1,14 +1,11 @@
 ---
 title: "Michael Jackson"
+slug: "michael-jackson"
 date: 1982-11-30
-category: "artist"
-track_count: 1
-first_year: 1982
-last_year: 1982
+layout: post
 tags:
   - '@michael-jackson'
   - '1900s'
-stub: true
 ---
 
 ## Michael Jackson

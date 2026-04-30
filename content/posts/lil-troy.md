@@ -1,10 +1,8 @@
 ---
-title: "Lil' Troy"
+title: "Lil Troy"
+slug: "lil-troy"
 date: 1998-01-01
-category: "artist"
-track_count: 2
-first_year: 1998
-last_year: 1998
+layout: post
 tags:
   - '@lil-troy'
   - '@lil-troy-willie-d-ardis'
@@ -13,7 +11,6 @@ tags:
   - 'g-funk'
   - 'horrorcore'
   - 'dansband'
-stub: true
 ---
 
 ## Lil' Troy

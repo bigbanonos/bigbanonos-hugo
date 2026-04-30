@@ -1,12 +1,12 @@
 ---
-title: "' 'DJ Nate'
-'"
+title: "Dj Nate"
+slug: "dj-nate"
 date: 2024-12-12
-original_title: "'DJ Nate'"
+layout: post
 tags:
   - '@djnate'
-layout: post
 ---
+
 <!-- Post Title -->
 <h1 >BigBanonos' Favorite Song by DJ Nate</h1> <!-- Introductory Text -->
 <p >Updated April 26, 2019, with "Come Back" by DJ Nate. Originally released on April 26, 2019, this track from the album *Take Off Mode* under *Planet Mu* is a defining moment in the Chicago bop and footwork genres.</p> <!-- Featured Image -->

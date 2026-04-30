@@ -1,10 +1,8 @@
 ---
-title: "Calvin Harris;Kelis"
+title: "Calvin Harris Kelis"
+slug: "calvin-harris-kelis"
 date: 2022-05-27
-category: "artist"
-track_count: 3
-first_year: 2012
-last_year: 2022
+layout: post
 tags:
   - '@calvin-harris-kelis'
   - '@calvin-harris-dua-lipa-young-thug'
@@ -15,7 +13,6 @@ tags:
   - 'trap'
   - 'pop'
   - 'rap'
-stub: true
 ---
 
 ## Calvin Harris;Kelis

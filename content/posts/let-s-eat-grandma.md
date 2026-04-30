@@ -1,16 +1,13 @@
 ---
-title: "Let's Eat Grandma"
+title: "Let S Eat Grandma"
+slug: "let-s-eat-grandma"
 date: 2023-03-22
-category: "artist"
-track_count: 7
-first_year: 2018
-last_year: 2023
+layout: post
 tags:
   - '@let-s-eat-grandma'
   - '00s-10s'
   - '2020s'
   - 'art pop'
-stub: true
 ---
 
 ## Let's Eat Grandma

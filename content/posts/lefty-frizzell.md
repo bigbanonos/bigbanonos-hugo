@@ -1,10 +1,8 @@
 ---
 title: "Lefty Frizzell"
+slug: "lefty-frizzell"
 date: 2015-10-16
-category: "artist"
-track_count: 3
-first_year: 1980
-last_year: 2015
+layout: post
 tags:
   - '@lefty-frizzell'
   - '00s-10s'
@@ -13,7 +11,6 @@ tags:
   - 'honky tonk'
   - 'traditional country'
   - 'outlaw country'
-stub: true
 ---
 
 ## Lefty Frizzell

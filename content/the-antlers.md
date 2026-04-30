@@ -1,12 +1,12 @@
 ---
-title: "' 'The Antlers'
-'"
+title: "The Antlers"
+slug: "the-antlers"
 date: 2025-02-12
-original_title: "'The Antlers'"
+layout: post
 tags:
   - '@antlers'
-layout: post
 ---
+
 <div> {{< img-lite src="https://i.scdn.co/image/ab67616d0000b273431ae6d4dfd49d1f5687bc48" alt="The Antlers" >}}
 </div> <p>
 BigBanonos' favorite songs by The Antlers:

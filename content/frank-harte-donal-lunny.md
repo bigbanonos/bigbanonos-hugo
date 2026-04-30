@@ -1,13 +1,13 @@
 ---
-title: "' 'Frank Harte & Donal Lunny'
-'"
+title: "Frank Harte Donal Lunny"
+slug: "frank-harte-donal-lunny"
 date: 2025-01-17
-original_title: "'Frank Harte & Donal Lunny'"
+layout: post
 tags:
   - '@donallunny'
   - '@frankharte'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonos Favorite Songs by Frank Harte & Donal Lunny</h1> <!-- Introductory Text -->
 <p >Frank Harte & Donal Lunny capture the soul of Irish ballads with timeless songs that narrate history and heart. Explore BigBanonos' top picks below!</p> <!-- Featured Image -->

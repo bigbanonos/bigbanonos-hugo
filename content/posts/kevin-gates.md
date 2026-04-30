@@ -1,10 +1,8 @@
 ---
 title: "Kevin Gates"
+slug: "kevin-gates"
 date: 2022-06-17
-category: "artist"
-track_count: 6
-first_year: 2013
-last_year: 2022
+layout: post
 tags:
   - '@kevin-gates'
   - '@kevin-gates-august-alsina'
@@ -13,7 +11,6 @@ tags:
   - '2020s'
   - 'r&b'
   - 'trap soul'
-stub: true
 ---
 
 ## Kevin Gates

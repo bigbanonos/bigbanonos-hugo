@@ -1,16 +1,13 @@
 ---
 title: "Camera Obscura"
+slug: "camera-obscura"
 date: 2009-04-21
-category: "artist"
-track_count: 3
-first_year: 2006
-last_year: 2009
+layout: post
 tags:
   - '@camera-obscura'
   - '00s-10s'
   - 'indie pop'
   - 'jangle pop'
-stub: true
 ---
 
 ## Camera Obscura

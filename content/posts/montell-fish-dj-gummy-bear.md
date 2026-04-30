@@ -1,16 +1,13 @@
 ---
-title: "Montell Fish;dj gummy bear"
+title: "Montell Fish Dj Gummy Bear"
+slug: "montell-fish-dj-gummy-bear"
 date: 2024-11-22
-category: "artist"
-track_count: 2
-first_year: 2021
-last_year: 2024
+layout: post
 tags:
   - '@montell-fish-dj-gummy-bear'
   - '@montell-fish'
   - '2020s'
   - 'christian lo-fi'
-stub: true
 ---
 
 ## Montell Fish;dj gummy bear

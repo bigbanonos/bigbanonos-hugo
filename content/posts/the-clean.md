@@ -1,16 +1,13 @@
 ---
 title: "The Clean"
+slug: "the-clean"
 date: 2003-01-21
-category: "artist"
-track_count: 3
-first_year: 1986
-last_year: 2003
+layout: post
 tags:
   - '@the-clean'
   - '00s-10s'
   - '1900s'
   - 'jangle pop'
-stub: true
 ---
 
 ## The Clean

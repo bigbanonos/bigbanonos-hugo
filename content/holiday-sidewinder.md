@@ -1,12 +1,12 @@
 ---
-title: "' 'Holiday Sidewinder'
-'"
+title: "Holiday Sidewinder"
+slug: "holiday-sidewinder"
 date: 2024-12-12
-original_title: "'Holiday Sidewinder'"
+layout: post
 tags:
   - '@holidaysidewinder'
-layout: post
 ---
+
 <!-- Post Title -->
 <h1 >BigBanonos' Favorite Tracks: Holiday Sidewinder - "Leo"</h1> <!-- Introductory Text -->
 <p >Updated July 6, 2018, with "Leo" by Holiday Sidewinder. This dazzling Australian alternative pop gem showcases Sidewinder's captivating sound, perfectly suited for her Personal Best Records release.</p> <!-- Featured Image -->

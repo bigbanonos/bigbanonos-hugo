@@ -1,13 +1,13 @@
 ---
-title: "' 'TOPS'
-'"
+title: "Tops"
+slug: "tops"
 date: 2025-01-10
-original_title: "'TOPS'"
+layout: post
 tags:
   - '@tops'
   - '@patrickholland'
-layout: post
 ---
+
 <div class="post-title"> <h1>BigBanonos' Favorite Songs by TOPS</h1>
 </div>
 <p>Updated May 10, 2022, with "Janet Planet" from the album <i>Empty Seats</i>, highlighted in the playlist below:</p>

@@ -1,12 +1,12 @@
 ---
-title: "' 'George Jones'
-'"
+title: "George Jones"
+slug: "george-jones"
 date: 2025-02-12
-original_title: "'George Jones'"
+layout: post
 tags:
   - '@georgejones'
-layout: post
 ---
+
 <div> {{< img-lite src="https://hips.hearstapps.com/hmg-prod/images/george-jones-GettyImages-91144851_1600.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*" alt="George Jones" >}}
 </div> <p>
 BigBanonos' favorite track by George Jones:

@@ -1,10 +1,8 @@
 ---
 title: "Blood Orange"
+slug: "blood-orange"
 date: 2019-07-12
-category: "artist"
-track_count: 14
-first_year: 2011
-last_year: 2019
+layout: post
 tags:
   - '@blood-orange'
   - '@blood-orange-a-ap-rocky-project-pat'
@@ -16,7 +14,6 @@ tags:
   - 'rap'
   - 'southern hip hop'
   - 'crunk'
-stub: true
 ---
 
 ## Blood Orange

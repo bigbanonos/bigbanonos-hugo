@@ -1,10 +1,8 @@
 ---
-title: "Meek Mill;Farruko"
+title: "Meek Mill Farruko"
+slug: "meek-mill-farruko"
 date: 2020-01-27
-category: "artist"
-track_count: 5
-first_year: 2015
-last_year: 2020
+layout: post
 tags:
   - '@meek-mill-farruko'
   - '@meek-mill'
@@ -17,7 +15,6 @@ tags:
   - 'r&b'
   - 'reggaeton'
   - 'trap latino'
-stub: true
 ---
 
 ## Meek Mill;Farruko

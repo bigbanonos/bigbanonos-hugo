@@ -1,12 +1,12 @@
 ---
-title: "' 'Free Energy'
-'"
+title: "Free Energy"
+slug: "free-energy"
 date: 2025-02-12
-original_title: "'Free Energy'"
+layout: post
 tags:
   - '@freenergy'
-layout: post
 ---
+
 <div> {{< img-lite src="https://i.scdn.co/image/ab67616d00001e026d27b9413044b3cc887f828c" alt="Free Energy" >}}
 </div> <p>
 BigBanonos' favorite track by Free Energy:

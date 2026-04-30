@@ -1,10 +1,8 @@
 ---
 title: "Bad Bunny"
+slug: "bad-bunny"
 date: 2025-01-05
-category: "artist"
-track_count: 6
-first_year: 2019
-last_year: 2025
+layout: post
 tags:
   - '@bad-bunny'
   - '@bad-bunny-abra'
@@ -15,7 +13,6 @@ tags:
   - 'trap latino'
   - 'latin'
   - 'urbano latino'
-stub: true
 ---
 
 ## Bad Bunny

@@ -1,12 +1,12 @@
 ---
-title: "' 'I Am The World Trade Center'
-'"
+title: "I Am World Trade Center"
+slug: "i-am-world-trade-center"
 date: 2024-12-29
-original_title: "'I Am The World Trade Center'"
+layout: post
 tags:
   - '@iamtheworldtradecenter'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonos Favorite Song by I Am The World Trade Center: "No Expectations"</h1> <!-- Introductory Text -->
 <p >Updated June 29, 2004, with "No Expectations" by I Am The World Trade Center. This track from their album *The Cover Up* combines a dreamy, synth-driven aesthetic with heartfelt emotion. Watch the video below!</p> <!-- Featured Image -->

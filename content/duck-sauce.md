@@ -1,14 +1,14 @@
 ---
-title: "' 'Duck Sauce'
-'"
+title: "Duck Sauce"
+slug: "duck-sauce"
 date: 2024-12-12
-original_title: "'Duck Sauce'"
+layout: post
 tags:
   - '@ducksauce'
   - '@armandvanhelden'
   - '@atrak'
-layout: post
 ---
+
 <!-- Post Title -->
 <h1 >BigBanonos' Favorite Song by Duck Sauce</h1> <!-- Introductory Text -->
 <p >Updated January 1, 2014, with "aNYway" by Duck Sauce. This iconic track, featuring A-Trak and Armand Van Helden, from the *Quack* album under All Around The World Records, showcases their mastery of disco house and electronic beats.</p> <!-- Featured Image -->

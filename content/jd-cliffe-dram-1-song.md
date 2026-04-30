@@ -1,13 +1,13 @@
 ---
-title: "' 'JD Cliffe & DRAM'
-'"
+title: "Jd Cliffe Dram"
+slug: "jd-cliffe-dram"
 date: 2025-08-30
-original_title: "'JD Cliffe & DRAM - 1 Song'"
+layout: post
 tags:
   - '@jdcliffe'
   - '@dram'
-layout: post
 ---
+
 <h1>BigBanonos' Favorite Song by JD Cliffe & DRAM</h1> {{< img-lite src="https://www.nme.com/wp-content/uploads/2025/04/jd-cliffe-misfits-review.jpg" alt="JD Cliffe & DRAM - Hills Have Eyes" >}} <p>Updated April 16, 2025 with <strong>â€œHills Have Eyesâ€</strong>, the standout collaboration between JD Cliffe and DRAM. Released via <em>APLCO</em> as part of the project <em>misfit.</em>, the track blends altÃƒÆ’Ã‚Â© textures, trap grit, and Virginia hip hop vibes into a hypnotic mix.</p> <!-- Featured YouTube Video -->
 <div> {{< youtube "hjBQA1IgSsM" >}}
 </div> <p><strong>Hills Have Eyes</strong><br>

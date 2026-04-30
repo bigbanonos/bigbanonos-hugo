@@ -1,12 +1,12 @@
 ---
-title: "' 'The Libertines'
-'"
+title: "The Libertines"
+slug: "the-libertines"
 date: 2025-01-16
-original_title: "'The Libertines'"
+layout: post
 tags:
   - '@libertines'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1>BigBanonosâ€™ Favorite Songs by The Libertines</h1> <!-- Introductory Text -->
 <p>The Libertines, icons of the garage rock revival and pioneers of the modern Britpop sound, have left an indelible mark on rock music. Updated to include the most notable tracks from their discography, BigBanonos celebrates their legendary catalog.</p> <!-- Featured Image -->

@@ -1,12 +1,12 @@
 ---
-title: "' 'Gremlins'
-'"
+title: "Gremlins"
+slug: "gremlins"
 date: 2025-02-12
-original_title: "'Gremlins'"
+layout: post
 tags:
   - '@gremlins'
-layout: post
 ---
+
 <div> {{< img-lite src="https://i1.sndcdn.com/artworks-i6mXbFAC7Sbyy31A-BgoXbA-t500x500.jpg" alt="Gremlins" >}}
 </div> <p>
 BigBanonos' favorite tracks by Gremlins:

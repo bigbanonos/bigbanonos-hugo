@@ -1,12 +1,12 @@
 ---
-title: "' 'Clinic'
-'"
+title: "Clinic"
+slug: "clinic"
 date: 2024-12-17
-original_title: "'Clinic'"
+layout: post
 tags:
   - '@clinic'
-layout: post
 ---
+
 <h2>Clinic â€“ Essential Tracks</h2> <div > <img src="https://media.pitchfork.com/photos/592c654dc0084474cd0c776e/2:1/w_2560%2Cc_limit/620d4ba5.jpg" alt="Clinic" width="500" />
 </div> {{< youtube "embed" >}} <h3>Tracklist</h3>
 <ul> <li><strong>Milk & Honey</strong> â€“ <em>Bubblegum</em> (2010)</li> <li><strong>Free Not Free</strong> â€“ <em>Do It!</em> (2008)</li> <li><strong>Memories</strong> â€“ <em>Do It!</em> (2008)</li> <li><strong>Emotions</strong> â€“ <em>Do It!</em> (2008)</li> <li><strong>Walking With Thee</strong> â€“ <em>Walking With Thee</em> (2002)</li> <li><strong>Welcome</strong> â€“ <em>Walking With Thee</em> (2002)</li> <li><strong>Goodnight Georgie</strong> â€“ <em>Internal Wrangler</em> (2000)</li> <li><strong>Distortions</strong> â€“ <em>Internal Wrangler</em> (2000)</li> <li><strong>The Second Line</strong> â€“ <em>Internal Wrangler</em> (2000)</li>

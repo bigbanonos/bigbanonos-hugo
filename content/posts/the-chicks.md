@@ -1,15 +1,12 @@
 ---
 title: "The Chicks"
+slug: "the-chicks"
 date: 1999-08-27
-category: "artist"
-track_count: 2
-first_year: 1998
-last_year: 1999
+layout: post
 tags:
   - '@the-chicks'
   - '1900s'
   - 'country'
-stub: true
 ---
 
 ## The Chicks

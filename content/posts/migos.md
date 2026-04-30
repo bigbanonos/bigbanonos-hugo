@@ -1,15 +1,12 @@
 ---
 title: "Migos"
+slug: "migos"
 date: 2018-01-26
-category: "artist"
-track_count: 3
-first_year: 2014
-last_year: 2018
+layout: post
 tags:
   - '@migos'
   - '00s-10s'
   - 'trap'
-stub: true
 ---
 
 ## Migos

@@ -1,12 +1,12 @@
 ---
-title: "' 'Alina Baraz'
-'"
+title: "Alina Baraz"
+slug: "alina-baraz"
 date: 2024-10-31
-original_title: "'Alina Baraz - 2 Songs'"
+layout: post
 tags:
   - '@alinabaraz'
-layout: post
 ---
+
 <p>BigBanonos two favorite songs by Alina Baraz - updated on October 29. 2021 with "No Interference" - playlist below</p>
 {{< youtube "htxDCKpXpWU" >}}<h2><ol><li>No Interference [2021]</li><li>Alone With You [2021]</li></ol></h2>
 {{< youtube "embed" >}}

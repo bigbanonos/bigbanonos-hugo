@@ -1,10 +1,8 @@
 ---
 title: "Dean Blunt"
+slug: "dean-blunt"
 date: 2025-02-07
-category: "artist"
-track_count: 8
-first_year: 2012
-last_year: 2025
+layout: post
 tags:
   - '@dean-blunt'
   - '@dean-blunt-elias-r-nnenfelt'
@@ -13,7 +11,6 @@ tags:
   - '00s-10s'
   - '2020s'
   - 'uk r&b'
-stub: true
 ---
 
 ## Dean Blunt

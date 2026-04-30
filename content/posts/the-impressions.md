@@ -1,10 +1,8 @@
 ---
 title: "The Impressions"
+slug: "the-impressions"
 date: 2003-01-01
-category: "artist"
-track_count: 2
-first_year: 1968
-last_year: 2003
+layout: post
 tags:
   - '@the-impressions'
   - '00s-10s'
@@ -13,7 +11,6 @@ tags:
   - 'classic soul'
   - 'soul'
   - 'doo-wop'
-stub: true
 ---
 
 ## The Impressions

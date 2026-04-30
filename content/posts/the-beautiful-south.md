@@ -1,15 +1,12 @@
 ---
 title: "The Beautiful South"
+slug: "the-beautiful-south"
 date: 1990-01-01
-category: "artist"
-track_count: 2
-first_year: 1989
-last_year: 1990
+layout: post
 tags:
   - '@the-beautiful-south'
   - '1900s'
   - 'britpop'
-stub: true
 ---
 
 ## The Beautiful South

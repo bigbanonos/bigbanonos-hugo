@@ -1,15 +1,12 @@
 ---
 title: "Bryan Adams"
+slug: "bryan-adams"
 date: 1984-11-05
-category: "artist"
-track_count: 3
-first_year: 1984
-last_year: 1984
+layout: post
 tags:
   - '@bryan-adams'
   - '@bryan-adams-tina-turner'
   - '1900s'
-stub: true
 ---
 
 ## Bryan Adams

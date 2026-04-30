@@ -1,10 +1,8 @@
 ---
-title: "Konshens;Chanelly"
+title: "Konshens Chanelly"
+slug: "konshens-chanelly"
 date: 2026-02-27
-category: "artist"
-track_count: 4
-first_year: 2013
-last_year: 2026
+layout: post
 tags:
   - '@konshens-chanelly'
   - '@konshens'
@@ -16,7 +14,6 @@ tags:
   - 'soca'
   - 'riddim'
   - 'ragga'
-stub: true
 ---
 
 ## Konshens;Chanelly

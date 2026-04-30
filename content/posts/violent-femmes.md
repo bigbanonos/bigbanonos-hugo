@@ -1,16 +1,13 @@
 ---
 title: "Violent Femmes"
+slug: "violent-femmes"
 date: 2021-07-27
-category: "artist"
-track_count: 3
-first_year: 1983
-last_year: 2021
+layout: post
 tags:
   - '@violent-femmes'
   - '1900s'
   - '2020s'
   - 'folk punk'
-stub: true
 ---
 
 ## Violent Femmes

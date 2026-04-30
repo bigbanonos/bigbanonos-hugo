@@ -1,16 +1,13 @@
 ---
 title: "Basement Jaxx"
+slug: "basement-jaxx"
 date: 2006-09-04
-category: "artist"
-track_count: 7
-first_year: 2001
-last_year: 2006
+layout: post
 tags:
   - '@basement-jaxx'
   - '@basement-jaxx-phoebe'
   - '00s-10s'
   - 'big beat'
-stub: true
 ---
 
 ## Basement Jaxx

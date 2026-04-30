@@ -1,10 +1,8 @@
 ---
 title: "The Undertones"
+slug: "the-undertones"
 date: 2010-06-28
-category: "artist"
-track_count: 6
-first_year: 1979
-last_year: 2010
+layout: post
 tags:
   - '@the-undertones'
   - '00s-10s'
@@ -13,7 +11,6 @@ tags:
   - 'punk'
   - 'proto-punk'
   - 'new wave'
-stub: true
 ---
 
 ## The Undertones

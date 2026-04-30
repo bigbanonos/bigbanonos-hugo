@@ -1,12 +1,12 @@
 ---
-title: "' 'BUD'
-'"
+title: "Bud"
+slug: "bud"
 date: 2024-12-02
-original_title: "'BUD'"
+layout: post
 tags:
   - '@bud'
-layout: post
 ---
+
 <!-- Post Title -->
 <h1 >BigBanonos' Favorite Song by BUD</h1> <!-- Introductory Text -->
 <p >Updated July 21, 2015, with BigBanonos' favorite track by BUD, "Tonight." This track, featured on the *Buy Out Riddim* released by K-Licious Music, showcases a classic vibe thatâ€™s unforgettable. Watch the video and see more details below:</p> <!-- Featured Image -->

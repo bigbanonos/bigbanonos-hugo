@@ -1,12 +1,12 @@
 ---
-title: "' 'Alice Boman'
-'"
+title: "Alice Boman"
+slug: "alice-boman"
 date: 2024-12-13
-original_title: "'Alice Boman'"
+layout: post
 tags:
   - '@aliceboman'
-layout: post
 ---
+
 <!-- Post Title -->
 <h1 >BigBanonos' Favorite Song by Alice Boman</h1> <!-- Introductory Text -->
 <p >Updated November 25, 2019, with BigBanonos' favorite song by Alice Boman, "Don't Forget About Me," released under Play It Again Sam. Watch the video and see more details below:</p> <!-- Featured Image -->

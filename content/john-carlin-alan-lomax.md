@@ -1,13 +1,13 @@
 ---
-title: "' 'John Carlin & Alan Lomax'
-'"
+title: "John Carlin Alan Lomax"
+slug: "john-carlin-alan-lomax"
 date: 2024-12-12
-original_title: "'John Carlin & Alan Lomax'"
+layout: post
 tags:
   - '@alanlomax'
   - '@johncarlin'
-layout: post
 ---
+
 <!-- Post Title -->
 <h1 >BigBanonos' Favorite Tracks: John Carlin & Alan Lomax - "Eilean Mo ChrÃƒÆ’Ã‚Â¬dh (Isle Of My Heart)"</h1> <!-- Introductory Text -->
 <p >Updated January 31, 2012, with "Eilean Mo ChrÃƒÆ’Ã‚Â¬dh (Isle Of My Heart)" by John Carlin and Alan Lomax. This spiritual folk classic beautifully captures the essence of traditional melodies and heartfelt storytelling.</p> <!-- Featured Image -->

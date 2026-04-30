@@ -1,16 +1,13 @@
 ---
-title: "James Blake;SZA"
+title: "James Blake Sza"
+slug: "james-blake-sza"
 date: 2021-10-08
-category: "artist"
-track_count: 2
-first_year: 2021
-last_year: 2021
+layout: post
 tags:
   - '@james-blake-sza'
   - '@james-blake'
   - '2020s'
   - 'r&b'
-stub: true
 ---
 
 ## James Blake;SZA

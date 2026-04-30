@@ -1,12 +1,12 @@
 ---
-title: "' 'Joy Orbison'
-'"
+title: "Joy Orbison"
+slug: "joy-orbison"
 date: 2024-12-12
-original_title: "'Joy Orbison'"
+layout: post
 tags:
   - '@joyorbison'
-layout: post
 ---
+
 <!-- Post Title -->
 <h1 >BigBanonos' Favorite Tracks: Joy Orbison, Infinite Coles, Mansur Brown - "Burn"</h1> <!-- Introductory Text -->
 <p >Updated October 18, 2019, with "Burn" by Joy Orbison, Infinite Coles, and Mansur Brown from the *Slipping* EP. This track blends elements of electronica, UK bass, and British jazz, creating a unique sound that taps into the evolving afrofuturism scene. The collaboration is a masterclass in smooth beats and rich textures, perfect for anyone seeking an immersive audio experience.</p> <!-- Featured Image -->

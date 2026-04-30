@@ -1,17 +1,14 @@
 ---
 title: "Jayne County"
+slug: "jayne-county"
 date: 1976-01-01
-category: "artist"
-track_count: 2
-first_year: 1973
-last_year: 1976
+layout: post
 tags:
   - '@jayne-county'
   - '1900s'
   - 'queercore'
   - 'proto-punk'
   - 'glam rock'
-stub: true
 ---
 
 ## Jayne County

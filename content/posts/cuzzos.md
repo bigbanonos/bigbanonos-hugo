@@ -1,7 +1,8 @@
 ---
-title: "CUZZOS"
+title: "Cuzzos"
+slug: "cuzzos"
 date: 2026-03-13
-category: "artist"
+layout: post
 tags:
   - '@cuzzos'
 ---

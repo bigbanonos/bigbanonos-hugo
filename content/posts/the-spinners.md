@@ -1,10 +1,8 @@
 ---
 title: "The Spinners"
+slug: "the-spinners"
 date: 2008-01-01
-category: "artist"
-track_count: 2
-first_year: 2007
-last_year: 2008
+layout: post
 tags:
   - '@the-spinners'
   - '00s-10s'
@@ -12,7 +10,6 @@ tags:
   - 'motown'
   - 'classic soul'
   - 'soul'
-stub: true
 ---
 
 ## The Spinners

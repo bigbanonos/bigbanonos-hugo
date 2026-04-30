@@ -1,12 +1,12 @@
 ---
-title: "' 'Clem Snide'
-'"
+title: "Clem Snide"
+slug: "clem-snide"
 date: 2024-12-28
-original_title: "'Clem Snide'"
+layout: post
 tags:
   - '@clemsnide'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonos Favorite Song by Clem Snide: "Moment's Gone"</h1> <!-- Introductory Text -->
 <p >Updated January 1, 2002, with "Moment's Gone" by Clem Snide. This introspective indie rock track captures the bandâ€™s poetic lyrics and emotive melodies, creating a truly memorable listening experience. Watch the video below!</p> <!-- Featured Image -->

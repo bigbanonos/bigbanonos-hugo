@@ -1,17 +1,14 @@
 ---
 title: "Laura Mvula"
+slug: "laura-mvula"
 date: 2021-06-17
-category: "artist"
-track_count: 2
-first_year: 2021
-last_year: 2021
+layout: post
 tags:
   - '@laura-mvula'
   - '@laura-mvula-simon-neil'
   - '2020s'
   - 'neo soul'
   - 'metalcore'
-stub: true
 ---
 
 ## Laura Mvula

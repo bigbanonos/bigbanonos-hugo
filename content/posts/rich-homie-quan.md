@@ -1,15 +1,12 @@
 ---
 title: "Rich Homie Quan"
+slug: "rich-homie-quan"
 date: 2015-02-10
-category: "artist"
-track_count: 3
-first_year: 2013
-last_year: 2015
+layout: post
 tags:
   - '@rich-homie-quan'
   - '00s-10s'
   - 'southern hip hop'
-stub: true
 ---
 
 ## Rich Homie Quan

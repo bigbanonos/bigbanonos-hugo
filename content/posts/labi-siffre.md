@@ -1,14 +1,11 @@
 ---
 title: "Labi Siffre"
+slug: "labi-siffre"
 date: 1972-01-01
-category: "artist"
-track_count: 2
-first_year: 1971
-last_year: 1972
+layout: post
 tags:
   - '@labi-siffre'
   - '1900s'
-stub: true
 ---
 
 ## Labi Siffre

@@ -1,16 +1,13 @@
 ---
 title: "Ms Ray"
+slug: "ms-ray"
 date: 2026-02-12
-category: "artist"
-track_count: 2
-first_year: 2023
-last_year: 2026
+layout: post
 tags:
   - '@ms-ray'
   - '@ms-ray-nourished-by-time'
   - '2020s'
   - 'indie electronic'
-stub: true
 ---
 
 ## Ms Ray

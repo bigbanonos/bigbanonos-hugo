@@ -1,7 +1,8 @@
 ---
 title: "Braxton Keith"
+slug: "braxton-keith"
 date: 2026-03-13
-category: "artist"
+layout: post
 tags:
   - '@braxtonkeith'
 ---

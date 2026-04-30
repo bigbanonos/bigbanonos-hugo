@@ -1,15 +1,12 @@
 ---
 title: "Lee Dorsey"
+slug: "lee-dorsey"
 date: 2008-10-14
-category: "artist"
-track_count: 2
-first_year: 2006
-last_year: 2008
+layout: post
 tags:
   - '@lee-dorsey'
   - '00s-10s'
   - 'northern soul'
-stub: true
 ---
 
 ## Lee Dorsey

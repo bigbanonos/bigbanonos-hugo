@@ -1,10 +1,8 @@
 ---
-title: "ROSALÍA"
+title: "Rosal A"
+slug: "rosal-a"
 date: 2026-02-11
-category: "artist"
-track_count: 15
-first_year: 2019
-last_year: 2026
+layout: post
 tags:
   - '@rosal-a'
   - '@rosal-a-cardi-b'
@@ -18,7 +16,6 @@ tags:
   - 'latin'
   - 'trap latino'
   - 'urbano latino'
-stub: true
 ---
 
 ## ROSALÍA

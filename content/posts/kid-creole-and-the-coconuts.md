@@ -1,16 +1,13 @@
 ---
 title: "Kid Creole And The Coconuts"
+slug: "kid-creole-and-the-coconuts"
 date: 2009-01-01
-category: "artist"
-track_count: 2
-first_year: 1982
-last_year: 2009
+layout: post
 tags:
   - '@kid-creole-and-the-coconuts'
   - '00s-10s'
   - '1900s'
   - 'post-disco'
-stub: true
 ---
 
 ## Kid Creole And The Coconuts

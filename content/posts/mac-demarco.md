@@ -1,10 +1,8 @@
 ---
-title: "Mac DeMarco"
+title: "Mac Demarco"
+slug: "mac-demarco"
 date: 2023-10-02
-category: "artist"
-track_count: 3
-first_year: 2015
-last_year: 2023
+layout: post
 tags:
   - '@mac-demarco'
   - '@mac-demarco-ryan-paris'
@@ -14,7 +12,6 @@ tags:
   - 'lo-fi indie'
   - 'italo disco'
   - 'italo dance'
-stub: true
 ---
 
 ## Mac DeMarco

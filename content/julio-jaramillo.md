@@ -1,12 +1,12 @@
 ---
-title: "' 'Julio Jaramillo'
-'"
+title: "Julio Jaramillo"
+slug: "julio-jaramillo"
 date: 2025-01-19
-original_title: "'Julio Jaramillo'"
+layout: post
 tags:
   - '@juliojaramillo'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonos Favorite Songs by Julio Jaramillo</h1> <!-- Introductory Text -->
 <p >Updated January 17, 2003, with "Odiame" from <em>30 Mejores</em>. Explore the timeless bolero classics of Julio Jaramillo in the playlist below!</p> <!-- Featured Image -->

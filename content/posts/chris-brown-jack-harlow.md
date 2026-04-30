@@ -1,10 +1,8 @@
 ---
-title: "Chris Brown;Jack Harlow"
+title: "Chris Brown Jack Harlow"
+slug: "chris-brown-jack-harlow"
 date: 2022-07-08
-category: "artist"
-track_count: 3
-first_year: 2013
-last_year: 2022
+layout: post
 tags:
   - '@chris-brown-jack-harlow'
   - '@chris-brown'
@@ -14,7 +12,6 @@ tags:
   - 'r&b'
   - 'rap'
   - 'hip hop'
-stub: true
 ---
 
 ## Chris Brown;Jack Harlow

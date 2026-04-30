@@ -1,16 +1,13 @@
 ---
 title: "Tierra Whack"
+slug: "tierra-whack"
 date: 2023-11-07
-category: "artist"
-track_count: 5
-first_year: 2018
-last_year: 2023
+layout: post
 tags:
   - '@tierra-whack'
   - '00s-10s'
   - '2020s'
   - 'alternative r&b'
-stub: true
 ---
 
 ## Tierra Whack

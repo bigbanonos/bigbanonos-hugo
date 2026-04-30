@@ -1,10 +1,8 @@
 ---
 title: "Leven Kali"
+slug: "leven-kali"
 date: 2025-06-27
-category: "artist"
-track_count: 8
-first_year: 2018
-last_year: 2025
+layout: post
 tags:
   - '@leven-kali'
   - '@leven-kali-smino-topaz-jones'
@@ -12,7 +10,6 @@ tags:
   - '00s-10s'
   - '2020s'
   - 'alternative r&b'
-stub: true
 ---
 
 ## Leven Kali

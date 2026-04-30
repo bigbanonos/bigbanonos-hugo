@@ -1,10 +1,8 @@
 ---
 title: "Baby Keem"
+slug: "baby-keem"
 date: 2026-02-20
-category: "artist"
-track_count: 16
-first_year: 2019
-last_year: 2026
+layout: post
 tags:
   - '@baby-keem'
   - '@baby-keem-brent-faiyaz'
@@ -19,7 +17,6 @@ tags:
   - 'hip hop'
   - 'r&b'
   - 'hyphy'
-stub: true
 ---
 
 ## Baby Keem

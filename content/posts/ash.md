@@ -1,15 +1,12 @@
 ---
 title: "Ash"
+slug: "ash"
 date: 1998-01-01
-category: "artist"
-track_count: 3
-first_year: 1996
-last_year: 1998
+layout: post
 tags:
   - '@ash'
   - '1900s'
   - 'britpop'
-stub: true
 ---
 
 ## Ash

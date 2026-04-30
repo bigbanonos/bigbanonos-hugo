@@ -1,10 +1,8 @@
 ---
-title: "Juicy J;Wale;Trey Songz"
+title: "Juicy J Wale Trey Songz"
+slug: "juicy-j-wale-trey-songz"
 date: 2020-11-27
-category: "artist"
-track_count: 3
-first_year: 2009
-last_year: 2020
+layout: post
 tags:
   - '@juicy-j-wale-trey-songz'
   - '@juicy-j-gucci-mane-project-pat'
@@ -15,7 +13,6 @@ tags:
   - 'southern hip hop'
   - 'rap'
   - 'trap'
-stub: true
 ---
 
 ## Juicy J;Wale;Trey Songz

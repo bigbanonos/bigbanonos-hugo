@@ -1,12 +1,12 @@
 ---
-title: "' 'Adan Diaz'
-'"
+title: "Adan Diaz"
+slug: "adan-diaz"
 date: 2025-01-17
-original_title: "'Adan Diaz - 5 Songs'"
+layout: post
 tags:
   - '@adandiaz'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Adan Diaz</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab67616d00001e0251b6a8a6e3343d38b15db74f" alt="Adan Diaz" >}}

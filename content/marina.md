@@ -1,12 +1,12 @@
 ---
-title: "' 'MARINA'
-'"
+title: "Marina"
+slug: "marina"
 date: 2024-12-14
-original_title: "'MARINA'"
+layout: post
 tags:
   - '@marina'
-layout: post
 ---
+
 <!-- Post Title -->
 <h1 >BigBanonos' Favorite Tracks: MARINA - "I'm a Ruin"</h1> <!-- Introductory Text -->
 <p >Updated March 16, 2015, with "I'm a Ruin" by MARINA. This emotional track from the album <em>Froot</em>, released under Neon Gold / Elektra, blends shimmering pop with introspective lyrics, showcasing MARINAâ€™s signature style in UK alternative pop.</p> <!-- Featured Image -->

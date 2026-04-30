@@ -1,10 +1,8 @@
 ---
 title: "Soccer Mommy"
+slug: "soccer-mommy"
 date: 2024-09-10
-category: "artist"
-track_count: 9
-first_year: 2018
-last_year: 2024
+layout: post
 tags:
   - '@soccer-mommy'
   - '@soccer-mommy-kero-kero-bonito'
@@ -12,7 +10,6 @@ tags:
   - '00s-10s'
   - '2020s'
   - 'indie'
-stub: true
 ---
 
 ## Soccer Mommy

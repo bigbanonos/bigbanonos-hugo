@@ -1,14 +1,11 @@
 ---
-title: "Jax Jones;Bebe Rexha"
+title: "Jax Jones Bebe Rexha"
+slug: "jax-jones-bebe-rexha"
 date: 2019-07-12
-category: "artist"
-track_count: 1
-first_year: 2019
-last_year: 2019
+layout: post
 tags:
   - '@jax-jones-bebe-rexha'
   - '00s-10s'
-stub: true
 ---
 
 ## Jax Jones;Bebe Rexha

@@ -1,7 +1,8 @@
 ---
 title: "Otha"
+slug: "otha"
 date: 2026-03-26
-category: "artist"
+layout: post
 tags:
   - '@otha'
 ---

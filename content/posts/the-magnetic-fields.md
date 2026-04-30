@@ -1,17 +1,14 @@
 ---
 title: "The Magnetic Fields"
+slug: "the-magnetic-fields"
 date: 2020-05-15
-category: "artist"
-track_count: 22
-first_year: 1994
-last_year: 2020
+layout: post
 tags:
   - '@the-magnetic-fields'
   - '00s-10s'
   - '1900s'
   - '2020s'
   - 'anti-folk'
-stub: true
 ---
 
 ## The Magnetic Fields

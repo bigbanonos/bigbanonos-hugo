@@ -1,16 +1,13 @@
 ---
 title: "Bee Gees"
+slug: "bee-gees"
 date: 2009-11-02
-category: "artist"
-track_count: 2
-first_year: 1967
-last_year: 2009
+layout: post
 tags:
   - '@bee-gees'
   - '00s-10s'
   - '1900s'
   - 'disco'
-stub: true
 ---
 
 ## Bee Gees

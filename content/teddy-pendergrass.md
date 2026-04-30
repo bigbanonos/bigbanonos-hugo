@@ -1,12 +1,12 @@
 ---
-title: "' 'Teddy Pendergrass'
-'"
+title: "Teddy Pendergrass"
+slug: "teddy-pendergrass"
 date: 2024-12-16
-original_title: "'Teddy Pendergrass'"
+layout: post
 tags:
   - '@teddypendergrass'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >Teddy Pendergrass - When Somebody Loves You Back</h1> <!-- Introductory Text -->
 <p >Updated with "When Somebody Loves You Back" by Teddy Pendergrass, from the album *The Essential Teddy Pendergrass*, released on November 5, 2007. This soulful classic encapsulates the magic of Pendergrass' timeless voice, blending elements of soul, fun, and Philly soul.</p> <!-- Featured Image -->

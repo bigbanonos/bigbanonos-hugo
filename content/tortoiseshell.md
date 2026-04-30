@@ -1,12 +1,12 @@
 ---
-title: "' 'Tortoiseshell'
-'"
+title: "Tortoiseshell"
+slug: "tortoiseshell"
 date: 2024-12-30
-original_title: "'Tortoiseshell'"
+layout: post
 tags:
   - '@tortoiseshell'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonos Favorite Remix by Tortoiseshell: "This Girl (Canyons Dub)"</h1> <!-- Introductory Text -->
 <p >Updated with "This Girl (Canyons Dub)" by Tortoiseshell, a smooth and groovy remix from 2010 thatâ€™s sure to get you moving. Check out the video below!</p> <!-- Featured Image -->

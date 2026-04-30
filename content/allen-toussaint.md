@@ -1,12 +1,12 @@
 ---
-title: "' 'Allen Toussaint'
-'"
+title: "Allen Toussaint"
+slug: "allen-toussaint"
 date: 2025-01-17
-original_title: "'Allen Toussaint'"
+layout: post
 tags:
   - '@allentoussaint'
-layout: post
 ---
+
  <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Allen Toussaint</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab67616d0000b273340f7b6813b654256da4b1b7" alt="Allen Toussaint" >}}

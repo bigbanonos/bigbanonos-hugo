@@ -1,15 +1,12 @@
 ---
 title: "Brian Dunne"
+slug: "brian-dunne"
 date: 2022-12-13
-category: "artist"
-track_count: 3
-first_year: 2017
-last_year: 2022
+layout: post
 tags:
   - '@brian-dunne'
   - '00s-10s'
   - '2020s'
-stub: true
 ---
 
 ## Brian Dunne

@@ -1,15 +1,12 @@
 ---
-title: "Sexyy Red;Sukihana"
+title: "Sexyy Red Sukihana"
+slug: "sexyy-red-sukihana"
 date: 2024-03-15
-category: "artist"
-track_count: 2
-first_year: 2022
-last_year: 2024
+layout: post
 tags:
   - '@sexyy-red-sukihana'
   - '@sexyy-red'
   - '2020s'
-stub: true
 ---
 
 ## Sexyy Red;Sukihana

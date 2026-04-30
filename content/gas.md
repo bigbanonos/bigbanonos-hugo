@@ -1,12 +1,12 @@
 ---
-title: "' 'Gas'
-'"
+title: "Gas"
+slug: "gas"
 date: 2024-12-29
-original_title: "'Gas'"
+layout: post
 tags:
   - '@gas'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonos Favorite Song by Gas: "Ignore Me"</h1> <!-- Introductory Text -->
 <p >"Ignore Me" by Gas. This evocative track combines haunting melodies with a minimalist approach, offering a deeply atmospheric listening experience. Watch the video below!</p> <!-- Featured Image -->

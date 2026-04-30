@@ -1,14 +1,11 @@
 ---
 title: "Shocked Minds"
+slug: "shocked-minds"
 date: 2013-07-09
-category: "artist"
-track_count: 2
-first_year: 2013
-last_year: 2013
+layout: post
 tags:
   - '@shocked-minds'
   - '00s-10s'
-stub: true
 ---
 
 ## Shocked Minds

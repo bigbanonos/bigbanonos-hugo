@@ -1,12 +1,12 @@
 ---
-title: "' 'Elvis Presley'
-'"
+title: "Elvis Presley"
+slug: "elvis-presley"
 date: 2025-01-17
-original_title: "'Elvis Presley'"
+layout: post
 tags:
   - '@elvispresley'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Elvis Presley</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab67616d0000b273f45cec7e72b9dec993c18872" alt="Elvis Presley" >}}

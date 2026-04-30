@@ -1,10 +1,8 @@
 ---
-title: "Blind Willie McTell"
+title: "Blind Willie Mctell"
+slug: "blind-willie-mctell"
 date: 2020-04-07
-category: "artist"
-track_count: 2
-first_year: 2011
-last_year: 2020
+layout: post
 tags:
   - '@blind-willie-mctell'
   - '00s-10s'
@@ -13,7 +11,6 @@ tags:
   - 'country blues'
   - 'classic blues'
   - 'ragtime'
-stub: true
 ---
 
 ## Blind Willie McTell

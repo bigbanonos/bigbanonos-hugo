@@ -1,10 +1,8 @@
 ---
 title: "Shawn Storm"
+slug: "shawn-storm"
 date: 2026-01-31
-category: "artist"
-track_count: 4
-first_year: 2010
-last_year: 2026
+layout: post
 tags:
   - '@shawn-storm'
   - '00s-10s'
@@ -12,7 +10,6 @@ tags:
   - 'dancehall'
   - 'riddim'
   - 'ragga'
-stub: true
 ---
 
 ## Shawn Storm

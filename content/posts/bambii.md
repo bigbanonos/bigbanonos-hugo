@@ -1,14 +1,13 @@
 ---
-title: "BAMBII"
+title: "Bambii"
+slug: "bambii"
 date: 2025-05-01
+layout: post
 tags:
   - '@bambii'
   - '@jessylanza'
   - '@yaeji'
   - '@club'
-spotify_url: "https://open.spotify.com/track/2m8ktFsorHvPZIHrlKxnGj"
-not_on_spotify: false
-category: "1off-2020s"
 ---
 
 Toronto DJ and producer. Mirror with Jessy Lanza and Yaeji is exactly what it sounds like — three of the best doing what they do.

@@ -1,15 +1,12 @@
 ---
 title: "Bob Seger"
+slug: "bob-seger"
 date: 1980-02-25
-category: "artist"
-track_count: 1
-first_year: 1980
-last_year: 1980
+layout: post
 tags:
   - '@bob-seger'
   - '1900s'
   - 'classic rock'
-stub: true
 ---
 
 ## Bob Seger

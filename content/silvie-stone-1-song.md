@@ -1,12 +1,12 @@
 ---
-title: "' 'Silvie Stone'
-'"
+title: "Silvie Stone"
+slug: "silvie-stone"
 date: 2020-07-23
-original_title: "'Silvie Stone - 1 Song'"
+layout: post
 tags:
   - '@silviestone'
-layout: post
 ---
+
 <br /><div class="separator"><br /></div>
 {{< youtube "videoseries" >}}Ãƒâ€šÃ‚Â <div><h3><ol><li>Charming Prince [1983]</li></ol></h3></div>
 

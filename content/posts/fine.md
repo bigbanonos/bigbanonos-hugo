@@ -1,14 +1,11 @@
 ---
 title: "Fine"
+slug: "fine"
 date: 2025-09-03
-category: "artist"
-track_count: 2
-first_year: 2025
-last_year: 2025
+layout: post
 tags:
   - '@fine'
   - '2020s'
-stub: true
 ---
 
 ## Fine

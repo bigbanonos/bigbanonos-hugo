@@ -1,13 +1,13 @@
 ---
-title: "' 'Cool Kids'
-'"
+title: "Cool Kids"
+slug: "cool-kids"
 date: 2024-12-17
-original_title: "'Cool Kids'"
+layout: post
 tags:
   - '@coolkids'
   - '@lilwayne'
-layout: post
 ---
+
 <h2>The Cool Kids â€“ Essential Tracks</h2> <div > <img src="https://www.brooklynvegan.com/files/img/music/coolkids.jpg" alt="The Cool Kids" width="500" />
 </div> {{< youtube "embed" >}} <h3>#NotOnSpotify Highlight</h3>
 <p>The track <strong>"A Little Bit Cooler"</strong> is unavailable on Spotify, but you can play it from YouTube below:</p>

@@ -1,15 +1,12 @@
 ---
 title: "Taxidermists"
+slug: "taxidermists"
 date: 2025-12-18
-category: "artist"
-track_count: 4
-first_year: 2024
-last_year: 2025
+layout: post
 tags:
   - '@taxidermists'
   - '2020s'
   - 'slowcore'
-stub: true
 ---
 
 ## Taxidermists

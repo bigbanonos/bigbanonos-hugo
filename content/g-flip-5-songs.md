@@ -1,12 +1,12 @@
 ---
-title: "' 'G-Flip'
-'"
+title: "G Flip"
+slug: "g-flip"
 date: 2024-12-21
-original_title: "'G-Flip - 5 Songs'"
+layout: post
 tags:
   - '@gflip'
-layout: post
 ---
+
 <h3>BigBanonos Top Tracks: G Flip - 5 Songs</h3>
 <div class="separator"> <a href="https://media.them.us/photos/64d3e42225e491be0a78d98e/16:9/w_2560%2Cc_limit/g-flip_header.jpg" > <img alt="G Flip" border="0" height="350" src="https://media.them.us/photos/64d3e42225e491be0a78d98e/16:9/w_2560%2Cc_limit/g-flip_header.jpg" /> </a>
 </div> <p>This selection from <em>BigBanonos</em> showcases top tracks by G Flip, highlighting their unique Australian alternative pop style.</p> <ol> <li><strong>Didn't Mean To</strong> â€ <em>August 10, 2023</em> â€ Album: DRUMMER | Label: Future Classic | Genres: Australian alternative pop, Pop</li> <li><strong>The Worst Person Alive</strong> â€ <em>June 28, 2023</em> â€ Album: The Worst Person Alive | Label: Future Classic | Genres: Australian alternative pop, Pop</li> <li><strong>Waste Of Space</strong> â€ <em>July 13, 2022</em> â€ Album: Waste Of Space | Label: Future Classic | Genres: Australian alternative pop, Pop</li> <li><strong>Bring Me Home</strong> â€ <em>January 17, 2020</em> â€ Album: About Us | Label: Future Classic | Genres: Australian alternative pop, Pop</li> <li><strong>About You</strong> â€ <em>May 16, 2018</em> â€ Album: Killing My Time | Label: Future Classic | Genres: Australian alternative pop, Pop</li>

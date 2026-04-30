@@ -1,10 +1,8 @@
 ---
-title: "Xiu Xiu;Liz Harris"
+title: "Xiu Xiu Liz Harris"
+slug: "xiu-xiu-liz-harris"
 date: 2021-01-27
-category: "artist"
-track_count: 2
-first_year: 2004
-last_year: 2021
+layout: post
 tags:
   - '@xiu-xiu-liz-harris'
   - '@xiu-xiu'
@@ -12,7 +10,6 @@ tags:
   - '2020s'
   - 'art pop'
   - 'noise rock'
-stub: true
 ---
 
 ## Xiu Xiu;Liz Harris

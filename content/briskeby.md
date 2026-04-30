@@ -1,12 +1,12 @@
 ---
-title: "' 'Briskeby'
-'"
+title: "Briskeby"
+slug: "briskeby"
 date: 2024-12-28
-original_title: "'Briskeby'"
+layout: post
 tags:
   - '@briskeby'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonos Favorite Song by Briskeby: "Miss You Like Crazy"</h1> <!-- Introductory Text -->
 <p >Updated January 1, 2005, with "Miss You Like Crazy" by Briskeby. This Norwegian pop-rock anthem captures heartfelt longing with an irresistible melody and powerful vocals. Watch the video below!</p> <!-- Featured Image -->

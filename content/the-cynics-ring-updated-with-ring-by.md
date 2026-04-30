@@ -1,12 +1,12 @@
 ---
-title: "' 'Untitled'
-'"
+title: "The Cynics Ring Updated With Ring By"
+slug: "the-cynics-ring-updated-with-ring-by"
 date: 2024-12-16
-original_title: "'Untitled'"
+layout: post
 tags:
   - '@cynics'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >The Cynics - The Ring</h1> <!-- Introductory Text -->
 <p >Updated with *The Ring* by The Cynics, a dynamic track from their 2007 album *Here We Are*. Known for their classic garage rock sound, The Cynics blend punk blues and trash rock in this energetic anthem, staying true to their Pittsburgh roots.</p> <!-- Featured Image -->

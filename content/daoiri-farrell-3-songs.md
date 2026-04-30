@@ -1,12 +1,12 @@
 ---
-title: "' 'DaoirÃƒÆ’Ã‚Â­ Farrell'
-'"
+title: "Daoiri Farrell"
+slug: "daoiri-farrell"
 date: 2024-12-21
-original_title: "'DaoirÃƒÆ’Ã‚Â­ Farrell - 3 Songs'"
+layout: post
 tags:
   - '@daoirifarrell'
-layout: post
 ---
+
 <h3><em>BigBanonos</em> Top 3 Irish Songs by DaoirÃƒÆ’Ã‚Â­ Farrell:</h3> <p>Updated on June 26, 2020 with the standout track â€œWhen the Breakers Go Back on Fulltimeâ€ from the album â€œThe Lockdown.â€ BigBanonosâ€™ favorite DaoirÃƒÆ’Ã‚Â­ Farrell songs capture the soul of Irish folk, showcasing storytelling and melodies that resonate with tradition.</p> <!--Image-->
 <div class="separator"> <a href="https://spiralearth.co.uk/wp-content/uploads/Daoiri-1-credit-Anthony-Mulcahy-e1690820853721.jpg" > <img alt="DaoirÃƒÆ’Ã‚Â­ Farrell" src="https://spiralearth.co.uk/wp-content/uploads/Daoiri-1-credit-Anthony-Mulcahy-e1690820853721.jpg" /> </a>
 </div> <!--Spotify Playlist Embed-->

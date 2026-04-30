@@ -1,10 +1,8 @@
 ---
 title: "Camilo"
+slug: "camilo"
 date: 2021-03-04
-category: "artist"
-track_count: 2
-first_year: 2019
-last_year: 2021
+layout: post
 tags:
   - '@camilo'
   - '@camilo-pedro-cap'
@@ -13,7 +11,6 @@ tags:
   - 'colombian pop'
   - 'pop urbano'
   - 'latin pop'
-stub: true
 ---
 
 ## Camilo

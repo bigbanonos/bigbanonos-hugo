@@ -1,16 +1,13 @@
 ---
 title: "Oblivians"
+slug: "oblivians"
 date: 2013-01-01
-category: "artist"
-track_count: 2
-first_year: 2013
-last_year: 2013
+layout: post
 tags:
   - '@oblivians'
   - '00s-10s'
   - 'garage rock'
   - 'proto-punk'
-stub: true
 ---
 
 ## Oblivians

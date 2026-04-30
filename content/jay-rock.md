@@ -1,8 +1,8 @@
 ---
-title: "' 'Jay Rock'
-'"
+title: "Jay Rock"
+slug: "jay-rock"
 date: 2025-01-16
-original_title: "'Jay Rock'"
+layout: post
 tags:
   - '@jamesblake'
   - '@jeremih'
@@ -10,8 +10,8 @@ tags:
   - '@future'
   - '@blackhippy'
   - '@kendricklamar'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1>BigBanonosâ€™ Favorite Songs by Jay Rock</h1> <!-- Introductory Text -->
 <p>Jay Rock, a pioneer of West Coast hip-hop, blends powerful lyrics with dynamic production. This curated list features his top collaborations and solo tracks, showcasing his versatility and impact on the genre.</p> <!-- Featured Image -->

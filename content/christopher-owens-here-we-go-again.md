@@ -1,13 +1,13 @@
 ---
-title: "' 'Christopher Owens'
-'"
+title: "Christopher Owens Here We Go Again"
+slug: "christopher-owens-here-we-go-again"
 date: 2024-12-17
-original_title: "'Christopher Owens'"
+layout: post
 tags:
   - '@girls'
   - '@christopherowens'
-layout: post
 ---
+
 <h2>Christopher Owens â€“ Essential Tracks</h2> <div > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Christopher_Owens_Coachella_2012.jpg/800px-Christopher_Owens_Coachella_2012.jpg" alt="Christopher Owens" width="500" />
 </div> {{< youtube "embed" >}} <h3>Tracklist</h3>
 <ul> <li><strong>Another Loser Fuck Up</strong> â€“ <em>Chrissybaby Forever</em> (2015)</li> <li><strong>Here We Go Again</strong> â€“ <em>Lysandre</em> (2013)</li>

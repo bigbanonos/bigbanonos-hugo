@@ -1,17 +1,14 @@
 ---
 title: "Sugababes"
+slug: "sugababes"
 date: 2021-06-22
-category: "artist"
-track_count: 2
-first_year: 2000
-last_year: 2021
+layout: post
 tags:
   - '@sugababes'
   - '@sugababes-blood-orange'
   - '00s-10s'
   - '2020s'
   - 'art pop'
-stub: true
 ---
 
 ## Sugababes

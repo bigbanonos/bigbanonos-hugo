@@ -1,17 +1,14 @@
 ---
 title: "Gossip"
+slug: "gossip"
 date: 2023-11-17
-category: "artist"
-track_count: 7
-first_year: 2005
-last_year: 2023
+layout: post
 tags:
   - '@gossip'
   - '00s-10s'
   - '2020s'
   - 'riot grrrl'
   - 'queercore'
-stub: true
 ---
 
 ## Gossip

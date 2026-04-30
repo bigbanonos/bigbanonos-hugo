@@ -1,10 +1,8 @@
 ---
-title: "XXXTENTACION;Lil Pump;Swae Lee;Maluma"
+title: "Xxxtentacion Lil Pump Swae Lee Maluma"
+slug: "xxxtentacion-lil-pump-swae-lee-maluma"
 date: 2019-07-19
-category: "artist"
-track_count: 2
-first_year: 2018
-last_year: 2019
+layout: post
 tags:
   - '@xxxtentacion-lil-pump-swae-lee-maluma'
   - '@xxxtentacion-ky-mani-marley-stefflon-don-vybz-kartel'
@@ -13,7 +11,6 @@ tags:
   - 'reggaeton'
   - 'latin'
   - 'urbano latino'
-stub: true
 ---
 
 ## XXXTENTACION;Lil Pump;Swae Lee;Maluma

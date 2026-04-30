@@ -1,15 +1,12 @@
 ---
 title: "Sun June"
+slug: "sun-june"
 date: 2021-02-05
-category: "artist"
-track_count: 3
-first_year: 2018
-last_year: 2021
+layout: post
 tags:
   - '@sun-june'
   - '00s-10s'
   - '2020s'
-stub: true
 ---
 
 ## Sun June

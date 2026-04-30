@@ -1,15 +1,12 @@
 ---
 title: "Luna"
+slug: "luna"
 date: 1995-07-18
-category: "artist"
-track_count: 2
-first_year: 1992
-last_year: 1995
+layout: post
 tags:
   - '@luna'
   - '1900s'
   - 'jangle pop'
-stub: true
 ---
 
 ## Luna

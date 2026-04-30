@@ -1,17 +1,14 @@
 ---
-title: "Deaton Chris Anthony;beabadoobee"
+title: "Deaton Chris Anthony Beabadoobee"
+slug: "deaton-chris-anthony-beabadoobee"
 date: 2022-04-13
-category: "artist"
-track_count: 2
-first_year: 2019
-last_year: 2022
+layout: post
 tags:
   - '@deaton-chris-anthony-beabadoobee'
   - '@deaton-chris-anthony-clairo-coco-clair-clair'
   - '00s-10s'
   - '2020s'
   - 'bedroom pop'
-stub: true
 ---
 
 ## Deaton Chris Anthony;beabadoobee

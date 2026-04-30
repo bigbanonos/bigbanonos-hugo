@@ -1,10 +1,8 @@
 ---
 title: "The White Wires"
+slug: "the-white-wires"
 date: 2024-02-28
-category: "artist"
-track_count: 4
-first_year: 2008
-last_year: 2024
+layout: post
 tags:
   - '@the-white-wires'
   - '00s-10s'
@@ -12,7 +10,6 @@ tags:
   - 'power pop'
   - 'garage rock'
   - 'indie punk'
-stub: true
 ---
 
 ## The White Wires

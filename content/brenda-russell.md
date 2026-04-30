@@ -1,12 +1,12 @@
 ---
-title: "' 'Brenda Russell'
-'"
+title: "Brenda Russell"
+slug: "brenda-russell"
 date: 2025-01-17
-original_title: "'Brenda Russell'"
+layout: post
 tags:
   - '@brendarussell'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Brenda Russell</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab67616d0000b273ceeee53bec31ac86107b1c42" alt="Brenda Russell" >}}

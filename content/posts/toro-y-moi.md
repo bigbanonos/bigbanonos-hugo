@@ -1,10 +1,8 @@
 ---
-title: "Toro y Moi"
+title: "Toro Y Moi"
+slug: "toro-y-moi"
 date: 2022-04-29
-category: "artist"
-track_count: 5
-first_year: 2011
-last_year: 2022
+layout: post
 tags:
   - '@toro-y-moi'
   - '@toro-y-moi-the-mattson-2'
@@ -13,7 +11,6 @@ tags:
   - 'chillwave'
   - 'neo-psychedelic'
   - 'psychedelic rock'
-stub: true
 ---
 
 ## Toro y Moi

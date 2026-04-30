@@ -1,10 +1,8 @@
 ---
-title: "Tifa;Lincoln 3dot"
+title: "Tifa Lincoln 3dot"
+slug: "tifa-lincoln-3dot"
 date: 2020-03-08
-category: "artist"
-track_count: 2
-first_year: 2018
-last_year: 2020
+layout: post
 tags:
   - '@tifa-lincoln-3dot'
   - '@tifa'
@@ -14,7 +12,6 @@ tags:
   - 'riddim'
   - 'soca'
   - 'ragga'
-stub: true
 ---
 
 ## Tifa;Lincoln 3dot

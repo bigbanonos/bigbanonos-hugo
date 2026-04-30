@@ -1,15 +1,12 @@
 ---
-title: "Jensen McRae"
+title: "Jensen Mcrae"
+slug: "jensen-mcrae"
 date: 2020-02-24
-category: "artist"
-track_count: 2
-first_year: 2019
-last_year: 2020
+layout: post
 tags:
   - '@jensen-mcrae'
   - '00s-10s'
   - '2020s'
-stub: true
 ---
 
 ## Jensen McRae

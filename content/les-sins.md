@@ -1,13 +1,13 @@
 ---
-title: "' 'Les Sins'
-'"
+title: "Les Sins"
+slug: "les-sins"
 date: 2024-12-14
-original_title: "'Les Sins'"
+layout: post
 tags:
   - '@lessins'
   - '@natesalman'
-layout: post
 ---
+
 <!-- Post Title -->
 <h1 >BigBanonos' Favorite Tracks: Les Sins & Nate Salman - "Why"</h1> <!-- Introductory Text -->
 <p >Updated November 4, 2014, with "Why" by Les Sins featuring Nate Salman. This chillwave track from the album <em>Michael</em>, released under Company Records, delivers a smooth and groovy listening experience.</p> <!-- Featured Image -->

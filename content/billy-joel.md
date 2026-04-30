@@ -1,12 +1,12 @@
 ---
-title: "' 'Billy Joel'
-'"
+title: "Billy Joel"
+slug: "billy-joel"
 date: 2025-01-17
-original_title: "'Billy Joel'"
+layout: post
 tags:
   - '@billyjoel'
-layout: post
 ---
+
  <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Billy Joel</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab67616d0000b2731d4675d5a0345bb93686e4b6" alt="Billy Joel" >}}

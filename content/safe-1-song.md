@@ -1,13 +1,13 @@
 ---
-title: "' 'SAFE'
-'"
+title: "Safe"
+slug: "safe"
 date: 2021-02-15
-original_title: "'SAFE - 1 Song'"
+layout: post
 tags:
   - '@safe'
   - '@kianalede'
-layout: post
 ---
+
 {{< youtube "Iqb38QuM5bI" >}}<h2><ol><li>(ft. Kiana LedÃƒÆ’Ã‚Â©) Contagious [2021]</li></ol></h2>
 
 <!--Subscribe and Playlist Links-->

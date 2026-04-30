@@ -1,10 +1,8 @@
 ---
 title: "Jonathan Richman"
+slug: "jonathan-richman"
 date: 2004-07-19
-category: "artist"
-track_count: 6
-first_year: 1976
-last_year: 2004
+layout: post
 tags:
   - '@jonathan-richman'
   - '@jonathan-richman-the-modern-lovers'
@@ -13,7 +11,6 @@ tags:
   - '1900s'
   - 'proto-punk'
   - 'anti-folk'
-stub: true
 ---
 
 ## Jonathan Richman

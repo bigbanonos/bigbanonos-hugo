@@ -1,12 +1,12 @@
 ---
-title: "' 'RÃƒÆ’Ã‚Â³isÃƒÆ’Ã‚Â­n Murphy'
-'"
+title: "Roisin Murphy"
+slug: "roisin-murphy"
 date: 2024-12-20
-original_title: "'RÃƒÆ’Ã‚Â³isÃƒÆ’Ã‚Â­n Murphy - 2 Songs'"
+layout: post
 tags:
   - '@roisinmurphy'
-layout: post
 ---
+
 <h1>BigBanonos Top Songs by RÃƒÆ’Ã‚Â³isÃƒÆ’Ã‚Â­n Murphy</h1>
 {{< img-lite src="https://i.ytimg.com/vi/ysIl0qMK1ps/maxresdefault.jpg" alt="RÃƒÆ’Ã‚Â³isÃƒÆ’Ã‚Â­n Murphy" >}} <p>RÃƒÆ’Ã‚Â³isÃƒÆ’Ã‚Â­n Murphy brings an unparalleled edge to art pop and electronica, weaving intricate beats with soulful vocals that captivate her audience. Here are BigBanonos' top selections:</p> <ol> <li><strong>You Knew</strong> | <em>You Knew</em> | Ninja Tune | Released: July 18, 2023</li> <li><strong>The Universe - Edit</strong> | <em>The Universe</em> | Ninja Tune | Released: May 17, 2023</li>
 </ol> <div> {{< youtube "embed" >}}

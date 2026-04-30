@@ -1,16 +1,13 @@
 ---
 title: "Fiona Apple"
+slug: "fiona-apple"
 date: 2020-04-17
-category: "artist"
-track_count: 6
-first_year: 1996
-last_year: 2020
+layout: post
 tags:
   - '@fiona-apple'
   - '1900s'
   - '2020s'
   - 'art pop'
-stub: true
 ---
 
 ## Fiona Apple

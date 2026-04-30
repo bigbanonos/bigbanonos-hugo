@@ -1,10 +1,8 @@
 ---
-title: "I-Octane"
+title: "I Octane"
+slug: "i-octane"
 date: 2021-10-22
-category: "artist"
-track_count: 9
-first_year: 2014
-last_year: 2021
+layout: post
 tags:
   - '@i-octane'
   - '@i-octane-bunji-garlin'
@@ -14,7 +12,6 @@ tags:
   - 'riddim'
   - 'reggae'
   - 'lovers rock'
-stub: true
 ---
 
 ## I-Octane

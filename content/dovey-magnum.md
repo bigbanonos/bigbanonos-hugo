@@ -1,12 +1,12 @@
 ---
-title: "' 'Dovey Magnum'
-'"
+title: "Dovey Magnum"
+slug: "dovey-magnum"
 date: 2025-01-19
-original_title: "'Dovey Magnum'"
+layout: post
 tags:
   - '@doveymagnum'
-layout: post
 ---
+
  <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Dovey Magnum</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab67616d00001e02f333db1b3cbcf424c4c11efb" alt="Dovey Magnum" >}}

@@ -1,16 +1,13 @@
 ---
 title: "Nirvana"
+slug: "nirvana"
 date: 1993-09-21
-category: "artist"
-track_count: 8
-first_year: 1991
-last_year: 1993
+layout: post
 tags:
   - '@nirvana'
   - '1900s'
   - 'grunge'
   - 'rock'
-stub: true
 ---
 
 ## Nirvana

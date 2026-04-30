@@ -1,10 +1,8 @@
 ---
 title: "The Slits"
+slug: "the-slits"
 date: 1979-09-07
-category: "artist"
-track_count: 2
-first_year: 1979
-last_year: 1979
+layout: post
 tags:
   - '@the-slits'
   - '1900s'
@@ -12,7 +10,6 @@ tags:
   - 'post-punk'
   - 'punk'
   - 'proto-punk'
-stub: true
 ---
 
 ## The Slits

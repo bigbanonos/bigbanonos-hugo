@@ -1,15 +1,12 @@
 ---
 title: "George Harrison"
+slug: "george-harrison"
 date: 2021-07-09
-category: "artist"
-track_count: 2
-first_year: 1970
-last_year: 2021
+layout: post
 tags:
   - '@george-harrison'
   - '1900s'
   - '2020s'
-stub: true
 ---
 
 ## George Harrison

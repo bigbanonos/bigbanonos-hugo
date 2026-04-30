@@ -1,14 +1,11 @@
 ---
 title: "Love Is All"
+slug: "love-is-all"
 date: 2006-01-01
-category: "artist"
-track_count: 2
-first_year: 2006
-last_year: 2006
+layout: post
 tags:
   - '@love-is-all'
   - '00s-10s'
-stub: true
 ---
 
 ## Love Is All

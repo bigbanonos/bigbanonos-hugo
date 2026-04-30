@@ -1,13 +1,13 @@
 ---
-title: "' 'Deante' Hitchcock'
-'"
+title: "Deante Hitchcock"
+slug: "deante-hitchcock"
 date: 2024-12-21
-original_title: "'Deante' Hitchcock - 2 Songs'"
+layout: post
 tags:
   - '@deantehitchcock'
   - '@jid'
-layout: post
 ---
+
 <h3><em>BigBanonos</em> Top 2 Songs by Deante' Hitchcock:</h3> <p>Updated on April 15, 2020, with the standout track â€œI Got Money Nowâ€ featuring JID. BigBanonosâ€™ favorite Deante' Hitchcock tracks showcase his roots in Atlanta hip hop, blending underground elements with mainstream appeal.</p> <!--Image-->
 <div class="separator"> <a href="https://cdn-p.smehost.net/sites/8e1f40b762984a27a20f577d99b7ac97/wp-content/uploads/2018/07/Press-Shot-2-credit-Latoya-Brooks.jpg" > <img alt="Deante' Hitchcock" src="https://cdn-p.smehost.net/sites/8e1f40b762984a27a20f577d99b7ac97/wp-content/uploads/2018/07/Press-Shot-2-credit-Latoya-Brooks.jpg" /> </a>
 </div> <!--Spotify Playlist Embed-->

@@ -1,10 +1,8 @@
 ---
 title: "Mallrat"
+slug: "mallrat"
 date: 2025-02-14
-category: "artist"
-track_count: 8
-first_year: 2017
-last_year: 2025
+layout: post
 tags:
   - '@mallrat'
   - '@mallrat-azealia-banks'
@@ -12,7 +10,6 @@ tags:
   - '2020s'
   - 'ballroom vogue'
   - 'hip house'
-stub: true
 ---
 
 ## Mallrat

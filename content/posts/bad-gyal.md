@@ -1,7 +1,8 @@
 ---
 title: "Bad Gyal"
+slug: "bad-gyal"
 date: 2026-03-05
-category: "artist"
+layout: post
 tags:
   - '@bad-gyal'
 ---

@@ -1,12 +1,12 @@
 ---
-title: "' 'The Chills'
-'"
+title: "The Chills"
+slug: "the-chills"
 date: 2025-02-12
-original_title: "'The Chills'"
+layout: post
 tags:
   - '@chills'
-layout: post
 ---
+
 <div> {{< img-lite src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/The_Chills_%281989%29.jpg/1200px-The_Chills_%281989%29.jpg" alt="The Chills" >}}
 </div> <p>
 BigBanonos' favorite songs by The Chills:

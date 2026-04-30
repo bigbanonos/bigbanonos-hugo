@@ -1,17 +1,14 @@
 ---
 title: "Neutral Milk Hotel"
+slug: "neutral-milk-hotel"
 date: 2023-02-24
-category: "artist"
-track_count: 9
-first_year: 1996
-last_year: 2023
+layout: post
 tags:
   - '@neutral-milk-hotel'
   - '1900s'
   - '2020s'
   - 'anti-folk'
   - 'folk punk'
-stub: true
 ---
 
 ## Neutral Milk Hotel

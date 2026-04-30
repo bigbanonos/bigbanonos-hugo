@@ -1,8 +1,8 @@
 ---
-title: "' 'Kelela'
-'"
+title: "Kelela"
+slug: "kelela"
 date: 2025-08-30
-original_title: "'Kelela'"
+layout: post
 tags:
   - '@kaytranada'
   - '@cupcakke'
@@ -10,8 +10,8 @@ tags:
   - '@kelela'
   - '@princessnokia'
   - '@junglepussy'
-layout: post
 ---
+
 <h1 >BigBanonos Favorite Songs by Kelela</h1> <p><strong>Last updated February 11, 2025</strong> with â€œWaitinâ€™ (unplugged)â€ from <em>In The Blue Light</em>. Experience the experimental R&B brilliance of Kelela in the playlist and videos below.</p> <!-- Featured Image -->
 <div> <img src="https://i.scdn.co/image/ab6761610000e5eb6fa269e34810c08f562967de" alt="Kelela" />
 </div> <!-- Featured 2025 YouTube Embed -->

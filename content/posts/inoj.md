@@ -1,15 +1,12 @@
 ---
-title: "INOJ"
+title: "Inoj"
+slug: "inoj"
 date: 1999-01-01
-category: "artist"
-track_count: 1
-first_year: 1999
-last_year: 1999
+layout: post
 tags:
   - '@inoj'
   - '1900s'
   - 'miami bass'
-stub: true
 ---
 
 ## INOJ

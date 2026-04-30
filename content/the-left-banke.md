@@ -1,12 +1,12 @@
 ---
-title: "' 'The Left Banke'
-'"
+title: "The Left Banke"
+slug: "the-left-banke"
 date: 2025-01-19
-original_title: "'The Left Banke'"
+layout: post
 tags:
   - '@leftbanke'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonos Favorite Songs by The Left Banke</h1> <!-- Introductory Text -->
 <p >Updated January 17, 1967, with "Pretty Ballerina" from <em>Walk Away RenÃƒÆ’Ã‚Â©e/Pretty Ballerina</em>. Enjoy the baroque pop brilliance of The Left Banke in the playlist below!</p> <!-- Featured Image -->

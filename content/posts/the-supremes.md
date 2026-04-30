@@ -1,10 +1,8 @@
 ---
 title: "The Supremes"
+slug: "the-supremes"
 date: 2008-12-15
-category: "artist"
-track_count: 3
-first_year: 1966
-last_year: 2008
+layout: post
 tags:
   - '@the-supremes'
   - '00s-10s'
@@ -13,7 +11,6 @@ tags:
   - 'northern soul'
   - 'classic soul'
   - 'soul'
-stub: true
 ---
 
 ## The Supremes

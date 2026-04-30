@@ -1,12 +1,12 @@
 ---
-title: "' 'Ezra Furman'
-'"
+title: "Ezra Furman"
+slug: "ezra-furman"
 date: 2025-01-17
-original_title: "'Ezra Furman - 4 Songs'"
+layout: post
 tags:
   - '@ezrafurman'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Ezra Furman</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab67616d00001e02d3b0cfc492f7a9b930d9c703" alt="Ezra Furman" >}}

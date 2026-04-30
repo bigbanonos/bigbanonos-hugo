@@ -1,10 +1,8 @@
 ---
-title: "Cam'ron"
+title: "Cam Ron"
+slug: "cam-ron"
 date: 2025-10-29
-category: "artist"
-track_count: 6
-first_year: 1999
-last_year: 2025
+layout: post
 tags:
   - '@cam-ron'
   - '@cam-ron-juelz-santana-freekey-zeekey-toya'
@@ -12,7 +10,6 @@ tags:
   - '1900s'
   - '2020s'
   - 'east coast hip hop'
-stub: true
 ---
 
 ## Cam'ron

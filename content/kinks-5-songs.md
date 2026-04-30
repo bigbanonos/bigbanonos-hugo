@@ -1,13 +1,13 @@
 ---
-title: "' 'Kinks'
-'"
+title: "Kinks"
+slug: "kinks"
 date: 2025-01-16
-original_title: "'Kinks - 5 songs'"
+layout: post
 tags:
   - '@kinks'
   - '@arthursandtheemigrants'
-layout: post
 ---
+
 <h2 >BigBanonos' Favorite Songs by The Kinks</h2> <!-- Introductory Text -->
 <p >Updated July 30 with a previously unreleased track by Arthur & The Emigrants featuring vocals by Ray Davies. The Kinksâ€™ timeless blend of rock, storytelling, and innovative soundscapes continues to captivate listeners. Explore BigBanonosâ€™ top picks below!</p> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab6761610000517481f4e878e8b959fa68f15322" alt="The Kinks - Featured Image" >}}

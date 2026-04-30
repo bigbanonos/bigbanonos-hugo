@@ -1,10 +1,8 @@
 ---
-title: "Sam & Dave"
+title: "Sam Dave"
+slug: "sam-dave"
 date: 2007-10-30
-category: "artist"
-track_count: 3
-first_year: 1966
-last_year: 2007
+layout: post
 tags:
   - '@sam-dave'
   - '00s-10s'
@@ -12,7 +10,6 @@ tags:
   - 'motown'
   - 'soul'
   - 'classic soul'
-stub: true
 ---
 
 ## Sam & Dave

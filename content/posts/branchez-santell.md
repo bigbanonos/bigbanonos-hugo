@@ -1,15 +1,12 @@
 ---
-title: "Branchez;Santell"
+title: "Branchez Santell"
+slug: "branchez-santell"
 date: 2017-07-14
-category: "artist"
-track_count: 2
-first_year: 2016
-last_year: 2017
+layout: post
 tags:
   - '@branchez-santell'
   - '@branchez-big-wet'
   - '00s-10s'
-stub: true
 ---
 
 ## Branchez;Santell

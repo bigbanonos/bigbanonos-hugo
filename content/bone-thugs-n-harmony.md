@@ -1,12 +1,12 @@
 ---
-title: "' 'Bone Thugs-N-Harmony'
-'"
+title: "Bone Thugs N Harmony"
+slug: "bone-thugs-n-harmony"
 date: 2025-01-17
-original_title: "'Bone Thugs-N-Harmony'"
+layout: post
 tags:
   - '@bonethugsnharmony'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Bone Thugs-N-Harmony</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab67616d0000b2730c078eab10f525a0bd0eb6b3" alt="Bone Thugs-N-Harmony" >}}

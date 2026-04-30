@@ -1,7 +1,8 @@
 ---
 title: "Bill Callahan"
+slug: "bill-callahan"
 date: 2026-02-27
-category: "artist"
+layout: post
 tags:
   - '@billcallahan'
 ---

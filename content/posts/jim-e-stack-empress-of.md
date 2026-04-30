@@ -1,10 +1,8 @@
 ---
-title: "Jim-E Stack;Empress Of"
+title: "Jim E Stack Empress Of"
+slug: "jim-e-stack-empress-of"
 date: 2021-07-01
-category: "artist"
-track_count: 5
-first_year: 2019
-last_year: 2021
+layout: post
 tags:
   - '@jim-e-stack-empress-of'
   - '@jim-e-stack-dijon'
@@ -13,7 +11,6 @@ tags:
   - '@wet-jim-e-stack'
   - '00s-10s'
   - '2020s'
-stub: true
 ---
 
 ## Jim-E Stack;Empress Of

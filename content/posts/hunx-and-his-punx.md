@@ -1,17 +1,14 @@
 ---
-title: "Hunx and His Punx"
+title: "Hunx And His Punx"
+slug: "hunx-and-his-punx"
 date: 2013-07-23
-category: "artist"
-track_count: 2
-first_year: 2013
-last_year: 2013
+layout: post
 tags:
   - '@hunx-and-his-punx'
   - '00s-10s'
   - 'queercore'
   - 'garage rock'
   - 'riot grrrl'
-stub: true
 ---
 
 ## Hunx and His Punx

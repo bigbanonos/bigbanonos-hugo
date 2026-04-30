@@ -1,14 +1,14 @@
 ---
-title: "' 'FousheÃƒÆ’Ã‚Â©'
-'"
+title: "Foushee"
+slug: "foushee"
 date: 2024-12-21
-original_title: "'FousheÃƒÆ’Ã‚Â© - 2 Songs'"
+layout: post
 tags:
   - '@foushee'
   - '@lilwayne'
   - '@stevelacy'
-layout: post
 ---
+
 <h3><em>BigBanonos</em> Favorite Songs by FousheÃƒÆ’Ã‚Â©:</h3> <p>Updated on June 4, 2021, with the standout track â€œcandy grapesâ€ featuring Steve Lacy. Discover <em>BigBanonos</em> favorite FousheÃƒÆ’Ã‚Â© hits, blending alternative R&B and indie vibes.</p> <!--Image-->
 <div class="separator"> <a href="https://media.gq.com/photos/63ab49921b8ee5ea47083a39/1:1/w_3532,h_3532,c_limit/General%20Image%20-%20credit%20Alondra%20Buccio.jpeg" > <img alt="FousheÃƒÆ’Ã‚Â©" src="https://media.gq.com/photos/63ab49921b8ee5ea47083a39/1:1/w_3532,h_3532,c_limit/General%20Image%20-%20credit%20Alondra%20Buccio.jpeg" /> </a>
 </div> <!--Spotify Playlist Embed-->

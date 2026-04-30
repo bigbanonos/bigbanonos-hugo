@@ -1,15 +1,12 @@
 ---
-title: "KYLE"
+title: "Kyle"
+slug: "kyle"
 date: 2023-11-10
-category: "artist"
-track_count: 2
-first_year: 2022
-last_year: 2023
+layout: post
 tags:
   - '@kyle'
   - '@kyle-teezo-touchdown'
   - '2020s'
-stub: true
 ---
 
 ## KYLE

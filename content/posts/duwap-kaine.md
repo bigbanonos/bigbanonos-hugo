@@ -1,7 +1,8 @@
 ---
 title: "Duwap Kaine"
+slug: "duwap-kaine"
 date: 2026-03-13
-category: "artist"
+layout: post
 tags:
   - '@duwap-kaine'
 ---

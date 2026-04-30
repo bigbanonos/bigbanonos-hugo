@@ -1,10 +1,8 @@
 ---
 title: "Lisa Hype"
+slug: "lisa-hype"
 date: 2011-04-01
-category: "artist"
-track_count: 2
-first_year: 2009
-last_year: 2011
+layout: post
 tags:
   - '@lisa-hype'
   - '@lisa-hype-vybz-kartel'
@@ -13,7 +11,6 @@ tags:
   - 'riddim'
   - 'soca'
   - 'ragga'
-stub: true
 ---
 
 ## Lisa Hype

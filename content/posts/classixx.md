@@ -1,10 +1,8 @@
 ---
 title: "Classixx"
+slug: "classixx"
 date: 2013-05-14
-category: "artist"
-track_count: 2
-first_year: 2013
-last_year: 2013
+layout: post
 tags:
   - '@classixx'
   - '@classixx-jeppe'
@@ -12,7 +10,6 @@ tags:
   - 'nu disco'
   - 'indie dance'
   - 'finnish hip hop'
-stub: true
 ---
 
 ## Classixx

@@ -1,10 +1,8 @@
 ---
-title: "Pharrell Williams;JAŸ-Z"
+title: "Pharrell Williams Ja Z"
+slug: "pharrell-williams-ja-z"
 date: 2022-11-18
-category: "artist"
-track_count: 5
-first_year: 2002
-last_year: 2022
+layout: post
 tags:
   - '@pharrell-williams-ja-z'
   - '@pharrell-williams'
@@ -16,7 +14,6 @@ tags:
   - 'hip hop'
   - 'east coast hip hop'
   - 'g-funk'
-stub: true
 ---
 
 ## Pharrell Williams;JAŸ-Z

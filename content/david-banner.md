@@ -1,12 +1,12 @@
 ---
-title: "' 'David Banner'
-'"
+title: "David Banner"
+slug: "david-banner"
 date: 2025-01-17
-original_title: "'David Banner'"
+layout: post
 tags:
   - '@davidbanner'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by David Banner</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab67616d0000b2736108ad24118cd8aa15de56e9" alt="David Banner" >}}

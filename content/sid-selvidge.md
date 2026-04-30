@@ -1,12 +1,12 @@
 ---
-title: "' 'Sid Selvidge'
-'"
+title: "Sid Selvidge"
+slug: "sid-selvidge"
 date: 2024-12-15
-original_title: "'Sid Selvidge'"
+layout: post
 tags:
   - '@sidselvidge'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >Sid Selvidge - Since I Met You Baby</h1> <!-- Introductory Text -->
 <p >Updated with "Since I Met You Baby" by Sid Selvidge, live from the album *Live At Otherlands*, released on June 7, 2005, by Archer Records.</p> <!-- Featured Image -->

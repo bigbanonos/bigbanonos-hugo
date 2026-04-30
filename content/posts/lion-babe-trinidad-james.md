@@ -1,10 +1,8 @@
 ---
-title: "LION BABE;Trinidad James"
+title: "Lion Babe Trinidad James"
+slug: "lion-babe-trinidad-james"
 date: 2021-10-15
-category: "artist"
-track_count: 6
-first_year: 2014
-last_year: 2021
+layout: post
 tags:
   - '@lion-babe-trinidad-james'
   - '@lion-babe'
@@ -14,7 +12,6 @@ tags:
   - '2020s'
   - 'alternative r&b'
   - 'indie soul'
-stub: true
 ---
 
 ## LION BABE;Trinidad James

@@ -1,12 +1,12 @@
 ---
-title: "' 'Dead Boys'
-'"
+title: "Dead Boys All This And"
+slug: "dead-boys-all-this-and"
 date: 2024-12-20
-original_title: "'Dead Boys'"
+layout: post
 tags:
   - '@deadboys'
-layout: post
 ---
+
 <h2>Dead Boys â€“ Essential Tracks</h2> <div > <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Dead_Boys_1977_press_photo.jpg" alt="Dead Boys" width="500" />
 </div> {{< youtube "embed" >}} <h3>Video Playlist</h3>
 <p>Watch <strong>All This and More</strong> (1977) and <strong>Sonic Reducer</strong> (1977):</p>

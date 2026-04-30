@@ -1,13 +1,13 @@
 ---
-title: "' 'Jax Jones'
-'"
+title: "Jax Jones"
+slug: "jax-jones"
 date: 2025-01-16
-original_title: "'Jax Jones - 1 Song'"
+layout: post
 tags:
   - '@jaxjones'
   - '@beberexha'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1>BigBanonosâ€™ Favorite Songs by Jax Jones</h1> <!-- Introductory Text -->
 <p>Jax Jones is a master of dancefloor anthems, delivering infectious beats and unforgettable melodies. This updated list highlights his top tracks, showcasing his unique blend of dance pop and electronic excellence.</p> <!-- Featured Image -->

@@ -1,10 +1,8 @@
 ---
-title: "UGK"
+title: "Ugk"
+slug: "ugk"
 date: 2009-03-30
-category: "artist"
-track_count: 6
-first_year: 1996
-last_year: 2009
+layout: post
 tags:
   - '@ugk'
   - '@ugk-c-note-big-smokin-mitch'
@@ -16,7 +14,6 @@ tags:
   - 'old school hip hop'
   - 'g-funk'
   - 'sexy drill'
-stub: true
 ---
 
 ## UGK

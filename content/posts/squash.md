@@ -1,10 +1,8 @@
 ---
 title: "Squash"
+slug: "squash"
 date: 2022-06-27
-category: "artist"
-track_count: 7
-first_year: 2018
-last_year: 2022
+layout: post
 tags:
   - '@squash'
   - '@squash-chronic-law-daddy1-unstoppable-omg'
@@ -18,7 +16,6 @@ tags:
   - 'soca'
   - 'riddim'
   - 'ragga'
-stub: true
 ---
 
 ## Squash

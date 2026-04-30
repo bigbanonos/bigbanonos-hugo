@@ -1,16 +1,13 @@
 ---
 title: "Hamilton Leithauser"
+slug: "hamilton-leithauser"
 date: 2025-03-07
-category: "artist"
-track_count: 6
-first_year: 2016
-last_year: 2025
+layout: post
 tags:
   - '@hamilton-leithauser'
   - '@hamilton-leithauser-rostam'
   - '00s-10s'
   - '2020s'
-stub: true
 ---
 
 ## Hamilton Leithauser

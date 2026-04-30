@@ -1,12 +1,12 @@
 ---
-title: "' 'Little Barrie'
-'"
+title: "Little Barrie"
+slug: "little-barrie"
 date: 2024-12-14
-original_title: "'Little Barrie'"
+layout: post
 tags:
   - '@littlebarrie'
-layout: post
 ---
+
 <!-- Post Title -->
 <h1 >BigBanonos' Favorite Tracks: Little Barrie - "Surf Hell"</h1> <!-- Introductory Text -->
 <p >Updated April 11, 2011, with "Surf Hell" by Little Barrie. This energetic indie rock track from the album <em>Surf Hell</em>, released under Bumpman Records, is a standout of Nottingham's indie rock scene.</p> <!-- Featured Image -->

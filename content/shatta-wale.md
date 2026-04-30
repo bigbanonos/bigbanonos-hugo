@@ -1,12 +1,12 @@
 ---
-title: "' 'Shatta Wale'
-'"
+title: "Shatta Wale"
+slug: "shatta-wale"
 date: 2025-01-16
-original_title: "'Shatta Wale'"
+layout: post
 tags:
   - '@shattawale'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1>BigBanonosâ€™ Favorite Songs by Shatta Wale</h1> <!-- Featured Image -->
 <div> {{< img-lite src="https://i.scdn.co/image/ab6761610000e5eb4b9c8478e046551c38920635" alt="Shatta Wale" >}}

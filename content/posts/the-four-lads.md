@@ -1,16 +1,13 @@
 ---
 title: "The Four Lads"
+slug: "the-four-lads"
 date: 1953-01-01
-category: "artist"
-track_count: 2
-first_year: 1953
-last_year: 1953
+layout: post
 tags:
   - '@the-four-lads'
   - '1900s'
   - 'adult standards'
   - 'doo-wop'
-stub: true
 ---
 
 ## The Four Lads

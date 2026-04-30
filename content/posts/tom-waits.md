@@ -1,16 +1,13 @@
 ---
 title: "Tom Waits"
+slug: "tom-waits"
 date: 1999-04-27
-category: "artist"
-track_count: 5
-first_year: 1980
-last_year: 1999
+layout: post
 tags:
   - '@tom-waits'
   - '1900s'
   - 'singer-songwriter'
   - 'southern gothic'
-stub: true
 ---
 
 ## Tom Waits

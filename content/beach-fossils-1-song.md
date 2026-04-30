@@ -1,12 +1,12 @@
 ---
-title: "' 'Beach Fossils'
-'"
+title: "Beach Fossils"
+slug: "beach-fossils"
 date: 2025-01-12
-original_title: "'Beach Fossils -  1 Song'"
+layout: post
 tags:
   - '@beachfossils'
-layout: post
 ---
+
 <h2>BigBanonos' Favorite Song by Beach Fossils - "Sleep Apnea" (Updated in 2021 with the Piano Versions)</h2> <!--Search Description-->
 <p>BigBanonos' favorite track by Beach Fossils, "Sleep Apnea," in two versionsâ€both the original and the 2021 piano versionâ€highlighted in the playlist below.</p> {{< youtube "nuvJSl24wAw" >}} <!--Spotify Playlist Embed-->
 {{< youtube "embed" >}} <!--Song List with Album Info-->

@@ -1,16 +1,13 @@
 ---
 title: "Girl Talk"
+slug: "girl-talk"
 date: 2021-06-14
-category: "artist"
-track_count: 18
-first_year: 2004
-last_year: 2021
+layout: post
 tags:
   - '@girl-talk'
   - '00s-10s'
   - '2020s'
   - 'plunderphonics'
-stub: true
 ---
 
 ## Girl Talk

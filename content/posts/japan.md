@@ -1,17 +1,14 @@
 ---
 title: "Japan"
+slug: "japan"
 date: 2023-02-10
-category: "artist"
-track_count: 4
-first_year: 2019
-last_year: 2023
+layout: post
 tags:
   - '@japan'
   - '@man'
   - '00s-10s'
   - '2020s'
   - 'bedroom pop'
-stub: true
 ---
 
 ## Japan

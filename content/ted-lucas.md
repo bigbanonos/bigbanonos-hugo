@@ -1,12 +1,12 @@
 ---
-title: "' 'Ted Lucas'
-'"
+title: "Ted Lucas"
+slug: "ted-lucas"
 date: 2025-01-10
-original_title: "'Ted Lucas'"
+layout: post
 tags:
   - '@tedlucas'
-layout: post
 ---
+
 <div class="post-title"> <h1>BigBanonos' Favorite Songs by Ted Lucas</h1>
 </div>
 <p>"It's So Easy (When You Know What You're Doing)" from Ted Lucas' self-titled album, highlighted in the playlist below:</p>

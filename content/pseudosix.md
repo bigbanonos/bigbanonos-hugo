@@ -1,12 +1,12 @@
 ---
-title: "' 'Pseudosix'
-'"
+title: "Pseudosix"
+slug: "pseudosix"
 date: 2024-12-29
-original_title: "'Pseudosix'"
+layout: post
 tags:
   - '@pseudosix'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonos Favorite Song by Pseudosix: "Apathy And Excess"</h1> <!-- Introductory Text -->
 <p >Updated August 28, 2007, with "Apathy And Excess" by Pseudosix. This introspective track from their self-titled album captures a compelling blend of moody melodies and poignant lyrics, showcasing the bandâ€™s unique indie rock sensibilities. Watch and listen below!</p> <!-- Featured Image -->

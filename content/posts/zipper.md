@@ -1,10 +1,8 @@
 ---
 title: "Zipper"
+slug: "zipper"
 date: 1974-09-30
-category: "artist"
-track_count: 2
-first_year: 1974
-last_year: 1974
+layout: post
 tags:
   - '@zipper'
   - '1900s'
@@ -12,7 +10,6 @@ tags:
   - 'acid rock'
   - 'stoner rock'
   - 'proto-punk'
-stub: true
 ---
 
 ## Zipper

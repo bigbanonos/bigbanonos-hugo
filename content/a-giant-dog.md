@@ -1,12 +1,12 @@
 ---
-title: "' 'A Giant Dog'
-'"
+title: "A Giant Dog"
+slug: "a-giant-dog"
 date: 2024-11-29
-original_title: "'A Giant Dog'"
+layout: post
 tags:
   - '@agiantdog'
-layout: post
 ---
+
 <!-- Post Title -->
 <h1 >BigBanonos' Favorite Song by A Giant Dog</h1> <!-- Introductory Text -->
 <p >Updated February 15, 2013, with BigBanonos' favorite song by A Giant Dog, "Virgin Girl," from their album *Bone*. Watch the video and see more details below:</p> <!-- Featured Image -->

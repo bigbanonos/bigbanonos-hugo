@@ -1,12 +1,12 @@
 ---
-title: "' 'Les Savy Fav'
-'"
+title: "Les Savy Fav"
+slug: "les-savy-fav"
 date: 2025-01-23
-original_title: "'Les Savy Fav'"
+layout: post
 tags:
   - '@lessavyfav'
-layout: post
 ---
+
 <!--Title of the Post-->
 <h1>BigBanonosâ€™ Favorite Songs by Les Savy Fav</h1> <!--Introductory Text-->
 <p>Les Savy Fav brings a unique mix of dance-punk and experimental rock to the indie music scene. BigBanonos highlights their most energetic and thought-provoking tracks.</p> <!--Featured Image-->

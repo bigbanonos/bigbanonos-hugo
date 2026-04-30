@@ -1,15 +1,12 @@
 ---
 title: "The Thermals"
+slug: "the-thermals"
 date: 2008-03-18
-category: "artist"
-track_count: 10
-first_year: 2003
-last_year: 2008
+layout: post
 tags:
   - '@the-thermals'
   - '00s-10s'
   - 'indie punk'
-stub: true
 ---
 
 ## The Thermals

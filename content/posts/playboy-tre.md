@@ -1,14 +1,11 @@
 ---
-title: "Playboy Tre´"
+title: "Playboy Tre"
+slug: "playboy-tre"
 date: 2009-08-25
-category: "artist"
-track_count: 1
-first_year: 2009
-last_year: 2009
+layout: post
 tags:
   - '@playboy-tre'
   - '00s-10s'
-stub: true
 ---
 
 ## Playboy Tre´

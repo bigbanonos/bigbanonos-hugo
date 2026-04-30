@@ -1,10 +1,8 @@
 ---
 title: "Sublime"
+slug: "sublime"
 date: 2018-04-21
-category: "artist"
-track_count: 56
-first_year: 1991
-last_year: 2018
+layout: post
 tags:
   - '@sublime'
   - '@sublime-jack-maness-eric-wilson'
@@ -15,7 +13,6 @@ tags:
   - 'ska punk'
   - 'ska'
   - 'roots reggae'
-stub: true
 ---
 
 ## Sublime

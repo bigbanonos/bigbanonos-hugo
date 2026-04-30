@@ -1,8 +1,8 @@
 ---
-title: "' 'DJDS'
-'"
+title: "Djds"
+slug: "djds"
 date: 2024-12-21
-original_title: "'DJDS - 6 Songs'"
+layout: post
 tags:
   - '@ambermark'
   - '@djds'
@@ -15,8 +15,8 @@ tags:
   - '@rema'
   - '@torylanez'
   - '@khalid'
-layout: post
 ---
+
 <h3><em>BigBanonos</em> Favorite Songs by DJDS:</h3> <p>Updated on July 9, 2020, with â€œSimple Things [Feat. Tory Lanez & Rema].â€ BigBanonos highlights DJDSâ€™s top tracks, showcasing a blend of la pop, alternative R&B, and soul-infused pop collaborations.</p> <!--Image-->
 <div class="separator"> <a href="https://media.pitchfork.com/photos/5af9fc96c0afac5f5fb89fd4/4:3/w_524,h_393,c_limit/DJDS.png" > <img alt="DJDS" src="https://media.pitchfork.com/photos/5af9fc96c0afac5f5fb89fd4/4:3/w_524,h_393,c_limit/DJDS.png" /> </a>
 </div> <!--Spotify Playlist Embed-->

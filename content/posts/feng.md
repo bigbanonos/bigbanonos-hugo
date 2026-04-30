@@ -1,15 +1,12 @@
 ---
 title: "Feng"
+slug: "feng"
 date: 2026-02-13
-category: "artist"
-track_count: 6
-first_year: 2025
-last_year: 2026
+layout: post
 tags:
   - '@feng'
   - '2020s'
   - 'cloud rap'
-stub: true
 ---
 
 ## Feng

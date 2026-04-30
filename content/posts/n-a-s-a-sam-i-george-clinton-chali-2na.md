@@ -1,17 +1,14 @@
 ---
-title: "N.A.S.A.;Sam i;George Clinton;Chali 2na"
+title: "N A S A Sam I George Clinton Chali 2na"
+slug: "n-a-s-a-sam-i-george-clinton-chali-2na"
 date: 2020-01-31
-category: "artist"
-track_count: 2
-first_year: 2020
-last_year: 2020
+layout: post
 tags:
   - '@n-a-s-a-sam-i-george-clinton-chali-2na'
   - '@n-a-s-a-sam-i-spank-rock-m-i-a-santigold-nick-zinner'
   - '2020s'
   - 'funk'
   - 'baltimore club'
-stub: true
 ---
 
 ## N.A.S.A.;Sam i;George Clinton;Chali 2na

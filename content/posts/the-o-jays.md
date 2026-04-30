@@ -1,10 +1,8 @@
 ---
-title: "The O'Jays"
+title: "The O Jays"
+slug: "the-o-jays"
 date: 2005-01-01
-category: "artist"
-track_count: 2
-first_year: 1975
-last_year: 2005
+layout: post
 tags:
   - '@the-o-jays'
   - '00s-10s'
@@ -13,7 +11,6 @@ tags:
   - 'classic soul'
   - 'motown'
   - 'quiet storm'
-stub: true
 ---
 
 ## The O'Jays

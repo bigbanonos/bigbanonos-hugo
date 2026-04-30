@@ -1,12 +1,12 @@
 ---
-title: "' 'Ambrosia'
-'"
+title: "Ambrosia"
+slug: "ambrosia"
 date: 2024-12-26
-original_title: "'Ambrosia'"
+layout: post
 tags:
   - '@ambrosia'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonos Favorite Song by Ambrosia: "You're The Only Woman"</h1> <!-- Introductory Text -->
 <p >Updated August 22, 1980, with "You're The Only Woman" by Ambrosia. This smooth and soulful yacht rock ballad remains one of Ambrosia's most cherished tracks. Watch the video below!</p> <!-- Featured Image -->

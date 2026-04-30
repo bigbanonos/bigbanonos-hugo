@@ -1,16 +1,13 @@
 ---
 title: "Oasis"
+slug: "oasis"
 date: 1995-10-02
-category: "artist"
-track_count: 3
-first_year: 1994
-last_year: 1995
+layout: post
 tags:
   - '@oasis'
   - '1900s'
   - 'britpop'
   - 'madchester'
-stub: true
 ---
 
 ## Oasis

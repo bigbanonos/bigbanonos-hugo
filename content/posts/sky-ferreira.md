@@ -1,14 +1,11 @@
 ---
 title: "Sky Ferreira"
+slug: "sky-ferreira"
 date: 2013-01-01
-category: "artist"
-track_count: 4
-first_year: 2012
-last_year: 2013
+layout: post
 tags:
   - '@sky-ferreira'
   - '00s-10s'
-stub: true
 ---
 
 ## Sky Ferreira

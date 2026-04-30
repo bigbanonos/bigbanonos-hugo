@@ -1,12 +1,12 @@
 ---
-title: "' 'Witch'
-'"
+title: "Witch"
+slug: "witch"
 date: 2025-01-11
-original_title: "'Witch'"
+layout: post
 tags:
   - '@witch'
-layout: post
 ---
+
 <div class="post-title"> <h1>BigBanonos' Favorite Songs by Witch</h1>
 </div>
 <p>Updated May 22, 2011, with "She Is Mine" and "Lazy Bones" from the album <i>Witch: We Intend to Cause Havoc!</i>, highlighted in the playlist below:</p>

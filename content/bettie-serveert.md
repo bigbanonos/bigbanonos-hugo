@@ -1,12 +1,12 @@
 ---
-title: "' 'Bettie Serveert'
-'"
+title: "Bettie Serveert"
+slug: "bettie-serveert"
 date: 2025-01-17
-original_title: "'Bettie Serveert'"
+layout: post
 tags:
   - '@bettieserveert'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Bettie Serveert</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab67616d00001e023c309237cf7636f072595106" alt="Bettie Serveert" >}}

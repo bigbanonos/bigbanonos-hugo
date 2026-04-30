@@ -1,10 +1,8 @@
 ---
 title: "Half Pint"
+slug: "half-pint"
 date: 2008-10-07
-category: "artist"
-track_count: 3
-first_year: 1997
-last_year: 2008
+layout: post
 tags:
   - '@half-pint'
   - '00s-10s'
@@ -13,7 +11,6 @@ tags:
   - 'reggae'
   - 'roots reggae'
   - 'ragga'
-stub: true
 ---
 
 ## Half Pint

@@ -1,17 +1,14 @@
 ---
-title: "Heavenly;Calvin Johnson"
+title: "Heavenly Calvin Johnson"
+slug: "heavenly-calvin-johnson"
 date: 1993-01-01
-category: "artist"
-track_count: 2
-first_year: 1992
-last_year: 1993
+layout: post
 tags:
   - '@heavenly-calvin-johnson'
   - '@heavenly'
   - '1900s'
   - 'jangle pop'
   - 'riot grrrl'
-stub: true
 ---
 
 ## Heavenly;Calvin Johnson

@@ -1,12 +1,12 @@
 ---
-title: "' 'Darkoo'
-'"
+title: "Darkoo"
+slug: "darkoo"
 date: 2025-01-17
-original_title: "'Darkoo'"
+layout: post
 tags:
   - '@darkoo'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Darkoo</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab6761610000e5ebdb583aec530ee00398fdd375" alt="Darkoo" >}}

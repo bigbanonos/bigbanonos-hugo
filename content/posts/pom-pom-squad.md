@@ -1,14 +1,11 @@
 ---
 title: "Pom Pom Squad"
+slug: "pom-pom-squad"
 date: 2021-11-10
-category: "artist"
-track_count: 2
-first_year: 2021
-last_year: 2021
+layout: post
 tags:
   - '@pom-pom-squad'
   - '2020s'
-stub: true
 ---
 
 ## Pom Pom Squad

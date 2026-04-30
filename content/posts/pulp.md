@@ -1,16 +1,13 @@
 ---
 title: "Pulp"
+slug: "pulp"
 date: 1998-03-30
-category: "artist"
-track_count: 4
-first_year: 1994
-last_year: 1998
+layout: post
 tags:
   - '@pulp'
   - '1900s'
   - 'britpop'
   - 'madchester'
-stub: true
 ---
 
 ## Pulp

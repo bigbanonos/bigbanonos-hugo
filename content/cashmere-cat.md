@@ -1,14 +1,14 @@
 ---
-title: "' 'Cashmere Cat'
-'"
+title: "Cashmere Cat"
+slug: "cashmere-cat"
 date: 2025-01-15
-original_title: "'Cashmere Cat - 6 Songs'"
+layout: post
 tags:
   - '@mo'
   - '@cashmerecat'
   - '@sophie'
-layout: post
 ---
+
 <h2 >BigBanonos' Favorite Songs by Cashmere Cat</h2> <!-- Introductory Text -->
 <p >Norwegian producer and DJ Cashmere Cat blends downtempo, electropop, and shiver pop to create dreamy, atmospheric tracks. Updated with "EMOTIONS," this post highlights BigBanonos' favorite songs from Cashmere Catâ€™s innovative discography. Watch the video for "EMOTIONS" below!</p> <!-- Featured Image -->
 <div > {{< img-lite src="https://upload.wikimedia.org/wikipedia/commons/0/09/Cashmere_Cat.jpg" alt="Cashmere Cat" >}}

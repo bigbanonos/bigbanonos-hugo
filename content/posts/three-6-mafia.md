@@ -1,10 +1,8 @@
 ---
 title: "Three 6 Mafia"
+slug: "three-6-mafia"
 date: 2006-06-20
-category: "artist"
-track_count: 4
-first_year: 2000
-last_year: 2006
+layout: post
 tags:
   - '@three-6-mafia'
   - '@three-6-mafia-remy-ma'
@@ -14,7 +12,6 @@ tags:
   - 'horrorcore'
   - 'crunk'
   - 'gangster rap'
-stub: true
 ---
 
 ## Three 6 Mafia

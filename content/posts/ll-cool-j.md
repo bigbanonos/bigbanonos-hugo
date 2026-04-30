@@ -1,10 +1,8 @@
 ---
-title: "LL COOL J"
+title: "Ll Cool J"
+slug: "ll-cool-j"
 date: 2004-08-31
-category: "artist"
-track_count: 6
-first_year: 1989
-last_year: 2004
+layout: post
 tags:
   - '@ll-cool-j'
   - '@ll-cool-j-leshaun'
@@ -12,7 +10,6 @@ tags:
   - '1900s'
   - 'old school hip hop'
   - 'east coast hip hop'
-stub: true
 ---
 
 ## LL COOL J

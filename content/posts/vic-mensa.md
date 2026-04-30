@@ -1,17 +1,14 @@
 ---
-title: "VIC MENSA"
+title: "Vic Mensa"
+slug: "vic-mensa"
 date: 2023-01-27
-category: "artist"
-track_count: 2
-first_year: 2015
-last_year: 2023
+layout: post
 tags:
   - '@vic-mensa'
   - '@vic-mensa-maeta-thundercat'
   - '00s-10s'
   - '2020s'
   - 'indie r&b'
-stub: true
 ---
 
 ## VIC MENSA

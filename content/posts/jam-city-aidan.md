@@ -1,10 +1,8 @@
 ---
-title: "Jam City;Aidan"
+title: "Jam City Aidan"
+slug: "jam-city-aidan"
 date: 2025-03-28
-category: "artist"
-track_count: 6
-first_year: 2023
-last_year: 2025
+layout: post
 tags:
   - '@jam-city-aidan'
   - '@jam-city-empress-of'
@@ -12,7 +10,6 @@ tags:
   - '@jam-city-wet'
   - '2020s'
   - 'uk funky'
-stub: true
 ---
 
 ## Jam City;Aidan

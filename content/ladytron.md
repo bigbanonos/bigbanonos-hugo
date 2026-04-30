@@ -1,12 +1,12 @@
 ---
-title: "' 'Ladytron'
-'"
+title: "Ladytron"
+slug: "ladytron"
 date: 2024-12-17
-original_title: "'Ladytron'"
+layout: post
 tags:
   - '@ladytron'
-layout: post
 ---
+
 <h2>BigBanonos' Favorite Tracks: Ladytron</h2> <div > <a href="https://upload.wikimedia.org/wikipedia/commons/c/cf/Ladytron_in_Mexico_in_2011.jpg"> <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Ladytron_in_Mexico_in_2011.jpg" alt="Ladytron" width="400" /> </a>
 </div> <p>Ladytron's blend of dark synthpop, electroclash, and electronica has defined their distinct sound in the indietronica genre. This curated list highlights some of their standout tracks.</p> <h3>Selected Tracks</h3>
 <ol> <li><strong>Destroy Everything You Touch</strong> â€“ <em>Witching Hour (Bonus Track Version)</em> (2005)</li> <li><strong>Fire</strong> â€“ <em>Light & Magic</em> (2002)</li> <li><strong>Oops Oh My</strong> â€“ (Single)</li> <li><strong>Paco!</strong> â€“ (2001)</li>

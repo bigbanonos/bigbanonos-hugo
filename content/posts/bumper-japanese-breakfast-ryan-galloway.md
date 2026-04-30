@@ -1,14 +1,11 @@
 ---
-title: "BUMPER;Japanese Breakfast;Ryan Galloway"
+title: "Bumper Japanese Breakfast Ryan Galloway"
+slug: "bumper-japanese-breakfast-ryan-galloway"
 date: 2020-09-04
-category: "artist"
-track_count: 2
-first_year: 2020
-last_year: 2020
+layout: post
 tags:
   - '@bumper-japanese-breakfast-ryan-galloway'
   - '2020s'
-stub: true
 ---
 
 ## BUMPER;Japanese Breakfast;Ryan Galloway

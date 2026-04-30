@@ -1,10 +1,8 @@
 ---
 title: "Gyptian"
+slug: "gyptian"
 date: 2026-02-13
-category: "artist"
-track_count: 11
-first_year: 2010
-last_year: 2026
+layout: post
 tags:
   - '@gyptian'
   - '@gyptian-muzik-house-productions'
@@ -15,7 +13,6 @@ tags:
   - 'reggae'
   - 'soca'
   - 'lovers rock'
-stub: true
 ---
 
 ## Gyptian

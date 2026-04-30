@@ -1,16 +1,13 @@
 ---
 title: "Ocean Colour Scene"
+slug: "ocean-colour-scene"
 date: 2010-01-01
-category: "artist"
-track_count: 2
-first_year: 2010
-last_year: 2010
+layout: post
 tags:
   - '@ocean-colour-scene'
   - '00s-10s'
   - 'britpop'
   - 'madchester'
-stub: true
 ---
 
 ## Ocean Colour Scene

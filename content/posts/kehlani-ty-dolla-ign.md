@@ -1,10 +1,8 @@
 ---
-title: "Kehlani;Ty Dolla $ign"
+title: "Kehlani Ty Dolla Ign"
+slug: "kehlani-ty-dolla-ign"
 date: 2024-08-28
-category: "artist"
-track_count: 3
-first_year: 2017
-last_year: 2024
+layout: post
 tags:
   - '@kehlani-ty-dolla-ign'
   - '@kehlani'
@@ -12,7 +10,6 @@ tags:
   - '00s-10s'
   - '2020s'
   - 'trap soul'
-stub: true
 ---
 
 ## Kehlani;Ty Dolla $ign

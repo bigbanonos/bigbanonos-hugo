@@ -1,15 +1,12 @@
 ---
 title: "The Cleaners From Venus"
+slug: "the-cleaners-from-venus"
 date: 1983-01-01
-category: "artist"
-track_count: 4
-first_year: 1981
-last_year: 1983
+layout: post
 tags:
   - '@the-cleaners-from-venus'
   - '1900s'
   - 'jangle pop'
-stub: true
 ---
 
 ## The Cleaners From Venus

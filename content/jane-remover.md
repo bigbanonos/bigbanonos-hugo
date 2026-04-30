@@ -1,12 +1,12 @@
 ---
-title: "' 'Jane Remover'
-'"
+title: "Jane Remover"
+slug: "jane-remover"
 date: 2024-12-30
-original_title: "'Jane Remover'"
+layout: post
 tags:
   - '@janeremover'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >Jane Remover - Magic I Want U</h1> <!-- Introductory Text -->
 <p >Jane Remover drops a new track, â€œMagic I Want U,â€ blending glitchcore and hyper-rock sounds to create an explosive, genre-bending anthem. Watch the official audio video below!</p> <!-- Featured Image -->

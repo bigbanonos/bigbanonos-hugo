@@ -1,15 +1,12 @@
 ---
-title: "Bars of Gold"
+title: "Bars Of Gold"
+slug: "bars-of-gold"
 date: 2013-10-29
-category: "artist"
-track_count: 2
-first_year: 2013
-last_year: 2013
+layout: post
 tags:
   - '@bars-of-gold'
   - '00s-10s'
   - 'post-hardcore'
-stub: true
 ---
 
 ## Bars of Gold

@@ -1,10 +1,8 @@
 ---
-title: "R. Kelly"
+title: "R Kelly"
+slug: "r-kelly"
 date: 2015-08-21
-category: "artist"
-track_count: 46
-first_year: 1992
-last_year: 2015
+layout: post
 tags:
   - '@r-kelly'
   - '@r-kelly-ft-jeremih'
@@ -23,7 +21,6 @@ tags:
   - 'quiet storm'
   - 'southern hip hop'
   - 'new jack swing'
-stub: true
 ---
 
 ## R. Kelly

@@ -1,10 +1,8 @@
 ---
-title: "DRAM"
+title: "Dram"
+slug: "dram"
 date: 2024-09-27
-category: "artist"
-track_count: 7
-first_year: 2015
-last_year: 2024
+layout: post
 tags:
   - '@dram'
   - '@dram-donnie-trumpet'
@@ -17,7 +15,6 @@ tags:
   - 'r&b'
   - 'neo soul'
   - 'alternative r&b'
-stub: true
 ---
 
 ## DRAM

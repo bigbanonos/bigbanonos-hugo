@@ -1,10 +1,8 @@
 ---
 title: "Bully"
+slug: "bully"
 date: 2023-06-02
-category: "artist"
-track_count: 7
-first_year: 2015
-last_year: 2023
+layout: post
 tags:
   - '@bully'
   - '@bully-soccer-mommy'
@@ -12,7 +10,6 @@ tags:
   - '2020s'
   - 'indie punk'
   - 'indie'
-stub: true
 ---
 
 ## Bully

@@ -1,12 +1,12 @@
 ---
-title: "' 'ACDC'
-'"
+title: "Acdc"
+slug: "acdc"
 date: 2024-12-26
-original_title: "'ACDC'"
+layout: post
 tags:
   - '@acdc'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonos Favorite Song by AC/DC: "Who Made Who"</h1> <!-- Introductory Text -->
 <p >Updated May 24, 1986, with "Who Made Who" by AC/DC. This electrifying anthem from the soundtrack of *Maximum Overdrive* showcases the bandâ€™s high-energy rock sound. Watch the video below!</p> <!-- Featured Image -->

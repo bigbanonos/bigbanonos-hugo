@@ -1,16 +1,13 @@
 ---
 title: "Vashti Bunyan"
+slug: "vashti-bunyan"
 date: 2007-10-30
-category: "artist"
-track_count: 5
-first_year: 1970
-last_year: 2007
+layout: post
 tags:
   - '@vashti-bunyan'
   - '00s-10s'
   - '1900s'
   - 'folk'
-stub: true
 ---
 
 ## Vashti Bunyan

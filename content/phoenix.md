@@ -1,12 +1,12 @@
 ---
-title: "' 'Phoenix'
-'"
+title: "Phoenix"
+slug: "phoenix"
 date: 2024-12-29
-original_title: "'Phoenix'"
+layout: post
 tags:
   - '@phoenix'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonos Favorite Song by Phoenix: "Rally"</h1> <!-- Introductory Text -->
 <p >Updated May 12, 2006, with "Rally" by Phoenix. This upbeat and infectious track from *It's Never Been Like That (Deluxe Version)* showcases the bandâ€™s signature blend of indie rock and shimmering pop. Watch and listen below!</p> <!-- Featured Image -->

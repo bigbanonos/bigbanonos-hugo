@@ -1,10 +1,8 @@
 ---
 title: "Popcaan"
+slug: "popcaan"
 date: 2025-12-10
-category: "artist"
-track_count: 20
-first_year: 2014
-last_year: 2025
+layout: post
 tags:
   - '@popcaan'
   - '@popcaan-jafrass-quada'
@@ -16,7 +14,6 @@ tags:
   - 'soca'
   - 'afrobeats'
   - 'riddim'
-stub: true
 ---
 
 ## Popcaan

@@ -1,8 +1,8 @@
 ---
-title: "' 'Vince Staples'
-'"
+title: "Vince Staples"
+slug: "vince-staples"
 date: 2025-01-19
-original_title: "'Vince Staples - 18 Songs'"
+layout: post
 tags:
   - '@juicyj'
   - '@foushee'
@@ -11,8 +11,8 @@ tags:
   - '@sophie'
   - '@kendricklamar'
   - '@kucka'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonos' Top 18 Songs by Vince Staples</h1> <!-- Introductory Text -->
 <p >Updated May 24, 2024, with new tracks from <em>Dark Times</em>. Vince Staplesâ€™ conscious hip-hop sound continues to evolve, offering a blend of sharp lyricism and cutting-edge production. Here are BigBanonos' favorite tracks:</p> <!-- Featured Image -->

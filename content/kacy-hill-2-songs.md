@@ -1,13 +1,13 @@
 ---
-title: "' 'Kacy Hill'
-'"
+title: "Kacy Hill"
+slug: "kacy-hill"
 date: 2024-10-29
-original_title: "'Kacy Hill - 2 Songs'"
+layout: post
 tags:
   - '@kacyhill'
   - '@nourishedbytime'
-layout: post
 ---
+
 <h2>Kacy Hill: BigBanonos' Top Songs</h2>
 <p>Updated May 3, 2024, with "My Day Off"</p>
 <p>Explore <strong>Kacy Hill's</strong> top tracks, handpicked by BigBanonos, highlighting her unique pop stylings and introspective lyrics.</p> <h3>Playlist</h3>

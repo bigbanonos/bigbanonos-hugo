@@ -1,17 +1,14 @@
 ---
-title: "Jennifer Lopez;Ja Rule"
+title: "Jennifer Lopez Ja Rule"
+slug: "jennifer-lopez-ja-rule"
 date: 2001-01-16
-category: "artist"
-track_count: 2
-first_year: 1999
-last_year: 2001
+layout: post
 tags:
   - '@jennifer-lopez-ja-rule'
   - '@jennifer-lopez'
   - '00s-10s'
   - '1900s'
   - 'east coast hip hop'
-stub: true
 ---
 
 ## Jennifer Lopez;Ja Rule

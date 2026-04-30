@@ -1,15 +1,12 @@
 ---
 title: "Megapuss"
+slug: "megapuss"
 date: 2008-09-08
-category: "artist"
-track_count: 3
-first_year: 2008
-last_year: 2008
+layout: post
 tags:
   - '@megapuss'
   - '00s-10s'
   - 'anti-folk'
-stub: true
 ---
 
 ## Megapuss

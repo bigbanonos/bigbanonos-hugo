@@ -1,10 +1,8 @@
 ---
 title: "After Ours"
+slug: "after-ours"
 date: 2023-11-10
-category: "1off"
-genre_primary: "folk"
-genre_secondary: "indie"
-era: "2020s"
+layout: post
 tags:
   - '@afterours'
   - '1-off'

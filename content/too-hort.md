@@ -1,14 +1,14 @@
 ---
-title: "' 'Too $hort'
-'"
+title: "Too Hort"
+slug: "too-hort"
 date: 2024-12-17
-original_title: "'Too $hort'"
+layout: post
 tags:
   - '@too$hort'
   - '@parliamentfunadelic'
   - '@martinluther'
-layout: post
 ---
+
 <h1>BigBanonos Top Songs by Too $hort</h1>
 <div class="separator"> <a href="https://www.okayplayer.com/media-library/too-hort.jpg?id=33161506&width=980" > <img alt="Too $hort" border="0" width="320" data-original-height="480" data-original-width="640" src="https://www.okayplayer.com/media-library/too-hort.jpg?id=33161506&width=980"/> </a>
 </div>

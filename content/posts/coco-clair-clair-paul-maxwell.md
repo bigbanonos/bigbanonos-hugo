@@ -1,10 +1,8 @@
 ---
-title: "Coco & Clair Clair;Paul Maxwell"
+title: "Coco Clair Clair Paul Maxwell"
+slug: "coco-clair-clair-paul-maxwell"
 date: 2022-11-04
-category: "artist"
-track_count: 3
-first_year: 2017
-last_year: 2022
+layout: post
 tags:
   - '@coco-clair-clair-paul-maxwell'
   - '@coco-clair-clair'
@@ -13,7 +11,6 @@ tags:
   - '2020s'
   - 'hyperpop'
   - 'alté'
-stub: true
 ---
 
 ## Coco & Clair Clair;Paul Maxwell

@@ -1,7 +1,8 @@
 ---
 title: "Chronic Law"
+slug: "chronic-law"
 date: 2026-03-27
-category: "artist"
+layout: post
 tags:
   - '@chroniclaw'
   - '@bigzim'

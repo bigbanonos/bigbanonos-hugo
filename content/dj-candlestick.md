@@ -1,15 +1,15 @@
 ---
-title: "' 'DJ Candlestick'
-'"
+title: "Dj Candlestick"
+slug: "dj-candlestick"
 date: 2025-01-19
-original_title: "'DJ Candlestick'"
+layout: post
 tags:
   - '@ogronc'
   - '@djxo'
   - '@djcandlestick'
   - '@jmike'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by DJ Candlestick</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab6761610000517406ed9c3a24904467a25722ff" alt="DJ Candlestick" >}}

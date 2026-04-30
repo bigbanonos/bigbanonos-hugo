@@ -1,17 +1,14 @@
 ---
-title: "of Montreal"
+title: "Of Montreal"
+slug: "of-montreal"
 date: 2013-10-08
-category: "artist"
-track_count: 8
-first_year: 2002
-last_year: 2013
+layout: post
 tags:
   - '@of-montreal'
   - '00s-10s'
   - 'neo-psychedelic'
   - 'baroque pop'
   - 'art pop'
-stub: true
 ---
 
 ## of Montreal

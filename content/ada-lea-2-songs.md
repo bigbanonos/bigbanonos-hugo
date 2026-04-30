@@ -1,12 +1,12 @@
 ---
-title: "' 'Ada Lea'
-'"
+title: "Ada Lea"
+slug: "ada-lea"
 date: 2025-05-29
-original_title: "'Ada Lea - 4 Songs'"
+layout: post
 tags:
   - '@adalea'
-layout: post
 ---
+
 <!--Ada Lea-->
 <h2>BigBanonos' Favorite 4 Songs by Ada Lea</h2> <!--Introductory Text-->
 <p>Montreal indie artist Ada Lea brings a unique vibe to the indie pop scene. <em>BigBanonos' Favorite 4 Songs by Ada Lea, Last updated May 13, 2025, with â€œbaby blue frigidaire mini fridgeâ€ highlighted in the playlist below:</em></p> {{< youtube "UTBmCtsAma0" >}} <!--Featured Image-->

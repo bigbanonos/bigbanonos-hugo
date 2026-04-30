@@ -1,17 +1,14 @@
 ---
 title: "Dry Cleaning"
+slug: "dry-cleaning"
 date: 2023-03-01
-category: "artist"
-track_count: 2
-first_year: 2022
-last_year: 2023
+layout: post
 tags:
   - '@dry-cleaning'
   - '@dry-cleaning-nourished-by-time'
   - '2020s'
   - 'post-punk'
   - 'indie electronic'
-stub: true
 ---
 
 ## Dry Cleaning

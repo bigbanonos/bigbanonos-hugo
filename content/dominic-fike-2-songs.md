@@ -1,12 +1,12 @@
 ---
-title: "' 'Dominic Fike'
-'"
+title: "Dominic Fike"
+slug: "dominic-fike"
 date: 2024-10-27
-original_title: "'Dominic Fike - 2 Songs'"
+layout: post
 tags:
   - '@dominicfike'
-layout: post
 ---
+
 <p>Ãƒâ€šÃ‚Â </p>
 <h3><strong>BigBanonos' Top 2 Dominic Fike Songs</strong></h3>
 <p>Updated May 3, 2024 with "<i>hi grace</i>"</p> <ol> <li><p>"hi grace"<br />Album: <em>14 minutes</em><br />Release Date: May 3, 2024<br />Label: Columbia<br />Genres: Alternative Pop Rock, Indie</p></li> <li><p>"Hey Blondie"<br />Album: <em>Barbie The Album</em><br />Release Date: July 21, 2023<br />Label: Atlantic Records<br />Genres: Alternative Pop Rock, Indie</p></li>

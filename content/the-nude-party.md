@@ -1,12 +1,12 @@
 ---
-title: "' 'The Nude Party'
-'"
+title: "The Nude Party"
+slug: "the-nude-party"
 date: 2024-12-16
-original_title: "'The Nude Party'"
+layout: post
 tags:
   - '@nudeparty'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >The Nude Party - Records</h1> <!-- Introductory Text -->
 <p >*Records* by The Nude Party is a standout track from their self-titled album, showcasing their unique blend of neo-psychedelic and North Carolina indie vibes. Released on *New West Records* in 2018, this track captures the spirit of a generation in a raw and energetic way. Watch the official video below to immerse yourself in their world!</p> <!-- Featured Image -->

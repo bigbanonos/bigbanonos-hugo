@@ -1,15 +1,12 @@
 ---
 title: "Yoke Lore"
+slug: "yoke-lore"
 date: 2017-10-11
-category: "artist"
-track_count: 2
-first_year: 2017
-last_year: 2017
+layout: post
 tags:
   - '@yoke-lore'
   - '@yayahoni'
   - '00s-10s'
-stub: true
 ---
 
 ## Yoke Lore

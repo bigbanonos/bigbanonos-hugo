@@ -1,12 +1,12 @@
 ---
-title: "' 'Sonny & The Sunsets'
-'"
+title: "Sonny Sunsets"
+slug: "sonny-sunsets"
 date: 2024-12-30
-original_title: "'Sonny & The Sunsets'"
+layout: post
 tags:
   - '@sonnyandthesunsets'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonos Favorite Song by Sonny & The Sunsets: "Too Young to Burn"</h1> <!-- Introductory Text -->
 <p >Updated with "Too Young to Burn" by Sonny & The Sunsets. This 2010 bay area indie track is a blend of charm and introspection. Watch the video below!</p> <!-- Featured Image -->

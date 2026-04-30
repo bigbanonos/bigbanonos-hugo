@@ -1,10 +1,8 @@
 ---
 title: "Ministry"
+slug: "ministry"
 date: 2006-04-10
-category: "artist"
-track_count: 4
-first_year: 1992
-last_year: 2006
+layout: post
 tags:
   - '@ministry'
   - '00s-10s'
@@ -13,7 +11,6 @@ tags:
   - 'industrial metal'
   - 'industrial rock'
   - 'ebm'
-stub: true
 ---
 
 ## Ministry

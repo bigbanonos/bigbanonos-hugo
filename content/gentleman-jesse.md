@@ -1,12 +1,12 @@
 ---
-title: "' 'Gentleman Jesse'
-'"
+title: "Gentleman Jesse"
+slug: "gentleman-jesse"
 date: 2025-02-12
-original_title: "'Gentleman Jesse'"
+layout: post
 tags:
   - '@gentlemanjesse'
-layout: post
 ---
+
 <div> {{< img-lite src="https://i.scdn.co/image/ab67616d0000b27355707a1fee3159f6fe194dcf" alt="Gentleman Jesse" >}}
 </div> <p>
 BigBanonos' favorite tracks by Gentleman Jesse:

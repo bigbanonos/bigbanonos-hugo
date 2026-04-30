@@ -1,10 +1,8 @@
 ---
 title: "Kapote"
+slug: "kapote"
 date: 2019-11-29
-category: "artist"
-track_count: 2
-first_year: 2019
-last_year: 2019
+layout: post
 tags:
   - '@kapote'
   - '00s-10s'
@@ -12,7 +10,6 @@ tags:
   - 'lo-fi house'
   - 'italo disco'
   - 'disco house'
-stub: true
 ---
 
 ## Kapote

@@ -1,10 +1,8 @@
 ---
 title: "Sonic Youth"
+slug: "sonic-youth"
 date: 2004-06-08
-category: "artist"
-track_count: 5
-first_year: 1984
-last_year: 2004
+layout: post
 tags:
   - '@sonic-youth'
   - '@sonic-youth-lydia-lunch'
@@ -14,7 +12,6 @@ tags:
   - 'grunge'
   - 'alternative rock'
   - 'post-punk'
-stub: true
 ---
 
 ## Sonic Youth

@@ -1,15 +1,12 @@
 ---
 title: "The Vaselines"
+slug: "the-vaselines"
 date: 2009-05-05
-category: "artist"
-track_count: 2
-first_year: 2009
-last_year: 2009
+layout: post
 tags:
   - '@the-vaselines'
   - '00s-10s'
   - 'jangle pop'
-stub: true
 ---
 
 ## The Vaselines

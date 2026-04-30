@@ -1,16 +1,13 @@
 ---
-title: "BANKS"
+title: "Banks"
+slug: "banks"
 date: 2024-12-13
-category: "artist"
-track_count: 9
-first_year: 2013
-last_year: 2024
+layout: post
 tags:
   - '@banks'
   - '@banks-snakehips'
   - '00s-10s'
   - '2020s'
-stub: true
 ---
 
 ## BANKS

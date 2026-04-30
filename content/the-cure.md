@@ -1,12 +1,12 @@
 ---
-title: "' 'The Cure'
-'"
+title: "The Cure"
+slug: "the-cure"
 date: 2025-01-21
-original_title: "'The Cure'"
+layout: post
 tags:
   - '@cure'
-layout: post
 ---
+
 <!--Title of the Post-->
 <h1>BigBanonos' Top Songs by The Cure</h1> <!--Introductory Text-->
 <p>The Cure's unmistakable blend of new wave, post-punk, and rock has inspired generations of fans and musicians alike. From heartfelt ballads to high-energy anthems, their music captures a spectrum of emotion that resonates deeply with listeners worldwide. Here's a comprehensive list of BigBanonos' favorite songs by The Cure.</p> <!--Featured Image-->

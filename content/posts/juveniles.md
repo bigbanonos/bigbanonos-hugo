@@ -1,10 +1,8 @@
 ---
 title: "Juveniles"
+slug: "juveniles"
 date: 2012-06-11
-category: "artist"
-track_count: 2
-first_year: 2009
-last_year: 2012
+layout: post
 tags:
   - '@juveniles'
   - '@the-juveniles'
@@ -13,7 +11,6 @@ tags:
   - 'garage rock'
   - 'acid rock'
   - 'doo-wop'
-stub: true
 ---
 
 ## Juveniles

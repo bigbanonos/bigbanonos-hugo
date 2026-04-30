@@ -1,15 +1,12 @@
 ---
 title: "Peter Gabriel"
+slug: "peter-gabriel"
 date: 1982-09-06
-category: "artist"
-track_count: 3
-first_year: 1977
-last_year: 1982
+layout: post
 tags:
   - '@peter-gabriel'
   - '1900s'
   - 'art rock'
-stub: true
 ---
 
 ## Peter Gabriel

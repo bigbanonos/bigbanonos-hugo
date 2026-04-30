@@ -1,15 +1,12 @@
 ---
 title: "Ro James"
+slug: "ro-james"
 date: 2020-05-29
-category: "artist"
-track_count: 2
-first_year: 2017
-last_year: 2020
+layout: post
 tags:
   - '@ro-james'
   - '00s-10s'
   - '2020s'
-stub: true
 ---
 
 ## Ro James

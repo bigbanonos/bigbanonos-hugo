@@ -1,12 +1,12 @@
 ---
-title: "' 'Nonso Amadi'
-'"
+title: "Nonso Amadi"
+slug: "nonso-amadi"
 date: 2024-12-15
-original_title: "'Nonso Amadi'"
+layout: post
 tags:
   - '@nonsoamadi'
-layout: post
 ---
+
 <!-- Post Title -->
 <h1 >BigBanonos' Favorite Tracks: Nonso Amadi - "Emergency"</h1> <!-- Introductory Text -->
 <p >Updated March 1, 2019, with "Emergency" by Nonso Amadi. This track from the album <em>Emergency</em>, released under Platoon, blends smooth R&B with Afrobeats and Nigerian pop influences, showcasing Amadiâ€™s ability to fuse genres for a unique sound.</p> <!-- Featured Image -->

@@ -1,15 +1,12 @@
 ---
 title: "Michelle Williams"
+slug: "michelle-williams"
 date: 1983-10-28
-category: "artist"
-track_count: 2
-first_year: 1983
-last_year: 1983
+layout: post
 tags:
   - '@michelle-williams'
   - '1900s'
   - 'funk rock'
-stub: true
 ---
 
 ## Michelle Williams

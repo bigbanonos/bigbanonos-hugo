@@ -1,12 +1,12 @@
 ---
-title: "' 'Pokey LaFarge'
-'"
+title: "Pokey Lafarge"
+slug: "pokey-lafarge"
 date: 2016-02-06
-original_title: "'Pokey LaFarge'"
+layout: post
 tags:
   - '@pokeylafarge'
-layout: post
 ---
+
 #stlouis: live <br />
 <blockquote class="twitter-tweet" lang="en">
 <div dir="ltr" lang="und">

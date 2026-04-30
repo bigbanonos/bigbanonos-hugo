@@ -1,12 +1,12 @@
 ---
-title: "' 'Buckwheat Zydeco'
-'"
+title: "Buckwheat Zydeco"
+slug: "buckwheat-zydeco"
 date: 2024-12-02
-original_title: "'Buckwheat Zydeco'"
+layout: post
 tags:
   - '@buckwheatzydeco'
-layout: post
 ---
+
 <!-- Post Title -->
 <h1 >BigBanonos' Favorite Song by Buckwheat Zydeco</h1> <!-- Introductory Text -->
 <p >Updated September 18, 2001, with BigBanonos' favorite track by Buckwheat Zydeco, "Ya Ya." This zydeco classic, featured on the *Buckwheat's Zydeco Party (Deluxe Edition)* released by Rounder Records, is a vibrant celebration of the genre. Watch the video and see more details below:</p> <!-- Featured Image -->

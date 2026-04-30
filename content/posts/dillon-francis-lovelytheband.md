@@ -1,10 +1,8 @@
 ---
-title: "Dillon Francis;lovelytheband"
+title: "Dillon Francis Lovelytheband"
+slug: "dillon-francis-lovelytheband"
 date: 2019-03-29
-category: "artist"
-track_count: 4
-first_year: 2017
-last_year: 2019
+layout: post
 tags:
   - '@dillon-francis-lovelytheband'
   - '@dillon-francis-fuego'
@@ -15,7 +13,6 @@ tags:
   - 'edm'
   - 'melodic rap'
   - 'trap latino'
-stub: true
 ---
 
 ## Dillon Francis;lovelytheband

@@ -1,12 +1,12 @@
 ---
-title: "' 'The Divine Comedy'
-'"
+title: "The Divine Comedy"
+slug: "the-divine-comedy"
 date: 2025-01-21
-original_title: "'The Divine Comedy'"
+layout: post
 tags:
   - '@divinecomedy'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1>BigBanonos' Favorite Songs by The Divine Comedy</h1> <!-- Introductory Text -->
 <p>The Divine Comedy crafts beautiful baroque and chamber pop melodies with storytelling that resonates deeply. Hereâ€™s BigBanonos' selection of their finest tracks.</p> <!-- Featured Image -->

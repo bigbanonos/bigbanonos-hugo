@@ -1,14 +1,14 @@
 ---
-title: "' 'Normani'
-'"
+title: "Normani"
+slug: "normani"
 date: 2024-11-01
-original_title: "'Normani -  4 Songs'"
+layout: post
 tags:
   - '@starrah'
   - '@cardib'
   - '@normani'
-layout: post
 ---
+
 <p>{{< youtube "embed" >}}</p> <p><strong>Updated June 14, 2024 with "Big Boy" feat. Starrah.</strong></p> <p><strong>BigBanonos' favorite Normani tracks</strong> showcase her unique blend of pop and R&B sounds, from chart-topping collaborations to solo gems. Find the full playlist above and follow BigBanonos for more on today's best tracks.</p> <p><strong>Songs:</strong><br />
 1. <em>Big Boy (feat. Starrah)</em> â€“ <em>DOPAMINE</em>, 2024-06-14<br />
 2. <em>Candy Paint</em> â€“ <em>Candy Paint</em>, 2024-05-31<br />

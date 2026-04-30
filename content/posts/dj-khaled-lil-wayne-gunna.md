@@ -1,10 +1,8 @@
 ---
-title: "DJ Khaled;Lil Wayne;Gunna"
+title: "Dj Khaled Lil Wayne Gunna"
+slug: "dj-khaled-lil-wayne-gunna"
 date: 2023-08-11
-category: "artist"
-track_count: 7
-first_year: 2017
-last_year: 2023
+layout: post
 tags:
   - '@dj-khaled-lil-wayne-gunna'
   - '@dj-khaled-beyonc-ja-z'
@@ -19,7 +17,6 @@ tags:
   - 'hip hop'
   - 'east coast hip hop'
   - 'melodic rap'
-stub: true
 ---
 
 ## DJ Khaled;Lil Wayne;Gunna

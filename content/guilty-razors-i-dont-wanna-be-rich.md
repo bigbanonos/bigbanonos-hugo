@@ -1,12 +1,12 @@
 ---
-title: "' 'Guilty Razors'
-'"
+title: "Guilty Razors I Dont Wanna Be Rich"
+slug: "guilty-razors-i-dont-wanna-be-rich"
 date: 2024-12-30
-original_title: "'Guilty Razors'"
+layout: post
 tags:
   - '@guiltyrazors'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonos Favorite Song by Guilty Razors: "I Don't Wanna Be A Rich"</h1> <!-- Introductory Text -->
 <p >Updated October 14, 2013, with "I Don't Wanna Be A Rich" by Guilty Razors. This fiery track, originally released in 1978, is featured on the compilation *Paink French Punk Anthems (1977-1982)* and captures the raw energy of early French punk. Watch the video below!</p> <!-- Featured Image -->

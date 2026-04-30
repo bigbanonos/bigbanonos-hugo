@@ -1,10 +1,8 @@
 ---
-title: "Braxe + Falcon;Alan Braxe;DJ Falcon;Panda Bear"
+title: "Braxe Falcon Alan Braxe Dj Falcon Panda Bear"
+slug: "braxe-falcon-alan-braxe-dj-falcon-panda-bear"
 date: 2022-03-29
-category: "artist"
-track_count: 2
-first_year: 2022
-last_year: 2022
+layout: post
 tags:
   - '@braxe-falcon-alan-braxe-dj-falcon-panda-bear'
   - '@braxe-falcon-alan-braxe-dj-falcon'
@@ -12,7 +10,6 @@ tags:
   - 'french house'
   - 'disco house'
   - 'neo-psychedelic'
-stub: true
 ---
 
 ## Braxe + Falcon;Alan Braxe;DJ Falcon;Panda Bear

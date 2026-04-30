@@ -1,12 +1,12 @@
 ---
-title: "' 'Neko Case'
-'"
+title: "Neko Case"
+slug: "neko-case"
 date: 2024-12-15
-original_title: "'Neko Case'"
+layout: post
 tags:
   - '@nekocase'
-layout: post
 ---
+
 <!-- Post Title -->
 <h1 >BigBanonos' Favorite Tracks: Neko Case - "Star Witness"</h1> <!-- Introductory Text -->
 <p >Updated April 15, 2008, with "Star Witness" by Neko Case. This standout track from the album <em>Fox Confessor Brings The Flood (Bonus Track Version)</em>, released under Anti/Epitaph, blends alternative country with chamber pop, showcasing Caseâ€™s distinctive voice and lyrical depth.</p> <!-- Featured Image -->

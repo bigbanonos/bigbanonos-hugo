@@ -1,12 +1,12 @@
 ---
-title: "' 'The Psychedelic Furs'
-'"
+title: "The Psychedelic Furs"
+slug: "the-psychedelic-furs"
 date: 2024-12-17
-original_title: "'The Psychedelic Furs'"
+layout: post
 tags:
   - '@psychedelicfurs'
-layout: post
 ---
+
 <h1>BigBanonos Top Songs by The Psychedelic Furs</h1>
 <div class="separator"> <a href="https://images.squarespace-cdn.com/content/v1/5a53963f51a5846720efd0bb/1588985618837-EWOVDOZLX6ZJ192U07V7/Screenshot+2020-05-09+at+01.48.14.png?format=1500w" > <img alt="The Psychedelic Furs" border="0" width="320" data-original-height="480" data-original-width="640" src="https://images.squarespace-cdn.com/content/v1/5a53963f51a5846720efd0bb/1588985618837-EWOVDOZLX6ZJ192U07V7/Screenshot+2020-05-09+at+01.48.14.png?format=1500w"/> </a>
 </div>

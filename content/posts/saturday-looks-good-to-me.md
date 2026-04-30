@@ -1,15 +1,12 @@
 ---
 title: "Saturday Looks Good To Me"
+slug: "saturday-looks-good-to-me"
 date: 2013-05-21
-category: "artist"
-track_count: 3
-first_year: 2003
-last_year: 2013
+layout: post
 tags:
   - '@saturday-looks-good-to-me'
   - '00s-10s'
   - 'jangle pop'
-stub: true
 ---
 
 ## Saturday Looks Good To Me

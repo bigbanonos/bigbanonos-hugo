@@ -1,17 +1,14 @@
 ---
 title: "Bobby Womack"
+slug: "bobby-womack"
 date: 2012-06-08
-category: "artist"
-track_count: 2
-first_year: 1993
-last_year: 2012
+layout: post
 tags:
   - '@bobby-womack'
   - '00s-10s'
   - '1900s'
   - 'soul'
   - 'classic soul'
-stub: true
 ---
 
 ## Bobby Womack

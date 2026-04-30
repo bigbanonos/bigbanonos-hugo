@@ -1,12 +1,12 @@
 ---
-title: "' 'Rostam'
-'"
+title: "Rostam"
+slug: "rostam"
 date: 2024-12-20
-original_title: "'Rostam - 2 Songs'"
+layout: post
 tags:
   - '@rostam'
-layout: post
 ---
+
 <h1>BigBanonos Top Songs by Rostam</h1>
 <img alt="Rostam" src="https://consequence.net/wp-content/uploads/2017/09/rostam-2016.png" /> <p>Rostamâ€™s distinct sound combines art pop sensibilities with emotive lyrics, creating music that resonates on multiple levels. Here are BigBanonos' top selections:</p> <ol> <li><strong>Next Thing</strong> | <em>Changephobia</em> | Matsor Projects | Released: June 4, 2021</li> <li><strong>From The Back of a Cab</strong> | <em>From The Back of a Cab</em> | Matsor Projects | Released: May 4, 2021</li>
 </ol> <div> {{< youtube "embed" >}}

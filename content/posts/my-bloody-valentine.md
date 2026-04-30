@@ -1,10 +1,8 @@
 ---
-title: "my bloody valentine"
+title: "My Bloody Valentine"
+slug: "my-bloody-valentine"
 date: 1991-11-04
-category: "artist"
-track_count: 2
-first_year: 1991
-last_year: 1991
+layout: post
 tags:
   - '@my-bloody-valentine'
   - '1900s'
@@ -12,7 +10,6 @@ tags:
   - 'dream pop'
   - 'slowcore'
   - 'noise rock'
-stub: true
 ---
 
 ## my bloody valentine

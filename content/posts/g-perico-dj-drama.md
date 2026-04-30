@@ -1,17 +1,14 @@
 ---
-title: "G Perico;DJ Drama"
+title: "G Perico Dj Drama"
+slug: "g-perico-dj-drama"
 date: 2023-03-10
-category: "artist"
-track_count: 2
-first_year: 2023
-last_year: 2023
+layout: post
 tags:
   - '@g-perico-dj-drama'
   - '2020s'
   - 'west coast hip hop'
   - 'g-funk'
   - 'southern hip hop'
-stub: true
 ---
 
 ## G Perico;DJ Drama

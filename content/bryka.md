@@ -1,12 +1,12 @@
 ---
-title: "' 'Bryka'
-'"
+title: "Bryka"
+slug: "bryka"
 date: 2024-12-02
-original_title: "'Bryka'"
+layout: post
 tags:
   - '@bryka'
-layout: post
 ---
+
 <!-- Post Title -->
 <h1 >BigBanonos' Favorite Song by Bryka</h1> <!-- Introductory Text -->
 <p >Updated August 19, 2016, with BigBanonos' favorite track by Bryka, "Gimme Yuh Love." Featured on the *Tropical House Riddim* from Konsequence Muzik and VPAL Music, this Jamaican dancehall hit is packed with irresistible rhythms. Watch the video and see more details below:</p> <!-- Featured Image -->

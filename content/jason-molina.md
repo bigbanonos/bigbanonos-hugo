@@ -1,12 +1,12 @@
 ---
-title: "' 'Jason Molina'
-'"
+title: "Jason Molina"
+slug: "jason-molina"
 date: 2025-01-18
-original_title: "'Jason Molina'"
+layout: post
 tags:
   - '@jasonmolina'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonos Favorite Songs by Jason Molina</h1> <!-- Introductory Text -->
 <p >Updated May 21, 2020, with "Shadow Answers the Wall" from <em>Shadow Answers the Wall</em>. Delve into the haunting alternative country of Jason Molina in the playlist below!</p> <!-- Featured Image -->

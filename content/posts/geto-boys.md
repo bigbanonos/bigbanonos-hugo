@@ -1,10 +1,8 @@
 ---
 title: "Geto Boys"
+slug: "geto-boys"
 date: 2002-11-19
-category: "artist"
-track_count: 3
-first_year: 1991
-last_year: 2002
+layout: post
 tags:
   - '@geto-boys'
   - '00s-10s'
@@ -13,7 +11,6 @@ tags:
   - 'southern hip hop'
   - 'gangster rap'
   - 'g-funk'
-stub: true
 ---
 
 ## Geto Boys

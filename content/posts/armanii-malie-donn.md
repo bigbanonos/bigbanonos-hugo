@@ -1,17 +1,14 @@
 ---
-title: "Armanii;Malie Donn"
+title: "Armanii Malie Donn"
+slug: "armanii-malie-donn"
 date: 2025-12-12
-category: "artist"
-track_count: 2
-first_year: 2025
-last_year: 2025
+layout: post
 tags:
   - '@armanii-malie-donn'
   - '@armanii-sortie'
   - '2020s'
   - 'dancehall'
   - 'soca'
-stub: true
 ---
 
 ## Armanii;Malie Donn

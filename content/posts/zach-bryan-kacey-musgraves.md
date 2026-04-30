@@ -1,10 +1,8 @@
 ---
-title: "Zach Bryan;Kacey Musgraves"
+title: "Zach Bryan Kacey Musgraves"
+slug: "zach-bryan-kacey-musgraves"
 date: 2024-07-04
-category: "artist"
-track_count: 4
-first_year: 2023
-last_year: 2024
+layout: post
 tags:
   - '@zach-bryan-kacey-musgraves'
   - '@zach-bryan-bon-iver'
@@ -15,7 +13,6 @@ tags:
   - 'red dirt'
   - 'folk pop'
   - 'indie folk'
-stub: true
 ---
 
 ## Zach Bryan;Kacey Musgraves

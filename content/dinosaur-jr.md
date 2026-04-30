@@ -1,12 +1,12 @@
 ---
-title: "' 'Dinosaur Jr'
-'"
+title: "Dinosaur Jr"
+slug: "dinosaur-jr"
 date: 2024-12-17
-original_title: "'Dinosaur Jr'"
+layout: post
 tags:
   - '@dinosaurjr'
-layout: post
 ---
+
 <h2>Dinosaur Jr. â€“ Essential Tracks</h2> <div > <img src="https://theconcertdatabase.com/sites/theconcertdatabase.com/files/dinojr.jpg" alt="Dinosaur Jr." width="400" />
 </div> {{< youtube "embed" >}} <h3>Tracklist</h3>
 <ul> <li><strong>Almost Ready</strong> â€“ <em>Beyond</em> (2007)</li> <li><strong>Take A Run At The Sun</strong> â€“ <em>Hand It Over</em> (1997)</li> <li><strong>Feel the Pain</strong> â€“ <em>Without a Sound</em> (1994)</li> <li><strong>Get Me</strong> â€“ <em>Where You Been</em> (1993)</li> <li><strong>Start Choppin'</strong> â€“ <em>Where You Been [Digital Version]</em> (1993)</li>

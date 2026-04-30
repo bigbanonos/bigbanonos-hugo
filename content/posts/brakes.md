@@ -1,14 +1,11 @@
 ---
 title: "Brakes"
+slug: "brakes"
 date: 2009-04-20
-category: "artist"
-track_count: 5
-first_year: 2005
-last_year: 2009
+layout: post
 tags:
   - '@brakes'
   - '00s-10s'
-stub: true
 ---
 
 ## Brakes

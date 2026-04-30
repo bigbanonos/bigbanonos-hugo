@@ -1,10 +1,8 @@
 ---
 title: "Brent Faiyaz"
+slug: "brent-faiyaz"
 date: 2026-02-13
-category: "artist"
-track_count: 13
-first_year: 2017
-last_year: 2026
+layout: post
 tags:
   - '@brent-faiyaz'
   - '@brent-faiyaz-2-chainz'
@@ -16,7 +14,6 @@ tags:
   - 'r&b'
   - 'southern hip hop'
   - 'rap'
-stub: true
 ---
 
 ## Brent Faiyaz

@@ -1,12 +1,12 @@
 ---
-title: "' 'The Cars'
-'"
+title: "The Cars"
+slug: "the-cars"
 date: 2025-01-17
-original_title: "'The Cars'"
+layout: post
 tags:
   - '@cars'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by The Cars</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://mediaproxy.salon.com/width/1200/https://media2.salon.com/2017/08/the-cars.jpg" alt="The Cars" >}}

@@ -1,14 +1,11 @@
 ---
 title: "Aloe Blacc"
+slug: "aloe-blacc"
 date: 2010-01-01
-category: "artist"
-track_count: 2
-first_year: 2006
-last_year: 2010
+layout: post
 tags:
   - '@aloe-blacc'
   - '00s-10s'
-stub: true
 ---
 
 ## Aloe Blacc

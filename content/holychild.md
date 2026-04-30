@@ -1,12 +1,12 @@
 ---
-title: "' 'HOLYCHILD'
-'"
+title: "Holychild"
+slug: "holychild"
 date: 2024-12-12
-original_title: "'HOLYCHILD'"
+layout: post
 tags:
   - '@holychild'
-layout: post
 ---
+
 <!-- Post Title -->
 <h1 >BigBanonos' Favorite Tracks: HOLYCHILD - "Happy With Me"</h1> <!-- Introductory Text -->
 <p >Updated June 2, 2015, with "Happy With Me" by HOLYCHILD. This track defines their unique "brat pop" sound, bringing a playful yet introspective vibe to indie pop from their celebrated album, <em>The Shape of Brat Pop to Come</em>.</p> <!-- Featured Image -->

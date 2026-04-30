@@ -1,12 +1,12 @@
 ---
-title: "' 'Rupert Hine'
-'"
+title: "Rupert Hine"
+slug: "rupert-hine"
 date: 2024-12-29
-original_title: "'Rupert Hine'"
+layout: post
 tags:
   - '@ruperthine'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonos Favorite Song by Rupert Hine: "Misplaced Love"</h1> <!-- Introductory Text -->
 <p >Updated in 1981 with "Misplaced Love" by Rupert Hine. This evocative track, a standout from his album, captures the atmospheric and experimental sound Rupert Hine was renowned for in the 80s. Watch and listen below!</p> <!-- Featured Image -->

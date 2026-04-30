@@ -1,10 +1,8 @@
 ---
 title: "Lizzo"
+slug: "lizzo"
 date: 2023-02-09
-category: "artist"
-track_count: 3
-first_year: 2019
-last_year: 2023
+layout: post
 tags:
   - '@lizzo'
   - '@lizzo-dababy'
@@ -12,7 +10,6 @@ tags:
   - '00s-10s'
   - '2020s'
   - 'r&b'
-stub: true
 ---
 
 ## Lizzo

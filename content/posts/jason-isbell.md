@@ -1,10 +1,8 @@
 ---
 title: "Jason Isbell"
+slug: "jason-isbell"
 date: 2025-03-07
-category: "artist"
-track_count: 9
-first_year: 2007
-last_year: 2025
+layout: post
 tags:
   - '@jason-isbell'
   - '@jason-isbell-and-the-400-unit'
@@ -14,7 +12,6 @@ tags:
   - 'americana'
   - 'roots rock'
   - 'red dirt'
-stub: true
 ---
 
 ## Jason Isbell

@@ -1,10 +1,8 @@
 ---
 title: "Rancid"
+slug: "rancid"
 date: 1998-07-14
-category: "artist"
-track_count: 3
-first_year: 1995
-last_year: 1998
+layout: post
 tags:
   - '@rancid'
   - '1900s'
@@ -12,7 +10,6 @@ tags:
   - 'ska punk'
   - 'ska'
   - 'skate punk'
-stub: true
 ---
 
 ## Rancid

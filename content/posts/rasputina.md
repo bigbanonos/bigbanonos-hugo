@@ -1,15 +1,12 @@
 ---
 title: "Rasputina"
+slug: "rasputina"
 date: 2010-06-15
-category: "artist"
-track_count: 13
-first_year: 1998
-last_year: 2010
+layout: post
 tags:
   - '@rasputina'
   - '00s-10s'
   - '1900s'
-stub: true
 ---
 
 ## Rasputina

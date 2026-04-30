@@ -1,10 +1,8 @@
 ---
 title: "Tyler"
+slug: "tyler"
 date: 2025-07-21
-category: "artist"
-track_count: 10
-first_year: 2019
-last_year: 2025
+layout: post
 tags:
   - '@tyler'
   - '@the-creator'
@@ -19,7 +17,6 @@ tags:
   - 'r&b'
   - 'alternative r&b'
   - 'rap'
-stub: true
 ---
 
 ## Tyler

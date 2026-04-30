@@ -1,10 +1,8 @@
 ---
-title: "Darkoo;One Acen"
+title: "Darkoo One Acen"
+slug: "darkoo-one-acen"
 date: 2019-12-27
-category: "artist"
-track_count: 2
-first_year: 2019
-last_year: 2019
+layout: post
 tags:
   - '@darkoo-one-acen'
   - '@darkoo-davido-tion-wayne-sl'
@@ -13,7 +11,6 @@ tags:
   - 'afroswing'
   - 'afrobeat'
   - 'uk drill'
-stub: true
 ---
 
 ## Darkoo;One Acen

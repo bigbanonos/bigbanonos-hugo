@@ -1,12 +1,12 @@
 ---
-title: "' 'King Khan'
-'"
+title: "King Khan"
+slug: "king-khan"
 date: 2025-02-12
-original_title: "'King Khan'"
+layout: post
 tags:
   - '@kingkhan'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1>BigBanonosâ€™ Favorite Songs by King Khan</h1> <!-- Introductory Text -->
 <p>King Khan blends garage rock, psychedelic soul, and punk blues into a riotous cocktail of sound. BigBanonos highlights the best tracks from this genre-defying artist and his collaborators.</p> <!-- Featured Image -->

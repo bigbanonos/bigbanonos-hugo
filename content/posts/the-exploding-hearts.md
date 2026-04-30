@@ -1,16 +1,13 @@
 ---
 title: "The Exploding Hearts"
+slug: "the-exploding-hearts"
 date: 2003-04-01
-category: "artist"
-track_count: 6
-first_year: 2003
-last_year: 2003
+layout: post
 tags:
   - '@the-exploding-hearts'
   - '00s-10s'
   - 'power pop'
   - 'garage rock'
-stub: true
 ---
 
 ## The Exploding Hearts

@@ -1,12 +1,12 @@
 ---
-title: "' 'Okkervil River'
-'"
+title: "Okkervil River"
+slug: "okkervil-river"
 date: 2025-01-16
-original_title: "'Okkervil River'"
+layout: post
 tags:
   - '@okkervilriver'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1>BigBanonosâ€™ Favorite Songs by Okkervil River</h1> <!-- Introductory Text -->
 <p>Okkervil Riverâ€™s discography weaves heartfelt storytelling with lush instrumentation, making them a standout in the indie and folk-rock world. This comprehensive list highlights their most evocative and memorable tracks, spanning their illustrious career.</p> <!-- Featured Image -->

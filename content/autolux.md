@@ -1,12 +1,12 @@
 ---
-title: "' 'Autolux'
-'"
+title: "Autolux"
+slug: "autolux"
 date: 2024-12-26
-original_title: "'Autolux'"
+layout: post
 tags:
   - '@autolux'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonos Favorite Song by Autolux: "Sugarless"</h1> <!-- Introductory Text -->
 <p >Updated October 26, 2004, with "Sugarless" by Autolux. This hauntingly atmospheric track from their debut album captures the bandâ€™s unique fusion of shoegaze and alternative rock. Watch the video below!</p> <!-- Featured Image -->

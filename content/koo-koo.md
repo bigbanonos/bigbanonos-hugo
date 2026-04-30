@@ -1,12 +1,12 @@
 ---
-title: "' 'Koo Koo'
-'"
+title: "Koo Koo"
+slug: "koo-koo"
 date: 2024-12-13
-original_title: "'Koo Koo'"
+layout: post
 tags:
   - '@kookoo'
-layout: post
 ---
+
 <!-- Post Title -->
 <h1 >BigBanonos' Favorite Tracks: Koo Koo - "Pop See Ko"</h1> <!-- Introductory Text -->
 <p >Updated May 20, 2016, with "Pop See Ko" by Koo Koo. This funand energetic kids' hip hop track from <em>Cafetorium Songs, Vol. 1</em> is a favorite for all ages, bringing joy and movement to listeners everywhere.</p> <!-- Featured Image -->

@@ -1,12 +1,12 @@
 ---
-title: "' 'Mark Kozelek'
-'"
+title: "Mark Kozelek Desertshore Hey You"
+slug: "mark-kozelek-desertshore-hey-you"
 date: 2024-11-27
-original_title: "'Mark Kozelek'"
+layout: post
 tags:
   - '@markkozelek'
-layout: post
 ---
+
 <h1>BigBanonos Top Songs by Mark Kozelek</h1>
 <img alt="Mark Kozelek" src="https://media.pitchfork.com/photos/592c6e8deb335119a49f2285/2:1/w_2560%2Cc_limit/dbf7ca09.jpg" /> <p>Mark Kozelek, known for his melancholic slowcore style, has captured the hearts of fans with his introspective lyrics and haunting melodies. Hereâ€™s a selection of BigBanonos' favorite tracks:</p> <ol> <li><strong>Glenn Tipton</strong> | <em>Little Drummer Boy - Live</em> | Caldo Verde Records | Released: 2006</li> <li><strong>Caroline</strong> | <em>Perils from the Sea</em> | Caldo Verde Records | Released: April 30, 2013</li> <li><strong>Livingstone Bramble</strong> | <em>Mark Kozelek & Desertshore</em> | Caldo Verde Records | Released: August 20, 2013</li> <li><strong>Hey You Bastard I'm Still Here</strong> | <em>Mark Kozelek & Desertshore</em> | Caldo Verde Records | Released: August 20, 2013</li>
 </ol> <div> {{< youtube "embed" >}}

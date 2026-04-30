@@ -1,17 +1,14 @@
 ---
-title: "Ireland Boss;Chronic Law"
+title: "Ireland Boss Chronic Law"
+slug: "ireland-boss-chronic-law"
 date: 2024-05-17
-category: "artist"
-track_count: 3
-first_year: 2023
-last_year: 2024
+layout: post
 tags:
   - '@ireland-boss-chronic-law'
   - '@ireland-boss-malie-donn'
   - '2020s'
   - 'dancehall'
   - 'soca'
-stub: true
 ---
 
 ## Ireland Boss;Chronic Law

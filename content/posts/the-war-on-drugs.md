@@ -1,15 +1,12 @@
 ---
 title: "The War On Drugs"
+slug: "the-war-on-drugs"
 date: 2008-06-17
-category: "artist"
-track_count: 2
-first_year: 2008
-last_year: 2008
+layout: post
 tags:
   - '@the-war-on-drugs'
   - '00s-10s'
   - 'indie rock'
-stub: true
 ---
 
 ## The War On Drugs

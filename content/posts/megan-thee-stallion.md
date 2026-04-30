@@ -1,10 +1,8 @@
 ---
 title: "Megan Thee Stallion"
+slug: "megan-thee-stallion"
 date: 2025-04-25
-category: "artist"
-track_count: 15
-first_year: 2019
-last_year: 2025
+layout: post
 tags:
   - '@megan-thee-stallion'
   - '@megan-thee-stallion-beyonc'
@@ -15,7 +13,6 @@ tags:
   - '2020s'
   - 'southern hip hop'
   - 'crunk'
-stub: true
 ---
 
 ## Megan Thee Stallion

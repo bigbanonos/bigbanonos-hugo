@@ -1,10 +1,8 @@
 ---
-title: "JID;BabyTron;Lil Yachty"
+title: "Jid Babytron Lil Yachty"
+slug: "jid-babytron-lil-yachty"
 date: 2025-08-07
-category: "artist"
-track_count: 6
-first_year: 2022
-last_year: 2025
+layout: post
 tags:
   - '@jid-babytron-lil-yachty'
   - '@jid'
@@ -15,7 +13,6 @@ tags:
   - '2020s'
   - 'chicago drill'
   - 'drill'
-stub: true
 ---
 
 ## JID;BabyTron;Lil Yachty

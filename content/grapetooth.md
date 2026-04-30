@@ -1,12 +1,12 @@
 ---
-title: "' 'Grapetooth'
-'"
+title: "Grapetooth"
+slug: "grapetooth"
 date: 2024-12-13
-original_title: "'Grapetooth'"
+layout: post
 tags:
   - '@grapetooth'
-layout: post
 ---
+
 <!-- Post Title -->
 <h1 >BigBanonos' Favorite Tracks: Grapetooth - "Red Wine"</h1> <!-- Introductory Text -->
 <p >Updated November 9, 2018, with "Red Wine" by Grapetooth. This energetic indie gem from their self-titled debut album captures the Chicago duo's unique blend of garage rock and synth-driven melodies.</p> <!-- Featured Image -->

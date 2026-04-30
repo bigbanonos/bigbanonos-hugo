@@ -1,13 +1,13 @@
 ---
-title: "' 'Maluma'
-'"
+title: "Maluma"
+slug: "maluma"
 date: 2020-11-06
-original_title: "'Maluma - 1 Song'"
+layout: post
 tags:
   - '@weeknd'
   - '@maluma'
-layout: post
 ---
+
 {{< youtube "91vECNhvmMY" >}}<h2><ol><li>(ft. The Weeknd) HawÃƒÆ’Ã‚Â¡i Remix [2020]</li></ol></h2>
 
 <!--Subscribe and Playlist Links-->

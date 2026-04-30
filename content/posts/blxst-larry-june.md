@@ -1,16 +1,13 @@
 ---
-title: "Blxst;Larry June"
+title: "Blxst Larry June"
+slug: "blxst-larry-june"
 date: 2022-12-09
-category: "artist"
-track_count: 2
-first_year: 2020
-last_year: 2022
+layout: post
 tags:
   - '@blxst-larry-june'
   - '@blxst-tyga-ty-dolla-ign'
   - '2020s'
   - 'trap soul'
-stub: true
 ---
 
 ## Blxst;Larry June

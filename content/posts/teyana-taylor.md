@@ -1,10 +1,8 @@
 ---
 title: "Teyana Taylor"
+slug: "teyana-taylor"
 date: 2020-06-19
-category: "artist"
-track_count: 12
-first_year: 2014
-last_year: 2020
+layout: post
 tags:
   - '@teyana-taylor'
   - '@teyana-taylor-ghostface-killah-method-man-raekwon'
@@ -21,7 +19,6 @@ tags:
   - 'rap'
   - 'hip hop'
   - 'east coast hip hop'
-stub: true
 ---
 
 ## Teyana Taylor

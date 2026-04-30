@@ -1,13 +1,13 @@
 ---
-title: "' 'John Denver'
-'"
+title: "John Denver"
+slug: "john-denver"
 date: 2025-01-19
-original_title: "'John Denver'"
+layout: post
 tags:
   - '@johndenver'
   - '@vinylonhbo'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonos Favorite Songs by John Denver</h1> <!-- Introductory Text -->
 <p >Updated January 17, 2025, with "Sunshine On My Shoulders" from <em>Poems, Prayers and Promises</em>. Experience the heartfelt melodies of John Denver in the playlist below!</p> <!-- Featured Image -->

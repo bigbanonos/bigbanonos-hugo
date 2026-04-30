@@ -1,12 +1,12 @@
 ---
-title: "' 'Acid Ghost'
-'"
+title: "Acid Ghost"
+slug: "acid-ghost"
 date: 2024-12-13
-original_title: "'Acid Ghost'"
+layout: post
 tags:
   - '@acidghost'
-layout: post
 ---
+
 <!-- Post Title -->
 <h1 >BigBanonos' Favorite Song by Acid Ghost</h1> <!-- Introductory Text -->
 <p >Updated February 14, 2016, with BigBanonos' favorite song by Acid Ghost, "Sandy Kim," from the album *Vacation II*. Watch the video and see more details below:</p> <!-- Featured Image -->

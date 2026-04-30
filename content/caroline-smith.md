@@ -1,12 +1,12 @@
 ---
-title: "' 'Caroline Smith'
-'"
+title: "Caroline Smith"
+slug: "caroline-smith"
 date: 2024-12-03
-original_title: "'Caroline Smith'"
+layout: post
 tags:
   - '@carolinesmith'
-layout: post
 ---
+
 <!-- Post Title -->
 <h1 >BigBanonos' Favorite Song by Caroline Smith</h1> <!-- Introductory Text -->
 <p >Updated October 8, 2013 with BigBanonos' favorite track, "Bloodstyle" by Caroline Smith. This standout song from her *Half About Being a Woman* album offers a soulful take on Minneapolis indie rock with a modern twist.</p> <!-- Featured Image -->

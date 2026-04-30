@@ -1,10 +1,8 @@
 ---
 title: "The White Stripes"
+slug: "the-white-stripes"
 date: 2007-12-11
-category: "artist"
-track_count: 54
-first_year: 1999
-last_year: 2007
+layout: post
 tags:
   - '@the-white-stripes'
   - '00s-10s'
@@ -13,7 +11,6 @@ tags:
   - 'blues rock'
   - 'rock'
   - 'alternative rock'
-stub: true
 ---
 
 ## The White Stripes

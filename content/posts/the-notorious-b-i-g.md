@@ -1,10 +1,8 @@
 ---
-title: "The Notorious B.I.G."
+title: "The Notorious B I G"
+slug: "the-notorious-b-i-g"
 date: 2022-05-20
-category: "artist"
-track_count: 6
-first_year: 1994
-last_year: 2022
+layout: post
 tags:
   - '@the-notorious-b-i-g'
   - '@the-notorious-b-i-g-mase-diddy'
@@ -16,7 +14,6 @@ tags:
   - 'gangster rap'
   - 'east coast hip hop'
   - 'hip hop'
-stub: true
 ---
 
 ## The Notorious B.I.G.

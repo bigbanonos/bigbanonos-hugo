@@ -1,10 +1,8 @@
 ---
-title: "James McMurtry"
+title: "James Mcmurtry"
+slug: "james-mcmurtry"
 date: 2015-02-24
-category: "artist"
-track_count: 2
-first_year: 2015
-last_year: 2015
+layout: post
 tags:
   - '@james-mcmurtry'
   - '00s-10s'
@@ -12,7 +10,6 @@ tags:
   - 'americana'
   - 'outlaw country'
   - 'red dirt'
-stub: true
 ---
 
 ## James McMurtry

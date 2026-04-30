@@ -1,12 +1,12 @@
 ---
-title: "' 'Courtney Barnett'
-'"
+title: "Blog Post"
+slug: "blog-post"
 date: 2024-12-20
-original_title: "'Courtney Barnett'"
+layout: post
 tags:
   - '@courtneybarnett'
-layout: post
 ---
+
 <h2>Courtney Barnett â€“ Essential Tracks</h2> <div > <img src="https://maton.com.au/wp-content/uploads/2024/05/CourtneyBarnett-Maton-Guitars.png" alt="Courtney Barnett" width="500" />
 </div> {{< youtube "embed" >}} <h3>Tracklist</h3>
 <ul> <li><strong>Depreston</strong> â€“ <em>Sometimes I Sit and Think, And Sometimes I Just Sit</em> (2015)</li> <li><strong>Avant Gardener</strong> â€“ <em>Avant-Gardener</em> (2013)</li> <li><strong>History Eraser</strong> â€“ <em>History Eraser</em> (2012)</li>

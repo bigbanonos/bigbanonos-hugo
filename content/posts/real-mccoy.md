@@ -1,16 +1,13 @@
 ---
-title: "Real McCoy"
+title: "Real Mccoy"
+slug: "real-mccoy"
 date: 1995-03-28
-category: "artist"
-track_count: 2
-first_year: 1995
-last_year: 1995
+layout: post
 tags:
   - '@real-mccoy'
   - '1900s'
   - 'eurodance'
   - 'europop'
-stub: true
 ---
 
 ## Real McCoy

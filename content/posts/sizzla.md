@@ -1,10 +1,8 @@
 ---
 title: "Sizzla"
+slug: "sizzla"
 date: 2010-04-15
-category: "artist"
-track_count: 5
-first_year: 2002
-last_year: 2010
+layout: post
 tags:
   - '@sizzla'
   - '00s-10s'
@@ -12,7 +10,6 @@ tags:
   - 'ragga'
   - 'dancehall'
   - 'lovers rock'
-stub: true
 ---
 
 ## Sizzla

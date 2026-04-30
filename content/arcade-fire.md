@@ -1,12 +1,12 @@
 ---
-title: "' 'Arcade Fire'
-'"
+title: "Arcade Fire"
+slug: "arcade-fire"
 date: 2025-02-12
-original_title: "'Arcade Fire'"
+layout: post
 tags:
   - '@arcadefire'
-layout: post
 ---
+
 <div> {{< img-lite src="https://i.scdn.co/image/ab6761610000e5eba044e15eee771205956dcbf8" alt="Arcade Fire" >}}
 </div> <p>
 BigBanonos' favorite songs by Arcade Fire:

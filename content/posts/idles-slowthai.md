@@ -1,10 +1,8 @@
 ---
-title: "IDLES;slowthai"
+title: "Idles Slowthai"
+slug: "idles-slowthai"
 date: 2021-07-20
-category: "artist"
-track_count: 2
-first_year: 2020
-last_year: 2021
+layout: post
 tags:
   - '@idles-slowthai'
   - '@idles'
@@ -13,7 +11,6 @@ tags:
   - 'punk'
   - 'grime'
   - 'uk grime'
-stub: true
 ---
 
 ## IDLES;slowthai

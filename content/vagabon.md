@@ -1,12 +1,12 @@
 ---
-title: "' 'Vagabon'
-'"
+title: "Vagabon"
+slug: "vagabon"
 date: 2025-01-10
-original_title: "'Vagabon'"
+layout: post
 tags:
   - '@vagabon'
-layout: post
 ---
+
 <div class="post-title"> <h1>BigBanonos' Favorite Songs by Vagabon</h1>
 </div>
 <p>Updated September 15, 2023, with "You Know How" from the album <i>Sorry I Haven't Called</i>, highlighted in the playlist below:</p>

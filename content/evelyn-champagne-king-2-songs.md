@@ -1,12 +1,12 @@
 ---
-title: "' 'Evelyn Champagne King'
-'"
+title: "Evelyn Champagne King"
+slug: "evelyn-champagne-king"
 date: 2024-10-28
-original_title: "'Evelyn Champagne King - 2 Songs'"
+layout: post
 tags:
   - '@evelynchampagneking'
-layout: post
 ---
+
 <h2>Evelyn Champagne King - Top Songs</h2>
 <p>Updated with R&B and soul classics like â€œLove Come Downâ€ and â€œI Don't Know If It's Right.â€</p> <ul> <li><strong>Love Come Down - Single Version</strong> - <em>Essential - Soul Love</em> (1982)</li> <li><strong>I Don't Know If It's Right - 7" Version</strong> - <em>Greatest Hits</em> (1977)</li>
 </ul> {{< youtube "embed" >}}

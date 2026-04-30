@@ -1,12 +1,12 @@
 ---
-title: "' 'musimusmu'
-'"
+title: "Musimusmu"
+slug: "musimusmu"
 date: 2024-12-13
-original_title: "'musimusmu'"
+layout: post
 tags:
   - '@musimusmu'
-layout: post
 ---
+
 <!-- Post Title -->
 <h1 >BigBanonos' Favorite Tracks: musimusmu - "Need"</h1> <!-- Introductory Text -->
 <p >Updated March 17, 2015, with "Need" by musimusmu. This track stands out on the album <em>Ghost Modern</em>, highlighting the artist's skillful blend of bay area indie, chillwave, and shimmer pop.</p> <!-- Featured Image -->

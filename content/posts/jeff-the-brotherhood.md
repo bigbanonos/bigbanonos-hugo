@@ -1,15 +1,12 @@
 ---
-title: "JEFF The Brotherhood"
+title: "Jeff The Brotherhood"
+slug: "jeff-the-brotherhood"
 date: 2011-06-21
-category: "artist"
-track_count: 2
-first_year: 2011
-last_year: 2011
+layout: post
 tags:
   - '@jeff-the-brotherhood'
   - '00s-10s'
   - 'garage rock'
-stub: true
 ---
 
 ## JEFF The Brotherhood

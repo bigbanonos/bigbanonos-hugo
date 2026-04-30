@@ -1,10 +1,8 @@
 ---
 title: "Original Koffee"
+slug: "original-koffee"
 date: 2025-04-29
-category: "artist"
-track_count: 16
-first_year: 2005
-last_year: 2025
+layout: post
 tags:
   - '@original-koffee'
   - '@original-koffee-gunna'
@@ -15,7 +13,6 @@ tags:
   - 'afrobeats'
   - 'reggae'
   - 'melodic rap'
-stub: true
 ---
 
 ## Original Koffee

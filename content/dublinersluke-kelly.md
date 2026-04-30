@@ -1,13 +1,13 @@
 ---
-title: "' 'Dubliners, Luke Kelly'
-'"
+title: "Dublinersluke Kelly"
+slug: "dublinersluke-kelly"
 date: 2024-12-12
-original_title: "'Dubliners, Luke Kelly'"
+layout: post
 tags:
   - '@lukekelly'
   - '@dubliners'
-layout: post
 ---
+
 <!-- Post Title -->
 <h1 >BigBanonos' Favorite Song by The Dublin Legends</h1> <!-- Introductory Text -->
 <p >Updated February 3, 2014, with "FÃƒÆ’Ã‚Â¡inne Geal An Lae" by The Dublin Legends. This traditional Irish ballad, beautifully performed in their "Live In Vienna" album, captures the essence of Irish folk music with heartfelt lyrics and timeless melodies.</p> <!-- Featured Image -->

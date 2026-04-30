@@ -1,17 +1,14 @@
 ---
 title: "Dead Boys"
+slug: "dead-boys"
 date: 1978-01-01
-category: "artist"
-track_count: 3
-first_year: 1977
-last_year: 1978
+layout: post
 tags:
   - '@dead-boys'
   - '1900s'
   - 'proto-punk'
   - 'punk'
   - 'hardcore punk'
-stub: true
 ---
 
 ## Dead Boys

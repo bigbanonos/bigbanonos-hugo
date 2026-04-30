@@ -1,13 +1,12 @@
 ---
-title: "Kingman & Chronic Law"
+title: "Kingman Chronic Law Hell Pon Earth"
+slug: "kingman-chronic-law-hell-pon-earth"
 date: 2026-02-05
+layout: post
 tags:
   - '@kingman'
   - '@chroniclaw'
   - '@dancehall'
-spotify_url: "https://open.spotify.com/track/1UNYwP1aVAavEXkAYOb8XM"
-not_on_spotify: false
-category: "1off-2020s"
 ---
 
 Chronic Law doing what he does. Pure dancehall gravity.

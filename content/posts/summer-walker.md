@@ -1,10 +1,8 @@
 ---
 title: "Summer Walker"
+slug: "summer-walker"
 date: 2025-11-14
-category: "artist"
-track_count: 5
-first_year: 2018
-last_year: 2025
+layout: post
 tags:
   - '@summer-walker'
   - '@summer-walker-jt-city-girls'
@@ -13,7 +11,6 @@ tags:
   - '00s-10s'
   - '2020s'
   - 'r&b'
-stub: true
 ---
 
 ## Summer Walker

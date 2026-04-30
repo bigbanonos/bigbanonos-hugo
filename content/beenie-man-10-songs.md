@@ -1,14 +1,14 @@
 ---
-title: "' 'Beenie Man'
-'"
+title: "Beenie Man"
+slug: "beenie-man"
 date: 2024-11-03
-original_title: "'Beenie Man - 10 Songs'"
+layout: post
 tags:
   - '@beenieman'
   - '@mya'
   - '@craigyt'
-layout: post
 ---
+
 <h2>BigBanonos' Top 10 Favorite Songs by Beenie Man</h2> <!--Search Description-->
 <p>BigBanonos' top 10 favorite tracks by the dancehall king Beenie Man, capturing the energy of dancehall and reggae fusion. Includes iconic songs and a few rare gems from his vast discography.</p> <!--Spotify Playlist Embed-->
 {{< youtube "embed" >}} <!--Song Listings-->

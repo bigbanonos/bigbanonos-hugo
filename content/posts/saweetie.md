@@ -1,14 +1,11 @@
 ---
 title: "Saweetie"
+slug: "saweetie"
 date: 2024-05-17
-category: "artist"
-track_count: 1
-first_year: 2024
-last_year: 2024
+layout: post
 tags:
   - '@saweetie'
   - '2020s'
-stub: true
 ---
 
 ## Saweetie

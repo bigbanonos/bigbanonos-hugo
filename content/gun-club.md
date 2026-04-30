@@ -1,12 +1,12 @@
 ---
-title: "' 'Gun Club'
-'"
+title: "Gun Club"
+slug: "gun-club"
 date: 2025-02-09
-original_title: "'Gun Club'"
+layout: post
 tags:
   - '@gunclub'
-layout: post
 ---
+
 <h2>BigBanonos' Favorite Songs by The Gun Club</h2> <p><strong>Updated July 23, 2021, with "Sex Beat - Live" from <em>Live at Club 88 - March 6, 1981 (Live Remastered)</em></strong></p> {{< img-lite src="https://i.scdn.co/image/ab67616d0000b2739a393ea51e47995bc446fe1e" alt="The Gun Club" >}} <p>The Gun Club blended punk energy with blues and rockabilly influences. Below are BigBanonos' favorite songs by The Gun Club.</p>
 {{< youtube "lI0ffCDoJJk" >}}
 <h3>"Sex Beat - Live"</h3>

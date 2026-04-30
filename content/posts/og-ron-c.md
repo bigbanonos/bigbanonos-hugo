@@ -1,10 +1,8 @@
 ---
-title: "OG Ron C"
+title: "Og Ron C"
+slug: "og-ron-c"
 date: 2022-02-08
-category: "artist"
-track_count: 9
-first_year: 2004
-last_year: 2022
+layout: post
 tags:
   - '@og-ron-c'
   - '@og-ron-c-brotherwood-killa-kyleon-k-ruger-ronnie-spencer'
@@ -13,7 +11,6 @@ tags:
   - '2020s'
   - 'southern hip hop'
   - 'crunk'
-stub: true
 ---
 
 ## OG Ron C

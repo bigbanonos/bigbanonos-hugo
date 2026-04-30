@@ -1,10 +1,8 @@
 ---
 title: "Cham"
+slug: "cham"
 date: 2006-08-14
-category: "artist"
-track_count: 2
-first_year: 2006
-last_year: 2006
+layout: post
 tags:
   - '@cham'
   - '@cham-rihanna'
@@ -13,7 +11,6 @@ tags:
   - 'ragga'
   - 'reggae'
   - 'soca'
-stub: true
 ---
 
 ## Cham

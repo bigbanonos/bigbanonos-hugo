@@ -1,17 +1,14 @@
 ---
 title: "Mahalia Jackson"
+slug: "mahalia-jackson"
 date: 1969-01-01
-category: "artist"
-track_count: 2
-first_year: 1954
-last_year: 1969
+layout: post
 tags:
   - '@mahalia-jackson'
   - '1900s'
   - 'traditional gospel'
   - 'gospel'
   - 'christmas'
-stub: true
 ---
 
 ## Mahalia Jackson

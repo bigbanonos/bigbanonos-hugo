@@ -1,10 +1,8 @@
 ---
 title: "The Brian Jonestown Massacre"
+slug: "the-brian-jonestown-massacre"
 date: 2008-03-17
-category: "artist"
-track_count: 3
-first_year: 1996
-last_year: 2008
+layout: post
 tags:
   - '@the-brian-jonestown-massacre'
   - '00s-10s'
@@ -13,7 +11,6 @@ tags:
   - 'psychedelic rock'
   - 'shoegaze'
   - 'space rock'
-stub: true
 ---
 
 ## The Brian Jonestown Massacre

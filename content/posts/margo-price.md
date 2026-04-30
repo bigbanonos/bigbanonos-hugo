@@ -1,17 +1,14 @@
 ---
 title: "Margo Price"
+slug: "margo-price"
 date: 2023-01-13
-category: "artist"
-track_count: 2
-first_year: 2023
-last_year: 2023
+layout: post
 tags:
   - '@margo-price'
   - '2020s'
   - 'americana'
   - 'outlaw country'
   - 'alt country'
-stub: true
 ---
 
 ## Margo Price

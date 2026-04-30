@@ -1,10 +1,8 @@
 ---
-title: "Master P;Pimp C;Silkk The Shocker"
+title: "Master P Pimp C Silkk The Shocker"
+slug: "master-p-pimp-c-silkk-the-shocker"
 date: 1997-01-01
-category: "artist"
-track_count: 6
-first_year: 1996
-last_year: 1997
+layout: post
 tags:
   - '@master-p-pimp-c-silkk-the-shocker'
   - '@master-p'
@@ -17,7 +15,6 @@ tags:
   - 'gangster rap'
   - 'old school hip hop'
   - 'new orleans bounce'
-stub: true
 ---
 
 ## Master P;Pimp C;Silkk The Shocker

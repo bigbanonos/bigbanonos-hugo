@@ -1,12 +1,12 @@
 ---
-title: "' 'Ted Leo'
-'"
+title: "Ted Leo"
+slug: "ted-leo"
 date: 2024-12-17
-original_title: "'Ted Leo'"
+layout: post
 tags:
   - '@tedleo'
-layout: post
 ---
+
 <h1>BigBanonos Top Songs by Ted Leo</h1>
 <div class="separator"> <a href="https://upload.wikimedia.org/wikipedia/commons/7/7f/Ted_Leo_Coachella.jpg" > <img alt="Ted Leo" border="0" width="320" data-original-height="480" data-original-width="640" src="https://upload.wikimedia.org/wikipedia/commons/7/7f/Ted_Leo_Coachella.jpg"/> </a>
 </div>

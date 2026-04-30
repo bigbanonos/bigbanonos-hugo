@@ -1,10 +1,8 @@
 ---
 title: "Big Star"
+slug: "big-star"
 date: 2013-06-25
-category: "artist"
-track_count: 5
-first_year: 1972
-last_year: 2013
+layout: post
 tags:
   - '@big-star'
   - '00s-10s'
@@ -12,7 +10,6 @@ tags:
   - 'power pop'
   - 'jangle pop'
   - 'baroque pop'
-stub: true
 ---
 
 ## Big Star

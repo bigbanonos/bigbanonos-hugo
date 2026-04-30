@@ -1,10 +1,8 @@
 ---
 title: "Tory Lanez"
+slug: "tory-lanez"
 date: 2026-01-30
-category: "artist"
-track_count: 16
-first_year: 2016
-last_year: 2026
+layout: post
 tags:
   - '@tory-lanez'
   - '@cashmere-cat-major-lazer-tory-lanez'
@@ -18,7 +16,6 @@ tags:
   - 'hip hop'
   - 'moombahton'
   - 'trap'
-stub: true
 ---
 
 ## Tory Lanez

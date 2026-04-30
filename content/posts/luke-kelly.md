@@ -1,15 +1,12 @@
 ---
 title: "Luke Kelly"
+slug: "luke-kelly"
 date: 2010-08-13
-category: "artist"
-track_count: 2
-first_year: 2005
-last_year: 2010
+layout: post
 tags:
   - '@luke-kelly'
   - '00s-10s'
   - 'celtic'
-stub: true
 ---
 
 ## Luke Kelly

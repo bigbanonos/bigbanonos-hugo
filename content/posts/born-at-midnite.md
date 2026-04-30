@@ -1,14 +1,11 @@
 ---
 title: "Born At Midnite"
+slug: "born-at-midnite"
 date: 2022-11-18
-category: "artist"
-track_count: 3
-first_year: 2020
-last_year: 2022
+layout: post
 tags:
   - '@born-at-midnite'
   - '2020s'
-stub: true
 ---
 
 ## Born At Midnite

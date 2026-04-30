@@ -1,14 +1,11 @@
 ---
 title: "Empire Of The Sun"
+slug: "empire-of-the-sun"
 date: 2016-10-28
-category: "artist"
-track_count: 4
-first_year: 2008
-last_year: 2016
+layout: post
 tags:
   - '@empire-of-the-sun'
   - '00s-10s'
-stub: true
 ---
 
 ## Empire Of The Sun

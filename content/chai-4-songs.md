@@ -1,12 +1,12 @@
 ---
-title: "' 'CHAI'
-'"
+title: "Chai"
+slug: "chai"
 date: 2024-11-03
-original_title: "'CHAI - 4 Songs'"
+layout: post
 tags:
   - '@chai'
-layout: post
 ---
+
 <h2>BigBanonos' Top 4 Tracks by CHAI</h2> <!--Search Description-->
 <p>BigBanonos presents the top 4 favorite tracks by CHAI, showcasing their unique Japanese alternative rock vibe that blends energetic and edgy sounds. Experience these standout tracks from a band redefining cute and cool in rock. Check out the 4-song playlist on YouTube and Spotify below:</p>
 {{< youtube "zuiIplaXsUc" >}}<div><h4><ol><li><strong>WHOLE</strong>Ãƒâ€šÃ‚Â -Ãƒâ€šÃ‚Â <em>WHOLE</em>Ãƒâ€šÃ‚Â - Sub Pop Records - 2022-01-13</li><li><strong>END</strong>Ãƒâ€šÃ‚Â -Ãƒâ€šÃ‚Â <em>WINK</em>Ãƒâ€šÃ‚Â - Sub Pop Records - 2021-05-21</li><li><strong>Ready Cheeky Pretty</strong>Ãƒâ€šÃ‚Â -Ãƒâ€šÃ‚Â <em>Ready Cheeky Pretty</em>Ãƒâ€šÃ‚Â - OTEMOYAN record - 2020-05-13</li><li><strong>ÃƒÂ£Ã¢â‚¬Å¡Ã‚Â¢ÃƒÂ£Ã¢â‚¬Å¡Ã‚Â¤ÃƒÂ£Ã†â€™Ã‚Â ÃƒÂ£Ã†â€™Ã‚Â»ÃƒÂ£Ã†â€™Ã…Â¸ÃƒÂ£Ã†â€™Ã‚Â¼</strong>Ãƒâ€šÃ‚Â -Ãƒâ€šÃ‚Â <em>PUNK</em>Ãƒâ€šÃ‚Â - Sony Music Labels Inc. - 2019-02-13</li></ol></h4></div>

@@ -1,12 +1,12 @@
 ---
-title: "' 'Niall Horan''
-'"
+title: "Niall Horan"
+slug: "niall-horan"
 date: 2024-12-15
-original_title: "'Niall Horan''"
+layout: post
 tags:
   - '@niallhoran'
-layout: post
 ---
+
 <!-- Post Title -->
 <h1 >BigBanonos' Favorite Tracks: Niall Horan - "Slow Hands"</h1> <!-- Introductory Text -->
 <p >Updated May 4, 2017, with "Slow Hands" by Niall Horan. This sultry pop track from the album <em>Slow Hands</em>, released under Capitol Records, blends smooth rhythms with Horanâ€™s signature vocals, making it a standout in his solo career.</p> <!-- Featured Image -->

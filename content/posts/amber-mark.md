@@ -1,17 +1,14 @@
 ---
 title: "Amber Mark"
+slug: "amber-mark"
 date: 2021-08-23
-category: "artist"
-track_count: 2
-first_year: 2019
-last_year: 2021
+layout: post
 tags:
   - '@amber-mark'
   - '00s-10s'
   - '2020s'
   - 'alternative r&b'
   - 'indie soul'
-stub: true
 ---
 
 ## Amber Mark

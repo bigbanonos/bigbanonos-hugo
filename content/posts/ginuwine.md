@@ -1,16 +1,13 @@
 ---
 title: "Ginuwine"
+slug: "ginuwine"
 date: 2006-01-01
-category: "artist"
-track_count: 2
-first_year: 1999
-last_year: 2006
+layout: post
 tags:
   - '@ginuwine'
   - '00s-10s'
   - '1900s'
   - 'r&b'
-stub: true
 ---
 
 ## Ginuwine

@@ -1,8 +1,8 @@
 ---
-title: "' 'Killer MIke'
-'"
+title: "Killer Mike"
+slug: "killer-mike"
 date: 2025-02-15
-original_title: "'Killer MIke - 22+ Songs'"
+layout: post
 tags:
   - '@blxst'
   - '@killermike'
@@ -17,8 +17,8 @@ tags:
   - '@jaggededge'
   - '@blackownedcbone'
   - '@bigboi'
-layout: post
 ---
+
 <h2>Killer Mike: BigBanonos' Top Songs</h2>
 <p>Updated August 2, 2024, with "NOBODY KNOWS"</p>
 <p><strong>Killer Mike</strong> continues to be one of hip hop's most influential voices, blending political themes with the raw essence of Southern rap. Here are BigBanonos' top picks from his discography.<br /></p> <h3>Playlist</h3>

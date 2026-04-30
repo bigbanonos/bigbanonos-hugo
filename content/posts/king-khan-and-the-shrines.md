@@ -1,10 +1,8 @@
 ---
-title: "King Khan and the Shrines"
+title: "King Khan And The Shrines"
+slug: "king-khan-and-the-shrines"
 date: 2019-05-24
-category: "artist"
-track_count: 3
-first_year: 2004
-last_year: 2019
+layout: post
 tags:
   - '@king-khan-and-the-shrines'
   - '@king-khan-the-shrines'
@@ -12,7 +10,6 @@ tags:
   - '00s-10s'
   - 'garage rock'
   - 'space rock'
-stub: true
 ---
 
 ## King Khan and the Shrines

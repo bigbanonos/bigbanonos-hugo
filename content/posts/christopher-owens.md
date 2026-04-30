@@ -1,14 +1,11 @@
 ---
 title: "Christopher Owens"
+slug: "christopher-owens"
 date: 2015-05-27
-category: "artist"
-track_count: 2
-first_year: 2013
-last_year: 2015
+layout: post
 tags:
   - '@christopher-owens'
   - '00s-10s'
-stub: true
 ---
 
 ## Christopher Owens

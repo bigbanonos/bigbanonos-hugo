@@ -1,10 +1,8 @@
 ---
 title: "Love"
+slug: "love"
 date: 2015-09-11
-category: "artist"
-track_count: 7
-first_year: 1966
-last_year: 2015
+layout: post
 tags:
   - '@love'
   - '@love-arthur-lee'
@@ -14,7 +12,6 @@ tags:
   - 'baroque pop'
   - 'acid rock'
   - 'proto-punk'
-stub: true
 ---
 
 ## Love

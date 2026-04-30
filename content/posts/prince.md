@@ -1,10 +1,8 @@
 ---
 title: "Prince"
+slug: "prince"
 date: 2025-09-11
-category: "artist"
-track_count: 30
-first_year: 1979
-last_year: 2025
+layout: post
 tags:
   - '@prince'
   - '@prince-the-new-power-generation'
@@ -14,7 +12,6 @@ tags:
   - 'funk'
   - 'funk rock'
   - 'quiet storm'
-stub: true
 ---
 
 ## Prince

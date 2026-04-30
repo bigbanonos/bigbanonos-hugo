@@ -1,16 +1,13 @@
 ---
 title: "Winter"
+slug: "winter"
 date: 2024-01-17
-category: "artist"
-track_count: 2
-first_year: 2021
-last_year: 2024
+layout: post
 tags:
   - '@winter'
   - '2020s'
   - 'shoegaze'
   - 'dream pop'
-stub: true
 ---
 
 ## Winter

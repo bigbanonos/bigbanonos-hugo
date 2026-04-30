@@ -1,16 +1,13 @@
 ---
-title: "reggie"
+title: "Reggie"
+slug: "reggie"
 date: 2025-09-12
-category: "artist"
-track_count: 4
-first_year: 2020
-last_year: 2025
+layout: post
 tags:
   - '@reggie'
   - '@reggie-dj-candlestick-og-ron-c'
   - '@reggie-smino'
   - '2020s'
-stub: true
 ---
 
 ## reggie

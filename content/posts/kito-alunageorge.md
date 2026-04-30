@@ -1,16 +1,13 @@
 ---
-title: "Kito;AlunaGeorge"
+title: "Kito Alunageorge"
+slug: "kito-alunageorge"
 date: 2020-03-06
-category: "artist"
-track_count: 2
-first_year: 2019
-last_year: 2020
+layout: post
 tags:
   - '@kito-alunageorge'
   - '@kito-empress-of'
   - '00s-10s'
   - '2020s'
-stub: true
 ---
 
 ## Kito;AlunaGeorge

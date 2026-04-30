@@ -1,12 +1,12 @@
 ---
-title: "' 'The Pretenders'
-'"
+title: "The Pretenders"
+slug: "the-pretenders"
 date: 2025-01-18
-original_title: "'The Pretenders'"
+layout: post
 tags:
   - '@pretenders'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >The Pretenders - New Wave Rock Classics</h1> <!-- Introductory Text -->
 <p >The Pretenders deliver timeless rock anthems with Chrissie Hyndeâ€™s distinct vocals leading the charge. Dive into their classics below.</p> <!-- Featured Image -->

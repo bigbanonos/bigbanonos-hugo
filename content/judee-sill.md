@@ -1,12 +1,12 @@
 ---
-title: "' 'Judee Sill'
-'"
+title: "Judee Sill"
+slug: "judee-sill"
 date: 2025-01-16
-original_title: "'Judee Sill'"
+layout: post
 tags:
   - '@judeesill'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1>BigBanonosâ€™ Favorite Songs by Judee Sill</h1> <!-- Introductory Text -->
 <p>Judee Sill, a pioneer of the singer-songwriter movement, left an indelible mark with her intricate melodies and deeply spiritual lyrics. BigBanonos highlights her timeless tracks that continue to resonate with music lovers.</p> <!-- Featured Image -->

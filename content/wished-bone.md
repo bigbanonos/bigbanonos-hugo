@@ -1,12 +1,12 @@
 ---
-title: "' 'Wished Bone'
-'"
+title: "Wished Bone"
+slug: "wished-bone"
 date: 2024-12-16
-original_title: "'Wished Bone'"
+layout: post
 tags:
   - '@wishedbone'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >Wished Bone - Reasons</h1> <!-- Introductory Text -->
 <p >Updated with "Reasons" by Wished Bone, from the album *Cellar Belly*, released on May 11, 2018, by Wished Bone. The track offers a deep, reflective tone that echoes the band's indie rock and small room aesthetic.</p> <!-- Featured Image -->

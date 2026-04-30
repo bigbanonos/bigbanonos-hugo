@@ -1,12 +1,12 @@
 ---
-title: "' 'Jackson 5'
-'"
+title: "Jackson 5 Dancing Machine Single Version"
+slug: "jackson-5-dancing-machine-single-version"
 date: 2024-12-20
-original_title: "'Jackson 5'"
+layout: post
 tags:
   - '@jackson5'
-layout: post
 ---
+
 <h2>BigBanonos' Favorite Tracks: The Jackson 5</h2> <div > <a href="https://fastly-s3.allmusic.com/artist/mn0000083013/400/Z2fW3tupGPWEimksUxUjkT6KsMttLlyBmmVTZ6_CLs0=.jpg"> <img src="https://fastly-s3.allmusic.com/artist/mn0000083013/400/Z2fW3tupGPWEimksUxUjkT6KsMttLlyBmmVTZ6_CLs0=.jpg" alt="Jackson 5" width="400" /> </a>
 </div> <p><em>BigBanonos</em> highlights the timeless tracks of The Jackson 5, a group synonymous with Motown soul and R&B brilliance.</p> <h3>Selected Tracks</h3>
 <ol> <li><strong>I Want You Back</strong> â€“ <em>Diana Ross Presents The Jackson 5</em> (1969)</li> <li><strong>ABC</strong> â€“ <em>ABC</em> (1970)</li> <li><strong>I'll Be There</strong> â€“ <em>Third Album</em> (1970)</li> <li><strong>Never Can Say Goodbye</strong> â€“ <em>Maybe Tomorrow</em> (1971)</li> <li><strong>Dancing Machine</strong> â€“ <em>Get It Together</em> (1974)</li>

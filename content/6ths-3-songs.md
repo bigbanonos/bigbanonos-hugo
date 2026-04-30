@@ -1,12 +1,12 @@
 ---
-title: "' '6ths'
-'"
+title: "6ths"
+slug: "6ths"
 date: 2025-02-12
-original_title: "'6ths - 3 Songs'"
+layout: post
 tags:
   - '@6ths'
-layout: post
 ---
+
 <div> {{< img-lite src="https://thisis-images.spotifycdn.com/37i9dQZF1DZ06evO4ySY8U-default.jpg" alt="The 6ths" >}}
 </div> {{< youtube "embed" >}} <p>
 BigBanonos' favorite The 6ths songs, ordered by release date:

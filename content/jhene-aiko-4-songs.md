@@ -1,16 +1,16 @@
 ---
-title: "' 'JhenÃƒÆ’Ã‚Â© Aiko'
-'"
+title: "Jhene Aiko"
+slug: "jhene-aiko"
 date: 2024-12-20
-original_title: "'JhenÃƒÆ’Ã‚Â© Aiko - 4 Songs'"
+layout: post
 tags:
   - '@kehlani'
   - '@miguel'
   - '@future'
   - '@jheneaiko'
   - '@raesremmurd'
-layout: post
 ---
+
 <h1>JhenÃƒÆ’Ã‚Â© Aiko: 4 Tracks That Define Her Vibe</h1>
 {{< img-lite src="https://ca-times.brightspotcdn.com/dims4/default/dda9606/2147483647/strip/false/crop/4074x2292+0+731/resize/1200x675!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F17%2F9f%2F56a53470499d84bcbc3f65637548%2Fla-photos-1staff-467852-ca-1015-jhene-aiko-la-songs-jlc-19975.jpg" alt="JhenÃƒÆ’Ã‚Â© Aiko" >}} <p>Take a journey through the soulful, introspective world of <strong>JhenÃƒÆ’Ã‚Â© Aiko</strong>. Known for her dreamy vocals and thought-provoking lyrics, Aiko weaves stories that resonate deeply with listeners. Here's a selection of her must-hear songs:</p> <ol> <li><strong>space jam</strong> | <em>Sailing Soul(s)</em> | Def Jam Recordings | Released: March 12, 2021</li> <li><strong>Happiness Over Everything (H.O.E.) (feat. Future & Miguel)</strong> | <em>Happiness Over Everything (H.O.E.)</em> | Def Jam Recordings | Released: February 28, 2020</li> <li><strong>B.S. (feat. Kehlani) - Remix</strong> | <em>Chilombo (Deluxe)</em> | Def Jam Recordings | Released: July 17, 2020</li> <li><strong>Sativa (feat. Rae Sremmurd)</strong> | <em>Sativa feat. Rae Sremmurd</em> | Def Jam Recordings | Released: January 22, 2018</li>
 </ol> <div> {{< youtube "embed" >}}

@@ -1,17 +1,14 @@
 ---
 title: "Zola Jesus"
+slug: "zola-jesus"
 date: 2022-11-18
-category: "artist"
-track_count: 4
-first_year: 2012
-last_year: 2022
+layout: post
 tags:
   - '@zola-jesus'
   - '00s-10s'
   - '2020s'
   - 'witch house'
   - 'art pop'
-stub: true
 ---
 
 ## Zola Jesus

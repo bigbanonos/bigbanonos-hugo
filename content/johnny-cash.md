@@ -1,12 +1,12 @@
 ---
-title: "' 'Johnny Cash'
-'"
+title: "Johnny Cash"
+slug: "johnny-cash"
 date: 2024-12-17
-original_title: "'Johnny Cash'"
+layout: post
 tags:
   - '@johnnycash'
-layout: post
 ---
+
 <h2>BigBanonos' Favorite Tracks: Johnny Cash</h2> <div > <a href="https://i.scdn.co/image/ab67616d0000b273c1fcb4e679806b02eb93baa0"> <img src="https://i.scdn.co/image/ab67616d0000b273c1fcb4e679806b02eb93baa0" alt="Johnny Cash" width="400" /> </a>
 </div> <p>Johnny Cash remains a towering figure in American music, blending country, rock, and folk in a way that has inspired generations. Here are <em>BigBanonos'</em> favorite tracks from the Man in Black.</p> <h3>Selected Tracks</h3>
 <ol> <li><strong>Ring of Fire</strong> â€“ <em>This Is The Sound Of...Johnny Cash</em> (1963)</li> <li><strong>Folsom Prison Blues</strong> â€“ <em>Johnny Cash With His Hot and Blue Guitar</em> (1955)</li> <li><strong>Tennessee Stud (Live)</strong> â€“ <em>Jackie Brown (Music from the Miramax Motion Picture)</em> (1997)</li> <li><strong>All I Do Is Drive</strong> â€“ <em>Ragged Old Flag</em> (1974)</li>

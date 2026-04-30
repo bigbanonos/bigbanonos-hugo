@@ -1,13 +1,13 @@
 ---
-title: "' 'EARTHGANG & Spillage Village'
-'"
+title: "Earthgang"
+slug: "earthgang"
 date: 2024-11-06
-original_title: "'EARTHGANG & Spillage Village - 3 Songs'"
+layout: post
 tags:
   - '@spillagevillage'
   - '@earthgang'
-layout: post
 ---
+
 <p>BigBanonos</p>
 <h3><strong>BigBanonos' Top 3 EARTHGANG Songs</strong></h3>
 <p>Updated November 3, 2023 with "BLACKLIGHT". A selection of EARTHGANG's psychedelic and underground hip-hop highlights.</p> <ol> <li><p>"BLACKLIGHT" (feat. Spillage Village)<br />Album: <em>BLACKLIGHT</em><br />Release Date: November 3, 2023<br />Label: SinceThe80s/Dreamville under exclusive license to UnitedMasters LLC<br />Genres: ATL Hip Hop, Indie Hip Hop, Psychedelic Hip Hop</p></li> <li><p>"Die Today" (feat. Spillage Village)<br />Album: <em>Die Today</em><br />Release Date: August 30, 2023<br />Label: Dreamville/SinceThe80s under exclusive license to UnitedMasters LLC<br />Genres: ATL Hip Hop, Indie Hip Hop, Psychedelic Hip Hop</p></li> <li><p>"Bobby Boucher" (feat. Spillage Village, Benji.)<br />Album: <em>Bobby Boucher</em><br />Release Date: July 7, 2023<br />Label: SinceThe80s/Dreamville under exclusive license to UnitedMasters LLC<br />Genres: ATL Hip Hop, Indie Hip Hop, Psychedelic Hip Hop</p></li>

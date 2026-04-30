@@ -1,14 +1,11 @@
 ---
 title: "Lil Nas X"
+slug: "lil-nas-x"
 date: 2019-06-21
-category: "artist"
-track_count: 2
-first_year: 2019
-last_year: 2019
+layout: post
 tags:
   - '@lil-nas-x'
   - '00s-10s'
-stub: true
 ---
 
 ## Lil Nas X

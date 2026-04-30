@@ -1,15 +1,12 @@
 ---
 title: "Diane Coffee"
+slug: "diane-coffee"
 date: 2017-10-20
-category: "artist"
-track_count: 3
-first_year: 2013
-last_year: 2017
+layout: post
 tags:
   - '@diane-coffee'
   - '00s-10s'
   - 'baroque pop'
-stub: true
 ---
 
 ## Diane Coffee

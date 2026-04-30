@@ -1,10 +1,8 @@
 ---
-title: "Devin Di Dakta;Diztroy"
+title: "Devin Di Dakta Diztroy"
+slug: "devin-di-dakta-diztroy"
 date: 2019-08-16
-category: "artist"
-track_count: 3
-first_year: 2016
-last_year: 2019
+layout: post
 tags:
   - '@devin-di-dakta-diztroy'
   - '@devin-di-dakta'
@@ -12,7 +10,6 @@ tags:
   - '00s-10s'
   - 'dancehall'
   - 'riddim'
-stub: true
 ---
 
 ## Devin Di Dakta;Diztroy

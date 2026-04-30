@@ -1,16 +1,13 @@
 ---
 title: "Ariel Pink"
+slug: "ariel-pink"
 date: 2005-08-15
-category: "artist"
-track_count: 5
-first_year: 1999
-last_year: 2005
+layout: post
 tags:
   - '@ariel-pink'
   - '00s-10s'
   - '1900s'
   - 'neo-psychedelic'
-stub: true
 ---
 
 ## Ariel Pink

@@ -1,12 +1,12 @@
 ---
-title: "' 'David Thomas Broughton'
-'"
+title: "David Thomas Broughton Joke"
+slug: "david-thomas-broughton-joke"
 date: 2024-12-17
-original_title: "'David Thomas Broughton'"
+layout: post
 tags:
   - '@davidthomasbroughton'
-layout: post
 ---
+
 <h2>David Thomas Broughton â€“ Essential Tracks</h2> <div > <img src="https://snipelondon.com/images/661.png" alt="David Thomas Broughton" width="500" />
 </div> {{< youtube "embed" >}} <h3>Video Playlist</h3>
 <p>Includes tracks like <strong>Unmarked Grave</strong> (2006), <strong>Perfect Louse</strong> (2010), and <strong>Joke</strong> (2011).</p>

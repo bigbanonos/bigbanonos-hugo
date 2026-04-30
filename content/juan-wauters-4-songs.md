@@ -1,15 +1,15 @@
 ---
-title: "' 'Juan Wauters'
-'"
+title: "Juan Wauters"
+slug: "juan-wauters"
 date: 2024-12-20
-original_title: "'Juan Wauters - 4 Songs'"
+layout: post
 tags:
   - '@macdemarco'
   - '@colaboyy'
   - '@juanwauters'
   - '@maxineyolanda'
-layout: post
 ---
+
 <h1>Exploring Juan "Agua" Wauters: Indie Rock's Poetic Heart</h1>
 <img alt="Juan Wauters" src="https://f4.bcbits.com/img/0001131276_10.jpg" /> <p>Juan Wauters brings a unique blend of indie rock with a raw, introspective touch. Hereâ€™s a look at some of his standout tracks, each offering a glimpse into his world of simplicity and reflection:</p> <ol> <li><strong>Muy Muy Chico</strong> | <em>Muy Muy Chico</em> | Release Date: May 5, 2020 | Captured Tracks</li> <li><strong>Unity</strong> (with Cola Boyy) | <em>Real Life Situations</em> | Release Date: April 30, 2021 | Captured Tracks</li> <li><strong>Real</strong> (with Mac DeMarco) | <em>Real</em> | Release Date: February 3, 2021 | Captured Tracks</li> <li><strong>Letter II</strong> (feat. Maxine Yolanda) | <em>Introducing Juan Pablo</em> | Release Date: May 31, 2019 | Captured Tracks</li>
 </ol> <div> {{< youtube "embed" >}}

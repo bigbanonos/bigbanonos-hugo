@@ -1,12 +1,12 @@
 ---
-title: "' 'Hatchie'
-'"
+title: "Hatchie"
+slug: "hatchie"
 date: 2024-12-13
-original_title: "'Hatchie - 2 Songs'"
+layout: post
 tags:
   - '@hatchie'
-layout: post
 ---
+
 <!-- Post Title -->
 <h1 >BigBanonos' Favorite Tracks: Hatchie, Robin Guthrie - "Sure (Robin Guthrie Remix)"</h1> <!-- Introductory Text -->
 <p >Updated February 23, 2018, with "Sure (Robin Guthrie Remix)" by Hatchie and Robin Guthrie. This ethereal reimagining of Hatchie's original track showcases Robin Guthrie's signature dream pop production, blending shimmering layers with Hatchie's captivating vocals.</p> <!-- Featured Image -->

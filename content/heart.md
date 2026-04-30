@@ -1,12 +1,12 @@
 ---
-title: "' 'Heart'
-'"
+title: "Heart"
+slug: "heart"
 date: 2025-01-16
-original_title: "'Heart'"
+layout: post
 tags:
   - '@heart'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1>BigBanonosâ€™ Favorite Songs by Heart</h1> <!-- Introductory Text -->
 <p>Heart has redefined rock with their powerful vocals and unforgettable riffs. BigBanonos celebrates their timeless classics, including tracks from their legendary album <em>Dreamboat Annie</em>.</p> <!-- Featured Image -->

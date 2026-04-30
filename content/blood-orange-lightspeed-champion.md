@@ -1,8 +1,8 @@
 ---
-title: "' 'Blood Orange (& Lightspeed Champion)'
-'"
+title: "Blood Orange Lightspeed Champion"
+slug: "blood-orange-lightspeed-champion"
 date: 2024-12-22
-original_title: "'Blood Orange (& Lightspeed Champion) - 20+ Songs'"
+layout: post
 tags:
   - '@toroymoi'
   - '@asaprocky'
@@ -10,8 +10,8 @@ tags:
   - '@ianisiah'
   - '@projectpat'
   - '@tinashe'
-layout: post
 ---
+
 <h2>Blood Orange â€“ Essential Tracks</h2> <div > <img alt="Blood Orange" src="https://lastfm.freetls.fastly.net/i/u/ar0/a6e412563d6426a637d985802a8b1d26.jpg" width="500" />
 </div> {{< youtube "embed" >}} <h3>Tracklist</h3>
 <ul> <li><strong>Tuesday Feeling (Choose To Stay)</strong> (feat. Tinashe) â€“ <em>Angel's Pulse</em> (2019)</li> <li><strong>Chewing Gum</strong> (feat. A$AP Rocky, Project Pat) â€“ <em>Negro Swan</em> (2018)</li> <li><strong>Holy Will</strong> (feat. Ian Isiah) â€“ <em>Negro Swan</em> (2018)</li> <li><strong>Orlando</strong> â€“ <em>Negro Swan</em> (2018)</li> <li><strong>Saint</strong> â€“ <em>Negro Swan</em> (2018)</li> <li><strong>Charcoal Baby</strong> â€“ <em>Negro Swan</em> (2018)</li> <li><strong>Dagenham Dream</strong> â€“ <em>Negro Swan</em> (2018)</li> <li><strong>Smoke</strong> â€“ <em>Negro Swan</em> (2018)</li> <li><strong>Charcoal Baby</strong> (Single Version) â€“ <em>Charcoal Baby</em> (2018)</li> <li><strong>Jewelry</strong> â€“ <em>Jewelry</em> (2018)</li> <li><strong>Best to You</strong> â€“ <em>Freetown Sound</em> (2016)</li> <li><strong>You're Not Good Enough</strong> â€“ <em>Cupid Deluxe</em> (2013)</li> <li><strong>It Is What It Is</strong> â€“ <em>Cupid Deluxe</em> (2013)</li> <li><strong>Forget It</strong> â€“ <em>Coastal Grooves</em> (2011)</li>

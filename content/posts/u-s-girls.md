@@ -1,16 +1,13 @@
 ---
-title: "U.S. Girls"
+title: "U S Girls"
+slug: "u-s-girls"
 date: 2023-01-10
-category: "artist"
-track_count: 4
-first_year: 2015
-last_year: 2023
+layout: post
 tags:
   - '@u-s-girls'
   - '00s-10s'
   - '2020s'
   - 'art pop'
-stub: true
 ---
 
 ## U.S. Girls

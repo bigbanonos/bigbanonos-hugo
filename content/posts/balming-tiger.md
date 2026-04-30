@@ -1,14 +1,13 @@
 ---
 title: "Balming Tiger"
+slug: "balming-tiger"
 date: 2025-10-16
+layout: post
 tags:
   - '@balmingtiger'
   - '@yaeji'
   - '@kpop'
   - '@altpop'
-spotify_url: "https://open.spotify.com/track/5FJtLMs3dkq0K28v69lbRb"
-not_on_spotify: false
-category: "1off-2020s"
 ---
 
 Seoul-based multinational alt-K-pop collective. This one with Yaeji is the move.

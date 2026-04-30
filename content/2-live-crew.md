@@ -1,12 +1,12 @@
 ---
-title: "' '2 Live Crew'
-'"
+title: "2 Live Crew"
+slug: "2-live-crew"
 date: 2025-01-06
-original_title: "'2 Live Crew'"
+layout: post
 tags:
   - '@2livecrew'
-layout: post
 ---
+
 <h3>BigBanonos Favorite Tracks: 2 Live Crew</h3>
 <div class="separator" > <a href="https://media.pitchfork.com/photos/592c56a613d197565213f17b/master/pass/543ee868.jpg"> <img alt="2 Live Crew" border="0" height="350" src="https://media.pitchfork.com/photos/592c56a613d197565213f17b/master/pass/543ee868.jpg" /> </a>
 </div> <p>BigBanonos highlights the iconic and provocative tracks by 2 Live Crew, showcasing their influence on the hip-hop genre. From the playful and controversial "Me So Horny" to the club anthem "Pop That Pussy," these tracks define an era in music history.</p> <ol> <li><strong>Me So Horny</strong> â€ <em>1989</em> â€ Luke Records</li> <li><strong>Pop That Pussy</strong> â€ <em>1991</em> â€ Luke Records</li> <li><strong>We Want Some P--sy</strong> â€ <em>1987</em> â€ Luke Records</li>

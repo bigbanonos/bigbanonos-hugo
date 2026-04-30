@@ -1,10 +1,8 @@
 ---
 title: "Ciara"
+slug: "ciara"
 date: 2019-05-10
-category: "artist"
-track_count: 9
-first_year: 2004
-last_year: 2019
+layout: post
 tags:
   - '@ciara'
   - '@ciara-50-cent'
@@ -17,7 +15,6 @@ tags:
   - 'hip hop'
   - 'crunk'
   - 'r&b'
-stub: true
 ---
 
 ## Ciara

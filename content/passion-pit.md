@@ -1,12 +1,12 @@
 ---
-title: "' 'Passion Pit'
-'"
+title: "Passion Pit"
+slug: "passion-pit"
 date: 2025-02-21
-original_title: "'Passion Pit'"
+layout: post
 tags:
   - '@passionpit'
-layout: post
 ---
+
 <h2>BigBanonos' Favorite Songs by Passion Pit</h2>
 <img src="https://i.guim.co.uk/img/static/sys-images/Music/Pix/pictures/2009/5/14/1242318796756/Passion-Pit-001.jpg?width=465&dpr=1&s=none&crop=none" width="100%" /> <p>Updated July 23, 2012, with "Take a Walk" and "Constant Conversations" from <em>Gossamer</em>. Highlights and #NotOnSpotify picks below:</p> {{< youtube "embed" >}} <hr /> <h3>Full Song List</h3> <ul>
 <li><strong>"Little Secrets"</strong> (2009, <em>Manners</em>) - Released in 2009 under Columbia. A high-energy, synth-driven anthem with infectious hooks.</li>

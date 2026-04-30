@@ -1,14 +1,14 @@
 ---
-title: "' 'Grimes'
-'"
+title: "Grimes"
+slug: "grimes"
 date: 2025-01-16
-original_title: "'Grimes'"
+layout: post
 tags:
   - '@grimes'
   - '@i_o'
   - '@hana'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1>BigBanonosâ€™ Favorite Songs by Grimes</h1> <!-- Introductory Text -->
 <p>Grimes, known for her experimental sound and ethereal vocals, continues to push the boundaries of art pop and electronic music. From groundbreaking hits to rare gems, BigBanonos presents a curated list of Grimesâ€™ top tracks.</p> <!-- Featured Image -->

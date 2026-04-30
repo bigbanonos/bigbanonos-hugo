@@ -1,14 +1,11 @@
 ---
 title: "Foster The People"
+slug: "foster-the-people"
 date: 2011-05-23
-category: "artist"
-track_count: 2
-first_year: 2011
-last_year: 2011
+layout: post
 tags:
   - '@foster-the-people'
   - '00s-10s'
-stub: true
 ---
 
 ## Foster The People

@@ -1,14 +1,11 @@
 ---
-title: "LoneLady"
+title: "Lonelady"
+slug: "lonelady"
 date: 2015-03-23
-category: "artist"
-track_count: 2
-first_year: 2015
-last_year: 2015
+layout: post
 tags:
   - '@lonelady'
   - '00s-10s'
-stub: true
 ---
 
 ## LoneLady

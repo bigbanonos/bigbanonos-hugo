@@ -1,12 +1,12 @@
 ---
-title: "' 'The Move'
-'"
+title: "The Move"
+slug: "the-move"
 date: 2024-12-29
-original_title: "'The Move'"
+layout: post
 tags:
   - '@move'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonos Favorite Song by The Move: "Tonight"</h1> <!-- Introductory Text -->
 <p >Updated January 1, 1971, with "Tonight" by The Move. This classic track highlights the bandâ€™s signature blend of rock and pop, with energetic instrumentation and catchy melodies. Watch the video below!</p> <!-- Featured Image -->

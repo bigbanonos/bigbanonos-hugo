@@ -1,10 +1,8 @@
 ---
-title: "Jay Rock;Black Hippy"
+title: "Jay Rock Black Hippy"
+slug: "jay-rock-black-hippy"
 date: 2018-06-15
-category: "artist"
-track_count: 3
-first_year: 2015
-last_year: 2018
+layout: post
 tags:
   - '@jay-rock-black-hippy'
   - '@jay-rock-jeremih'
@@ -13,7 +11,6 @@ tags:
   - 'hip hop'
   - 'west coast hip hop'
   - 'rap'
-stub: true
 ---
 
 ## Jay Rock;Black Hippy

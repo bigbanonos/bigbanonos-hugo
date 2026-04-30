@@ -1,15 +1,12 @@
 ---
 title: "Hovvdy"
+slug: "hovvdy"
 date: 2024-04-26
-category: "artist"
-track_count: 9
-first_year: 2021
-last_year: 2024
+layout: post
 tags:
   - '@hovvdy'
   - '2020s'
   - 'lo-fi indie'
-stub: true
 ---
 
 ## Hovvdy

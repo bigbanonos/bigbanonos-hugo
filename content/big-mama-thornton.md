@@ -1,12 +1,12 @@
 ---
-title: "' 'Big Mama Thornton'
-'"
+title: "Big Mama Thornton"
+slug: "big-mama-thornton"
 date: 2025-01-17
-original_title: "'Big Mama Thornton'"
+layout: post
 tags:
   - '@bigmamathornton'
-layout: post
 ---
+
  <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Big Mama Thornton</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab67616d0000b273797e51a364c3b0882732238d" alt="Big Mama Thornton" >}}

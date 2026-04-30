@@ -1,16 +1,13 @@
 ---
 title: "Lyn Collins"
+slug: "lyn-collins"
 date: 1986-01-01
-category: "artist"
-track_count: 2
-first_year: 1972
-last_year: 1986
+layout: post
 tags:
   - '@lyn-collins'
   - '1900s'
   - 'funk'
   - 'classic soul'
-stub: true
 ---
 
 ## Lyn Collins

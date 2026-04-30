@@ -1,13 +1,13 @@
 ---
-title: "' 'Akon'
-'"
+title: "Akon"
+slug: "akon"
 date: 2025-01-17
-original_title: "'Akon'"
+layout: post
 tags:
   - '@snoopdogg'
   - '@akon'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Akon</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab6761610000e5eb3b6ab4190c7435238735b59d" alt="Akon" >}}

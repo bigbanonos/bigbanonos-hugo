@@ -1,12 +1,12 @@
 ---
-title: "' 'Shaboozey'
-'"
+title: "Shaboozey"
+slug: "shaboozey"
 date: 2024-12-30
-original_title: "'Shaboozey'"
+layout: post
 tags:
   - '@shaboozey'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >Shaboozey - A Bar Song (Tipsy)</h1> <!-- Introductory Text -->
 <p >Shaboozey's "A Bar Song (Tipsy)" blends country vibes with catchy beats, making it the perfect anthem for your next night out. Watch the visualizer below!</p> <!-- Featured Image -->

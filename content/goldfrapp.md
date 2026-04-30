@@ -1,12 +1,12 @@
 ---
-title: "' 'Goldfrapp'
-'"
+title: "Goldfrapp"
+slug: "goldfrapp"
 date: 2025-02-12
-original_title: "'Goldfrapp'"
+layout: post
 tags:
   - '@goldfrapp'
-layout: post
 ---
+
 <div> {{< img-lite src="https://i.scdn.co/image/ab67616d0000b2734d674f0adfac1707ea064885" alt="Goldfrapp" >}}
 </div> <p>
 BigBanonos' favorite tracks by Goldfrapp:

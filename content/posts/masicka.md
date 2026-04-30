@@ -1,10 +1,8 @@
 ---
 title: "Masicka"
+slug: "masicka"
 date: 2018-01-18
-category: "artist"
-track_count: 3
-first_year: 2014
-last_year: 2018
+layout: post
 tags:
   - '@masicka'
   - '@masicka-navino'
@@ -12,7 +10,6 @@ tags:
   - 'dancehall'
   - 'soca'
   - 'riddim'
-stub: true
 ---
 
 ## Masicka

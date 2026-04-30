@@ -1,12 +1,12 @@
 ---
-title: "' 'Drama'
-'"
+title: "Drama"
+slug: "drama"
 date: 2024-12-17
-original_title: "'Drama'"
+layout: post
 tags:
   - '@drama'
-layout: post
 ---
+
 <h2>Drama â€“ Essential Tracks</h2> <div > <img src="https://i.ytimg.com/vi/rE1ZIfbXVKY/sddefault.jpg" alt="Drama" width="400" />
 </div> {{< youtube "embed" >}} <h3>Tracklist</h3>
 <ul> <li><strong>Double Time (Drama's Cadence)</strong> â€“ <em>Causin' Drama</em> (2000)</li> <li><strong>Left, Right, Left</strong> â€“ <em>Causin' Drama</em> (2000)</li> <li><strong>The Plot</strong> â€“ <em>Causin' Drama</em> (2000)</li>

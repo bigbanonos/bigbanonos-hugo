@@ -1,12 +1,12 @@
 ---
-title: "' 'Phantogram'
-'"
+title: "Phantogram"
+slug: "phantogram"
 date: 2025-01-18
-original_title: "'Phantogram'"
+layout: post
 tags:
   - '@phantogram'
-layout: post
 ---
+
 <!--Introductory Text-->
 <p >Phantogramâ€™s ethereal blend of electronic beats and indie vibes has captivated fans worldwide. Discover their highlights below!</p> <!--Featured Image-->
 <div > <img alt="Phantogram" src="https://indeflagration.fr/wp-content/uploads/2016/04/Phantogram-Interview-Indeflagration.jpg" />

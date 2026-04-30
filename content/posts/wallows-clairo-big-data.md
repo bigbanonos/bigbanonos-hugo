@@ -1,10 +1,8 @@
 ---
-title: "Wallows;Clairo;Big Data"
+title: "Wallows Clairo Big Data"
+slug: "wallows-clairo-big-data"
 date: 2020-08-28
-category: "artist"
-track_count: 2
-first_year: 2019
-last_year: 2020
+layout: post
 tags:
   - '@wallows-clairo-big-data'
   - '@wallows-clairo-mura-masa'
@@ -12,7 +10,6 @@ tags:
   - '2020s'
   - 'indie'
   - 'bedroom pop'
-stub: true
 ---
 
 ## Wallows;Clairo;Big Data

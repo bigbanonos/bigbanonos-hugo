@@ -1,15 +1,12 @@
 ---
 title: "Kurt Cobain"
+slug: "kurt-cobain"
 date: 2015-11-13
-category: "artist"
-track_count: 3
-first_year: 2015
-last_year: 2015
+layout: post
 tags:
   - '@kurt-cobain'
   - '00s-10s'
   - 'grunge'
-stub: true
 ---
 
 ## Kurt Cobain

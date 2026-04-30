@@ -1,15 +1,15 @@
 ---
-title: "' 'WESTSIDE BOOGIE'
-'"
+title: "Westside Boogie"
+slug: "westside-boogie"
 date: 2025-01-10
-original_title: "'WESTSIDE BOOGIE'"
+layout: post
 tags:
   - '@teezotouchdown'
   - '@snohaalegra'
   - '@smino'
   - '@westsideboogie'
-layout: post
 ---
+
 <div class="post-title"> <h1>BigBanonos' Favorite Songs by WESTSIDE BOOGIE</h1>
 </div>
 <p>Updated June 17, 2022, with "CAN'T GET OVER YOU" featuring Smino & Teezo Touchdown from the album <i>MORE BLACK SUPERHEROES</i>, highlighted in the playlist below:</p>

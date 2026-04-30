@@ -1,12 +1,12 @@
 ---
-title: "' 'Bartees Strange'
-'"
+title: "Bartees Strange"
+slug: "bartees-strange"
 date: 2024-11-03
-original_title: "'Bartees Strange - 2 Songs'"
+layout: post
 tags:
   - '@barteesstrange'
-layout: post
 ---
+
 <h2>BigBanonos' Top 2 Favorite Songs by Bartees Strange</h2> <!--Search Description-->
 <p>BigBanonos' top 2 favorite songs by Bartees Strange, featuring his unique blend of bubblegrunge and rock. Last updated September 23, 2021, with "Weights" and "Boomer" from <em>Live Forever</em>, highlighted in the playlist below:</p> <!--Spotify Playlist Embed-->
 {{< youtube "embed" >}} <!--Song List with Album Info-->

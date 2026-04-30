@@ -1,16 +1,13 @@
 ---
-title: "Kacy Hill;Nourished by Time"
+title: "Kacy Hill Nourished By Time"
+slug: "kacy-hill-nourished-by-time"
 date: 2024-05-03
-category: "artist"
-track_count: 2
-first_year: 2021
-last_year: 2024
+layout: post
 tags:
   - '@kacy-hill-nourished-by-time'
   - '@kacy-hill'
   - '2020s'
   - 'indie electronic'
-stub: true
 ---
 
 ## Kacy Hill;Nourished by Time

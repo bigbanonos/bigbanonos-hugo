@@ -1,12 +1,12 @@
 ---
-title: "' 'Marianne Faithful'
-'"
+title: "Marianne Faithful"
+slug: "marianne-faithful"
 date: 2024-12-17
-original_title: "'Marianne Faithful'"
+layout: post
 tags:
   - '@mariannefaithful'
-layout: post
 ---
+
 <h1>BigBanonos Top Songs by Marianne Faithfull</h1>
 <img alt="Marianne Faithfull" src="https://i.ytimg.com/vi/ZszSQSiUH2c/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AG-AoAC8AGKAgwIABABGGUgZShlMA8=&rs=AOn4CLASDjg-Ui7hS0o-JDwdLWIQwwLl2A" /> <p>Marianne Faithfull's haunting voice and poetic lyricism have left an indelible mark on rock and folk music. Here's a selection of BigBanonos' favorite tracks:</p> <ol> <li><strong>Broken English</strong> | <em>Broken English (Deluxe Edition)</em> | UMC (Universal Music Catalogue) | Released: November 2, 1979</li><li><strong>No Child Of Mine</strong>Ãƒâ€šÃ‚Â | 2005</li>
 </ol> <div> {{< youtube "embed" >}}

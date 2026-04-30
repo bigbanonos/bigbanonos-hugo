@@ -1,12 +1,12 @@
 ---
-title: "' 'Gogol Bordello'
-'"
+title: "Gogol Bordello"
+slug: "gogol-bordello"
 date: 2024-12-29
-original_title: "'Gogol Bordello'"
+layout: post
 tags:
   - '@gogolbordello'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonos Favorite Song by Gogol Bordello: "Start Wearing Purple"</h1> <!-- Introductory Text -->
 <p >Updated August 23, 2005, with "Start Wearing Purple" by Gogol Bordello. This high-energy anthem from the album *Gypsy Punks: Underdog World Strike* showcases the bandâ€™s signature blend of balkan brass and gypsy punk. Watch the video below!</p> <!-- Featured Image -->

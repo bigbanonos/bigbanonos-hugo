@@ -1,16 +1,13 @@
 ---
 title: "Taylor Swift"
+slug: "taylor-swift"
 date: 2023-10-19
-category: "artist"
-track_count: 3
-first_year: 2020
-last_year: 2023
+layout: post
 tags:
   - '@taylor-swift'
   - '@taylor-swift-lp-giobbi'
   - '2020s'
   - 'house'
-stub: true
 ---
 
 ## Taylor Swift

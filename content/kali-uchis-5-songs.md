@@ -1,15 +1,15 @@
 ---
-title: "' 'Kali Uchis'
-'"
+title: "Kali Uchis"
+slug: "kali-uchis"
 date: 2024-10-29
-original_title: "'Kali Uchis - 5 Songs'"
+layout: post
 tags:
   - '@kaliuchis'
   - '@elalfa'
   - '@jt'
   - '@peso_pluma'
-layout: post
 ---
+
 <h2>Kali Uchis: BigBanonos' Top Songs</h2>
 <p>Updated January 12, 2024, with "Igual Que Un ÃƒÆ’Ã‚Ângel" (feat. Peso Pluma)</p>
 <p>Uncover the smooth rhythms and Latin pop influences in <strong>Kali Uchis</strong>' best songs, selected by BigBanonos.</p> <h3>Playlist</h3>

@@ -1,16 +1,13 @@
 ---
 title: "Gold Gad"
+slug: "gold-gad"
 date: 2020-02-28
-category: "artist"
-track_count: 2
-first_year: 2019
-last_year: 2020
+layout: post
 tags:
   - '@gold-gad'
   - '00s-10s'
   - '2020s'
   - 'dancehall'
-stub: true
 ---
 
 ## Gold Gad

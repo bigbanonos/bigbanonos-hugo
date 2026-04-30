@@ -1,14 +1,11 @@
 ---
 title: "The Glands"
+slug: "the-glands"
 date: 2000-08-01
-category: "artist"
-track_count: 3
-first_year: 2000
-last_year: 2000
+layout: post
 tags:
   - '@the-glands'
   - '00s-10s'
-stub: true
 ---
 
 ## The Glands

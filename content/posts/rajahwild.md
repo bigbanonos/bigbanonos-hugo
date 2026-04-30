@@ -1,10 +1,8 @@
 ---
-title: "RajahWild"
+title: "Rajahwild"
+slug: "rajahwild"
 date: 2026-01-12
-category: "artist"
-track_count: 6
-first_year: 2023
-last_year: 2026
+layout: post
 tags:
   - '@rajahwild'
   - '@rajahwild-rvssian'
@@ -14,7 +12,6 @@ tags:
   - 'dancehall'
   - 'soca'
   - 'trap latino'
-stub: true
 ---
 
 ## RajahWild

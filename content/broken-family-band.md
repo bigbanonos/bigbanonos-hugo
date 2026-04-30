@@ -1,12 +1,12 @@
 ---
-title: "' 'Broken Family Band'
-'"
+title: "Broken Family Band"
+slug: "broken-family-band"
 date: 2024-12-16
-original_title: "'Broken Family Band'"
+layout: post
 tags:
   - '@brokenfamilyband'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >The Broken Family Band - Mother O'Jesus</h1> <!-- Introductory Text -->
 <p >Updated with *Mother O'Jesus* by The Broken Family Band, a standout track from their 2004 album *Jesus Songs*. The song blends indie rock with poignant lyrics, capturing the band's unique style that oscillates between folk and rock influences. With its raw emotion and subtle narrative, *Mother O'Jesus* exemplifies the blend of warmth and irony that defines The Broken Family Band's sound.</p> <!-- Featured Image -->

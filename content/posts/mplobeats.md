@@ -1,7 +1,8 @@
 ---
-title: "MPLOBeats"
+title: "Mplobeats"
+slug: "mplobeats"
 date: 2026-02-23
-category: "artist"
+layout: post
 tags:
   - '@mplobeats'
   - '@sundayservicechoir'

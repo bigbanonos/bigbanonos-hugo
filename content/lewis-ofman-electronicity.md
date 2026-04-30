@@ -1,12 +1,11 @@
 ---
-title: "Lewis OfMan"
+title: "Lewis Ofman Electronicity"
+slug: "lewis-ofman-electronicity"
 date: 2026-01-29
+layout: post
 tags:
   - '@lewisofman'
   - '@frenchindipop'
-spotify_url: "https://open.spotify.com/track/12JADuvXNQXZFwLcfob4QY"
-not_on_spotify: false
-category: "1off-2020s"
 ---
 
 French indie pop that actually moves. *Electronicity* is the one.

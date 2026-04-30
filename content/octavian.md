@@ -1,12 +1,12 @@
 ---
-title: "' 'Octavian'
-'"
+title: "Octavian"
+slug: "octavian"
 date: 2024-12-15
-original_title: "'Octavian'"
+layout: post
 tags:
   - '@octavian'
-layout: post
 ---
+
 <!-- Post Title -->
 <h1 >BigBanonos' Favorite Tracks: Octavian - "Molly Go Down"</h1> <!-- Introductory Text -->
 <p >Updated June 13, 2019, with "Molly Go Down" by Octavian. This track from the album <em>Endorphins</em>, released under Black Butter, blends Afroswing with UK alternative hip hop, showcasing Octavianâ€™s signature sound and dynamic flow.</p> <!-- Featured Image -->

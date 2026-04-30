@@ -1,12 +1,12 @@
 ---
-title: "' 'Quasi'
-'"
+title: "Quasi"
+slug: "quasi"
 date: 2024-12-29
-original_title: "'Quasi'"
+layout: post
 tags:
   - '@quasi'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonos Favorite Song by Quasi: "Seven Years Gone"</h1> <!-- Introductory Text -->
 <p >Updated September 9, 2003, with "Seven Years Gone" by Quasi. This introspective and raw track from *Hot Shit* highlights the duo's signature lo-fi aesthetic and emotionally charged songwriting. Watch and listen below!</p> <!-- Featured Image -->

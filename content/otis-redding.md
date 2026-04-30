@@ -1,12 +1,12 @@
 ---
-title: "' 'Otis Redding'
-'"
+title: "Otis Redding"
+slug: "otis-redding"
 date: 2025-01-16
-original_title: "'Otis Redding'"
+layout: post
 tags:
   - '@otisredding'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1>BigBanonosâ€™ Favorite Songs by Otis Redding</h1> <!-- Featured Image -->
 <div> {{< img-lite src="https://i.scdn.co/image/a5897eff01844c42d894a586e618ebc4aa0b9d2f" alt="Otis Redding" >}}

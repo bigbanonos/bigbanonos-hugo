@@ -1,15 +1,12 @@
 ---
 title: "Samia"
+slug: "samia"
 date: 2023-06-21
-category: "artist"
-track_count: 4
-first_year: 2021
-last_year: 2023
+layout: post
 tags:
   - '@samia'
   - '@samia-rachael-jenkins'
   - '2020s'
-stub: true
 ---
 
 ## Samia

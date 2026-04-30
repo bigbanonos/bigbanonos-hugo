@@ -1,17 +1,14 @@
 ---
 title: "Heatmiser"
+slug: "heatmiser"
 date: 2015-02-05
-category: "artist"
-track_count: 11
-first_year: 1994
-last_year: 2015
+layout: post
 tags:
   - '@heatmiser'
   - '@heatmiser-elliott-smith'
   - '00s-10s'
   - '1900s'
   - 'singer-songwriter'
-stub: true
 ---
 
 ## Heatmiser

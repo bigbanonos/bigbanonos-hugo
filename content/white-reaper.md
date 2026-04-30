@@ -1,12 +1,12 @@
 ---
-title: "' 'White Reaper'
-'"
+title: "White Reaper"
+slug: "white-reaper"
 date: 2025-01-11
-original_title: "'White Reaper'"
+layout: post
 tags:
   - '@whitereaper'
-layout: post
 ---
+
 <div class="post-title"> <h1>BigBanonos' Favorite Songs by White Reaper</h1>
 </div>
 <p>Updated January 27, 2023, with "Pages" from the album <i>Asking For A Ride</i>, highlighted in the playlist below:</p>

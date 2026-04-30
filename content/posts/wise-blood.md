@@ -1,14 +1,11 @@
 ---
 title: "Wise Blood"
+slug: "wise-blood"
 date: 2019-01-01
-category: "artist"
-track_count: 5
-first_year: 2011
-last_year: 2019
+layout: post
 tags:
   - '@wise-blood'
   - '00s-10s'
-stub: true
 ---
 
 ## Wise Blood

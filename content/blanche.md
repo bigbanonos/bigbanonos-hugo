@@ -1,12 +1,12 @@
 ---
-title: "' 'Blanche'
-'"
+title: "Blanche"
+slug: "blanche"
 date: 2024-12-28
-original_title: "'Blanche'"
+layout: post
 tags:
   - '@blanche'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonos Favorite Song by Blanche: "Someday"</h1> <!-- Introductory Text -->
 <p >Updated May 25, 2004, with "Someday" by Blanche. This hauntingly beautiful track captures the bandâ€™s unique blend of gothic Americana and alt-country influences. Watch the video below!</p> <!-- Featured Image -->

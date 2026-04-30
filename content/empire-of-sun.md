@@ -1,15 +1,15 @@
 ---
-title: "' 'Empire Of The Sun'
-'"
+title: "Empire Of Sun"
+slug: "empire-of-sun"
 date: 2024-10-28
-original_title: "'Empire Of The Sun - 4 Songs'"
+layout: post
 tags:
   - '@emirecordedmusic'
   - '@astralwerks'
   - '@capitolrecords'
   - '@empireofthesun'
-layout: post
 ---
+
 <p>Ãƒâ€šÃ‚Â </p>
 <h3><strong>BigBanonos' Top 4 Songs by Empire Of The Sun</strong></h3>
 <p>Updated October 28, 2016 with "Thereâ€™s No Need"</p> <p>{{< youtube "embed" >}}</p> <h4>Selected Tracks</h4>

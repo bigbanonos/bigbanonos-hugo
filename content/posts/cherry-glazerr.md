@@ -1,14 +1,11 @@
 ---
 title: "Cherry Glazerr"
+slug: "cherry-glazerr"
 date: 2018-11-08
-category: "artist"
-track_count: 2
-first_year: 2013
-last_year: 2018
+layout: post
 tags:
   - '@cherry-glazerr'
   - '00s-10s'
-stub: true
 ---
 
 ## Cherry Glazerr

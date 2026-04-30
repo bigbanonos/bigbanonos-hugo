@@ -1,12 +1,12 @@
 ---
-title: "' 'The Doors'
-'"
+title: "The Doors"
+slug: "the-doors"
 date: 2025-02-21
-original_title: "'The Doors'"
+layout: post
 tags:
   - '@doors'
-layout: post
 ---
+
 <img src="https://spaces.whynow.co.uk/2024/01/jim-morrison-arrested-e1705256259405.jpg" width="100%" /> <h2>BigBanonos' Favorite Songs by The Doors</h2> <p>Updated April 19, 1971, with "Hyacinth House" from <em>L.A. Woman</em>. Highlights and #NotOnSpotify picks below:</p> {{< youtube "embed" >}} <hr /> <h3>Full Song List</h3> <ul>
 <li><strong>"Roadhouse Blues"</strong> (1970, <em>Morrison Hotel</em>) - Released February 9, 1970, under Rhino/Elektra. A blues-driven rock staple known for its raw, live energy.</li>
 <li><strong>"Hyacinth House"</strong> (1971, <em>L.A. Woman</em>) - Released April 19, 1971, under Rhino/Elektra. A reflective, melancholic deep cut from their final album with Jim Morrison.</li>

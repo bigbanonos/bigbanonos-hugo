@@ -1,13 +1,13 @@
 ---
-title: "' 'BADBADNOTGOOD'
-'"
+title: "Badbadnotgood"
+slug: "badbadnotgood"
 date: 2024-12-01
-original_title: "'BADBADNOTGOOD'"
+layout: post
 tags:
   - '@samuelt.herring'
   - '@badbadnotgood'
-layout: post
 ---
+
 <!-- Post Title -->
 <h1 >BigBanonos' Favorite Song by BADBADNOTGOOD and Samuel T. Herring</h1> <!-- Introductory Text -->
 <p >Updated July 8, 2016, with BigBanonos' favorite song by BADBADNOTGOOD and Samuel T. Herring, "Time Moves Slow," from the album *IV*. Watch the video and see more details below:</p> <!-- Featured Image -->

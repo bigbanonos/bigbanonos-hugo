@@ -1,12 +1,12 @@
 ---
-title: "' 'Rilo Kiley'
-'"
+title: "Rilo Kiley"
+slug: "rilo-kiley"
 date: 2025-02-10
-original_title: "'Rilo Kiley'"
+layout: post
 tags:
   - '@rilokiley'
-layout: post
 ---
+
 <!-- Rilo Kiley -->
 <img src="https://i.scdn.co/image/7b2813bb4afb38f0dab9470a514091fc4ef6b1a1" /> <p><strong>Updated October 1, 2002 with "With Arms Outstretched" from <em>The Execution Of All Things</em></strong></p> <p><strong>"With Arms Outstretched"</strong> â€“ <em>The Execution Of All Things</em> (Saddle Creek, 2002)</p>
 <p><strong>"The Good That Won't Come Out"</strong> â€“ <em>The Execution Of All Things</em> (Saddle Creek, 2002)</p>

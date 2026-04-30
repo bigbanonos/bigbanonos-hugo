@@ -1,12 +1,12 @@
 ---
-title: "' 'Jess Wiliamson'
-'"
+title: "Jess Wiliamson"
+slug: "jess-wiliamson"
 date: 2024-12-20
-original_title: "'Jess Wiliamson - 11 Songs'"
+layout: post
 tags:
   - '@jesswilliamson'
-layout: post
 ---
+
 <h1>Jess Williamson: 13 Essential Tracks You Need to Hear</h1>
 <img alt="Jess Williamson" src="https://images.squarespace-cdn.com/content/v1/57a3b9689f7456038870f069/8c0ebdd0-8695-4da1-82c9-37aecbce24b6/Jess+Williamson+-+Time+Ain%27t+Accidental+_+Press+Photo%2C+Credit+to+Jackie+Lee+Young.jpeg" /> <p>Dive into the atmospheric world of <strong>Jess Williamson</strong>, where <em>alternative Americana</em> and <em>countrygaze</em> intersect beautifully. This carefully selected list showcases her haunting melodies and reflective lyrics across her albums. Each track highlights Williamson's unique voice and style, blending folk, Americana, and an ethereal vibe that keeps fans captivated.</p>
 {{< youtube "videoseries" >}}<br />

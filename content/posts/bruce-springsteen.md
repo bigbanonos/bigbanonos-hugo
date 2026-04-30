@@ -1,10 +1,8 @@
 ---
 title: "Bruce Springsteen"
+slug: "bruce-springsteen"
 date: 2022-11-11
-category: "artist"
-track_count: 24
-first_year: 1973
-last_year: 2022
+layout: post
 tags:
   - '@bruce-springsteen'
   - '@bill-callahan'
@@ -24,7 +22,6 @@ tags:
   - 'alt country'
   - 'americana'
   - 'singer-songwriter'
-stub: true
 ---
 
 ## Bruce Springsteen

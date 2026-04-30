@@ -1,16 +1,13 @@
 ---
 title: "Mikal Cronin"
+slug: "mikal-cronin"
 date: 2013-05-07
-category: "artist"
-track_count: 5
-first_year: 2011
-last_year: 2013
+layout: post
 tags:
   - '@mikal-cronin'
   - '00s-10s'
   - 'garage rock'
   - 'power pop'
-stub: true
 ---
 
 ## Mikal Cronin

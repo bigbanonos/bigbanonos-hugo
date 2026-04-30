@@ -1,10 +1,8 @@
 ---
 title: "Snoh Aalegra"
+slug: "snoh-aalegra"
 date: 2021-07-09
-category: "artist"
-track_count: 9
-first_year: 2019
-last_year: 2021
+layout: post
 tags:
   - '@snoh-aalegra'
   - '@snoh-aalegra-6lack'
@@ -13,7 +11,6 @@ tags:
   - '00s-10s'
   - '2020s'
   - 'alternative r&b'
-stub: true
 ---
 
 ## Snoh Aalegra

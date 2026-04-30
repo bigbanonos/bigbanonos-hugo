@@ -1,10 +1,8 @@
 ---
 title: "The Beatles"
+slug: "the-beatles"
 date: 2021-10-15
-category: "artist"
-track_count: 28
-first_year: 1963
-last_year: 2021
+layout: post
 tags:
   - '@the-beatles'
   - '00s-10s'
@@ -12,7 +10,6 @@ tags:
   - '2020s'
   - 'classic rock'
   - 'psychedelic rock'
-stub: true
 ---
 
 ## The Beatles

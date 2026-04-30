@@ -1,13 +1,13 @@
 ---
-title: "' 'Christine and the Queens'
-'"
+title: "Christine And Queens"
+slug: "christine-and-queens"
 date: 2024-11-03
-original_title: "'Christine and the Queens - 13 Songs'"
+layout: post
 tags:
   - '@070shake'
   - '@christineandthequeens'
-layout: post
 ---
+
 <h2>BigBanonos' Favorite Songs by Christine and the Queens</h2>
 <p>For more Christine and the Queens, check out the 2024 post on the Top 10 MGMT Tracks for Christine's feature on "Dancing In Babylon (feat. Christine and the Queens) - Loss Of Life (2024)" <a href="https://bigbanonos.blogspot.com/2024/02/mgmt-10-songs.html">here</a>, and on the 2021 song by Charli XCX "New Shapes" featuring Caroline Polachek <a href="https://bigbanonos.blogspot.com/2013/04/charli-xcx.html">here</a>, as well as the 070 Shake BigBanonos articleÃƒâ€šÃ‚Â <a href="https://bigbanonos.blogspot.com/2024/10/070-shake.html">here</a>.</p> <!--Search Description-->
 <p>BigBanonos' favorite tracks by Christine and the Queens, highlighting the best of art pop, electro-pop francais, and shimmer pop, are listed below.Ãƒâ€šÃ‚Â </p> <!--Spotify Playlist Embed-->

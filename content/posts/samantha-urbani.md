@@ -1,14 +1,11 @@
 ---
 title: "Samantha Urbani"
+slug: "samantha-urbani"
 date: 2023-09-22
-category: "artist"
-track_count: 4
-first_year: 2023
-last_year: 2023
+layout: post
 tags:
   - '@samantha-urbani'
   - '2020s'
-stub: true
 ---
 
 ## Samantha Urbani

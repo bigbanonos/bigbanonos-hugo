@@ -1,14 +1,11 @@
 ---
 title: "Frigga"
+slug: "frigga"
 date: 2018-10-05
-category: "artist"
-track_count: 2
-first_year: 2018
-last_year: 2018
+layout: post
 tags:
   - '@frigga'
   - '00s-10s'
-stub: true
 ---
 
 ## Frigga

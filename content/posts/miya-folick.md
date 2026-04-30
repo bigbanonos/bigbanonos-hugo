@@ -1,15 +1,12 @@
 ---
 title: "Miya Folick"
+slug: "miya-folick"
 date: 2023-01-20
-category: "artist"
-track_count: 2
-first_year: 2015
-last_year: 2023
+layout: post
 tags:
   - '@miya-folick'
   - '00s-10s'
   - '2020s'
-stub: true
 ---
 
 ## Miya Folick

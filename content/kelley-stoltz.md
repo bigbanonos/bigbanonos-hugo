@@ -1,12 +1,12 @@
 ---
-title: "' 'Kelley Stoltz'
-'"
+title: "Kelley Stoltz"
+slug: "kelley-stoltz"
 date: 2025-01-16
-original_title: "'Kelley Stoltz'"
+layout: post
 tags:
   - '@kelleystoltz'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1>BigBanonosâ€™ Favorite Songs by Kelley Stoltz</h1> <!-- Introductory Text -->
 <p>Kelley Stoltzâ€™s infectious melodies and indie rock vibes make his music a treasure trove for fans of Bay Area indie. BigBanonos highlights his standout tracks from an impressive catalog.</p> <!-- Featured Image -->

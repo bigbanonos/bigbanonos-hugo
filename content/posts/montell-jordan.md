@@ -1,10 +1,8 @@
 ---
 title: "Montell Jordan"
+slug: "montell-jordan"
 date: 2015-09-25
-category: "artist"
-track_count: 4
-first_year: 1995
-last_year: 2015
+layout: post
 tags:
   - '@montell-jordan'
   - '@montell-jordan-master-p-silkk-the-shocker'
@@ -15,7 +13,6 @@ tags:
   - 'doom metal'
   - 'stoner metal'
   - 'sludge metal'
-stub: true
 ---
 
 ## Montell Jordan

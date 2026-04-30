@@ -1,10 +1,8 @@
 ---
 title: "Couch Prints"
+slug: "couch-prints"
 date: 2026-02-26
-category: "artist"
-track_count: 7
-first_year: 2019
-last_year: 2026
+layout: post
 tags:
   - '@couch-prints'
   - '@couch-prints-mixed-matches'
@@ -12,7 +10,6 @@ tags:
   - '2020s'
   - 'bedroom pop'
   - 'hyperpop'
-stub: true
 ---
 
 ## Couch Prints

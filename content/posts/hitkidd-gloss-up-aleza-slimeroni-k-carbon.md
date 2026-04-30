@@ -1,10 +1,8 @@
 ---
-title: "Hitkidd;Gloss Up;Aleza;Slimeroni;K Carbon"
+title: "Hitkidd Gloss Up Aleza Slimeroni K Carbon"
+slug: "hitkidd-gloss-up-aleza-slimeroni-k-carbon"
 date: 2024-11-08
-category: "artist"
-track_count: 4
-first_year: 2022
-last_year: 2024
+layout: post
 tags:
   - '@hitkidd-gloss-up-aleza-slimeroni-k-carbon'
   - '@hitkidd-dess-dior-guapdad-4000'
@@ -14,7 +12,6 @@ tags:
   - 'chicago drill'
   - 'footwork'
   - 'afrobeats'
-stub: true
 ---
 
 ## Hitkidd;Gloss Up;Aleza;Slimeroni;K Carbon

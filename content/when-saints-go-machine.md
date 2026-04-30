@@ -1,12 +1,12 @@
 ---
-title: "' 'When Saints Go Machine'
-'"
+title: "When Saints Go Machine"
+slug: "when-saints-go-machine"
 date: 2025-02-10
-original_title: "'When Saints Go Machine'"
+layout: post
 tags:
   - '@whensaintsgomachine'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by When Saints Go Machine</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://www.jambase.com/wp-content/uploads/2023/05/when-saints-go-machine-1480x832.png" alt="When Saints Go Machine" >}}

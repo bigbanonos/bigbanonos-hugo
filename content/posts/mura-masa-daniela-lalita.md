@@ -1,10 +1,8 @@
 ---
-title: "Mura Masa;Daniela Lalita"
+title: "Mura Masa Daniela Lalita"
+slug: "mura-masa-daniela-lalita"
 date: 2023-09-08
-category: "artist"
-track_count: 5
-first_year: 2015
-last_year: 2023
+layout: post
 tags:
   - '@mura-masa-daniela-lalita'
   - '@mura-masa'
@@ -13,7 +11,6 @@ tags:
   - '00s-10s'
   - '2020s'
   - 'alternative r&b'
-stub: true
 ---
 
 ## Mura Masa;Daniela Lalita

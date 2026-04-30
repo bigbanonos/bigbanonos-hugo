@@ -1,10 +1,8 @@
 ---
-title: "George Clanton;Nick Hexum"
+title: "George Clanton Nick Hexum"
+slug: "george-clanton-nick-hexum"
 date: 2019-09-27
-category: "artist"
-track_count: 2
-first_year: 2018
-last_year: 2019
+layout: post
 tags:
   - '@george-clanton-nick-hexum'
   - '@george-clanton'
@@ -12,7 +10,6 @@ tags:
   - 'vaporwave'
   - 'chillwave'
   - 'plunderphonics'
-stub: true
 ---
 
 ## George Clanton;Nick Hexum

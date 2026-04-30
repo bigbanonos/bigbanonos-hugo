@@ -1,12 +1,12 @@
 ---
-title: "' 'Cassandra Jenkins'
-'"
+title: "Cassandra Jenkins"
+slug: "cassandra-jenkins"
 date: 2024-10-27
-original_title: "'Cassandra Jenkins - 6 Songs'"
+layout: post
 tags:
   - '@cassandrajenkins'
-layout: post
 ---
+
 <p>Ãƒâ€šÃ‚Â </p>
 <h3><strong>BigBanonos' Top 6 Cassandra Jenkins Songs</strong></h3>
 <p>Updated July 12, 2024 with "<i>Clams Casino</i>"</p> <ol> <li><p>"Clams Casino"<br />Album: <em>My Light, My Destroyer</em><br />Release Date: July 12, 2024<br />Label: Dead Oceans<br />Genres: Countrygaze</p></li> <li><p>"Michelangelo (demo)"<br />Album: <em>(An Overview on) An Overview on Phenomenal Nature</em><br />Release Date: November 19, 2021<br />Label: Ba Da Bing!<br />Genres: Countrygaze</p></li> <li><p>"Hailey (premix)"<br />Album: <em>(An Overview on) An Overview on Phenomenal Nature</em><br />Release Date: November 19, 2021<br />Label: Ba Da Bing!<br />Genres: Countrygaze</p></li> <li><p>"Michelangelo"<br />Album: <em>An Overview on Phenomenal Nature</em><br />Release Date: February 19, 2021<br />Label: Ba Da Bing!<br />Genres: Countrygaze</p></li> <li><p>"Crosshairs"<br />Album: <em>Crosshairs</em><br />Release Date: February 9, 2021<br />Label: Ba Da Bing!<br />Genres: Countrygaze</p></li> <li><p>"Hard Drive"<br />Album: <em>Hard Drive</em><br />Release Date: January 20, 2021<br />Label: Ba Da Bing!<br />Genres: Countrygaze</p></li>

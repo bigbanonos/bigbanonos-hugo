@@ -1,10 +1,8 @@
 ---
 title: "Buzzcocks"
+slug: "buzzcocks"
 date: 1996-01-01
-category: "artist"
-track_count: 3
-first_year: 1979
-last_year: 1996
+layout: post
 tags:
   - '@buzzcocks'
   - '1900s'
@@ -12,7 +10,6 @@ tags:
   - 'proto-punk'
   - 'madchester'
   - 'power pop'
-stub: true
 ---
 
 ## Buzzcocks

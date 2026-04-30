@@ -1,12 +1,12 @@
 ---
-title: "' 'Three Queens In Mourning'
-'"
+title: "Three Queens In Mourning"
+slug: "three-queens-in-mourning"
 date: 2025-01-10
-original_title: "'Three Queens In Mourning'"
+layout: post
 tags:
   - '@threequeensinmourning'
-layout: post
 ---
+
 <div class="post-title"> <h1>BigBanonos' Favorite Songs by Three Queens In Mourning</h1>
 </div>
 <p>Updated August 9, 2020, with "Christmas Time in the Mountains" from the album <i>Hello Sorrow / Hello Joy</i>, highlighted in the playlist below:</p>

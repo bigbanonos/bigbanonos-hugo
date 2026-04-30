@@ -1,12 +1,12 @@
 ---
-title: "' 'Men I Trust'
-'"
+title: "Men I Trust"
+slug: "men-i-trust"
 date: 2024-12-20
-original_title: "'Men I Trust - 2 Songs'"
+layout: post
 tags:
   - '@menitrust'
-layout: post
 ---
+
 <h1>BigBanonos 2 Favorite Songs by Men I Trust</h1>
 {{< img-lite src="https://www.brooklynvegan.com/wp-content/uploads/2023/11/20/menitrust-terminal5-010-1052x591.jpg?t=1715369106672d7fbb27aed" alt="Men I Trust" >}} <p>BigBanonos' favorite tracks by Men I Trust capture the mellow, indie pop vibe that defines their music. These selections reflect the bandâ€™s signature soothing and introspective sound.</p> <ol> <li><strong>Ring of Past</strong> | <em>Ring of Past</em> | Independent | Released: February 16, 2023</li> <li><strong>Sugar</strong> | <em>Untourable Album</em> | Independent | Released: August 25, 2021</li>
 </ol> <div> {{< youtube "embed" >}}

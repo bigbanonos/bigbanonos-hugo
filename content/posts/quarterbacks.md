@@ -1,16 +1,13 @@
 ---
-title: "QUARTERBACKS"
+title: "Quarterbacks"
+slug: "quarterbacks"
 date: 2015-02-10
-category: "artist"
-track_count: 3
-first_year: 2015
-last_year: 2015
+layout: post
 tags:
   - '@quarterbacks'
   - '00s-10s'
   - 'midwest emo'
   - 'indie punk'
-stub: true
 ---
 
 ## QUARTERBACKS

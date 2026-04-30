@@ -1,10 +1,8 @@
 ---
 title: "John Cale"
+slug: "john-cale"
 date: 1974-01-01
-category: "artist"
-track_count: 2
-first_year: 1974
-last_year: 1974
+layout: post
 tags:
   - '@john-cale'
   - '1900s'
@@ -12,7 +10,6 @@ tags:
   - 'baroque pop'
   - 'proto-punk'
   - 'singer-songwriter'
-stub: true
 ---
 
 ## John Cale

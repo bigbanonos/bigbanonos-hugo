@@ -1,12 +1,12 @@
 ---
-title: "' 'Edith Frost'
-'"
+title: "Edith Frost"
+slug: "edith-frost"
 date: 2024-12-29
-original_title: "'Edith Frost'"
+layout: post
 tags:
   - '@edithfrost'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonos Favorite Song by Edith Frost: "Cars and Parties"</h1> <!-- Introductory Text -->
 <p >Updated July 17, 2001, with "Cars and Parties" by Edith Frost. This alternative Americana track from her album *Wonder Wonder* showcases Frostâ€™s emotive vocals and introspective songwriting. Watch the video below!</p> <!-- Featured Image -->

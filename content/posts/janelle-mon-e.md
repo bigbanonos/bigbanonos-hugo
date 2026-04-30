@@ -1,10 +1,8 @@
 ---
-title: "Janelle Monáe"
+title: "Janelle Mon E"
+slug: "janelle-mon-e"
 date: 2023-05-11
-category: "artist"
-track_count: 8
-first_year: 2010
-last_year: 2023
+layout: post
 tags:
   - '@janelle-mon-e'
   - '@janelle-mon-e-big-boi'
@@ -16,7 +14,6 @@ tags:
   - 'r&b'
   - 'southern hip hop'
   - 'neo soul'
-stub: true
 ---
 
 ## Janelle Monáe

@@ -1,10 +1,8 @@
 ---
 title: "The Isley Brothers"
+slug: "the-isley-brothers"
 date: 2021-04-05
-category: "artist"
-track_count: 6
-first_year: 1974
-last_year: 2021
+layout: post
 tags:
   - '@the-isley-brothers'
   - '@the-isley-brothers-js'
@@ -16,7 +14,6 @@ tags:
   - 'quiet storm'
   - 'soul'
   - 'classic soul'
-stub: true
 ---
 
 ## The Isley Brothers

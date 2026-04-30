@@ -1,12 +1,12 @@
 ---
-title: "' 'Mark Lanegan'
-'"
+title: "Mark Lanegan"
+slug: "mark-lanegan"
 date: 2024-12-29
-original_title: "'Mark Lanegan'"
+layout: post
 tags:
   - '@marklanegan'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonos Favorite Song by Mark Lanegan: "Hit the City"</h1> <!-- Introductory Text -->
 <p >Updated August 2, 2004, with "Hit the City" by Mark Lanegan. This hauntingly atmospheric track from the album *Bubblegum* is a perfect blend of garage rock and melancholic artistry. Watch the video below!</p> <!-- Featured Image -->

@@ -1,12 +1,12 @@
 ---
-title: "' 'Buddy Holly'
-'"
+title: "Buddy Holly"
+slug: "buddy-holly"
 date: 2025-01-17
-original_title: "'Buddy Holly'"
+layout: post
 tags:
   - '@buddyholly'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Buddy Holly</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab67616d00001e02c099cd3b29b67fa997eee513" alt="Buddy Holly" >}}

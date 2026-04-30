@@ -1,12 +1,12 @@
 ---
-title: "' 'Half Seas Over'
-'"
+title: "Half Seas Over"
+slug: "half-seas-over"
 date: 2024-12-29
-original_title: "'Half Seas Over'"
+layout: post
 tags:
   - '@halfseasover'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonos Favorite Song by Half Seas Over: "Skool Spirit"</h1> <!-- Introductory Text -->
 <p >Updated January 1, 2002, with "Skool Spirit" by Half Seas Over. This track captures the bandâ€™s unique blend of indie rock and introspective storytelling, making it a standout of the early 2000s. Watch the video below!</p> <!-- Featured Image -->

@@ -1,10 +1,8 @@
 ---
 title: "Tori Amos"
+slug: "tori-amos"
 date: 2023-08-25
-category: "artist"
-track_count: 11
-first_year: 1992
-last_year: 2023
+layout: post
 tags:
   - '@tori-amos'
   - '@tori-amos-natashya-hawley'
@@ -15,7 +13,6 @@ tags:
   - 'singer-songwriter'
   - 'art pop'
   - 'chillwave'
-stub: true
 ---
 
 ## Tori Amos

@@ -1,14 +1,11 @@
 ---
 title: "Lupe Fiasco"
+slug: "lupe-fiasco"
 date: 2018-09-21
-category: "artist"
-track_count: 2
-first_year: 2015
-last_year: 2018
+layout: post
 tags:
   - '@lupe-fiasco'
   - '00s-10s'
-stub: true
 ---
 
 ## Lupe Fiasco

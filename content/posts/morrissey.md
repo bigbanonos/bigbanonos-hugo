@@ -1,10 +1,8 @@
 ---
 title: "Morrissey"
+slug: "morrissey"
 date: 1995-02-17
-category: "artist"
-track_count: 3
-first_year: 1990
-last_year: 1995
+layout: post
 tags:
   - '@morrissey'
   - '1900s'
@@ -12,7 +10,6 @@ tags:
   - 'madchester'
   - 'jangle pop'
   - 'new wave'
-stub: true
 ---
 
 ## Morrissey

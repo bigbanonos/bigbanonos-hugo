@@ -1,14 +1,14 @@
 ---
-title: "' 'Ab-Soul'
-'"
+title: "Ab Soul"
+slug: "ab-soul"
 date: 2024-12-30
-original_title: "'Ab-Soul'"
+layout: post
 tags:
   - '@kammcarson'
   - '@vincestaples'
   - '@ab-soul'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >Ab-Soul - California Dream (feat. Vince Staples & Kamm Carson)</h1> <!-- Introductory Text -->
 <p >Ab-Soul collaborates with Vince Staples and Kamm Carson on â€œCalifornia Dream,â€ bringing conscious hip hop and raw talent together. Watch the official music video below!</p> <!-- Featured Image -->

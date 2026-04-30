@@ -1,10 +1,8 @@
 ---
 title: "Times New Viking"
+slug: "times-new-viking"
 date: 2011-04-26
-category: "artist"
-track_count: 4
-first_year: 2005
-last_year: 2011
+layout: post
 tags:
   - '@times-new-viking'
   - '00s-10s'
@@ -12,7 +10,6 @@ tags:
   - 'lo-fi'
   - 'garage rock'
   - 'lo-fi indie'
-stub: true
 ---
 
 ## Times New Viking

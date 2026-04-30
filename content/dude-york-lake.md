@@ -1,12 +1,12 @@
 ---
-title: "' 'Dude York'
-'"
+title: "Dude York Lake"
+slug: "dude-york-lake"
 date: 2025-02-12
-original_title: "'Dude York'"
+layout: post
 tags:
   - '@dudeyork'
-layout: post
 ---
+
 <div> {{< img-lite src="https://i.scdn.co/image/ab6761610000e5ebfe24c39672f7a70fdc3e5a84" alt="Dude York" >}}
 </div> <p>
 BigBanonos' favorite track by Dude York:

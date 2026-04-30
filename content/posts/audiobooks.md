@@ -1,8 +1,8 @@
 ---
-title: "audiobooks"
+title: "Audiobooks"
+slug: "audiobooks"
 date: 2022-02-08
-category: "1off"
-era: "2020s"
+layout: post
 tags:
   - '@audiobooks'
   - '1-off'

@@ -1,12 +1,12 @@
 ---
-title: "' 'Wire'
-'"
+title: "Wire"
+slug: "wire"
 date: 2025-01-16
-original_title: "'Wire'"
+layout: post
 tags:
   - '@wire'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Wire</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab67616d0000b2739c33fe14c1ecf883033aaac9" alt="Wire" >}}

@@ -1,10 +1,8 @@
 ---
-title: "Juan Wauters;Mac DeMarco"
+title: "Juan Wauters Mac Demarco"
+slug: "juan-wauters-mac-demarco"
 date: 2021-04-30
-category: "artist"
-track_count: 4
-first_year: 2019
-last_year: 2021
+layout: post
 tags:
   - '@juan-wauters-mac-demarco'
   - '@juan-wauters'
@@ -15,7 +13,6 @@ tags:
   - 'latin indie'
   - 'indie'
   - 'lo-fi indie'
-stub: true
 ---
 
 ## Juan Wauters;Mac DeMarco

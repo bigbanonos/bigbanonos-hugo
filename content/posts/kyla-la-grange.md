@@ -1,16 +1,13 @@
 ---
 title: "Kyla La Grange"
+slug: "kyla-la-grange"
 date: 2016-06-17
-category: "artist"
-track_count: 2
-first_year: 2014
-last_year: 2016
+layout: post
 tags:
   - '@kyla-la-grange'
   - '@kyla-la-grange-ox2'
   - '00s-10s'
   - 'tropical house'
-stub: true
 ---
 
 ## Kyla La Grange

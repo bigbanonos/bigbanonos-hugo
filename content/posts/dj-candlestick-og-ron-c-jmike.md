@@ -1,15 +1,12 @@
 ---
-title: "DJ Candlestick;OG Ron C;Jmike"
+title: "Dj Candlestick Og Ron C Jmike"
+slug: "dj-candlestick-og-ron-c-jmike"
 date: 2020-05-17
-category: "artist"
-track_count: 2
-first_year: 2020
-last_year: 2020
+layout: post
 tags:
   - '@dj-candlestick-og-ron-c-jmike'
   - '@dj-candlestick-og-ron-c-dj-x-o'
   - '2020s'
-stub: true
 ---
 
 ## DJ Candlestick;OG Ron C;Jmike

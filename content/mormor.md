@@ -1,12 +1,12 @@
 ---
-title: "' 'MorMor'
-'"
+title: "Mormor"
+slug: "mormor"
 date: 2019-10-19
-original_title: "'MorMor - 4 Songs'"
+layout: post
 tags:
   - '@mormor'
-layout: post
 ---
+
 <a href="https://i.ytimg.com/vi/9PvIIn6cc1M/maxresdefault.jpg" imageanchor="1"><img border="0" data-original-height="450" data-original-width="800" height="225" src="https://i.ytimg.com/vi/9PvIIn6cc1M/maxresdefault.jpg" width="400" /></a><br />
 <h6>
 </h6>

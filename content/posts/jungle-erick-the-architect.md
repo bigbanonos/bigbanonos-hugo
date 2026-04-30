@@ -1,15 +1,12 @@
 ---
-title: "Jungle;Erick the Architect"
+title: "Jungle Erick The Architect"
+slug: "jungle-erick-the-architect"
 date: 2023-03-27
-category: "artist"
-track_count: 2
-first_year: 2022
-last_year: 2023
+layout: post
 tags:
   - '@jungle-erick-the-architect'
   - '@jungle'
   - '2020s'
-stub: true
 ---
 
 ## Jungle;Erick the Architect

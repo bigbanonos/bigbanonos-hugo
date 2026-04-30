@@ -1,12 +1,12 @@
 ---
-title: "' 'Little Mix'
-'"
+title: "Little Mix"
+slug: "little-mix"
 date: 2024-12-14
-original_title: "'Little Mix'"
+layout: post
 tags:
   - '@littlemix'
-layout: post
 ---
+
 <!-- Post Title -->
 <h1 >BigBanonos' Favorite Tracks: Little Mix - "OMG"</h1> <!-- Introductory Text -->
 <p >Updated November 6, 2015, with "OMG" by Little Mix. This upbeat and sassy pop track from the deluxe edition of their album <em>Get Weird</em>, released under Syco Music, showcases the signature charm and vocal prowess of the UK's favorite girl group.</p> <!-- Featured Image -->

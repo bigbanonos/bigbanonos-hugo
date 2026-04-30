@@ -1,14 +1,11 @@
 ---
 title: "Mixel Pixel"
+slug: "mixel-pixel"
 date: 2007-01-30
-category: "artist"
-track_count: 2
-first_year: 2005
-last_year: 2007
+layout: post
 tags:
   - '@mixel-pixel'
   - '00s-10s'
-stub: true
 ---
 
 ## Mixel Pixel

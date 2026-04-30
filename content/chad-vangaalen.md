@@ -1,12 +1,12 @@
 ---
-title: "' 'Chad VanGaalen'
-'"
+title: "Chad Vangaalen"
+slug: "chad-vangaalen"
 date: 2024-12-17
-original_title: "'Chad VanGaalen'"
+layout: post
 tags:
   - '@chadvangaalen'
-layout: post
 ---
+
 <h2>Chad VanGaalen â€“ 2 Songs</h2> <div > <img src="https://subpop-img.s3.amazonaws.com/asset/artist_images/attachments/000/009/075/max_960/chadvangaalen-2021-promo-12-sebastianbuzzalino-2350x1500-300.jpg?1613757616" alt="Chad VanGaalen" width="400" />
 </div> {{< youtube "embed" >}} <h3>Tracks</h3>
 <ul> <li><strong>Willow Tree</strong> â€“ <em>Soft Airplane</em> (2008)</li> <li><strong>City Of Electric Light</strong> â€“ <em>Soft Airplane</em> (2008)</li>

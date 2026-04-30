@@ -1,12 +1,12 @@
 ---
-title: "' 'Viagra Boys'
-'"
+title: "Viagra Boys"
+slug: "viagra-boys"
 date: 2025-01-16
-original_title: "'Viagra Boys - 4 Songs + 1 Cover'"
+layout: post
 tags:
   - '@viagraboys'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Viagra Boys</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/SXSW_2019_-_Viagra_Boys_%2847437549961%29.jpg/1200px-SXSW_2019_-_Viagra_Boys_%2847437549961%29.jpg" alt="Viagra Boys" >}}

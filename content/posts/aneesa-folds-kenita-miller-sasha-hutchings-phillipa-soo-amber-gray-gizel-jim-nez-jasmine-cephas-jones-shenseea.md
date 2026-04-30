@@ -1,10 +1,8 @@
 ---
-title: "Aneesa Folds;Kenita Miller;Sasha Hutchings;Phillipa Soo;Amber Gray;Gizel Jiménez;Jasmine Cephas-Jones;Shenseea"
+title: "Aneesa Folds Kenita Miller Sasha Hutchings Phillipa Soo Amber Gray Gizel Jim Nez Jasmine Cephas Jones Shenseea"
+slug: "aneesa-folds-kenita-miller-sasha-hutchings-phillipa-soo-amber-gray-gizel-jim-nez-jasmine-cephas-jones-shenseea"
 date: 2024-10-18
-category: "artist"
-track_count: 3
-first_year: 2024
-last_year: 2024
+layout: post
 tags:
   - '@ms-lauryn-hill'
   - '2020s'
@@ -12,7 +10,6 @@ tags:
   - 'soca'
   - 'afrobeats'
   - 'musicals'
-stub: true
 ---
 
 ## Aneesa Folds;Kenita Miller;Sasha Hutchings;Phillipa Soo;Amber Gray;Gizel Jiménez;Jasmine Cephas-Jones;Shenseea

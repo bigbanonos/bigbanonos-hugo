@@ -1,15 +1,12 @@
 ---
 title: "Sade"
+slug: "sade"
 date: 2011-05-03
-category: "artist"
-track_count: 8
-first_year: 1984
-last_year: 2011
+layout: post
 tags:
   - '@sade'
   - '00s-10s'
   - '1900s'
-stub: true
 ---
 
 ## Sade

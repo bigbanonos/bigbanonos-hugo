@@ -1,8 +1,8 @@
 ---
-title: "' 'Diplo'
-'"
+title: "Diplo"
+slug: "diplo"
 date: 2025-01-16
-original_title: "'Diplo'"
+layout: post
 tags:
   - '@cam'
   - '@polog'
@@ -14,8 +14,8 @@ tags:
   - '@sleepytom'
   - '@mÃƒÆ’Ã‚Â¸'
   - '@amandablank'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1>BigBanonos' Top Songs by Diplo</h1> <!-- Introductory Text -->
 <p>Diplo's genre-blending mastery spans EDM, pop, and country influences, creating unforgettable tracks. Hereâ€™s BigBanonos' comprehensive list of his top songs.</p> <!-- Featured Image -->

@@ -1,7 +1,8 @@
 ---
 title: "Strokes"
+slug: "strokes"
 date: 2026-04-16
-category: "artist"
+layout: post
 tags:
   - '@strokes'
 ---

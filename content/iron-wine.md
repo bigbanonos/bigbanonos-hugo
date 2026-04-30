@@ -1,12 +1,12 @@
 ---
-title: "' 'Iron & Wine'
-'"
+title: "Iron Wine"
+slug: "iron-wine"
 date: 2025-01-16
-original_title: "'Iron & Wine'"
+layout: post
 tags:
   - '@ironandwine'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1>BigBanonosâ€™ Favorite Songs by Iron & Wine</h1> <!-- Introductory Text -->
 <p>Iron & Wine crafts indie folk melodies that resonate deeply with listeners. BigBanonos highlights tracks that define his poignant storytelling and musical artistry.</p> <!-- Featured Image -->

@@ -1,12 +1,12 @@
 ---
-title: "' 'Guided By Voices'
-'"
+title: "Guided By Voices"
+slug: "guided-by-voices"
 date: 2025-01-13
-original_title: "'Guided By Voices'"
+layout: post
 tags:
   - '@guidedbyvoices'
-layout: post
 ---
+
 <h2>BigBanonos' Favorite Tracks: Guided By Voices â€“ 20 Songs</h2> <div > <a href="https://img.youtube.com/vi/A_AIfBGCYwU/0.jpg"> <img src="https://img.youtube.com/vi/A_AIfBGCYwU/0.jpg" alt="Guided By Voices" width="400" /> </a>
 </div> <p><em>BigBanonos</em> brings you an extensive selection of favorite tracks from Guided By Voices, showcasing their legendary contributions to indie rock and lo-fi music.</p> <h3>Selected Tracks</h3>
 <ol> <li><strong>A Salty Salute</strong> â€“ <em>Alien Lanes</em> (1995)</li> <li><strong>As We Go Up, We Go Down</strong> â€“ <em>Alien Lanes</em> (1995)</li> <li><strong>Buzzards And Dreadful Crows</strong> â€“ <em>Bee Thousand</em> (1994)</li> <li><strong>Chasing Heather Crazy</strong> â€“ <em>Isolation Drills</em> (2001)</li> <li><strong>Choking Tara</strong> â€“ <em>Mag Earwhig!</em> (1997)</li> <li><strong>Demons Are Real</strong> â€“ <em>Bee Thousand</em> (1994)</li> <li><strong>Game Of Pricks</strong> â€“ <em>Alien Lanes</em> (1995)</li> <li><strong>Gold Star For Robot Boy</strong> â€“ <em>Bee Thousand</em> (1994)</li> <li><strong>Hey Aardvark</strong> â€“ <em>Vampire on Titus</em> (1993)</li> <li><strong>Hold On Hope</strong> â€“ <em>Do the Collapse</em> (1999)</li> <li><strong>I Am A Scientist</strong> â€“ <em>Bee Thousand</em> (1994)</li> <li><strong>If We Wait</strong> â€“ <em>Sunfish Holy Breakfast</em> (1996)</li> <li><strong>Jar Of Cardinals</strong> â€“ <em>Vampire on Titus</em> (1993)</li> <li><strong>Kiss Only The Important Ones</strong> â€“ <em>Suitcase</em> (1995)</li> <li><strong>My Valuable Hunting Knife</strong> â€“ <em>Alien Lanes</em> (1995)</li> <li><strong>Non-Absorbing</strong> â€“ <em>Propeller</em> (1993)</li> <li><strong>The Ascended Master's Grogshop</strong> â€“ <em>Tonics and Twisted Chasers</em> (1997)</li> <li><strong>The Goldheart Mountaintop Queen Directory</strong> â€“ <em>Bee Thousand</em> (1994)</li> <li><strong>Chasing Heather Crazy</strong> â€“ <em>Isolation Drills</em> (2001)</li> <li><strong>Jar Of Cardinals</strong> â€“ <em>Vampire On Titus</em> (1993)</li>

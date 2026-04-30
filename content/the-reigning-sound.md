@@ -1,12 +1,12 @@
 ---
-title: "' 'The Reigning Sound'
-'"
+title: "The Reigning Sound"
+slug: "the-reigning-sound"
 date: 2024-12-17
-original_title: "'The Reigning Sound'"
+layout: post
 tags:
   - '@reigningsound'
-layout: post
 ---
+
 <h1>BigBanonos Top Songs by Reigning Sound</h1>
 <div class="separator"> <a href="https://media.pitchfork.com/photos/62a1066c0704436bc93d1bb4/3:2/w_1500,h_1000,c_limit/Reigning%20Sound.jpeg" > <img alt="Reigning Sound" border="0" width="320" data-original-height="480" data-original-width="640" src="https://media.pitchfork.com/photos/62a1066c0704436bc93d1bb4/3:2/w_1500,h_1000,c_limit/Reigning%20Sound.jpeg"/> </a>
 </div>

@@ -1,16 +1,13 @@
 ---
 title: "Carly Rae Jepsen"
+slug: "carly-rae-jepsen"
 date: 2022-10-21
-category: "artist"
-track_count: 14
-first_year: 2012
-last_year: 2022
+layout: post
 tags:
   - '@carly-rae-jepsen'
   - '@carly-rae-jepsen-more-giraffes'
   - '00s-10s'
   - '2020s'
-stub: true
 ---
 
 ## Carly Rae Jepsen

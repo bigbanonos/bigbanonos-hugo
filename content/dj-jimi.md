@@ -1,13 +1,13 @@
 ---
-title: "' 'DJ Jimi'
-'"
+title: "Dj Jimi"
+slug: "dj-jimi"
 date: 2025-01-19
-original_title: "'DJ Jimi'"
+layout: post
 tags:
   - '@djjimi'
   - '@juvenile'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by DJ Jimi</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab67616d0000b273ecf39bc7da0d3fb9b042db4d" alt="DJ Jimi" >}}

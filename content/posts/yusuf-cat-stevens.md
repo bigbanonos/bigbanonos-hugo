@@ -1,10 +1,8 @@
 ---
-title: "Yusuf / Cat Stevens"
+title: "Yusuf Cat Stevens"
+slug: "yusuf-cat-stevens"
 date: 2001-01-01
-category: "artist"
-track_count: 6
-first_year: 1970
-last_year: 2001
+layout: post
 tags:
   - '@yusuf-cat-stevens'
   - '00s-10s'
@@ -12,7 +10,6 @@ tags:
   - 'folk rock'
   - 'folk'
   - 'singer-songwriter'
-stub: true
 ---
 
 ## Yusuf / Cat Stevens

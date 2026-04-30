@@ -1,14 +1,14 @@
 ---
-title: "' 'Peso Peso'
-'"
+title: "Peso Peso"
+slug: "peso-peso"
 date: 2024-12-20
-original_title: "'Peso Peso - 2 Songs'"
+layout: post
 tags:
   - '@juniorh'
   - '@pesopluma'
   - '@jasielnuÃƒÆ’Ã‚Â±ez'
-layout: post
 ---
+
 <h1>BigBanonos Top Songs by Peso Peso</h1>
 {{< img-lite src="https://images.squarespace-cdn.com/content/v1/55930d01e4b03b84d2cba5a3/1574714796250-VGQ33RCP9VE8ASOLPQZJ/Screen+Shot+2019-11-25+at+2.45.37+PM.png" alt="Peso Peso" >}} <p>Peso Peso, known for his unique style within the corridos tumbados genre, combines traditional Mexican sounds with a modern twist, capturing listeners with his emotive lyrics and raw beats. Here are BigBanonos' top selections:</p> <ol> <li><strong>BIPOLAR</strong> (feat. Jasiel NuÃƒÆ’Ã‚Â±ez, Junior H) | <em>BIPOLAR</em> | Double P Records | Released: September 7, 2023</li> <li><strong>LUNA</strong> (feat. Junior H) | <em>GÃƒÆ’Ã¢â‚¬Â°NESIS</em> | Double P Records | Released: June 22, 2023</li>
 </ol> <div> {{< youtube "embed" >}}

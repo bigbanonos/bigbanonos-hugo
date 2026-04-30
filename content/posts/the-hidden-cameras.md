@@ -1,15 +1,12 @@
 ---
 title: "The Hidden Cameras"
+slug: "the-hidden-cameras"
 date: 2006-08-14
-category: "artist"
-track_count: 2
-first_year: 2006
-last_year: 2006
+layout: post
 tags:
   - '@the-hidden-cameras'
   - '00s-10s'
   - 'queercore'
-stub: true
 ---
 
 ## The Hidden Cameras

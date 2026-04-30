@@ -1,10 +1,8 @@
 ---
-title: "Elujay;J.Robb;JEMS!;Kyle Dion"
+title: "Elujay J Robb Jems Kyle Dion"
+slug: "elujay-j-robb-jems-kyle-dion"
 date: 2022-09-30
-category: "artist"
-track_count: 3
-first_year: 2020
-last_year: 2022
+layout: post
 tags:
   - '@elujay-j-robb-jems-kyle-dion'
   - '@elujay'
@@ -12,7 +10,6 @@ tags:
   - '2020s'
   - 'alternative r&b'
   - 'indie r&b'
-stub: true
 ---
 
 ## Elujay;J.Robb;JEMS!;Kyle Dion

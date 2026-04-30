@@ -1,15 +1,12 @@
 ---
-title: "EARTHGANG;Spillage Village"
+title: "Earthgang Spillage Village"
+slug: "earthgang-spillage-village"
 date: 2023-11-03
-category: "artist"
-track_count: 3
-first_year: 2023
-last_year: 2023
+layout: post
 tags:
   - '@earthgang-spillage-village'
   - '@earthgang-spillage-village-benji'
   - '2020s'
-stub: true
 ---
 
 ## EARTHGANG;Spillage Village

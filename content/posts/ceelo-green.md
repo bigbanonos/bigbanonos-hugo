@@ -1,10 +1,8 @@
 ---
-title: "CeeLo Green"
+title: "Ceelo Green"
+slug: "ceelo-green"
 date: 2020-06-26
-category: "artist"
-track_count: 10
-first_year: 2004
-last_year: 2020
+layout: post
 tags:
   - '@ceelo-green'
   - '@ceelo-green-jazze-pha-menta-malone'
@@ -13,7 +11,6 @@ tags:
   - '00s-10s'
   - '2020s'
   - 'southern hip hop'
-stub: true
 ---
 
 ## CeeLo Green

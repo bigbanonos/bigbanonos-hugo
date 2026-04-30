@@ -1,9 +1,8 @@
 ---
 title: "August Rosenbaum"
+slug: "august-rosenbaum"
 date: 2022-05-11
-category: "1off"
-genre_primary: "electronic"
-era: "2020s"
+layout: post
 tags:
   - '@augustrosenbaum'
   - '1-off'

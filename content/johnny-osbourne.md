@@ -1,12 +1,12 @@
 ---
-title: "' 'Johnny Osbourne'
-'"
+title: "Johnny Osbourne"
+slug: "johnny-osbourne"
 date: 2024-12-12
-original_title: "'Johnny Osbourne'"
+layout: post
 tags:
   - '@johnnyosbourne'
-layout: post
 ---
+
 <!-- Post Title -->
 <h1 >BigBanonos' Favorite Tracks: Johnny Osbourne - "Mushroom"</h1> <!-- Introductory Text -->
 <p >Updated April 22, 2010, with "Mushroom" by Johnny Osbourne. This track is an iconic hit from *Hi Grade Ganja Anthems Vol. 2*, a compilation that blends the best of reggae, dub, and lovers rock, bringing a timeless classic that embodies the spirit of old school dancehall.</p> <!-- Featured Image -->

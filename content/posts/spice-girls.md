@@ -1,14 +1,11 @@
 ---
 title: "Spice Girls"
+slug: "spice-girls"
 date: 1996-01-01
-category: "artist"
-track_count: 2
-first_year: 1996
-last_year: 1996
+layout: post
 tags:
   - '@spice-girls'
   - '1900s'
-stub: true
 ---
 
 ## Spice Girls

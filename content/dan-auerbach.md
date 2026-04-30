@@ -1,12 +1,12 @@
 ---
-title: "' 'Dan Auerbach'
-'"
+title: "Dan Auerbach"
+slug: "dan-auerbach"
 date: 2024-12-28
-original_title: "'Dan Auerbach'"
+layout: post
 tags:
   - '@danauerbach'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonos Favorite Song by Dan Auerbach: "My Last Mistake"</h1> <!-- Introductory Text -->
 <p >Updated February 10, 2009, with "My Last Mistake" by Dan Auerbach. This garage rock gem from the album *Keep It Hid* showcases Auerbachâ€™s masterful blend of modern blues and raw rock energy. Watch the video below!</p> <!-- Featured Image -->

@@ -1,12 +1,12 @@
 ---
-title: "' 'Ann Peebles'
-'"
+title: "Ann Peebles"
+slug: "ann-peebles"
 date: 2025-01-17
-original_title: "'Ann Peebles'"
+layout: post
 tags:
   - '@annpeebles'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Ann Peebles</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab67616d0000b273943b4cc92b7af0f22190eaef" alt="Ann Peebles" >}}

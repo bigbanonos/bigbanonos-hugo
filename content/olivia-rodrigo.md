@@ -1,12 +1,12 @@
 ---
-title: "' 'Olivia Rodrigo'
-'"
+title: "Olivia Rodrigo"
+slug: "olivia-rodrigo"
 date: 2025-01-18
-original_title: "'Olivia Rodrigo'"
+layout: post
 tags:
   - '@oliviarodrigo'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >Olivia Rodrigo - Top Songs</h1> <!-- Introductory Text -->
 <p >Olivia Rodrigo has captivated audiences with her raw emotional lyrics and powerful voice. From the breakout hits on *SOUR* to the anthems of *GUTS*, explore her top tracks below!</p> <!-- Featured Image -->

@@ -1,17 +1,14 @@
 ---
 title: "Mazzy Star"
+slug: "mazzy-star"
 date: 1996-10-29
-category: "artist"
-track_count: 3
-first_year: 1993
-last_year: 1996
+layout: post
 tags:
   - '@mazzy-star'
   - '1900s'
   - 'dream pop'
   - 'shoegaze'
   - 'slowcore'
-stub: true
 ---
 
 ## Mazzy Star

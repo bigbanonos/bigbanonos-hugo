@@ -1,16 +1,13 @@
 ---
 title: "The Tallest Man On Earth"
+slug: "the-tallest-man-on-earth"
 date: 2012-06-12
-category: "artist"
-track_count: 4
-first_year: 2008
-last_year: 2012
+layout: post
 tags:
   - '@the-tallest-man-on-earth'
   - '00s-10s'
   - 'indie folk'
   - 'folk'
-stub: true
 ---
 
 ## The Tallest Man On Earth

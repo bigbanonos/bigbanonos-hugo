@@ -1,12 +1,12 @@
 ---
-title: "' 'Carla Bruni'
-'"
+title: "Carla Bruni"
+slug: "carla-bruni"
 date: 2025-02-12
-original_title: "'Carla Bruni'"
+layout: post
 tags:
   - '@carlabruni'
-layout: post
 ---
+
 <div> {{< img-lite src="https://i.scdn.co/image/ab67616d0000b273e38a50a2a2b7b55533a8b58a" alt="Carla Bruni" >}}
 </div> <p>
 BigBanonos' favorite songs by Carla Bruni:

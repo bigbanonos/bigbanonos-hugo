@@ -1,16 +1,13 @@
 ---
-title: "benny blanco;Spank Rock"
+title: "Benny Blanco Spank Rock"
+slug: "benny-blanco-spank-rock"
 date: 2007-10-01
-category: "artist"
-track_count: 2
-first_year: 2007
-last_year: 2007
+layout: post
 tags:
   - '@benny-blanco-spank-rock'
   - '@benny-blanco-spank-rock-amanda-mallory'
   - '00s-10s'
   - 'baltimore club'
-stub: true
 ---
 
 ## benny blanco;Spank Rock

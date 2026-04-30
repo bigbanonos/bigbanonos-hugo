@@ -1,13 +1,13 @@
 ---
-title: "' 'The Roots'
-'"
+title: "The Roots"
+slug: "the-roots"
 date: 2024-12-16
-original_title: "'The Roots'"
+layout: post
 tags:
   - '@theroots'
   - '@codychesnutt'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >The Roots - The Seed (2.0)</h1> <!-- Introductory Text -->
 <p >"The Seed (2.0)" by The Roots featuring Cody ChesnuTT is a powerful collaboration that blends hip hop with fun, rock, and soul. Released on *Phrenology* in 2002, this track continues to captivate with its raw energy and insightful lyrics. Watch the official video below!</p> <!-- Featured Image -->

@@ -1,15 +1,12 @@
 ---
-title: "Benny Sings;JONES"
+title: "Benny Sings Jones"
+slug: "benny-sings-jones"
 date: 2023-08-10
-category: "artist"
-track_count: 2
-first_year: 2021
-last_year: 2023
+layout: post
 tags:
   - '@benny-sings-jones'
   - '@benny-sings'
   - '2020s'
-stub: true
 ---
 
 ## Benny Sings;JONES

@@ -1,12 +1,12 @@
 ---
-title: "' 'Taylor Skye'
-'"
+title: "Taylor Skye"
+slug: "taylor-skye"
 date: 2024-12-16
-original_title: "'Taylor Skye'"
+layout: post
 tags:
   - '@tayerskye'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >Taylor Skye - Take a Walk</h1> <!-- Introductory Text -->
 <p >Updated with "Take a Walk" by Taylor Skye, from the album *Kode Fine & Sons*, released on May 3, 2019. Taylor Skyeâ€™s smooth blend of electronic beats and soulful melodies shines in this track, capturing a unique and fresh sound in modern music.</p> <!-- Featured Image -->

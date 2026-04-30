@@ -1,10 +1,8 @@
 ---
 title: "Fleet Foxes"
+slug: "fleet-foxes"
 date: 2022-11-09
-category: "artist"
-track_count: 3
-first_year: 2008
-last_year: 2022
+layout: post
 tags:
   - '@fleet-foxes'
   - '@fleet-foxes-tim-bernardes'
@@ -14,7 +12,6 @@ tags:
   - 'folk'
   - 'indie'
   - 'new mpb'
-stub: true
 ---
 
 ## Fleet Foxes

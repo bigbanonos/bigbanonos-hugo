@@ -1,17 +1,14 @@
 ---
-title: "Nourished by Time"
+title: "Nourished By Time"
+slug: "nourished-by-time"
 date: 2025-08-22
-category: "artist"
-track_count: 10
-first_year: 2023
-last_year: 2025
+layout: post
 tags:
   - '@nourished-by-time'
   - '@nourished-by-time-tony-bontana'
   - '2020s'
   - 'indie electronic'
   - 'experimental hip hop'
-stub: true
 ---
 
 ## Nourished by Time

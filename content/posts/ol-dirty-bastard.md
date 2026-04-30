@@ -1,10 +1,8 @@
 ---
-title: "Ol' Dirty Bastard"
+title: "Ol Dirty Bastard"
+slug: "ol-dirty-bastard"
 date: 2006-08-22
-category: "artist"
-track_count: 6
-first_year: 1999
-last_year: 2006
+layout: post
 tags:
   - '@ol-dirty-bastard'
   - '@ol-dirty-bastard-kelis'
@@ -13,7 +11,6 @@ tags:
   - 'east coast hip hop'
   - 'old school hip hop'
   - 'hardcore hip hop'
-stub: true
 ---
 
 ## Ol' Dirty Bastard

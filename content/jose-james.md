@@ -1,12 +1,12 @@
 ---
-title: "' 'JosÃƒÆ’Ã‚Â© James'
-'"
+title: "Jose James"
+slug: "jose-james"
 date: 2024-12-12
-original_title: "'JosÃƒÆ’Ã‚Â© James'"
+layout: post
 tags:
   - '@josejames'
-layout: post
 ---
+
 <!-- Post Title -->
 <h1 >BigBanonos' Favorite Tracks: JosÃƒÆ’Ã‚Â© James, Ledisi, Christian Scott aTunde Adjuah - "I Need Your Love"</h1> <!-- Introductory Text -->
 <p >Updated November 22, 2019, with "I Need Your Love" by JosÃƒÆ’Ã‚Â© James featuring Ledisi and Christian Scott aTunde Adjuah. This track is an exquisite blend of modern jazz, R&B, and hip hop, showcasing an artistic synergy that seamlessly bridges genres. With stunning vocal performances from Ledisi and JosÃƒÆ’Ã‚Â© James and Christian Scott aTunde Adjuahâ€™s masterful trumpet work, "I Need Your Love" is a must-listen for lovers of contemporary jazz and neo-soul.</p> <!-- Featured Image -->

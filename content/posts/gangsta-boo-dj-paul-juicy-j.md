@@ -1,10 +1,8 @@
 ---
-title: "Gangsta Boo;DJ Paul;Juicy J"
+title: "Gangsta Boo Dj Paul Juicy J"
+slug: "gangsta-boo-dj-paul-juicy-j"
 date: 1998-09-29
-category: "artist"
-track_count: 3
-first_year: 1998
-last_year: 1998
+layout: post
 tags:
   - '@gangsta-boo-dj-paul-juicy-j'
   - '@gangsta-boo'
@@ -14,7 +12,6 @@ tags:
   - 'horrorcore'
   - 'crunk'
   - 'phonk'
-stub: true
 ---
 
 ## Gangsta Boo;DJ Paul;Juicy J

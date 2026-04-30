@@ -1,15 +1,12 @@
 ---
-title: "Peter Bjorn and John"
+title: "Peter Bjorn And John"
+slug: "peter-bjorn-and-john"
 date: 2009-01-01
-category: "artist"
-track_count: 7
-first_year: 2004
-last_year: 2009
+layout: post
 tags:
   - '@peter-bjorn-and-john'
   - '00s-10s'
   - 'indie'
-stub: true
 ---
 
 ## Peter Bjorn and John

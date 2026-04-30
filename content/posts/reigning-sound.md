@@ -1,16 +1,13 @@
 ---
 title: "Reigning Sound"
+slug: "reigning-sound"
 date: 2011-11-01
-category: "artist"
-track_count: 19
-first_year: 2002
-last_year: 2011
+layout: post
 tags:
   - '@reigning-sound'
   - '00s-10s'
   - 'garage rock'
   - 'power pop'
-stub: true
 ---
 
 ## Reigning Sound

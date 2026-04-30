@@ -1,12 +1,12 @@
 ---
-title: "' 'Beirut'
-'"
+title: "Beirut"
+slug: "beirut"
 date: 2024-11-22
-original_title: "'Beirut - 7 Songs'"
+layout: post
 tags:
   - '@beirut'
-layout: post
 ---
+
 <h2>BigBanonos' 7 Favorite Songs by Beirut</h2> <!--Search Description-->
 <p>BigBanonosâ€™ top 7 songs by Beirut, featuring unique blends of baroque pop, chamber pop, and indie rock. Includes iconic tracks like "Elephant Gun" and "Postcards From Italy."</p> <!--Spotify Playlist Embed-->
 {{< youtube "embed" >}} <!--Song Listings-->

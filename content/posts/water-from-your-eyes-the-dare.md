@@ -1,16 +1,13 @@
 ---
-title: "Water From Your Eyes;The Dare"
+title: "Water From Your Eyes The Dare"
+slug: "water-from-your-eyes-the-dare"
 date: 2023-11-17
-category: "artist"
-track_count: 2
-first_year: 2021
-last_year: 2023
+layout: post
 tags:
   - '@water-from-your-eyes-the-dare'
   - '@water-from-your-eyes'
   - '2020s'
   - 'electroclash'
-stub: true
 ---
 
 ## Water From Your Eyes;The Dare

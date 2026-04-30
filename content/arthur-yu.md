@@ -1,12 +1,12 @@
 ---
-title: "' 'Arthur & Yu'
-'"
+title: "Arthur Yu"
+slug: "arthur-yu"
 date: 2024-12-26
-original_title: "'Arthur & Yu'"
+layout: post
 tags:
   - '@arthurandyu'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonos Favorite Song by Arthur & Yu: "There Are Too Many Birds"</h1> <!-- Introductory Text -->
 <p >Updated June 19, 2007, with "There Are Too Many Birds" by Arthur & Yu. This enchanting indie-folk track blends dreamy harmonies with gentle instrumentation, creating an evocative listening experience. Watch the video below!</p> <!-- Featured Image -->

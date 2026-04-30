@@ -1,16 +1,13 @@
 ---
 title: "Talking Heads"
+slug: "talking-heads"
 date: 1983-05-31
-category: "artist"
-track_count: 6
-first_year: 1977
-last_year: 1983
+layout: post
 tags:
   - '@talking-heads'
   - '1900s'
   - 'new wave'
   - 'post-punk'
-stub: true
 ---
 
 ## Talking Heads

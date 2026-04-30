@@ -1,13 +1,12 @@
 ---
 title: "Barbara Lynn"
+slug: "barbara-lynn"
 date: 1963-01-01
+layout: post
 tags:
   - '@barbaralynn'
   - '@soul'
   - '@rnb'
-spotify_url: "https://open.spotify.com/track/5CEREcGR5WaLt40YzTQ62e"
-not_on_spotify: false
-category: "1off-pre2000s"
 ---
 
 Texas blues and soul guitarist. Wrote and recorded this at 20 years old in 1962. One of the great songs.

@@ -1,14 +1,11 @@
 ---
 title: "Sasha Alex Sloan"
+slug: "sasha-alex-sloan"
 date: 2019-07-19
-category: "artist"
-track_count: 2
-first_year: 2019
-last_year: 2019
+layout: post
 tags:
   - '@sasha-alex-sloan'
   - '00s-10s'
-stub: true
 ---
 
 ## Sasha Alex Sloan

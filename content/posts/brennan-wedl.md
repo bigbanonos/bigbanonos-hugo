@@ -1,7 +1,8 @@
 ---
 title: "Brennan Wedl"
+slug: "brennan-wedl"
 date: 2026-03-24
-category: "artist"
+layout: post
 tags:
   - '@brennanwedl'
   - '@waxahatchee'

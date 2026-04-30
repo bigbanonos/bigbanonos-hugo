@@ -1,10 +1,8 @@
 ---
-title: "Mary J. Blige"
+title: "Mary J Blige"
+slug: "mary-j-blige"
 date: 2022-02-11
-category: "artist"
-track_count: 4
-first_year: 1992
-last_year: 2022
+layout: post
 tags:
   - '@mary-j-blige'
   - '@mary-j-blige-ll-cool-j'
@@ -14,7 +12,6 @@ tags:
   - 'r&b'
   - 'old school hip hop'
   - 'east coast hip hop'
-stub: true
 ---
 
 ## Mary J. Blige

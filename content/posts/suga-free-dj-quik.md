@@ -1,10 +1,8 @@
 ---
-title: "Suga Free;DJ Quik"
+title: "Suga Free Dj Quik"
+slug: "suga-free-dj-quik"
 date: 2006-08-22
-category: "artist"
-track_count: 2
-first_year: 2006
-last_year: 2006
+layout: post
 tags:
   - '@suga-free-dj-quik'
   - '@suga-free-amg-dj-quik'
@@ -13,7 +11,6 @@ tags:
   - 'west coast hip hop'
   - 'gangster rap'
   - 'old school hip hop'
-stub: true
 ---
 
 ## Suga Free;DJ Quik

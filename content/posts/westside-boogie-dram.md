@@ -1,10 +1,8 @@
 ---
-title: "WESTSIDE BOOGIE;DRAM"
+title: "Westside Boogie Dram"
+slug: "westside-boogie-dram"
 date: 2022-06-17
-category: "artist"
-track_count: 3
-first_year: 2019
-last_year: 2022
+layout: post
 tags:
   - '@westside-boogie-dram'
   - '@westside-boogie-smino-teezo-touchdown'
@@ -13,7 +11,6 @@ tags:
   - '2020s'
   - 'boogie'
   - 'alternative r&b'
-stub: true
 ---
 
 ## WESTSIDE BOOGIE;DRAM

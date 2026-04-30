@@ -1,12 +1,12 @@
 ---
-title: "' 'Tenacious D'
-'"
+title: "Tenacious D"
+slug: "tenacious-d"
 date: 2025-01-10
-original_title: "'Tenacious D'"
+layout: post
 tags:
   - '@tenaciousd'
-layout: post
 ---
+
 <div class="post-title"> <h1>BigBanonos' Favorite Songs by Tenacious D</h1>
 </div>
 <p>Updated September 25, 2001, with "Tribute" from the album <i>Tenacious D</i>, highlighted in the playlist below:</p>

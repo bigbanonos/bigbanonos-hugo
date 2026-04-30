@@ -1,10 +1,8 @@
 ---
-title: "Christine and the Queens"
+title: "Christine And The Queens"
+slug: "christine-and-the-queens"
 date: 2023-06-09
-category: "artist"
-track_count: 13
-first_year: 2014
-last_year: 2023
+layout: post
 tags:
   - '@christine-and-the-queens'
   - '@christine-and-the-queens-070-shake'
@@ -12,7 +10,6 @@ tags:
   - '2020s'
   - 'art pop'
   - 'french pop'
-stub: true
 ---
 
 ## Christine and the Queens

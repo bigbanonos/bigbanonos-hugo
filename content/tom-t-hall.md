@@ -1,12 +1,12 @@
 ---
-title: "' 'Tom T. Hall'
-'"
+title: "Tom T Hall"
+slug: "tom-t-hall"
 date: 2025-01-10
-original_title: "'Tom T. Hall'"
+layout: post
 tags:
   - '@tomthall'
-layout: post
 ---
+
 <div class="post-title"> <h1>BigBanonos' Favorite Songs by Tom T. Hall</h1>
 </div>
 <p>Updated November 14, 1995, with "The Year That Clayton Delaney Died" from the compilation <i>Tom T. Hall - Storyteller, Poet, Philosopher</i>, highlighted in the playlist below:</p>

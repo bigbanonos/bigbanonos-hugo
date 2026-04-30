@@ -1,14 +1,11 @@
 ---
 title: "Phoebe Bridgers"
+slug: "phoebe-bridgers"
 date: 2022-07-01
-category: "artist"
-track_count: 5
-first_year: 2020
-last_year: 2022
+layout: post
 tags:
   - '@phoebe-bridgers'
   - '2020s'
-stub: true
 ---
 
 ## Phoebe Bridgers

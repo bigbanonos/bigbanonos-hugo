@@ -1,10 +1,8 @@
 ---
 title: "Golden Smog"
+slug: "golden-smog"
 date: 2006-01-01
-category: "artist"
-track_count: 2
-first_year: 1995
-last_year: 2006
+layout: post
 tags:
   - '@golden-smog'
   - '00s-10s'
@@ -13,7 +11,6 @@ tags:
   - 'americana'
   - 'roots rock'
   - 'power pop'
-stub: true
 ---
 
 ## Golden Smog

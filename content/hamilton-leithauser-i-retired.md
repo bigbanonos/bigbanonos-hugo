@@ -1,12 +1,12 @@
 ---
-title: "' 'Hamilton Leithauser'
-'"
+title: "Hamilton Leithauser I Retired"
+slug: "hamilton-leithauser-i-retired"
 date: 2025-08-30
-original_title: "'Hamilton Leithauser'"
+layout: post
 tags:
   - '@hamiltonleithauser'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1>BigBanonosâ€™ Favorite Songs by Hamilton Leithauser</h1> <!-- Introductory Text -->
 <p>Hamilton Leithauser, the former frontman of The Walkmen, delivers heartfelt indie rock anthems that capture a range of emotions. BigBanonos highlights his solo work and collaborations that showcase his versatility and artistry.</p> <!-- Featured Image -->

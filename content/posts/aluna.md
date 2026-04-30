@@ -1,7 +1,8 @@
 ---
 title: "Aluna"
+slug: "aluna"
 date: 2026-03-20
-category: "artist"
+layout: post
 tags:
   - '@aluna'
   - '@timbaland'

@@ -1,16 +1,13 @@
 ---
 title: "Noam Chomsky"
+slug: "noam-chomsky"
 date: 2014-03-11
-category: "artist"
-track_count: 3
-first_year: 2011
-last_year: 2014
+layout: post
 tags:
   - '@noam-chomsky'
   - '00s-10s'
   - 'spoken word'
   - 'comedy'
-stub: true
 ---
 
 ## Noam Chomsky

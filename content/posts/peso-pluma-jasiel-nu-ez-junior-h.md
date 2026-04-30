@@ -1,10 +1,8 @@
 ---
-title: "Peso Pluma;Jasiel Nuñez;Junior H"
+title: "Peso Pluma Jasiel Nu Ez Junior H"
+slug: "peso-pluma-jasiel-nu-ez-junior-h"
 date: 2023-09-07
-category: "artist"
-track_count: 2
-first_year: 2023
-last_year: 2023
+layout: post
 tags:
   - '@peso-pluma-jasiel-nu-ez-junior-h'
   - '@peso-pluma-junior-h'
@@ -13,7 +11,6 @@ tags:
   - 'corridos tumbados'
   - 'corridos bélicos'
   - 'música mexicana'
-stub: true
 ---
 
 ## Peso Pluma;Jasiel Nuñez;Junior H

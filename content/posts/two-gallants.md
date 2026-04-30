@@ -1,10 +1,8 @@
 ---
 title: "Two Gallants"
+slug: "two-gallants"
 date: 2023-03-17
-category: "artist"
-track_count: 6
-first_year: 1992
-last_year: 2023
+layout: post
 tags:
   - '@two-gallants'
   - '@t-pain'
@@ -19,7 +17,6 @@ tags:
   - 'new wave'
   - 'post-punk'
   - 'folk punk'
-stub: true
 ---
 
 ## Two Gallants

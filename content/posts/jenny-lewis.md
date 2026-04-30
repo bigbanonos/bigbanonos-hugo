@@ -1,17 +1,14 @@
 ---
 title: "Jenny Lewis"
+slug: "jenny-lewis"
 date: 2023-11-28
-category: "artist"
-track_count: 8
-first_year: 2006
-last_year: 2023
+layout: post
 tags:
   - '@jenny-lewis'
   - '@jenny-lewis-the-watson-twins'
   - '00s-10s'
   - '2020s'
   - 'alt country'
-stub: true
 ---
 
 ## Jenny Lewis

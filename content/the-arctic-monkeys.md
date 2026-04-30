@@ -1,12 +1,12 @@
 ---
-title: "' 'The Arctic Monkeys'
-'"
+title: "The Arctic Monkeys"
+slug: "the-arctic-monkeys"
 date: 2025-01-17
-original_title: "'The Arctic Monkeys'"
+layout: post
 tags:
   - '@arcticmonkeys'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Arctic Monkeys</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab6761610000e5eb7da39dea0a72f581535fb11f" alt="Arctic Monkeys" >}}

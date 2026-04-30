@@ -1,14 +1,14 @@
 ---
-title: "' 'Dej Loaf'
-'"
+title: "Dej Loaf"
+slug: "dej-loaf"
 date: 2025-01-15
-original_title: "'Dej Loaf - 3 Songs'"
+layout: post
 tags:
   - '@2chainz'
   - '@bigsean'
   - '@dejloaf'
-layout: post
 ---
+
 <h2 >BigBanonos' Favorite Songs by Dej Loaf</h2> <!-- Introductory Text -->
 <p >Updated October 9, 2024, with <em>Faded</em> featuring 2 Chainz. Dej Loaf continues to impress with her blend of melodic flows and sharp lyricism. Dive into BigBanonosâ€™ favorite tracks, featuring her standout hits.</p> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab6761610000e5ebaa465515228cb4dc810db8c4" alt="Dej Loaf Album Cover" >}}

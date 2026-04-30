@@ -1,17 +1,14 @@
 ---
 title: "The Kinks"
+slug: "the-kinks"
 date: 2018-09-11
-category: "artist"
-track_count: 6
-first_year: 1965
-last_year: 2018
+layout: post
 tags:
   - '@the-kinks'
   - '00s-10s'
   - '1900s'
   - 'proto-punk'
   - 'baroque pop'
-stub: true
 ---
 
 ## The Kinks

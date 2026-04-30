@@ -1,16 +1,13 @@
 ---
 title: "Tkay Maidza"
+slug: "tkay-maidza"
 date: 2021-07-09
-category: "artist"
-track_count: 2
-first_year: 2021
-last_year: 2021
+layout: post
 tags:
   - '@tkay-maidza'
   - '@tkay-maidza-umi'
   - '2020s'
   - 'alternative r&b'
-stub: true
 ---
 
 ## Tkay Maidza

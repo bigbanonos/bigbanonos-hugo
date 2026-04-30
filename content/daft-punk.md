@@ -1,12 +1,12 @@
 ---
-title: "' 'Daft Punk'
-'"
+title: "Daft Punk"
+slug: "daft-punk"
 date: 2025-01-17
-original_title: "'Daft Punk'"
+layout: post
 tags:
   - '@daftpunk'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Daft Punk</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab67616d0000b2739b9b36b0e22870b9f542d937" alt="Daft Punk" >}}

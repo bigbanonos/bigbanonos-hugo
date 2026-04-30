@@ -1,10 +1,8 @@
 ---
-title: "Tink;Jeremih"
+title: "Tink Jeremih"
+slug: "tink-jeremih"
 date: 2024-05-31
-category: "artist"
-track_count: 4
-first_year: 2021
-last_year: 2024
+layout: post
 tags:
   - '@tink-jeremih'
   - '@tink-2-chainz'
@@ -14,7 +12,6 @@ tags:
   - 'southern hip hop'
   - 'rap'
   - 'r&b'
-stub: true
 ---
 
 ## Tink;Jeremih

@@ -1,15 +1,12 @@
 ---
-title: "HVOB"
+title: "Hvob"
+slug: "hvob"
 date: 2022-01-14
-category: "artist"
-track_count: 2
-first_year: 2019
-last_year: 2022
+layout: post
 tags:
   - '@hvob'
   - '00s-10s'
   - '2020s'
-stub: true
 ---
 
 ## HVOB

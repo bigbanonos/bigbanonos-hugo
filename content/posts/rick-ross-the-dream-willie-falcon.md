@@ -1,10 +1,8 @@
 ---
-title: "Rick Ross;The-Dream;Willie Falcon"
+title: "Rick Ross The Dream Willie Falcon"
+slug: "rick-ross-the-dream-willie-falcon"
 date: 2021-12-03
-category: "artist"
-track_count: 4
-first_year: 2006
-last_year: 2021
+layout: post
 tags:
   - '@rick-ross-the-dream-willie-falcon'
   - '@rick-ross'
@@ -14,7 +12,6 @@ tags:
   - '2020s'
   - 'southern hip hop'
   - 'r&b'
-stub: true
 ---
 
 ## Rick Ross;The-Dream;Willie Falcon

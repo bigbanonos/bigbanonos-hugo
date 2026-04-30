@@ -1,10 +1,8 @@
 ---
 title: "Spank Rock"
+slug: "spank-rock"
 date: 2011-09-27
-category: "artist"
-track_count: 5
-first_year: 2006
-last_year: 2011
+layout: post
 tags:
   - '@spank-rock'
   - '@spank-rock-diplo'
@@ -13,7 +11,6 @@ tags:
   - '00s-10s'
   - 'baltimore club'
   - 'moombahton'
-stub: true
 ---
 
 ## Spank Rock

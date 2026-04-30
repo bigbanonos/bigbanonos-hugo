@@ -1,12 +1,12 @@
 ---
-title: "' 'Gina Valentina'
-'"
+title: "Gina Valentina"
+slug: "gina-valentina"
 date: 2024-12-13
-original_title: "'Gina Valentina'"
+layout: post
 tags:
   - '@ginavalentina'
-layout: post
 ---
+
 <!-- Post Title -->
 <h1 >BigBanonos' Favorite Tracks: Gina Valentina - "I Don't Care"</h1> <!-- Introductory Text -->
 <p >Updated August 30, 2019, with "I Don't Care" by Gina Valentina. This bold track from <em>Djia Media</em> showcases an unapologetic vibe paired with infectious rhythms.</p> <!-- Featured Image -->

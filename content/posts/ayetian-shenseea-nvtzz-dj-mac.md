@@ -1,10 +1,8 @@
 ---
-title: "Ayetian;Shenseea;Nvtzz;DJ MAC"
+title: "Ayetian Shenseea Nvtzz Dj Mac"
+slug: "ayetian-shenseea-nvtzz-dj-mac"
 date: 2026-02-20
-category: "artist"
-track_count: 4
-first_year: 2024
-last_year: 2026
+layout: post
 tags:
   - '@ayetian-shenseea-nvtzz-dj-mac'
   - '@ayetian'
@@ -15,7 +13,6 @@ tags:
   - 'soca'
   - 'riddim'
   - 'afrobeats'
-stub: true
 ---
 
 ## Ayetian;Shenseea;Nvtzz;DJ MAC

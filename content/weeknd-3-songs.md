@@ -1,12 +1,12 @@
 ---
-title: "' 'Weeknd'
-'"
+title: "Weeknd"
+slug: "weeknd"
 date: 2025-05-29
-original_title: "'Weeknd'"
+layout: post
 tags:
   - '@weeknd'
-layout: post
 ---
+
 <h1 >BigBanonosâ€™ Favorite Songs by The Weeknd</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://ew.com/thmb/IVjmtfkRu2ZP4GDYmiFkPUe7yTc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Weeknd-d4fb08e62a924691a18af068d9bfa972.jpg" alt="The Weeknd" >}}
 </div> <!-- YouTube Embed for Timeless Remix -->

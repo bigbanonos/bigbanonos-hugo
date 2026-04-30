@@ -1,12 +1,12 @@
 ---
-title: "' 'Josh Ritter'
-'"
+title: "Josh Ritter"
+slug: "josh-ritter"
 date: 2024-12-12
-original_title: "'Josh Ritter'"
+layout: post
 tags:
   - '@joshritter'
-layout: post
 ---
+
 <!-- Post Title -->
 <h1 >BigBanonos' Favorite Tracks: Josh Ritter - "Getting Ready to Get Down"</h1> <!-- Introductory Text -->
 <p >Updated October 16, 2015, with "Getting Ready to Get Down" from *Sermon on the Rocks* by Josh Ritter. This upbeat track combines alternative country with indie folk, creating a rich, rhythmic backdrop for Ritter's storytelling. With its catchy melody and vibrant energy, itâ€™s the perfect tune for anyone looking to get into a feel-good mood.</p> <!-- Featured Image -->

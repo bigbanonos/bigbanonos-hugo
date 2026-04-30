@@ -1,15 +1,12 @@
 ---
 title: "The The"
+slug: "the-the"
 date: 1983-01-01
-category: "artist"
-track_count: 3
-first_year: 1983
-last_year: 1983
+layout: post
 tags:
   - '@the-the'
   - '1900s'
   - 'new wave'
-stub: true
 ---
 
 ## The The

@@ -1,15 +1,12 @@
 ---
 title: "Dehd"
+slug: "dehd"
 date: 2024-05-10
-category: "artist"
-track_count: 6
-first_year: 2019
-last_year: 2024
+layout: post
 tags:
   - '@dehd'
   - '00s-10s'
   - '2020s'
-stub: true
 ---
 
 ## Dehd

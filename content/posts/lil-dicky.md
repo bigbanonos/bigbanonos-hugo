@@ -1,10 +1,8 @@
 ---
 title: "Lil Dicky"
+slug: "lil-dicky"
 date: 2017-12-15
-category: "artist"
-track_count: 5
-first_year: 2015
-last_year: 2017
+layout: post
 tags:
   - '@lil-dicky'
   - '@lil-dicky-fetty-wap-rich-homie-quan'
@@ -15,7 +13,6 @@ tags:
   - 'west coast hip hop'
   - 'gangster rap'
   - 'old school hip hop'
-stub: true
 ---
 
 ## Lil Dicky

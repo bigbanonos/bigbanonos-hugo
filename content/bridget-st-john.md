@@ -1,12 +1,12 @@
 ---
-title: "' 'Bridget St John'
-'"
+title: "Bridget St John"
+slug: "bridget-st-john"
 date: 2025-01-17
-original_title: "'Bridget St John'"
+layout: post
 tags:
   - '@bridgetstjohn'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Bridget St John</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab67616d0000b27330efd5d7c7ff0956a9709300" alt="Bridget St John" >}}

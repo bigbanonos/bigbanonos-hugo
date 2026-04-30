@@ -1,12 +1,12 @@
 ---
-title: "' 'Gene Pitney'
-'"
+title: "Gene Pitney"
+slug: "gene-pitney"
 date: 2024-12-29
-original_title: "'Gene Pitney'"
+layout: post
 tags:
   - '@genepitney'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonos Favorite Song by Gene Pitney: "Mecca"</h1> <!-- Introductory Text -->
 <p >Updated January 1, 2005, with "Mecca" by Gene Pitney. This 1963 classic, featured on the album *Sings Just For You*, combines the lush arrangements of Brill Building pop with Pitneyâ€™s signature dramatic delivery. Watch the video below!</p> <!-- Featured Image -->

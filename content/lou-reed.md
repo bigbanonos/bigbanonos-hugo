@@ -1,12 +1,12 @@
 ---
-title: "' 'Lou Reed'
-'"
+title: "Lou Reed"
+slug: "lou-reed"
 date: 2025-01-16
-original_title: "'Lou Reed'"
+layout: post
 tags:
   - '@loureed'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1>BigBanonosâ€™ Favorite Songs by Lou Reed</h1> <!-- Introductory Text -->
 <p>Lou Reed, a pioneer of glam rock and an enduring figure in the world of music, has a catalog that spans decades and genres. Updated with his iconic tracks, BigBanonos highlights Lou Reedâ€™s contributions to music history.</p> <!-- Featured Image -->

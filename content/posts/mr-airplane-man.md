@@ -1,17 +1,14 @@
 ---
-title: "Mr. Airplane Man"
+title: "Mr Airplane Man"
+slug: "mr-airplane-man"
 date: 2004-01-01
-category: "artist"
-track_count: 5
-first_year: 2002
-last_year: 2004
+layout: post
 tags:
   - '@mr-airplane-man'
   - '00s-10s'
   - 'garage rock'
   - 'modern blues'
   - 'blues rock'
-stub: true
 ---
 
 ## Mr. Airplane Man

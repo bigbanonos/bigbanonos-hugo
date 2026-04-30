@@ -1,10 +1,8 @@
 ---
 title: "Nine Inch Nails"
+slug: "nine-inch-nails"
 date: 2007-04-17
-category: "artist"
-track_count: 6
-first_year: 1989
-last_year: 2007
+layout: post
 tags:
   - '@nine-inch-nails'
   - '00s-10s'
@@ -13,7 +11,6 @@ tags:
   - 'industrial'
   - 'industrial metal'
   - 'alternative metal'
-stub: true
 ---
 
 ## Nine Inch Nails

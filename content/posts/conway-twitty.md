@@ -1,7 +1,8 @@
 ---
 title: "Conway Twitty"
+slug: "conway-twitty"
 date: 2026-03-13
-category: "artist"
+layout: post
 tags:
   - '@conwaytwitty'
 ---

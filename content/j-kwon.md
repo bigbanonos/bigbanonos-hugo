@@ -1,13 +1,13 @@
 ---
-title: "' 'J-Kwon'
-'"
+title: "J Kwon"
+slug: "j-kwon"
 date: 2025-01-16
-original_title: "'J-Kwon'"
+layout: post
 tags:
   - '@ebonieyes'
   - '@j-kwon'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1>BigBanonosâ€™ Favorite Songs by J-Kwon</h1> <!-- Introductory Text -->
 <p>J-Kwon became a staple in the early 2000s hip-hop scene with his infectious beats and party anthems. BigBanonos revisits his classic tracks that still resonate today.</p> <!-- Featured Image -->

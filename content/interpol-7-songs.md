@@ -1,12 +1,12 @@
 ---
-title: "' 'Interpol'
-'"
+title: "Interpol"
+slug: "interpol"
 date: 2024-12-20
-original_title: "'Interpol - 7 Songs'"
+layout: post
 tags:
   - '@interpol'
-layout: post
 ---
+
 <h1>BigBanonos 7 Essential Tracks by Interpol</h1>
 <img alt="Interpol" src="https://www.rollingstone.com/wp-content/uploads/2018/06/rs-182445-86115878.jpg?w=1600&h=900&crop=1" /> <p>Interpolâ€™s sound combines haunting melodies and driving rock rhythms, making them a defining force in alternative and indie rock. These selected tracks highlight the bandâ€™s atmospheric, intense style that has resonated with fans worldwide.</p> <ol> <li><strong>Evil</strong> | <em>Antics</em> | Matador | Released: September 27, 2004</li> <li><strong>Untitled</strong> | <em>Turn On The Bright Lights</em> | Matador | Released: August 20, 2002</li> <li><strong>Obstacle 1</strong> | <em>Turn On The Bright Lights</em> | Matador | Released: August 20, 2002</li> <li><strong>NYC</strong> | <em>Turn On The Bright Lights</em> | Matador | Released: August 20, 2002</li> <li><strong>Obstacle 2</strong> | <em>Turn On The Bright Lights</em> | Matador | Released: August 20, 2002</li> <li><strong>Leif Erikson</strong> | <em>Turn On The Bright Lights</em> | Matador | Released: August 20, 2002</li> <li><strong>Roland</strong> | <em>Turn On The Bright Lights</em> | Matador | Released: August 20, 2002</li>
 </ol> <div> {{< youtube "embed" >}}

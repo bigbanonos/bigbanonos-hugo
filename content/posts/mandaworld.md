@@ -1,14 +1,11 @@
 ---
 title: "Mandaworld"
+slug: "mandaworld"
 date: 2023-01-27
-category: "artist"
-track_count: 2
-first_year: 2022
-last_year: 2023
+layout: post
 tags:
   - '@mandaworld'
   - '2020s'
-stub: true
 ---
 
 ## Mandaworld

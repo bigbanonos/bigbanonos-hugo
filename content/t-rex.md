@@ -1,12 +1,12 @@
 ---
-title: "' 'T. Rex'
-'"
+title: "T Rex"
+slug: "t-rex"
 date: 2025-02-10
-original_title: "'T. Rex'"
+layout: post
 tags:
   - '@trex'
-layout: post
 ---
+
  <!-- T. Rex -->
 <img src="https://i.scdn.co/image/ab67616d0000b27305657aedd93e64aef6cf3973" /> <p><strong>Updated January 30, 1976 with "Dreamy Lady" from <em>Futuristic Dragon</em></strong></p> <p><strong>"Golden Belt"</strong> â€“ <em>Bolan's Zip Gun</em> (T-Rex Catalog, 1975)</p>
 <p><strong>"Dreamy Lady"</strong> â€“ <em>Futuristic Dragon</em> (T-Rex Catalog, 1976)</p>

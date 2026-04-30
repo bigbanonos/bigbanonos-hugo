@@ -1,17 +1,14 @@
 ---
 title: "Arab Strap"
+slug: "arab-strap"
 date: 2006-10-23
-category: "artist"
-track_count: 3
-first_year: 1996
-last_year: 2006
+layout: post
 tags:
   - '@arab-strap'
   - '00s-10s'
   - '1900s'
   - 'slowcore'
   - 'spoken word'
-stub: true
 ---
 
 ## Arab Strap

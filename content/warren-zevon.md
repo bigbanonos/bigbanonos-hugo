@@ -1,12 +1,12 @@
 ---
-title: "' 'Warren Zevon'
-'"
+title: "Warren Zevon"
+slug: "warren-zevon"
 date: 2024-12-20
-original_title: "'Warren Zevon'"
+layout: post
 tags:
   - '@warrenzevon'
-layout: post
 ---
+
 <h1>BigBanonos Top Songs by Warren Zevon</h1>
 <div class="separator"> <a href="https://townsquare.media/site/295/files/2014/01/warrenz.jpg" > <img alt="Warren Zevon" border="0" width="320" data-original-height="480" data-original-width="640" src="https://townsquare.media/site/295/files/2014/01/warrenz.jpg"/> </a>
 </div>

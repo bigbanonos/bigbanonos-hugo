@@ -1,12 +1,12 @@
 ---
-title: "' 'Pecker Dunne'
-'"
+title: "Pecker Dunne"
+slug: "pecker-dunne"
 date: 2025-01-18
-original_title: "'Pecker Dunne'"
+layout: post
 tags:
   - '@peckerdunne'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >Pecker Dunne</h1> <!-- Introductory Text -->
 <p >Pecker Dunneâ€™s heartfelt tales and traditional Irish banjo have made him a folk legend. Listen to his classics below!</p> <!-- Featured Image -->

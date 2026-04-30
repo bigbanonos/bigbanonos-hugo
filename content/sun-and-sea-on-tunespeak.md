@@ -1,12 +1,12 @@
 ---
-title: "' 'Sun And The Sea'
-'"
+title: "Sun And Sea On Tunespeak"
+slug: "sun-and-sea-on-tunespeak"
 date: 2016-02-06
-original_title: "'Sun And The Sea'"
+layout: post
 tags:
   - '@sunandthesea'
-layout: post
 ---
+
 #2014 #stlouis<br />
 {{< youtube "O0y3PbxUqUE" >}}<br />
 Under The Gun 2014

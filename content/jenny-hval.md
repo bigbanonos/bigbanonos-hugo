@@ -1,12 +1,12 @@
 ---
-title: "' 'Jenny Hval'
-'"
+title: "Jenny Hval"
+slug: "jenny-hval"
 date: 2024-12-12
-original_title: "'Jenny Hval -  1 Song'"
+layout: post
 tags:
   - '@jennyhval'
-layout: post
 ---
+
 <!-- Post Title -->
 <h1 >BigBanonos' Favorite Tracks: Jenny Hval - "Sabbath"</h1> <!-- Introductory Text -->
 <p >Updated June 9, 2015, with "Sabbath" by Jenny Hval. This standout track from *Apocalypse, girl* showcases the Norwegian artist's boundary-pushing art pop and experimental flair.</p> <!-- Featured Image -->

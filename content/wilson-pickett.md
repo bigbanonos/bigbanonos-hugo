@@ -1,12 +1,12 @@
 ---
-title: "' 'Wilson Pickett'
-'"
+title: "Wilson Pickett"
+slug: "wilson-pickett"
 date: 2025-01-16
-original_title: "'Wilson Pickett'"
+layout: post
 tags:
   - '@wilsonpickett'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Wilson Pickett</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://fastly-s3.allmusic.com/artist/mn0000677781/400/_b1pcU8250kBAzW1lk12qCpQg_7iAU1wjqLgK_xGXts=.jpg" alt="Wilson Pickett" >}}

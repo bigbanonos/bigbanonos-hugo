@@ -1,12 +1,12 @@
 ---
-title: "' 'Pink Mountaintops'
-'"
+title: "Pink Mountaintops"
+slug: "pink-mountaintops"
 date: 2025-02-10
-original_title: "'Pink Mountaintops'"
+layout: post
 tags:
   - '@pinkmountaintops'
-layout: post
 ---
+
 <!-- Pink Mountaintops -->
 <img src="https://i.scdn.co/image/ab67616d0000b273907265db1a5139705f021376" /> <p><strong>Updated May 5, 2009 with "Execution" from <em>Outside Love</em></strong></p> <p><strong>"Execution"</strong> â€“ <em>Outside Love</em> (Jagjaguwar, 2009)</p>
 <p><strong>"Holiday"</strong> â€“ <em>Outside Love</em> (Jagjaguwar, 2009)</p>

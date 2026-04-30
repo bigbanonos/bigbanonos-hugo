@@ -1,15 +1,12 @@
 ---
-title: "BigXthaPlug"
+title: "Bigxthaplug"
+slug: "bigxthaplug"
 date: 2023-04-28
-category: "artist"
-track_count: 3
-first_year: 2023
-last_year: 2023
+layout: post
 tags:
   - '@bigxthaplug'
   - '2020s'
   - 'southern hip hop'
-stub: true
 ---
 
 ## BigXthaPlug

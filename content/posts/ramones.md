@@ -1,16 +1,13 @@
 ---
 title: "Ramones"
+slug: "ramones"
 date: 1986-01-01
-category: "artist"
-track_count: 6
-first_year: 1976
-last_year: 1986
+layout: post
 tags:
   - '@ramones'
   - '1900s'
   - 'punk'
   - 'proto-punk'
-stub: true
 ---
 
 ## Ramones

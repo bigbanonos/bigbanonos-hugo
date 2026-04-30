@@ -1,12 +1,12 @@
 ---
-title: "' 'Little Majorette'
-'"
+title: "Little Majorette"
+slug: "little-majorette"
 date: 2024-12-29
-original_title: "'Little Majorette'"
+layout: post
 tags:
   - '@littlemajorette'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonos Favorite Song by Little Majorette: "Never Be the Same"</h1> <!-- Introductory Text -->
 <p >Updated April 26, 2011, with "Never Be the Same" by Little Majorette. This charming track from their album *Rifle Heart* blends Swedish indie pop with heartfelt melodies and lush instrumentation. Watch the video below!</p> <!-- Featured Image -->

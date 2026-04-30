@@ -1,17 +1,14 @@
 ---
-title: "NIGY BOY"
+title: "Nigy Boy"
+slug: "nigy-boy"
 date: 2024-03-11
-category: "artist"
-track_count: 2
-first_year: 2024
-last_year: 2024
+layout: post
 tags:
   - '@nigy-boy'
   - '2020s'
   - 'dancehall'
   - 'soca'
   - 'riddim'
-stub: true
 ---
 
 ## NIGY BOY

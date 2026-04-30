@@ -1,17 +1,14 @@
 ---
 title: "Suicide"
+slug: "suicide"
 date: 2022-02-14
-category: "artist"
-track_count: 3
-first_year: 1977
-last_year: 2022
+layout: post
 tags:
   - '@suicide'
   - '1900s'
   - '2020s'
   - 'proto-punk'
   - 'post-punk'
-stub: true
 ---
 
 ## Suicide

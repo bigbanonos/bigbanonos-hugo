@@ -1,12 +1,12 @@
 ---
-title: "' 'The Monkees'
-'"
+title: "The Monkees"
+slug: "the-monkees"
 date: 2024-12-17
-original_title: "'The Monkees'"
+layout: post
 tags:
   - '@monkees'
-layout: post
 ---
+
 <h1>BigBanonos Top Songs by The Monkees</h1>
 <div class="separator"> <a href="https://www.hollywoodreporter.com/wp-content/uploads/2021/09/Mike-Nesmith-of-The-Monkees-Everett-H-2021.jpg?w=1296&h=730&crop=1" > <img alt="The Monkees" border="0" width="320" data-original-height="480" data-original-width="640" src="https://www.hollywoodreporter.com/wp-content/uploads/2021/09/Mike-Nesmith-of-The-Monkees-Everett-H-2021.jpg?w=1296&h=730&crop=1"/> </a>
 </div>

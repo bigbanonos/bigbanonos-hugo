@@ -1,10 +1,8 @@
 ---
 title: "Lutan Fyah"
+slug: "lutan-fyah"
 date: 2022-05-24
-category: "artist"
-track_count: 9
-first_year: 2017
-last_year: 2022
+layout: post
 tags:
   - '@lutan-fyah'
   - '@lutan-fyah-top-secret-production-don-richie-music'
@@ -14,7 +12,6 @@ tags:
   - 'roots reggae'
   - 'ragga'
   - 'riddim'
-stub: true
 ---
 
 ## Lutan Fyah

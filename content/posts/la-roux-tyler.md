@@ -1,17 +1,14 @@
 ---
-title: "La Roux;Tyler"
+title: "La Roux Tyler"
+slug: "la-roux-tyler"
 date: 2020-04-17
-category: "artist"
-track_count: 2
-first_year: 2019
-last_year: 2020
+layout: post
 tags:
   - '@la-roux-tyler'
   - '@la-roux'
   - '@the-creator'
   - '00s-10s'
   - '2020s'
-stub: true
 ---
 
 ## La Roux;Tyler

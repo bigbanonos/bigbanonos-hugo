@@ -1,12 +1,12 @@
 ---
-title: "' 'Damien Jurado'
-'"
+title: "Damien Jurado"
+slug: "damien-jurado"
 date: 2024-12-11
-original_title: "'Damien Jurado'"
+layout: post
 tags:
   - '@damienjurado'
-layout: post
 ---
+
 <!-- Post Title -->
 <h1 >BigBanonos' Favorite Song by Damian Marley</h1> <!-- Introductory Text -->
 <p >Updated January 1, 2005, with BigBanonos' favorite track, "Welcome To Jamrock" by Damian Marley. This iconic reggae fusion masterpiece, originally released under Universal Records/Tuff Gong Records, set a new standard for modern reggae with its hard-hitting social commentary and unforgettable rhythm.</p> <!-- Featured Image -->

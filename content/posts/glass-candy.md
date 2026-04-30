@@ -1,15 +1,12 @@
 ---
 title: "Glass Candy"
+slug: "glass-candy"
 date: 2013-05-17
-category: "artist"
-track_count: 3
-first_year: 2013
-last_year: 2013
+layout: post
 tags:
   - '@glass-candy'
   - '00s-10s'
   - 'electroclash'
-stub: true
 ---
 
 ## Glass Candy

@@ -1,12 +1,12 @@
 ---
-title: "' 'Bauhaus'
-'"
+title: "Bauhaus"
+slug: "bauhaus"
 date: 2024-12-02
-original_title: "'Bauhaus'"
+layout: post
 tags:
   - '@bauhaus'
-layout: post
 ---
+
 <!-- Post Title -->
 <h1 >BigBanonos' Favorite Song by Bauhaus</h1> <!-- Introductory Text -->
 <p >Updated November 23, 2018, with BigBanonos' favorite song by Bauhaus, "Some Faces," from the album *The Bela Session*. Watch the video and see more details below:</p> <!-- Featured Image -->

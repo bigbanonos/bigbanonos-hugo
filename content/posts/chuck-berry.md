@@ -1,16 +1,13 @@
 ---
 title: "Chuck Berry"
+slug: "chuck-berry"
 date: 1959-07-01
-category: "artist"
-track_count: 1
-first_year: 1959
-last_year: 1959
+layout: post
 tags:
   - '@chuck-berry'
   - '1900s'
   - 'rockabilly'
   - 'rock and roll'
-stub: true
 ---
 
 ## Chuck Berry

@@ -1,12 +1,12 @@
 ---
-title: "' 'Toadies'
-'"
+title: "Toadies"
+slug: "toadies"
 date: 2025-01-10
-original_title: "'Toadies'"
+layout: post
 tags:
   - '@toadies'
-layout: post
 ---
+
 <div class="post-title"> <h1>BigBanonos' Favorite Songs by Toadies</h1>
 </div>
 <p>Updated January 1, 1994, with "Mister Love" from the album <i>Rubberneck</i>, highlighted in the playlist below:</p>

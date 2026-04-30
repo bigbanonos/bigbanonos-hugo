@@ -1,15 +1,15 @@
 ---
-title: "' 'Wiley'
-'"
+title: "Wiley"
+slug: "wiley"
 date: 2025-01-11
-original_title: "'Wiley'"
+layout: post
 tags:
   - '@kranium'
   - '@dappy'
   - '@wiley'
   - '@torylanez'
-layout: post
 ---
+
 <div class="post-title"> <h1>BigBanonos' Favorite Songs by Wiley</h1>
 </div>
 <p>Updated June 22, 2020, with "Givenchy Bag" from the album <i>Boasty Gang - The Album</i>, highlighted in the playlist below:</p>

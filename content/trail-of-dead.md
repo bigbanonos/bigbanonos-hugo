@@ -1,12 +1,12 @@
 ---
-title: "' 'Trail Of Dead'
-'"
+title: "Trail Of Dead"
+slug: "trail-of-dead"
 date: 2025-02-11
-original_title: "'Trail Of Dead'"
+layout: post
 tags:
   - '@trailofdead'
-layout: post
 ---
+
 <div> <img alt="...And You Will Know Us by the Trail of Dead" src="https://i.scdn.co/image/ab67616d0000b273b9a2d0905980c70ffb110aa4" width="100%" />
 </div> {{< youtube "embed" >}} <p>
 BigBanonos' favorite ...And You Will Know Us by the Trail of Dead songs, ordered by release date:

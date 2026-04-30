@@ -1,10 +1,8 @@
 ---
 title: "Lil Keed"
+slug: "lil-keed"
 date: 2019-05-05
-category: "artist"
-track_count: 2
-first_year: 2018
-last_year: 2019
+layout: post
 tags:
   - '@lil-keed'
   - '@lil-keed-young-thug'
@@ -12,7 +10,6 @@ tags:
   - 'melodic rap'
   - 'rap'
   - 'trap'
-stub: true
 ---
 
 ## Lil Keed

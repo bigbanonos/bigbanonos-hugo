@@ -1,14 +1,11 @@
 ---
 title: "Lavender Diamond"
+slug: "lavender-diamond"
 date: 2012-09-25
-category: "artist"
-track_count: 5
-first_year: 2007
-last_year: 2012
+layout: post
 tags:
   - '@lavender-diamond'
   - '00s-10s'
-stub: true
 ---
 
 ## Lavender Diamond

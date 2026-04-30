@@ -1,10 +1,8 @@
 ---
 title: "Jeff Rosenstock"
+slug: "jeff-rosenstock"
 date: 2023-08-31
-category: "artist"
-track_count: 8
-first_year: 2015
-last_year: 2023
+layout: post
 tags:
   - '@jeff-rosenstock'
   - '@jeff-rosenstock-laura-stevenson'
@@ -13,7 +11,6 @@ tags:
   - 'folk punk'
   - 'indie punk'
   - 'power pop'
-stub: true
 ---
 
 ## Jeff Rosenstock

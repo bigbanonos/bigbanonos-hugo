@@ -1,10 +1,8 @@
 ---
 title: "The Dubliners"
+slug: "the-dubliners"
 date: 2013-03-15
-category: "artist"
-track_count: 4
-first_year: 1995
-last_year: 2013
+layout: post
 tags:
   - '@the-dubliners'
   - '@the-dubliners-se-n-cannon'
@@ -14,7 +12,6 @@ tags:
   - 'celtic rock'
   - 'sea shanties'
   - 'celtic punk'
-stub: true
 ---
 
 ## The Dubliners

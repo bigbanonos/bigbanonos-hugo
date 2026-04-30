@@ -1,7 +1,8 @@
 ---
 title: "Gnarls Barkley"
+slug: "gnarls-barkley"
 date: 2026-03-06
-category: "artist"
+layout: post
 tags:
   - '@gnarlsbarkley'
   - '@ceelo'

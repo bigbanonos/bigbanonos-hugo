@@ -1,17 +1,14 @@
 ---
-title: "Lee Fields & The Expressions"
+title: "Lee Fields The Expressions"
+slug: "lee-fields-the-expressions"
 date: 2020-01-17
-category: "artist"
-track_count: 1
-first_year: 2020
-last_year: 2020
+layout: post
 tags:
   - '@lee-fields-the-expressions'
   - '2020s'
   - 'retro soul'
   - 'soul'
   - 'funk'
-stub: true
 ---
 
 ## Lee Fields & The Expressions

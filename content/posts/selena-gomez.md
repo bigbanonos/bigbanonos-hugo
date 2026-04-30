@@ -1,17 +1,14 @@
 ---
 title: "Selena Gomez"
+slug: "selena-gomez"
 date: 2023-08-25
-category: "artist"
-track_count: 8
-first_year: 2015
-last_year: 2023
+layout: post
 tags:
   - '@selena-gomez'
   - '@selena-gomez-a-ap-rocky'
   - '00s-10s'
   - '2020s'
   - 'rap'
-stub: true
 ---
 
 ## Selena Gomez

@@ -1,10 +1,8 @@
 ---
 title: "Yo Gotti"
+slug: "yo-gotti"
 date: 2020-08-28
-category: "artist"
-track_count: 12
-first_year: 2013
-last_year: 2020
+layout: post
 tags:
   - '@yo-gotti'
   - '@yo-gotti-blac-youngsta'
@@ -21,7 +19,6 @@ tags:
   - 'rap'
   - 'crunk'
   - 'gangster rap'
-stub: true
 ---
 
 ## Yo Gotti

@@ -1,12 +1,12 @@
 ---
-title: "' 'Dick Diver'
-'"
+title: "Dick Diver"
+slug: "dick-diver"
 date: 2025-01-19
-original_title: "'Dick Diver'"
+layout: post
 tags:
   - '@dickdiver'
-layout: post
 ---
+
  <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Dick Diver</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/3e53b0e3dbc76975ccdb6c4701d70e36b8b2db06" alt="Dick Diver" >}}

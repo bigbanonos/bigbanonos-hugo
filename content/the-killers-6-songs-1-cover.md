@@ -1,14 +1,14 @@
 ---
-title: "' 'The Killers'
-'"
+title: "The Killers 6 Songs 1 Cover"
+slug: "the-killers-6-songs-1-cover"
 date: 2024-12-20
-original_title: "'The Killers - 8 Songs + 1 Cover'"
+layout: post
 tags:
   - '@thekillers'
   - '@loureed'
   - '@brucespringsteen'
-layout: post
 ---
+
 <h1>The Killers: BigBanonos Favorite Tracks</h1>
 <img alt="The Killers" src="https://i0.wp.com/discotech.me/wp-content/uploads/2020/09/the_killers.png?fit=1030%2C587&ssl=1" /> <p>The Killers are a defining force in alternative rock, blending intense, emotive lyrics with powerful instrumentals. Hereâ€™s a look at some of their top songs across albums:</p> <ol> <li><strong>Desperate Things - Abridged</strong> | Album: Pressure Machine (Abridged) | Release Date: August 12, 2021</li> <li><strong>C'est La Vie</strong> | Album: Imploding The Mirage (Deluxe) | Release Date: January 29, 2021</li> <li><strong>Heart Of A Girl</strong> | Album: Battle Born | Release Date: September 17, 2012</li> <li><strong>When You Were Young</strong> | Album: Sam's Town | Release Date: September 27, 2006</li> <li><strong>Smile Like You Mean It</strong> | Album: Hot Fuss | Release Date: June 15, 2004</li> <li><strong>Dustland (feat. Bruce Springsteen)</strong> | Release Date: June 16, 2021</li> <li><strong>Tranquilize</strong> (feat. Lou Reed) | Album: Sawdust | Release Date: January 1, 2007</li><li><b>Show You How</b> | Album: Sawdust | Release Date: January 1, 2007</li></ol><div><spantimes new roman", serif;"><br /></span></div> <div> {{< youtube "embed" >}}
 </div>

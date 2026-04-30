@@ -1,16 +1,13 @@
 ---
-title: "The Diplomats;Cam'ron"
+title: "The Diplomats Cam Ron"
+slug: "the-diplomats-cam-ron"
 date: 2026-02-18
-category: "artist"
-track_count: 3
-first_year: 2026
-last_year: 2026
+layout: post
 tags:
   - '@the-diplomats-cam-ron'
   - '@the-diplomats'
   - '2020s'
   - 'east coast hip hop'
-stub: true
 ---
 
 ## The Diplomats;Cam'ron

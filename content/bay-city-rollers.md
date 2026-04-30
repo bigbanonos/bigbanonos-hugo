@@ -1,12 +1,12 @@
 ---
-title: "' 'Bay City Rollers'
-'"
+title: "Bay City Rollers"
+slug: "bay-city-rollers"
 date: 2024-12-27
-original_title: "'Bay City Rollers'"
+layout: post
 tags:
   - '@baycityrollers'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonos Favorite Song by Bay City Rollers: "Saturday Night"</h1> <!-- Introductory Text -->
 <p >Updated January 1, 1974, with "Saturday Night" by Bay City Rollers. This bubblegum pop anthem became a defining hit of the 1970s, showcasing the band's infectious energy and singalong appeal. Watch the video below!</p> <!-- Featured Image -->

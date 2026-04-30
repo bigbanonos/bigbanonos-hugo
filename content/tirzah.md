@@ -1,12 +1,12 @@
 ---
-title: "' 'Tirzah'
-'"
+title: "Tirzah"
+slug: "tirzah"
 date: 2025-01-10
-original_title: "'Tirzah'"
+layout: post
 tags:
   - '@tirzah'
-layout: post
 ---
+
 <div class="post-title"> <h1>BigBanonos' Favorite Songs by Tirzah</h1>
 </div>
 <p>Updated August 10, 2018, with "Holding On" from the album <i>Devotion</i>, highlighted in the playlist below:</p>

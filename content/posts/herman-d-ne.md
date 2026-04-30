@@ -1,15 +1,12 @@
 ---
-title: "Herman Düne"
+title: "Herman D Ne"
+slug: "herman-d-ne"
 date: 2006-10-13
-category: "artist"
-track_count: 1
-first_year: 2006
-last_year: 2006
+layout: post
 tags:
   - '@herman-d-ne'
   - '00s-10s'
   - 'anti-folk'
-stub: true
 ---
 
 ## Herman Düne

@@ -1,14 +1,14 @@
 ---
-title: "' 'OMI'
-'"
+title: "Omi"
+slug: "omi"
 date: 2024-12-15
-original_title: "'OMI'"
+layout: post
 tags:
   - '@cheerleader'
   - '@omi'
   - '@felixjaehn'
-layout: post
 ---
+
 <!-- Post Title -->
 <h1 >BigBanonos' Favorite Tracks: OMI - "Cheerleader" (Felix Jaehn Remix)</h1> <!-- Introductory Text -->
 <p >Updated March 6, 2015, with "Cheerleader" by OMI, featuring the Felix Jaehn Remix. This global hit blends reggae fusion with a catchy tropical vibe, making it an anthem thatâ€™s still loved worldwide. The remix brought a fresh danceable twist to OMIâ€™s already infectious melody.</p> <!-- Featured Image -->

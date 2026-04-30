@@ -1,10 +1,8 @@
 ---
-title: "Flume;Toro y Moi"
+title: "Flume Toro Y Moi"
+slug: "flume-toro-y-moi"
 date: 2022-07-08
-category: "artist"
-track_count: 5
-first_year: 2019
-last_year: 2022
+layout: post
 tags:
   - '@flume-toro-y-moi'
   - '@flume-emma-louise'
@@ -16,7 +14,6 @@ tags:
   - 'future bass'
   - 'chillwave'
   - 'lo-fi house'
-stub: true
 ---
 
 ## Flume;Toro y Moi

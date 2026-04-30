@@ -1,14 +1,14 @@
 ---
-title: "' 'Clipse'
-'"
+title: "Clipse"
+slug: "clipse"
 date: 2024-12-17
-original_title: "'Clipse'"
+layout: post
 tags:
   - '@clipse'
   - '@ablivia'
   - '@faithevans'
-layout: post
 ---
+
 <h2>Clipse â€“ Essential Tracks</h2> <div > <img src="https://media.pitchfork.com/photos/599b1be007b7060c235260a1/master/pass/clipse-2.jpg" alt="Clipse" width="500" />
 </div> {{< youtube "embed" >}} <h3>Tracklist</h3>
 <ul> <li><strong>Grindin'</strong> â€“ <em>Lord Willin'</em> (2002)</li> <li><strong>Ma, I Donâ€™t Love Her</strong> (feat. Faith Evans) â€“ <em>Lord Willin'</em> (2002)</li> <li><strong>Ride Around Shining</strong> (feat. Ab-Liva) â€“ <em>Hell Hath No Fury</em> (2006)</li>

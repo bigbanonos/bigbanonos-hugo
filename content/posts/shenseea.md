@@ -1,10 +1,8 @@
 ---
 title: "Shenseea"
+slug: "shenseea"
 date: 2026-01-16
-category: "artist"
-track_count: 21
-first_year: 2017
-last_year: 2026
+layout: post
 tags:
   - '@shenseea'
   - '@shenseea-21-savage'
@@ -20,7 +18,6 @@ tags:
   - 'soca'
   - 'afrobeats'
   - 'riddim'
-stub: true
 ---
 
 ## Shenseea

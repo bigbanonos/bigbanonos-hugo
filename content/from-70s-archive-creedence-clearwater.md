@@ -1,13 +1,13 @@
 ---
-title: "' 'Creedence Clearwater Revival'
-'"
+title: "Creedence Clearwater"
+slug: "creedence-clearwater"
 date: 2024-12-17
-original_title: "'Creedence Clearwater Revival'"
+layout: post
 tags:
   - '@creedenceclearwaterrevival'
   - '@ccr'
-layout: post
 ---
+
 <h2>Creedence Clearwater Revival â€“ Essential Tracks</h2> <div > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Creedence_Clearwater_Revival_1968.jpg/640px-Creedence_Clearwater_Revival_1968.jpg" alt="Creedence Clearwater Revival" width="500" />
 </div> {{< youtube "embed" >}} <h3>Tracklist</h3>
 <ul> <li><strong>Bad Moon Rising</strong> â€“ <em>Creedence Clearwater Revival Hit Pac - 5 Series</em> (2008)</li> <li><strong>Proud Mary</strong> â€“ <em>Chronicle: 20 Greatest Hits</em> (1976)</li> <li><strong>Fortunate Son</strong> â€“ <em>Chronicle: 20 Greatest Hits</em> (1976)</li> <li><strong>Someday Never Comes</strong> â€“ <em>Chronicle: 20 Greatest Hits</em> (1976)</li>

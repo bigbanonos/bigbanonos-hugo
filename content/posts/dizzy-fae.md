@@ -1,10 +1,8 @@
 ---
 title: "Dizzy Fae"
+slug: "dizzy-fae"
 date: 2021-07-08
-category: "artist"
-track_count: 4
-first_year: 2018
-last_year: 2021
+layout: post
 tags:
   - '@dizzy-fae'
   - '@dizzy-fae-ying-yang-twins'
@@ -13,7 +11,6 @@ tags:
   - 'alternative r&b'
   - 'crunk'
   - 'southern hip hop'
-stub: true
 ---
 
 ## Dizzy Fae

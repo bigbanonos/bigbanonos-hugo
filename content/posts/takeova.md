@@ -1,15 +1,12 @@
 ---
-title: "TakeOva"
+title: "Takeova"
+slug: "takeova"
 date: 2020-07-10
-category: "artist"
-track_count: 2
-first_year: 2020
-last_year: 2020
+layout: post
 tags:
   - '@takeova'
   - '2020s'
   - 'dancehall'
-stub: true
 ---
 
 ## TakeOva

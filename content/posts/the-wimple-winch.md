@@ -1,10 +1,8 @@
 ---
 title: "The Wimple Winch"
+slug: "the-wimple-winch"
 date: 2019-07-23
-category: "artist"
-track_count: 3
-first_year: 1968
-last_year: 2019
+layout: post
 tags:
   - '@the-wimple-winch'
   - '00s-10s'
@@ -13,7 +11,6 @@ tags:
   - 'garage rock'
   - 'psychedelic rock'
   - 'acid rock'
-stub: true
 ---
 
 ## The Wimple Winch

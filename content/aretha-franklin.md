@@ -1,12 +1,12 @@
 ---
-title: "' 'Aretha Franklin'
-'"
+title: "Aretha Franklin"
+slug: "aretha-franklin"
 date: 2025-01-17
-original_title: "'Aretha Franklin'"
+layout: post
 tags:
   - '@arethafranklin'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Aretha Franklin</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab67616d0000b27346c31f64babcbfca6e061b6b" alt="Aretha Franklin" >}}

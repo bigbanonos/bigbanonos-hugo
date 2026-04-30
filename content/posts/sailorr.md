@@ -1,7 +1,8 @@
 ---
-title: "SAILORR"
+title: "Sailorr"
+slug: "sailorr"
 date: 2025-12-04
-category: "artist"
+layout: post
 tags:
   - '@sailorr'
 ---

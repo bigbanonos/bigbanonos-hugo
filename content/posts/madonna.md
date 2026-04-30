@@ -1,14 +1,11 @@
 ---
 title: "Madonna"
+slug: "madonna"
 date: 1983-07-27
-category: "artist"
-track_count: 5
-first_year: 1983
-last_year: 1983
+layout: post
 tags:
   - '@madonna'
   - '1900s'
-stub: true
 ---
 
 ## Madonna

@@ -1,12 +1,12 @@
 ---
-title: "' 'Rivers Cuomo'
-'"
+title: "Rivers Cuomo"
+slug: "rivers-cuomo"
 date: 2024-12-29
-original_title: "'Rivers Cuomo'"
+layout: post
 tags:
   - '@riverscuomo'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonos Favorite Song by Rivers Cuomo: "Lover In The Snow"</h1> <!-- Introductory Text -->
 <p >Updated January 1, 2007, with "Lover In The Snow" by Rivers Cuomo. This heartfelt track from his album *Alone: The Home Recordings of Rivers Cuomo*, released under Geffen Records, highlights his introspective songwriting and alternative rock roots. Watch and listen below!</p> <!-- Featured Image -->

@@ -1,12 +1,12 @@
 ---
-title: "' 'Dramarama'
-'"
+title: "Dramarama"
+slug: "dramarama"
 date: 2024-12-17
-original_title: "'Dramarama'"
+layout: post
 tags:
   - '@dramarama'
-layout: post
 ---
+
 <h2>Dramarama â€“ Essential Tracks</h2> <div > <img src="https://lh3.googleusercontent.com/KPMr5uKAZVTzB2QSZpAMAW-cDFJzTGldBkBpG_LFtnB6ybPJiBYD5q-O3WpHtkbRQtTzKBeKwcrSqOg=w544-h544-p-l90-rj" alt="Dramarama" width="400" />
 </div> {{< youtube "embed" >}} <h3>Tracklist</h3>
 <ul> <li><strong>Swallowed Your Cure</strong> â€“ <em>Hi-Fi Sci-Fi</em> (1993)</li> <li><strong>Haven't Got a Clue</strong> (Remastered Version) â€“ <em>Vinyl</em> (1991)</li> <li><strong>Anything, Anything (I'll Give You)</strong> (Live at the China Club) â€“ <em>Live At The China Club</em> (1990)</li>

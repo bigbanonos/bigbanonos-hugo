@@ -1,12 +1,12 @@
 ---
-title: "' 'Car Seat Headrest'
-'"
+title: "Car Seat Headrest"
+slug: "car-seat-headrest"
 date: 2025-05-29
-original_title: "'Car Seat Headrest - 8 Songs'"
+layout: post
 tags:
   - '@carseatheadrest'
-layout: post
 ---
+
 <img src="https://media.pitchfork.com/photos/67c61043c5c4ed977a7e133f/16:9/w_2600,h_1462,c_limit/Car-Seat-Headrest.jpeg" width="100%" /> <h2>BigBanonos' Favorite Songs by Car Seat Headrest</h2> <!-- Search Description -->
 <p>Discover BigBanonos' top picks by Car Seat Headrest, showcasing their signature indie rock and slacker style. Listen to the playlist below to experience these handpicked tracks.</p> <!-- Spotify Playlist Embed -->
 {{< youtube "embed" >}} <!-- Song Listings -->

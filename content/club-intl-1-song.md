@@ -1,12 +1,12 @@
 ---
-title: "' 'CLUB INTL'
-'"
+title: "Club Intl"
+slug: "club-intl"
 date: 2024-11-03
-original_title: "'CLUB INTL - 2 Songs'"
+layout: post
 tags:
   - '@clubintl'
-layout: post
 ---
+
 <h2>BigBanonos' Favorite Songs by Club Intl</h2> <!-- Search Description -->
 <p>BigBanonosâ€™ favorite tracks by Club Intl, featuring synth-pop vibes with collaborators John Eatherly, Madeline Follin, and Logan Avidan.</p> <!-- Spotify Playlist Embed -->
 {{< youtube "embed" >}} <!-- Song Listings -->

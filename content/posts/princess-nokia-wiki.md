@@ -1,10 +1,8 @@
 ---
-title: "Princess Nokia;Wiki"
+title: "Princess Nokia Wiki"
+slug: "princess-nokia-wiki"
 date: 2022-03-18
-category: "artist"
-track_count: 2
-first_year: 2017
-last_year: 2022
+layout: post
 tags:
   - '@princess-nokia-wiki'
   - '@princess-nokia'
@@ -12,7 +10,6 @@ tags:
   - '2020s'
   - 'experimental hip hop'
   - 'alternative hip hop'
-stub: true
 ---
 
 ## Princess Nokia;Wiki

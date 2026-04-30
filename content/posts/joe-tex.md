@@ -1,10 +1,8 @@
 ---
 title: "Joe Tex"
+slug: "joe-tex"
 date: 2014-03-24
-category: "artist"
-track_count: 2
-first_year: 1969
-last_year: 2014
+layout: post
 tags:
   - '@joe-tex'
   - '00s-10s'
@@ -12,7 +10,6 @@ tags:
   - 'northern soul'
   - 'soul'
   - 'classic soul'
-stub: true
 ---
 
 ## Joe Tex

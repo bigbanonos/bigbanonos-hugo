@@ -1,16 +1,13 @@
 ---
 title: "John Cooper Clarke"
+slug: "john-cooper-clarke"
 date: 1982-01-01
-category: "artist"
-track_count: 2
-first_year: 1980
-last_year: 1982
+layout: post
 tags:
   - '@john-cooper-clarke'
   - '1900s'
   - 'spoken word'
   - 'madchester'
-stub: true
 ---
 
 ## John Cooper Clarke

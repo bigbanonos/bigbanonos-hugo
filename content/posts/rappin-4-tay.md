@@ -1,10 +1,8 @@
 ---
-title: "Rappin' 4-Tay"
+title: "Rappin 4 Tay"
+slug: "rappin-4-tay"
 date: 2012-08-14
-category: "artist"
-track_count: 2
-first_year: 1994
-last_year: 2012
+layout: post
 tags:
   - '@rappin-4-tay'
   - '00s-10s'
@@ -13,7 +11,6 @@ tags:
   - 'west coast hip hop'
   - 'old school hip hop'
   - 'hyphy'
-stub: true
 ---
 
 ## Rappin' 4-Tay

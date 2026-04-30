@@ -1,14 +1,11 @@
 ---
 title: "Kero Kero Bonito"
+slug: "kero-kero-bonito"
 date: 2018-02-12
-category: "artist"
-track_count: 2
-first_year: 2015
-last_year: 2018
+layout: post
 tags:
   - '@kero-kero-bonito'
   - '00s-10s'
-stub: true
 ---
 
 ## Kero Kero Bonito

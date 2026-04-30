@@ -1,10 +1,8 @@
 ---
-title: "Mudra D'Viral;Karole Kasita"
+title: "Mudra D Viral Karole Kasita"
+slug: "mudra-d-viral-karole-kasita"
 date: 2023-02-03
-category: "artist"
-track_count: 4
-first_year: 2021
-last_year: 2023
+layout: post
 tags:
   - '@mudra-d-viral-karole-kasita'
   - '@mudra-d-viral'
@@ -15,7 +13,6 @@ tags:
   - 'bongo flava'
   - 'dancehall'
   - 'riddim'
-stub: true
 ---
 
 ## Mudra D'Viral;Karole Kasita

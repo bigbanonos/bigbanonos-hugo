@@ -1,10 +1,8 @@
 ---
 title: "Vybz Kartel"
+slug: "vybz-kartel"
 date: 2022-07-10
-category: "artist"
-track_count: 28
-first_year: 2004
-last_year: 2022
+layout: post
 tags:
   - '@vybz-kartel'
   - '@vybz-kartel-denyque'
@@ -20,7 +18,6 @@ tags:
   - 'soca'
   - 'riddim'
   - 'ragga'
-stub: true
 ---
 
 ## Vybz Kartel

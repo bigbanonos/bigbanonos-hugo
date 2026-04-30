@@ -1,10 +1,8 @@
 ---
 title: "Jada Kingdom"
+slug: "jada-kingdom"
 date: 2026-01-21
-category: "artist"
-track_count: 7
-first_year: 2018
-last_year: 2026
+layout: post
 tags:
   - '@jada-kingdom'
   - '@jada-kingdom-skillibeng'
@@ -12,7 +10,6 @@ tags:
   - '2020s'
   - 'dancehall'
   - 'soca'
-stub: true
 ---
 
 ## Jada Kingdom

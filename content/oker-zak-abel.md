@@ -1,13 +1,13 @@
 ---
-title: "' 'oker & Zak Abel'
-'"
+title: "Oker Zak Abel"
+slug: "oker-zak-abel"
 date: 2024-12-12
-original_title: "'oker & Zak Abel'"
+layout: post
 tags:
   - '@zakabel'
   - '@joker'
-layout: post
 ---
+
 <!-- Post Title -->
 <h1 >BigBanonos' Favorite Tracks: Joker & Zak Abel - "Wise Enough"</h1> <!-- Introductory Text -->
 <p >Updated February 16, 2015, with "Wise Enough" by Joker & Zak Abel. This track from *The Mainframe* seamlessly blends electronic, R&B, and pop influences, featuring Zak Abel's soulful vocals paired with Joker's innovative dubstep production. Itâ€™s a bold exploration of the wonky and contemporary sounds that are making waves in the UK music scene.</p> <!-- Featured Image -->

@@ -1,12 +1,12 @@
 ---
-title: "' 'Yellowman'
-'"
+title: "Yellowman"
+slug: "yellowman"
 date: 2025-01-11
-original_title: "'Yellowman'"
+layout: post
 tags:
   - '@yellowman'
-layout: post
 ---
+
 <div class="post-title"> <h1>BigBanonos' Favorite Songs by Yellowman</h1>
 </div>
 <p>Updated January 1, 2007, with "Zungguzungguguzungguzeng" from the album <i>Most Wanted Series - Yellowman</i>, highlighted in the playlist below:</p>

@@ -1,12 +1,12 @@
 ---
-title: "' 'The Deadly Snakes'
-'"
+title: "The Deadly Snakes"
+slug: "the-deadly-snakes"
 date: 2024-12-28
-original_title: "'The Deadly Snakes'"
+layout: post
 tags:
   - '@deadlysnakes'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonos 2 Favorite Songs by The Deadly Snakes: "Work" & "Gore Veil"</h1> <!-- Introductory Text -->
 <p >Updated October 4, 2005, with "Work" and "Gore Veil" by The Deadly Snakes. Both tracks from the album *Porcella* are outstanding examples of the band's blend of Canadian garage rock and punk blues, delivering raw energy and captivating melodies. Watch the video for "Work" below!</p> <!-- Featured Image -->

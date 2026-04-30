@@ -1,17 +1,14 @@
 ---
 title: "Rae Sremmurd"
+slug: "rae-sremmurd"
 date: 2023-03-10
-category: "artist"
-track_count: 3
-first_year: 2015
-last_year: 2023
+layout: post
 tags:
   - '@rae-sremmurd'
   - '@rae-sremmurd-swae-lee-slim-jxmmi-juicy-j'
   - '00s-10s'
   - '2020s'
   - 'crunk'
-stub: true
 ---
 
 ## Rae Sremmurd

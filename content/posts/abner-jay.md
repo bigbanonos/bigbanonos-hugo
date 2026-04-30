@@ -1,10 +1,8 @@
 ---
 title: "Abner Jay"
+slug: "abner-jay"
 date: 2023-09-06
-category: "artist"
-track_count: 16
-first_year: 1965
-last_year: 2023
+layout: post
 tags:
   - '@abner-jay'
   - '@000-maniacs'
@@ -24,7 +22,6 @@ tags:
   - 'shoegaze'
   - 'neo-psychedelic'
   - 'classic rock'
-stub: true
 ---
 
 ## Abner Jay

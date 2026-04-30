@@ -1,12 +1,12 @@
 ---
-title: "' 'Citizen Fish'
-'"
+title: "Citizen Fish"
+slug: "citizen-fish"
 date: 2024-12-28
-original_title: "'Citizen Fish'"
+layout: post
 tags:
   - '@citizenfish'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonos Favorite Song by Citizen Fish: "Sink Or Swim"</h1> <!-- Introductory Text -->
 <p >Updated January 1, 1991, with "Sink Or Swim" by Citizen Fish. This energetic ska-punk track delivers sharp lyrics and infectious rhythms, showcasing the bandâ€™s signature sound. Watch the video below!</p> <!-- Featured Image -->

@@ -1,12 +1,12 @@
 ---
-title: "' 'Fireboy DML'
-'"
+title: "Fireboy Dml"
+slug: "fireboy-dml"
 date: 2025-01-17
-original_title: "'Fireboy DML'"
+layout: post
 tags:
   - '@fireboydml'
-layout: post
 ---
+
  <!-- Fireboy DML - BigBanonos' Favorite Songs -->
 <h1 >BigBanonosâ€™ Favorite Songs by Fireboy DML</h1>
 <div > {{< img-lite src="https://i.scdn.co/image/ab67616d00001e02b747618b16bff54d5cd70325" alt="Fireboy DML" >}}

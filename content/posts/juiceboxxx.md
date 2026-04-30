@@ -1,14 +1,11 @@
 ---
 title: "Juiceboxxx"
+slug: "juiceboxxx"
 date: 2012-07-31
-category: "artist"
-track_count: 1
-first_year: 2012
-last_year: 2012
+layout: post
 tags:
   - '@juiceboxxx'
   - '00s-10s'
-stub: true
 ---
 
 ## Juiceboxxx

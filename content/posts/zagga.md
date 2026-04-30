@@ -1,10 +1,8 @@
 ---
 title: "Zagga"
+slug: "zagga"
 date: 2018-06-29
-category: "artist"
-track_count: 2
-first_year: 2018
-last_year: 2018
+layout: post
 tags:
   - '@zagga'
   - '@zagga-xklusive'
@@ -13,7 +11,6 @@ tags:
   - 'dancehall'
   - 'reggae'
   - 'roots reggae'
-stub: true
 ---
 
 ## Zagga

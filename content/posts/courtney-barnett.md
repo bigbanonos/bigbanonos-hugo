@@ -1,14 +1,11 @@
 ---
 title: "Courtney Barnett"
+slug: "courtney-barnett"
 date: 2015-03-23
-category: "artist"
-track_count: 3
-first_year: 2012
-last_year: 2015
+layout: post
 tags:
   - '@courtney-barnett'
   - '00s-10s'
-stub: true
 ---
 
 ## Courtney Barnett

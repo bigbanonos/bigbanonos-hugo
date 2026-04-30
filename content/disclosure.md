@@ -1,16 +1,16 @@
 ---
-title: "' 'Disclosure'
-'"
+title: "Disclosure"
+slug: "disclosure"
 date: 2025-01-19
-original_title: "'Disclosure'"
+layout: post
 tags:
   - '@raye'
   - '@disclosure'
   - '@flume'
   - '@tokimonsta'
   - '@elizadoolittle'
-layout: post
 ---
+
 <p >Tags: <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Disclosure</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab676161000051743faf416d3be99d63fec18baa" alt="Disclosure" >}}

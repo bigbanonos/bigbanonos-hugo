@@ -1,12 +1,12 @@
 ---
-title: "' 'DERBY'
-'"
+title: "Derby"
+slug: "derby"
 date: 2025-08-29
-original_title: "'DERBY - 5+ Songs'"
+layout: post
 tags:
   - '@derby'
-layout: post
 ---
+
 <h2>BigBanonos' Favorite Songs by DERBY</h2> <div > <a href="https://images.genius.com/cf43cc4f3fe194cf9214a15dddc07119.1000x1000x1.png"> <img src="https://images.genius.com/cf43cc4f3fe194cf9214a15dddc07119.1000x1000x1.png" alt="DERBY - Money Fight EP" width="400" /> </a>
 </div> <p>DERBY has quickly proven themselves as one of the best new bands of 2025. With the release of <em>Slugger</em> on June 6, their blend of alt and hip hop energy feels both elusive and undeniable. BigBanonosâ€™ favorites from DERBY now include five new cuts alongside earlier singles, making them essential listening this year.</p> <!-- New June 2025 Songs -->
 <h3>â€œOne Time Foreverâ€ â€“ DERBY (2025)</h3>

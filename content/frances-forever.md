@@ -1,13 +1,13 @@
 ---
-title: "' 'Frances Forever'
-'"
+title: "Frances Forever"
+slug: "frances-forever"
 date: 2025-01-17
-original_title: "'Frances Forever'"
+layout: post
 tags:
   - '@francesforever'
   - '@chloemoriondo'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonos Favorite Songs by Frances Forever</h1> <!-- Introductory Text -->
 <p >Frances Forever brings a delightful mix of bedroom pop and indie vibes, crafting songs that are both quirky and heartfelt. Explore BigBanonos' favorite tracks below!</p> <!-- Featured Image -->

@@ -1,10 +1,8 @@
 ---
 title: "Frank Zappa"
+slug: "frank-zappa"
 date: 1979-09-17
-category: "artist"
-track_count: 2
-first_year: 1979
-last_year: 1979
+layout: post
 tags:
   - '@frank-zappa'
   - '1900s'
@@ -12,7 +10,6 @@ tags:
   - 'psychedelic rock'
   - 'art rock'
   - 'jazz fusion'
-stub: true
 ---
 
 ## Frank Zappa

@@ -1,15 +1,12 @@
 ---
-title: "MUNA"
+title: "Muna"
+slug: "muna"
 date: 2023-04-17
-category: "artist"
-track_count: 2
-first_year: 2022
-last_year: 2023
+layout: post
 tags:
   - '@muna'
   - '@muna-phoebe-bridgers'
   - '2020s'
-stub: true
 ---
 
 ## MUNA

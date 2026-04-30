@@ -1,10 +1,8 @@
 ---
-title: "DeJ Loaf;Big Sean"
+title: "Dej Loaf Big Sean"
+slug: "dej-loaf-big-sean"
 date: 2024-10-11
-category: "artist"
-track_count: 3
-first_year: 2014
-last_year: 2024
+layout: post
 tags:
   - '@dej-loaf-big-sean'
   - '@dej-loaf'
@@ -13,7 +11,6 @@ tags:
   - '2020s'
   - 'southern hip hop'
   - 'rap'
-stub: true
 ---
 
 ## DeJ Loaf;Big Sean

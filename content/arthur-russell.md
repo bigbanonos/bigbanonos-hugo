@@ -1,12 +1,12 @@
 ---
-title: "' 'Arthur Russell'
-'"
+title: "Arthur Russell"
+slug: "arthur-russell"
 date: 2025-01-17
-original_title: "'Arthur Russell'"
+layout: post
 tags:
   - '@arthurrussell'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Arthur Russell</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab67616d0000b273de8d964b97a77d617ff64381" alt="Arthur Russell" >}}

@@ -1,12 +1,12 @@
 ---
-title: "' 'Pimp C'
-'"
+title: "Pimp C"
+slug: "pimp-c"
 date: 2024-12-17
-original_title: "'Pimp C'"
+layout: post
 tags:
   - '@pimpc'
-layout: post
 ---
+
 <h1>BigBanonos Top Songs by Pimp C</h1>
 <img alt="Pimp C" src="https://static.wikia.nocookie.net/hip-hop-music/images/0/02/Pimp_C.jpg/revision/latest?cb=20140915163231" /> <p>Pimp C, a legendary figure in Southern hip-hop, brought raw lyricism and groundbreaking production to the rap game. Here are BigBanonos' top selections from his impactful catalog:</p> <ol> <li><strong>I'm Free</strong> | <em>Single</em> |Ãƒâ€šÃ‚Â </li>
 </ol> <div> {{< youtube "embed" >}}

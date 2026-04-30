@@ -1,17 +1,14 @@
 ---
 title: "The Zombies"
+slug: "the-zombies"
 date: 2008-06-30
-category: "artist"
-track_count: 4
-first_year: 1965
-last_year: 2008
+layout: post
 tags:
   - '@the-zombies'
   - '00s-10s'
   - '1900s'
   - 'baroque pop'
   - 'psychedelic rock'
-stub: true
 ---
 
 ## The Zombies

@@ -1,10 +1,8 @@
 ---
-title: "¥$;Kanye West;Ty Dolla $ign"
+title: "Kanye West Ty Dolla Ign"
+slug: "kanye-west-ty-dolla-ign"
 date: 2024-08-03
-category: "artist"
-track_count: 4
-first_year: 2024
-last_year: 2024
+layout: post
 tags:
   - '@kanye-west-ty-dolla-ign'
   - '@kanye-west-ty-dolla-ign-rich-the-kid-playboi-carti'
@@ -13,7 +11,6 @@ tags:
   - 'trap soul'
   - 'trap'
   - 'rage rap'
-stub: true
 ---
 
 ## ¥$;Kanye West;Ty Dolla $ign

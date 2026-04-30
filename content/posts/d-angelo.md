@@ -1,10 +1,8 @@
 ---
-title: "D'Angelo"
+title: "D Angelo"
+slug: "d-angelo"
 date: 2022-11-17
-category: "artist"
-track_count: 39
-first_year: 1994
-last_year: 2022
+layout: post
 tags:
   - '@d-angelo'
   - '@damaged-bug'
@@ -24,7 +22,6 @@ tags:
   - 'swedish pop'
   - 'indie folk'
   - 'r&b'
-stub: true
 ---
 
 ## D'Angelo

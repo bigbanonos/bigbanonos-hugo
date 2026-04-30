@@ -1,10 +1,8 @@
 ---
 title: "Pearl Jam"
+slug: "pearl-jam"
 date: 2004-11-16
-category: "artist"
-track_count: 8
-first_year: 1991
-last_year: 2004
+layout: post
 tags:
   - '@pearl-jam'
   - '00s-10s'
@@ -12,7 +10,6 @@ tags:
   - 'grunge'
   - 'rock'
   - 'post-grunge'
-stub: true
 ---
 
 ## Pearl Jam

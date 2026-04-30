@@ -1,15 +1,12 @@
 ---
-title: "SAULT"
+title: "Sault"
+slug: "sault"
 date: 2022-11-11
-category: "artist"
-track_count: 11
-first_year: 2019
-last_year: 2022
+layout: post
 tags:
   - '@sault'
   - '00s-10s'
   - '2020s'
-stub: true
 ---
 
 ## SAULT

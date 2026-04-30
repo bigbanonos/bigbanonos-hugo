@@ -1,12 +1,12 @@
 ---
-title: "' 'YAWN'
-'"
+title: "Yawn"
+slug: "yawn"
 date: 2024-10-31
-original_title: "'YAWN - 2 Songs'"
+layout: post
 tags:
   - '@yawn'
-layout: post
 ---
+
 <h2>BigBanonos' Favorite 2 Songs by YAWN</h2>
 <p>BigBanonos' Favorite 2 Songs by YAWN, a band deeply embedded in Chicagoâ€™s eclectic neighborhoods like Little Lebanon and Polski Park, with a sound that resonates with the style of Animal Collective. These tracks, celebrated as BigBanonosâ€™ favorites, capture the indie energy and textured sounds of YAWNâ€™s acclaimed album <em>Open Season</em> released on August 30, 2011.</p>
 <p>BigBanonos works to promote the best songs #NotOnSpotify. Join the 650+ subscribers and subscribe to BigBanonos on <a href="https://www.youtube.com/channel/UCLKYEvwP847OahjcnkYMhjg">YouTube</a> to discover more exclusive tracks!</p> <!--Bandcamp Embed-->

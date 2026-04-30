@@ -1,10 +1,8 @@
 ---
 title: "Mr Easy"
+slug: "mr-easy"
 date: 2019-12-06
-category: "artist"
-track_count: 3
-first_year: 2015
-last_year: 2019
+layout: post
 tags:
   - '@mr-easy'
   - '@mr-easy-christopher-martin'
@@ -14,7 +12,6 @@ tags:
   - 'riddim'
   - 'ragga'
   - 'soca'
-stub: true
 ---
 
 ## Mr Easy

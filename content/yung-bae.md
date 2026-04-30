@@ -1,12 +1,12 @@
 ---
-title: "' 'Yung Bae'
-'"
+title: "Yung Bae"
+slug: "yung-bae"
 date: 2025-01-11
-original_title: "'Yung Bae'"
+layout: post
 tags:
   - '@yungbae'
-layout: post
 ---
+
 <div class="post-title"> <h1>BigBanonos' Favorite Songs by Yung Bae</h1>
 </div>
 <p>Updated February 24, 2017, with "This Is It" from the album <i>B4E</i>, highlighted in the playlist below:</p>

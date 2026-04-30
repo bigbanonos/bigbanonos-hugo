@@ -1,12 +1,12 @@
 ---
-title: "' 'Insomniacs'
-'"
+title: "Insomniacs"
+slug: "insomniacs"
 date: 2024-12-29
-original_title: "'Insomniacs'"
+layout: post
 tags:
   - '@insomniacs'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonos Favorite Song by Insomniacs: "Anywhere In The World"</h1> <!-- Introductory Text -->
 <p >Updated January 1, 2000, with "Anywhere In The World" by Insomniacs. This upbeat and timeless track perfectly captures the raw energy and spirit of garage rock revival. Watch the video below!</p> <!-- Featured Image -->

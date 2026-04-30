@@ -1,7 +1,8 @@
 ---
 title: "Lykke Li"
+slug: "lykke-li"
 date: 2026-04-16
-category: "artist"
+layout: post
 tags:
   - '@lykkeli'
 ---

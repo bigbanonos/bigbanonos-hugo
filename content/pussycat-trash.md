@@ -1,12 +1,12 @@
 ---
-title: "' 'Pussycat Trash'
-'"
+title: "Pussycat Trash"
+slug: "pussycat-trash"
 date: 2024-12-29
-original_title: "'Pussycat Trash'"
+layout: post
 tags:
   - '@pussycattrash'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonos Favorite Song by Pussycat Trash: "Hot Bed"</h1> <!-- Introductory Text -->
 <p >Updated January 1, 1993, with "Hot Bed" by Pussycat Trash. This fiery and unapologetically raw track captures the rebellious spirit of the riot grrrl movement, making it an essential listen for fans of punkâ€™s uncompromising energy. Watch and listen below!</p> <!-- Featured Image -->

@@ -1,13 +1,13 @@
 ---
-title: "' 'Bantu'
-'"
+title: "Bantu"
+slug: "bantu"
 date: 2024-12-13
-original_title: "'Bantu'"
+layout: post
 tags:
   - '@aliciaiharley'
   - '@bantu'
-layout: post
 ---
+
 <!-- Post Title -->
 <h1 >BigBanonos' Favorite Song by Bantu and Alicai Harley</h1> <!-- Introductory Text -->
 <p >Updated May 17, 2019, with BigBanonos' favorite song by Bantu and Alicai Harley, "Which One (feat. Alicai Harley)," released under Blue Future / Virgin EMI Records. Watch the video and see more details below:</p> <!-- Featured Image -->

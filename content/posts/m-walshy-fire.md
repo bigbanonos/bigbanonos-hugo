@@ -1,10 +1,8 @@
 ---
-title: "MØ;Walshy Fire"
+title: "M Walshy Fire"
+slug: "m-walshy-fire"
 date: 2021-07-30
-category: "artist"
-track_count: 24
-first_year: 2015
-last_year: 2021
+layout: post
 tags:
   - '@m-walshy-fire'
   - '@m'
@@ -18,7 +16,6 @@ tags:
   - 'soca'
   - 'brazilian funk'
   - 'moombahton'
-stub: true
 ---
 
 ## MØ;Walshy Fire

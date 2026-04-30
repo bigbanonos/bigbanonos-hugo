@@ -1,17 +1,14 @@
 ---
 title: "Ready For The World"
+slug: "ready-for-the-world"
 date: 2002-01-01
-category: "artist"
-track_count: 2
-first_year: 1985
-last_year: 2002
+layout: post
 tags:
   - '@ready-for-the-world'
   - '00s-10s'
   - '1900s'
   - 'new jack swing'
   - 'quiet storm'
-stub: true
 ---
 
 ## Ready For The World

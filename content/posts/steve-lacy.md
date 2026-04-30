@@ -1,10 +1,8 @@
 ---
 title: "Steve Lacy"
+slug: "steve-lacy"
 date: 2026-02-26
-category: "artist"
-track_count: 62
-first_year: 1992
-last_year: 2026
+layout: post
 tags:
   - '@steve-lacy'
   - '@88rising-no-na'
@@ -24,7 +22,6 @@ tags:
   - 'hip hop'
   - 'rap'
   - 'indie'
-stub: true
 ---
 
 ## Steve Lacy

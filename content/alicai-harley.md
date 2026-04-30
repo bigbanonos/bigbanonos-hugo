@@ -1,12 +1,12 @@
 ---
-title: "' 'Alicai Harley'
-'"
+title: "Alicai Harley"
+slug: "alicai-harley"
 date: 2024-12-13
-original_title: "'Alicai Harley'"
+layout: post
 tags:
   - '@alicaiharley'
-layout: post
 ---
+
 <!-- Post Title -->
 <h1 >BigBanonos' Favorite Song by Alicai Harley</h1> <!-- Introductory Text -->
 <p >Updated December 13, 2019, with BigBanonos' favorite song by Alicai Harley, "Tek It To Dem," released under Parlophone UK. Watch the video and see more details below:</p> <!-- Featured Image -->

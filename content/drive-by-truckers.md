@@ -1,12 +1,12 @@
 ---
-title: "' 'Drive-By Truckers'
-'"
+title: "Drive By Truckers"
+slug: "drive-by-truckers"
 date: 2024-12-17
-original_title: "'Drive-By Truckers'"
+layout: post
 tags:
   - '@drivebytruckers'
-layout: post
 ---
+
 <h2>Drive-By Truckers â€“ Essential Tracks</h2> <div > <img alt="Drive-By Truckers" src="https://cdn.mos.cms.futurecdn.net/73aLnGFaTQRE9sdE2Eo8jW-320-80.jpg" width="400" />
 </div><div ><br /></div> {{< youtube "embed" >}}
 <div> <img src="https://cdn.mos.cms.futurecdn.net/73aLnGFaTQRE9sdE2Eo8jW-320-80.jpg" alt="Drive-By Truckers Band" width="100%" /> {{< youtube "embed" >}}

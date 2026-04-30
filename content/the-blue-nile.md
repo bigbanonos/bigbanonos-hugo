@@ -1,12 +1,12 @@
 ---
-title: "' 'The Blue Nile'
-'"
+title: "The Blue Nile"
+slug: "the-blue-nile"
 date: 2025-01-17
-original_title: "'The Blue Nile'"
+layout: post
 tags:
   - '@bluenile'
-layout: post
 ---
+
  <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by The Blue Nile</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab67616d00001e025ec013cf18cb474b9a9470fe" alt="The Blue Nile" >}}

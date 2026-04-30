@@ -1,15 +1,12 @@
 ---
 title: "Mark Sultan"
+slug: "mark-sultan"
 date: 2011-10-25
-category: "artist"
-track_count: 2
-first_year: 2011
-last_year: 2011
+layout: post
 tags:
   - '@mark-sultan'
   - '00s-10s'
   - 'garage rock'
-stub: true
 ---
 
 ## Mark Sultan

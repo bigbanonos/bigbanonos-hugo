@@ -1,10 +1,8 @@
 ---
 title: "Little Richard"
+slug: "little-richard"
 date: 2008-01-01
-category: "artist"
-track_count: 3
-first_year: 2007
-last_year: 2008
+layout: post
 tags:
   - '@little-richard'
   - '00s-10s'
@@ -12,7 +10,6 @@ tags:
   - 'rock and roll'
   - 'doo-wop'
   - 'boogie-woogie'
-stub: true
 ---
 
 ## Little Richard

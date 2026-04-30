@@ -1,10 +1,8 @@
 ---
 title: "Sam Cooke"
+slug: "sam-cooke"
 date: 2005-01-01
-category: "artist"
-track_count: 6
-first_year: 1963
-last_year: 2005
+layout: post
 tags:
   - '@sam-cooke'
   - '00s-10s'
@@ -12,7 +10,6 @@ tags:
   - 'motown'
   - 'soul'
   - 'classic soul'
-stub: true
 ---
 
 ## Sam Cooke

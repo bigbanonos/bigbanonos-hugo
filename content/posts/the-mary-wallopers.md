@@ -1,17 +1,14 @@
 ---
 title: "The Mary Wallopers"
+slug: "the-mary-wallopers"
 date: 2023-10-13
-category: "artist"
-track_count: 5
-first_year: 2019
-last_year: 2023
+layout: post
 tags:
   - '@the-mary-wallopers'
   - '00s-10s'
   - '2020s'
   - 'celtic punk'
   - 'celtic'
-stub: true
 ---
 
 ## The Mary Wallopers

@@ -1,10 +1,8 @@
 ---
-title: "Wizkid;Tems"
+title: "Wizkid Tems"
+slug: "wizkid-tems"
 date: 2021-08-27
-category: "artist"
-track_count: 4
-first_year: 2017
-last_year: 2021
+layout: post
 tags:
   - '@wizkid-tems'
   - '@wizkid-bnxn'
@@ -16,7 +14,6 @@ tags:
   - 'afrobeat'
   - 'afropop'
   - 'azonto'
-stub: true
 ---
 
 ## Wizkid;Tems

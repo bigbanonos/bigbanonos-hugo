@@ -1,12 +1,12 @@
 ---
-title: "' 'IsolÃƒÆ’Ã‚Â©e'
-'"
+title: "Isolee"
+slug: "isolee"
 date: 2024-12-12
-original_title: "'IsolÃƒÆ’Ã‚Â©e'"
+layout: post
 tags:
   - '@isolee'
-layout: post
 ---
+
 <!-- Post Title -->
 <h1 >BigBanonos' Favorite Tracks: IsolÃƒÆ’Ã‚Â©e - "Schrapnell"</h1> <!-- Introductory Text -->
 <p >Updated in 2005 with "Schrapnell" by IsolÃƒÆ’Ã‚Â©e, a masterful blend of German electronica, microhouse, and minimal techno from the album <em>We Are Monster</em>, released under Pampa Records.</p> <!-- Featured Image -->

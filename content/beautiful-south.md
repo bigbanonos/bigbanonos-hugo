@@ -1,12 +1,12 @@
 ---
-title: "' 'Beautiful South'
-'"
+title: "Beautiful South"
+slug: "beautiful-south"
 date: 2025-02-12
-original_title: "'Beautiful South'"
+layout: post
 tags:
   - '@beauitfulsouth'
-layout: post
 ---
+
 <div> {{< img-lite src="https://www.muzines.co.uk/images_mag/articles/ph/PH_89_08_the_beautifu_large.jpg" alt="The Beautiful South" >}}
 </div> <p>
 BigBanonos' favorite songs by The Beautiful South:

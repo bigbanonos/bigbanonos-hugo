@@ -1,10 +1,8 @@
 ---
-title: "Big Dope P;Traxman"
+title: "Big Dope P Traxman"
+slug: "big-dope-p-traxman"
 date: 2025-06-06
-category: "artist"
-track_count: 10
-first_year: 2012
-last_year: 2025
+layout: post
 tags:
   - '@big-dope-p-traxman'
   - '@bacao-rhythm-steel-band'
@@ -22,7 +20,6 @@ tags:
   - 'disco house'
   - 'disco'
   - 'indie dance'
-stub: true
 ---
 
 ## Big Dope P;Traxman

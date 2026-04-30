@@ -1,12 +1,12 @@
 ---
-title: "' 'Tei Shi'
-'"
+title: "Tei Shi On Tunespeak"
+slug: "tei-shi-on-tunespeak"
 date: 2025-01-16
-original_title: "'Tei Shi'"
+layout: post
 tags:
   - '@teishi'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1>BigBanonosâ€™ Favorite Songs by Tei Shi</h1> <!-- Featured Image -->
 <div> {{< img-lite src="https://upload.wikimedia.org/wikipedia/commons/3/3d/Minu_downtownrecords-teishibloodorange-050.jpg" alt="Tei Shi" >}}

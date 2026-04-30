@@ -1,10 +1,8 @@
 ---
-title: "Gary Numan / Tubeway Army"
+title: "Gary Numan Tubeway Army"
+slug: "gary-numan-tubeway-army"
 date: 2008-03-04
-category: "artist"
-track_count: 3
-first_year: 1979
-last_year: 2008
+layout: post
 tags:
   - '@gary-numan-tubeway-army'
   - '@gary-numan'
@@ -15,7 +13,6 @@ tags:
   - 'synthpop'
   - 'post-punk'
   - 'darkwave'
-stub: true
 ---
 
 ## Gary Numan / Tubeway Army

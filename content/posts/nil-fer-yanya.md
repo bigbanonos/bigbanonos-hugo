@@ -1,15 +1,12 @@
 ---
-title: "Nilüfer Yanya"
+title: "Nil Fer Yanya"
+slug: "nil-fer-yanya"
 date: 2020-10-20
-category: "artist"
-track_count: 3
-first_year: 2019
-last_year: 2020
+layout: post
 tags:
   - '@nil-fer-yanya'
   - '00s-10s'
   - '2020s'
-stub: true
 ---
 
 ## Nilüfer Yanya

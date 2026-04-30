@@ -1,13 +1,13 @@
 ---
-title: "' 'Olivia'
-'"
+title: "Olivia"
+slug: "olivia"
 date: 2024-12-15
-original_title: "'Olivia'"
+layout: post
 tags:
   - '@bizounce'
   - '@olivia'
-layout: post
 ---
+
 <!-- Post Title -->
 <h1 >BigBanonos' Favorite Tracks: Olivia - "Bizounce"</h1> <!-- Introductory Text -->
 <p >Updated June 2, 2001, with "Bizounce" by Olivia. This track from her self-titled album blends R&B and hip-hop with a confident attitude, showcasing Olivia's smooth vocals over a hard-hitting beat. A standout cut from the album that still resonates in the genre.</p> <!-- Featured Image -->

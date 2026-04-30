@@ -1,10 +1,8 @@
 ---
 title: "Cardi B"
+slug: "cardi-b"
 date: 2025-09-19
-category: "artist"
-track_count: 9
-first_year: 2017
-last_year: 2025
+layout: post
 tags:
   - '@cardi-b'
   - '@cardi-b-bruised-soundtrack'
@@ -15,7 +13,6 @@ tags:
   - '2020s'
   - 'sexy drill'
   - 'jersey club'
-stub: true
 ---
 
 ## Cardi B

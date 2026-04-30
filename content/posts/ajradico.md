@@ -1,8 +1,8 @@
 ---
-title: "AJRadico"
+title: "Ajradico"
+slug: "ajradico"
 date: 2022-08-19
-category: "1off"
-era: "2020s"
+layout: post
 tags:
   - '@ajradico'
   - '1-off'

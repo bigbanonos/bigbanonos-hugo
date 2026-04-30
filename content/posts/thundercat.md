@@ -1,10 +1,8 @@
 ---
 title: "Thundercat"
+slug: "thundercat"
 date: 2023-04-25
-category: "artist"
-track_count: 3
-first_year: 2020
-last_year: 2023
+layout: post
 tags:
   - '@thundercat'
   - '@thundercat-smino-guapdad-4000'
@@ -12,7 +10,6 @@ tags:
   - '2020s'
   - 'neo-psychedelic'
   - 'indie'
-stub: true
 ---
 
 ## Thundercat

@@ -1,12 +1,12 @@
 ---
-title: "' 'Lord Huron'
-'"
+title: "Lord Huron On Tunespeak"
+slug: "lord-huron-on-tunespeak"
 date: 2016-02-06
-original_title: "'Lord Huron'"
+layout: post
 tags:
   - '@lordhuron'
-layout: post
 ---
+
 #2010s <br />
 {{< youtube "3Rdiy9IzATQ" >}}<br />
 The World Ender 2015

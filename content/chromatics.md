@@ -1,12 +1,12 @@
 ---
-title: "' 'Chromatics'
-'"
+title: "Chromatics"
+slug: "chromatics"
 date: 2024-12-17
-original_title: "'Chromatics'"
+layout: post
 tags:
   - '@chromatics'
-layout: post
 ---
+
 <h2>Chromatics â€“ Essential Tracks</h2> <div > <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3qiGZbq1m_wKW_ANIS2DvfRdHEUIOVDzPRA&s" alt="Chromatics" width="500" />
 </div> {{< youtube "embed" >}} <h3>Tracklist</h3>
 <ul> <li><strong>You're No Good</strong> â€“ <em>Closer To Grey</em> (2019)</li> <li><strong>Twist The Knife</strong> â€“ <em>Closer To Grey</em> (2019)</li> <li><strong>I'm On Fire</strong> (Bruce Springsteen Cover, Vocal Mix) â€“ <em>I'm On Fire</em> (2018)</li> <li><strong>Kill For Love</strong> â€“ <em>Kill for Love</em> (2012)</li> <li><strong>Back From the Grave</strong> â€“ <em>Kill for Love</em> (2012)</li> <li><strong>In The City</strong> â€“ <em>In The City</em> (2006)</li>

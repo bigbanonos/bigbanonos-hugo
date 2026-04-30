@@ -1,15 +1,12 @@
 ---
-title: "Tegan and Sara"
+title: "Tegan And Sara"
+slug: "tegan-and-sara"
 date: 2022-07-12
-category: "artist"
-track_count: 2
-first_year: 2002
-last_year: 2022
+layout: post
 tags:
   - '@tegan-and-sara'
   - '00s-10s'
   - '2020s'
-stub: true
 ---
 
 ## Tegan and Sara

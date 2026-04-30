@@ -1,14 +1,14 @@
 ---
-title: "' 'EMA'
-'"
+title: "Ema"
+slug: "ema"
 date: 2024-10-28
-original_title: "'EMA - 5 Songs'"
+layout: post
 tags:
   - '@cityslang'
   - '@ema'
   - '@souterraintransmissions'
-layout: post
 ---
+
 <p>Ãƒâ€šÃ‚Â </p>
 <h3><strong>BigBanonos' Top 5 Songs by EMA</strong></h3>
 <p>Updated April 7, 2014 with "When She Comes"</p> <p>{{< youtube "embed" >}}</p> <h4>Selected Tracks</h4>

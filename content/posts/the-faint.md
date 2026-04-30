@@ -1,17 +1,14 @@
 ---
 title: "The Faint"
+slug: "the-faint"
 date: 2012-10-30
-category: "artist"
-track_count: 2
-first_year: 1999
-last_year: 2012
+layout: post
 tags:
   - '@the-faint'
   - '00s-10s'
   - '1900s'
   - 'electroclash'
   - 'new rave'
-stub: true
 ---
 
 ## The Faint

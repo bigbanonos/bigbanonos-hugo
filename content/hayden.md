@@ -1,12 +1,12 @@
 ---
-title: "' 'Hayden'
-'"
+title: "Hayden"
+slug: "hayden"
 date: 2024-12-13
-original_title: "'Hayden'"
+layout: post
 tags:
   - '@hayden'
-layout: post
 ---
+
 <!-- Post Title -->
 <h1 >BigBanonos' Favorite Tracks: Hayden - "Just Come Out Tonight"</h1> <!-- Introductory Text -->
 <p >Updated March 23, 2015, with "Just Come Out Tonight" by Hayden. This heartfelt track from the *Hey Love* album captures Hayden's introspective lyricism and warm, modern folk-rock melodies.</p> <!-- Featured Image -->

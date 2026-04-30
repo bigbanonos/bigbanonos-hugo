@@ -1,12 +1,12 @@
 ---
-title: "' 'Nick Lowe'
-'"
+title: "Nick Lowe"
+slug: "nick-lowe"
 date: 2025-02-12
-original_title: "'Nick Lowe'"
+layout: post
 tags:
   - '@nicklowe'
-layout: post
 ---
+
 <h3>Nick Lowe</h3>
 <img src="https://i.scdn.co/image/ab67616d00001e02cadbfaeb3b6a5afbdcd1acf4">
 {{< youtube "embed" >}}

@@ -1,15 +1,12 @@
 ---
 title: "Lowell"
+slug: "lowell"
 date: 2014-09-16
-category: "artist"
-track_count: 3
-first_year: 2014
-last_year: 2014
+layout: post
 tags:
   - '@lowell'
   - '00s-10s'
   - 'queercore'
-stub: true
 ---
 
 ## Lowell

@@ -1,12 +1,12 @@
 ---
-title: "' 'The Jesus And Mary Chain'
-'"
+title: "The Jesus And Mary Chain"
+slug: "the-jesus-and-mary-chain"
 date: 2024-12-29
-original_title: "'The Jesus And Mary Chain'"
+layout: post
 tags:
   - '@jesusandmarychain'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonos Favorite Song by The Jesus and Mary Chain: "Sometimes Always"</h1> <!-- Introductory Text -->
 <p >Updated August 23, 1994, with "Sometimes Always" by The Jesus and Mary Chain. This classic track from their album *Stoned and Dethroned* combines the bandâ€™s signature noise pop and post-punk sound with a softer, melancholic tone. Watch the video below!</p> <!-- Featured Image -->

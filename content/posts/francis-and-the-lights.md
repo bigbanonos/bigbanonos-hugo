@@ -1,16 +1,13 @@
 ---
-title: "Francis and the Lights"
+title: "Francis And The Lights"
+slug: "francis-and-the-lights"
 date: 2019-08-30
-category: "artist"
-track_count: 3
-first_year: 2010
-last_year: 2019
+layout: post
 tags:
   - '@francis-and-the-lights'
   - '@francis-and-the-lights-bon-iver-kanye-west'
   - '00s-10s'
   - 'rap'
-stub: true
 ---
 
 ## Francis and the Lights

@@ -1,17 +1,14 @@
 ---
 title: "Hole"
+slug: "hole"
 date: 2010-01-01
-category: "artist"
-track_count: 6
-first_year: 1994
-last_year: 2010
+layout: post
 tags:
   - '@hole'
   - '00s-10s'
   - '1900s'
   - 'riot grrrl'
   - 'grunge'
-stub: true
 ---
 
 ## Hole

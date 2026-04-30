@@ -1,10 +1,8 @@
 ---
 title: "Mike Jones"
+slug: "mike-jones"
 date: 2008-04-29
-category: "artist"
-track_count: 5
-first_year: 2005
-last_year: 2008
+layout: post
 tags:
   - '@mike-jones'
   - '@mike-jones-big-moe'
@@ -14,7 +12,6 @@ tags:
   - 'southern hip hop'
   - 'crunk'
   - 'egyptian hip hop'
-stub: true
 ---
 
 ## Mike Jones

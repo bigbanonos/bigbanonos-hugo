@@ -1,12 +1,12 @@
 ---
-title: "' 'Shaunta'
-'"
+title: "Shaunta"
+slug: "shaunta"
 date: 2024-12-16
-original_title: "'Shaunta'"
+layout: post
 tags:
   - '@shaunta'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >Shaunta - Good Lovin'</h1> <!-- Introductory Text -->
 <p >Updated with "Good Lovin'" by Shaunta, from the album *The Wash*, released on January 1, 2001, by Aftermath.</p> <!-- Featured Image -->

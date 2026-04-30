@@ -1,14 +1,14 @@
 ---
-title: "' 'Lotus'
-'"
+title: "Lotus"
+slug: "lotus"
 date: 2024-12-14
-original_title: "'Lotus'"
+layout: post
 tags:
   - '@lotus'
   - '@glassesmalone'
   - '@kendricklamar'
-layout: post
 ---
+
 <!-- Post Title -->
 <h1 >BigBanonos' Favorite Tracks: Lotus, Glasses Malone & Kendrick Lamar - "Mirrors (Thuggin)"</h1> <!-- Introductory Text -->
 <p >Updated August 16, 2019, with "Mirrors (Thuggin)" by Lotus, Glasses Malone, and Kendrick Lamar. This dynamic track, released under Virgin, combines elements of west coast trap, conscious hip hop, and deep pop EDM to create a unique and compelling listening experience.</p> <!-- Featured Image -->

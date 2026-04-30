@@ -1,16 +1,13 @@
 ---
 title: "Superdrag"
+slug: "superdrag"
 date: 2002-01-04
-category: "artist"
-track_count: 2
-first_year: 1996
-last_year: 2002
+layout: post
 tags:
   - '@superdrag'
   - '00s-10s'
   - '1900s'
   - 'power pop'
-stub: true
 ---
 
 ## Superdrag

@@ -1,16 +1,13 @@
 ---
-title: "HARU NEMURI"
+title: "Haru Nemuri"
+slug: "haru-nemuri"
 date: 2022-04-01
-category: "artist"
-track_count: 2
-first_year: 2021
-last_year: 2022
+layout: post
 tags:
   - '@haru-nemuri'
   - '2020s'
   - 'j-rock'
   - 'japanese indie'
-stub: true
 ---
 
 ## HARU NEMURI

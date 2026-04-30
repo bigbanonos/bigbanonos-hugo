@@ -1,13 +1,13 @@
 ---
-title: "' 'Icona Pop'
-'"
+title: "Icona Pop"
+slug: "icona-pop"
 date: 2024-12-20
-original_title: "'Icona Pop - 4 Songs'"
+layout: post
 tags:
   - '@iconapop'
   - '@charlixcx'
-layout: post
 ---
+
 <h1>BigBanonos 4 Top Tracks by Icona Pop</h1>
 <img alt="Icona Pop" src="https://media.pitchfork.com/photos/64948c033a4e400bc3c5b244/master/pass/Icona-Pop.jpg" /> <p>Icona Popâ€™s vibrant and infectious pop anthems blend dance pop and electropop with a unique Swedish twist. From high-energy hits to melodic beats, these tracks showcase Icona Popâ€™s irresistible sound and global appeal.</p> <ol> <li><strong>First Time</strong> | <em>Emergency EP</em> | Record Company TEN/Big Beat/ATL | Released: July 17, 2015</li> <li><strong>Good for You</strong> | <em>Iconic EP</em> | Record Company TEN/Big Beat/ATL | Released: October 16, 2012</li> <li><strong>I Love It</strong> (feat. Charli XCX) | <em>I Love It (feat. Charli XCX)</em> | Big Beat Records/Atlantic | Released: June 19, 2012</li><li><strong>Still Don't Know</strong>Ãƒâ€šÃ‚Â | Released: 2011</li>
 </ol> <div> {{< youtube "embed" >}}

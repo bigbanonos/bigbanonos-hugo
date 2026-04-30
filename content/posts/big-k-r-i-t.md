@@ -1,10 +1,8 @@
 ---
-title: "Big K.R.I.T."
+title: "Big K R I T"
+slug: "big-k-r-i-t"
 date: 2021-08-13
-category: "artist"
-track_count: 6
-first_year: 2011
-last_year: 2021
+layout: post
 tags:
   - '@big-k-r-i-t'
   - '@big-k-r-i-t-big-sant'
@@ -12,7 +10,6 @@ tags:
   - '00s-10s'
   - '2020s'
   - 'southern hip hop'
-stub: true
 ---
 
 ## Big K.R.I.T.

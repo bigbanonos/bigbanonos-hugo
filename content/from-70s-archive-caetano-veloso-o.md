@@ -1,12 +1,12 @@
 ---
-title: "' 'Caetano Veloso'
-'"
+title: "Caetano Veloso O"
+slug: "caetano-veloso-o"
 date: 2025-01-16
-original_title: "'Caetano Veloso'"
+layout: post
 tags:
   - '@caetanoveloso'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1>BigBanonos' Favorite Songs by Caetano Veloso</h1> <!-- Introductory Text -->
 <p>Updated with iconic tracks by Caetano Veloso, a legend in Brazilian music known for his innovative contributions to bossa nova and Tropicalia. These songs showcase his extraordinary artistry.</p> <!-- Featured Image -->

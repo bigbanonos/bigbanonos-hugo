@@ -1,10 +1,8 @@
 ---
-title: "M.O;Lotto Boyzz;Mr Eazi"
+title: "M O Lotto Boyzz Mr Eazi"
+slug: "m-o-lotto-boyzz-mr-eazi"
 date: 2020-03-06
-category: "artist"
-track_count: 2
-first_year: 2018
-last_year: 2020
+layout: post
 tags:
   - '@m-o-lotto-boyzz-mr-eazi'
   - '@m-o-mr-eazi'
@@ -14,7 +12,6 @@ tags:
   - 'afrobeats'
   - 'afrobeat'
   - 'afropop'
-stub: true
 ---
 
 ## M.O;Lotto Boyzz;Mr Eazi

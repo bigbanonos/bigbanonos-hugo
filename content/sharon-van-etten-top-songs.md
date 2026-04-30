@@ -1,12 +1,12 @@
 ---
-title: "' 'Sharon Van Etten - Top Songs'
-'"
+title: "Sharon Van Etten"
+slug: "sharon-van-etten"
 date: 2024-12-17
-original_title: "'Sharon Van Etten - Top Songs'"
+layout: post
 tags:
   - '@sharonvanetten'
-layout: post
 ---
+
 <h1>BigBanonos Top Songs by Sharon Van Etten</h1>
 {{< img-lite src="https://nelsonvillefest.org/wp-content/uploads/2021/03/Sharon-van-etten-Ryan-Pfluger-lo-1920x1219-1-1500x1219.jpg" alt="Sharon Van Etten" >}} <p>Sharon Van Ettenâ€™s emotional songwriting has captivated fans worldwide with her ability to weave vulnerability and strength into her music. Here are BigBanonos' top selections:</p> <ol> <li><strong>On Your Way Now</strong> | <em>On Your Way Now</em> | Released: February 12, 2021 | Jagjaguwar</li> <li><strong>Words (Music from the Film Tig)</strong> | <em>Words (Music from the Film Tig)</em> | Released: July 17, 2015 | Jagjaguwar</li> <li><strong>I Always Fall Apart</strong> | <em>I Don't Want to Let You Down</em> | Released: June 9, 2015 | Jagjaguwar</li> <li><strong>One Day</strong> | <em>Epic</em> | Released: September 21, 2010 | Ba Da Bing!</li>
 </ol> <div> {{< youtube "embed" >}}

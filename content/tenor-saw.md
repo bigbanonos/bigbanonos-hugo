@@ -1,12 +1,12 @@
 ---
-title: "' 'Tenor Saw'
-'"
+title: "Tenor Saw"
+slug: "tenor-saw"
 date: 2025-01-10
-original_title: "'Tenor Saw'"
+layout: post
 tags:
   - '@tenorsaw'
-layout: post
 ---
+
 <div class="post-title"> <h1>BigBanonos' Favorite Songs by Tenor Saw</h1>
 </div>
 <p>Updated September 27, 2013, with "Pumpkin Belly" from the compilation <i>Reggae Vibration Massive Hits</i>, highlighted in the playlist below:</p>

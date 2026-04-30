@@ -1,15 +1,12 @@
 ---
 title: "Mary Jane Girls"
+slug: "mary-jane-girls"
 date: 1994-01-01
-category: "artist"
-track_count: 3
-first_year: 1983
-last_year: 1994
+layout: post
 tags:
   - '@mary-jane-girls'
   - '1900s'
   - 'post-disco'
-stub: true
 ---
 
 ## Mary Jane Girls

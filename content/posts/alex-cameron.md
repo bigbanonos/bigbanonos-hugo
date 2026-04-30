@@ -1,8 +1,8 @@
 ---
 title: "Alex Cameron"
+slug: "alex-cameron"
 date: 2021-07-09
-category: "1off"
-era: "2020s"
+layout: post
 tags:
   - '@alexcameron'
   - '1-off'

@@ -1,12 +1,12 @@
 ---
-title: "' 'Dignan Porch'
-'"
+title: "Dignan Porch"
+slug: "dignan-porch"
 date: 2024-12-28
-original_title: "'Dignan Porch'"
+layout: post
 tags:
   - '@dignanporch'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonos Favorite Song by Dignan Porch: "As You Were"</h1> <!-- Introductory Text -->
 <p >Updated March 30, 2010, with "As You Were" by Dignan Porch. This lo-fi indie track from the album *Tendrils* perfectly captures the bandâ€™s blend of popgaze and shimmer psych, creating a dreamy and nostalgic listening experience. Watch the video below!</p> <!-- Featured Image -->

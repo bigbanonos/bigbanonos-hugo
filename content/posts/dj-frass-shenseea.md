@@ -1,10 +1,8 @@
 ---
-title: "DJ Frass;Shenseea"
+title: "Dj Frass Shenseea"
+slug: "dj-frass-shenseea"
 date: 2020-06-05
-category: "artist"
-track_count: 2
-first_year: 2016
-last_year: 2020
+layout: post
 tags:
   - '@dj-frass-shenseea'
   - '@dj-frass-shaggy'
@@ -14,7 +12,6 @@ tags:
   - 'afroswing'
   - 'soca'
   - 'reggae'
-stub: true
 ---
 
 ## DJ Frass;Shenseea

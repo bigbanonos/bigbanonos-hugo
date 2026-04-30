@@ -1,10 +1,8 @@
 ---
 title: "Broken Social Scene"
+slug: "broken-social-scene"
 date: 2022-01-14
-category: "artist"
-track_count: 7
-first_year: 2003
-last_year: 2022
+layout: post
 tags:
   - '@broken-social-scene'
   - '00s-10s'
@@ -12,7 +10,6 @@ tags:
   - 'baroque pop'
   - 'indie rock'
   - 'indie'
-stub: true
 ---
 
 ## Broken Social Scene

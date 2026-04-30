@@ -1,14 +1,11 @@
 ---
 title: "Lightning Dust"
+slug: "lightning-dust"
 date: 2019-10-04
-category: "artist"
-track_count: 8
-first_year: 2007
-last_year: 2019
+layout: post
 tags:
   - '@lightning-dust'
   - '00s-10s'
-stub: true
 ---
 
 ## Lightning Dust

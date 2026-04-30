@@ -1,7 +1,8 @@
 ---
-title: "underscores"
+title: "Underscores"
+slug: "underscores"
 date: 2026-01-23
-category: "artist"
+layout: post
 tags:
   - '@underscores'
 ---

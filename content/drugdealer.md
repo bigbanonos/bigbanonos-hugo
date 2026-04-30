@@ -1,13 +1,13 @@
 ---
-title: "' 'Drugdealer'
-'"
+title: "Drugdealer"
+slug: "drugdealer"
 date: 2025-01-17
-original_title: "'Drugdealer'"
+layout: post
 tags:
   - '@weyesblood'
   - '@drugdealer'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Drugdealer</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab67616d00001e020bb8bf9663529f0b6cdf5b0e" alt="Drugdealer" >}}

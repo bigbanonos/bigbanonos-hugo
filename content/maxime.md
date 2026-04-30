@@ -1,12 +1,12 @@
 ---
-title: "' 'maxime'
-'"
+title: "Maxime"
+slug: "maxime"
 date: 2024-12-14
-original_title: "'maxime'"
+layout: post
 tags:
   - '@maxime'
-layout: post
 ---
+
 <!-- Post Title -->
 <h1 >BigBanonos' Favorite Tracks: maxime - "empty"</h1> <!-- Introductory Text -->
 <p >Updated September 27, 2019, with "empty" by maxime This heartfelt track from the album <em>pity party</em> captures the essence of Ottawa indie music, blending tender acoustic melodies with introspective lyrics.</p> <!-- Featured Image -->

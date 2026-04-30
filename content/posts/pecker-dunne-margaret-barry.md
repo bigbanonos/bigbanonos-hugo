@@ -1,17 +1,14 @@
 ---
-title: "Pecker Dunne;Margaret Barry"
+title: "Pecker Dunne Margaret Barry"
+slug: "pecker-dunne-margaret-barry"
 date: 2003-04-24
-category: "artist"
-track_count: 2
-first_year: 2000
-last_year: 2003
+layout: post
 tags:
   - '@pecker-dunne-margaret-barry'
   - '@pecker-dunne'
   - '00s-10s'
   - 'celtic'
   - 'traditional folk'
-stub: true
 ---
 
 ## Pecker Dunne;Margaret Barry

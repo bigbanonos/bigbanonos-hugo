@@ -1,10 +1,8 @@
 ---
 title: "Zach Bryan"
+slug: "zach-bryan"
 date: 2024-10-18
-category: "artist"
-track_count: 42
-first_year: 1972
-last_year: 2024
+layout: post
 tags:
   - '@zach-bryan'
   - '@benjamin-tod'
@@ -23,7 +21,6 @@ tags:
   - 'red dirt'
   - 'alt country'
   - 'outlaw country'
-stub: true
 ---
 
 ## Zach Bryan

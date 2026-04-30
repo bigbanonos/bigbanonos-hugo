@@ -1,17 +1,14 @@
 ---
-title: "Diana Ross;Jimmy Simpson"
+title: "Diana Ross Jimmy Simpson"
+slug: "diana-ross-jimmy-simpson"
 date: 1979-05-23
-category: "artist"
-track_count: 1
-first_year: 1979
-last_year: 1979
+layout: post
 tags:
   - '@diana-ross-jimmy-simpson'
   - '1900s'
   - 'motown'
   - 'disco'
   - 'rockabilly'
-stub: true
 ---
 
 ## Diana Ross;Jimmy Simpson

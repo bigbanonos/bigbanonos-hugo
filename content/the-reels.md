@@ -1,12 +1,12 @@
 ---
-title: "' 'The Reels'
-'"
+title: "The Reels"
+slug: "the-reels"
 date: 2024-12-16
-original_title: "'The Reels'"
+layout: post
 tags:
   - '@thereels'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >The Reels - Quasimodo's Dream</h1> <!-- Introductory Text -->
 <p >The Reelsâ€™ â€œQuasimodoâ€™s Dreamâ€ is a haunting yet captivating track from their 1981 repertoire. Featured in *Reel To Reel: 1978 - 1992*, this Australian rock track combines the experimental with the melodic, making it a standout from the band's eclectic catalog. Check out the video below for a look into their unique sound!</p> <!-- Featured Image -->

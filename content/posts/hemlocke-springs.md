@@ -1,14 +1,11 @@
 ---
-title: "hemlocke springs"
+title: "Hemlocke Springs"
+slug: "hemlocke-springs"
 date: 2026-02-13
-category: "artist"
-track_count: 2
-first_year: 2026
-last_year: 2026
+layout: post
 tags:
   - '@hemlocke-springs'
   - '2020s'
-stub: true
 ---
 
 ## hemlocke springs

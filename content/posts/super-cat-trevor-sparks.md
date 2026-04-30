@@ -1,10 +1,8 @@
 ---
-title: "Super Cat;Trevor Sparks"
+title: "Super Cat Trevor Sparks"
+slug: "super-cat-trevor-sparks"
 date: 1992-05-12
-category: "artist"
-track_count: 1
-first_year: 1992
-last_year: 1992
+layout: post
 tags:
   - '@super-cat-trevor-sparks'
   - '1900s'
@@ -12,7 +10,6 @@ tags:
   - 'ragga'
   - 'reggae'
   - 'lovers rock'
-stub: true
 ---
 
 ## Super Cat;Trevor Sparks

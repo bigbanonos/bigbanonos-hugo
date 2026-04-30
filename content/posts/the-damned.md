@@ -1,10 +1,8 @@
 ---
 title: "The Damned"
+slug: "the-damned"
 date: 1979-11-02
-category: "artist"
-track_count: 3
-first_year: 1977
-last_year: 1979
+layout: post
 tags:
   - '@the-damned'
   - '1900s'
@@ -12,7 +10,6 @@ tags:
   - 'proto-punk'
   - 'gothic rock'
   - 'post-punk'
-stub: true
 ---
 
 ## The Damned

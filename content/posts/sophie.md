@@ -1,10 +1,8 @@
 ---
-title: "SOPHIE"
+title: "Sophie"
+slug: "sophie"
 date: 2021-01-14
-category: "artist"
-track_count: 5
-first_year: 2013
-last_year: 2021
+layout: post
 tags:
   - '@sophie'
   - '@sophie-autechre'
@@ -14,7 +12,6 @@ tags:
   - 'art pop'
   - 'experimental'
   - 'idm'
-stub: true
 ---
 
 ## SOPHIE

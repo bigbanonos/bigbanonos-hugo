@@ -1,17 +1,14 @@
 ---
-title: "Ted Leo and the Pharmacists;The Pharmacists"
+title: "Ted Leo And The Pharmacists The Pharmacists"
+slug: "ted-leo-and-the-pharmacists-the-pharmacists"
 date: 2010-03-08
-category: "artist"
-track_count: 15
-first_year: 2001
-last_year: 2010
+layout: post
 tags:
   - '@ted-leo-and-the-pharmacists-the-pharmacists'
   - '@ted-leo-and-the-pharmacists'
   - '00s-10s'
   - 'power pop'
   - 'indie rock'
-stub: true
 ---
 
 ## Ted Leo and the Pharmacists;The Pharmacists

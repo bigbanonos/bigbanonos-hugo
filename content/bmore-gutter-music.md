@@ -1,16 +1,16 @@
 ---
-title: "' 'Bmore Gutter Music'
-'"
+title: "Bmore Gutter Music"
+slug: "bmore-gutter-music"
 date: 2024-12-17
-original_title: "'Bmore Gutter Music'"
+layout: post
 tags:
   - '@aaronlacrate'
   - '@milkcratemusic'
   - '@hollertronix'
   - '@bmoreguttermusic'
   - '@mixcloud'
-layout: post
 ---
+
 <h2>Aaron Lacrate's 'Milkcrate' and Lowbudget's Hollertronix Bmore Mix</h2><div><strong>#NotOnSpotify:</strong>Ãƒâ€šÃ‚Â Enjoy this killer mix of 34 Baltimore cuts exclusively on MixCloud.</div>
 <div class="separator"><a href="https://i.ytimg.com/vi/pz14bihi2I8/hqdefault.jpg" ><img alt="" border="0" data-original-height="360" data-original-width="480" src="https://i.ytimg.com/vi/pz14bihi2I8/hqdefault.jpg" width="320" /></a></div>
 <p><br /></p> <div> <iframe frameborder="0" height="400" src="https://player-widget.mixcloud.com/widget/iframe/?feed=%2Foldschooltapes%2Fhollertronix-and-milkcrate-records-present-bmore-gutter-music%2F" width="100%"></iframe>

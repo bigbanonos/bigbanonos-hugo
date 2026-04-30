@@ -1,10 +1,8 @@
 ---
 title: "The Maytals"
+slug: "the-maytals"
 date: 2016-05-06
-category: "artist"
-track_count: 2
-first_year: 1969
-last_year: 2016
+layout: post
 tags:
   - '@the-maytals'
   - '00s-10s'
@@ -13,7 +11,6 @@ tags:
   - 'ska'
   - 'reggae'
   - 'roots reggae'
-stub: true
 ---
 
 ## The Maytals

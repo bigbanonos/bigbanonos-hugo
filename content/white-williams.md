@@ -1,12 +1,12 @@
 ---
-title: "' 'White Williams'
-'"
+title: "White Williams"
+slug: "white-williams"
 date: 2025-02-10
-original_title: "'White Williams'"
+layout: post
 tags:
   - '@whitewilliams'
-layout: post
 ---
+
 <!-- White Williams -->
 <img src="https://img.youtube.com/vi/4wwCDwPYUm8/0.jpg" /> <p><strong>Updated 2007</strong></p> <p><strong>"New Violence"</strong> â€“ 2007</p>
 <p><strong>"Danger"</strong> â€“ 2007</p>

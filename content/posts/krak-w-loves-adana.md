@@ -1,15 +1,12 @@
 ---
-title: "Kraków Loves Adana"
+title: "Krak W Loves Adana"
+slug: "krak-w-loves-adana"
 date: 2023-08-30
-category: "artist"
-track_count: 2
-first_year: 2018
-last_year: 2023
+layout: post
 tags:
   - '@krak-w-loves-adana'
   - '00s-10s'
   - '2020s'
-stub: true
 ---
 
 ## Kraków Loves Adana

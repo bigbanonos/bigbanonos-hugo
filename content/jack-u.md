@@ -1,15 +1,15 @@
 ---
-title: "' 'Jack ÃƒÆ’Ã…â€œ'
-'"
+title: "Jack U"
+slug: "jack-u"
 date: 2024-12-12
-original_title: "'Jack ÃƒÆ’Ã…â€œ'"
+layout: post
 tags:
   - '@skrillex'
   - '@justinbieber'
   - '@diplo'
   - '@jacku'
-layout: post
 ---
+
 <!-- Post Title -->
 <h1 >BigBanonos' Favorite Tracks: Jack ÃƒÆ’Ã…â€œ, Skrillex, Diplo & Justin Bieber - "Where Are ÃƒÆ’Ã…â€œ Now"</h1> <!-- Introductory Text -->
 <p >Updated February 24, 2015, with "Where Are ÃƒÆ’Ã…â€œ Now," a chart-topping collaboration between Jack ÃƒÆ’Ã…â€œ, Skrillex, Diplo, and Justin Bieber, featured on the album <em>Skrillex and Diplo present Jack ÃƒÆ’Ã…â€œ</em>, released under OWSLA/Mad Decent.</p> <!-- Featured Image -->

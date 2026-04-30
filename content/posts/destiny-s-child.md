@@ -1,14 +1,11 @@
 ---
-title: "Destiny's Child"
+title: "Destiny S Child"
+slug: "destiny-s-child"
 date: 1999-07-27
-category: "artist"
-track_count: 3
-first_year: 1999
-last_year: 1999
+layout: post
 tags:
   - '@destiny-s-child'
   - '1900s'
-stub: true
 ---
 
 ## Destiny's Child

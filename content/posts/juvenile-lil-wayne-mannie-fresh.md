@@ -1,10 +1,8 @@
 ---
-title: "JUVENILE;Lil Wayne;Mannie Fresh"
+title: "Juvenile Lil Wayne Mannie Fresh"
+slug: "juvenile-lil-wayne-mannie-fresh"
 date: 2026-02-27
-category: "artist"
-track_count: 9
-first_year: 1992
-last_year: 2026
+layout: post
 tags:
   - '@juvenile-lil-wayne-mannie-fresh'
   - '@big-tymers-juvenile-lil-wayne'
@@ -20,7 +18,6 @@ tags:
   - 'bounce'
   - 'southern hip hop'
   - 'crunk'
-stub: true
 ---
 
 ## JUVENILE;Lil Wayne;Mannie Fresh

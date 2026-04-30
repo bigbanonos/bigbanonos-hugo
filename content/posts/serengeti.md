@@ -1,10 +1,8 @@
 ---
 title: "Serengeti"
+slug: "serengeti"
 date: 2019-04-18
-category: "artist"
-track_count: 8
-first_year: 2006
-last_year: 2019
+layout: post
 tags:
   - '@serengeti'
   - '@serengeti-odd-nosdam'
@@ -12,7 +10,6 @@ tags:
   - '00s-10s'
   - 'experimental hip hop'
   - 'idm'
-stub: true
 ---
 
 ## Serengeti

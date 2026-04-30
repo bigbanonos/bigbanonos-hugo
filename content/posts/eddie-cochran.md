@@ -1,17 +1,14 @@
 ---
 title: "Eddie Cochran"
+slug: "eddie-cochran"
 date: 1960-05-01
-category: "artist"
-track_count: 2
-first_year: 1960
-last_year: 1960
+layout: post
 tags:
   - '@eddie-cochran'
   - '1900s'
   - 'rockabilly'
   - 'rock and roll'
   - 'doo-wop'
-stub: true
 ---
 
 ## Eddie Cochran

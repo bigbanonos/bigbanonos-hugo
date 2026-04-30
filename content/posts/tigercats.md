@@ -1,14 +1,11 @@
 ---
 title: "Tigercats"
+slug: "tigercats"
 date: 2015-02-02
-category: "artist"
-track_count: 3
-first_year: 2012
-last_year: 2015
+layout: post
 tags:
   - '@tigercats'
   - '00s-10s'
-stub: true
 ---
 
 ## Tigercats

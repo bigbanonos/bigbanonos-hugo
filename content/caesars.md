@@ -1,12 +1,12 @@
 ---
-title: "' 'Caesars'
-'"
+title: "Caesars"
+slug: "caesars"
 date: 2025-02-12
-original_title: "'Caesars'"
+layout: post
 tags:
   - '@caesars'
-layout: post
 ---
+
 <div> {{< img-lite src="https://i.scdn.co/image/63f5dfac148e1b4a1d3bc7765aa45907140e48b7" alt="Caesars" >}}
 </div> <p>
 BigBanonos' favorite songs by Caesars:

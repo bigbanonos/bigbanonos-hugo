@@ -1,12 +1,12 @@
 ---
-title: "' 'KrakÃƒÆ’Ã‚Â³w Loves Adana'
-'"
+title: "Krakow Loves Adana"
+slug: "krakow-loves-adana"
 date: 2024-12-20
-original_title: "'KrakÃƒÆ’Ã‚Â³w Loves Adana - 2 Songs'"
+layout: post
 tags:
   - '@krakowlovesadana'
-layout: post
 ---
+
 <h1>KrakÃƒÆ’Ã‚Â³w Loves Adana: BigBanonos two favorite songs</h1>
 <img alt="KrakÃƒÆ’Ã‚Â³w Loves Adana" src="https://f4.bcbits.com/img/a0695991551_10.jpg" /> <p>Emerging from Hamburg's indie scene, KrakÃƒÆ’Ã‚Â³w Loves Adana creates music with an atmospheric blend of indie and German new wave influences. Explore some of their most notable tracks below:</p> <ol> <li><strong>(Feels Like) Heaven</strong> | Release Date: August 30, 2023 | KrakÃƒÆ’Ã‚Â³w Loves Adana</li> <li><strong>American Boy</strong> | <em>Songs After the Blue</em> | Release Date: April 6, 2018 | KrakÃƒÆ’Ã‚Â³w Loves Adana</li>
 </ol> <div> {{< youtube "embed" >}}

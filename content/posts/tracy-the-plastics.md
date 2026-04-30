@@ -1,17 +1,14 @@
 ---
-title: "Tracy + The Plastics"
+title: "Tracy The Plastics"
+slug: "tracy-the-plastics"
 date: 2004-01-01
-category: "artist"
-track_count: 7
-first_year: 2002
-last_year: 2004
+layout: post
 tags:
   - '@tracy-the-plastics'
   - '00s-10s'
   - 'electroclash'
   - 'queercore'
   - 'riot grrrl'
-stub: true
 ---
 
 ## Tracy + The Plastics

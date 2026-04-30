@@ -1,12 +1,12 @@
 ---
-title: "' 'A.C. Newman'
-'"
+title: "Ac Newman"
+slug: "ac-newman"
 date: 2024-12-26
-original_title: "'A.C. Newman'"
+layout: post
 tags:
   - '@acnewman'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonos Favorite Song by A.C. Newman: "Better Than Most"</h1> <!-- Introductory Text -->
 <p >Updated June 7, 2004, with "Better Than Most" by A.C. Newman. This indie-rock track from *The Slow Wonder* showcases A.C. Newmanâ€™s signature melodic brilliance and lyrical depth. Watch the video below!</p> <!-- Featured Image -->

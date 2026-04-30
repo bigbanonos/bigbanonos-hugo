@@ -1,12 +1,12 @@
 ---
-title: "' 'Jawbreaker'
-'"
+title: "Jawbreaker"
+slug: "jawbreaker"
 date: 2024-12-17
-original_title: "'Jawbreaker'"
+layout: post
 tags:
   - '@jawbreaker'
-layout: post
 ---
+
 <h2>BigBanonos' Favorite Tracks: Jawbreaker</h2> <div > <a href="https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/Jawbreaker_band.jpg/220px-Jawbreaker_band.jpg"> <img src="https://upload.wikimedia.org/wikipedia/en/thumb/7/7c/Jawbreaker_band.jpg/220px-Jawbreaker_band.jpg" alt="Jawbreaker" width="400" /> </a>
 </div> <p>Explore the emo-punk anthems and heartfelt tracks from Jawbreaker, a band that defined a generation of punk rock with their raw energy and poignant lyrics.</p> <h3>Selected Tracks</h3>
 <ol> <li><strong>Kiss The Bottle</strong> â€“ <em>Etc.</em> (2002)</li> <li><strong>Oyster</strong> â€“ <em>Dear You</em> (1995)</li> <li><strong>Lurker II: Dark Son Of Night</strong> â€“ <em>Dear You</em> (1995)</li> <li><strong>Sluttering (May 4th)</strong> â€“ <em>Dear You</em> (1995)</li> <li><strong>Unlisted Track</strong> â€“ <em>Dear You</em> (1995)</li> <li><strong>Save Your Generation</strong> â€“ <em>Dear You</em> (1995)</li> <li><strong>Indictment</strong> â€“ <em>24 Hour Revenge Therapy</em> (1994)</li> <li><strong>Boxcar</strong> â€“ <em>24 Hour Revenge Therapy</em> (1994)</li> <li><strong>Out Patient</strong> â€“ <em>24 Hour Revenge Therapy</em> (1994)</li> <li><strong>Jinx Removing</strong> â€“ <em>24 Hour Revenge Therapy</em> (1994)</li> <li><strong>Jinx Removing (Alt)</strong> â€“ <em>24 Hour Revenge Therapy</em> (1994)</li> <li><strong>Shirt</strong> â€“ <em>Etc.</em> (2004)</li>

@@ -1,12 +1,12 @@
 ---
-title: "' 'Foster The People'
-'"
+title: "Foster People"
+slug: "foster-people"
 date: 2025-01-17
-original_title: "'Foster The People'"
+layout: post
 tags:
   - '@fosterthepeople'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonos Favorite Songs by Foster The People</h1> <!-- Introductory Text -->
 <p >Foster The People seamlessly blend catchy hooks with thoughtful lyrics, creating indie-pop anthems that resonate across generations. Check out BigBanonos' top picks below!</p> <!-- Featured Image -->

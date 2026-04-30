@@ -1,16 +1,13 @@
 ---
 title: "Blair"
+slug: "blair"
 date: 2021-04-02
-category: "artist"
-track_count: 4
-first_year: 2010
-last_year: 2021
+layout: post
 tags:
   - '@blair'
   - '@blair'
   - '00s-10s'
   - '2020s'
-stub: true
 ---
 
 ## Blair

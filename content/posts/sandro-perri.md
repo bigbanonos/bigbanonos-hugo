@@ -1,14 +1,11 @@
 ---
 title: "Sandro Perri"
+slug: "sandro-perri"
 date: 2019-09-06
-category: "artist"
-track_count: 2
-first_year: 2018
-last_year: 2019
+layout: post
 tags:
   - '@sandro-perri'
   - '00s-10s'
-stub: true
 ---
 
 ## Sandro Perri

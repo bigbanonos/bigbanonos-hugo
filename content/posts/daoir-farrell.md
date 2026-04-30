@@ -1,17 +1,14 @@
 ---
-title: "Daoirí Farrell"
+title: "Daoir Farrell"
+slug: "daoir-farrell"
 date: 2020-06-26
-category: "artist"
-track_count: 3
-first_year: 2016
-last_year: 2020
+layout: post
 tags:
   - '@daoir-farrell'
   - '00s-10s'
   - '2020s'
   - 'celtic'
   - 'folk'
-stub: true
 ---
 
 ## Daoirí Farrell

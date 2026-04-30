@@ -1,17 +1,14 @@
 ---
 title: "Heavy Trash"
+slug: "heavy-trash"
 date: 2005-08-20
-category: "artist"
-track_count: 1
-first_year: 2005
-last_year: 2005
+layout: post
 tags:
   - '@heavy-trash'
   - '00s-10s'
   - 'rockabilly'
   - 'psychobilly'
   - 'garage rock'
-stub: true
 ---
 
 ## Heavy Trash

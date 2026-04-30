@@ -1,10 +1,8 @@
 ---
-title: "Isaiah Rashad;SZA"
+title: "Isaiah Rashad Sza"
+slug: "isaiah-rashad-sza"
 date: 2021-07-30
-category: "artist"
-track_count: 4
-first_year: 2014
-last_year: 2021
+layout: post
 tags:
   - '@isaiah-rashad-sza'
   - '@isaiah-rashad'
@@ -13,7 +11,6 @@ tags:
   - '00s-10s'
   - '2020s'
   - 'r&b'
-stub: true
 ---
 
 ## Isaiah Rashad;SZA

@@ -1,14 +1,11 @@
 ---
 title: "Miljon"
+slug: "miljon"
 date: 2018-09-07
-category: "artist"
-track_count: 3
-first_year: 2018
-last_year: 2018
+layout: post
 tags:
   - '@miljon'
   - '00s-10s'
-stub: true
 ---
 
 ## Miljon

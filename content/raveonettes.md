@@ -1,12 +1,12 @@
 ---
-title: "' 'Raveonettes'
-'"
+title: "Raveonettes"
+slug: "raveonettes"
 date: 2025-02-10
-original_title: "'Raveonettes'"
+layout: post
 tags:
   - '@raveonettes'
-layout: post
 ---
+
  <!-- The Raveonettes -->
 <img src="https://i.scdn.co/image/ab67616d0000b273a28131c9604069c97efb6412" /> <p><strong>Updated April 4, 2011 with "Recharge & Revolt" from <em>Raven in the Grave</em></strong></p> <p><strong>"Recharge & Revolt"</strong> â€“ <em>Raven in the Grave</em> (Beat Dies Records, 2011)</p>
 <p><strong>"Gone Forever"</strong> â€“ <em>In And Out Of Control</em> (Beat Dies Records, 2009)</p>

@@ -1,12 +1,12 @@
 ---
-title: "' 'Frankie Cosmos'
-'"
+title: "Frankie Cosmos"
+slug: "frankie-cosmos"
 date: 2024-12-21
-original_title: "'Frankie Cosmos - 4 Songs'"
+layout: post
 tags:
   - '@frankiecosmos'
-layout: post
 ---
+
 <h3><em>BigBanonos</em> Favorite Songs by Frankie Cosmos:</h3> <p>Updated on October 18, 2022, with the standout track â€œEmpty Head.â€ Discover <em>BigBanonos</em> favorites by Frankie Cosmos, showcasing her unique indie pop and bedroom pop sound.</p> <!--Image-->
 <div class="separator"> <a href="https://magazine-resources.tidal.com/uploads/2016/04/FrankieCosmos_1200.jpg" > <img alt="Frankie Cosmos" src="https://magazine-resources.tidal.com/uploads/2016/04/FrankieCosmos_1200.jpg" /> </a>
 </div> <!--Spotify Playlist Embed-->

@@ -1,16 +1,13 @@
 ---
 title: "Gene Chandler"
+slug: "gene-chandler"
 date: 1967-01-01
-category: "artist"
-track_count: 2
-first_year: 1962
-last_year: 1967
+layout: post
 tags:
   - '@gene-chandler'
   - '1900s'
   - 'doo-wop'
   - 'northern soul'
-stub: true
 ---
 
 ## Gene Chandler

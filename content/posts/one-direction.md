@@ -1,14 +1,11 @@
 ---
 title: "One Direction"
+slug: "one-direction"
 date: 2015-11-13
-category: "artist"
-track_count: 2
-first_year: 2012
-last_year: 2015
+layout: post
 tags:
   - '@one-direction'
   - '00s-10s'
-stub: true
 ---
 
 ## One Direction

@@ -1,12 +1,12 @@
 ---
-title: "' 'Julie Byrne'
-'"
+title: "Julie Byrne"
+slug: "julie-byrne"
 date: 2024-12-20
-original_title: "'Julie Byrne -  2 Songs'"
+layout: post
 tags:
   - '@juliebyrne'
-layout: post
 ---
+
 <h1>Julie Byrne: Top Songs</h1>
 {{< img-lite src="https://media.npr.org/assets/img/2016/11/10/julie-byrne---not-even-happiness---press-photo-credit-to-jonathan-bouknight_wide-8d7d9e549233a8ae310f1e9a42017a34437ad6e4.jpg" alt="Julie Byrne" >}} <p>Julie Byrne's music, often described as a transcendent blend of ambient folk and chamber pop, invites listeners into a meditative, introspective world. Here are two of her essential tracks:</p> <ol> <li><strong>Conversation Is A Flowstate</strong> | <em>The Greater Wings</em> | Release Date: July 7, 2023 | Ghostly International</li> <li><strong>Prism Song</strong> | <em>Rooms With Walls and Windows</em> | Release Date: January 21, 2014 | Orindal Records</li>
 </ol> <div> {{< youtube "embed" >}}

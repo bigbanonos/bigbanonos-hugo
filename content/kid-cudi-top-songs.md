@@ -1,13 +1,13 @@
 ---
-title: "' 'Kid Cudi'
-'"
+title: "Kid Cudi"
+slug: "kid-cudi"
 date: 2025-01-12
-original_title: "'Kid Cudi - 9 Songs'"
+layout: post
 tags:
   - '@kingchip'
   - '@kidcudi'
-layout: post
 ---
+
 <h2>Kid Cudi: BigBanonos' Top Songs</h2>
 <p>Updated February 23, 2024, with "DOSE OF DOPENESS (2007)"</p>
 <p><strong>Kid Cudi's</strong> introspective lyrics and hip-hop style define his best tracks, chosen by BigBanonos.</p> <h3>Playlist</h3>

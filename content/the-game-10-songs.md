@@ -1,8 +1,8 @@
 ---
-title: "' 'TheGame'
-'"
+title: "The Game"
+slug: "the-game"
 date: 2025-01-16
-original_title: "'TheGame - 10 Songs'"
+layout: post
 tags:
   - '@50cent'
   - '@kroosevelt'
@@ -13,8 +13,8 @@ tags:
   - '@jamiefoxx'
   - '@treysongz'
   - '@wale'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by The Game</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://static.wikia.nocookie.net/hip-hop-music/images/f/fa/The_Game.jpg/revision/latest/scale-to-width-down/250?cb=20141003214126" alt="The Game" >}}

@@ -1,17 +1,14 @@
 ---
 title: "Black Lips"
+slug: "black-lips"
 date: 2022-11-25
-category: "artist"
-track_count: 12
-first_year: 2005
-last_year: 2022
+layout: post
 tags:
   - '@black-lips'
   - '00s-10s'
   - '2020s'
   - 'garage rock'
   - 'neo-psychedelic'
-stub: true
 ---
 
 ## Black Lips

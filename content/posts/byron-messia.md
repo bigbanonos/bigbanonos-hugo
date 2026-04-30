@@ -1,17 +1,14 @@
 ---
 title: "Byron Messia"
+slug: "byron-messia"
 date: 2025-11-07
-category: "artist"
-track_count: 2
-first_year: 2023
-last_year: 2025
+layout: post
 tags:
   - '@byron-messia'
   - '2020s'
   - 'dancehall'
   - 'afrobeats'
   - 'afrobeat'
-stub: true
 ---
 
 ## Byron Messia

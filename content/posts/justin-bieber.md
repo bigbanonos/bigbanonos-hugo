@@ -1,16 +1,13 @@
 ---
 title: "Justin Bieber"
+slug: "justin-bieber"
 date: 2025-09-05
-category: "artist"
-track_count: 6
-first_year: 2015
-last_year: 2025
+layout: post
 tags:
   - '@justin-bieber'
   - '@justin-bieber-sexyy-red'
   - '00s-10s'
   - '2020s'
-stub: true
 ---
 
 ## Justin Bieber

@@ -1,12 +1,12 @@
 ---
-title: "' 'David Byrne'
-'"
+title: "David Byrne"
+slug: "david-byrne"
 date: 2025-01-17
-original_title: "'David Byrne'"
+layout: post
 tags:
   - '@davidbyrne'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by David Byrne</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://thisis-images.spotifycdn.com/37i9dQZF1DZ06evO18rjMi-default.jpg" alt="David Byrne" >}}

@@ -1,12 +1,12 @@
 ---
-title: "' 'Wild Nothing'
-'"
+title: "Wild Nothing"
+slug: "wild-nothing"
 date: 2025-01-11
-original_title: "'Wild Nothing'"
+layout: post
 tags:
   - '@wildnothing'
-layout: post
 ---
+
 <div class="post-title"> <h1>BigBanonos' Favorite Songs by Wild Nothing</h1>
 </div>
 <p>Updated August 7, 2018, with "Shallow Water" from the album <i>Shallow Water</i>, highlighted in the playlist below:</p>

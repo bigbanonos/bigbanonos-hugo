@@ -1,13 +1,13 @@
 ---
-title: "' 'The Animals'
-'"
+title: "The Animals"
+slug: "the-animals"
 date: 2025-01-06
-original_title: "'The Animals'"
+layout: post
 tags:
   - '@animals'
   - '@ericburdon'
-layout: post
 ---
+
 <h3>BigBanonos Favorite Tracks: Animals</h3>
 <div class="separator" > <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Eric_Burdon_%26_the_Animals.jpg/1200px-Eric_Burdon_%26_the_Animals.jpg"> <img alt="Animals" border="0" height="350" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Eric_Burdon_%26_the_Animals.jpg/1200px-Eric_Burdon_%26_the_Animals.jpg" /> </a>
 </div> <p>BigBanonos spotlights <strong>The Animals</strong>, one of the most influential British Invasion bands. With their iconic track "It's My Life" and the soulful storytelling of Eric Burdon in "When I Was Young," their music remains timeless.</p> <ol> <li><strong>It's My Life</strong> â€ <em>1964</em> â€ Columbia</li> <li><strong>When I Was Young</strong> â€ <em>1967</em> â€ MGM</li>

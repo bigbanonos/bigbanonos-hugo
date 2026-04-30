@@ -1,12 +1,12 @@
 ---
-title: "' 'The Exiles'
-'"
+title: "The Exiles"
+slug: "the-exiles"
 date: 2025-01-17
-original_title: "'The Exiles'"
+layout: post
 tags:
   - '@exiles'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by The Exiles</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab67616d00001e027fcc4ad700d334219c7e955c" alt="The Exiles" >}}

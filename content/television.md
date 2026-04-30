@@ -1,12 +1,12 @@
 ---
-title: "' 'Television'
-'"
+title: "Television"
+slug: "television"
 date: 2025-01-10
-original_title: "'Television'"
+layout: post
 tags:
   - '@television'
-layout: post
 ---
+
 <div class="post-title"> <h1>BigBanonos' Favorite Songs by Television</h1>
 </div>
 <p>Updated February 8, 1977, with "Marquee Moon" from the album <i>Marquee Moon</i>, highlighted in the playlist below:</p>

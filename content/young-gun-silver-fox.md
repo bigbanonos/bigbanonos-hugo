@@ -1,12 +1,12 @@
 ---
-title: "' 'Young Gun Silver Fox'
-'"
+title: "Young Gun Silver Fox"
+slug: "young-gun-silver-fox"
 date: 2025-01-11
-original_title: "'Young Gun Silver Fox'"
+layout: post
 tags:
   - '@younggunsilverfox'
-layout: post
 ---
+
 <div class="post-title"> <h1>BigBanonos' Favorite Songs by Young Gun Silver Fox</h1>
 </div>
 <p>Updated June 17, 2022, with "West Side Jet - Radio Edit" from the album <i>West Side Jet</i>, highlighted in the playlist below:</p>

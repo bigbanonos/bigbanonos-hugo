@@ -1,17 +1,14 @@
 ---
 title: "Michael Leviton"
+slug: "michael-leviton"
 date: 2013-11-15
-category: "artist"
-track_count: 2
-first_year: 2008
-last_year: 2013
+layout: post
 tags:
   - '@michael-leviton'
   - '@michael-leviton-hannah-cohen'
   - '00s-10s'
   - 'bedroom pop'
   - 'alternative r&b'
-stub: true
 ---
 
 ## Michael Leviton

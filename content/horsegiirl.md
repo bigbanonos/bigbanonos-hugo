@@ -1,12 +1,12 @@
 ---
-title: "' 'horsegiirL'
-'"
+title: "Horsegiirl"
+slug: "horsegiirl"
 date: 2024-12-31
-original_title: "'horsegiirL'"
+layout: post
 tags:
   - '@horsegiirl'
-layout: post
 ---
+
 <!-- Introductory Text -->
 <p >horsegiirLâ€™s â€œtake it offffâ€ is an exhilarating dive into experimental pop and electronic realms. Watch the official video below and experience the magic!</p> <!-- Featured Image -->
 <div > <img src="https://www.sleek-mag.com/wp-content/uploads/2023/11/Photo-06.09.23-13-52-41-1024x1548.jpg" alt="horsegiirL - take it offff" />

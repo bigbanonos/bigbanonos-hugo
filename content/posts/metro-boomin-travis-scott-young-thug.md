@@ -1,10 +1,8 @@
 ---
-title: "Metro Boomin;Travis Scott;Young Thug"
+title: "Metro Boomin Travis Scott Young Thug"
+slug: "metro-boomin-travis-scott-young-thug"
 date: 2025-11-07
-category: "artist"
-track_count: 11
-first_year: 2018
-last_year: 2025
+layout: post
 tags:
   - '@metro-boomin-travis-scott-young-thug'
   - '@metro-boomin-21-savage'
@@ -22,7 +20,6 @@ tags:
   - 'melodic rap'
   - 'trap'
   - 'southern hip hop'
-stub: true
 ---
 
 ## Metro Boomin;Travis Scott;Young Thug

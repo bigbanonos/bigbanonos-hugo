@@ -1,12 +1,12 @@
 ---
-title: "' 'Imperial Teen'
-'"
+title: "Imperial Teen"
+slug: "imperial-teen"
 date: 2024-12-29
-original_title: "'Imperial Teen'"
+layout: post
 tags:
   - '@imperialteen'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonos Favorite Song by Imperial Teen: "Teacher's Pet"</h1> <!-- Introductory Text -->
 <p >Updated April 9, 2002, with "Teacher's Pet" by Imperial Teen. This energetic track from their album *On* blends Bay Area indie vibes with the bold spirit of queercore. Watch the video below!</p> <!-- Featured Image -->

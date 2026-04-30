@@ -1,12 +1,12 @@
 ---
-title: "' 'Darwin Deez'
-'"
+title: "Darwin Deez"
+slug: "darwin-deez"
 date: 2025-01-17
-original_title: "'Darwin Deez'"
+layout: post
 tags:
   - '@darwindezz'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Darwin Deez</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab6761610000e5eb3086e69853730ecbc5b1e738" alt="Darwin Deez" >}}

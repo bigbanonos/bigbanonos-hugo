@@ -1,12 +1,12 @@
 ---
-title: "' 'Amigos Millonarios'
-'"
+title: "Amigos Millonarios"
+slug: "amigos-millonarios"
 date: 2024-11-30
-original_title: "'Amigos Millonarios'"
+layout: post
 tags:
   - '@amigosmillonarios'
-layout: post
 ---
+
 <!-- Post Title -->
 <h1 >BigBanonos' Favorite Song by Amigos Millonarios</h1> <!-- Introductory Text -->
 <p >Updated November 22, 2017, with BigBanonos' favorite song by Amigos Millonarios, "Chiki Corazon," featured on the compilation album *San Juanitos y Coplas 1*. Watch the video and see more details below:</p> <!-- Featured Image -->

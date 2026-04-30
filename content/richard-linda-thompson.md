@@ -1,13 +1,13 @@
 ---
-title: "' 'Richard & Linda Thompson'
-'"
+title: "Richard Linda Thompson"
+slug: "richard-linda-thompson"
 date: 2025-02-10
-original_title: "'Richard & Linda Thompson'"
+layout: post
 tags:
   - '@richardthompson'
   - '@lindathompson'
-layout: post
 ---
+
 <!-- Richard Thompson -->
 <img src="https://i.scdn.co/image/ab67616d00001e02d30e8408fcd83b05850e66f0" /> <p><strong>Updated 1994 with "Beeswing" from <em>Mirror Blue</em></strong></p> <p><strong>"Beeswing"</strong> â€“ <em>Mirror Blue</em> (1994)</p>
 <p><strong>"Man In Need"</strong> â€“ <em>Hand of Kindness</em> (1982)</p>

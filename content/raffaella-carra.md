@@ -1,12 +1,12 @@
 ---
-title: "' 'Raffaella CarrÃƒÆ’Ã‚Â '
-'"
+title: "Raffaella Carra"
+slug: "raffaella-carra"
 date: 2024-12-15
-original_title: "'Raffaella CarrÃƒÆ’Ã‚Â '"
+layout: post
 tags:
   - '@raffaellacarrÃƒÆ’Ã‚'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >Raffaella CarrÃƒÆ’Ã‚Â  - Rumore</h1> <!-- Introductory Text -->
 <p >Updated with "Rumore" by Raffaella CarrÃƒÆ’Ã‚Â , from the album *Raffaella CarrÃƒÆ’Ã‚Â *, released on November 10, 2017, by RCA Records Label.</p> <!-- Featured Image -->

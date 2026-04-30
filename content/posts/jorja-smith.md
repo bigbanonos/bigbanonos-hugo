@@ -1,10 +1,8 @@
 ---
 title: "Jorja Smith"
+slug: "jorja-smith"
 date: 2021-05-14
-category: "artist"
-track_count: 3
-first_year: 2017
-last_year: 2021
+layout: post
 tags:
   - '@jorja-smith'
   - '@jorja-smith-burna-boy'
@@ -15,7 +13,6 @@ tags:
   - 'afrobeats'
   - 'afrobeat'
   - 'afropop'
-stub: true
 ---
 
 ## Jorja Smith

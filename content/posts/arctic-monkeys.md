@@ -1,16 +1,13 @@
 ---
 title: "Arctic Monkeys"
+slug: "arctic-monkeys"
 date: 2007-09-11
-category: "artist"
-track_count: 4
-first_year: 2005
-last_year: 2007
+layout: post
 tags:
   - '@arctic-monkeys'
   - '00s-10s'
   - 'indie'
   - 'garage rock'
-stub: true
 ---
 
 ## Arctic Monkeys

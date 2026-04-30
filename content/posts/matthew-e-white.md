@@ -1,14 +1,11 @@
 ---
-title: "Matthew E. White"
+title: "Matthew E White"
+slug: "matthew-e-white"
 date: 2021-09-10
-category: "artist"
-track_count: 1
-first_year: 2021
-last_year: 2021
+layout: post
 tags:
   - '@matthew-e-white'
   - '2020s'
-stub: true
 ---
 
 ## Matthew E. White

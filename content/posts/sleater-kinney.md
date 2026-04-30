@@ -1,17 +1,14 @@
 ---
-title: "Sleater-Kinney"
+title: "Sleater Kinney"
+slug: "sleater-kinney"
 date: 2019-07-31
-category: "artist"
-track_count: 8
-first_year: 1996
-last_year: 2019
+layout: post
 tags:
   - '@sleater-kinney'
   - '00s-10s'
   - '1900s'
   - 'riot grrrl'
   - 'queercore'
-stub: true
 ---
 
 ## Sleater-Kinney

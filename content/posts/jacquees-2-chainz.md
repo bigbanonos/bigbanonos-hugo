@@ -1,10 +1,8 @@
 ---
-title: "Jacquees;2 Chainz"
+title: "Jacquees 2 Chainz"
+slug: "jacquees-2-chainz"
 date: 2021-12-17
-category: "artist"
-track_count: 2
-first_year: 2021
-last_year: 2021
+layout: post
 tags:
   - '@jacquees-2-chainz'
   - '@jacques'
@@ -13,7 +11,6 @@ tags:
   - 'french house'
   - 'r&b'
   - 'trap soul'
-stub: true
 ---
 
 ## Jacquees;2 Chainz

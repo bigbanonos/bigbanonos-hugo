@@ -1,10 +1,8 @@
 ---
-title: "B.o.B;Ray Moon"
+title: "B O B Ray Moon"
+slug: "b-o-b-ray-moon"
 date: 2022-08-19
-category: "artist"
-track_count: 3
-first_year: 2013
-last_year: 2022
+layout: post
 tags:
   - '@b-o-b-ray-moon'
   - '@b-o-b'
@@ -13,7 +11,6 @@ tags:
   - '2020s'
   - 'southern hip hop'
   - 'crunk'
-stub: true
 ---
 
 ## B.o.B;Ray Moon

@@ -1,8 +1,8 @@
 ---
-title: "Anderson .Paak"
+title: "Anderson Paak"
+slug: "anderson-paak"
 date: 2020-06-19
-category: "1off"
-era: "2020s"
+layout: post
 tags:
   - '@andersonpaak'
   - '1-off'

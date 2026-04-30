@@ -1,12 +1,12 @@
 ---
-title: "' 'Wilfy D'
-'"
+title: "Wilfy D"
+slug: "wilfy-d"
 date: 2025-01-11
-original_title: "'Wilfy D'"
+layout: post
 tags:
   - '@wilfyd'
-layout: post
 ---
+
 <div class="post-title"> <h1>BigBanonos' Favorite Songs by Wilfy D</h1>
 </div>
 <p>Updated August 20, 2021, with "90s Baby" from the album <i>90s Baby</i>, highlighted in the playlist below:</p>

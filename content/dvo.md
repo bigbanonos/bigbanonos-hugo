@@ -1,14 +1,14 @@
 ---
-title: "' 'D'Vo'
-'"
+title: "Dvo"
+slug: "dvo"
 date: 2025-01-17
-original_title: "'D'Vo'"
+layout: post
 tags:
   - '@dvo'
   - '@ogronc'
   - '@thechopstars'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by D'Vo</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab67616100005174a0743e9575508e984a6afedd" alt="D'Vo" >}}

@@ -1,12 +1,12 @@
 ---
-title: "' 'The Amps'
-'"
+title: "The Amps"
+slug: "the-amps"
 date: 2025-02-10
-original_title: "'The Amps'"
+layout: post
 tags:
   - '@amps'
-layout: post
 ---
+
 <h3>BigBanonos Favorite Tracks: The Amps</h3>
 <div class="separator" > <a href="https://upload.wikimedia.org/wikipedia/commons/6/60/Kim_Deal_playing_guitar_with_The_Amps.jpg"> <img alt="The Amps" border="0" height="350" src="https://upload.wikimedia.org/wikipedia/commons/6/60/Kim_Deal_playing_guitar_with_The_Amps.jpg" /> </a>
 </div> <p>BigBanonos celebrates <strong>The Amps</strong>, a side project by Kim Deal, with six iconic tracks from their 1995 album <em>Pacer</em>. These songs exemplify their raw, garage-rock charm and stand as a testament to Deal's distinctive artistry.</p> <ol> <li><strong>Bragging Party</strong> â€ <em>1995</em> â€ Pacer</li> <li><strong>Dedicated</strong> â€ <em>1995</em> â€ Pacer</li> <li><strong>Full On Idle</strong> â€ <em>1995</em> â€ Pacer</li> <li><strong>Mom's Drunk</strong> â€ <em>1995</em> â€ Pacer</li> <li><strong>She's A Girl</strong> â€ <em>1995</em> â€ Pacer</li> <li><strong>Tipp City</strong> â€ <em>1995</em> â€ Pacer</li>

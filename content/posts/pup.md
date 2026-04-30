@@ -1,10 +1,8 @@
 ---
-title: "PUP"
+title: "Pup"
+slug: "pup"
 date: 2025-05-02
-category: "artist"
-track_count: 6
-first_year: 2021
-last_year: 2025
+layout: post
 tags:
   - '@pup'
   - '2020s'
@@ -12,7 +10,6 @@ tags:
   - 'indie punk'
   - 'emo'
   - 'punk'
-stub: true
 ---
 
 ## PUP

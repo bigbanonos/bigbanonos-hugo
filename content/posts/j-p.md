@@ -1,16 +1,13 @@
 ---
-title: "J.P."
+title: "J P"
+slug: "j-p"
 date: 2024-08-02
-category: "artist"
-track_count: 4
-first_year: 2024
-last_year: 2024
+layout: post
 tags:
   - '@j-p'
   - '@j-p-nle-choppa'
   - '2020s'
   - 'sexy drill'
-stub: true
 ---
 
 ## J.P.

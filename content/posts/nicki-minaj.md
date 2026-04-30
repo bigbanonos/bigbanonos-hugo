@@ -1,10 +1,8 @@
 ---
 title: "Nicki Minaj"
+slug: "nicki-minaj"
 date: 2023-09-01
-category: "artist"
-track_count: 3
-first_year: 2012
-last_year: 2023
+layout: post
 tags:
   - '@nicki-minaj'
   - '@nicki-minaj-2-chainz'
@@ -14,7 +12,6 @@ tags:
   - 'rap'
   - 'southern hip hop'
   - 'hip hop'
-stub: true
 ---
 
 ## Nicki Minaj

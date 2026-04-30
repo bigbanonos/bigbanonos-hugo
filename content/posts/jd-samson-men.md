@@ -1,17 +1,14 @@
 ---
-title: "JD Samson & MEN"
+title: "Jd Samson Men"
+slug: "jd-samson-men"
 date: 2013-08-06
-category: "artist"
-track_count: 6
-first_year: 2011
-last_year: 2013
+layout: post
 tags:
   - '@jd-samson-men'
   - '@jd-samson-men'
   - '00s-10s'
   - 'riot grrrl'
   - 'nu disco'
-stub: true
 ---
 
 ## JD Samson & MEN

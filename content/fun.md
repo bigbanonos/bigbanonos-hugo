@@ -1,12 +1,12 @@
 ---
-title: "' 'fun'
-'"
+title: "Fun"
+slug: "fun"
 date: 2024-12-28
-original_title: "'fun'"
+layout: post
 tags:
   - '@fun'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonos Favorite Song by fun: "One Foot"</h1> <!-- Introductory Text -->
 <p >Updated February 21, 2012, with "One Foot" by fun This standout track from the album *Some Nights* showcases the bandâ€™s signature baroque pop and metropopolis style, blending theatrical melodies with introspective lyrics. Watch the video below!</p> <!-- Featured Image -->

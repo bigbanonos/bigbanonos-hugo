@@ -1,10 +1,8 @@
 ---
 title: "Joyce Manor"
+slug: "joyce-manor"
 date: 2026-01-27
-category: "artist"
-track_count: 2
-first_year: 2020
-last_year: 2026
+layout: post
 tags:
   - '@joyce-manor'
   - '2020s'
@@ -12,7 +10,6 @@ tags:
   - 'pop punk'
   - 'emo'
   - 'indie punk'
-stub: true
 ---
 
 ## Joyce Manor

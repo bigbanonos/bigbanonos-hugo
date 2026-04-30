@@ -1,12 +1,12 @@
 ---
-title: "' 'Best Coast'
-'"
+title: "Best Coast On Tunespeak"
+slug: "best-coast-on-tunespeak"
 date: 2024-11-03
-original_title: "'Best Coast - 5 Songs + Cover'"
+layout: post
 tags:
   - '@bestcoast'
-layout: post
 ---
+
 <h2>BigBanonos' Top 5 Favorite Songs by Best Coast</h2> <!--Search Description-->
 <p>BigBanonos' favorite tracks by Best Coast, featuring standout indie rock and noise pop songs. Discover highlights like "Boyfriend" and "For The First Time" on BigBanonos.</p> <!--Spotify Playlist Embed-->
 {{< youtube "embed" >}} <!--Song Listings-->

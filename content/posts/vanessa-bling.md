@@ -1,10 +1,8 @@
 ---
 title: "Vanessa Bling"
+slug: "vanessa-bling"
 date: 2025-06-06
-category: "artist"
-track_count: 11
-first_year: 2011
-last_year: 2025
+layout: post
 tags:
   - '@vanessa-bling'
   - '@gaza-slim'
@@ -16,7 +14,6 @@ tags:
   - 'dancehall'
   - 'riddim'
   - 'soca'
-stub: true
 ---
 
 ## Vanessa Bling

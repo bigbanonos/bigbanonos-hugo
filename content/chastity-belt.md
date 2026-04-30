@@ -1,12 +1,12 @@
 ---
-title: "' 'Chastity Belt'
-'"
+title: "Chastity Belt"
+slug: "chastity-belt"
 date: 2025-01-17
-original_title: "'Chastity Belt'"
+layout: post
 tags:
   - '@chastitybelt'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Tracks by Chastity Belt</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab67616d0000b2734531d329f5a25af6116ebde6" alt="Chastity Belt" >}}

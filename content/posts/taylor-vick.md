@@ -1,15 +1,12 @@
 ---
 title: "Taylor Vick"
+slug: "taylor-vick"
 date: 2021-07-27
-category: "artist"
-track_count: 2
-first_year: 2019
-last_year: 2021
+layout: post
 tags:
   - '@taylor-vick'
   - '00s-10s'
   - '2020s'
-stub: true
 ---
 
 ## Taylor Vick

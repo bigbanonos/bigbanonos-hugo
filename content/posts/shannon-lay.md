@@ -1,15 +1,12 @@
 ---
 title: "Shannon Lay"
+slug: "shannon-lay"
 date: 2021-07-14
-category: "artist"
-track_count: 2
-first_year: 2017
-last_year: 2021
+layout: post
 tags:
   - '@shannon-lay'
   - '00s-10s'
   - '2020s'
-stub: true
 ---
 
 ## Shannon Lay

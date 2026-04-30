@@ -1,12 +1,12 @@
 ---
-title: "' 'Dawn Penn'
-'"
+title: "Dawn Penn"
+slug: "dawn-penn"
 date: 2025-01-17
-original_title: "'Dawn Penn'"
+layout: post
 tags:
   - '@dawnpenn'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Dawn Penn</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab67616d0000b2733260aeb9dbc740c568a86017" alt="Dawn Penn" >}}

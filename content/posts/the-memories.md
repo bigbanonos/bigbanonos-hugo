@@ -1,14 +1,11 @@
 ---
 title: "The Memories"
+slug: "the-memories"
 date: 2015-07-17
-category: "artist"
-track_count: 5
-first_year: 2013
-last_year: 2015
+layout: post
 tags:
   - '@the-memories'
   - '00s-10s'
-stub: true
 ---
 
 ## The Memories

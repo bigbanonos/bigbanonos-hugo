@@ -1,16 +1,13 @@
 ---
 title: "Caroline Polachek"
+slug: "caroline-polachek"
 date: 2023-10-17
-category: "artist"
-track_count: 10
-first_year: 2019
-last_year: 2023
+layout: post
 tags:
   - '@caroline-polachek'
   - '00s-10s'
   - '2020s'
   - 'art pop'
-stub: true
 ---
 
 ## Caroline Polachek

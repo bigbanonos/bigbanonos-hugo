@@ -1,10 +1,8 @@
 ---
 title: "Ging"
+slug: "ging"
 date: 2023-07-21
-category: "artist"
-track_count: 5
-first_year: 1995
-last_year: 2023
+layout: post
 tags:
   - '@ging'
   - '@gayle'
@@ -18,7 +16,6 @@ tags:
   - 'americana'
   - 'roots rock'
   - 'power pop'
-stub: true
 ---
 
 ## Ging

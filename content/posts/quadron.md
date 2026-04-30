@@ -1,14 +1,11 @@
 ---
 title: "Quadron"
+slug: "quadron"
 date: 2013-05-31
-category: "artist"
-track_count: 2
-first_year: 2010
-last_year: 2013
+layout: post
 tags:
   - '@quadron'
   - '00s-10s'
-stub: true
 ---
 
 ## Quadron

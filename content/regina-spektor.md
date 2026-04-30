@@ -1,12 +1,12 @@
 ---
-title: "' 'Regina Spektor'
-'"
+title: "Regina Spektor"
+slug: "regina-spektor"
 date: 2024-12-29
-original_title: "'Regina Spektor'"
+layout: post
 tags:
   - '@reginaspektor'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonos Favorite Song by Regina Spektor: "That Time"</h1> <!-- Introductory Text -->
 <p >Updated June 13, 2006, with "That Time" by Regina Spektor. This witty and nostalgic track from her album *Begin to Hope*, released by Sire Records, showcases her unique blend of indie pop and piano-driven melodies. Watch and listen below!</p> <!-- Featured Image -->

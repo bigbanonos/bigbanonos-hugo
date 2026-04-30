@@ -1,15 +1,12 @@
 ---
 title: "Neneh Cherry"
+slug: "neneh-cherry"
 date: 2015-06-15
-category: "artist"
-track_count: 2
-first_year: 1996
-last_year: 2015
+layout: post
 tags:
   - '@neneh-cherry'
   - '00s-10s'
   - '1900s'
-stub: true
 ---
 
 ## Neneh Cherry

@@ -1,14 +1,14 @@
 ---
-title: "' 'Lloyd'
-'"
+title: "Lloyd"
+slug: "lloyd"
 date: 2024-12-14
-original_title: "'Lloyd'"
+layout: post
 tags:
   - '@lloyd'
   - '@lilwayne'
   - '@andre3000'
-layout: post
 ---
+
 <!-- Post Title -->
 <h1 >BigBanonos' Favorite Tracks: Lloyd, AndrÃƒÆ’Ã‚Â© 3000 & Lil Wayne - "Dedication To My Ex (Miss That)"</h1> <!-- Introductory Text -->
 <p >Updated January 1, 2011, with "Dedication To My Ex (Miss That)" by Lloyd featuring AndrÃƒÆ’Ã‚Â© 3000 and Lil Wayne. This genre-blending track from the album <em>King Of Hearts</em>, released under Zone 4 Inc/Interscope, is a standout in hip hop, R&B, and pop.</p> <!-- Featured Image -->

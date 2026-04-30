@@ -1,14 +1,11 @@
 ---
 title: "Fine Young Cannibals"
+slug: "fine-young-cannibals"
 date: 1988-01-01
-category: "artist"
-track_count: 3
-first_year: 1988
-last_year: 1988
+layout: post
 tags:
   - '@fine-young-cannibals'
   - '1900s'
-stub: true
 ---
 
 ## Fine Young Cannibals

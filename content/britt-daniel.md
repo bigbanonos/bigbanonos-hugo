@@ -1,12 +1,12 @@
 ---
-title: "' 'Britt Daniel'
-'"
+title: "Britt Daniel"
+slug: "britt-daniel"
 date: 2024-12-27
-original_title: "'Britt Daniel'"
+layout: post
 tags:
   - '@brittdaniel'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonos Favorite Song by Britt Daniel: "You Get Yours"</h1> <!-- Introductory Text -->
 <p >Updated July 11, 2002, with "You Get Yours" by Britt Daniel. This introspective track from *Home, Vol. 4* showcases the Spoon frontman's signature blend of indie rock minimalism and heartfelt lyricism. Watch the video below!</p> <!-- Featured Image -->

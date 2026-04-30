@@ -1,10 +1,8 @@
 ---
 title: "Rygin King"
+slug: "rygin-king"
 date: 2020-10-01
-category: "artist"
-track_count: 3
-first_year: 2018
-last_year: 2020
+layout: post
 tags:
   - '@rygin-king'
   - '@rygin-king-trevor-jackson-nadia-stone'
@@ -12,7 +10,6 @@ tags:
   - '2020s'
   - 'dancehall'
   - 'uk garage'
-stub: true
 ---
 
 ## Rygin King

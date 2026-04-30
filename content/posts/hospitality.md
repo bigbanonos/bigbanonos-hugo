@@ -1,14 +1,11 @@
 ---
 title: "Hospitality"
+slug: "hospitality"
 date: 2012-01-31
-category: "artist"
-track_count: 2
-first_year: 2012
-last_year: 2012
+layout: post
 tags:
   - '@hospitality'
   - '00s-10s'
-stub: true
 ---
 
 ## Hospitality

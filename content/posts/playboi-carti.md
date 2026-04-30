@@ -1,10 +1,8 @@
 ---
 title: "Playboi Carti"
+slug: "playboi-carti"
 date: 2020-12-25
-category: "artist"
-track_count: 3
-first_year: 2017
-last_year: 2020
+layout: post
 tags:
   - '@playboi-carti'
   - '@playboi-carti-lil-uzi-vert'
@@ -12,7 +10,6 @@ tags:
   - '2020s'
   - 'rage rap'
   - 'melodic rap'
-stub: true
 ---
 
 ## Playboi Carti

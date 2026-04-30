@@ -1,8 +1,8 @@
 ---
-title: "' 'Beyonce'
-'"
+title: "Beyonce"
+slug: "beyonce"
 date: 2024-12-17
-original_title: "'Beyonce - 27 Songs + #NotOnSpotify'"
+layout: post
 tags:
   - '@shaboozey'
   - '@slimthug'
@@ -17,8 +17,8 @@ tags:
   - '@wizkid'
   - '@rumicarter'
   - '@saintjhn'
-layout: post
 ---
+
 <h3><em>BigBanonos</em> Top 25+ BeyoncÃƒÆ’Ã‚Â© Songs:</h3>
 <p></p>
 <div class="separator"> <a href="https://ktla.com/wp-content/uploads/sites/4/2024/11/beyonce_1730792989_3494467329990080046_247944034.jpg" > <img alt="" border="0" data-original-height="1800" data-original-width="1440" height="320" src="https://ktla.com/wp-content/uploads/sites/4/2024/11/beyonce_1730792989_3494467329990080046_247944034.jpg" /> </a>

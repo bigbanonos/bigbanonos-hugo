@@ -1,10 +1,8 @@
 ---
 title: "The Weeknd"
+slug: "the-weeknd"
 date: 2025-05-09
-category: "artist"
-track_count: 30
-first_year: 2012
-last_year: 2025
+layout: post
 tags:
   - '@the-weeknd'
   - '@the-creator'
@@ -23,7 +21,6 @@ tags:
   - 'rage rap'
   - 'french house'
   - 'electronic'
-stub: true
 ---
 
 ## The Weeknd

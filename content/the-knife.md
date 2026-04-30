@@ -1,14 +1,14 @@
 ---
-title: "' 'The Knife'
-'"
+title: "The Knife"
+slug: "the-knife"
 date: 2025-02-12
-original_title: "'The Knife'"
+layout: post
 tags:
   - '@knife'
   - '@planningtorock'
   - '@mountsims'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1>BigBanonosâ€™ Favorite Songs by The Knife</h1> <!-- Introductory Text -->
 <p>The Knifeâ€™s avant-garde approach to electronic music has set them apart as trailblazers in the genres of indietronica, art pop, and neo-synthpop. BigBanonos revisits their standout tracks, showcasing their innovative and haunting soundscapes.</p> <!-- Featured Image -->

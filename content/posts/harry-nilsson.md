@@ -1,10 +1,8 @@
 ---
 title: "Harry Nilsson"
+slug: "harry-nilsson"
 date: 2017-09-29
-category: "artist"
-track_count: 9
-first_year: 2017
-last_year: 2017
+layout: post
 tags:
   - '@harry-nilsson'
   - '@robin-williams'
@@ -14,7 +12,6 @@ tags:
   - 'singer-songwriter'
   - 'celtic'
   - 'comedy'
-stub: true
 ---
 
 ## Harry Nilsson

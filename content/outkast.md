@@ -1,16 +1,16 @@
 ---
-title: "' 'OutKast'
-'"
+title: "Outkast"
+slug: "outkast"
 date: 2025-02-10
-original_title: "'OutKast'"
+layout: post
 tags:
   - '@jazzepha'
   - '@gangstaboo'
   - '@sleepybrown'
   - '@outkast'
   - '@eco'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1>BigBanonosâ€™ Favorite Songs by Outkast</h1> <!-- Featured Image -->
 <div> {{< img-lite src="https://i.scdn.co/image/ab67616d00001e022350e31bc346a6c20e9de166" alt="Outkast" >}}

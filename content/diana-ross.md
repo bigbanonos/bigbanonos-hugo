@@ -1,12 +1,12 @@
 ---
-title: "' 'Diana Ross'
-'"
+title: "Diana Ross"
+slug: "diana-ross"
 date: 2025-01-19
-original_title: "'Diana Ross'"
+layout: post
 tags:
   - '@dianaross'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Diana Ross</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab67616100005174db59e1c017a93648b119f0cc" alt="Diana Ross" >}}

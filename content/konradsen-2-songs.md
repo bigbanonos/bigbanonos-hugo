@@ -1,12 +1,12 @@
 ---
-title: "' 'Konradsen'
-'"
+title: "Konradsen"
+slug: "konradsen"
 date: 2024-12-13
-original_title: "'Konradsen'"
+layout: post
 tags:
   - '@konradsen'
-layout: post
 ---
+
 <!-- Post Title -->
 <h1 >BigBanonos' Favorite Tracks: Konradsen - "Dice" and Television Land [2019]</h1> <!-- Introductory Text -->
 <p >Updated October 2, 2019, with "Dice" by Konradsen. This Oslo indie pop gem is a heartfelt and atmospheric track released under the Cascine label.</p> <!-- Featured Image -->

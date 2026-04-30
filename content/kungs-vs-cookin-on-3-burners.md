@@ -1,13 +1,13 @@
 ---
-title: "' 'Kungs vs Cookin' On 3 Burners'
-'"
+title: "Kungs Vs Cookin On 3 Burners"
+slug: "kungs-vs-cookin-on-3-burners"
 date: 2024-12-13
-original_title: "'Kungs vs Cookin' On 3 Burners'"
+layout: post
 tags:
   - '@kungs'
   - '@cookinon3burners'
-layout: post
 ---
+
 <!-- Post Title -->
 <h1 >BigBanonos' Favorite Tracks: Kungs & Cookin' On 3 Burners - "This Girl"</h1> <!-- Introductory Text -->
 <p >Updated February 19, 2016, with "This Girl" by Kungs vs. Cookin' On 3 Burners. This vibrant EDM track fuses instrumental fun with pop dance and UK dance influences, making it an unforgettable anthem.</p> <!-- Featured Image -->

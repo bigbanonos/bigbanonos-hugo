@@ -1,15 +1,12 @@
 ---
 title: "Nadine Shah"
+slug: "nadine-shah"
 date: 2017-08-25
-category: "artist"
-track_count: 2
-first_year: 2015
-last_year: 2017
+layout: post
 tags:
   - '@nadine-shah'
   - '00s-10s'
   - 'art rock'
-stub: true
 ---
 
 ## Nadine Shah

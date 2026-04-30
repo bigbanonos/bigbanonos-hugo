@@ -1,13 +1,13 @@
 ---
-title: "' 'Cursive'
-'"
+title: "Cursive"
+slug: "cursive"
 date: 2025-04-07
-original_title: "'Cursive'"
+layout: post
 tags:
   - '@cursive'
   - '@brighteyes'
-layout: post
 ---
+
 <!--Post Title-->
 <h1>BigBanonos' Favorite Song by Cursive</h1> <!--Introductory Text-->
 <p>On March 31, <a href="https://bigbanonos.blogspot.com/2015/12/conor-oberst-bright-eyes.html">Bright Eyes</a> and Cursive released a mashup of the genius Bright Eyes tuned, "A Lover (I Don't Have To Love) and BigBanonos' favorite track, "The Recluse" by Cursive. This emo anthem from their critically acclaimed album *The Ugly Organ* merged with Conor's lyrics who likes her shoes.</p> <iframe seamless="" src="https://bandcamp.com/EmbeddedPlayer/track=1225240367/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/"><a href="https://brighteyes.bandcamp.com/track/recluse-i-dont-have-to-love">Recluse I Don't Have To Love by Bright Eyes, Cursive</a></iframe><div><br /> <!--Featured Image-->

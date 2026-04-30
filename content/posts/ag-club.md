@@ -1,9 +1,8 @@
 ---
-title: "AG Club"
+title: "Ag Club"
+slug: "ag-club"
 date: 2021-04-30
-category: "1off"
-genre_primary: "rap"
-era: "2020s"
+layout: post
 tags:
   - '@agclub'
   - '1-off'

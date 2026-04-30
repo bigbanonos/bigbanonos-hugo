@@ -1,12 +1,12 @@
 ---
-title: "' 'Cheap Trick'
-'"
+title: "Cheap Trick"
+slug: "cheap-trick"
 date: 2025-01-17
-original_title: "'Cheap Trick'"
+layout: post
 tags:
   - '@cheaptrick'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Tracks by Cheap Trick</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab67616d0000b273fd403470e19d4882e117d59b" alt="Cheap Trick" >}}

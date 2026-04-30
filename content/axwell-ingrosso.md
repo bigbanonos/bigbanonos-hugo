@@ -1,13 +1,13 @@
 ---
-title: "' 'Axwell /\ Ingrosso'
-'"
+title: "Axwell Ingrosso"
+slug: "axwell-ingrosso"
 date: 2024-11-30
-original_title: "'Axwell /\ Ingrosso'"
+layout: post
 tags:
   - '@chace'
   - '@axwellingrosso'
-layout: post
 ---
+
 <!-- Post Title -->
 <h1 >BigBanonos' Favorite Song by Axwell /\ Ingrosso and Chace</h1> <!-- Introductory Text -->
 <p >Updated April 28, 2017, with BigBanonos' favorite song by Axwell /\ Ingrosso and Chace, "I Love You - Chace Remix," released under EMI. Watch the video and see more details below:</p> <!-- Featured Image -->

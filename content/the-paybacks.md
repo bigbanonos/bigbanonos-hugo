@@ -1,12 +1,12 @@
 ---
-title: "' 'The Paybacks'
-'"
+title: "The Paybacks"
+slug: "the-paybacks"
 date: 2024-12-29
-original_title: "'The Paybacks'"
+layout: post
 tags:
   - '@paybacks'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonos Favorite Song by The Paybacks: "Just You Wait"</h1> <!-- Introductory Text -->
 <p >Updated January 1, 2003, with "Just You Wait" by The Paybacks. This high-energy rock anthem showcases the bandâ€™s gritty sound and raw power, making it a standout track in their discography. Watch the video below!</p> <!-- Featured Image -->

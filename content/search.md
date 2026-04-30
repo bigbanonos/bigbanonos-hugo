@@ -1,7 +1,8 @@
 ---
 title: "Search"
-layout: "single"
-summary: "search"
+slug: "search"
+date: 2020-01-01
+layout: post
 ---
 
 <script src="https://cdn.jsdelivr.net/npm/fuse.js@6.6.2"></script>

@@ -1,13 +1,13 @@
 ---
-title: "' 'Cassius Clay (Muhammad Ali)'
-'"
+title: "Cassius Clay Muhammad Ali"
+slug: "cassius-clay-muhammad-ali"
 date: 2025-01-17
-original_title: "'Cassius Clay (Muhammad Ali)'"
+layout: post
 tags:
   - '@cassiusclay'
   - '@muhammadali'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Tracks by Cassius Clay (Muhammad Ali)</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_1YmB0Ld2IvY1ubf91r6My9yQ44bXMiuAyQ&s" alt="Cassius Clay / Muhammad Ali" >}}

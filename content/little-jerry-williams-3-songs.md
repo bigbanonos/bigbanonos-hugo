@@ -1,13 +1,13 @@
 ---
-title: "' 'Little Jerry Williams'
-'"
+title: "Little Jerry Williams"
+slug: "little-jerry-williams"
 date: 2025-01-16
-original_title: "'Little Jerry Williams - 3 Songs'"
+layout: post
 tags:
   - '@swampdogg'
   - '@littlejerrywilliams'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1>BigBanonosâ€™ Favorite Songs by Little Jerry Williams</h1> <!-- Introductory Text -->
 <p>Little Jerry Williams, known for his electrifying soul and rhythm and blues, continues to charm listeners with timeless tracks. BigBanonos highlights some of his best work from the classic era of R&B.</p> <!-- Featured Image -->

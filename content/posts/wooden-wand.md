@@ -1,17 +1,14 @@
 ---
 title: "Wooden Wand"
+slug: "wooden-wand"
 date: 2014-12-18
-category: "artist"
-track_count: 4
-first_year: 2011
-last_year: 2014
+layout: post
 tags:
   - '@wooden-wand'
   - '00s-10s'
   - 'americana'
   - 'alt country'
   - 'folk punk'
-stub: true
 ---
 
 ## Wooden Wand

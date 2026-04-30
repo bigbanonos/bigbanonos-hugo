@@ -1,10 +1,8 @@
 ---
 title: "Cash Kidd"
+slug: "cash-kidd"
 date: 2025-12-24
-category: "artist"
-track_count: 9
-first_year: 2019
-last_year: 2025
+layout: post
 tags:
   - '@cash-kidd'
   - '@cash-kidd-bfb-da-packman'
@@ -14,7 +12,6 @@ tags:
   - '00s-10s'
   - '2020s'
   - 'chicago drill'
-stub: true
 ---
 
 ## Cash Kidd

@@ -1,10 +1,8 @@
 ---
 title: "Marvin Gaye"
+slug: "marvin-gaye"
 date: 2019-10-18
-category: "artist"
-track_count: 11
-first_year: 1963
-last_year: 2019
+layout: post
 tags:
   - '@marvin-gaye'
   - '@marvin-gaye-kim-weston'
@@ -14,7 +12,6 @@ tags:
   - 'classic soul'
   - 'soul'
   - 'northern soul'
-stub: true
 ---
 
 ## Marvin Gaye

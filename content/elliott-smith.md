@@ -1,12 +1,12 @@
 ---
-title: "' 'Elliott Smith'
-'"
+title: "Elliott Smith"
+slug: "elliott-smith"
 date: 2024-12-20
-original_title: "'Elliott Smith'"
+layout: post
 tags:
   - '@elliottsmith'
-layout: post
 ---
+
 <h2>BigBanonos' Favorite Elliott Smith Songs</h2> <p>Updated August 25, 1998 with "Miss Misery"</p> <div > <img src="https://thebuddharats.wordpress.com/wp-content/uploads/2023/10/elliotsmith.jpg" alt="Elliott Smith" width="400" />
 </div> <div > {{< youtube "embed" >}}
 </div> <h3>Selected Tracks</h3>

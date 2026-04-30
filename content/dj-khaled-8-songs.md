@@ -1,8 +1,8 @@
 ---
-title: "' 'DJ Khaled'
-'"
+title: "Dj Khaled"
+slug: "dj-khaled"
 date: 2024-12-21
-original_title: "'DJ Khaled - 8 Songs'"
+layout: post
 tags:
   - '@liluzi'
   - '@sza'
@@ -17,8 +17,8 @@ tags:
   - '@citygirls'
   - '@lilwayne'
   - '@lilbaby'
-layout: post
 ---
+
  <h3><em>BigBanonos</em> Favorite Songs by DJ Khaled:</h3> <p>Updated on August 11, 2023, with the track â€œSUPPOSED TO BE LOVED (feat. Lil Baby, Future & Lil Uzi Vert).â€ BigBanonos highlights top DJ Khaled songs that showcase his signature blend of hip hop, rap, and star-studded collaborations.</p> <!--Image-->
 <div class="separator"> <a href="https://miro.medium.com/v2/resize:fit:1400/1*Zdt2NFm07C9CvZJ_yGF4LQ.jpeg" > <img alt="DJ Khaled" src="https://miro.medium.com/v2/resize:fit:1400/1*Zdt2NFm07C9CvZJ_yGF4LQ.jpeg" /> </a>
 </div> <!--Spotify Playlist Embed-->

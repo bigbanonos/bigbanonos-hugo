@@ -1,15 +1,12 @@
 ---
-title: "SOAK"
+title: "Soak"
+slug: "soak"
 date: 2022-05-16
-category: "artist"
-track_count: 4
-first_year: 2015
-last_year: 2022
+layout: post
 tags:
   - '@soak'
   - '00s-10s'
   - '2020s'
-stub: true
 ---
 
 ## SOAK

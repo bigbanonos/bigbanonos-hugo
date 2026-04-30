@@ -1,17 +1,14 @@
 ---
 title: "Bryson Tiller"
+slug: "bryson-tiller"
 date: 2022-09-08
-category: "artist"
-track_count: 4
-first_year: 2015
-last_year: 2022
+layout: post
 tags:
   - '@bryson-tiller'
   - '00s-10s'
   - '2020s'
   - 'trap soul'
   - 'r&b'
-stub: true
 ---
 
 ## Bryson Tiller

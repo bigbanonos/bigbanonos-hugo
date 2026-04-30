@@ -1,10 +1,8 @@
 ---
 title: "Creedence Clearwater Revival"
+slug: "creedence-clearwater-revival"
 date: 2008-12-22
-category: "artist"
-track_count: 5
-first_year: 1976
-last_year: 2008
+layout: post
 tags:
   - '@creedence-clearwater-revival'
   - '00s-10s'
@@ -12,7 +10,6 @@ tags:
   - 'classic rock'
   - 'southern rock'
   - 'country rock'
-stub: true
 ---
 
 ## Creedence Clearwater Revival

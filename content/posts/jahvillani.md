@@ -1,10 +1,8 @@
 ---
 title: "Jahvillani"
+slug: "jahvillani"
 date: 2019-06-28
-category: "artist"
-track_count: 3
-first_year: 2018
-last_year: 2019
+layout: post
 tags:
   - '@jahvillani'
   - '@jahvillani-konshens'
@@ -13,7 +11,6 @@ tags:
   - 'soca'
   - 'riddim'
   - 'ragga'
-stub: true
 ---
 
 ## Jahvillani

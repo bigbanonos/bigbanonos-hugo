@@ -1,17 +1,14 @@
 ---
 title: "Son"
+slug: "son"
 date: 2001-09-10
-category: "artist"
-track_count: 5
-first_year: 2001
-last_year: 2001
+layout: post
 tags:
   - '@son'
   - '@ambulance'
   - '@ambulance-bright-eyes'
   - '00s-10s'
   - 'indie folk'
-stub: true
 ---
 
 ## Son

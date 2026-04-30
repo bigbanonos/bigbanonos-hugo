@@ -1,17 +1,14 @@
 ---
 title: "Kilo Kish"
+slug: "kilo-kish"
 date: 2022-10-21
-category: "artist"
-track_count: 5
-first_year: 2019
-last_year: 2022
+layout: post
 tags:
   - '@kilo-kish'
   - '00s-10s'
   - '2020s'
   - 'alternative r&b'
   - 'art pop'
-stub: true
 ---
 
 ## Kilo Kish

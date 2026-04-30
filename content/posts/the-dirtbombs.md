@@ -1,17 +1,14 @@
 ---
 title: "The Dirtbombs"
+slug: "the-dirtbombs"
 date: 2013-09-17
-category: "artist"
-track_count: 7
-first_year: 1998
-last_year: 2013
+layout: post
 tags:
   - '@the-dirtbombs'
   - '00s-10s'
   - '1900s'
   - 'garage rock'
   - 'proto-punk'
-stub: true
 ---
 
 ## The Dirtbombs

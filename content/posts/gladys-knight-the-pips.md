@@ -1,10 +1,8 @@
 ---
-title: "Gladys Knight & The Pips"
+title: "Gladys Knight The Pips"
+slug: "gladys-knight-the-pips"
 date: 1998-11-16
-category: "artist"
-track_count: 5
-first_year: 1973
-last_year: 1998
+layout: post
 tags:
   - '@gladys-knight-the-pips'
   - '@gladys-knight'
@@ -13,7 +11,6 @@ tags:
   - 'classic soul'
   - 'soul'
   - 'northern soul'
-stub: true
 ---
 
 ## Gladys Knight & The Pips

@@ -1,16 +1,13 @@
 ---
 title: "Angry Angles"
+slug: "angry-angles"
 date: 2016-05-20
-category: "artist"
-track_count: 2
-first_year: 2016
-last_year: 2016
+layout: post
 tags:
   - '@angry-angles'
   - '00s-10s'
   - 'egg punk'
   - 'garage rock'
-stub: true
 ---
 
 ## Angry Angles

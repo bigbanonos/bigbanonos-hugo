@@ -1,12 +1,12 @@
 ---
-title: "' 'Mommy & Daddy'
-'"
+title: "Mommy Daddy"
+slug: "mommy-daddy"
 date: 2024-12-29
-original_title: "'Mommy & Daddy'"
+layout: post
 tags:
   - '@mommydaddy'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonos Favorite Song by Mommy & Daddy: "Beachy"</h1> <!-- Introductory Text -->
 <p >Updated January 1, 2003, with "Beachy" by Mommy & Daddy. This track from the album *Live How You Listen* under Big Cat (UK) Records perfectly blends a raw, lo-fi aesthetic with infectious energy. Watch the video below!</p> <!-- Featured Image -->

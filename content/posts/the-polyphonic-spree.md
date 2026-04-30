@@ -1,14 +1,11 @@
 ---
 title: "The Polyphonic Spree"
+slug: "the-polyphonic-spree"
 date: 2007-06-19
-category: "artist"
-track_count: 2
-first_year: 2002
-last_year: 2007
+layout: post
 tags:
   - '@the-polyphonic-spree'
   - '00s-10s'
-stub: true
 ---
 
 ## The Polyphonic Spree

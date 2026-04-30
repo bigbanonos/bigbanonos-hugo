@@ -1,14 +1,11 @@
 ---
 title: "Melanie"
+slug: "melanie"
 date: 1971-07-01
-category: "artist"
-track_count: 2
-first_year: 1971
-last_year: 1971
+layout: post
 tags:
   - '@melanie'
   - '1900s'
-stub: true
 ---
 
 ## Melanie

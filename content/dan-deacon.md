@@ -1,12 +1,12 @@
 ---
-title: "' 'Dan Deacon'
-'"
+title: "Dan Deacon"
+slug: "dan-deacon"
 date: 2024-12-11
-original_title: "'Dan Deacon'"
+layout: post
 tags:
   - '@dandeacon'
-layout: post
 ---
+
 <!-- Post Title -->
 <h1 >BigBanonos' Favorite Song by Dan Deacon</h1> <!-- Introductory Text -->
 <p >Updated February 23, 2015, with BigBanonos' favorite track, "Feel the Lightning" by Dan Deacon. This standout from the album *Gliss Riffer*, originally released under Domino Recording Co, showcases Deaconâ€™s mastery in blending experimental pop with indietronica and noise pop elements.</p> <!-- Featured Image -->

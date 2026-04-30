@@ -1,7 +1,8 @@
 ---
 title: "Hilary Duff"
+slug: "hilary-duff"
 date: 2026-04-16
-category: "artist"
+layout: post
 tags:
   - '@hilaryduff'
 ---

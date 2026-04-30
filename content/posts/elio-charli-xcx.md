@@ -1,17 +1,14 @@
 ---
-title: "ELIO;Charli xcx"
+title: "Elio Charli Xcx"
+slug: "elio-charli-xcx"
 date: 2022-08-05
-category: "artist"
-track_count: 2
-first_year: 2021
-last_year: 2022
+layout: post
 tags:
   - '@elio-charli-xcx'
   - '@elio'
   - '2020s'
   - 'hyperpop'
   - 'art pop'
-stub: true
 ---
 
 ## ELIO;Charli xcx

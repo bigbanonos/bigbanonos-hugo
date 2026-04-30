@@ -1,15 +1,12 @@
 ---
 title: "Cashan"
+slug: "cashan"
 date: 2026-02-16
-category: "artist"
-track_count: 2
-first_year: 2025
-last_year: 2026
+layout: post
 tags:
   - '@cashan'
   - '2020s'
   - 'dancehall'
-stub: true
 ---
 
 ## Cashan

@@ -1,14 +1,14 @@
 ---
-title: "' 'Juvenile'
-'"
+title: "Juvenile"
+slug: "juvenile"
 date: 2025-01-16
-original_title: "'Juvenile'"
+layout: post
 tags:
   - '@lilwayne'
   - '@juvenile'
   - '@manniefresh'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1>BigBanonosâ€™ Favorite Songs by Juvenile</h1> <!-- Introductory Text -->
 <p>Juvenileâ€™s groundbreaking style in Southern hip hop and bounce has left an indelible mark on the rap scene. BigBanonos highlights his best tracks, spanning his prolific career.</p> <!-- Featured Image -->

@@ -1,10 +1,8 @@
 ---
-title: "Plains;Waxahatchee;Jess Williamson"
+title: "Plains Waxahatchee Jess Williamson"
+slug: "plains-waxahatchee-jess-williamson"
 date: 2022-10-14
-category: "artist"
-track_count: 3
-first_year: 2022
-last_year: 2022
+layout: post
 tags:
   - '@plains-waxahatchee-jess-williamson'
   - '@plains-jess-williamson'
@@ -12,7 +10,6 @@ tags:
   - 'alt country'
   - 'americana'
   - 'southern gothic'
-stub: true
 ---
 
 ## Plains;Waxahatchee;Jess Williamson

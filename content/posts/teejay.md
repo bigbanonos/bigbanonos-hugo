@@ -1,7 +1,8 @@
 ---
 title: "Teejay"
+slug: "teejay"
 date: 2026-02-16
-category: "artist"
+layout: post
 tags:
   - '@teejay'
 ---

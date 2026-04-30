@@ -1,12 +1,12 @@
 ---
-title: "' 'Club Casualties'
-'"
+title: "Club Casualties"
+slug: "club-casualties"
 date: 2025-01-17
-original_title: "'Club Casualties'"
+layout: post
 tags:
   - '@clubcasualties'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Club Casualties</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab6761610000e5eb9c3279a1adcb843dc0780464" alt="Club Casualties" >}}

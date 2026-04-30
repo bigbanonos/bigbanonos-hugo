@@ -1,12 +1,12 @@
 ---
-title: "' 'Peggy Honeywell'
-'"
+title: "Peggy Honeywell"
+slug: "peggy-honeywell"
 date: 2024-12-29
-original_title: "'Peggy Honeywell'"
+layout: post
 tags:
   - '@peggyhoneywell'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonos Favorite Song by Peggy Honeywell: "Darlin' Man"</h1> <!-- Introductory Text -->
 <p >Updated January 1, 2003, with "Darlin' Man" by Peggy Honeywell. This soulful and heartfelt track from *Honey for Dinner* showcases Peggyâ€™s soothing vocals and timeless songwriting. Watch and listen below!</p> <!-- Featured Image -->

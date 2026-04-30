@@ -1,8 +1,8 @@
 ---
-title: "' 'Wiz Khalifa'
-'"
+title: "Wiz Khalifa"
+slug: "wiz-khalifa"
 date: 2025-01-11
-original_title: "'Wiz Khalifa'"
+layout: post
 tags:
   - '@suecothechild'
   - '@tyga'
@@ -10,8 +10,8 @@ tags:
   - '@wizkhalifa'
   - '@tydollasign'
   - '@mustard'
-layout: post
 ---
+
 <div class="post-title"> <h1>BigBanonos' Favorite Songs by Wiz Khalifa</h1>
 </div>
 <p>Updated July 29, 2022, with "Thank Him" from the album <i>Multiverse</i>, highlighted in the playlist below:</p>

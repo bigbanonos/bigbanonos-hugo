@@ -1,12 +1,12 @@
 ---
-title: "' 'Mavis John'
-'"
+title: "Mavis John"
+slug: "mavis-john"
 date: 2024-12-14
-original_title: "'Mavis John'"
+layout: post
 tags:
   - '@mavisjohn'
-layout: post
 ---
+
 <!-- Post Title -->
 <h1 >BigBanonos' Favorite Tracks: Mavis John - "Use My Body"</h1> <!-- Introductory Text -->
 <p >Updated September 16, 2016, with "Use My Body" by Mavis John. This soulful track from the compilation album <em>Mr Bongo Record Club, Vol. 1</em>, released under Mr Bongo, captures a timeless blend of passion and elegance, showcasing John's remarkable vocal talent.</p> <!-- Featured Image -->

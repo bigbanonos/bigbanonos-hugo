@@ -1,15 +1,12 @@
 ---
-title: "BROCKHAMPTON"
+title: "Brockhampton"
+slug: "brockhampton"
 date: 2022-11-17
-category: "artist"
-track_count: 4
-first_year: 2019
-last_year: 2022
+layout: post
 tags:
   - '@brockhampton'
   - '00s-10s'
   - '2020s'
-stub: true
 ---
 
 ## BROCKHAMPTON

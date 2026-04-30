@@ -1,15 +1,12 @@
 ---
-title: "EST Gee;Lil Baby;42 Dugg;Rylo Rodriguez"
+title: "Est Gee Lil Baby 42 Dugg Rylo Rodriguez"
+slug: "est-gee-lil-baby-42-dugg-rylo-rodriguez"
 date: 2021-07-21
-category: "artist"
-track_count: 2
-first_year: 2021
-last_year: 2021
+layout: post
 tags:
   - '@est-gee-lil-baby-42-dugg-rylo-rodriguez'
   - '@est-gee'
   - '2020s'
-stub: true
 ---
 
 ## EST Gee;Lil Baby;42 Dugg;Rylo Rodriguez

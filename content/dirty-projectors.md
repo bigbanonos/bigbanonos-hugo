@@ -1,12 +1,12 @@
 ---
-title: "' 'Dirty Projectors'
-'"
+title: "Dirty Projectors"
+slug: "dirty-projectors"
 date: 2024-11-24
-original_title: "'Dirty Projectors'"
+layout: post
 tags:
   - '@dirtyprojectors'
-layout: post
 ---
+
 <h2>Dirty Projectors â€“ Essential Tracks</h2> <div > <img src="https://media.pitchfork.com/photos/5e7a05e82a54c60008d8e395/2:1/w_2560%2Cc_limit/Dirty-Projectors.jpg" alt="Dirty Projectors" width="400" />
 </div> {{< youtube "embed" >}} <h3>Highlighted Tracks</h3>
 <ul> <li><strong>Impregnable Question</strong> â€“ <em>Swing Lo Magellan</em> (2012)</li> <li><strong>The Socialites</strong> â€“ <em>Swing Lo Magellan</em> (2012)</li> <li><strong>Stillness Is The Move</strong> â€“ <em>Bitte Orca</em> (2009)</li> <li><strong>Obscure Wisdom</strong> â€“ <em>The Getty Address</em> (2005)</li> <li><strong>Up In Hudson</strong> â€“ <em>Dirty Projectors</em> (2017)</li> <li><strong>Overlord</strong> â€“ <em>5EPs</em> (2020)</li> <li><strong>Lose Your Love</strong> â€“ <em>Lose Your Love</em> (2020)</li>

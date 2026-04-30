@@ -1,12 +1,12 @@
 ---
-title: "' 'Dubb Nubb'
-'"
+title: "Dubb Nubb"
+slug: "dubb-nubb"
 date: 2024-12-12
-original_title: "'Dubb Nubb'"
+layout: post
 tags:
   - '@dubbnubb'
-layout: post
 ---
+
 <!-- Post Title -->
 <h1 >BigBanonos' Favorite Song by Dubb Nubb</h1> <!-- Introductory Text -->
 <p >Updated November 18, 2011, with "Mound City Baby" by Dubb Nubb. This heartfelt track from their *Sunrise Sleepy Eyed* album, released under Special Passenger Records, highlights their unique blend of indie and country influences.</p> <!-- Featured Image -->

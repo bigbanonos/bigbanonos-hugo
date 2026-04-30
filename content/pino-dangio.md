@@ -1,12 +1,12 @@
 ---
-title: "' 'Pino D'AngiÃƒÆ’Ã‚Â²'
-'"
+title: "Pino Dangio"
+slug: "pino-dangio"
 date: 2024-12-15
-original_title: "'Pino D'AngiÃƒÆ’Ã‚Â²'"
+layout: post
 tags:
   - '@pinodangio'
-layout: post
 ---
+
 <!-- Post Title -->
 <h1 >BigBanonos' Favorite Tracks: Pino D'AngiÃƒÆ’Ã‚Â² - "Ma quale idea"</h1> <!-- Introductory Text -->
 <p >Updated with "Ma quale idea" by Pino D'AngiÃƒÆ’Ã‚Â², a classic from the *...Balla!* album. This track is a timeless gem of Italo Disco and Neapolitan fun.</p> <!-- Featured Image -->

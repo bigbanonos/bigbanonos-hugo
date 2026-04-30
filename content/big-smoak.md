@@ -1,12 +1,12 @@
 ---
-title: "' 'Big Smoak'
-'"
+title: "Big Smoak"
+slug: "big-smoak"
 date: 2024-12-02
-original_title: "'Big Smoak'"
+layout: post
 tags:
   - '@bigsmoak'
-layout: post
 ---
+
 <!-- Post Title -->
 <h1 >BigBanonos' Favorite Song by Big Smoak</h1> <!-- Introductory Text -->
 <p >Updated September 27, 2019, with BigBanonos' favorite song by Big Smoak, "Drone and Satellite," from the *Chromematic Riddim* collection. Released under Fox Fuse, this track showcases the artist's unique style. Watch the video and see more details below:</p> <!-- Featured Image -->

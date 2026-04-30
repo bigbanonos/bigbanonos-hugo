@@ -1,7 +1,8 @@
 ---
 title: "Zach Top"
+slug: "zach-top"
 date: 2026-04-16
-category: "artist"
+layout: post
 tags:
   - '@zachtop'
 ---

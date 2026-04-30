@@ -1,16 +1,13 @@
 ---
 title: "Green Day"
+slug: "green-day"
 date: 1995-10-10
-category: "artist"
-track_count: 3
-first_year: 1994
-last_year: 1995
+layout: post
 tags:
   - '@green-day'
   - '1900s'
   - 'punk'
   - 'pop punk'
-stub: true
 ---
 
 ## Green Day

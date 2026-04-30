@@ -1,12 +1,12 @@
 ---
-title: "' 'Baby Tate'
-'"
+title: "Baby Tate"
+slug: "baby-tate"
 date: 2024-11-02
-original_title: "'Baby Tate - 2 Songs'"
+layout: post
 tags:
   - '@babytate'
-layout: post
 ---
+
 <h2>Big Banonos 2 Favorite Baby Tate Tracks</h2> <!--Search Description-->
 <p>Baby Tateâ€™s latest releases showcase her dynamic style with songs like â€œGripâ€ from <em>Baby Tate Presents - Sexploration: The Musical</em>. Last updated October 27, 2023, with the single "Grip," highlighted in the playlist below:</p> <!--Spotify Playlist Embed-->
 {{< youtube "embed" >}} <!--Song List with Album Info-->

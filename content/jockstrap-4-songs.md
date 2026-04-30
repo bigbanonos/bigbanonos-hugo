@@ -1,12 +1,12 @@
 ---
-title: "' 'Jockstrap'
-'"
+title: "Jockstrap"
+slug: "jockstrap"
 date: 2024-12-20
-original_title: "'Jockstrap - 4 Songs'"
+layout: post
 tags:
   - '@jockstrap'
-layout: post
 ---
+
 <h1>Dive into Jockstrapâ€™s Unique Sound: 4 Essential Tracks</h1>
 {{< img-lite src="https://media.pitchfork.com/photos/5e84bcfde4c42e0008da7c8a/2:1/w_2560%2Cc_limit/jockstrapheader.jpg" alt="Jockstrap Album Art" >}} <p>London indie duo Jockstrap, known for their crank wave style and genre-blending sound, brings you some of their most compelling tracks. Explore their hit releases from the album <em>I Love You Jennifer B</em> along with standout singles that showcase their bold and eclectic musical style.</p> <ol> <li><strong>Greatest Hits</strong> | <em>I Love You Jennifer B</em> | Release Date: September 9, 2022 | Rough Trade</li> <li><strong>What's It All About?</strong> | <em>I Love You Jennifer B</em> | Release Date: September 9, 2022 | Rough Trade</li> <li><strong>Concrete Over Water</strong> | <em>I Love You Jennifer B</em> | Release Date: September 9, 2022 | Rough Trade</li> <li><strong>Glasgow</strong> | <em>Glasgow</em> | Release Date: June 14, 2022 | Rough Trade</li>
 </ol> <div> {{< youtube "embed" >}}

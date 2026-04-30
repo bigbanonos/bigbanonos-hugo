@@ -1,12 +1,12 @@
 ---
-title: "' 'BTS'
-'"
+title: "Bts"
+slug: "bts"
 date: 2025-01-17
-original_title: "'BTS'"
+layout: post
 tags:
   - '@bts'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by BTS</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab6761610000e5ebd642648235ebf3460d2d1f6a" alt="BTS" >}}

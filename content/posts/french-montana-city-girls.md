@@ -1,10 +1,8 @@
 ---
-title: "French Montana;City Girls"
+title: "French Montana City Girls"
+slug: "french-montana-city-girls"
 date: 2026-01-09
-category: "artist"
-track_count: 4
-first_year: 2016
-last_year: 2026
+layout: post
 tags:
   - '@french-montana-city-girls'
   - '@french-montana-kodak-black'
@@ -12,7 +10,6 @@ tags:
   - '@french-montana-swae-lee'
   - '00s-10s'
   - '2020s'
-stub: true
 ---
 
 ## French Montana;City Girls

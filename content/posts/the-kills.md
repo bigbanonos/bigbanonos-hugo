@@ -1,15 +1,12 @@
 ---
 title: "The Kills"
+slug: "the-kills"
 date: 2011-05-03
-category: "artist"
-track_count: 8
-first_year: 2003
-last_year: 2011
+layout: post
 tags:
   - '@the-kills'
   - '00s-10s'
   - 'garage rock'
-stub: true
 ---
 
 ## The Kills

@@ -1,12 +1,12 @@
 ---
-title: "' 'Throwing Muses'
-'"
+title: "Throwing Muses"
+slug: "throwing-muses"
 date: 2025-01-10
-original_title: "'Throwing Muses'"
+layout: post
 tags:
   - '@throwingmuses'
-layout: post
 ---
+
 <div class="post-title"> <h1>BigBanonos' Favorite Songs by Throwing Muses</h1>
 </div>
 <p>Updated January 16, 1995, with "Bright Yellow Gun" from the album <i>University</i>, highlighted in the playlist below:</p>

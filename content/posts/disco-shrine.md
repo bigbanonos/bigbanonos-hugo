@@ -1,16 +1,13 @@
 ---
 title: "Disco Shrine"
+slug: "disco-shrine"
 date: 2026-01-09
-category: "artist"
-track_count: 3
-first_year: 2019
-last_year: 2026
+layout: post
 tags:
   - '@disco-shrine'
   - '@disco-shrine-magdalena-bay'
   - '00s-10s'
   - '2020s'
-stub: true
 ---
 
 ## Disco Shrine

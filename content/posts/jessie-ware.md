@@ -1,15 +1,12 @@
 ---
 title: "Jessie Ware"
+slug: "jessie-ware"
 date: 2023-04-28
-category: "artist"
-track_count: 6
-first_year: 2012
-last_year: 2023
+layout: post
 tags:
   - '@jessie-ware'
   - '00s-10s'
   - '2020s'
-stub: true
 ---
 
 ## Jessie Ware

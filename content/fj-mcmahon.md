@@ -1,12 +1,12 @@
 ---
-title: "' 'FJ McMahon'
-'"
+title: "Fj Mcmahon"
+slug: "fj-mcmahon"
 date: 2025-02-12
-original_title: "'FJ McMahon'"
+layout: post
 tags:
   - '@fjmcmahon'
-layout: post
 ---
+
 <div> {{< img-lite src="https://thebluegrasssituation.com/wp-content/uploads/2017/11/FJ_MCMAHON_5.jpg" alt="FJ McMahon" >}}
 </div> <p>
 BigBanonos' favorite songs by FJ McMahon:

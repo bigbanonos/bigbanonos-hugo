@@ -1,12 +1,12 @@
 ---
-title: "' 'Emily Haines'
-'"
+title: "Emily Haines"
+slug: "emily-haines"
 date: 2024-12-28
-original_title: "'Emily Haines'"
+layout: post
 tags:
   - '@emilyhaines'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonos Favorite Song by Emily Haines & The Soft Skeleton: "Our Hell"</h1> <!-- Introductory Text -->
 <p >Updated January 1, 2006, with "Our Hell" by Emily Haines & The Soft Skeleton. This hauntingly beautiful track from the album *Knives Don't Have Your Back* showcases Hainesâ€™ introspective lyrics and evocative melodies. Watch the video below!</p> <!-- Featured Image -->

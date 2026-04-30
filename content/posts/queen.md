@@ -1,17 +1,14 @@
 ---
 title: "Queen"
+slug: "queen"
 date: 1980-06-27
-category: "artist"
-track_count: 2
-first_year: 1977
-last_year: 1980
+layout: post
 tags:
   - '@queen'
   - '1900s'
   - 'classic rock'
   - 'rock'
   - 'glam rock'
-stub: true
 ---
 
 ## Queen

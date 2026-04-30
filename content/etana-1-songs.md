@@ -1,14 +1,14 @@
 ---
-title: "' 'Etana'
-'"
+title: "Etana"
+slug: "etana"
 date: 2024-10-28
-original_title: "'Etana - 3 Songs'"
+layout: post
 tags:
   - '@vybzkartel'
   - '@ioctane'
   - '@etana'
-layout: post
 ---
+
 {{< youtube "OYE9bRqCLzE" >}}<h2> <h2>Etana's Top Songs</h2>
 <p><strong>Updated May 11, 2022</strong> with "Ganja For You (feat. I-Octane)"</p>
 <p>Etana blends reggae with soul and R&B in a style thatâ€™s uniquely her own. Here are BigBanonos' favorite songs by Etana:</p>

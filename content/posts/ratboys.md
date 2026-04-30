@@ -1,15 +1,12 @@
 ---
 title: "Ratboys"
+slug: "ratboys"
 date: 2021-03-01
-category: "artist"
-track_count: 2
-first_year: 2017
-last_year: 2021
+layout: post
 tags:
   - '@ratboys'
   - '00s-10s'
   - '2020s'
-stub: true
 ---
 
 ## Ratboys

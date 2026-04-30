@@ -1,10 +1,8 @@
 ---
 title: "Keyshia Cole"
+slug: "keyshia-cole"
 date: 2007-01-01
-category: "artist"
-track_count: 4
-first_year: 2005
-last_year: 2007
+layout: post
 tags:
   - '@keyshia-cole'
   - '@keyshia-cole-diddy'
@@ -13,7 +11,6 @@ tags:
   - 'r&b'
   - 'hip hop'
   - 'east coast hip hop'
-stub: true
 ---
 
 ## Keyshia Cole

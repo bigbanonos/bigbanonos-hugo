@@ -1,12 +1,12 @@
 ---
-title: "' 'Bright Eyes'
-'"
+title: "Conor Oberst Bright Eyes"
+slug: "conor-oberst-bright-eyes"
 date: 2024-12-17
-original_title: "'Bright Eyes - 40+ Songs'"
+layout: post
 tags:
   - '@brighteyes'
-layout: post
 ---
+
 <h2>BigBanonos' Favorite Songs by Bright Eyes</h2>
 <div class="separator"><a href="https://factmag-images.s3.amazonaws.com/wp-content/uploads/2013/11/bright-eyes-11.5.2013.jpg" ><img alt="" border="0" width="320" data-original-height="427" data-original-width="640" src="https://factmag-images.s3.amazonaws.com/wp-content/uploads/2013/11/bright-eyes-11.5.2013.jpg"/></a></div>
 <div> {{< youtube "embed" >}}

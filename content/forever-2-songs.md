@@ -1,12 +1,12 @@
 ---
-title: "' 'Forever'
-'"
+title: "Forever"
+slug: "forever"
 date: 2024-12-21
-original_title: "'Forever - 2 Songs'"
+layout: post
 tags:
   - '@forever'
-layout: post
 ---
+
 <h3><em>BigBanonos</em> Favorite Songs by Forever:</h3> <p>Updated on February 14, 2020, with the song â€œBlur.â€ <em>BigBanonos</em> brings you Forever's best in Canadian electropop.</p> <!--Image-->
 <div class="separator"> <a href="https://i0.wp.com/consafosmag.com/wp-content/uploads/2020/01/unnamed-38.jpg?resize=1200%2C961&ssl=1" > <img alt="Forever" src="https://i0.wp.com/consafosmag.com/wp-content/uploads/2020/01/unnamed-38.jpg?resize=1200%2C961&ssl=1" /> </a>
 </div> <!--Spotify Playlist Embed-->

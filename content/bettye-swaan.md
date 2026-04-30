@@ -1,12 +1,12 @@
 ---
-title: "' 'Bettye Swaan'
-'"
+title: "Bettye Swaan"
+slug: "bettye-swaan"
 date: 2025-01-17
-original_title: "'Bettye Swaan'"
+layout: post
 tags:
   - '@bettyeswann'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Bettye Swann</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/89075f762c28dc8179c71217b1b989ef2cb7914c" alt="Bettye Swann" >}}

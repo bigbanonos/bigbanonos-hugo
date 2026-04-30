@@ -1,10 +1,8 @@
 ---
 title: "The Avalanches"
+slug: "the-avalanches"
 date: 2021-06-18
-category: "artist"
-track_count: 6
-first_year: 2000
-last_year: 2021
+layout: post
 tags:
   - '@the-avalanches'
   - '@cola-boyy-the-avalanches'
@@ -17,7 +15,6 @@ tags:
   - 'trip hop'
   - 'east coast hip hop'
   - 'jazz rap'
-stub: true
 ---
 
 ## The Avalanches

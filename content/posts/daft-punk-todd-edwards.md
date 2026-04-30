@@ -1,10 +1,8 @@
 ---
-title: "Daft Punk;Todd Edwards"
+title: "Daft Punk Todd Edwards"
+slug: "daft-punk-todd-edwards"
 date: 2023-03-22
-category: "artist"
-track_count: 1
-first_year: 2023
-last_year: 2023
+layout: post
 tags:
   - '@daft-punk-todd-edwards'
   - '2020s'
@@ -12,7 +10,6 @@ tags:
   - 'electronic'
   - 'electro'
   - 'uk garage'
-stub: true
 ---
 
 ## Daft Punk;Todd Edwards

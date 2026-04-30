@@ -1,17 +1,14 @@
 ---
 title: "Hurray For The Riff Raff"
+slug: "hurray-for-the-riff-raff"
 date: 2023-11-09
-category: "artist"
-track_count: 5
-first_year: 2010
-last_year: 2023
+layout: post
 tags:
   - '@hurray-for-the-riff-raff'
   - '00s-10s'
   - '2020s'
   - 'americana'
   - 'alt country'
-stub: true
 ---
 
 ## Hurray For The Riff Raff

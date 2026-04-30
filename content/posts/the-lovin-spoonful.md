@@ -1,15 +1,12 @@
 ---
-title: "The Lovin' Spoonful"
+title: "The Lovin Spoonful"
+slug: "the-lovin-spoonful"
 date: 1967-05-01
-category: "artist"
-track_count: 2
-first_year: 1966
-last_year: 1967
+layout: post
 tags:
   - '@the-lovin-spoonful'
   - '1900s'
   - 'folk rock'
-stub: true
 ---
 
 ## The Lovin' Spoonful

@@ -1,10 +1,8 @@
 ---
 title: "Orchestral Manoeuvres In The Dark"
+slug: "orchestral-manoeuvres-in-the-dark"
 date: 2020-12-04
-category: "artist"
-track_count: 3
-first_year: 1980
-last_year: 2020
+layout: post
 tags:
   - '@orchestral-manoeuvres-in-the-dark'
   - '00s-10s'
@@ -12,7 +10,6 @@ tags:
   - '2020s'
   - 'new wave'
   - 'synthpop'
-stub: true
 ---
 
 ## Orchestral Manoeuvres In The Dark

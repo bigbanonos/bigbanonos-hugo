@@ -1,14 +1,11 @@
 ---
-title: "STRFKR"
+title: "Strfkr"
+slug: "strfkr"
 date: 2013-02-19
-category: "artist"
-track_count: 3
-first_year: 2008
-last_year: 2013
+layout: post
 tags:
   - '@strfkr'
   - '00s-10s'
-stub: true
 ---
 
 ## STRFKR

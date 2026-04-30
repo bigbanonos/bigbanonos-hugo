@@ -1,12 +1,12 @@
 ---
-title: "' 'Beulah'
-'"
+title: "Beulah"
+slug: "beulah"
 date: 2025-01-17
-original_title: "'Beulah'"
+layout: post
 tags:
   - '@beulah'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Beulah</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab67616d00001e02d82d3e65df5b9c0867bf65ad" alt="Beulah" >}}

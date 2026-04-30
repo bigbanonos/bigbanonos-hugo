@@ -1,13 +1,13 @@
 ---
-title: "' 'Ben Folds'
-'"
+title: "Ben Folds"
+slug: "ben-folds"
 date: 2025-01-17
-original_title: "'Ben Folds'"
+layout: post
 tags:
   - '@benfoldsfive'
   - '@benfolds'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Ben Folds</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab67616d0000b27353bea47f99592d7232724ed3" alt="Ben Folds" >}}

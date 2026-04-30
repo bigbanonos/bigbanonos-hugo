@@ -1,15 +1,12 @@
 ---
 title: "Gloss Up"
+slug: "gloss-up"
 date: 2023-08-11
-category: "artist"
-track_count: 3
-first_year: 2021
-last_year: 2023
+layout: post
 tags:
   - '@gloss-up'
   - '@gloss-up-casino-jizzle'
   - '2020s'
-stub: true
 ---
 
 ## Gloss Up

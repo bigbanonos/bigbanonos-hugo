@@ -1,10 +1,8 @@
 ---
-title: "Ellie Goulding;Diplo;Swae Lee"
+title: "Ellie Goulding Diplo Swae Lee"
+slug: "ellie-goulding-diplo-swae-lee"
 date: 2019-09-25
-category: "artist"
-track_count: 2
-first_year: 2018
-last_year: 2019
+layout: post
 tags:
   - '@ellie-goulding-diplo-swae-lee'
   - '@ellie-goulding-juice-wrld-snakehips'
@@ -12,7 +10,6 @@ tags:
   - 'moombahton'
   - 'melodic rap'
   - 'emo rap'
-stub: true
 ---
 
 ## Ellie Goulding;Diplo;Swae Lee

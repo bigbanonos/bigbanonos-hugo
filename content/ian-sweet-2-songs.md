@@ -1,12 +1,12 @@
 ---
-title: "' 'IAN SWEET'
-'"
+title: "Ian Sweet"
+slug: "ian-sweet"
 date: 2024-12-20
-original_title: "'IAN SWEET - 2 Songs'"
+layout: post
 tags:
   - '@iansweet'
-layout: post
 ---
+
 <h1>BigBanonos 2 Favorite Tracks by IAN SWEET</h1>
 {{< img-lite src="https://static1.squarespace.com/static/57605d0f37013b0ae1ec276d/t/64d2c1349c85c033268c00a4/1691533623990/IMG6515-R01-008.jpg?format=1500w" alt="IAN SWEET" >}} <p>These handpicked tracks by IAN SWEET dive into the unique bubblegrunge soundscape that defines the artistâ€™s small-room rock vibe. Known for her raw, emotional delivery, IAN SWEET captures a special blend of intimacy and edge in each song.</p> <ol> <li><strong>f*ckthat</strong> | <em>f*ckthat</em> | Polyvinyl Records | Released: September 29, 2021</li> <li><strong>Yellow</strong> | <em>Yellow</em> | Polyvinyl Records | Released: July 27, 2021</li>
 </ol> <div> {{< youtube "embed" >}}

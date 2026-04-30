@@ -1,12 +1,12 @@
 ---
-title: "' 'TouchÃƒÆ’Ã‚Â© AmorÃƒÆ’Ã‚Â©'
-'"
+title: "Touche Amore"
+slug: "touche-amore"
 date: 2020-10-30
-original_title: "'TouchÃƒÆ’Ã‚Â© AmorÃƒÆ’Ã‚Â© - 1 Song'"
+layout: post
 tags:
   - '@toucheamore'
-layout: post
 ---
+
 {{< youtube "sKHawjBPaxU" >}}<h2><ol><li>Reminders [2020]</li></ol></h2>
 
 <!--Subscribe and Playlist Links-->

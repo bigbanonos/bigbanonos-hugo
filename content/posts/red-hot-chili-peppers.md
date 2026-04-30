@@ -1,10 +1,8 @@
 ---
 title: "Red Hot Chili Peppers"
+slug: "red-hot-chili-peppers"
 date: 2022-09-16
-category: "artist"
-track_count: 39
-first_year: 1969
-last_year: 2022
+layout: post
 tags:
   - '@red-hot-chili-peppers'
   - '@andy-shauf'
@@ -24,7 +22,6 @@ tags:
   - 'alternative rock'
   - 'funk rock'
   - 'emo rap'
-stub: true
 ---
 
 ## Red Hot Chili Peppers

@@ -1,16 +1,13 @@
 ---
 title: "Ricky Nelson"
+slug: "ricky-nelson"
 date: 2008-01-01
-category: "artist"
-track_count: 2
-first_year: 2000
-last_year: 2008
+layout: post
 tags:
   - '@ricky-nelson'
   - '00s-10s'
   - 'rockabilly'
   - 'doo-wop'
-stub: true
 ---
 
 ## Ricky Nelson

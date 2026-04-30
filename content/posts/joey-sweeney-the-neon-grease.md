@@ -1,14 +1,11 @@
 ---
-title: "Joey Sweeney;The Neon Grease"
+title: "Joey Sweeney The Neon Grease"
+slug: "joey-sweeney-the-neon-grease"
 date: 2021-06-24
-category: "artist"
-track_count: 1
-first_year: 2021
-last_year: 2021
+layout: post
 tags:
   - '@joey-sweeney-the-neon-grease'
   - '2020s'
-stub: true
 ---
 
 ## Joey Sweeney;The Neon Grease

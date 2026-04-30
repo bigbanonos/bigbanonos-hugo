@@ -1,10 +1,8 @@
 ---
 title: "Paul Simon"
+slug: "paul-simon"
 date: 2018-06-01
-category: "artist"
-track_count: 5
-first_year: 1972
-last_year: 2018
+layout: post
 tags:
   - '@paul-simon'
   - '@paul-simon-gui-boratto'
@@ -12,7 +10,6 @@ tags:
   - '1900s'
   - 'singer-songwriter'
   - 'minimal techno'
-stub: true
 ---
 
 ## Paul Simon

@@ -1,12 +1,12 @@
 ---
-title: "' 'Charlotte Gainsbourg'
-'"
+title: "Charlotte Gainsbourg"
+slug: "charlotte-gainsbourg"
 date: 2024-12-17
-original_title: "'Charlotte Gainsbourg'"
+layout: post
 tags:
   - '@charlottegainsbourg'
-layout: post
 ---
+
 <h2>Charlotte Gainsbourg â€“ 2 Songs</h2> <div > <img src="https://f4.bcbits.com/img/0024142629_10.jpg" alt="Charlotte Gainsbourg" width="400" />
 </div> {{< youtube "embed" >}} <h3>Tracks</h3>
 <ul> <li><strong>Bombs Away</strong> â€“ <em>Take 2</em> (2018)</li> <li><strong>Got To Let Go</strong> (feat. Charlie Fink of Noah & The Whale) â€“ <em>Stage Whisper</em> (2011)</li>

@@ -1,10 +1,8 @@
 ---
 title: "Merle Haggard"
+slug: "merle-haggard"
 date: 2007-01-01
-category: "artist"
-track_count: 2
-first_year: 2004
-last_year: 2007
+layout: post
 tags:
   - '@merle-haggard'
   - '@merle-haggard-the-strangers'
@@ -13,7 +11,6 @@ tags:
   - 'outlaw country'
   - 'country'
   - 'traditional country'
-stub: true
 ---
 
 ## Merle Haggard

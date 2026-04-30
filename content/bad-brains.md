@@ -1,12 +1,12 @@
 ---
-title: "' 'Bad Brains'
-'"
+title: "Bad Brains"
+slug: "bad-brains"
 date: 2024-12-26
-original_title: "'Bad Brains'"
+layout: post
 tags:
   - '@badbrains'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonos Favorite Song by Bad Brains: "At The Movies"</h1> <!-- Introductory Text -->
 <p >Updated December 1, 1981, with "At The Movies" by Bad Brains. This high-energy track from the iconic hardcore punk band showcases their revolutionary sound and unrelenting intensity. Watch the video below!</p> <!-- Featured Image -->

@@ -1,12 +1,12 @@
 ---
-title: "' 'In Tall Buildings'
-'"
+title: "In Tall Buildings"
+slug: "in-tall-buildings"
 date: 2024-12-12
-original_title: "'In Tall Buildings'"
+layout: post
 tags:
   - '@intallbuildings'
-layout: post
 ---
+
 <!-- Post Title -->
 <h1 >BigBanonos' Favorite Tracks: In Tall Buildings - "Bawl Cry Wail"</h1> <!-- Introductory Text -->
 <p >Updated February 17, 2015, with "Bawl Cry Wail" by In Tall Buildings. This captivating track from the album <em>Driver</em> showcases the band's rich, introspective sound and Western Vinyl's signature indie style.</p> <!-- Featured Image -->

@@ -1,16 +1,13 @@
 ---
 title: "Quintron"
+slug: "quintron"
 date: 2011-04-12
-category: "artist"
-track_count: 2
-first_year: 2003
-last_year: 2011
+layout: post
 tags:
   - '@quintron'
   - '00s-10s'
   - 'noise rock'
   - 'garage rock'
-stub: true
 ---
 
 ## Quintron

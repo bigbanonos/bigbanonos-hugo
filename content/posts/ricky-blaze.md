@@ -1,10 +1,8 @@
 ---
 title: "Ricky Blaze"
+slug: "ricky-blaze"
 date: 2020-05-01
-category: "artist"
-track_count: 12
-first_year: 2011
-last_year: 2020
+layout: post
 tags:
   - '@ricky-blaze'
   - '@ricky-blaze-alexus-rose'
@@ -18,7 +16,6 @@ tags:
   - 'soca'
   - 'afroswing'
   - 'afrobeats'
-stub: true
 ---
 
 ## Ricky Blaze

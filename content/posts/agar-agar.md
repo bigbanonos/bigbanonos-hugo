@@ -1,9 +1,8 @@
 ---
 title: "Agar Agar"
+slug: "agar-agar"
 date: 2022-06-22
-category: "1off"
-genre_primary: "indie"
-era: "2020s"
+layout: post
 tags:
   - '@agaragar'
   - '1-off'

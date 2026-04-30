@@ -1,14 +1,11 @@
 ---
 title: "Buck Meek"
+slug: "buck-meek"
 date: 2026-02-24
-category: "artist"
-track_count: 9
-first_year: 2020
-last_year: 2026
+layout: post
 tags:
   - '@buck-meek'
   - '2020s'
-stub: true
 ---
 
 ## Buck Meek

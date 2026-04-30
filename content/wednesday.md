@@ -1,12 +1,12 @@
 ---
-title: "' 'Wednesday'
-'"
+title: "Wednesday"
+slug: "wednesday"
 date: 2025-01-10
-original_title: "'Wednesday'"
+layout: post
 tags:
   - '@wednesday'
-layout: post
 ---
+
 <div class="post-title"> <h1>BigBanonos' Favorite Songs by Wednesday</h1>
 </div>
 <p>Updated April 7, 2023, with "Quarry" from the album <i>Rat Saw God</i>, highlighted in the playlist below:</p>

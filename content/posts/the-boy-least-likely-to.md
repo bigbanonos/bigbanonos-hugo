@@ -1,14 +1,11 @@
 ---
 title: "The Boy Least Likely To"
+slug: "the-boy-least-likely-to"
 date: 2005-09-26
-category: "artist"
-track_count: 2
-first_year: 2005
-last_year: 2005
+layout: post
 tags:
   - '@the-boy-least-likely-to'
   - '00s-10s'
-stub: true
 ---
 
 ## The Boy Least Likely To

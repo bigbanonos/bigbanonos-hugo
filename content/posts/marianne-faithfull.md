@@ -1,14 +1,11 @@
 ---
 title: "Marianne Faithfull"
+slug: "marianne-faithfull"
 date: 1979-11-02
-category: "artist"
-track_count: 1
-first_year: 1979
-last_year: 1979
+layout: post
 tags:
   - '@marianne-faithfull'
   - '1900s'
-stub: true
 ---
 
 ## Marianne Faithfull

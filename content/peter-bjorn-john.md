@@ -1,12 +1,12 @@
 ---
-title: "' 'Peter Bjorn & John'
-'"
+title: "Peter Bjorn John"
+slug: "peter-bjorn-john"
 date: 2025-02-10
-original_title: "'Peter Bjorn & John'"
+layout: post
 tags:
   - '@peterbjornandjohn'
-layout: post
 ---
+
  <!-- Peter Bjorn & John -->
 <img src="https://i.scdn.co/image/ab67616d0000b273db2c07b93263280a636c1567" /> <p><strong>Updated January 1, 2009 with "Lay It Down" from <em>Living Thing (Bonus Version)</em></strong></p> <p><strong>"Lay It Down"</strong> â€“ <em>Living Thing (Bonus Version)</em> (Universal Music AB, 2009)</p>
 <p><strong>"I Want You!"</strong> â€“ <em>Living Thing (Bonus Version)</em> (Universal Music AB, 2009)</p>

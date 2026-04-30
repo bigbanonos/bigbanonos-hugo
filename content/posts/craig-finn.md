@@ -1,15 +1,12 @@
 ---
 title: "Craig Finn"
+slug: "craig-finn"
 date: 2022-05-20
-category: "artist"
-track_count: 3
-first_year: 2012
-last_year: 2022
+layout: post
 tags:
   - '@craig-finn'
   - '00s-10s'
   - '2020s'
-stub: true
 ---
 
 ## Craig Finn

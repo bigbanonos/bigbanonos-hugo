@@ -1,12 +1,12 @@
 ---
-title: "' 'Cecil Barfield'
-'"
+title: "Cecil Barfield"
+slug: "cecil-barfield"
 date: 2024-12-03
-original_title: "'Cecil Barfield'"
+layout: post
 tags:
   - '@cecilbarfield'
-layout: post
 ---
+
 <!-- Post Title -->
 <h1 >BigBanonos' Favorite Song by Cecil Barfield</h1> <!-- Introductory Text -->
 <p >Updated March 11, 2016 with BigBanonos' favorite track, "Lucy Mae Blues" by Cecil Barfield. This haunting blues classic from *The George Mitchell Collection Vol. 1* captures the raw emotion and timeless storytelling of the genre.</p> <!-- Featured Image -->

@@ -1,10 +1,8 @@
 ---
 title: "Hot Boys"
+slug: "hot-boys"
 date: 1999-07-27
-category: "artist"
-track_count: 2
-first_year: 1999
-last_year: 1999
+layout: post
 tags:
   - '@hot-boys'
   - '@hot-boys-big-tymers'
@@ -12,7 +10,6 @@ tags:
   - 'southern hip hop'
   - 'new orleans bounce'
   - 'crunk'
-stub: true
 ---
 
 ## Hot Boys

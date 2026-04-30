@@ -1,10 +1,8 @@
 ---
 title: "Kendrick Lamar"
+slug: "kendrick-lamar"
 date: 2024-11-22
-category: "artist"
-track_count: 21
-first_year: 2012
-last_year: 2024
+layout: post
 tags:
   - '@kendrick-lamar'
   - '@kendrick-lamar-blxst-amanda-reifer'
@@ -23,7 +21,6 @@ tags:
   - 'west coast hip hop'
   - 'r&b'
   - 'g-funk'
-stub: true
 ---
 
 ## Kendrick Lamar

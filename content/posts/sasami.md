@@ -1,14 +1,11 @@
 ---
-title: "SASAMI"
+title: "Sasami"
+slug: "sasami"
 date: 2022-02-25
-category: "artist"
-track_count: 3
-first_year: 2021
-last_year: 2022
+layout: post
 tags:
   - '@sasami'
   - '2020s'
-stub: true
 ---
 
 ## SASAMI

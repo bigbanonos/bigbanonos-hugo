@@ -1,12 +1,12 @@
 ---
-title: "' 'Escort'
-'"
+title: "Escort"
+slug: "escort"
 date: 2024-12-28
-original_title: "'Escort'"
+layout: post
 tags:
   - '@escort'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonos Favorite Song by Escort: "All Through The Night"</h1> <!-- Introductory Text -->
 <p >Updated January 31, 2012, with "All Through The Night" by Escort. This electrifying disco track from their self-titled album *Escort* fuses funtronica and nu disco, delivering a modern twist on classic dance vibes. Watch the video below!</p> <!-- Featured Image -->

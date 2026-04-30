@@ -1,10 +1,8 @@
 ---
-title: "Wale;McClenney"
+title: "Wale Mcclenney"
+slug: "wale-mcclenney"
 date: 2020-06-19
-category: "artist"
-track_count: 8
-first_year: 2009
-last_year: 2020
+layout: post
 tags:
   - '@wale-mcclenney'
   - '@wale'
@@ -20,7 +18,6 @@ tags:
   - 'crunk'
   - 'rap'
   - 'southern hip hop'
-stub: true
 ---
 
 ## Wale;McClenney

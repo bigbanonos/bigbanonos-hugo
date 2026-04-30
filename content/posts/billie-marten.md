@@ -1,15 +1,12 @@
 ---
 title: "Billie Marten"
+slug: "billie-marten"
 date: 2023-01-18
-category: "artist"
-track_count: 2
-first_year: 2018
-last_year: 2023
+layout: post
 tags:
   - '@billie-marten'
   - '00s-10s'
   - '2020s'
-stub: true
 ---
 
 ## Billie Marten

@@ -1,12 +1,12 @@
 ---
-title: "' 'Firefox AK'
-'"
+title: "Firefox Ak"
+slug: "firefox-ak"
 date: 2016-02-14
-original_title: "'Firefox AK'"
+layout: post
 tags:
   - '@firefoxak'
-layout: post
 ---
+
 #highlights <br />
 {{< youtube "yPCajqLdEyc" >}}
 <br />

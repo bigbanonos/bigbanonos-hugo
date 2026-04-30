@@ -1,12 +1,12 @@
 ---
-title: "' 'Tommy Roe'
-'"
+title: "Tommy Roe"
+slug: "tommy-roe"
 date: 2025-01-10
-original_title: "'Tommy Roe'"
+layout: post
 tags:
   - '@tommyroe'
-layout: post
 ---
+
 <div class="post-title"> <h1>BigBanonos' Favorite Songs by Tommy Roe</h1>
 </div>
 <p>Updated May 9, 2011, with "Sheila" from the album <i>Still Dizzy - [The Dave Cash Collection]</i>, highlighted in the playlist below:</p>

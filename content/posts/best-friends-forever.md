@@ -1,16 +1,13 @@
 ---
 title: "Best Friends Forever"
+slug: "best-friends-forever"
 date: 2009-09-09
-category: "artist"
-track_count: 5
-first_year: 2008
-last_year: 2009
+layout: post
 tags:
   - '@best-friends-forever'
   - '00s-10s'
   - 'folk punk'
   - 'anti-folk'
-stub: true
 ---
 
 ## Best Friends Forever

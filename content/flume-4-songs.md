@@ -1,8 +1,8 @@
 ---
-title: "' 'Flume'
-'"
+title: "Flume"
+slug: "flume"
 date: 2024-12-21
-original_title: "'Flume - 4 Songs'"
+layout: post
 tags:
   - '@flume'
   - '@emmalouise'
@@ -10,8 +10,8 @@ tags:
   - '@toroymoi'
   - '@londongrammar'
   - '@logic1000'
-layout: post
 ---
+
 <h3><em>BigBanonos</em> Favorite Songs by Flume:</h3> <p>Updated on May 17, 2022, with the track â€œHollow (feat. Emma Louise).â€ <em>BigBanonos</em> highlights Flume's standout electronic productions, combining elements of Australian dance and indietronica with a unique downtempo vibe.</p> <!--Image-->
 <div class="separator"> <a href="https://edm.com/.image/t_share/MTY1ODQyODI3NjczMTUwNTU3/flume.jpg" > <img alt="Flume" src="https://edm.com/.image/t_share/MTY1ODQyODI3NjczMTUwNTU3/flume.jpg" /> </a>
 </div> <!--Spotify Playlist Embed-->

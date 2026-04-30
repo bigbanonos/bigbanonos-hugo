@@ -1,12 +1,12 @@
 ---
-title: "' 'Rumba Tres'
-'"
+title: "Rumba Tres"
+slug: "rumba-tres"
 date: 2024-12-15
-original_title: "'Rumba Tres'"
+layout: post
 tags:
   - '@rumbatres'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >Rumba Tres - No Se No Se</h1> <!-- Introductory Text -->
 <p >Updated with "No Se No Se" by Rumba Tres, from the album *Grandes Exitos (Sus Mejores Rumbas)*, released on February 1, 2013, by Divucsa.</p> <!-- Featured Image -->

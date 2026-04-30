@@ -1,12 +1,12 @@
 ---
-title: "' 'Woods'
-'"
+title: "Woods"
+slug: "woods"
 date: 2025-01-16
-original_title: "'Woods'"
+layout: post
 tags:
   - '@woods'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Woods</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://f4.bcbits.com/img/0032718067_10.jpg" alt="Woods" >}}

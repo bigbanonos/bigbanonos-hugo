@@ -1,10 +1,8 @@
 ---
-title: "Jamie xx;Young Thug;Popcaan"
+title: "Jamie Xx Young Thug Popcaan"
+slug: "jamie-xx-young-thug-popcaan"
 date: 2024-06-17
-category: "artist"
-track_count: 2
-first_year: 2015
-last_year: 2024
+layout: post
 tags:
   - '@jamie-xx-young-thug-popcaan'
   - '@jamie-xx-robyn'
@@ -14,7 +12,6 @@ tags:
   - 'melodic rap'
   - 'trap'
   - 'dancehall'
-stub: true
 ---
 
 ## Jamie xx;Young Thug;Popcaan

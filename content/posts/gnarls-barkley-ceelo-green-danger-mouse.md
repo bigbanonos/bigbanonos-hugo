@@ -1,15 +1,12 @@
 ---
-title: "Gnarls Barkley;CeeLo Green;Danger Mouse"
+title: "Gnarls Barkley Ceelo Green Danger Mouse"
+slug: "gnarls-barkley-ceelo-green-danger-mouse"
 date: 2008-03-18
-category: "artist"
-track_count: 5
-first_year: 2006
-last_year: 2008
+layout: post
 tags:
   - '@gnarls-barkley-ceelo-green-danger-mouse'
   - '@gnarls-barkley'
   - '00s-10s'
-stub: true
 ---
 
 ## Gnarls Barkley;CeeLo Green;Danger Mouse

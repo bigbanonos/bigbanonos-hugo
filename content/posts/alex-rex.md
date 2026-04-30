@@ -1,8 +1,8 @@
 ---
 title: "Alex Rex"
+slug: "alex-rex"
 date: 2020-02-07
-category: "1off"
-era: "2020s"
+layout: post
 tags:
   - '@alexrex'
   - '1-off'

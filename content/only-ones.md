@@ -1,12 +1,12 @@
 ---
-title: "' 'The Only Ones'
-'"
+title: "Only Ones"
+slug: "only-ones"
 date: 2025-01-16
-original_title: "'The Only Ones'"
+layout: post
 tags:
   - '@onlyones'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1>BigBanonosâ€™ Favorite Songs by The Only Ones</h1> <!-- Featured Image -->
 <div> {{< img-lite src="https://i.scdn.co/image/ab67616d00001e02e3f2da9608a1fb4fb81092ac" alt="The Only Ones" >}}

@@ -1,17 +1,14 @@
 ---
 title: "Syd"
+slug: "syd"
 date: 2022-04-08
-category: "artist"
-track_count: 5
-first_year: 2017
-last_year: 2022
+layout: post
 tags:
   - '@syd'
   - '@syd-smino'
   - '00s-10s'
   - '2020s'
   - 'alternative r&b'
-stub: true
 ---
 
 ## Syd

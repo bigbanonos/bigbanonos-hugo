@@ -1,12 +1,11 @@
 ---
-title: "Memphis LK"
+title: "Memphis Lk Some Kinda Heaven"
+slug: "memphis-lk-some-kinda-heaven"
 date: 2026-02-06
+layout: post
 tags:
   - '@memphislk'
   - '@stutterhouse'
-spotify_url: "https://open.spotify.com/track/6nlH3iGFED7iT2HYGVksCV"
-not_on_spotify: false
-category: "1off-2020s"
 ---
 
 Stutter house — yes that's a genre apparently, and Memphis LK is doing it right.

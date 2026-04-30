@@ -1,16 +1,13 @@
 ---
 title: "Jimmy Eat World"
+slug: "jimmy-eat-world"
 date: 2001-07-24
-category: "artist"
-track_count: 3
-first_year: 2001
-last_year: 2001
+layout: post
 tags:
   - '@jimmy-eat-world'
   - '00s-10s'
   - 'emo'
   - 'pop punk'
-stub: true
 ---
 
 ## Jimmy Eat World

@@ -1,10 +1,8 @@
 ---
 title: "The Vertebrats"
+slug: "the-vertebrats"
 date: 2022-05-20
-category: "artist"
-track_count: 4
-first_year: 2010
-last_year: 2022
+layout: post
 tags:
   - '@the-vertebrats'
   - '@vicki-leekx'
@@ -16,7 +14,6 @@ tags:
   - 'soca'
   - 'riddim'
   - 'ragga'
-stub: true
 ---
 
 ## The Vertebrats

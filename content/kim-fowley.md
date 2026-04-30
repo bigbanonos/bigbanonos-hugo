@@ -1,12 +1,12 @@
 ---
-title: "' 'Kim Fowley'
-'"
+title: "Kim Fowley"
+slug: "kim-fowley"
 date: 2025-01-16
-original_title: "'Kim Fowley'"
+layout: post
 tags:
   - '@kimfowley'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1>BigBanonosâ€™ Favorite Songs by Kim Fowley</h1> <!-- Introductory Text -->
 <p>Kim Fowley, the eccentric genius of garage rock and protopunk, left an indelible mark on music history. BigBanonos revisits his most iconic tracks, capturing his unique and boundary-pushing artistry.</p> <!-- Featured Image -->

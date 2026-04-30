@@ -1,9 +1,8 @@
 ---
 title: "Armani Caesar"
+slug: "armani-caesar"
 date: 2020-08-05
-category: "1off"
-genre_primary: "rap"
-era: "2020s"
+layout: post
 tags:
   - '@armanicaesar'
   - '1-off'

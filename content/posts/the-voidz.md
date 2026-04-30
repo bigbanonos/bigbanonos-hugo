@@ -1,14 +1,11 @@
 ---
 title: "The Voidz"
+slug: "the-voidz"
 date: 2019-12-13
-category: "artist"
-track_count: 2
-first_year: 2014
-last_year: 2019
+layout: post
 tags:
   - '@the-voidz'
   - '00s-10s'
-stub: true
 ---
 
 ## The Voidz

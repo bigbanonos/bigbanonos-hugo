@@ -1,12 +1,12 @@
 ---
-title: "' 'My Morning Jacket'
-'"
+title: "My Morning Jacket"
+slug: "my-morning-jacket"
 date: 2024-12-17
-original_title: "'My Morning Jacket'"
+layout: post
 tags:
   - '@mymorningjacket'
-layout: post
 ---
+
 <h1>BigBanonos Top Songs by My Morning Jacket</h1>
 <img alt="My Morning Jacket" src="https://variety.com/wp-content/uploads/2021/08/mmj.jpeg?w=1000&h=562&crop=1" /> <p>My Morning Jacketâ€™s signature blend of indie rock, chamber pop, and rootsy Americana has captivated audiences for decades. Here are BigBanonos' top picks from their discography:</p> <ol> <li><strong>Never In The Real World</strong> | <em>My Morning Jacket</em> | ATO Records | Released: October 22, 2021</li> <li><strong>Regularly Scheduled Programming</strong> | <em>Regularly Scheduled Programming</em> | ATO Records | Released: August 24, 2021</li> <li><strong>Mahgeetah</strong> | <em>It Still Moves</em> | ATO Records | Released: September 9, 2003</li> <li><strong>Off The Record</strong> | <em>Z</em> | ATO Records | Released: October 4, 2005</li>
 </ol> <div> {{< youtube "embed" >}}

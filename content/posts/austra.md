@@ -1,16 +1,13 @@
 ---
 title: "Austra"
+slug: "austra"
 date: 2011-05-24
-category: "artist"
-track_count: 2
-first_year: 2011
-last_year: 2011
+layout: post
 tags:
   - '@austra'
   - '00s-10s'
   - 'art pop'
   - 'witch house'
-stub: true
 ---
 
 ## Austra

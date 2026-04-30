@@ -1,12 +1,12 @@
 ---
-title: "' 'Faye Webster'
-'"
+title: "Faye Webster"
+slug: "faye-webster"
 date: 2024-10-28
-original_title: "'Faye Webster - 7 Songs'"
+layout: post
 tags:
   - '@fayewebster'
-layout: post
 ---
+
 <p><strong>Updated March 1, 2024</strong> with "He Loves Me Yeah!"</p>
 <p>Faye Websterâ€™s unique blend of Atlanta indie and indie pop offers an introspective yet refreshing vibe. Here are BigBanonos' favorite songs by Faye Webster:</p>
 <div class="separator" ><a href="https://cdn.pastemagazine.com/www/articles/FayeWebster_secretlycanadian_main.jpg"><img border="0" data-original-height="356" data-original-width="633" height="360" src="https://cdn.pastemagazine.com/www/articles/FayeWebster_secretlycanadian_main.jpg" width="640" /></a></div>{{< youtube "videoseries" >}}<br />

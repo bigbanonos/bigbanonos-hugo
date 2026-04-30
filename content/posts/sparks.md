@@ -1,10 +1,8 @@
 ---
 title: "Sparks"
+slug: "sparks"
 date: 2006-02-06
-category: "artist"
-track_count: 5
-first_year: 1974
-last_year: 2006
+layout: post
 tags:
   - '@sparks'
   - '00s-10s'
@@ -13,7 +11,6 @@ tags:
   - 'synthpop'
   - 'art pop'
   - 'art rock'
-stub: true
 ---
 
 ## Sparks

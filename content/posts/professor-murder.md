@@ -1,14 +1,11 @@
 ---
 title: "Professor Murder"
+slug: "professor-murder"
 date: 2006-07-25
-category: "artist"
-track_count: 2
-first_year: 2006
-last_year: 2006
+layout: post
 tags:
   - '@professor-murder'
   - '00s-10s'
-stub: true
 ---
 
 ## Professor Murder

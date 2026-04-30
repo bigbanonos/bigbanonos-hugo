@@ -1,15 +1,12 @@
 ---
 title: "Danny L Harle"
+slug: "danny-l-harle"
 date: 2017-05-19
-category: "artist"
-track_count: 2
-first_year: 2015
-last_year: 2017
+layout: post
 tags:
   - '@danny-l-harle'
   - '00s-10s'
   - 'hyperpop'
-stub: true
 ---
 
 ## Danny L Harle

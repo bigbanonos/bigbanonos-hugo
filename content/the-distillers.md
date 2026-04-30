@@ -1,12 +1,12 @@
 ---
-title: "' 'The Distillers'
-'"
+title: "The Distillers"
+slug: "the-distillers"
 date: 2025-01-16
-original_title: "'The Distillers'"
+layout: post
 tags:
   - '@distillers'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1>BigBanonos' Favorite Songs by The Distillers</h1> <!-- Introductory Text -->
 <p>The Distillers bring raw energy to punk and skate punk scenes. Hereâ€™s a collection of BigBanonos' top picks from their catalog.</p> <!-- Featured Image -->

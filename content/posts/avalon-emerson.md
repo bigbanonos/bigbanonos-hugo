@@ -1,14 +1,11 @@
 ---
 title: "Avalon Emerson"
+slug: "avalon-emerson"
 date: 2026-02-19
-category: "artist"
-track_count: 5
-first_year: 2023
-last_year: 2026
+layout: post
 tags:
   - '@avalon-emerson'
   - '2020s'
-stub: true
 ---
 
 ## Avalon Emerson

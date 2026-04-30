@@ -1,10 +1,8 @@
 ---
-title: "Diplo;MØ"
+title: "Diplo M"
+slug: "diplo-m"
 date: 2025-04-23
-category: "artist"
-track_count: 9
-first_year: 2015
-last_year: 2025
+layout: post
 tags:
   - '@diplo-m'
   - '@diplo-ben-burgess'
@@ -20,7 +18,6 @@ tags:
   - 'country'
   - 'texas country'
   - 'latin house'
-stub: true
 ---
 
 ## Diplo;MØ

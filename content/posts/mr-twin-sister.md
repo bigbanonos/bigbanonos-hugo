@@ -1,15 +1,12 @@
 ---
 title: "Mr Twin Sister"
+slug: "mr-twin-sister"
 date: 2021-10-13
-category: "artist"
-track_count: 1
-first_year: 2021
-last_year: 2021
+layout: post
 tags:
   - '@mr-twin-sister'
   - '2020s'
   - 'chillwave'
-stub: true
 ---
 
 ## Mr Twin Sister

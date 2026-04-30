@@ -1,10 +1,8 @@
 ---
 title: "Govana"
+slug: "govana"
 date: 2021-04-02
-category: "artist"
-track_count: 4
-first_year: 2018
-last_year: 2021
+layout: post
 tags:
   - '@govana'
   - '@govana-xtassi'
@@ -12,7 +10,6 @@ tags:
   - '2020s'
   - 'dancehall'
   - 'soca'
-stub: true
 ---
 
 ## Govana

@@ -1,12 +1,12 @@
 ---
-title: "' 'The Satintones'
-'"
+title: "The Satintones"
+slug: "the-satintones"
 date: 2024-12-16
-original_title: "'The Satintones'"
+layout: post
 tags:
   - '@thesatintones'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >The Satintones - My Beloved</h1> <!-- Introductory Text -->
 <p >The Satintones' "My Beloved" is a beautiful classic from Motownâ€™s early years, showcasing the soulful harmonies of the group. The single version without strings adds an extra layer of raw emotion to the already moving track. Listen to it below!</p> <!-- Featured Image -->

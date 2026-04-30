@@ -1,7 +1,8 @@
 ---
-title: "Black Country, New Road"
+title: "Black Country New Road"
+slug: "black-country-new-road"
 date: 2026-03-06
-category: "artist"
+layout: post
 tags:
   - '@black-country-new-road'
 ---

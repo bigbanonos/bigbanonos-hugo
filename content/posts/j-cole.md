@@ -1,10 +1,8 @@
 ---
-title: "J. Cole"
+title: "J Cole"
+slug: "j-cole"
 date: 2026-02-06
-category: "artist"
-track_count: 5
-first_year: 2011
-last_year: 2026
+layout: post
 tags:
   - '@j-cole'
   - '@j-cole-21-savage-morray'
@@ -16,7 +14,6 @@ tags:
   - 'hip hop'
   - 'afrobeats'
   - 'afrobeat'
-stub: true
 ---
 
 ## J. Cole

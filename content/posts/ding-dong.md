@@ -1,10 +1,8 @@
 ---
-title: "DING DONG"
+title: "Ding Dong"
+slug: "ding-dong"
 date: 2025-05-02
-category: "artist"
-track_count: 4
-first_year: 2022
-last_year: 2025
+layout: post
 tags:
   - '@ding-dong'
   - '@ding-dong-dunw3ll'
@@ -13,7 +11,6 @@ tags:
   - 'dancehall'
   - 'soca'
   - 'ragga'
-stub: true
 ---
 
 ## DING DONG

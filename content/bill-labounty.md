@@ -1,12 +1,12 @@
 ---
-title: "' 'Bill LaBounty'
-'"
+title: "Bill Labounty"
+slug: "bill-labounty"
 date: 2025-01-17
-original_title: "'Bill LaBounty'"
+layout: post
 tags:
   - '@billlabounty'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Bill LaBounty</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab67616d0000b273695e765fc5265f56940bf33b" alt="Bill LaBounty" >}}

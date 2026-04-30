@@ -1,10 +1,8 @@
 ---
-title: "Björk"
+title: "Bj Rk"
+slug: "bj-rk"
 date: 2022-09-30
-category: "artist"
-track_count: 7
-first_year: 1993
-last_year: 2022
+layout: post
 tags:
   - '@bj-rk'
   - '@bj-rk-kasimyn'
@@ -14,7 +12,6 @@ tags:
   - 'art pop'
   - 'trip hop'
   - 'footwork'
-stub: true
 ---
 
 ## Björk

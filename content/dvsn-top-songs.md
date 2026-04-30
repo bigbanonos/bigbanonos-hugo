@@ -1,8 +1,8 @@
 ---
-title: "' 'dvsn - Top Songs'
-'"
+title: "Dvsn"
+slug: "dvsn"
 date: 2024-12-21
-original_title: "'dvsn - Top Songs'"
+layout: post
 tags:
   - '@rauwalejandro'
   - '@bujubanton'
@@ -17,8 +17,8 @@ tags:
   - '@tydollasign'
   - '@jaggededge'
   - '@dj_candlestick'
-layout: post
 ---
+
 <h3><em>BigBanonos</em> Favorite Songs by dvsn:</h3> <p>Updated on April 28, 2023, with the latest â€œWorking On My Karma (Chopped Not Slopped)â€ releases, <em>BigBanonos</em> features dvsnâ€™s top tracks showcasing their unique R&B flair with Canadian contemporary vibes.</p> <!--Image-->
 <div class="separator"> <a href="https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2022%2F11%2Fdvsn-2023-world-tour-announcement-info-0a.jpg?fit=max&cbr=1&q=90&w=750&h=500" > <img alt="dvsn" src="https://image-cdn.hypb.st/https%3A%2F%2Fhypebeast.com%2Fimage%2F2022%2F11%2Fdvsn-2023-world-tour-announcement-info-0a.jpg?fit=max&cbr=1&q=90&w=750&h=500" /> </a>
 </div> <!--Spotify Playlist Embed-->

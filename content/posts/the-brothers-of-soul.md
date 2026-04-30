@@ -1,16 +1,13 @@
 ---
 title: "The Brothers Of Soul"
+slug: "the-brothers-of-soul"
 date: 2008-10-14
-category: "artist"
-track_count: 4
-first_year: 2008
-last_year: 2008
+layout: post
 tags:
   - '@the-brothers-of-soul'
   - '00s-10s'
   - 'northern soul'
   - 'classic soul'
-stub: true
 ---
 
 ## The Brothers Of Soul

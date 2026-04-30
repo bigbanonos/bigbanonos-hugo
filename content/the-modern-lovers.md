@@ -1,12 +1,12 @@
 ---
-title: "' 'The Modern Lovers'
-'"
+title: "The Modern Lovers"
+slug: "the-modern-lovers"
 date: 2024-12-29
-original_title: "'The Modern Lovers'"
+layout: post
 tags:
   - '@modernlovers'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonos Favorite Song by The Modern Lovers: "Hospital"</h1> <!-- Introductory Text -->
 <p >Updated September 1, 1976, with "Hospital" by The Modern Lovers. This emotionally raw track from their debut album *Modern Lovers (Expanded Version)* captures the unfiltered vulnerability and poetic storytelling of Jonathan Richman. Watch the video below!</p> <!-- Featured Image -->

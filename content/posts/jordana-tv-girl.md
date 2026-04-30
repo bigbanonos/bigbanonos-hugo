@@ -1,17 +1,14 @@
 ---
-title: "Jordana;TV Girl"
+title: "Jordana Tv Girl"
+slug: "jordana-tv-girl"
 date: 2022-02-08
-category: "artist"
-track_count: 5
-first_year: 2018
-last_year: 2022
+layout: post
 tags:
   - '@jordana-tv-girl'
   - '@jordan-dennis-blush-ko'
   - '@jordana'
   - '00s-10s'
   - '2020s'
-stub: true
 ---
 
 ## Jordana;TV Girl

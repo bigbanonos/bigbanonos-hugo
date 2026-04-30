@@ -1,12 +1,12 @@
 ---
-title: "' 'The Hives'
-'"
+title: "The Hives"
+slug: "the-hives"
 date: 2025-02-12
-original_title: "'The Hives'"
+layout: post
 tags:
   - '@hives'
-layout: post
 ---
+
 <div> {{< img-lite src="https://i.scdn.co/image/ab67616d00001e0268fb48c259aa205c9f18117f" alt="The Hives" >}}
 </div> <p>
 BigBanonos' favorite tracks by The Hives:

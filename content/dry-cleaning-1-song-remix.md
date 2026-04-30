@@ -1,13 +1,13 @@
 ---
-title: "' 'Dry Cleaning'
-'"
+title: "Dry Cleaning 1 Song Remix"
+slug: "dry-cleaning-1-song-remix"
 date: 2024-12-21
-original_title: "'Dry Cleaning - 1 Song & Remix'"
+layout: post
 tags:
   - '@drycleaning'
   - '@nourishedbytime'
-layout: post
 ---
+
 <h3><em>BigBanonos</em> Favorite Songs by Dry Cleaning:</h3> <p>Updated on March 1, 2023, with the remix of â€œGary Ashbyâ€ by Nourished By Time. BigBanonos highlights Dry Cleaningâ€™s top track, showcasing their unique crank wave and UK post-punk revival sound.</p> <!--Image-->
 <div class="separator"> <a href="https://media.pitchfork.com/photos/6317ad81d4bc41f168c74c9e/16:9/w_800%2Ch_450%2Cc_limit/dry-cleaning.jpg" > <img alt="Dry Cleaning" src="https://media.pitchfork.com/photos/6317ad81d4bc41f168c74c9e/16:9/w_800%2Ch_450%2Cc_limit/dry-cleaning.jpg" /> </a>
 </div> <!--Spotify Playlist Embed-->

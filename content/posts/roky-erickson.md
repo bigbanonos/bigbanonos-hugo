@@ -1,16 +1,13 @@
 ---
 title: "Roky Erickson"
+slug: "roky-erickson"
 date: 2017-02-17
-category: "artist"
-track_count: 4
-first_year: 1986
-last_year: 2017
+layout: post
 tags:
   - '@roky-erickson'
   - '00s-10s'
   - '1900s'
   - 'proto-punk'
-stub: true
 ---
 
 ## Roky Erickson

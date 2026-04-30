@@ -1,10 +1,8 @@
 ---
 title: "Willie Nelson"
+slug: "willie-nelson"
 date: 2020-11-19
-category: "artist"
-track_count: 4
-first_year: 1973
-last_year: 2020
+layout: post
 tags:
   - '@willie-nelson'
   - '1900s'
@@ -13,7 +11,6 @@ tags:
   - 'classic country'
   - 'country'
   - 'traditional country'
-stub: true
 ---
 
 ## Willie Nelson

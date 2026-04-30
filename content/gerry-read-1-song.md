@@ -1,13 +1,13 @@
 ---
-title: "' 'Gerry Read'
-'"
+title: "Gerry Read"
+slug: "gerry-read"
 date: 2025-01-16
-original_title: "'Gerry Read - 2 Songs'"
+layout: post
 tags:
   - '@gerryread'
   - '@dizzykfalola'
-layout: post
 ---
+
 <h2 >BigBanonos' Favorite Songs by Gerry Read</h2> <!-- Introductory Text -->
 <p >Gerry Readâ€™s dynamic blend of house, electronic, and experimental sounds continues to captivate listeners. Updated with BigBanonos' top picks, including "Shampoo" and "Be My Friend" (feat. Dizzy K Flola), this post celebrates his innovative artistry.</p> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab6761610000f178dcf46cbadbe3ae5b015be5d4" alt="Gerry Read - Featured Image" >}}

@@ -1,12 +1,12 @@
 ---
-title: "' 'Numi'
-'"
+title: "Numi"
+slug: "numi"
 date: 2024-12-15
-original_title: "'Numi'"
+layout: post
 tags:
   - '@numi'
-layout: post
 ---
+
 <!-- Post Title -->
 <h1 >BigBanonos' Favorite Tracks: Numi - "Hit Me Up"</h1> <!-- Introductory Text -->
 <p >Updated February 10, 2018, with "Hit Me Up" by Numi. This track is a smooth R&B anthem with catchy melodies and a laid-back vibe, showcasing Numiâ€™s unique sound and style.</p> <!-- Featured Image -->

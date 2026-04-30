@@ -1,13 +1,13 @@
 ---
-title: "' 'Teddybears'
-'"
+title: "Teddybears"
+slug: "teddybears"
 date: 2024-12-16
-original_title: "'Teddybears'"
+layout: post
 tags:
   - '@teddybears'
   - '@iggypop'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >Teddybears - Punkrocker (feat. Iggy Pop)</h1> <!-- Introductory Text -->
 <p >Updated with "Punkrocker" by Teddybears featuring Iggy Pop, from the album *Punkrocker Featuring Iggy Pop (6-94402)*, released on July 11, 2006. This high-energy track blends electronic rock with Swedish electropop, driven by Iggy Popâ€™s iconic voice.</p> <!-- Featured Image -->

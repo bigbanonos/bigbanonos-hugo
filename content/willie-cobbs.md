@@ -1,12 +1,12 @@
 ---
-title: "' 'Willie Cobbs'
-'"
+title: "Willie Cobbs"
+slug: "willie-cobbs"
 date: 2025-01-11
-original_title: "'Willie Cobbs'"
+layout: post
 tags:
   - '@williecobbs'
-layout: post
 ---
+
 <div class="post-title"> <h1>BigBanonos' Favorite Songs by Willie Cobbs</h1>
 </div>
 <p>Updated January 1, 2003, with "Kiss Me One More Time" and "You Don't Love Me" from the album <i>Fernwood Rhythm 'N' Blues From Memphis</i>, highlighted in the playlist below:</p>

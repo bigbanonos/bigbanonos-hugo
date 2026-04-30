@@ -1,12 +1,12 @@
 ---
-title: "' 'Brothers Of Soul'
-'"
+title: "Brothers Of Soul"
+slug: "brothers-of-soul"
 date: 2025-01-17
-original_title: "'Brothers Of Soul'"
+layout: post
 tags:
   - '@brothersofsoul'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Brothers Of Soul</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab67616d0000b2731b64b929b04f1420a9c6410a" alt="Brothers Of Soul" >}}

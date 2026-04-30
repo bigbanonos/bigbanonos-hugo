@@ -1,12 +1,12 @@
 ---
-title: "' 'Kevin Morby'
-'"
+title: "Kevin Morby"
+slug: "kevin-morby"
 date: 2024-12-20
-original_title: "'Kevin Morby - 4 Songs'"
+layout: post
 tags:
   - '@kevinmorby'
-layout: post
 ---
+
 <h1>Kevin Morby - 4 Songs</h1>
 {{< img-lite src="https://media.pitchfork.com/photos/5f981cbcb42652c21f25adc9/2:1/w_2560%2Cc_limit/Kevin-Morby.jpg" alt="Kevin Morby Press Photo" >}} <p>Kevin Morbyâ€™s music is a reflective journey through modern folk rock and indie influences, resonating with deep lyricism and a nostalgic sound. These tracks showcase his unique approach to storytelling and genre-blending:</p> <ol> <li><strong>Campfire</strong> | <em>Single</em> | Release Date: September 2, 2020 | Dead Oceans</li> <li><strong>City Music</strong> | <em>City Music</em> | Release Date: June 16, 2017 | Dead Oceans</li> <li><strong>Beautiful Strangers</strong> | <em>Beautiful Strangers b/w No Place to Fall</em> | Release Date: October 27, 2016 | Dead Oceans</li> <li><strong>Miles, Miles, Miles</strong> | <em>Harlem River</em> | Release Date: November 26, 2013 | Woodsist</li>
 </ol> <div> {{< youtube "embed" >}}

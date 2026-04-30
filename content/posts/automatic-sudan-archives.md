@@ -1,10 +1,8 @@
 ---
-title: "Automatic;Sudan Archives"
+title: "Automatic Sudan Archives"
+slug: "automatic-sudan-archives"
 date: 2021-03-26
-category: "artist"
-track_count: 1
-first_year: 2021
-last_year: 2021
+layout: post
 tags:
   - '@automatic-sudan-archives'
   - '2020s'
@@ -12,7 +10,6 @@ tags:
   - 'egg punk'
   - 'alternative r&b'
   - 'indie soul'
-stub: true
 ---
 
 ## Automatic;Sudan Archives

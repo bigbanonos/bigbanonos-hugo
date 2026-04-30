@@ -1,13 +1,13 @@
 ---
-title: "' 'Shins, James Mercer'
-'"
+title: "Shins"
+slug: "shins"
 date: 2025-02-21
-original_title: "'Shins, James Mercer'"
+layout: post
 tags:
   - '@jamesmercer'
   - '@shins'
-layout: post
 ---
+
 <img src="https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F618aa4c2-f0bd-4223-ab4b-397adf2e3341_960x768.jpeg" width="100%" /> <h2>BigBanonos' Favorite Songs by The Shins & James Mercer</h2> <p>Updated October 21, 2003, with highlights from <em>Chutes Too Narrow (20th Anniversary Remaster)</em>. #NotOnSpotify tracks and rare performances below:</p> {{< youtube "_DXnYIBRwsQ" >}} <hr /> <h3>#NotOnSpotify</h3> {{< youtube "xzKUbGqJiFY" >}}
 <p><strong>James Mercer â€“ "Won One Too Many Fights"</strong></p> <hr /> <h3>#Covers w/ Originals</h3> {{< youtube "A6jH8Q_ie_E" >}}
 <p><strong>"Plenty Is Never Enough"</strong> (Tenement Halls)</p> <hr /> <h3>#Highlights</h3> {{< youtube "embed" >}} <p><strong>Highlighted Songs:</strong></p>

@@ -1,10 +1,8 @@
 ---
 title: "The Velvet Underground"
+slug: "the-velvet-underground"
 date: 2014-11-24
-category: "artist"
-track_count: 14
-first_year: 1967
-last_year: 2014
+layout: post
 tags:
   - '@the-velvet-underground'
   - '@the-velvet-underground-nico'
@@ -12,7 +10,6 @@ tags:
   - '1900s'
   - 'proto-punk'
   - 'art rock'
-stub: true
 ---
 
 ## The Velvet Underground

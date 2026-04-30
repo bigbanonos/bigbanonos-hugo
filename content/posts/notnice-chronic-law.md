@@ -1,10 +1,8 @@
 ---
-title: "Notnice;Chronic Law"
+title: "Notnice Chronic Law"
+slug: "notnice-chronic-law"
 date: 2024-03-15
-category: "artist"
-track_count: 3
-first_year: 2022
-last_year: 2024
+layout: post
 tags:
   - '@notnice-chronic-law'
   - '@notnice-aidonia'
@@ -13,7 +11,6 @@ tags:
   - 'soca'
   - 'riddim'
   - 'ragga'
-stub: true
 ---
 
 ## Notnice;Chronic Law

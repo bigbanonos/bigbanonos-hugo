@@ -1,14 +1,14 @@
 ---
-title: "' '8ball & MJG'
-'"
+title: "8ball Mjg"
+slug: "8ball-mjg"
 date: 2025-08-20
-original_title: "'8ball & MJG - 12 Songs'"
+layout: post
 tags:
   - '@mjg'
   - '@8ball'
   - '@ceelo'
-layout: post
 ---
+
 <div> <img alt="8Ball & MJG" src="https://i.scdn.co/image/ab67616d0000b2734d441ba4749eecefcaa87c0c" width="100%" />
 </div> <p>
 BigBanonos' favorite 8Ball & MJG songs, updated on June 21, 2025 with the brand new 8Ball solo track <em>"100Lifes"</em>. Below the update, youâ€™ll also find ten of the duoâ€™s greatest classics, ordered by release date for a full look at their legacy.

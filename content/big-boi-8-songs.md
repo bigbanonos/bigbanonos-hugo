@@ -1,8 +1,8 @@
 ---
-title: "' 'Big Boi'
-'"
+title: "Big Boi"
+slug: "big-boi"
 date: 2024-12-17
-original_title: "'Big Boi - 8 Songs'"
+layout: post
 tags:
   - '@jazzepha'
   - '@killermike'
@@ -14,8 +14,8 @@ tags:
   - '@jamiefoxx'
   - '@mouche'
   - '@bigboi'
-layout: post
 ---
+
 <h2>BigBanonos' Top Songs by Big Boi</h2>
 <!--Search Description-->
 <p>BigBanonos' favorite Big Boi tracks showcasing collaborations with Gucci Mane, Sleepy Brown, Jamie Foxx, and more. Discover highlights like "Shine Blockas," "The Thickets," and "Bowtie" on BigBanonos.</p> {{< youtube "DP1AkAG9lG8" >}}

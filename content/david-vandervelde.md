@@ -1,12 +1,12 @@
 ---
-title: "' 'David Vandervelde'
-'"
+title: "David Vandervelde"
+slug: "david-vandervelde"
 date: 2025-02-21
-original_title: "'David Vandervelde'"
+layout: post
 tags:
   - '@davidvandervelde'
-layout: post
 ---
+
 <img src="https://images.genius.com/72d2fc8b661eec5b3681e7f9bfc1016b.720x720x1.jpg" width="100%" /> <h2>BigBanonos' Favorite Songs by David Vandervelde</h2> <p>Updated June 1, 2010, with "Checkin' Out My Baby." Highlights and #NotOnSpotify picks below:</p> {{< youtube "gdnba3jY0O8" >}} <hr /> <h3>Full Song List</h3> <ul>
 <li><strong>"Nothin' No"</strong> (2007, <em>The Moonstation House Band</em>) - Released January 23, 2007, under Secretly Canadian. A dreamy, psychedelic-tinged rock song.</li>
 <li><strong>"Jacket"</strong> (2007, <em>The Moonstation House Band</em>) - A mix of 70s-inspired glam and modern indie.</li>

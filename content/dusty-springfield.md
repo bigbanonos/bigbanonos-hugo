@@ -1,12 +1,12 @@
 ---
-title: "' 'Dusty Springfield'
-'"
+title: "Dusty Springfield"
+slug: "dusty-springfield"
 date: 2025-01-17
-original_title: "'Dusty Springfield'"
+layout: post
 tags:
   - '@dustyspringfield'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Dusty Springfield</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab67616d0000b27347a2a6b7f276cdc3d67d1361" alt="Dusty Springfield" >}}

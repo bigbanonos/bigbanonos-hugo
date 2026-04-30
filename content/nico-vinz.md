@@ -1,12 +1,12 @@
 ---
-title: "' 'Nico & Vinz'
-'"
+title: "Nico Vinz"
+slug: "nico-vinz"
 date: 2024-12-15
-original_title: "'Nico & Vinz'"
+layout: post
 tags:
   - '@nicoandvinz'
-layout: post
 ---
+
 <!-- Post Title -->
 <h1 >BigBanonos' Favorite Tracks: Nico & Vinz - "Intrigued"</h1> <!-- Introductory Text -->
 <p >Updated June 22, 2017, with "Intrigued" by Nico & Vinz. This track from the album <em>Intrigued</em>, released under Warner Records, blends smooth R&B with the rhythmic influences of Afrobeats, showcasing Nico & Vinzâ€™s unique musical style.</p> <!-- Featured Image -->

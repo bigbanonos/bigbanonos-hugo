@@ -1,15 +1,12 @@
 ---
 title: "Bo Burnham"
+slug: "bo-burnham"
 date: 2022-06-03
-category: "artist"
-track_count: 2
-first_year: 2022
-last_year: 2022
+layout: post
 tags:
   - '@bo-burnham'
   - '2020s'
   - 'comedy'
-stub: true
 ---
 
 ## Bo Burnham

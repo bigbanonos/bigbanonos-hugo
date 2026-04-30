@@ -1,12 +1,12 @@
 ---
-title: "' 'Uncle Tupelo'
-'"
+title: "Uncle Tupelo"
+slug: "uncle-tupelo"
 date: 2025-01-10
-original_title: "'Uncle Tupelo'"
+layout: post
 tags:
   - '@uncletupelo'
-layout: post
 ---
+
 <div class="post-title"> <h1>BigBanonos' Favorite Songs by Uncle Tupelo</h1>
 </div>
 <p>Updated October 1, 1993, with "New Madrid" from the album <i>Anodyne</i>, highlighted in the playlist below:</p>

@@ -1,12 +1,12 @@
 ---
-title: "' 'The Halo Benders'
-'"
+title: "The Halo Benders"
+slug: "the-halo-benders"
 date: 2024-12-20
-original_title: "'The Halo Benders - 2 Songs'"
+layout: post
 tags:
   - '@halobenders'
-layout: post
 ---
+
 <h1>BigBanonos 2 Favorite Tracks by The Halo Benders</h1>
 {{< img-lite src="https://i.scdn.co/image/ff7ca7e65b3ae9fb6eb25b98f116b4f9d627b066" alt="The Halo Benders" >}} <p>Dive into the world of lo-fi and slacker rock with The Halo Benders. These standout tracks capture the bandâ€™s unique blend of Olympia indie spirit and relaxed, unpolished sound, defining the genreâ€™s charm.</p> <ol> <li><strong>Don't Touch My Bikini</strong> | <em>God Donâ€™t Make No Junk</em> | K Records | Released: June 28, 1994</li> <li><strong>Snowfall</strong> | <em>God Donâ€™t Make No Junk</em> | K Records | Released: June 28, 1994</li>
 </ol> <div> {{< youtube "embed" >}}

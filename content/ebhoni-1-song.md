@@ -1,13 +1,13 @@
 ---
-title: "' 'Ebhoni'
-'"
+title: "Ebhoni"
+slug: "ebhoni"
 date: 2025-01-16
-original_title: "'Ebhoni - 3 Songs'"
+layout: post
 tags:
   - '@ebhoni'
   - '@florentino'
-layout: post
 ---
+
 <h2 >BigBanonos' Top 3 Ebhoni Songs</h2> <!-- Introductory Text -->
 <p >Updated June 24, 2021, with <em>Rotation</em>. Ebhoniâ€™s smooth blend of R&B, pop, and electronic elements has solidified her as a standout artist in the contemporary music scene. Explore BigBanonosâ€™ favorite tracks below!</p> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab67616d0000b27337ac8bc04c96665aa9f780d8" alt="Ebhoni Album Cover" >}}

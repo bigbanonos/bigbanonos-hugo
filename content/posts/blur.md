@@ -1,10 +1,8 @@
 ---
 title: "Blur"
+slug: "blur"
 date: 2023-07-21
-category: "artist"
-track_count: 9
-first_year: 1994
-last_year: 2023
+layout: post
 tags:
   - '@blur'
   - '00s-10s'
@@ -13,7 +11,6 @@ tags:
   - 'britpop'
   - 'madchester'
   - 'alternative rock'
-stub: true
 ---
 
 ## Blur

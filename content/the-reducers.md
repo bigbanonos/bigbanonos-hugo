@@ -1,12 +1,12 @@
 ---
-title: "' 'The Reducers'
-'"
+title: "The Reducers"
+slug: "the-reducers"
 date: 2024-12-29
-original_title: "'The Reducers'"
+layout: post
 tags:
   - '@reducers'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonos Favorite Song by Reducers: "Out Of Step"</h1> <!-- Introductory Text -->
 <p >Updated January 1, 1991, with "Out Of Step" by Reducers. This high-energy track from their album *Redux*, released under Rave On Records, perfectly captures the bandâ€™s raw and relentless punk rock spirit. Watch and listen below!</p> <!-- Featured Image -->

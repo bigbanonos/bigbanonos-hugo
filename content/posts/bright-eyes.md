@@ -1,10 +1,8 @@
 ---
 title: "Bright Eyes"
+slug: "bright-eyes"
 date: 2024-09-20
-category: "artist"
-track_count: 39
-first_year: 1998
-last_year: 2024
+layout: post
 tags:
   - '@bright-eyes'
   - '@bright-eyes-neva-dinova'
@@ -12,7 +10,6 @@ tags:
   - '1900s'
   - '2020s'
   - 'indie folk'
-stub: true
 ---
 
 ## Bright Eyes

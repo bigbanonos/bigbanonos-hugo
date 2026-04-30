@@ -1,10 +1,8 @@
 ---
-title: "Kraff Gad;Jiggy D"
+title: "Kraff Gad Jiggy D"
+slug: "kraff-gad-jiggy-d"
 date: 2025-02-14
-category: "artist"
-track_count: 5
-first_year: 2023
-last_year: 2025
+layout: post
 tags:
   - '@kraff-gad-jiggy-d'
   - '@kraff-gad'
@@ -15,7 +13,6 @@ tags:
   - 'dancehall'
   - 'soca'
   - 'riddim'
-stub: true
 ---
 
 ## Kraff Gad;Jiggy D

@@ -1,10 +1,8 @@
 ---
 title: "Dead Kennedys"
+slug: "dead-kennedys"
 date: 1987-06-15
-category: "artist"
-track_count: 3
-first_year: 1980
-last_year: 1987
+layout: post
 tags:
   - '@dead-kennedys'
   - '1900s'
@@ -12,7 +10,6 @@ tags:
   - 'hardcore punk'
   - 'skate punk'
   - 'proto-punk'
-stub: true
 ---
 
 ## Dead Kennedys

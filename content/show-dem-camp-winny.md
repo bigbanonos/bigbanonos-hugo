@@ -1,14 +1,13 @@
 ---
-title: "Show Dem Camp & Winny"
+title: "Show Dem Camp Winny"
+slug: "show-dem-camp-winny"
 date: 2025-11-03
+layout: post
 tags:
   - '@showdemcamp'
   - '@winny'
   - '@alte'
   - '@afrobeats'
-spotify_url: "https://open.spotify.com/track/3WWp5eSOe9SmLVt4OZihnU"
-not_on_spotify: false
-category: "1off-2020s"
 ---
 
 Nigerian alté from Show Dem Camp and Winny. Pele is the standout but Lego (solo Winny) is worth your time too.

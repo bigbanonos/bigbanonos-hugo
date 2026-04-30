@@ -1,16 +1,13 @@
 ---
-title: "Simon & Garfunkel"
+title: "Simon Garfunkel"
+slug: "simon-garfunkel"
 date: 1982-02-16
-category: "artist"
-track_count: 4
-first_year: 1966
-last_year: 1982
+layout: post
 tags:
   - '@simon-garfunkel'
   - '1900s'
   - 'folk rock'
   - 'folk'
-stub: true
 ---
 
 ## Simon & Garfunkel

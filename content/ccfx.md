@@ -1,12 +1,12 @@
 ---
-title: "' 'CCFX'
-'"
+title: "Ccfx"
+slug: "ccfx"
 date: 2024-12-03
-original_title: "'CCFX'"
+layout: post
 tags:
   - '@ccfx'
-layout: post
 ---
+
 <!-- Post Title -->
 <h1 >BigBanonos' Favorite Song by CCFX</h1> <!-- Introductory Text -->
 <p >Updated October 20, 2017 with BigBanonos' favorite track, "The One to Wait" by CCFX. This standout Olympia indie track from their acclaimed *CCFX EP* captivates with its heartfelt melodies and introspective vibe.</p> <!-- Featured Image -->

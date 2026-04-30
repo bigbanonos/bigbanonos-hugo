@@ -1,12 +1,12 @@
 ---
-title: "' 'Champagne'
-'"
+title: "Champagne"
+slug: "champagne"
 date: 2024-12-03
-original_title: "'Champagne'"
+layout: post
 tags:
   - '@champagne'
-layout: post
 ---
+
 <!-- Post Title -->
 <h1 >BigBanonos' Favorite Song by Champagne</h1> <!-- Introductory Text -->
 <p >Updated December 6, 2019 with BigBanonos' favorite track, "Ketch E Rake" by Champagne. This vibrant dancehall anthem from the *Talk Back Riddim* brings undeniable energy and rhythm.</p> <!-- Featured Image -->

@@ -1,13 +1,13 @@
 ---
-title: "' 'Brian Eno'
-'"
+title: "Brian Eno"
+slug: "brian-eno"
 date: 2025-01-17
-original_title: "'Brian Eno'"
+layout: post
 tags:
   - '@johncale'
   - '@brianeno'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Brian Eno</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab67616d0000b27384d9788915697efd5cbf56f4" alt="Brian Eno" >}}

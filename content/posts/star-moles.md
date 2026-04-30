@@ -1,14 +1,11 @@
 ---
 title: "Star Moles"
+slug: "star-moles"
 date: 2026-02-19
-category: "artist"
-track_count: 3
-first_year: 2025
-last_year: 2026
+layout: post
 tags:
   - '@star-moles'
   - '2020s'
-stub: true
 ---
 
 ## Star Moles

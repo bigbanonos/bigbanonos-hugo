@@ -1,10 +1,8 @@
 ---
-title: "Pusha T;Ms. Lauryn Hill"
+title: "Pusha T Ms Lauryn Hill"
+slug: "pusha-t-ms-lauryn-hill"
 date: 2022-04-22
-category: "artist"
-track_count: 4
-first_year: 2013
-last_year: 2022
+layout: post
 tags:
   - '@pusha-t-ms-lauryn-hill'
   - '@pusha-t'
@@ -14,7 +12,6 @@ tags:
   - '2020s'
   - 'neo soul'
   - 'rap'
-stub: true
 ---
 
 ## Pusha T;Ms. Lauryn Hill

@@ -1,12 +1,12 @@
 ---
-title: "' 'A Grave With No Name'
-'"
+title: "A Grave With No Name"
+slug: "a-grave-with-no-name"
 date: 2024-12-21
-original_title: "'A Grave With No Name - 3 Songs'"
+layout: post
 tags:
   - '@agravewithnoname'
-layout: post
 ---
+
 <h3>BigBanonos Top Tracks: A Grave With No Name - 3 Songs</h3>
 <div class="separator"> <a href="https://ksassets.timeincuk.net/wp/uploads/sites/55/2009/04/09420_192202_agrave-1.jpg" > <img alt="A Grave With No Name" border="0" height="350" src="https://ksassets.timeincuk.net/wp/uploads/sites/55/2009/04/09420_192202_agrave-1.jpg" /> </a>
 </div> <p>This collection from <em>BigBanonos</em> features A Grave With No Name, a blend of folk and popgaze with beautifully ambient tracks from albums released over the past decade.</p> <ol> <li><strong>By The Water's Edge</strong> â€ <em>October 10, 2011</em> â€ Album: Lower | Label: Boiled Egg | Genres: Folk/Acoustic, popgaze</li> <li><strong>Zachary</strong> â€ <em>November 17, 2009</em> â€ Album: Mountain Debris | Label: Lefse Records | Genres: Folk/Acoustic, popgaze</li> <li><strong>Sofia</strong> â€ <em>November 17, 2009</em> â€ Album: Mountain Debris | Label: Lefse Records | Genres: Folk/Acoustic, popgaze</li>

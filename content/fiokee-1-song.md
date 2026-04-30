@@ -1,12 +1,12 @@
 ---
-title: "' 'Fiokee'
-'"
+title: "Fiokee"
+slug: "fiokee"
 date: 2020-10-30
-original_title: "'Fiokee - 1 Song'"
+layout: post
 tags:
   - '@djcoublon'
-layout: post
 ---
+
 {{< youtube "xWx7m4D3DkU" >}}<br /><br />
 <h3><ol><li>(ft.Ãƒâ€šÃ‚Â Teni, DJ Coublon) OSAN [2020]</li>
 </ol></h3>

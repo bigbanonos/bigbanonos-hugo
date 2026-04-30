@@ -1,13 +1,13 @@
 ---
-title: "' 'Majid Jordan'
-'"
+title: "Majid Jordan"
+slug: "majid-jordan"
 date: 2024-12-14
-original_title: "'Majid Jordan'"
+layout: post
 tags:
   - '@majidjordan'
   - '@dvsn'
-layout: post
 ---
+
 <!-- Post Title -->
 <h1 >BigBanonos' Favorite Tracks: Majid Jordan & dvsn - "My Imagination"</h1> <!-- Introductory Text -->
 <p >Updated October 27, 2017, with "My Imagination" by Majid Jordan featuring dvsn. This sultry track from the album <em>The Space Between</em>, released under OVO Sound, combines smooth Canadian contemporary R&B with introspective lyrics and atmospheric production.</p> <!-- Featured Image -->

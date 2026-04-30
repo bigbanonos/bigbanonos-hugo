@@ -1,7 +1,8 @@
 ---
-title: "FOLA"
+title: "Fola"
+slug: "fola"
 date: 2025-08-07
-category: "artist"
+layout: post
 tags:
   - '@fola'
 ---

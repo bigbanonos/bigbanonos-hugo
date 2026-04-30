@@ -1,10 +1,8 @@
 ---
 title: "The Only Ones"
+slug: "the-only-ones"
 date: 2006-10-28
-category: "artist"
-track_count: 3
-first_year: 1978
-last_year: 2006
+layout: post
 tags:
   - '@the-only-ones'
   - '00s-10s'
@@ -12,7 +10,6 @@ tags:
   - 'power pop'
   - 'proto-punk'
   - 'new wave'
-stub: true
 ---
 
 ## The Only Ones

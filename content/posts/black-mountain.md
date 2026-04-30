@@ -1,10 +1,8 @@
 ---
 title: "Black Mountain"
+slug: "black-mountain"
 date: 2008-01-22
-category: "artist"
-track_count: 4
-first_year: 2005
-last_year: 2008
+layout: post
 tags:
   - '@black-mountain'
   - '00s-10s'
@@ -12,7 +10,6 @@ tags:
   - 'neo-psychedelic'
   - 'psychedelic rock'
   - 'space rock'
-stub: true
 ---
 
 ## Black Mountain

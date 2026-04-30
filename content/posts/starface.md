@@ -1,15 +1,12 @@
 ---
 title: "Starface"
+slug: "starface"
 date: 2019-02-15
-category: "artist"
-track_count: 2
-first_year: 2015
-last_year: 2019
+layout: post
 tags:
   - '@starface'
   - '00s-10s'
   - 'dancehall'
-stub: true
 ---
 
 ## Starface

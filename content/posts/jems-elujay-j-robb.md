@@ -1,16 +1,13 @@
 ---
-title: "JEMS!;Elujay;J.Robb"
+title: "Jems Elujay J Robb"
+slug: "jems-elujay-j-robb"
 date: 2024-09-20
-category: "artist"
-track_count: 3
-first_year: 2024
-last_year: 2024
+layout: post
 tags:
   - '@jems-elujay-j-robb'
   - '2020s'
   - 'alternative r&b'
   - 'indie r&b'
-stub: true
 ---
 
 ## JEMS!;Elujay;J.Robb

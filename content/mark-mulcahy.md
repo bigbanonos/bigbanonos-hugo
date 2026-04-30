@@ -1,12 +1,12 @@
 ---
-title: "' 'Mark Mulcahy'
-'"
+title: "Mark Mulcahy"
+slug: "mark-mulcahy"
 date: 2024-12-14
-original_title: "'Mark Mulcahy'"
+layout: post
 tags:
   - '@markmulcahy'
-layout: post
 ---
+
 <!-- Post Title -->
 <h1 >BigBanonos' Favorite Tracks: Mark Mulcahy - "She Makes the World Turn Backwards"</h1> <!-- Introductory Text -->
 <p >Updated June 18, 2013, with "She Makes the World Turn Backwards" by Mark Mulcahy. This heartfelt track from the album <em>Dear Mark J. Mulcahy, I Love You</em>, released under The Mezzotint Label, highlights Mulcahyâ€™s distinct voice and the rich storytelling of Connecticut indie rock.</p> <!-- Featured Image -->

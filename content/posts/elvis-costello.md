@@ -1,17 +1,14 @@
 ---
 title: "Elvis Costello"
+slug: "elvis-costello"
 date: 1981-01-01
-category: "artist"
-track_count: 3
-first_year: 1977
-last_year: 1981
+layout: post
 tags:
   - '@elvis-costello'
   - '@elvis-costello-the-attractions'
   - '1900s'
   - 'power pop'
   - 'new wave'
-stub: true
 ---
 
 ## Elvis Costello

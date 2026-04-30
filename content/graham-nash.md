@@ -1,12 +1,12 @@
 ---
-title: "' 'Graham Nash'
-'"
+title: "Graham Nash"
+slug: "graham-nash"
 date: 2024-12-17
-original_title: "'Graham Nash'"
+layout: post
 tags:
   - '@grahamnash'
-layout: post
 ---
+
 <h2>BigBanonos' Favorite Tracks: Graham Nash</h2> <div > <a href="https://www.rollingstone.com/wp-content/uploads/2024/10/Graham-Nash-interview.jpg?w=1581&h=1054&crop=1"> <img src="https://www.rollingstone.com/wp-content/uploads/2024/10/Graham-Nash-interview.jpg?w=1581&h=1054&crop=1" alt="Graham Nash" width="400" /> </a>
 </div> <p><em>BigBanonos</em> presents a collection of favorite tracks from the legendary Graham Nash, highlighting his timeless contributions to folk rock and singer-songwriter traditions.</p> <h3>Selected Tracks</h3>
 <ol> <li><strong>Military Madness</strong> â€“ <em>Songs For Beginners</em> (1971)</li> <li><strong>Sleep Song</strong> â€“ <em>Songs For Beginners</em> (1971)</li>

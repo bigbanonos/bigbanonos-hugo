@@ -1,16 +1,13 @@
 ---
 title: "Brendan Benson"
+slug: "brendan-benson"
 date: 2012-04-24
-category: "artist"
-track_count: 3
-first_year: 2006
-last_year: 2012
+layout: post
 tags:
   - '@brendan-benson'
   - '00s-10s'
   - 'power pop'
   - 'jangle pop'
-stub: true
 ---
 
 ## Brendan Benson

@@ -1,12 +1,12 @@
 ---
-title: "' 'Local H'
-'"
+title: "Local H"
+slug: "local-h"
 date: 2025-01-19
-original_title: "'Local H'"
+layout: post
 tags:
   - '@localh'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonos Favorite Songs by Local H</h1> <!-- Introductory Text -->
 <p >Updated January 17, 2025, with "Mansplainer" from <em>Hey, Killer</em>. Dive into the grungy vibes of Local H in the playlist below!</p> <!-- Featured Image -->

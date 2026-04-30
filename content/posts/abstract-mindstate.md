@@ -1,8 +1,8 @@
 ---
 title: "Abstract Mindstate"
+slug: "abstract-mindstate"
 date: 2021-07-21
-category: "1off"
-era: "2020s"
+layout: post
 tags:
   - '@abstractmindstate'
   - '1-off'

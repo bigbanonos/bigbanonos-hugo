@@ -1,12 +1,12 @@
 ---
-title: "' 'DJ Douggpound'
-'"
+title: "Dj Douggpound"
+slug: "dj-douggpound"
 date: 2025-01-19
-original_title: "'DJ Douggpound'"
+layout: post
 tags:
   - '@djdouggpound'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by DJ Douggpound</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab6761610000e5eb037eceee8cc183b610cfa98f" alt="DJ Douggpound" >}}

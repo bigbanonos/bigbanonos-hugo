@@ -1,10 +1,8 @@
 ---
 title: "Charlie Poole"
+slug: "charlie-poole"
 date: 2009-01-01
-category: "artist"
-track_count: 2
-first_year: 2005
-last_year: 2009
+layout: post
 tags:
   - '@charlie-poole'
   - '@charlie-poole-the-north-carolina-ramblers'
@@ -13,7 +11,6 @@ tags:
   - 'bluegrass'
   - 'traditional folk'
   - 'country blues'
-stub: true
 ---
 
 ## Charlie Poole

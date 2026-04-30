@@ -1,10 +1,8 @@
 ---
 title: "Cat Power"
+slug: "cat-power"
 date: 2021-12-14
-category: "artist"
-track_count: 5
-first_year: 2005
-last_year: 2021
+layout: post
 tags:
   - '@cat-power'
   - '@conor-oberst'
@@ -16,7 +14,6 @@ tags:
   - 'singer-songwriter'
   - 'new wave'
   - 'post-punk'
-stub: true
 ---
 
 ## Cat Power

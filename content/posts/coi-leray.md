@@ -1,15 +1,12 @@
 ---
 title: "Coi Leray"
+slug: "coi-leray"
 date: 2023-08-30
-category: "artist"
-track_count: 4
-first_year: 2022
-last_year: 2023
+layout: post
 tags:
   - '@coi-leray'
   - '@coi-leray-nicki-minaj'
   - '2020s'
-stub: true
 ---
 
 ## Coi Leray

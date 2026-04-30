@@ -1,12 +1,12 @@
 ---
-title: "' 'Dijon'
-'"
+title: "Dijon"
+slug: "dijon"
 date: 2025-08-29
-original_title: "'Dijon - 10+ Songs'"
+layout: post
 tags:
   - '@dijon'
-layout: post
 ---
+
 <img src="https://images.genius.com/8615828ebc5c02e2fba7039c52f459ff.1000x1000x1.jpg" width="100%" alt="Dijon - Baby (2025)" /> <h3><em>BigBanonos</em> Favorite Songs by Dijon:</h3> <p>Updated on August 15, 2025, with highlights from Dijon's new album <em>Baby</em> â€ including <em>"Kindalove,"</em> <em>"Baby!,"</em> <em>"HIGHER!,"</em> and <em>"Automatic."</em> BigBanonosâ€™ favorite songs by Dijon showcase his intimate, soulful bedroom R&B sound.</p> <!-- YouTube Embeds -->
 {{< youtube "mrUE3al1XJ8" >}} {{< youtube "TsdlyIlbqfc" >}} <!--Spotify Playlist Embed-->
 {{< youtube "embed" >}} <!--Song Listings-->

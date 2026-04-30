@@ -1,10 +1,8 @@
 ---
 title: "Cut Copy"
+slug: "cut-copy"
 date: 2014-07-18
-category: "artist"
-track_count: 2
-first_year: 2011
-last_year: 2014
+layout: post
 tags:
   - '@cut-copy'
   - '00s-10s'
@@ -12,7 +10,6 @@ tags:
   - 'indie dance'
   - 'indie electronic'
   - 'new rave'
-stub: true
 ---
 
 ## Cut Copy

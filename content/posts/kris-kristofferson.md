@@ -1,17 +1,14 @@
 ---
 title: "Kris Kristofferson"
+slug: "kris-kristofferson"
 date: 1972-02-15
-category: "artist"
-track_count: 5
-first_year: 1970
-last_year: 1972
+layout: post
 tags:
   - '@kris-kristofferson'
   - '1900s'
   - 'outlaw country'
   - 'classic country'
   - 'country'
-stub: true
 ---
 
 ## Kris Kristofferson

@@ -1,15 +1,12 @@
 ---
-title: "NEZ;Aluna;Shadow Child;Flo Milli;8AE"
+title: "Nez Aluna Shadow Child Flo Milli 8ae"
+slug: "nez-aluna-shadow-child-flo-milli-8ae"
 date: 2021-09-17
-category: "artist"
-track_count: 2
-first_year: 2020
-last_year: 2021
+layout: post
 tags:
   - '@nez-aluna-shadow-child-flo-milli-8ae'
   - '@nez-schoolboy-q'
   - '2020s'
-stub: true
 ---
 
 ## NEZ;Aluna;Shadow Child;Flo Milli;8AE

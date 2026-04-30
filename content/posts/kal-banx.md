@@ -1,7 +1,8 @@
 ---
 title: "Kal Banx"
+slug: "kal-banx"
 date: 2026-04-16
-category: "artist"
+layout: post
 tags:
   - '@kalbanx'
   - '@smino'

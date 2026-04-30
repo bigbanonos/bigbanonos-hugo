@@ -1,14 +1,11 @@
 ---
 title: "Tina Turner"
+slug: "tina-turner"
 date: 2008-09-30
-category: "artist"
-track_count: 1
-first_year: 2008
-last_year: 2008
+layout: post
 tags:
   - '@tina-turner'
   - '00s-10s'
-stub: true
 ---
 
 ## Tina Turner

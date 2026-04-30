@@ -1,12 +1,12 @@
 ---
-title: "' 'Charles Hamilton'
-'"
+title: "Charles Hamilton"
+slug: "charles-hamilton"
 date: 2024-12-27
-original_title: "'Charles Hamilton'"
+layout: post
 tags:
   - '@charleshamilton'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonos Favorite Song by Charles Hamilton: "I Hate Parties"</h1> <!-- Introductory Text -->
 <p >Updated January 1, 2009, with "I Hate Parties" by Charles Hamilton. This introspective hip-hop track captures Hamiltonâ€™s unique lyricism and reflective tone, showcasing his talent for storytelling. Watch the video below!</p> <!-- Featured Image -->

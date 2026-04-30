@@ -1,16 +1,13 @@
 ---
-title: "Suki Waterhouse;Belle and Sebastian"
+title: "Suki Waterhouse Belle And Sebastian"
+slug: "suki-waterhouse-belle-and-sebastian"
 date: 2023-06-13
-category: "artist"
-track_count: 2
-first_year: 2022
-last_year: 2023
+layout: post
 tags:
   - '@suki-waterhouse-belle-and-sebastian'
   - '@suki-waterhouse'
   - '2020s'
   - 'baroque pop'
-stub: true
 ---
 
 ## Suki Waterhouse;Belle and Sebastian

@@ -1,15 +1,12 @@
 ---
-title: "MiniBoone"
+title: "Miniboone"
+slug: "miniboone"
 date: 2015-04-21
-category: "artist"
-track_count: 2
-first_year: 2015
-last_year: 2015
+layout: post
 tags:
   - '@miniboone'
   - '00s-10s'
   - 'indie pop'
-stub: true
 ---
 
 ## MiniBoone

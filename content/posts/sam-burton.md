@@ -1,14 +1,11 @@
 ---
 title: "Sam Burton"
+slug: "sam-burton"
 date: 2020-10-30
-category: "artist"
-track_count: 2
-first_year: 2020
-last_year: 2020
+layout: post
 tags:
   - '@sam-burton'
   - '2020s'
-stub: true
 ---
 
 ## Sam Burton

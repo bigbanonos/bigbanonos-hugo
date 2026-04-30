@@ -1,15 +1,12 @@
 ---
 title: "Kappa"
+slug: "kappa"
 date: 2018-06-22
-category: "artist"
-track_count: 1
-first_year: 2018
-last_year: 2018
+layout: post
 tags:
   - '@kappa'
   - '00s-10s'
   - 'riddim'
-stub: true
 ---
 
 ## Kappa

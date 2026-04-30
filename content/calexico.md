@@ -1,12 +1,12 @@
 ---
-title: "' 'Calexico'
-'"
+title: "Calexico"
+slug: "calexico"
 date: 2024-12-03
-original_title: "'Calexico'"
+layout: post
 tags:
   - '@calexico'
-layout: post
 ---
+
 <!-- Post Title -->
 <h1 >BigBanonos' Favorite Song by Calexico</h1> <!-- Introductory Text -->
 <p >Updated April 13, 2015, with BigBanonos' favorite track, "Cumbia de Donde" by Calexico. This vibrant tune from the acclaimed album *Edge of the Sun* beautifully blends alternative country, chamber pop, and roots rock influences with a Tucson indie flair.</p> <!-- Featured Image -->

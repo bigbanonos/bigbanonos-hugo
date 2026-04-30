@@ -1,12 +1,12 @@
 ---
-title: "' 'Ron Isley'
-'"
+title: "Ron Isley"
+slug: "ron-isley"
 date: 2024-12-29
-original_title: "'Ron Isley'"
+layout: post
 tags:
   - '@ronisley'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonos Favorite Song by Ron Isley: "Take It How You Want It"</h1> <!-- Introductory Text -->
 <p >Updated January 1, 2010, with "Take It How You Want It" by Ron Isley. From his album *Mr. I*, released under RAL Records, this contemporary R&B track blends soulful vocals with elements of new jack swing. Watch and listen below!</p> <!-- Featured Image -->

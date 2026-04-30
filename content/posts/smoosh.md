@@ -1,14 +1,11 @@
 ---
 title: "Smoosh"
+slug: "smoosh"
 date: 2006-01-01
-category: "artist"
-track_count: 6
-first_year: 2004
-last_year: 2006
+layout: post
 tags:
   - '@smoosh'
   - '00s-10s'
-stub: true
 ---
 
 ## Smoosh

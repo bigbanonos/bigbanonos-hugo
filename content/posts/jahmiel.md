@@ -1,10 +1,8 @@
 ---
-title: "jahmiel"
+title: "Jahmiel"
+slug: "jahmiel"
 date: 2026-01-02
-category: "artist"
-track_count: 7
-first_year: 2015
-last_year: 2026
+layout: post
 tags:
   - '@jahmiel'
   - '@jahmeil'
@@ -16,7 +14,6 @@ tags:
   - 'riddim'
   - 'reggae'
   - 'soca'
-stub: true
 ---
 
 ## jahmiel

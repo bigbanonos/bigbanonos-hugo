@@ -1,16 +1,13 @@
 ---
-title: "ShooterGang Kony"
+title: "Shootergang Kony"
+slug: "shootergang-kony"
 date: 2019-07-17
-category: "artist"
-track_count: 2
-first_year: 2019
-last_year: 2019
+layout: post
 tags:
   - '@shootergang-kony'
   - '@shootergang-kony-daboii-nef-the-pharaoh-mike-sherm'
   - '00s-10s'
   - 'hyphy'
-stub: true
 ---
 
 ## ShooterGang Kony

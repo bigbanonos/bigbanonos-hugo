@@ -1,15 +1,15 @@
 ---
-title: "' 'Frank Ocean'
-'"
+title: "Frank Ocean"
+slug: "frank-ocean"
 date: 2024-12-17
-original_title: "'Frank Ocean'"
+layout: post
 tags:
   - '@mickjagger'
   - '@paulsimonon'
   - '@frankocean'
   - '@diplo'
-layout: post
 ---
+
 <h2>BigBanonos' Favorite Tracks: Frank Ocean â€“ 9 Songs</h2> <div > <a href="https://www.rollingstone.com/wp-content/uploads/2019/09/frank-ocean-next-album-lie.jpg?w=1581&h=1054&crop=1"> <img src="https://www.rollingstone.com/wp-content/uploads/2019/09/frank-ocean-next-album-lie.jpg?w=1581&h=1054&crop=1" alt="Frank Ocean" width="400" /> </a>
 </div> <p><em>BigBanonos</em> celebrates the artistry of Frank Ocean with a selection of his top tracks that blend neo-soul, R&B, and hip-hop influences. Updated to include standout moments from his iconic albums and singles.</p> <h3>Selected Tracks</h3>
 <ol> <li><strong>Moon River</strong> â€“ <em>Moon River</em> (2018)</li> <li><strong>Biking (Solo)</strong> â€“ <em>Biking (Solo)</em> (2017)</li> <li><strong>Chanel</strong> â€“ <em>Chanel</em> (2017)</li> <li><strong>Nikes</strong> â€“ <em>Blonde</em> (2016)</li> <li><strong>Ivy</strong> â€“ <em>Blonde</em> (2016)</li> <li><strong>Pink + White</strong> â€“ <em>Blonde</em> (2016)</li> <li><strong>Nights</strong> â€“ <em>Blonde</em> (2016)</li> <li><strong>Lost</strong> â€“ <em>channel ORANGE</em> (2012)</li> <li><strong>Hero</strong> (ft. Mick Jagger, Paul Simonon, Diplo) â€“ <em>Hero</em> (2014)</li>

@@ -1,12 +1,12 @@
 ---
-title: "' 'The Fine Young Cannibals'
-'"
+title: "The Fine Young Cannibals"
+slug: "the-fine-young-cannibals"
 date: 2025-01-17
-original_title: "'The Fine Young Cannibals'"
+layout: post
 tags:
   - '@fineyoungcannibals'
-layout: post
 ---
+
 <!-- Fine Young Cannibals - BigBanonos' Favorite Songs -->
 <h1 >BigBanonosâ€™ Favorite Songs by Fine Young Cannibals</h1>
 <div > {{< img-lite src="https://i.scdn.co/image/ab6761610000e5eb61dce24c33b8b4d70fc587b6" alt="Fine Young Cannibals" >}}

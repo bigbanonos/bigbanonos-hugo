@@ -1,12 +1,12 @@
 ---
-title: "' 'Electrelane'
-'"
+title: "Electrelane"
+slug: "electrelane"
 date: 2024-12-29
-original_title: "'Electrelane'"
+layout: post
 tags:
   - '@electrelane'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonos Favorite Song by Electrelane: "Cut and Run"</h1> <!-- Introductory Text -->
 <p >Updated January 1, 2007, with "Cut and Run" by Electrelane. This mesmerizing track from their album *No Shouts, No Calls* highlights the bandâ€™s blend of British alternative rock and experimental indie rock. Watch the video below!</p> <!-- Featured Image -->

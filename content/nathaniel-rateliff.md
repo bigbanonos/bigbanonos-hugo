@@ -1,12 +1,12 @@
 ---
-title: "' 'Nathaniel Rateliff'
-'"
+title: "Nathaniel Rateliff"
+slug: "nathaniel-rateliff"
 date: 2024-12-15
-original_title: "'Nathaniel Rateliff'"
+layout: post
 tags:
   - '@nathanielrateliff'
-layout: post
 ---
+
 <!-- Post Title -->
 <h1 >BigBanonos' Favorite Tracks: Nathaniel Rateliff - "Easy"</h1> <!-- Introductory Text -->
 <p >Updated January 27, 2015, with "Easy" by Nathaniel Rateliff. This track from the album <em>Closer</em>, released under Mod y Vi Records, blends indie folk with new Americana, showcasing Rateliff's soulful vocals and signature stomp-and-holler style.</p> <!-- Featured Image -->

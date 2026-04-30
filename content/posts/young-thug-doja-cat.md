@@ -1,10 +1,8 @@
 ---
-title: "Young Thug;Doja Cat"
+title: "Young Thug Doja Cat"
+slug: "young-thug-doja-cat"
 date: 2021-10-15
-category: "artist"
-track_count: 4
-first_year: 2016
-last_year: 2021
+layout: post
 tags:
   - '@young-thug-doja-cat'
   - '@young-thug-elton-john'
@@ -16,7 +14,6 @@ tags:
   - 'melodic rap'
   - 'trap'
   - 'melodic techno'
-stub: true
 ---
 
 ## Young Thug;Doja Cat

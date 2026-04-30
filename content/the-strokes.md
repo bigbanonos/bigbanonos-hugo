@@ -1,12 +1,12 @@
 ---
-title: "' 'The Strokes'
-'"
+title: "The Strokes"
+slug: "the-strokes"
 date: 2025-02-10
-original_title: "'The Strokes'"
+layout: post
 tags:
   - '@strokes'
-layout: post
 ---
+
  <!-- The Strokes -->
 <img src="https://i.scdn.co/image/ab67616d00001e02c086288a89f2c9c17c51ac16" /> <p><strong>Updated March 21, 2011 with "Under Cover of Darkness" from <em>Angles</em></strong></p> <p><strong>"Under Cover of Darkness"</strong> â€“ <em>Angles</em> (RCA Records Label, 2011)</p>
 <p><strong>"You Only Live Once"</strong> â€“ <em>First Impressions Of Earth</em> (RCA Records Label, 2006)</p>

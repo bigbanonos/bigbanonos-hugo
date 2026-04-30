@@ -1,12 +1,12 @@
 ---
-title: "' 'Dawes'
-'"
+title: "Dawes"
+slug: "dawes"
 date: 2024-12-21
-original_title: "'Dawes - 3 Songs'"
+layout: post
 tags:
   - '@dawes'
-layout: post
 ---
+
 <h3><em>BigBanonos</em> Top 3 Songs by Dawes:</h3> <p>Updated on July 22, 2022, with the standout track â€œEverything Is Permanentâ€ from the album <em>Misadventures Of Doomscroller</em>. BigBanonosâ€™ favorite Dawes songs bring the best of indie folk and modern folk rock, showcasing the band's unique storytelling style.</p> <!--Image-->
 <div class="separator"> <a href="https://observer.com/wp-content/uploads/sites/2/2016/09/2016_0827_8023_4483.jpeg?quality=80" > <img alt="Dawes" src="https://observer.com/wp-content/uploads/sites/2/2016/09/2016_0827_8023_4483.jpeg?quality=80" /> </a>
 </div> <!--Spotify Playlist Embed-->

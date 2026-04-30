@@ -1,12 +1,12 @@
 ---
-title: "' 'Real Kids'
-'"
+title: "Real Kids"
+slug: "real-kids"
 date: 2024-12-29
-original_title: "'Real Kids'"
+layout: post
 tags:
   - '@realkids'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonos Favorite Song by Real Kids: "Common At Noon"</h1> <!-- Introductory Text -->
 <p >Updated January 1, 1999, with "Common At Noon" by Real Kids. Originally released in 1977 and later featured on *Better Be Good* by Norton Records, this track perfectly encapsulates the raw energy and timeless spirit of Bostonâ€™s rock scene. Watch and listen below!</p> <!-- Featured Image -->

@@ -1,12 +1,12 @@
 ---
-title: "' 'Alan Vega'
-'"
+title: "Alan Vega"
+slug: "alan-vega"
 date: 2025-01-17
-original_title: "'Alan Vega'"
+layout: post
 tags:
   - '@alanvega'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Alan Vega</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab67616d0000b273d94f21d2e3a6ccb201aed4f8" alt="Alan Vega" >}}

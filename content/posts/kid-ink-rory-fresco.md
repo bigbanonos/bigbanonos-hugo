@@ -1,10 +1,8 @@
 ---
-title: "Kid Ink;Rory Fresco"
+title: "Kid Ink Rory Fresco"
+slug: "kid-ink-rory-fresco"
 date: 2020-04-10
-category: "artist"
-track_count: 6
-first_year: 2015
-last_year: 2020
+layout: post
 tags:
   - '@kid-ink-rory-fresco'
   - '@kid-ink'
@@ -16,7 +14,6 @@ tags:
   - '2020s'
   - 'r&b'
   - 'alternative r&b'
-stub: true
 ---
 
 ## Kid Ink;Rory Fresco

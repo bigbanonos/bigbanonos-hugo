@@ -1,17 +1,14 @@
 ---
 title: "The Smashing Pumpkins"
+slug: "the-smashing-pumpkins"
 date: 2013-01-01
-category: "artist"
-track_count: 7
-first_year: 1993
-last_year: 2013
+layout: post
 tags:
   - '@the-smashing-pumpkins'
   - '00s-10s'
   - '1900s'
   - 'alternative rock'
   - 'rock'
-stub: true
 ---
 
 ## The Smashing Pumpkins

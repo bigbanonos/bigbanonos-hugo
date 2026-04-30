@@ -1,10 +1,8 @@
 ---
-title: "Big Sean;Hit-Boy;Bryson Tiller;Lil Durk"
+title: "Big Sean Hit Boy Bryson Tiller Lil Durk"
+slug: "big-sean-hit-boy-bryson-tiller-lil-durk"
 date: 2021-10-29
-category: "artist"
-track_count: 4
-first_year: 2015
-last_year: 2021
+layout: post
 tags:
   - '@big-sean-hit-boy-bryson-tiller-lil-durk'
   - '@big-sean'
@@ -16,7 +14,6 @@ tags:
   - 'trap soul'
   - 'r&b'
   - 'chicago drill'
-stub: true
 ---
 
 ## Big Sean;Hit-Boy;Bryson Tiller;Lil Durk

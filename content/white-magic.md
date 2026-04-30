@@ -1,12 +1,12 @@
 ---
-title: "' 'White Magic'
-'"
+title: "White Magic"
+slug: "white-magic"
 date: 2024-12-20
-original_title: "'White Magic'"
+layout: post
 tags:
   - '@whitemagic'
-layout: post
 ---
+
 <h1>BigBanonos Top Songs by White Magic</h1>
 <div class="separator"> <a href="https://ohmyrocknessdotcom.s3.amazonaws.com/uploads/band/image/172/open-uri20131208-8620-1t7cluu" > <img alt="White Magic" border="0" width="320" data-original-height="480" data-original-width="640" src="https://ohmyrocknessdotcom.s3.amazonaws.com/uploads/band/image/172/open-uri20131208-8620-1t7cluu"/> </a>
 </div>

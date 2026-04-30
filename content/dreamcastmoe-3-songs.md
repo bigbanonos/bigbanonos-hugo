@@ -1,12 +1,12 @@
 ---
-title: "' 'dreamcastmoe'
-'"
+title: "Dreamcastmoe"
+slug: "dreamcastmoe"
 date: 2025-08-30
-original_title: "'dreamcastmoe - 6 Songs'"
+layout: post
 tags:
   - '@dreamcastmoe'
-layout: post
 ---
+
 <h3><strong>BigBanonos' Top 6 dreamcastmoe Songs</strong></h3> <p>Updated June 5, 2025 with the release of <em>"lemonpeppasteppa"</em> from <em>The Lost Tape, Vol. 3</em>. Dreamcastmoe continues to carve out his own spaceâ€equal parts ghostly, warm, and unpredictable. This springâ€™s earlier additions included â€œflowersâ€ and â€œat mollyâ€™s request.â€</p> <h4>"lemonpeppasteppa"</h4>
 <p><strong>Album:</strong> The Lost Tape, Vol. 3 <br><strong>Release Date:</strong> June 6, 2025 (premiered June 5, 2025) <br><strong>Label:</strong> Rhythm Section International</p>
 {{< youtube "XaYWOLsecaw" >}}

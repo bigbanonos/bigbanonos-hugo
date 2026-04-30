@@ -1,10 +1,8 @@
 ---
-title: "Gravy Train!!!!"
+title: "Gravy Train"
+slug: "gravy-train"
 date: 2022-11-03
-category: "artist"
-track_count: 2
-first_year: 2003
-last_year: 2022
+layout: post
 tags:
   - '@gravy-train'
   - '00s-10s'
@@ -12,7 +10,6 @@ tags:
   - 'queercore'
   - 'electroclash'
   - 'riot grrrl'
-stub: true
 ---
 
 ## Gravy Train!!!!

@@ -1,10 +1,8 @@
 ---
 title: "Marissa Nadler"
+slug: "marissa-nadler"
 date: 2026-02-25
-category: "artist"
-track_count: 5
-first_year: 2021
-last_year: 2026
+layout: post
 tags:
   - '@marissa-nadler'
   - '@mj-lenderman'
@@ -16,7 +14,6 @@ tags:
   - 'reggaeton'
   - 'neoperreo'
   - 'argentine trap'
-stub: true
 ---
 
 ## Marissa Nadler

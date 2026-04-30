@@ -1,13 +1,13 @@
 ---
-title: "' 'Ella Fitzgerald'
-'"
+title: "Ella Fitzgerald"
+slug: "ella-fitzgerald"
 date: 2025-01-17
-original_title: "'Ella Fitzgerald'"
+layout: post
 tags:
   - '@louisarmstrong'
   - '@ellafitzgerald'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Ella Fitzgerald</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab7d0c038d876a9ed5a21afb83d6ba760430cf90" alt="Ella Fitzgerald" >}}

@@ -1,15 +1,12 @@
 ---
-title: "Tim and Eric"
+title: "Tim And Eric"
+slug: "tim-and-eric"
 date: 2008-05-06
-category: "artist"
-track_count: 3
-first_year: 2008
-last_year: 2008
+layout: post
 tags:
   - '@tim-and-eric'
   - '00s-10s'
   - 'comedy'
-stub: true
 ---
 
 ## Tim and Eric

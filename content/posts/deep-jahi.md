@@ -1,16 +1,13 @@
 ---
 title: "Deep Jahi"
+slug: "deep-jahi"
 date: 2019-01-25
-category: "artist"
-track_count: 8
-first_year: 2012
-last_year: 2019
+layout: post
 tags:
   - '@deep-jahi'
   - '00s-10s'
   - 'dancehall'
   - 'riddim'
-stub: true
 ---
 
 ## Deep Jahi

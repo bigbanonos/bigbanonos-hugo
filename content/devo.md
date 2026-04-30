@@ -1,12 +1,12 @@
 ---
-title: "' 'Devo'
-'"
+title: "Devo"
+slug: "devo"
 date: 2024-12-28
-original_title: "'Devo'"
+layout: post
 tags:
   - '@devo'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonos Favorite Song by Devo: "Mongoloid"</h1> <!-- Introductory Text -->
 <p >Updated January 1, 1978, with "Mongoloid" by Devo. This groundbreaking track from their debut album *Q: Are We Not Men? A: We Are Devo!* combines art punk, new wave, and synth-driven rock to create an unforgettable listening experience. Watch the video below!</p> <!-- Featured Image -->

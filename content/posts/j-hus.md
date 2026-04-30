@@ -1,10 +1,8 @@
 ---
 title: "J Hus"
+slug: "j-hus"
 date: 2020-01-23
-category: "artist"
-track_count: 3
-first_year: 2017
-last_year: 2020
+layout: post
 tags:
   - '@j-hus'
   - '@j-hus-original-koffee'
@@ -15,7 +13,6 @@ tags:
   - 'grime'
   - 'uk grime'
   - 'afrobeats'
-stub: true
 ---
 
 ## J Hus

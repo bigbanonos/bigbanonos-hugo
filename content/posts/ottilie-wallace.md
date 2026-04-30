@@ -1,14 +1,11 @@
 ---
 title: "Ottilie Wallace"
+slug: "ottilie-wallace"
 date: 2024-12-13
-category: "artist"
-track_count: 3
-first_year: 2024
-last_year: 2024
+layout: post
 tags:
   - '@ottilie-wallace'
   - '2020s'
-stub: true
 ---
 
 ## Ottilie Wallace

@@ -1,16 +1,13 @@
 ---
-title: "Róisín Murphy"
+title: "R Is N Murphy"
+slug: "r-is-n-murphy"
 date: 2023-07-18
-category: "artist"
-track_count: 2
-first_year: 2023
-last_year: 2023
+layout: post
 tags:
   - '@r-is-n-murphy'
   - '2020s'
   - 'art pop'
   - 'electropop'
-stub: true
 ---
 
 ## Róisín Murphy

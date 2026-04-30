@@ -1,12 +1,12 @@
 ---
-title: "' 'Biz Markie'
-'"
+title: "Biz Markie"
+slug: "biz-markie"
 date: 2024-12-27
-original_title: "'Biz Markie'"
+layout: post
 tags:
   - '@bizmarkie'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonos Favorite Song by Biz Markie: "Just A Friend"</h1> <!-- Introductory Text -->
 <p >Updated September 26, 1989, with "Just A Friend" by Biz Markie. This unforgettable hip-hop classic features Bizâ€™s comedic storytelling and iconic piano-driven hook, solidifying it as one of the most beloved tracks of its era. Watch the video below!</p> <!-- Featured Image -->

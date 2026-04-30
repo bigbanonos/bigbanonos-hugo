@@ -1,7 +1,8 @@
 ---
 title: "Valiant"
+slug: "valiant"
 date: 2026-03-19
-category: "artist"
+layout: post
 tags:
   - '@valiant'
 ---

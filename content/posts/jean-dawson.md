@@ -1,17 +1,14 @@
 ---
 title: "Jean Dawson"
+slug: "jean-dawson"
 date: 2024-10-18
-category: "artist"
-track_count: 6
-first_year: 2021
-last_year: 2024
+layout: post
 tags:
   - '@jean-dawson'
   - '@jean-dawson-mac-demarco'
   - '2020s'
   - 'indie'
   - 'lo-fi indie'
-stub: true
 ---
 
 ## Jean Dawson

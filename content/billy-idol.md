@@ -1,12 +1,12 @@
 ---
-title: "' 'Billy Idol'
-'"
+title: "Billy Idol"
+slug: "billy-idol"
 date: 2025-01-17
-original_title: "'Billy Idol'"
+layout: post
 tags:
   - '@generationx'
-layout: post
 ---
+
  <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Billy Idol</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab67616d0000b273a20464e6697dc1149d3a5cdc" alt="Billy Idol" >}}

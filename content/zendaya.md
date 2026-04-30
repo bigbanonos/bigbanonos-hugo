@@ -1,12 +1,12 @@
 ---
-title: "' 'Zendaya'
-'"
+title: "Zendaya"
+slug: "zendaya"
 date: 2024-12-16
-original_title: "'Zendaya'"
+layout: post
 tags:
   - '@zendaya'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >Zendaya - Replay</h1> <!-- Introductory Text -->
 <p >Updated with *Replay* by Zendaya, a catchy pop track that showcases her vocal talent and star power. Released on January 1, 2013, this upbeat song quickly became a fan favorite, offering a perfect blend of post-teen pop vibes with an infectious melody.</p> <!-- Featured Image -->

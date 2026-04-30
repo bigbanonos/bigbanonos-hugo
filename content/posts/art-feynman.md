@@ -1,8 +1,8 @@
 ---
 title: "Art Feynman"
+slug: "art-feynman"
 date: 2023-06-26
-category: "1off"
-era: "2020s"
+layout: post
 tags:
   - '@artfeynman'
   - '1-off'

@@ -1,12 +1,12 @@
 ---
-title: "' 'XTC'
-'"
+title: "Xtc"
+slug: "xtc"
 date: 2025-01-08
-original_title: "'XTC'"
+layout: post
 tags:
   - '@xtc'
-layout: post
 ---
+
 <h3>BigBanonos' 3 Favorite Songs by XTC</h3> <!-- Featured Image -->
 <div > <a href="https://i.guim.co.uk/img/media/84c3d4e2aa838352575557dd5a129a5c8c00327c/0_13_4200_2521/master/4200.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=c4d57aa13d4af2b95d3270d90e2c11c2" target="_blank"> {{< img-lite src="https://i.guim.co.uk/img/media/84c3d4e2aa838352575557dd5a129a5c8c00327c/0_13_4200_2521/master/4200.jpg?width=1200&height=900&quality=85&auto=format&fit=crop&s=c4d57aa13d4af2b95d3270d90e2c11c2" alt="XTC - Making Plans For Nigel" >}} </a>
 </div> <!-- Song List -->

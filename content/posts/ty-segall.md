@@ -1,10 +1,8 @@
 ---
 title: "Ty Segall"
+slug: "ty-segall"
 date: 2022-06-28
-category: "artist"
-track_count: 11
-first_year: 2009
-last_year: 2022
+layout: post
 tags:
   - '@ty-segall'
   - '@ty-segall-mikal-cronin'
@@ -15,7 +13,6 @@ tags:
   - 'neo-psychedelic'
   - 'psychedelic rock'
   - 'power pop'
-stub: true
 ---
 
 ## Ty Segall

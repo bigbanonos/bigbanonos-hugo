@@ -1,7 +1,8 @@
 ---
 title: "Grace Ives"
+slug: "grace-ives"
 date: 2026-03-20
-category: "artist"
+layout: post
 tags:
   - '@graceives'
 ---

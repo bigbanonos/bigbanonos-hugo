@@ -1,10 +1,8 @@
 ---
-title: "Valiant;RK Trap"
+title: "Valiant Rk Trap"
+slug: "valiant-rk-trap"
 date: 2025-06-27
-category: "artist"
-track_count: 3
-first_year: 2022
-last_year: 2025
+layout: post
 tags:
   - '@valiant-rk-trap'
   - '@valiant'
@@ -13,7 +11,6 @@ tags:
   - 'dancehall'
   - 'soca'
   - 'riddim'
-stub: true
 ---
 
 ## Valiant;RK Trap

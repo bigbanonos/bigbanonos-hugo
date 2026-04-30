@@ -1,14 +1,11 @@
 ---
 title: "Cher"
+slug: "cher"
 date: 1998-01-01
-category: "artist"
-track_count: 2
-first_year: 1985
-last_year: 1998
+layout: post
 tags:
   - '@cher'
   - '1900s'
-stub: true
 ---
 
 ## Cher

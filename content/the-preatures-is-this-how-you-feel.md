@@ -1,12 +1,12 @@
 ---
-title: "' 'The Preatures'
-'"
+title: "The Preatures Is This How You Feel"
+slug: "the-preatures-is-this-how-you-feel"
 date: 2024-12-16
-original_title: "'The Preatures'"
+layout: post
 tags:
   - '@thepreatures'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >The Preatures - Is This How You Feel?</h1> <!-- Introductory Text -->
 <p >"Is This How You Feel?" by The Preatures is an infectious anthem that blends indie rock and electronic influences. Released in 2013 by *Universal Music Australia*, this track solidified The Preatures as a rising force in the Australian indie scene. Check out the official video below!</p> <!-- Featured Image -->

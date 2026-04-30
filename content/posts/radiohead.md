@@ -1,16 +1,13 @@
 ---
 title: "Radiohead"
+slug: "radiohead"
 date: 1997-05-28
-category: "artist"
-track_count: 7
-first_year: 1993
-last_year: 1997
+layout: post
 tags:
   - '@radiohead'
   - '1900s'
   - 'art rock'
   - 'alternative rock'
-stub: true
 ---
 
 ## Radiohead

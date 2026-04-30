@@ -1,13 +1,13 @@
 ---
-title: "' 'Nick Leon'
-'"
+title: "Nick Leon"
+slug: "nick-leon"
 date: 2024-12-30
-original_title: "'Nick Leon'"
+layout: post
 tags:
   - '@erikadecasier'
   - '@nickleon'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >Nick LeÃƒÆ’Ã‚Â³n & Erika de Casier - Bikini</h1> <!-- Introductory Text -->
 <p >Nick LeÃƒÆ’Ã‚Â³n and Erika de Casier bring experimental club sounds to life with â€œBikini,â€ blending Latin tek and Scandinavian R&B. Watch the official video below!</p> <!-- Featured Image -->

@@ -1,16 +1,13 @@
 ---
-title: "The Go! Team"
+title: "The Go Team"
+slug: "the-go-team"
 date: 2015-03-24
-category: "artist"
-track_count: 2
-first_year: 2004
-last_year: 2015
+layout: post
 tags:
   - '@the-go-team'
   - '00s-10s'
   - 'plunderphonics'
   - 'alternative dance'
-stub: true
 ---
 
 ## The Go! Team

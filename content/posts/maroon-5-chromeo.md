@@ -1,10 +1,8 @@
 ---
-title: "Maroon 5;Chromeo"
+title: "Maroon 5 Chromeo"
+slug: "maroon-5-chromeo"
 date: 2018-01-19
-category: "artist"
-track_count: 2
-first_year: 2017
-last_year: 2018
+layout: post
 tags:
   - '@maroon-5-chromeo'
   - '@maroon-5-sza'
@@ -13,7 +11,6 @@ tags:
   - 'r&b'
   - 'nu disco'
   - 'alternative dance'
-stub: true
 ---
 
 ## Maroon 5;Chromeo

@@ -1,14 +1,11 @@
 ---
-title: "How's Your News"
+title: "How S Your News"
+slug: "how-s-your-news"
 date: 2008-08-12
-category: "artist"
-track_count: 2
-first_year: 2008
-last_year: 2008
+layout: post
 tags:
   - '@how-s-your-news'
   - '00s-10s'
-stub: true
 ---
 
 ## How's Your News

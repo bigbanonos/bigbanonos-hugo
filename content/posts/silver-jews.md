@@ -1,17 +1,14 @@
 ---
 title: "Silver Jews"
+slug: "silver-jews"
 date: 2008-06-17
-category: "artist"
-track_count: 12
-first_year: 1996
-last_year: 2008
+layout: post
 tags:
   - '@silver-jews'
   - '00s-10s'
   - '1900s'
   - 'alt country'
   - 'anti-folk'
-stub: true
 ---
 
 ## Silver Jews

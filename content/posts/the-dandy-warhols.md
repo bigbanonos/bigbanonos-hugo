@@ -1,14 +1,11 @@
 ---
 title: "The Dandy Warhols"
+slug: "the-dandy-warhols"
 date: 2003-01-01
-category: "artist"
-track_count: 2
-first_year: 2003
-last_year: 2003
+layout: post
 tags:
   - '@the-dandy-warhols'
   - '00s-10s'
-stub: true
 ---
 
 ## The Dandy Warhols

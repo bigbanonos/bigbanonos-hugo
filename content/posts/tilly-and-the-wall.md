@@ -1,14 +1,11 @@
 ---
 title: "Tilly And The Wall"
+slug: "tilly-and-the-wall"
 date: 2008-06-17
-category: "artist"
-track_count: 4
-first_year: 2004
-last_year: 2008
+layout: post
 tags:
   - '@tilly-and-the-wall'
   - '00s-10s'
-stub: true
 ---
 
 ## Tilly And The Wall

@@ -1,10 +1,8 @@
 ---
 title: "The Ziggens"
+slug: "the-ziggens"
 date: 2003-01-01
-category: "artist"
-track_count: 2
-first_year: 1998
-last_year: 2003
+layout: post
 tags:
   - '@the-ziggens'
   - '00s-10s'
@@ -12,7 +10,6 @@ tags:
   - 'surf rock'
   - 'reggae rock'
   - 'ska punk'
-stub: true
 ---
 
 ## The Ziggens

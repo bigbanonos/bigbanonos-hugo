@@ -1,10 +1,8 @@
 ---
-title: "RL Grime;24hrs"
+title: "Rl Grime 24hrs"
+slug: "rl-grime-24hrs"
 date: 2018-07-27
-category: "artist"
-track_count: 2
-first_year: 2018
-last_year: 2018
+layout: post
 tags:
   - '@rl-grime-24hrs'
   - '@rl-grime-jeremih-tory-lanez'
@@ -12,7 +10,6 @@ tags:
   - 'edm trap'
   - 'future bass'
   - 'edm'
-stub: true
 ---
 
 ## RL Grime;24hrs

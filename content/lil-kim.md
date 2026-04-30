@@ -1,13 +1,13 @@
 ---
-title: "' 'Lil Kim'
-'"
+title: "Lil Kim"
+slug: "lil-kim"
 date: 2024-12-29
-original_title: "'Lil Kim'"
+layout: post
 tags:
   - '@lilkim'
   - '@tip'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonos Favorite Song by Lil' Kim: "Jump Off" (ft. T.I.P)</h1> <!-- Introductory Text -->
 <p >Updated January 1, 2003, with "Jump Off" by Lil' Kim featuring T.I.P. This high-energy track showcases Lil' Kim's iconic style and commanding presence, paired with T.I.P's dynamic flow. Watch the video below!</p> <!-- Featured Image -->

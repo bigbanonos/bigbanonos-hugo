@@ -1,16 +1,13 @@
 ---
-title: "Nipsey Hussle;YG"
+title: "Nipsey Hussle Yg"
+slug: "nipsey-hussle-yg"
 date: 2018-01-19
-category: "artist"
-track_count: 2
-first_year: 2016
-last_year: 2018
+layout: post
 tags:
   - '@nipsey-hussle-yg'
   - '00s-10s'
   - 'west coast hip hop'
   - 'hyphy'
-stub: true
 ---
 
 ## Nipsey Hussle;YG

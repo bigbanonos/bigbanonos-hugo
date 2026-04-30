@@ -1,15 +1,12 @@
 ---
-title: "Elias Rønnenfelt"
+title: "Elias R Nnenfelt"
+slug: "elias-r-nnenfelt"
 date: 2025-09-24
-category: "artist"
-track_count: 3
-first_year: 2024
-last_year: 2025
+layout: post
 tags:
   - '@elias-r-nnenfelt'
   - '@elias-r-nnenfelt-fauzia'
   - '2020s'
-stub: true
 ---
 
 ## Elias Rønnenfelt

@@ -1,12 +1,12 @@
 ---
-title: "' 'Bon Iver'
-'"
+title: "Bon Iver"
+slug: "bon-iver"
 date: 2025-08-26
-original_title: "'Bon Iver'"
+layout: post
 tags:
   - '@boniver'
-layout: post
 ---
+
 <img src="https://i8.amplience.net/i/naras/Bon-Iver-Press-Photo-2025-Credit-Graham-Tolbert" width="100%" alt="Bon Iver Press Photo 2025 - Credit Graham Tolbert" /> <h2>BigBanonos' Favorite 3 Songs by Bon Iver</h2> <p>BigBanonos' Favorite Songs by Bon Iver, last updated in 2025 with <em>"Everything Is Peaceful Love"</em>, directed by John Wilson. Playlist and songs are arranged by release date below:</p> <!-- Latest official video -->
 {{< youtube "yaPX-i1TjCc" >}} <!-- Spotify Playlist -->
 {{< youtube "embed" >}} <h3>Updated Playlist</h3>

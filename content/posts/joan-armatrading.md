@@ -1,15 +1,12 @@
 ---
 title: "Joan Armatrading"
+slug: "joan-armatrading"
 date: 1977-01-01
-category: "artist"
-track_count: 3
-first_year: 1976
-last_year: 1977
+layout: post
 tags:
   - '@joan-armatrading'
   - '1900s'
   - 'singer-songwriter'
-stub: true
 ---
 
 ## Joan Armatrading

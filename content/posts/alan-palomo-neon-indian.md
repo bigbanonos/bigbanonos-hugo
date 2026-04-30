@@ -1,10 +1,8 @@
 ---
-title: "Alan Palomo;Neon Indian"
+title: "Alan Palomo Neon Indian"
+slug: "alan-palomo-neon-indian"
 date: 2023-09-15
-category: "artist"
-track_count: 2
-first_year: 2009
-last_year: 2023
+layout: post
 tags:
   - '@alan-palomo-neon-indian'
   - '@neon-indian'
@@ -12,7 +10,6 @@ tags:
   - '2020s'
   - 'chillwave'
   - 'indie electronic'
-stub: true
 ---
 
 ## Alan Palomo;Neon Indian

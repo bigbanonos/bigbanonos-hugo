@@ -1,13 +1,13 @@
 ---
-title: "' 'Alchemist'
-'"
+title: "Alchemist"
+slug: "alchemist"
 date: 2025-01-17
-original_title: "'Alchemist'"
+layout: post
 tags:
   - '@schoolboyq'
   - '@thealchemist'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by The Alchemist</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/8a0d2c9a5bb08a3fd8e6ad457014022cb232525b" alt="The Alchemist" >}}

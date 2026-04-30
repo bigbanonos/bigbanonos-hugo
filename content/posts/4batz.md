@@ -1,8 +1,8 @@
 ---
-title: "4Batz"
+title: "4batz"
+slug: "4batz"
 date: 2025-01-01
-category: "artist"
-stub: true
+layout: post
 ---
 
 ﻿---

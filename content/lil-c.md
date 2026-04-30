@@ -1,14 +1,14 @@
 ---
-title: "' 'Lil C'
-'"
+title: "Lil C"
+slug: "lil-c"
 date: 2024-12-14
-original_title: "'Lil C'"
+layout: post
 tags:
   - '@zro'
   - '@lilc'
   - '@jdawg'
-layout: post
 ---
+
 <!-- Post Title -->
 <h1 >BigBanonos' Favorite Tracks: Lil C, J-Dawg & Z-Ro - "Barre Kelly/Get Money Pro Freestyle [Screwed]"</h1> <!-- Introductory Text -->
 <p >Updated February 14, 2010, with "Barre Kelly/Get Money Pro Freestyle [Screwed]" by Lil C, J-Dawg, and Z-Ro. This iconic track from <em>I Ainâ€™t Takin No Loss 2 [Screwed]</em> is a testament to the raw energy of Houston rap and chopped and screwed soundscapes.</p> <!-- Featured Image -->

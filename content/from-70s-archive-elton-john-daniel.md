@@ -1,12 +1,12 @@
 ---
-title: "' 'Elton John'
-'"
+title: "Elton John Daniel"
+slug: "elton-john-daniel"
 date: 2024-12-28
-original_title: "'Elton John'"
+layout: post
 tags:
   - '@eltonjohn'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonos Favorite Song by Elton John: "Daniel"</h1> <!-- Introductory Text -->
 <p >Updated January 22, 1973, with "Daniel" by Elton John. This tender ballad from the album *Don't Shoot Me I'm Only The Piano Player* blends heartfelt lyrics with Eltonâ€™s iconic piano melodies. Watch the video below!</p> <!-- Featured Image -->

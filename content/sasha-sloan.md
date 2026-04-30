@@ -1,12 +1,12 @@
 ---
-title: "' 'Sasha Sloan'
-'"
+title: "Sasha Sloan"
+slug: "sasha-sloan"
 date: 2025-01-16
-original_title: "'Sasha Sloan - 2 Songs'"
+layout: post
 tags:
   - '@sashasloan'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1>BigBanonosâ€™ Favorite Songs by Sasha Alex Sloan</h1> <!-- Featured Image -->
 <div> {{< img-lite src="https://assets.teenvogue.com/photos/5dded0996f44a90008d03600/master/pass/promo_sasha_sloan.jpg" alt="Sasha Alex Sloan" >}}

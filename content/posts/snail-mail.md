@@ -1,16 +1,13 @@
 ---
 title: "Snail Mail"
+slug: "snail-mail"
 date: 2023-09-13
-category: "artist"
-track_count: 3
-first_year: 2016
-last_year: 2023
+layout: post
 tags:
   - '@snail-mail'
   - '00s-10s'
   - '2020s'
   - 'indie'
-stub: true
 ---
 
 ## Snail Mail

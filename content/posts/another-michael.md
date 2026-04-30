@@ -1,8 +1,8 @@
 ---
 title: "Another Michael"
+slug: "another-michael"
 date: 2022-04-25
-category: "1off"
-era: "2020s"
+layout: post
 tags:
   - '@anothermichael'
   - '1-off'

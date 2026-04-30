@@ -1,7 +1,8 @@
 ---
 title: "The Bleachers"
+slug: "the-bleachers"
 date: 2026-04-16
-category: "artist"
+layout: post
 tags:
   - '@thebleachers'
 ---

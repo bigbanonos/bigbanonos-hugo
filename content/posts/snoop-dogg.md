@@ -1,10 +1,8 @@
 ---
 title: "Snoop Dogg"
+slug: "snoop-dogg"
 date: 2015-05-06
-category: "artist"
-track_count: 10
-first_year: 1993
-last_year: 2015
+layout: post
 tags:
   - '@snoop-dogg'
   - '@snoop-dogg-daz-dillinger'
@@ -19,7 +17,6 @@ tags:
   - 'west coast hip hop'
   - 'gangster rap'
   - 'old school hip hop'
-stub: true
 ---
 
 ## Snoop Dogg

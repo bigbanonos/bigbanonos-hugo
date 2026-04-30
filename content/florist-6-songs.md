@@ -1,12 +1,12 @@
 ---
-title: "' 'Florist'
-'"
+title: "Florist"
+slug: "florist"
 date: 2024-12-21
-original_title: "'Florist - 6 Songs'"
+layout: post
 tags:
   - '@florist'
-layout: post
 ---
+
 <h3><em>BigBanonos</em> Favorite Songs by Florist:</h3> <p>Updated on July 29, 2022, with the track â€œRed Bird Pt. 2 (Morning).â€ <em>BigBanonos</em> highlights Florist's most loved songs, blending the delicate sound of countrygaze and small room vibes.</p> <!--Image-->
 <div class="separator"> <a href="https://media.npr.org/assets/img/2022/07/19/florist-by-carl-solether-2_wide-1138015362b1af7b62047a931c547f549e1faaed.jpg?s=1100&c=85&f=jpeg" > <img alt="Florist" src="https://media.npr.org/assets/img/2022/07/19/florist-by-carl-solether-2_wide-1138015362b1af7b62047a931c547f549e1faaed.jpg?s=1100&c=85&f=jpeg" /> </a>
 </div> <!--Spotify Playlist Embed-->

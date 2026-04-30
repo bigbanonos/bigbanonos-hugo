@@ -1,12 +1,12 @@
 ---
-title: "' 'Free Range'
-'"
+title: "Free Range"
+slug: "free-range"
 date: 2024-12-21
-original_title: "'Free Range - 2 Songs'"
+layout: post
 tags:
   - '@freerange'
-layout: post
 ---
+
 <h3>BigBanonos Top Tracks: Free Range - 2 Songs</h3>
 <div class="separator"> <a href="https://lh6.googleusercontent.com/proxy/VkwPQUF4-z-agw0z-oCUIOPFGTsoKCZigx_5mvjXt4BPE7vMDtNN4mqpI9QeyALyVGErelEQ35AaqTuCtLmfkAICHn2l7mX9AB8iffQjtQIzicbHQKc1jTAfwwDgkWenOir1RwyJCD9Pl6pj6DsOtQGp8rLE8A" > <img alt="Free Range" border="0" height="350" src="https://lh6.googleusercontent.com/proxy/VkwPQUF4-z-agw0z-oCUIOPFGTsoKCZigx_5mvjXt4BPE7vMDtNN4mqpI9QeyALyVGErelEQ35AaqTuCtLmfkAICHn2l7mX9AB8iffQjtQIzicbHQKc1jTAfwwDgkWenOir1RwyJCD9Pl6pj6DsOtQGp8rLE8A" /> </a>
 </div> <p>This list is a <em>BigBanonos</em> selection of Free Range's top tracks, showcasing their signature sound. Updated with songs from <strong>Growing Away</strong>.</p> <ol> <li><strong>Growing Away</strong> â€ <em>January 25, 2023</em> â€ Mick Music</li> <li><strong>All My Thoughts</strong> â€ <em>January 25, 2023</em> â€ Mick Music</li>

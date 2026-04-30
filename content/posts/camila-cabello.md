@@ -1,14 +1,11 @@
 ---
 title: "Camila Cabello"
+slug: "camila-cabello"
 date: 2019-10-11
-category: "artist"
-track_count: 4
-first_year: 2017
-last_year: 2019
+layout: post
 tags:
   - '@camila-cabello'
   - '00s-10s'
-stub: true
 ---
 
 ## Camila Cabello

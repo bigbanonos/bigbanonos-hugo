@@ -1,17 +1,14 @@
 ---
 title: "Charly Bliss"
+slug: "charly-bliss"
 date: 2023-06-21
-category: "artist"
-track_count: 2
-first_year: 2018
-last_year: 2023
+layout: post
 tags:
   - '@charly-bliss'
   - '00s-10s'
   - '2020s'
   - 'power pop'
   - 'indie punk'
-stub: true
 ---
 
 ## Charly Bliss

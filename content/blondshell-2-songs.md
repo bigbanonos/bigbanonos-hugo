@@ -1,12 +1,12 @@
 ---
-title: "' 'Blondshell'
-'"
+title: "Blondshell"
+slug: "blondshell"
 date: 2025-02-12
-original_title: "'Blondshell - 2 Songs'"
+layout: post
 tags:
   - '@blondshell'
-layout: post
 ---
+
 <h3>BigBanonos' Favorite Songs by Blondshell</h3> <!-- Featured Image -->
 <div > <a href="https://www.nme.com/wp-content/uploads/2023/06/2023_blondshell_jonathanweiner_2000x1270-696x442.jpg" target="_blank"> {{< img-lite src="https://www.nme.com/wp-content/uploads/2023/06/2023_blondshell_jonathanweiner_2000x1270-696x442.jpg" alt="Blondshell" >}} </a>
 </div> <!-- Introductory Text -->

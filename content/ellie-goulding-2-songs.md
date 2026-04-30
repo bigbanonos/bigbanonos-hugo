@@ -1,15 +1,15 @@
 ---
-title: "' 'Ellie Goulding'
-'"
+title: "Ellie Goulding"
+slug: "ellie-goulding"
 date: 2025-01-16
-original_title: "'Ellie Goulding - 2 Songs'"
+layout: post
 tags:
   - '@juicewrld'
   - '@djsnakehips'
   - '@swaelee'
   - '@elliegoulding'
-layout: post
 ---
+
 <h2 >BigBanonos' Top 2 Songs by Ellie Goulding</h2> <!-- Introductory Text -->
 <p >Updated September 25, 2019, with "Hate Me - Snakehips Remix." Ellie Gouldingâ€™s ethereal vocals and genre-defying collaborations have made her a global sensation. Explore BigBanonosâ€™ top picks featuring her dynamic range and artistry.</p> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab6761610000e5ebc3cd7dc428871e8985d62b9a" alt="Ellie Goulding - Featured Image" >}}

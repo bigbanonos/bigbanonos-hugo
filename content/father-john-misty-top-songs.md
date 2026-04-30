@@ -1,12 +1,12 @@
 ---
-title: "' 'Father John Misty - Top Songs'
-'"
+title: "Father John Misty"
+slug: "father-john-misty"
 date: 2024-12-21
-original_title: "'Father John Misty - Top Songs'"
+layout: post
 tags:
   - '@fatherjohnmisty'
-layout: post
 ---
+
 <h3><em>BigBanonos</em> Favorite Songs by Father John Misty:</h3> <p>Updated on April 8, 2022, with the standout track â€œBuddy's Rendezvousâ€ from the album <em>ChloÃƒÆ’Ã‚Â« and the Next 20th Century</em>. <em>BigBanonos</em> highlights Father John Mistyâ€™s top songs, showcasing his unique blend of art pop and indie rock.</p> <!--Image-->
 <div class="separator"> <a href="https://i0.wp.com/georgetownradio.com/wp/wp-content/uploads/2022/10/father-john-misty-rectangle.jpeg?resize=600%2C350" > <img alt="Father John Misty" src="https://i0.wp.com/georgetownradio.com/wp/wp-content/uploads/2022/10/father-john-misty-rectangle.jpeg?resize=600%2C350" /> </a>
 </div> <!--Spotify Playlist Embed-->

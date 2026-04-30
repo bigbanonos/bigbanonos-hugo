@@ -1,12 +1,12 @@
 ---
-title: "' 'Uffie'
-'"
+title: "Uffie"
+slug: "uffie"
 date: 2024-12-17
-original_title: "'Uffie'"
+layout: post
 tags:
   - '@uffie'
-layout: post
 ---
+
 <h1>BigBanonos Top Songs by Uffie</h1>
 <div class="separator"> <a href="https://upload.wikimedia.org/wikipedia/commons/9/94/Uffie.jpg" > <img alt="Uffie" border="0" width="320" data-original-height="480" data-original-width="640" src="https://upload.wikimedia.org/wikipedia/commons/9/94/Uffie.jpg"/> </a>
 </div>

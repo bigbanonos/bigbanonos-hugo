@@ -1,17 +1,14 @@
 ---
-title: "T.I."
+title: "T I"
+slug: "t-i"
 date: 2012-12-18
-category: "artist"
-track_count: 8
-first_year: 2003
-last_year: 2012
+layout: post
 tags:
   - '@t-i'
   - '@t-i-andr-3000'
   - '00s-10s'
   - 'southern hip hop'
   - 'ambient jazz'
-stub: true
 ---
 
 ## T.I.

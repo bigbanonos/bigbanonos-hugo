@@ -1,10 +1,8 @@
 ---
-title: "AlunaGeorge"
+title: "Alunageorge"
+slug: "alunageorge"
 date: 2023-07-03
-category: "artist"
-track_count: 7
-first_year: 2012
-last_year: 2023
+layout: post
 tags:
   - '@alunageorge'
   - '@aluna-alunageorge'
@@ -17,7 +15,6 @@ tags:
   - 'soca'
   - 'shatta'
   - 'future house'
-stub: true
 ---
 
 ## AlunaGeorge

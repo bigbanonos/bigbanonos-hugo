@@ -1,16 +1,13 @@
 ---
-title: "NIKI"
+title: "Niki"
+slug: "niki"
 date: 2022-08-12
-category: "artist"
-track_count: 2
-first_year: 2017
-last_year: 2022
+layout: post
 tags:
   - '@niki'
   - '00s-10s'
   - '2020s'
   - 'indonesian r&b'
-stub: true
 ---
 
 ## NIKI

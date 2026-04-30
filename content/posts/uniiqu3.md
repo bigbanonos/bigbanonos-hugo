@@ -1,10 +1,8 @@
 ---
-title: "UNIIQU3"
+title: "uniiqu3"
+slug: "uniiqu3"
 date: 2021-09-22
-category: "artist"
-track_count: 2
-first_year: 2021
-last_year: 2021
+layout: post
 tags:
   - '@uniiqu3'
   - '@uniiqu3-r3ll'
@@ -13,7 +11,6 @@ tags:
   - 'jersey club'
   - 'ballroom vogue'
   - 'uk funky'
-stub: true
 ---
 
 ## UNIIQU3

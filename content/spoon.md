@@ -1,12 +1,12 @@
 ---
-title: "' 'Spoon'
-'"
+title: "Spoon"
+slug: "spoon"
 date: 2024-12-17
-original_title: "'Spoon'"
+layout: post
 tags:
   - '@spoon'
-layout: post
 ---
+
 <h1>BigBanonos Top Songs by Spoon</h1>
 <div class="separator"> <a href="https://media.npr.org/assets/img/2014/06/03/spoon_tomhines_hi-30c0805e8707712f2d70433634ce32e2df65735f.jpg" > <img alt="Spoon" border="0" width="320" data-original-height="480" data-original-width="640" src="https://media.npr.org/assets/img/2014/06/03/spoon_tomhines_hi-30c0805e8707712f2d70433634ce32e2df65735f.jpg"/> </a>
 </div>

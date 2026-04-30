@@ -1,16 +1,13 @@
 ---
-title: "TV On The Radio"
+title: "Tv On The Radio"
+slug: "tv-on-the-radio"
 date: 2011-01-01
-category: "artist"
-track_count: 5
-first_year: 2004
-last_year: 2011
+layout: post
 tags:
   - '@tv-on-the-radio'
   - '00s-10s'
   - 'indie rock'
   - 'indie'
-stub: true
 ---
 
 ## TV On The Radio

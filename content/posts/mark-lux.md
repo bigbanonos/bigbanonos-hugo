@@ -1,7 +1,8 @@
 ---
 title: "Mark Lux"
+slug: "mark-lux"
 date: 2025-12-05
-category: "artist"
+layout: post
 tags:
   - '@mark-lux'
 ---

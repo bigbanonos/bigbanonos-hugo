@@ -1,10 +1,8 @@
 ---
 title: "The Front Bottoms"
+slug: "the-front-bottoms"
 date: 2023-08-04
-category: "artist"
-track_count: 16
-first_year: 2011
-last_year: 2023
+layout: post
 tags:
   - '@the-front-bottoms'
   - '00s-10s'
@@ -12,7 +10,6 @@ tags:
   - 'midwest emo'
   - 'folk punk'
   - 'emo'
-stub: true
 ---
 
 ## The Front Bottoms

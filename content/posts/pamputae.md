@@ -1,10 +1,8 @@
 ---
 title: "Pamputae"
+slug: "pamputae"
 date: 2019-05-10
-category: "artist"
-track_count: 4
-first_year: 2017
-last_year: 2019
+layout: post
 tags:
   - '@pamputae'
   - '@pamputtae'
@@ -12,7 +10,6 @@ tags:
   - 'dancehall'
   - 'soca'
   - 'riddim'
-stub: true
 ---
 
 ## Pamputae

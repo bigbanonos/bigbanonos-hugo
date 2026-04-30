@@ -1,14 +1,11 @@
 ---
 title: "Rhye"
+slug: "rhye"
 date: 2018-02-02
-category: "artist"
-track_count: 6
-first_year: 2013
-last_year: 2018
+layout: post
 tags:
   - '@rhye'
   - '00s-10s'
-stub: true
 ---
 
 ## Rhye

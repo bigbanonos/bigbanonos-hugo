@@ -1,12 +1,12 @@
 ---
-title: "' 'Desmond Dekker'
-'"
+title: "Desmond Dekker Aces Israelites"
+slug: "desmond-dekker-aces-israelites"
 date: 2024-12-17
-original_title: "'Desmond Dekker'"
+layout: post
 tags:
   - '@desmonddekker'
-layout: post
 ---
+
 <h2>Desmond Dekker â€“ Essential Tracks</h2> <div > <img src="https://www.udiscovermusic.com/wp-content/uploads/2020/02/Desmond-Dekker-GettyImages-86118984.jpg" alt="Desmond Dekker" width="500" />
 </div> {{< youtube "embed" >}} <h3>Tracklist</h3>
 <ul> <li><strong>Israelites</strong> â€“ <em>Desmond Dekker - The Israelites, All The Hits</em> (1969)</li> <li><strong>007 (Shanty Town)</strong> â€“ <em>Desmond Dekker - The Israelites, All The Hits</em> (1966)</li>

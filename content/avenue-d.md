@@ -1,12 +1,12 @@
 ---
-title: "' 'Avenue D'
-'"
+title: "Avenue D"
+slug: "avenue-d"
 date: 2024-12-26
-original_title: "'Avenue D'"
+layout: post
 tags:
   - '@avenued'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonos Favorite Song by Avenue D: "2D2F"</h1> <!-- Introductory Text -->
 <p >Updated July 20, 2004, with "2D2F" by Avenue D. This bold and unapologetic electroclash track blends catchy beats and provocative lyrics, making it an underground club classic. Watch the video below!</p> <!-- Featured Image -->

@@ -1,14 +1,11 @@
 ---
 title: "Bad Bad Hats"
+slug: "bad-bad-hats"
 date: 2015-07-17
-category: "artist"
-track_count: 2
-first_year: 2015
-last_year: 2015
+layout: post
 tags:
   - '@bad-bad-hats'
   - '00s-10s'
-stub: true
 ---
 
 ## Bad Bad Hats

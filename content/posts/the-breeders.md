@@ -1,17 +1,14 @@
 ---
 title: "The Breeders"
+slug: "the-breeders"
 date: 2002-05-20
-category: "artist"
-track_count: 5
-first_year: 1990
-last_year: 2002
+layout: post
 tags:
   - '@the-breeders'
   - '00s-10s'
   - '1900s'
   - 'riot grrrl'
   - 'alternative rock'
-stub: true
 ---
 
 ## The Breeders

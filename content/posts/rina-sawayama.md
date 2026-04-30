@@ -1,14 +1,11 @@
 ---
 title: "Rina Sawayama"
+slug: "rina-sawayama"
 date: 2020-04-17
-category: "artist"
-track_count: 2
-first_year: 2020
-last_year: 2020
+layout: post
 tags:
   - '@rina-sawayama'
   - '2020s'
-stub: true
 ---
 
 ## Rina Sawayama

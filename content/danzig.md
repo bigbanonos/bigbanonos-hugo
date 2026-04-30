@@ -1,12 +1,12 @@
 ---
-title: "' 'Danzig'
-'"
+title: "Danzig"
+slug: "danzig"
 date: 2025-01-17
-original_title: "'Danzig'"
+layout: post
 tags:
   - '@danzig'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Danzig</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab67616d0000b2732b7e85d636191a29e2b3ebc6" alt="Danzig" >}}

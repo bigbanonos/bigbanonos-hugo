@@ -1,12 +1,12 @@
 ---
-title: "' 'The Beach Boys'
-'"
+title: "The Beach Boys"
+slug: "the-beach-boys"
 date: 2025-08-24
-original_title: "'The Beach Boys'"
+layout: post
 tags:
   - '@thebeachboys'
-layout: post
 ---
+
  <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by The Beach Boys</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://thisis-images.spotifycdn.com/37i9dQZF1DZ06evO1YgcUw-default.jpg" alt="The Beach Boys" >}}

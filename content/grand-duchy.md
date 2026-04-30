@@ -1,12 +1,12 @@
 ---
-title: "' 'Grand Duchy'
-'"
+title: "Grand Duchy"
+slug: "grand-duchy"
 date: 2024-12-29
-original_title: "'Grand Duchy'"
+layout: post
 tags:
   - '@grandduchy'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonos Favorite Song by Grand Duchy: "Ermesinde"</h1> <!-- Introductory Text -->
 <p >Updated February 16, 2009, with "Ermesinde" by Grand Duchy. This standout track from the album *Petit Fours* blends Western Mass indie vibes with a rock-driven edge. Watch the video below!</p> <!-- Featured Image -->

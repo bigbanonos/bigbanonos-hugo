@@ -1,10 +1,8 @@
 ---
-title: "Erika de Casier"
+title: "Erika De Casier"
+slug: "erika-de-casier"
 date: 2025-05-08
-category: "artist"
-track_count: 10
-first_year: 2019
-last_year: 2025
+layout: post
 tags:
   - '@erika-de-casier'
   - '@erika-de-casier-isabella-lovestory-chicken'
@@ -14,7 +12,6 @@ tags:
   - 'alternative r&b'
   - 'neoperreo'
   - 'experimental hip hop'
-stub: true
 ---
 
 ## Erika de Casier

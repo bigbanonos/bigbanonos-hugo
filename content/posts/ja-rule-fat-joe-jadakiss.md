@@ -1,10 +1,8 @@
 ---
-title: "Ja Rule;Fat Joe;Jadakiss"
+title: "Ja Rule Fat Joe Jadakiss"
+slug: "ja-rule-fat-joe-jadakiss"
 date: 2004-01-01
-category: "artist"
-track_count: 4
-first_year: 2000
-last_year: 2004
+layout: post
 tags:
   - '@ja-rule-fat-joe-jadakiss'
   - '@ja-rule-ashanti'
@@ -14,7 +12,6 @@ tags:
   - 'east coast hip hop'
   - 'r&b'
   - 'quiet storm'
-stub: true
 ---
 
 ## Ja Rule;Fat Joe;Jadakiss

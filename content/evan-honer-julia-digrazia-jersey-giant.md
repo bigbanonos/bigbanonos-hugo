@@ -1,12 +1,11 @@
 ---
-title: "Evan Honer & Julia DiGrazia"
+title: "Evan Honer Julia Digrazia Jersey Giant"
+slug: "evan-honer-julia-digrazia-jersey-giant"
 date: 2022-12-16
+layout: post
 tags:
   - '@evanhoner'
   - '@juliadigrazia'
-spotify_url: "https://open.spotify.com/track/3hEkAosl2ZuO9FltxY5L1R"
-not_on_spotify: false
-category: "1off-2020s"
 ---
 
 One song. That's all they needed.

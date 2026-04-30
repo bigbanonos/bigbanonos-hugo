@@ -1,15 +1,12 @@
 ---
-title: "Chrissy Zebby Tembo;Ngozi Family"
+title: "Chrissy Zebby Tembo Ngozi Family"
+slug: "chrissy-zebby-tembo-ngozi-family"
 date: 2022-05-27
-category: "artist"
-track_count: 2
-first_year: 2022
-last_year: 2022
+layout: post
 tags:
   - '@chrissy-zebby-tembo-ngozi-family'
   - '2020s'
   - 'psychedelic rock'
-stub: true
 ---
 
 ## Chrissy Zebby Tembo;Ngozi Family

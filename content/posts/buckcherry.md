@@ -1,14 +1,11 @@
 ---
 title: "Buckcherry"
+slug: "buckcherry"
 date: 1999-01-01
-category: "artist"
-track_count: 2
-first_year: 1999
-last_year: 1999
+layout: post
 tags:
   - '@buckcherry'
   - '1900s'
-stub: true
 ---
 
 ## Buckcherry

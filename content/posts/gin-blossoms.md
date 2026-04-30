@@ -1,14 +1,11 @@
 ---
 title: "Gin Blossoms"
+slug: "gin-blossoms"
 date: 1996-01-01
-category: "artist"
-track_count: 3
-first_year: 1992
-last_year: 1996
+layout: post
 tags:
   - '@gin-blossoms'
   - '1900s'
-stub: true
 ---
 
 ## Gin Blossoms

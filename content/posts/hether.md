@@ -1,17 +1,14 @@
 ---
 title: "Hether"
+slug: "hether"
 date: 2025-12-05
-category: "artist"
-track_count: 6
-first_year: 2019
-last_year: 2025
+layout: post
 tags:
   - '@hether'
   - '@hether-dominic-fike'
   - '00s-10s'
   - '2020s'
   - 'bedroom pop'
-stub: true
 ---
 
 ## Hether

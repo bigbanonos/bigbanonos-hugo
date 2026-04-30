@@ -1,12 +1,12 @@
 ---
-title: "' 'Bear Vs. Shark'
-'"
+title: "Bear Vs Shark"
+slug: "bear-vs-shark"
 date: 2025-01-17
-original_title: "'Bear Vs. Shark'"
+layout: post
 tags:
   - '@bearvsshark'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Bear Vs. Shark</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/2a06e60b3c8e99b5d96b2ec8d4b8a53146267072" alt="Bear Vs. Shark" >}}

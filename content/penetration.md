@@ -1,12 +1,12 @@
 ---
-title: "' 'Penetration'
-'"
+title: "Penetration"
+slug: "penetration"
 date: 2025-02-18
-original_title: "'Penetration'"
+layout: post
 tags:
   - '@penetration'
-layout: post
 ---
+
 <!-- Featured Image -->
 {{< img-lite src="https://m.media-amazon.com/images/I/517qWo1AxnL._UF1000,1000_QL80_.jpg" alt="Penetration - Don't Dictate" width="100%" >}} <p>"Don't Dictate" by Penetration, one of the fiercest punk anthems of 1977. This track, driven by Pauline Murrayâ€™s powerful vocals, became an underground classic of the UK punk scene.</p> <!-- YouTube Embed (Studio Version) -->
 {{< youtube "T2-KYWnIIhs" >}} <p>Released in 1977, "Don't Dictate" was Penetration's debut single, laying the groundwork for their mix of raw energy and melodic punk. The band's aggressive sound and sharp lyricism positioned them as a standout act in the first wave of British punk.</p> <p>A live version from their energetic performances captures the band's intensity:</p> <!-- YouTube Embed (Live Version) -->

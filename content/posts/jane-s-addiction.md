@@ -1,10 +1,8 @@
 ---
-title: "Jane's Addiction"
+title: "Jane S Addiction"
+slug: "jane-s-addiction"
 date: 2009-01-01
-category: "artist"
-track_count: 3
-first_year: 1988
-last_year: 2009
+layout: post
 tags:
   - '@jane-s-addiction'
   - '@jane-s-addiction-perry-farrell-ron-champagne'
@@ -13,7 +11,6 @@ tags:
   - 'funk rock'
   - 'grunge'
   - 'melodic techno'
-stub: true
 ---
 
 ## Jane's Addiction

@@ -1,15 +1,12 @@
 ---
 title: "Palmistry"
+slug: "palmistry"
 date: 2025-06-06
-category: "artist"
-track_count: 11
-first_year: 2016
-last_year: 2025
+layout: post
 tags:
   - '@palmistry'
   - '00s-10s'
   - '2020s'
-stub: true
 ---
 
 ## Palmistry

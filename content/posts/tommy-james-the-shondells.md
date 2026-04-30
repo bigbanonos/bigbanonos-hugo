@@ -1,15 +1,12 @@
 ---
-title: "Tommy James & The Shondells"
+title: "Tommy James The Shondells"
+slug: "tommy-james-the-shondells"
 date: 2002-06-04
-category: "artist"
-track_count: 2
-first_year: 1989
-last_year: 2002
+layout: post
 tags:
   - '@tommy-james-the-shondells'
   - '00s-10s'
   - '1900s'
-stub: true
 ---
 
 ## Tommy James & The Shondells

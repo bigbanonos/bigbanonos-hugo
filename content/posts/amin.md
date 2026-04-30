@@ -1,10 +1,8 @@
 ---
-title: "Aminé"
+title: "Amin"
+slug: "amin"
 date: 2025-05-20
-category: "artist"
-track_count: 4
-first_year: 2017
-last_year: 2025
+layout: post
 tags:
   - '@amin'
   - '@aidonia-dj-donmar-crazy-ent'
@@ -14,7 +12,6 @@ tags:
   - 'soca'
   - 'ragga'
   - 'riddim'
-stub: true
 ---
 
 ## Aminé

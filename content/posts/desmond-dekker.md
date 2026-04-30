@@ -1,10 +1,8 @@
 ---
 title: "Desmond Dekker"
+slug: "desmond-dekker"
 date: 2010-05-18
-category: "artist"
-track_count: 2
-first_year: 2008
-last_year: 2010
+layout: post
 tags:
   - '@desmond-dekker'
   - '@desmond-dekker-the-aces'
@@ -13,7 +11,6 @@ tags:
   - 'ska'
   - 'reggae'
   - 'roots reggae'
-stub: true
 ---
 
 ## Desmond Dekker

@@ -1,10 +1,8 @@
 ---
 title: "Whu Else"
+slug: "whu-else"
 date: 2025-09-12
-category: "artist"
-track_count: 14
-first_year: 1968
-last_year: 2025
+layout: post
 tags:
   - '@whu-else'
   - '@the-weeknd'
@@ -24,7 +22,6 @@ tags:
   - 'salsa'
   - 'merengue'
   - 'son cubano'
-stub: true
 ---
 
 ## Whu Else

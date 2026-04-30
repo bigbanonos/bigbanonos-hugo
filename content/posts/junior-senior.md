@@ -1,14 +1,11 @@
 ---
 title: "Junior Senior"
+slug: "junior-senior"
 date: 2005-12-09
-category: "artist"
-track_count: 9
-first_year: 2002
-last_year: 2005
+layout: post
 tags:
   - '@junior-senior'
   - '00s-10s'
-stub: true
 ---
 
 ## Junior Senior

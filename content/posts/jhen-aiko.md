@@ -1,10 +1,8 @@
 ---
-title: "Jhené Aiko"
+title: "Jhen Aiko"
+slug: "jhen-aiko"
 date: 2021-03-12
-category: "artist"
-track_count: 4
-first_year: 2018
-last_year: 2021
+layout: post
 tags:
   - '@jhen-aiko'
   - '@jhen-aiko-future-miguel'
@@ -14,7 +12,6 @@ tags:
   - '2020s'
   - 'r&b'
   - 'rap'
-stub: true
 ---
 
 ## Jhené Aiko

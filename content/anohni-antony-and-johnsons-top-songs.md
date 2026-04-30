@@ -1,13 +1,13 @@
 ---
-title: "' 'Anohni, Antony and the Johnsons  -  Top Songs'
-'"
+title: "Anohni Antony And Johnsons"
+slug: "anohni-antony-and-johnsons"
 date: 2024-12-17
-original_title: "'Anohni, Antony and the Johnsons  -  Top Songs'"
+layout: post
 tags:
   - '@anohni'
   - '@antonyandthejohnsons'
-layout: post
 ---
+
 <h2>BigBanonos' 8 Favorite Songs by ANOHNI & Antony and the Johnsons + Leonard Cohen Cover</h2>
 <p>BigBanonos brings you a curated list of favorites from ANOHNI and Antony and the Johnsons, capturing the essence of art pop, chamber pop, and experimental sounds. BigBanonos' Favorite Songs by ANOHNI & Antony and the Johnsons, Last updated July 6, 2023, with â€œCanâ€™tâ€ from <em>My Back Was A Bridge For You To Cross</em> highlighted in the playlist below:</p> <h3>ANOHNI</h3>
 <ol> <li><strong>Canâ€™t</strong> - Album: <em>My Back Was A Bridge For You To Cross</em> (July 6, 2023)</li> <li><strong>Sliver Of Ice</strong> - Album: <em>My Back Was A Bridge For You To Cross</em> (July 6, 2023)</li> <li><strong>It's All over Now, Baby Blue</strong> - Album: <em>It's All over Now, Baby Blue b/w Be My Husband</em> (August 4, 2020)</li>

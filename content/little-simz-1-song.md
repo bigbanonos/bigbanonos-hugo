@@ -1,13 +1,13 @@
 ---
-title: "' 'Little Simz'
-'"
+title: "Little Simz"
+slug: "little-simz"
 date: 2021-06-30
-original_title: "'Little Simz - 1 Song'"
+layout: post
 tags:
   - '@littlesimz'
   - '@cleosol'
-layout: post
 ---
+
 {{< youtube "zHGf6tmnLYE" >}}<h2><ol><li>(ft. Cleo Sol) WomanÃƒâ€šÃ‚Â [2021]</li></ol></h2>
 
 <!--Subscribe and Playlist Links-->

@@ -1,15 +1,12 @@
 ---
-title: "Jewel;Initial Talk"
+title: "Jewel Initial Talk"
+slug: "jewel-initial-talk"
 date: 2021-06-25
-category: "artist"
-track_count: 1
-first_year: 2021
-last_year: 2021
+layout: post
 tags:
   - '@jewel-initial-talk'
   - '2020s'
   - 'nu disco'
-stub: true
 ---
 
 ## Jewel;Initial Talk

@@ -1,12 +1,12 @@
 ---
-title: "' 'Banxx Di Artiste'
-'"
+title: "Banxx Di Artiste"
+slug: "banxx-di-artiste"
 date: 2024-12-01
-original_title: "'Banxx Di Artiste'"
+layout: post
 tags:
   - '@banxxdiartiste'
-layout: post
 ---
+
 <!-- Post Title -->
 <h1 >BigBanonos' Favorite Song by Banxx Di Artiste</h1> <!-- Introductory Text -->
 <p >Updated September 6, 2019, with BigBanonos' favorite song by Banxx Di Artiste, "Bad Slave," released under DJ Smurf Music on the *GPS Riddim*. Watch the video and see more details below:</p> <!-- Featured Image -->

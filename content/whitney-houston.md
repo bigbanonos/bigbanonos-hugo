@@ -1,12 +1,12 @@
 ---
-title: "' 'Whitney Houston'
-'"
+title: "Whitney Houston"
+slug: "whitney-houston"
 date: 2025-01-11
-original_title: "'Whitney Houston'"
+layout: post
 tags:
   - '@whitneyhouston'
-layout: post
 ---
+
 <div class="post-title"> <h1>BigBanonos' Favorite Songs by Whitney Houston</h1>
 </div>
 <p>Updated August 28, 2009, with "Million Dollar Bill" from the album <i>I Look To You</i>, highlighted in the playlist below:</p>

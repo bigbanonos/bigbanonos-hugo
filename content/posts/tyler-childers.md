@@ -1,10 +1,8 @@
 ---
 title: "Tyler Childers"
+slug: "tyler-childers"
 date: 2025-07-25
-category: "artist"
-track_count: 3
-first_year: 2017
-last_year: 2025
+layout: post
 tags:
   - '@tyler-childers'
   - '00s-10s'
@@ -13,7 +11,6 @@ tags:
   - 'outlaw country'
   - 'red dirt'
   - 'alt country'
-stub: true
 ---
 
 ## Tyler Childers

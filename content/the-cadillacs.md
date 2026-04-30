@@ -1,12 +1,12 @@
 ---
-title: "' 'The Cadillacs'
-'"
+title: "The Cadillacs"
+slug: "the-cadillacs"
 date: 2025-01-17
-original_title: "'The Cadillacs'"
+layout: post
 tags:
   - '@thecadillacs'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by The Cadillacs</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab67616d00001e024a54c75dad2d7b474e100e0e" alt="The Cadillacs" >}}

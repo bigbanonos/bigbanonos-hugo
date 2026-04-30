@@ -1,14 +1,14 @@
 ---
-title: "' 'Duke Dumont'
-'"
+title: "Duke Dumont"
+slug: "duke-dumont"
 date: 2025-01-16
-original_title: "'Duke Dumont'"
+layout: post
 tags:
   - '@jaxjones'
   - '@dukedumont'
   - '@a*m*e'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1>BigBanonos' Favorite Songs by Duke Dumont</h1> <!-- Introductory Text -->
 <p>Duke Dumontâ€™s electronic hits dominate the dance floor with anthems blending house, EDM, and pop vibes. Explore BigBanonos' favorite tracks below.</p> <!-- Featured Image -->

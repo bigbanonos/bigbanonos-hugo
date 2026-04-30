@@ -1,15 +1,15 @@
 ---
-title: "' 'Dexta Daps'
-'"
+title: "Dexta Daps"
+slug: "dexta-daps"
 date: 2024-12-21
-original_title: "'Dexta Daps - 4 Songs'"
+layout: post
 tags:
   - '@dextadaps'
   - '@chroniclaw'
   - '@zjliquid'
   - '@blakkman'
-layout: post
 ---
+
 <h3><em>BigBanonos</em> Favorite Songs by Dexta Daps:</h3> <p>Updated on September 30, 2021, with the track â€œWar Seasonâ€ featuring Chronic Law and Blakk Man. BigBanonosâ€™ favorite songs by Dexta Daps highlight his dancehall and riddim influence, bringing infectious beats and authentic vibes.</p> <!--Image-->
 <div class="separator"> <a href="https://www.dancehallmag.com/assets/2023/11/dexta-daps.jpg" > <img alt="Dexta Daps" src="https://www.dancehallmag.com/assets/2023/11/dexta-daps.jpg" /> </a>
 </div> <!--Spotify Playlist Embed-->

@@ -1,14 +1,11 @@
 ---
 title: "Christian Lee Hutson"
+slug: "christian-lee-hutson"
 date: 2022-04-01
-category: "artist"
-track_count: 3
-first_year: 2020
-last_year: 2022
+layout: post
 tags:
   - '@christian-lee-hutson'
   - '2020s'
-stub: true
 ---
 
 ## Christian Lee Hutson

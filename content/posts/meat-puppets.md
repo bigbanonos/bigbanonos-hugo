@@ -1,16 +1,13 @@
 ---
 title: "Meat Puppets"
+slug: "meat-puppets"
 date: 1994-01-25
-category: "artist"
-track_count: 3
-first_year: 1984
-last_year: 1994
+layout: post
 tags:
   - '@meat-puppets'
   - '1900s'
   - 'grunge'
   - 'alternative rock'
-stub: true
 ---
 
 ## Meat Puppets

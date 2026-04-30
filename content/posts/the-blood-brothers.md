@@ -1,10 +1,8 @@
 ---
 title: "The Blood Brothers"
+slug: "the-blood-brothers"
 date: 2004-01-01
-category: "artist"
-track_count: 1
-first_year: 2004
-last_year: 2004
+layout: post
 tags:
   - '@the-blood-brothers'
   - '00s-10s'
@@ -12,7 +10,6 @@ tags:
   - 'mathcore'
   - 'screamo'
   - 'noise rock'
-stub: true
 ---
 
 ## The Blood Brothers

@@ -1,10 +1,8 @@
 ---
-title: "ScHoolboy Q"
+title: "Schoolboy Q"
+slug: "schoolboy-q"
 date: 2019-04-26
-category: "artist"
-track_count: 5
-first_year: 2013
-last_year: 2019
+layout: post
 tags:
   - '@schoolboy-q'
   - '@schoolboy-q-kendrick-lamar'
@@ -15,7 +13,6 @@ tags:
   - 'west coast hip hop'
   - 'r&b'
   - 'trap soul'
-stub: true
 ---
 
 ## ScHoolboy Q

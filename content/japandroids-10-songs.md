@@ -1,12 +1,12 @@
 ---
-title: "' 'Japandroids'
-'"
+title: "Japandroids"
+slug: "japandroids"
 date: 2025-01-16
-original_title: "'Japandroids - 10 Songs'"
+layout: post
 tags:
   - '@japandroids'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1>BigBanonosâ€™ Favorite Songs by Japandroids</h1> <!-- Introductory Text -->
 <p>Japandroids, the Canadian indie rock duo, continue to inspire with their raw energy and thrilling anthems. Updated to include their latest track, BigBanonos ranks their top 10 songs, capturing the spirit of their exhilarating discography.</p> <!-- Featured Image -->

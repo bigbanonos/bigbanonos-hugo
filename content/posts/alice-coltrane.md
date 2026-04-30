@@ -1,10 +1,8 @@
 ---
 title: "Alice Coltrane"
+slug: "alice-coltrane"
 date: 2021-07-16
-category: "1off"
-genre_primary: "folk"
-genre_secondary: "electronic"
-era: "2020s"
+layout: post
 tags:
   - '@alicecoltrane'
   - '1-off'

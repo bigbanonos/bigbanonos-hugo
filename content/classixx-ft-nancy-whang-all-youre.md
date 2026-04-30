@@ -1,14 +1,14 @@
 ---
-title: "' 'Classixx'
-'"
+title: "Classixx Ft Nancy Whang All Youre"
+slug: "classixx-ft-nancy-whang-all-youre"
 date: 2024-12-17
-original_title: "'Classixx'"
+layout: post
 tags:
   - '@classixx'
   - '@jeppe'
   - '@nancywhang'
-layout: post
 ---
+
 <h2>Classixx â€“ Essential Tracks</h2> <div > <img src="https://images.sk-static.com/images/media/profile_images/artists/1173280/huge_avatar" alt="Classixx" width="500" />
 </div> {{< youtube "embed" >}} <h3>Tracklist</h3>
 <ul> <li><strong>All You're Waiting For</strong> (feat. Nancy Whang) â€“ <em>Hanging Gardens</em> (2013)</li> <li><strong>I'll Get You</strong> (feat. Jeppe) â€“ <em>Hanging Gardens</em> (2013)</li>

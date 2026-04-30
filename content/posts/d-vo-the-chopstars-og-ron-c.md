@@ -1,14 +1,11 @@
 ---
-title: "D'Vo;The Chopstars;OG Ron C"
+title: "D Vo The Chopstars Og Ron C"
+slug: "d-vo-the-chopstars-og-ron-c"
 date: 2023-09-26
-category: "artist"
-track_count: 2
-first_year: 2023
-last_year: 2023
+layout: post
 tags:
   - '@d-vo-the-chopstars-og-ron-c'
   - '2020s'
-stub: true
 ---
 
 ## D'Vo;The Chopstars;OG Ron C

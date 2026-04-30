@@ -1,17 +1,14 @@
 ---
-title: "Lakeyah;Tee Grizzley;DJ Drama"
+title: "Lakeyah Tee Grizzley Dj Drama"
+slug: "lakeyah-tee-grizzley-dj-drama"
 date: 2022-09-23
-category: "artist"
-track_count: 3
-first_year: 2020
-last_year: 2022
+layout: post
 tags:
   - '@lakeyah-tee-grizzley-dj-drama'
   - '@lakeyah-42-dugg'
   - '@lakeyah-gloss-up'
   - '2020s'
   - 'southern hip hop'
-stub: true
 ---
 
 ## Lakeyah;Tee Grizzley;DJ Drama

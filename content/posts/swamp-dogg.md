@@ -1,16 +1,13 @@
 ---
 title: "Swamp Dogg"
+slug: "swamp-dogg"
 date: 2022-01-06
-category: "artist"
-track_count: 6
-first_year: 2007
-last_year: 2022
+layout: post
 tags:
   - '@swamp-dogg'
   - '00s-10s'
   - '2020s'
   - 'retro soul'
-stub: true
 ---
 
 ## Swamp Dogg

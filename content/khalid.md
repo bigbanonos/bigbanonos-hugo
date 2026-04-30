@@ -1,15 +1,15 @@
 ---
-title: "' 'Khalid'
-'"
+title: "Khalid"
+slug: "khalid"
 date: 2024-10-29
-original_title: "'Khalid - 4 Songs'"
+layout: post
 tags:
   - '@disclosure'
   - '@lilyachty'
   - '@raesremmurd'
   - '@khalid'
-layout: post
 ---
+
 <h2>Khalid: BigBanonos' Top Songs</h2>
 <p>Updated August 2, 2024, with "Everything We See"</p>
 <p><strong>Khalid's</strong> blend of pop and R&B creates soulful vibes in these top songs, handpicked by BigBanonos.</p> <h3>Playlist</h3>

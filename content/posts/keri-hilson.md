@@ -1,17 +1,14 @@
 ---
 title: "Keri Hilson"
+slug: "keri-hilson"
 date: 2010-01-01
-category: "artist"
-track_count: 2
-first_year: 2008
-last_year: 2010
+layout: post
 tags:
   - '@keri-hilson'
   - '@keri-hilson-lil-wayne'
   - '00s-10s'
   - 'rap'
   - 'hip hop'
-stub: true
 ---
 
 ## Keri Hilson

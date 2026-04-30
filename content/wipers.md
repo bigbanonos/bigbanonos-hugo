@@ -1,12 +1,12 @@
 ---
-title: "' 'Wipers'
-'"
+title: "Wipers"
+slug: "wipers"
 date: 2025-01-11
-original_title: "'Wipers'"
+layout: post
 tags:
   - '@wipers'
-layout: post
 ---
+
 <div class="post-title"> <h1>BigBanonos' Favorite Songs by Wipers</h1>
 </div>
 <p>Updated February 15, 1980, with "Is This Real?" and "Wait a Minute" from the album <i>Is This Real?</i>, highlighted in the playlist below:</p>

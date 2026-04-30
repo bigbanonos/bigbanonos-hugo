@@ -1,17 +1,14 @@
 ---
-title: "Benoit & Sergio"
+title: "Benoit Sergio"
+slug: "benoit-sergio"
 date: 2022-08-22
-category: "artist"
-track_count: 4
-first_year: 2011
-last_year: 2022
+layout: post
 tags:
   - '@benoit-sergio'
   - '@benoit-sergio-original'
   - '00s-10s'
   - '2020s'
   - 'kizomba'
-stub: true
 ---
 
 ## Benoit & Sergio

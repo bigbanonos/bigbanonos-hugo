@@ -1,14 +1,11 @@
 ---
 title: "Generationals"
+slug: "generationals"
 date: 2013-01-01
-category: "artist"
-track_count: 6
-first_year: 2009
-last_year: 2013
+layout: post
 tags:
   - '@generationals'
   - '00s-10s'
-stub: true
 ---
 
 ## Generationals

@@ -1,10 +1,8 @@
 ---
-title: "Fugees;Ms. Lauryn Hill;Wyclef Jean;Pras"
+title: "Fugees Ms Lauryn Hill Wyclef Jean Pras"
+slug: "fugees-ms-lauryn-hill-wyclef-jean-pras"
 date: 1996-02-13
-category: "artist"
-track_count: 3
-first_year: 1996
-last_year: 1996
+layout: post
 tags:
   - '@fugees-ms-lauryn-hill-wyclef-jean-pras'
   - '@fugees-ms-lauryn-hill'
@@ -12,7 +10,6 @@ tags:
   - 'east coast hip hop'
   - 'neo soul'
   - 'old school hip hop'
-stub: true
 ---
 
 ## Fugees;Ms. Lauryn Hill;Wyclef Jean;Pras

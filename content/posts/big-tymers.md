@@ -1,10 +1,8 @@
 ---
 title: "Big Tymers"
+slug: "big-tymers"
 date: 2003-09-09
-category: "artist"
-track_count: 6
-first_year: 1998
-last_year: 2003
+layout: post
 tags:
   - '@big-tymers'
   - '@big-tymers-juvenile-lil-wayne'
@@ -15,7 +13,6 @@ tags:
   - 'crunk'
   - 'new orleans bounce'
   - 'rap'
-stub: true
 ---
 
 ## Big Tymers

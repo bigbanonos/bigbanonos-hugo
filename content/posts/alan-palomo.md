@@ -1,10 +1,8 @@
 ---
 title: "Alan Palomo"
+slug: "alan-palomo"
 date: 2023-06-06
-category: "1off"
-genre_primary: "indie"
-genre_secondary: "electronic"
-era: "2020s"
+layout: post
 tags:
   - '@alanpalomo'
   - '1-off'

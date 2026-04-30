@@ -1,12 +1,12 @@
 ---
-title: "' 'Winter's Bone OST'
-'"
+title: "Winters Bone Ost"
+slug: "winters-bone-ost"
 date: 2025-02-10
-original_title: "'Winter's Bone OST - 3 Songs'"
+layout: post
 tags:
   - '@wintersbone'
-layout: post
 ---
+
 <!-- Winter's Bone OST -->
 <img src="https://m.media-amazon.com/images/I/81Kj+8C82YL._UF1000,1000_QL80_.jpg" /> <p><strong>Updated 2010</strong></p> <p><strong>"Fair and Tender Ladies"</strong> â€“ 2010</p>
 <p><strong>"Missing You"</strong> â€“ 2010</p>

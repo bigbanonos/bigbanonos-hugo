@@ -1,12 +1,12 @@
 ---
-title: "' 'Chenayder'
-'"
+title: "Chenayder"
+slug: "chenayder"
 date: 2024-10-27
-original_title: "'Chenayder - 2 Songs'"
+layout: post
 tags:
   - '@chenayder'
-layout: post
 ---
+
 <p>Ãƒâ€šÃ‚Â </p>
 <h3><strong>BigBanonos' Top 2 Chenayder Songs</strong></h3>
 <p>Updated February 9, 2024 with "<i>For One Last Time</i>"</p> <ol> <li><p>"For One Last Time"<br />Album: <em>For One Last Time</em><br />Release Date: February 9, 2024<br />Label: Alamo<br /></p></li> <li><p>"Strawberry Perfume"<br />Album: <em>Strawberry Perfume</em><br />Release Date: May 10, 2023<br />Label: Alamo<br /></p></li>

@@ -1,12 +1,12 @@
 ---
-title: "' 'Foo Fighters'
-'"
+title: "Foo Fighters"
+slug: "foo-fighters"
 date: 2025-01-17
-original_title: "'Foo Fighters'"
+layout: post
 tags:
   - '@foofighters'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonos Favorite Songs by Foo Fighters</h1> <!-- Introductory Text -->
 <p >Foo Fighters have defined rock for generations, delivering anthems full of energy and emotion. Dive into BigBanonos' favorite Foo Fighters tracks that highlight their musical legacy. Listen below!</p> <!-- Featured Image -->

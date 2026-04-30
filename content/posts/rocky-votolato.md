@@ -1,15 +1,12 @@
 ---
 title: "Rocky Votolato"
+slug: "rocky-votolato"
 date: 2015-04-21
-category: "artist"
-track_count: 3
-first_year: 2003
-last_year: 2015
+layout: post
 tags:
   - '@rocky-votolato'
   - '00s-10s'
   - 'alt country'
-stub: true
 ---
 
 ## Rocky Votolato

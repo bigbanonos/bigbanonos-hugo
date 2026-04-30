@@ -1,10 +1,8 @@
 ---
 title: "Atlas Sound"
+slug: "atlas-sound"
 date: 2009-10-19
-category: "artist"
-track_count: 2
-first_year: 2009
-last_year: 2009
+layout: post
 tags:
   - '@atlas-sound'
   - '@atlas-sound-noah-lennox'
@@ -12,7 +10,6 @@ tags:
   - 'dream pop'
   - 'neo-psychedelic'
   - 'shoegaze'
-stub: true
 ---
 
 ## Atlas Sound

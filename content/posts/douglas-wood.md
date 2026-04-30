@@ -1,10 +1,8 @@
 ---
 title: "Douglas Wood"
+slug: "douglas-wood"
 date: 2009-02-16
-category: "artist"
-track_count: 5
-first_year: 2009
-last_year: 2009
+layout: post
 tags:
   - '@douglas-wood'
   - '@harry-pitch'
@@ -12,7 +10,6 @@ tags:
   - '00s-10s'
   - 'medieval'
   - 'exotica'
-stub: true
 ---
 
 ## Douglas Wood

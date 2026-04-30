@@ -1,15 +1,12 @@
 ---
 title: "Glen Campbell"
+slug: "glen-campbell"
 date: 1974-01-01
-category: "artist"
-track_count: 3
-first_year: 1974
-last_year: 1974
+layout: post
 tags:
   - '@glen-campbell'
   - '1900s'
   - 'classic country'
-stub: true
 ---
 
 ## Glen Campbell

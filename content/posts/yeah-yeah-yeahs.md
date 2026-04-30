@@ -1,10 +1,8 @@
 ---
 title: "Yeah Yeah Yeahs"
+slug: "yeah-yeah-yeahs"
 date: 2022-06-01
-category: "artist"
-track_count: 19
-first_year: 2003
-last_year: 2022
+layout: post
 tags:
   - '@yeah-yeah-yeahs'
   - '@yeah-yeah-yeahs-perfume-genius'
@@ -12,7 +10,6 @@ tags:
   - '2020s'
   - 'indie rock'
   - 'art pop'
-stub: true
 ---
 
 ## Yeah Yeah Yeahs

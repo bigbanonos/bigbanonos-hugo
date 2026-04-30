@@ -1,17 +1,14 @@
 ---
-title: "M.O.T.O."
+title: "M O T O"
+slug: "m-o-t-o"
 date: 2013-04-16
-category: "artist"
-track_count: 3
-first_year: 2008
-last_year: 2013
+layout: post
 tags:
   - '@m-o-t-o'
   - '00s-10s'
   - 'egg punk'
   - 'power pop'
   - 'garage rock'
-stub: true
 ---
 
 ## M.O.T.O.

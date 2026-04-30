@@ -1,10 +1,8 @@
 ---
-title: "Los Campesinos!"
+title: "Los Campesinos"
+slug: "los-campesinos"
 date: 2021-06-04
-category: "artist"
-track_count: 10
-first_year: 1999
-last_year: 2021
+layout: post
 tags:
   - '@los-campesinos'
   - '@los-caminantes'
@@ -14,7 +12,6 @@ tags:
   - 'grupera'
   - 'ranchera'
   - 'norteño'
-stub: true
 ---
 
 ## Los Campesinos!

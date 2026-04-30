@@ -1,17 +1,14 @@
 ---
-title: "Wesley Bright and the Honeytones;Jam in the Van"
+title: "Wesley Bright And The Honeytones Jam In The Van"
+slug: "wesley-bright-and-the-honeytones-jam-in-the-van"
 date: 2018-05-18
-category: "artist"
-track_count: 2
-first_year: 2016
-last_year: 2018
+layout: post
 tags:
   - '@wesley-bright-and-the-honeytones-jam-in-the-van'
   - '@wesley-bright-and-the-honeytones'
   - '00s-10s'
   - 'retro soul'
   - 'jam band'
-stub: true
 ---
 
 ## Wesley Bright and the Honeytones;Jam in the Van

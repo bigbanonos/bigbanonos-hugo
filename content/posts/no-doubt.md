@@ -1,15 +1,12 @@
 ---
 title: "No Doubt"
+slug: "no-doubt"
 date: 2003-01-01
-category: "artist"
-track_count: 5
-first_year: 1995
-last_year: 2003
+layout: post
 tags:
   - '@no-doubt'
   - '00s-10s'
   - '1900s'
-stub: true
 ---
 
 ## No Doubt

@@ -1,12 +1,12 @@
 ---
-title: "' 'Howling Hex'
-'"
+title: "Howling Hex"
+slug: "howling-hex"
 date: 2024-12-29
-original_title: "'Howling Hex'"
+layout: post
 tags:
   - '@howlinghex'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonos Favorite Song by Howling Hex: "Instilled with Mem'ry"</h1> <!-- Introductory Text -->
 <p >Updated February 22, 2005, with "Instilled with Mem'ry" by Howling Hex. This standout track from their album *All-Night Fox* blends experimental rock with a hypnotic rhythm and raw, emotive vocals. Watch the video below!</p> <!-- Featured Image -->

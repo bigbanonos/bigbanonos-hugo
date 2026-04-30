@@ -1,10 +1,8 @@
 ---
-title: "Major Lazer;MØ;DJ Snake"
+title: "Major Lazer M Dj Snake"
+slug: "major-lazer-m-dj-snake"
 date: 2023-08-30
-category: "artist"
-track_count: 12
-first_year: 2009
-last_year: 2023
+layout: post
 tags:
   - '@major-lazer-m-dj-snake'
   - '@major-lazer-amber-coffman'
@@ -22,7 +20,6 @@ tags:
   - 'dancehall'
   - 'soca'
   - 'ragga'
-stub: true
 ---
 
 ## Major Lazer;MØ;DJ Snake

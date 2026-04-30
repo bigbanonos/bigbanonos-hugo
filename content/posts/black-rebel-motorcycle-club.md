@@ -1,17 +1,14 @@
 ---
 title: "Black Rebel Motorcycle Club"
+slug: "black-rebel-motorcycle-club"
 date: 2005-08-23
-category: "artist"
-track_count: 3
-first_year: 2005
-last_year: 2005
+layout: post
 tags:
   - '@black-rebel-motorcycle-club'
   - '00s-10s'
   - 'southern gothic'
   - 'garage rock'
   - 'blues rock'
-stub: true
 ---
 
 ## Black Rebel Motorcycle Club

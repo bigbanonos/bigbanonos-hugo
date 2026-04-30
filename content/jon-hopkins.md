@@ -1,13 +1,13 @@
 ---
-title: "' 'Jon Hopkins'
-'"
+title: "Jon Hopkins"
+slug: "jon-hopkins"
 date: 2024-12-12
-original_title: "'Jon Hopkins'"
+layout: post
 tags:
   - '@jonhopkins'
   - '@purityring'
-layout: post
 ---
+
 <!-- Post Title -->
 <h1 >BigBanonos' Favorite Tracks: Jon Hopkins - "Breathe This Air" feat. Purity Ring</h1> <!-- Introductory Text -->
 <p >Updated August 13, 2013, with "Breathe This Air" by Jon Hopkins, featuring Purity Ring. A stunning blend of electronica and intelligent dance music, this collaboration creates an ethereal atmosphere with a deep, introspective vibe. The atmospheric soundscapes and the haunting vocals from Purity Ring make this track a standout in the electronic genre.</p> <!-- Featured Image -->

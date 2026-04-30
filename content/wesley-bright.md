@@ -1,13 +1,13 @@
 ---
-title: "' 'Wesley Bright'
-'"
+title: "Wesley Bright"
+slug: "wesley-bright"
 date: 2025-01-10
-original_title: "'Wesley Bright'"
+layout: post
 tags:
   - '@honeytones'
   - '@wesleybright'
-layout: post
 ---
+
 <div class="post-title"> <h1>BigBanonos' Favorite Songs by Wesley Bright</h1>
 </div>
 <p>Updated May 18, 2018, with "You Don't Want Me" from the album <i>You Don't Want Me</i>, highlighted in the playlist below:</p>

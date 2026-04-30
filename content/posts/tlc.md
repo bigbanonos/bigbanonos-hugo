@@ -1,14 +1,11 @@
 ---
-title: "TLC"
+title: "Tlc"
+slug: "tlc"
 date: 1999-02-23
-category: "artist"
-track_count: 5
-first_year: 1994
-last_year: 1999
+layout: post
 tags:
   - '@tlc'
   - '1900s'
-stub: true
 ---
 
 ## TLC

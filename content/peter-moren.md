@@ -1,13 +1,13 @@
 ---
-title: "' 'Peter MorÃƒÆ’Ã‚Â©n'
-'"
+title: "Peter Moren"
+slug: "peter-moren"
 date: 2024-12-29
-original_title: "'Peter MorÃƒÆ’Ã‚Â©n'"
+layout: post
 tags:
   - '@petermorÃƒÆ’Ã‚Â©n'
   - '@peterbjornandjohn'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonos Favorite Song by Peter MorÃƒÆ’Ã‚Â©n: "Social Competence"</h1> <!-- Introductory Text -->
 <p >Updated August 20, 2004, with "Social Competence" by Peter MorÃƒÆ’Ã‚Â©n. This track from *The Last Tycoon* perfectly encapsulates Swedish indie pop with its reflective lyrics and melodic charm. Watch and listen below!</p> <!-- Featured Image -->

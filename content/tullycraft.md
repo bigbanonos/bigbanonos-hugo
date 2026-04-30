@@ -1,12 +1,12 @@
 ---
-title: "' 'Tullycraft'
-'"
+title: "Tullycraft"
+slug: "tullycraft"
 date: 2024-12-16
-original_title: "'Tullycraft'"
+layout: post
 tags:
   - '@tullycraft'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >Tullycraft - Pop Songs Your New Boyfriend's Too Stupid To Know About</h1> <!-- Introductory Text -->
 <p >Updated with "Pop Songs Your New Boyfriend's Too Stupid To Know About" by Tullycraft, from the album *Old Traditions, New Standards*, released in the year 2000 by Darla Records. This song is a playful, indie pop anthem, showcasing Tullycraftâ€™s signature twee pop style and heartfelt lyrics.</p> <!-- Featured Image -->

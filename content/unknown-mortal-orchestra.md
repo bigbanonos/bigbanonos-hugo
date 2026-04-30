@@ -1,12 +1,12 @@
 ---
-title: "' 'Unknown Mortal Orchestra'
-'"
+title: "Unknown Mortal Orchestra"
+slug: "unknown-mortal-orchestra"
 date: 2025-01-10
-original_title: "'Unknown Mortal Orchestra'"
+layout: post
 tags:
   - '@unknownmortorchestra'
-layout: post
 ---
+
 <div class="post-title"> <h1>BigBanonos' Favorite Songs by Unknown Mortal Orchestra</h1>
 </div>
 <p>Updated February 28, 2018, with "Not in Love Weâ€™re Just High" from the album <i>Not in Love Weâ€™re Just High</i>, highlighted in the playlist below:</p>

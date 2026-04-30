@@ -1,8 +1,8 @@
 ---
-title: "' 'Trick Daddy'
-'"
+title: "Trick Daddy"
+slug: "trick-daddy"
 date: 2024-12-17
-original_title: "'Trick Daddy'"
+layout: post
 tags:
   - '@trina'
   - '@ludacris'
@@ -10,8 +10,8 @@ tags:
   - '@bigboi'
   - '@trickdaddy'
   - '@mikesmiff'
-layout: post
 ---
+
 <h1>BigBanonos Top Songs by Trick Daddy</h1>
 <div class="separator"> <a href="https://i.scdn.co/image/ab67616d00001e02accd5caed9b8329b7701a52a" > <img alt="Trick Daddy" border="0" width="320" data-original-height="480" data-original-width="640" src="https://i.scdn.co/image/ab67616d00001e02accd5caed9b8329b7701a52a"/> </a>
 </div>

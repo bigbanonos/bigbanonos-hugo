@@ -1,12 +1,12 @@
 ---
-title: "' 'Charlie Dore'
-'"
+title: "Charlie Dore"
+slug: "charlie-dore"
 date: 2024-12-03
-original_title: "'Charlie Dore'"
+layout: post
 tags:
   - '@charliedore'
-layout: post
 ---
+
 <!-- Post Title -->
 <h1 >BigBanonos' Favorite Song by Charlie Dore</h1> <!-- Introductory Text -->
 <p >Updated October 1, 2008, with BigBanonos' favorite track, "Pilot Of The Airwaves" by Charlie Dore. This timeless classic is featured on the *80s Monster Ballads* compilation released by Deadline Music.</p> <!-- Featured Image -->

@@ -1,10 +1,8 @@
 ---
-title: "Doe Boy;Lil Yachty;Luh Tyler"
+title: "Doe Boy Lil Yachty Luh Tyler"
+slug: "doe-boy-lil-yachty-luh-tyler"
 date: 2023-06-09
-category: "artist"
-track_count: 3
-first_year: 2019
-last_year: 2023
+layout: post
 tags:
   - '@doe-boy-lil-yachty-luh-tyler'
   - '@doe-boy-dej-loaf'
@@ -12,7 +10,6 @@ tags:
   - '00s-10s'
   - '2020s'
   - 'hyphy'
-stub: true
 ---
 
 ## Doe Boy;Lil Yachty;Luh Tyler

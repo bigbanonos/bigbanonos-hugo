@@ -1,10 +1,8 @@
 ---
-title: "Fousheé;Lil Wayne"
+title: "Foushe Lil Wayne"
+slug: "foushe-lil-wayne"
 date: 2021-06-04
-category: "artist"
-track_count: 2
-first_year: 2021
-last_year: 2021
+layout: post
 tags:
   - '@foushe-lil-wayne'
   - '@foushe-steve-lacy'
@@ -12,7 +10,6 @@ tags:
   - 'indie r&b'
   - 'rap'
   - 'hip hop'
-stub: true
 ---
 
 ## Fousheé;Lil Wayne

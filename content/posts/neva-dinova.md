@@ -1,14 +1,11 @@
 ---
 title: "Neva Dinova"
+slug: "neva-dinova"
 date: 2008-04-08
-category: "artist"
-track_count: 2
-first_year: 2008
-last_year: 2008
+layout: post
 tags:
   - '@neva-dinova'
   - '00s-10s'
-stub: true
 ---
 
 ## Neva Dinova

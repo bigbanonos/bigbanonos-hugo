@@ -1,14 +1,11 @@
 ---
-title: "Nick Cave & The Bad Seeds"
+title: "Nick Cave The Bad Seeds"
+slug: "nick-cave-the-bad-seeds"
 date: 1997-03-03
-category: "artist"
-track_count: 3
-first_year: 1988
-last_year: 1997
+layout: post
 tags:
   - '@nick-cave-the-bad-seeds'
   - '1900s'
-stub: true
 ---
 
 ## Nick Cave & The Bad Seeds

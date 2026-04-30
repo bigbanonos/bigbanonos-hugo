@@ -1,12 +1,12 @@
 ---
-title: "' 'Tallest Man On Earth'
-'"
+title: "Tallest Man On Earth"
+slug: "tallest-man-on-earth"
 date: 2025-01-16
-original_title: "'Tallest Man On Earth'"
+layout: post
 tags:
   - '@tallestmanonearth'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1>BigBanonosâ€™ Favorite Songs by The Tallest Man On Earth</h1> <!-- Featured Image -->
 <div> {{< img-lite src="https://www.themusichall.org/wp-content/uploads/2019/11/2203_IY_TallestMan_update.jpg" alt="The Tallest Man On Earth" >}}

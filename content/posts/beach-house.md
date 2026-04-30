@@ -1,15 +1,12 @@
 ---
 title: "Beach House"
+slug: "beach-house"
 date: 2010-01-26
-category: "artist"
-track_count: 3
-first_year: 2008
-last_year: 2010
+layout: post
 tags:
   - '@beach-house'
   - '00s-10s'
   - 'dream pop'
-stub: true
 ---
 
 ## Beach House

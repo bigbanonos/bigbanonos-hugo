@@ -1,13 +1,13 @@
 ---
-title: "' 'Kranium'
-'"
+title: "Kranium"
+slug: "kranium"
 date: 2025-01-16
-original_title: "'Kranium - 2 Songs'"
+layout: post
 tags:
   - '@kranium'
   - '@davido'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1>BigBanonosâ€™ Favorite Songs by Kranium</h1> <!-- Introductory Text -->
 <p>Kraniumâ€™s fusion of dancehall with modern electronic and R&B influences has earned him global acclaim. BigBanonos revisits some of his best tracks that showcase his versatility and melodic charm.</p> <!-- Featured Image -->

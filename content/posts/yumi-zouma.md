@@ -1,16 +1,13 @@
 ---
 title: "Yumi Zouma"
+slug: "yumi-zouma"
 date: 2022-01-12
-category: "artist"
-track_count: 5
-first_year: 2018
-last_year: 2022
+layout: post
 tags:
   - '@yumi-zouma'
   - '00s-10s'
   - '2020s'
   - 'dream pop'
-stub: true
 ---
 
 ## Yumi Zouma

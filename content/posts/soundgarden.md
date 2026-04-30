@@ -1,17 +1,14 @@
 ---
 title: "Soundgarden"
+slug: "soundgarden"
 date: 1994-03-09
-category: "artist"
-track_count: 2
-first_year: 1994
-last_year: 1994
+layout: post
 tags:
   - '@soundgarden'
   - '1900s'
   - 'grunge'
   - 'post-grunge'
   - 'hard rock'
-stub: true
 ---
 
 ## Soundgarden

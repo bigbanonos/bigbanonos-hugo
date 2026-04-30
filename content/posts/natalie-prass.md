@@ -1,15 +1,12 @@
 ---
 title: "Natalie Prass"
+slug: "natalie-prass"
 date: 2018-10-25
-category: "artist"
-track_count: 2
-first_year: 2015
-last_year: 2018
+layout: post
 tags:
   - '@natalie-prass'
   - '00s-10s'
   - 'baroque pop'
-stub: true
 ---
 
 ## Natalie Prass

@@ -1,13 +1,13 @@
 ---
-title: "' 'Bakar'
-'"
+title: "Bakar"
+slug: "bakar"
 date: 2024-11-02
-original_title: "'Bakar - 3 Songs'"
+layout: post
 tags:
   - '@bakar'
   - '@dominicfike'
-layout: post
 ---
+
 <h2>BigBanonos' Top 3 Favorite Songs by Bakar</h2> <!--Search Description-->
 <p>BigBanonosâ€™ top 3 favorite songs by Bakar, featuring hits like â€œI'm Doneâ€ and collaborations with Dominic Fike. Last updated September 6, 2023, with "I'm Done," highlighted in the playlist below:</p> <!--Spotify Playlist Embed-->
 {{< youtube "embed" >}} <!--Song List with Album Info-->

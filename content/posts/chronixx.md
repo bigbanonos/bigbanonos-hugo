@@ -1,10 +1,8 @@
 ---
 title: "Chronixx"
+slug: "chronixx"
 date: 2020-07-22
-category: "artist"
-track_count: 3
-first_year: 2017
-last_year: 2020
+layout: post
 tags:
   - '@chronixx'
   - '00s-10s'
@@ -13,7 +11,6 @@ tags:
   - 'roots reggae'
   - 'dancehall'
   - 'lovers rock'
-stub: true
 ---
 
 ## Chronixx

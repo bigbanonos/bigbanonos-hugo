@@ -1,16 +1,13 @@
 ---
 title: "Red House Painters"
+slug: "red-house-painters"
 date: 1999-07-19
-category: "artist"
-track_count: 3
-first_year: 1993
-last_year: 1999
+layout: post
 tags:
   - '@red-house-painters'
   - '1900s'
   - 'slowcore'
   - 'shoegaze'
-stub: true
 ---
 
 ## Red House Painters

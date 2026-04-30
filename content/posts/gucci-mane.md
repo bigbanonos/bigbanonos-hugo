@@ -1,10 +1,8 @@
 ---
 title: "Gucci Mane"
+slug: "gucci-mane"
 date: 2022-06-17
-category: "artist"
-track_count: 5
-first_year: 2006
-last_year: 2022
+layout: post
 tags:
   - '@gucci-mane'
   - '@gucci-mane-2-chainz-young-dolph'
@@ -15,7 +13,6 @@ tags:
   - 'southern hip hop'
   - 'rap'
   - 'trap'
-stub: true
 ---
 
 ## Gucci Mane

@@ -1,12 +1,12 @@
 ---
-title: "' 'Cults'
-'"
+title: "Cults"
+slug: "cults"
 date: 2024-12-17
-original_title: "'Cults'"
+layout: post
 tags:
   - '@cults'
-layout: post
 ---
+
 <h2>Cults â€“ Essential Tracks</h2>
 <div class="separator"><a href="https://f4.bcbits.com/img/a1912592888_10.jpg" ><img alt="" border="0" width="320" data-original-height="364" data-original-width="452" src="https://f4.bcbits.com/img/a1912592888_10.jpg"/></a></div>
 {{< youtube "embed" >}} <h3>Tracklist</h3>

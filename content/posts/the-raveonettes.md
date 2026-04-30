@@ -1,14 +1,11 @@
 ---
 title: "The Raveonettes"
+slug: "the-raveonettes"
 date: 2011-04-04
-category: "artist"
-track_count: 15
-first_year: 2002
-last_year: 2011
+layout: post
 tags:
   - '@the-raveonettes'
   - '00s-10s'
-stub: true
 ---
 
 ## The Raveonettes

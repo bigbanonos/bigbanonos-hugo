@@ -1,15 +1,12 @@
 ---
 title: "Mitski"
+slug: "mitski"
 date: 2023-07-26
-category: "artist"
-track_count: 7
-first_year: 2015
-last_year: 2023
+layout: post
 tags:
   - '@mitski'
   - '00s-10s'
   - '2020s'
-stub: true
 ---
 
 ## Mitski

@@ -1,16 +1,13 @@
 ---
 title: "The Donnas"
+slug: "the-donnas"
 date: 2020-01-06
-category: "artist"
-track_count: 2
-first_year: 2003
-last_year: 2020
+layout: post
 tags:
   - '@the-donnas'
   - '00s-10s'
   - '2020s'
   - 'riot grrrl'
-stub: true
 ---
 
 ## The Donnas

@@ -1,12 +1,12 @@
 ---
-title: "' 'Billy Ocean'
-'"
+title: "Billy Ocean"
+slug: "billy-ocean"
 date: 2025-01-17
-original_title: "'Billy Ocean'"
+layout: post
 tags:
   - '@billyocean'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Billy Ocean</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab67616d0000b27389ec8c852dee33fe4b50bec5" alt="Billy Ocean" >}}

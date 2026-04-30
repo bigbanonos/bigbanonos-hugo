@@ -1,10 +1,8 @@
 ---
-title: "Beyoncé"
+title: "Beyonc"
+slug: "beyonc"
 date: 2024-03-29
-category: "artist"
-track_count: 30
-first_year: 2003
-last_year: 2024
+layout: post
 tags:
   - '@beyonc'
   - '@beyonc-bun-b-slim-thug'
@@ -22,7 +20,6 @@ tags:
   - 'east coast hip hop'
   - 'rap'
   - 'dancehall'
-stub: true
 ---
 
 ## Beyoncé

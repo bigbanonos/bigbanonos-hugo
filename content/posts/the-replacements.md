@@ -1,10 +1,8 @@
 ---
 title: "The Replacements"
+slug: "the-replacements"
 date: 2020-10-09
-category: "artist"
-track_count: 29
-first_year: 1981
-last_year: 2020
+layout: post
 tags:
   - '@the-replacements'
   - '@the-replacements-tom-waits'
@@ -15,7 +13,6 @@ tags:
   - 'jangle pop'
   - 'singer-songwriter'
   - 'southern gothic'
-stub: true
 ---
 
 ## The Replacements

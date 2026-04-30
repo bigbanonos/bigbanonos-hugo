@@ -1,17 +1,14 @@
 ---
-title: "CSS"
+title: "Css"
+slug: "css"
 date: 2006-07-11
-category: "artist"
-track_count: 3
-first_year: 2006
-last_year: 2006
+layout: post
 tags:
   - '@css'
   - '00s-10s'
   - 'electroclash'
   - 'new rave'
   - 'alternative dance'
-stub: true
 ---
 
 ## CSS

@@ -1,15 +1,12 @@
 ---
 title: "Best Coast"
+slug: "best-coast"
 date: 2020-02-21
-category: "artist"
-track_count: 5
-first_year: 2010
-last_year: 2020
+layout: post
 tags:
   - '@best-coast'
   - '00s-10s'
   - '2020s'
-stub: true
 ---
 
 ## Best Coast

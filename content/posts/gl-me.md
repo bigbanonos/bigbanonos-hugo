@@ -1,14 +1,11 @@
 ---
-title: "Glüme"
+title: "Gl Me"
+slug: "gl-me"
 date: 2023-08-04
-category: "artist"
-track_count: 5
-first_year: 2021
-last_year: 2023
+layout: post
 tags:
   - '@gl-me'
   - '2020s'
-stub: true
 ---
 
 ## Glüme

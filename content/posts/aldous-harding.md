@@ -1,7 +1,8 @@
 ---
 title: "Aldous Harding"
+slug: "aldous-harding"
 date: 2026-03-03
-category: "artist"
+layout: post
 tags:
   - '@aldousharding'
 ---

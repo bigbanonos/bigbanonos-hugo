@@ -1,13 +1,13 @@
 ---
-title: "' 'Belly'
-'"
+title: "Belly"
+slug: "belly"
 date: 2025-01-17
-original_title: "'Belly'"
+layout: post
 tags:
   - '@weeknd'
   - '@belly'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Belly</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab67616100005174bff23b49045aa4099d7264ed" alt="Belly" >}}

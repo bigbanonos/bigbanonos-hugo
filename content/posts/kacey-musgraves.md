@@ -1,7 +1,8 @@
 ---
 title: "Kacey Musgraves"
+slug: "kacey-musgraves"
 date: 2026-03-11
-category: "artist"
+layout: post
 tags:
   - '@kaceymusgraves'
 ---

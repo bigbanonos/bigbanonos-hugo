@@ -1,12 +1,12 @@
 ---
-title: "' 'Dombresky'
-'"
+title: "Dombresky"
+slug: "dombresky"
 date: 2024-12-21
-original_title: "'Dombresky - 2 Songs'"
+layout: post
 tags:
   - '@dombresky'
-layout: post
 ---
+
 <h3><em>BigBanonos</em> Favorite Songs by Dombresky:</h3> <p>Updated on July 16, 2021, with â€œUsed To Be.â€ BigBanonos presents Dombreskyâ€™s top tracks, showcasing his distinct style in bass house, electro house, and tech house.</p> <!--Image-->
 <div class="separator"> <a href="https://cdn.sanity.io/images/pge26oqu/production/393ae9febe6e0c9e52640be9adea566228e02382-1920x1080.jpg?rect=0,60,1920,960&w=2048&h=1024" > <img alt="Dombresky" src="https://cdn.sanity.io/images/pge26oqu/production/393ae9febe6e0c9e52640be9adea566228e02382-1920x1080.jpg?rect=0,60,1920,960&w=2048&h=1024" /> </a>
 </div> <!--Spotify Playlist Embed-->

@@ -1,12 +1,12 @@
 ---
-title: "' 'Bobby 'Blue' Bland'
-'"
+title: "Bobby Blue Bland"
+slug: "bobby-blue-bland"
 date: 2025-01-17
-original_title: "'Bobby 'Blue' Bland'"
+layout: post
 tags:
   - '@bobbybluebland'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Bobby "Blue" Bland</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab67616d0000b27316483d14c501878422dbb8c5" alt="Bobby Blue Bland" >}}

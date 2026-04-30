@@ -1,12 +1,12 @@
 ---
-title: "' 'Belle and Sebastian'
-'"
+title: "Belle And Sebastian"
+slug: "belle-and-sebastian"
 date: 2024-11-23
-original_title: "'Belle and Sebastian - 15+ Songs'"
+layout: post
 tags:
   - '@belleandsebastian'
-layout: post
 ---
+
 <h2>BigBanonos' 15+ Favorite Songs by Belle and Sebastian</h2> <!--Search Description-->
 <p>BigBanonosâ€™ top Belle and Sebastian tracks, a journey through the best of Scottish indie with lush baroque and chamber pop influences. Highlights include "The Boy with the Arab Strap" and "If You're Feeling Sinister."</p> <!--Spotify Playlist Embed-->
 {{< youtube "embed" >}} <!--Song Listings-->

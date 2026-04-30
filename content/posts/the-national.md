@@ -1,15 +1,12 @@
 ---
 title: "The National"
+slug: "the-national"
 date: 2013-05-27
-category: "artist"
-track_count: 12
-first_year: 2005
-last_year: 2013
+layout: post
 tags:
   - '@the-national'
   - '00s-10s'
   - 'indie rock'
-stub: true
 ---
 
 ## The National

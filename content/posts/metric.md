@@ -1,14 +1,11 @@
 ---
 title: "Metric"
+slug: "metric"
 date: 2012-01-01
-category: "artist"
-track_count: 10
-first_year: 2003
-last_year: 2012
+layout: post
 tags:
   - '@metric'
   - '00s-10s'
-stub: true
 ---
 
 ## Metric

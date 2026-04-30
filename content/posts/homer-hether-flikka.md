@@ -1,10 +1,8 @@
 ---
-title: "Homer;Hether;Flikka"
+title: "Homer Hether Flikka"
+slug: "homer-hether-flikka"
 date: 2024-11-15
-category: "artist"
-track_count: 3
-first_year: 2024
-last_year: 2024
+layout: post
 tags:
   - '@homer-hether-flikka'
   - '@homer-hether'
@@ -12,7 +10,6 @@ tags:
   - '2020s'
   - 'bedroom pop'
   - 'alternative r&b'
-stub: true
 ---
 
 ## Homer;Hether;Flikka

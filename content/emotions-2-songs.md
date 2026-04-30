@@ -1,12 +1,12 @@
 ---
-title: "' 'Emotions'
-'"
+title: "Emotions"
+slug: "emotions"
 date: 2024-10-28
-original_title: "'Emotions - 2 Songs'"
+layout: post
 tags:
   - '@emotions'
-layout: post
 ---
+
 <h2>BigBanonosâ€™ Favorite Songs by The Emotions</h2>
 <p>Enjoy BigBanonosâ€™ favorite soul tracks from The Emotions, like â€œBest of My Loveâ€ and â€œFlowers.â€</p> <ul> <li><strong>Best of My Love</strong> - <em>Rejoice</em> (1977)</li> <li><strong>Flowers</strong> - <em>Flowers (Bonus Track Version)</em> (1976)</li>
 </ul> {{< youtube "embed" >}}

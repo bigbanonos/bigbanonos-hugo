@@ -1,14 +1,11 @@
 ---
 title: "Kristin Hersh"
+slug: "kristin-hersh"
 date: 1998-02-02
-category: "artist"
-track_count: 2
-first_year: 1994
-last_year: 1998
+layout: post
 tags:
   - '@kristin-hersh'
   - '1900s'
-stub: true
 ---
 
 ## Kristin Hersh

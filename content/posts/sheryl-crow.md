@@ -1,15 +1,12 @@
 ---
 title: "Sheryl Crow"
+slug: "sheryl-crow"
 date: 2003-01-01
-category: "artist"
-track_count: 2
-first_year: 1996
-last_year: 2003
+layout: post
 tags:
   - '@sheryl-crow'
   - '00s-10s'
   - '1900s'
-stub: true
 ---
 
 ## Sheryl Crow

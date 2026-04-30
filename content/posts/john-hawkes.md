@@ -1,10 +1,8 @@
 ---
 title: "John Hawkes"
+slug: "john-hawkes"
 date: 2010-10-26
-category: "artist"
-track_count: 4
-first_year: 2010
-last_year: 2010
+layout: post
 tags:
   - '@john-hawkes'
   - '@marideth-sisco'
@@ -12,7 +10,6 @@ tags:
   - '@white-river-music-co'
   - '00s-10s'
   - 'bluegrass'
-stub: true
 ---
 
 ## John Hawkes

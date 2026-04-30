@@ -1,10 +1,8 @@
 ---
 title: "Lead Belly"
+slug: "lead-belly"
 date: 1994-09-20
-category: "artist"
-track_count: 3
-first_year: 1949
-last_year: 1994
+layout: post
 tags:
   - '@lead-belly'
   - '1900s'
@@ -12,7 +10,6 @@ tags:
   - 'classic blues'
   - 'country blues'
   - 'traditional folk'
-stub: true
 ---
 
 ## Lead Belly

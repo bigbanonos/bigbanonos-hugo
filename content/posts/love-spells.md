@@ -1,14 +1,11 @@
 ---
 title: "Love Spells"
+slug: "love-spells"
 date: 2024-12-06
-category: "artist"
-track_count: 2
-first_year: 2023
-last_year: 2024
+layout: post
 tags:
   - '@love-spells'
   - '2020s'
-stub: true
 ---
 
 ## Love Spells

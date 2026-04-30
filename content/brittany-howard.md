@@ -1,14 +1,14 @@
 ---
-title: "' 'Brittany Howard'
-'"
+title: "Brittany Howard"
+slug: "brittany-howard"
 date: 2025-01-17
-original_title: "'Brittany Howard'"
+layout: post
 tags:
   - '@fredagain'
   - '@brittanyhoward'
   - '@joyanonymous'
-layout: post
 ---
+
 <!-- Title of the Post -->
 <h1 >BigBanonosâ€™ Favorite Songs by Brittany Howard</h1> <!-- Featured Image -->
 <div > {{< img-lite src="https://i.scdn.co/image/ab67616d0000b2738bfd1640b83c33dabb356eb2" alt="Brittany Howard" >}}

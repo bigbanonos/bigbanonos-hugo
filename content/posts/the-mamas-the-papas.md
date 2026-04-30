@@ -1,15 +1,12 @@
 ---
-title: "The Mamas & The Papas"
+title: "The Mamas The Papas"
+slug: "the-mamas-the-papas"
 date: 1971-11-01
-category: "artist"
-track_count: 3
-first_year: 1967
-last_year: 1971
+layout: post
 tags:
   - '@the-mamas-the-papas'
   - '1900s'
   - 'folk rock'
-stub: true
 ---
 
 ## The Mamas & The Papas

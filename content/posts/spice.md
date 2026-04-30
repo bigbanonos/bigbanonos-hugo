@@ -1,10 +1,8 @@
 ---
 title: "Spice"
+slug: "spice"
 date: 2022-08-26
-category: "artist"
-track_count: 10
-first_year: 2014
-last_year: 2022
+layout: post
 tags:
   - '@spice'
   - '00s-10s'
@@ -13,7 +11,6 @@ tags:
   - 'soca'
   - 'shatta'
   - 'ragga'
-stub: true
 ---
 
 ## Spice

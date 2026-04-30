@@ -1,10 +1,8 @@
 ---
-title: "LVNA"
+title: "Lvna"
+slug: "lvna"
 date: 2019-11-27
-category: "artist"
-track_count: 2
-first_year: 2018
-last_year: 2019
+layout: post
 tags:
   - '@lvna'
   - '@lvna-anju-blaxx-sheenworks'
@@ -13,7 +11,6 @@ tags:
   - 'riddim'
   - 'soca'
   - 'ragga'
-stub: true
 ---
 
 ## LVNA

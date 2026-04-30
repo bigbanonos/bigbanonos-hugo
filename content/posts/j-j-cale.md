@@ -1,17 +1,14 @@
 ---
-title: "J.J. Cale"
+title: "J J Cale"
+slug: "j-j-cale"
 date: 1976-09-01
-category: "artist"
-track_count: 2
-first_year: 1972
-last_year: 1976
+layout: post
 tags:
   - '@j-j-cale'
   - '1900s'
   - 'blues'
   - 'blues rock'
   - 'roots rock'
-stub: true
 ---
 
 ## J.J. Cale

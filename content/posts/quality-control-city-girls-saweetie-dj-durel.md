@@ -1,15 +1,12 @@
 ---
-title: "Quality Control;City Girls;Saweetie;DJ Durel"
+title: "Quality Control City Girls Saweetie Dj Durel"
+slug: "quality-control-city-girls-saweetie-dj-durel"
 date: 2019-08-16
-category: "artist"
-track_count: 2
-first_year: 2019
-last_year: 2019
+layout: post
 tags:
   - '@quality-control-city-girls-saweetie-dj-durel'
   - '@quality-control-quavo-city-girls-megan-thee-stallion'
   - '00s-10s'
-stub: true
 ---
 
 ## Quality Control;City Girls;Saweetie;DJ Durel

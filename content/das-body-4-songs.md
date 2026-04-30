@@ -1,12 +1,12 @@
 ---
-title: "' 'Das Body'
-'"
+title: "Das Body"
+slug: "das-body"
 date: 2024-12-21
-original_title: "'Das Body - 4 Songs'"
+layout: post
 tags:
   - '@dasbody'
-layout: post
 ---
+
 <h3><em>BigBanonos</em> Top 4 Songs by Das Body:</h3> <p>Updated on April 9, 2021 with the standout track â€œOne Night Woman - Single Version.â€ BigBanonosâ€™ favorite Das Body songs highlight their unique Oslo indie sound, with tracks that merge pop with a moody, introspective style.</p> <!--Image-->
 <div class="separator"> <a href="https://f4.bcbits.com/img/0022402588_10.jpg" > <img alt="Das Body" src="https://f4.bcbits.com/img/0022402588_10.jpg" /> </a>
 </div> <!--Spotify Playlist Embed-->
