@@ -1,5 +1,5 @@
 ---
-title: ""Weird Al" Yankovic"
+title: "Weird Al Yankovic"
 slug: "weird-al"
 date: 2024-05-20
 layout: post
