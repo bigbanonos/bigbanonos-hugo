@@ -16,17 +16,7 @@ tags:
 <p><strong>Album:</strong> at mollyâ€™s request <br><strong>Release Date:</strong> April 15, 2025 <br><strong>Label:</strong> Rhythm Section International</p>
 {{< youtube "xqenSO443pA" >}} <ol> <li><p><strong>"HAND DOWN, MAN DOWN"</strong><br /> Album: <em>MOLLY'S SON</em><br /> Release Date: February 16, 2024<br /> Label: Spectral Sound<br /> Genres: Experimental R&B</p></li> <li><p><strong>"WE GONE MAKE IT"</strong><br /> Album: <em>WE GONE MAKE IT</em><br /> Release Date: December 5, 2023<br /> Label: Spectral Sound<br /> Genres: Experimental R&B</p></li> <li><p><strong>"Leo"</strong><br /> Album: <em>Floral Place</em><br /> Release Date: June 15, 2018<br /> Label: Ghostly International<br /> Genres: Experimental R&B</p></li>
 </ol> {{< youtube "embed" >}} <div class="separator"> <a href="https://media.ntslive.co.uk/crop/400x400/84a19b71-b497-4fd1-892a-2593ec8e1ea4_1528156800.jpeg" > <img alt="dreamcastmoe Album Cover" border="0" data-original-height="400" data-original-width="400" src="https://media.ntslive.co.uk/crop/400x400/84a19b71-b497-4fd1-892a-2593ec8e1ea4_1528156800.jpeg" width="320" /> </a>
-</div> <!-- Tags -->
+</div> 
 <p>@dreamcastmoe</p>
 
-
-<!--Subscribe and Playlist Links-->
-<div>
-    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
-    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
-
 <hr />
-
-<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
-
-<p>tags: @dreamcastmoe,</p>

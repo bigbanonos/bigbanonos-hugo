@@ -15,14 +15,4 @@ tags:
 </ol> {{< youtube "embed" >}} <div class="separator"> <a href="https://i.guim.co.uk/img/media/ea95ac7b1a8e2738cc60a2da56d32c534187218d/73_732_3209_1925/500.jpg?quality=85&auto=format&fit=max&s=067ed3e01af8377a8302c2cdc7f50a4c" > <img alt="DJ Sabrina The Teenage DJ" border="0" data-original-height="500" data-original-width="500" src="https://i.guim.co.uk/img/media/ea95ac7b1a8e2738cc60a2da56d32c534187218d/73_732_3209_1925/500.jpg?quality=85&auto=format&fit=max&s=067ed3e01af8377a8302c2cdc7f50a4c" width="320" /> </a>
 </div>
 
-
-<!--Subscribe and Playlist Links-->
-<div>
-    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
-    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
-
 <hr />
-
-<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
-
-<p>tags: @djsabrinatheteenagedj,</p>

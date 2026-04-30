@@ -18,17 +18,7 @@ tags:
 <div > <p>BigBanonos' standout picks:</p> <ol> <li><strong>Super-Connected</strong> | <em>King</em> | Released: February 10, 1995 | Reprise</li> <li><strong>Might Not</strong> (ft. The Weeknd) | <em>Might Not</em> | Released: December 18, 2015 | Republic Records</li> </ol>
 </div> <!-- Footer Links -->
 <div > <p>Discover more from Belly and beyond at <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Stay connected with fresh updates on <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p>
-</div> <!-- Tags -->
+</div> 
 <p >Tags: @belly,@theweeknd</p>
 
-
-<!--Subscribe and Playlist Links-->
-<div>
-    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
-    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
-
 <hr />
-
-<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
-
-<p>tags: @weeknd,@belly,</p>

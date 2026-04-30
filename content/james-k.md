@@ -39,17 +39,7 @@ When yr up at night
 Or lose it!
 </pre> <h3>Credits</h3>
 <p>Directed by james K & Isha Dipika Walia Ãƒâ€šÃ‚Â· Produced by Jay Chary Ãƒâ€šÃ‚Â· DP: Ben Elias Ãƒâ€šÃ‚Â· Edited by james K Ãƒâ€šÃ‚Â· Choreography: Sienna Kresge & Camryn Eakes Ãƒâ€šÃ‚Â· Cast: Gina, Bri, Mooje, Mira, Donna, Karen, Keke, Taryn, Mai, Pingu</p> <hr />
-<p>For more music like this, visit <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>, or join us on <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">Twitter</a>.</p> <!-- Tags -->
+<p>For more music like this, visit <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>, or join us on <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">Twitter</a>.</p> 
 <p>@jamesk</p>
 
-
-<!--Subscribe and Playlist Links-->
-<div>
-    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
-    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
-
 <hr />
-
-<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
-
-<p>tags: @jamesk,</p>

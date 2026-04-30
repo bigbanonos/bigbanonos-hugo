@@ -14,16 +14,7 @@ tags:
 </div> <h4>Also check out 2011 hit #NotOnSpotify - "Still Don't Know"</h4>
 {{< youtube "WECismQ2rqA" >}}
 <div> <p>first posted byÃƒâ€šÃ‚Â <a href="https://bigbanonos.blogspot.com/">https://bigbanonos.blogspot.com/</a></p><p>Explore more on BigBanonos: <a href="https://bigbanonos.blogspot.com/">Website</a> | <a href="https://www.youtube.com/@BigBanonos">YouTube</a> | <a href="https://x.com/bigbanonos">Twitter</a></p>
-</div> <!--Tags-->
+</div> 
 <p>@iconapop,@charlixcx</p>
 
-<!--Subscribe and Playlist Links-->
-<div>
-    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
-    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
-
 <hr />
-
-<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
-
-<p>tags: @iconapop,@charlixcx,</p>

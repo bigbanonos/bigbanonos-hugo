@@ -16,14 +16,4 @@ tags:
 </ul> <!--Image-->
 <img alt="Christine and the Queens" src="https://www.francerocks.com/wp-content/themes/replay/framework/extensions/timthumb/timthumb.php?src=https%3A%2F%2Fwww.francerocks.com%2Fwp-content%2Fuploads%2F2014%2F11%2Fchristineandthequeens1HD-photo-jamie-morgan.jpg&w=610" />
 
-
-<!--Subscribe and Playlist Links-->
-<div>
-    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
-    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
-
 <hr />
-
-<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
-
-<p>tags: @070shake,@christineandthequeens,</p>

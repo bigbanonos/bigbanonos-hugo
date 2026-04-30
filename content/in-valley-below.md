@@ -17,17 +17,7 @@ tags:
 <div > <p><em>"Peaches"</em>, released on July 9, 2013, is an unforgettable track by In The Valley Below. The song combines the dreamy allure of shimmer pop with the emotional depth of indie rock, making it a must-listen from Capitol Records.</p>
 </div> <!-- Footer Links -->
 <div > <p>Explore more favorite tracks at <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Check out curated playlists on <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and follow us on <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p>
-</div> <!-- Tags -->
+</div> 
 <p >Tags: @inthevalleybelow,</p>
 
-
-<!--Subscribe and Playlist Links-->
-<div>
-    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
-    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
-
 <hr />
-
-<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
-
-<p>tags: @inthevalleybelow,</p>

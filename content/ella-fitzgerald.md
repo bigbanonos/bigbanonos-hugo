@@ -18,17 +18,7 @@ tags:
 <div > <p>BigBanonos' standout picks:</p> <ol> <li><strong>A Tisket A Tasket</strong> | <em>Love, Ella</em> | Released: May 3, 2007 | Verve Reissues</li> <li><strong>Dream A Little Dream Of Me - Single Version</strong> (with Louis Armstrong) | <em>Love, Ella</em> | Released: May 3, 2007 | Verve Reissues</li> <li><strong>Summertime</strong> (with Louis Armstrong) | <em>Porgy And Bess</em> | Released: January 1, 1958 | Verve Reissues</li> <li><strong>Cheek To Cheek</strong> (with Louis Armstrong) | <em>The Complete Ella And Louis On Verve</em> | Released: May 20, 1997 | Verve Reissues</li> </ol>
 </div> <!-- Footer Links -->
 <div > <p>Discover the best of jazz and swing with Ella Fitzgerald on <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Don't miss more timeless music on <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p>
-</div> <!-- Tags -->
+</div> 
 <p >Tags: @ellafitzgerald, @louisarmstrong</p>
 
-
-<!--Subscribe and Playlist Links-->
-<div>
-    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
-    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
-
 <hr />
-
-<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
-
-<p>tags: @louisarmstrong,@ellafitzgerald,</p>

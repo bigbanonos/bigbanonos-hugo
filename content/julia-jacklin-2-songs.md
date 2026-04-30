@@ -13,17 +13,7 @@ tags:
 </div> <p>Known for her evocative storytelling and raw, emotional delivery, Juliaâ€™s music explores themes of love, loss, and self-discovery. Whether you're drawn to the gentle introspection of "<strong>baby jesus is nobody's baby now</strong>" or the intense emotion of "<strong>Don't Know How To Keep Loving You</strong>," her songs offer a unique blend of vulnerability and strength.</p>
 {{< youtube "videoseries" >}}
 <div> <p>Discover more at BigBanonos: <a href="https://bigbanonos.blogspot.com/">Website</a> | <a href="https://www.youtube.com/@BigBanonos">YouTube</a> | <a href="https://x.com/bigbanonos">Twitter</a></p>
-</div> <!-- Tags -->
+</div> 
 <p>@juliajacklin</p>
 
-
-<!--Subscribe and Playlist Links-->
-<div>
-    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
-    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
-
 <hr />
-
-<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
-
-<p>tags: @juliajacklin,</p>

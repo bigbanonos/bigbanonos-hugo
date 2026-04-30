@@ -14,17 +14,6 @@ tags:
 Album: <em>Crushing On Twin</em> â€ Alamo Records â€ 2025<br/>
 Genres: Cali Rap, Melodic Rap, Hip Hop</p> <p><strong>Pourin (feat. BlueBucksClan & Mike Free)</strong> â€ 03 Greedo<br/>
 Album: <em>Single</em> â€ 2023<br/>
-Genres: Hip Hop</p> <div> <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p> <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p>
-</div> <hr /> <p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p> <p>@03greedo,@bluebucksclan,@mikefree</p>
-
-
-<!--Subscribe and Playlist Links-->
-<div>
-    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
-    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+Genres: Hip Hop</p>  <hr />  <p>@03greedo,@bluebucksclan,@mikefree</p>
 
 <hr />
-
-<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
-
-<p>tags: @03greedo,@mikefree,@freddiegibbs,@bluebucksclan,</p>

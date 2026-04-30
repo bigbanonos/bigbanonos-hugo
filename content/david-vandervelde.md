@@ -18,18 +18,7 @@ tags:
 <li><strong>"Checkin' Out My Baby"</strong> (2010, <em>Checkin' Out My Baby</em>) - Released June 1, 2010, a groove-heavy, upbeat track with bluesy swagger.</li>
 <li><strong>"Feet of a Liar (From The Daytrotter Sessions)"</strong> (2007, <em>Nothin' No</em>) - A rare acoustic take recorded for Daytrotter.</li>
 <li><strong>"Feet of a Liar"</strong> (2007, <em>The Moonstation House Band</em>) - A fuzzed-out rocker with a signature 70s sound.</li>
-</ul> <hr /> <h3>Artist Info</h3> <p><strong>David Vandervelde</strong> â€“ A multi-instrumentalist with a sound deeply influenced by 70s glam, indie folk, and psychedelic rock. Known for his work with Secretly Canadian, Vanderveldeâ€™s music combines lush production with deeply personal lyrics.</p> <hr /> <div> <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p> <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p>
-</div> <hr /> <p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p> <!-- Tags -->
+</ul> <hr /> <h3>Artist Info</h3> <p><strong>David Vandervelde</strong> â€“ A multi-instrumentalist with a sound deeply influenced by 70s glam, indie folk, and psychedelic rock. Known for his work with Secretly Canadian, Vanderveldeâ€™s music combines lush production with deeply personal lyrics.</p> <hr />  
 <p>@davidvandervelde</p>
 
-
-<!--Subscribe and Playlist Links-->
-<div>
-    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
-    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
-
 <hr />
-
-<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
-
-<p>tags: @davidvandervelde,</p>

@@ -23,16 +23,6 @@ tags:
 <p><strong>"What's in It for Me"</strong> â€“ <em>Bows + Arrows</em> (2004-02-03) â€“ Record Collection Music</p>
 <p><strong>"Woe Is Me"</strong> â€“ <em>Lisbon</em> (2010) â€“ Fat Possum</p>
 <p><strong>"The Christmas Party (feat. Nicole Sheahan)"</strong> â€“ <em>Alternative Christmas</em> (2022-06-24) â€“ Warner Music Group - X5 Music Group</p> {{< youtube "embed" >}} <p>@walkmen,@nicolesheahan</p> <hr /> <!-- Footer -->
-<p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p> <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist</a></p> <p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
-
-
-<!--Subscribe and Playlist Links-->
-<div>
-    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
-    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+ 
 
 <hr />
-
-<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
-
-<p>tags: @walkmen,@nicolesheahan,</p>

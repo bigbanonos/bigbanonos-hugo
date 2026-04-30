@@ -12,18 +12,7 @@ tags:
 <li><strong>"Ruff Ryders' Anthem"</strong> (1998, <em>It's Dark And Hell Is Hot</em>) - Released May 1, 1998, under Def Jam Recordings. The track that made DMX a legend.</li>
 <li><strong>"Where The Hood At"</strong> (2003, <em>Grand Champ</em>) - Released in 2003 under RAL (Rush Associated Label), a certified street anthem.</li>
 <li><strong>"X Gon' Give It To Ya"</strong> (2007, <em>The Definition Of X: Pick Of The Litter</em>) - Released June 12, 2007, under RAL, a track that cemented DMXâ€™s presence in pop culture.</li>
-</ul> <hr /> <h3>Artist Info</h3> <p><strong>DMX</strong> â€“ One of the most raw and intense voices in hip hop, DMX defined hardcore East Coast rap with aggressive delivery, real-life storytelling, and anthems that still resonate today. His influence stretches far beyond his discography, shaping generations of artists with his unfiltered energy and honesty.</p> <hr /> <div> <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p> <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p>
-</div> <hr /> <p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p> <!-- Tags -->
+</ul> <hr /> <h3>Artist Info</h3> <p><strong>DMX</strong> â€“ One of the most raw and intense voices in hip hop, DMX defined hardcore East Coast rap with aggressive delivery, real-life storytelling, and anthems that still resonate today. His influence stretches far beyond his discography, shaping generations of artists with his unfiltered energy and honesty.</p> <hr />  
 <p>@dmx</p>
 
-
-<!--Subscribe and Playlist Links-->
-<div>
-    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
-    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
-
 <hr />
-
-<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
-
-<p>tags: @dmx,</p>

@@ -18,17 +18,7 @@ tags:
 <div > <p><em>"Wise Enough"</em> is a testament to the powerful fusion of dubstep, R&B, and pop, bringing together the experimental sounds of Joker with the emotive delivery of Zak Abel. Released as part of *The Mainframe*, the track continues to highlight Joker's unique production style and Zak Abel's soulful vocal ability, cementing their place in the UK electronic and R&B scene.</p>
 </div> <!-- Footer Links -->
 <div > <p>Discover more innovative tracks on <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>, check out our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> channel, and follow us on <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p>
-</div> <!-- Tags -->
+</div> 
 <p >Tags: @joker, @zakabel,</p>
 
-
-<!--Subscribe and Playlist Links-->
-<div>
-    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
-    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
-
 <hr />
-
-<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
-
-<p>tags: @zakabel,@joker,</p>

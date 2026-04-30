@@ -17,17 +17,7 @@ tags:
 <div > <p>BigBanonos' favorite tracks by Taken By Trees:</p> <ol> <li><strong>Only You</strong> | <em>Other Worlds</em> | Released: October 2, 2012 | Secretly Canadian</li> <li><strong>Too Young</strong> | <em>Open Field</em> | Released: June 18, 2007 | Rough Trade</li> <li><strong>In Other Words</strong> | <em>Other Worlds</em> | Released: October 2, 2012 | Secretly Canadian</li> </ol>
 </div> <!-- Footer Links -->
 <div > <p>Discover more by visiting <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. For additional updates and music highlights, check out our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a> pages!</p>
-</div> <!-- Tags -->
+</div> 
 <p >Tags: @takenbytrees</p>
 
-
-<!--Subscribe and Playlist Links-->
-<div>
-    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
-    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
-
 <hr />
-
-<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
-
-<p>tags: @takenbytrees,</p>

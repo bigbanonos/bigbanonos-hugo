@@ -13,16 +13,4 @@ tags:
 {{< youtube "embed" >}} <!--Song Listings-->
 <ol> <li><strong>Red Bird Pt. 2 (Morning)</strong> â€ <em>Florist</em> â€ July 29, 2022</li> <li><strong>Spring in Hours</strong> â€ <em>Florist</em> â€ July 29, 2022</li> <li><strong>43</strong> â€ <em>Florist</em> â€ July 29, 2022</li> <li><strong>River's Bed</strong> â€ <em>Florist</em> â€ July 29, 2022</li> <li><strong>Sci-fi Silence</strong> â€ <em>Florist</em> â€ July 29, 2022</li> <li><strong>Time Is A Dark Feeling</strong> â€ <em>Emily Alone</em> â€ July 26, 2019</li></ol>
 {{< youtube "videoseries" >}}
-<hr /> <p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
-
-
-<!--Subscribe and Playlist Links-->
-<div>
-    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
-    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
-
 <hr />
-
-<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
-
-<p>tags: @florist,</p>

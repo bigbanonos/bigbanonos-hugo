@@ -19,14 +19,4 @@ tags:
 <img alt="Busy Signal" src="https://thefader-res.cloudinary.com/private_images/w_640,c_limit,f_auto,q_auto:eco/Busy_Signal_3_uecj3x/busy-signal-shares-new-video-bruk-dung-di-bed.jpg" /> <!--Separated Tags-->
 <p>Ãƒâ€šÃ‚Â For more exclusive tracks not found on Spotify, subscribe to BigBanonos onÃƒâ€šÃ‚Â <a href="https://www.youtube.com/channel/[YourYouTubeChannelID]">YouTube</a>Ãƒâ€šÃ‚Â and explore their curated playlist featuring the best songs #NotOnSpotify.</p>
 
-
-<!--Subscribe and Playlist Links-->
-<div>
-    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
-    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
-
 <hr />
-
-<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
-
-<p>tags: @birchill,@walshyfire,@bountykiller,@djseptik,@afrob,@busysignal,</p>

@@ -17,17 +17,7 @@ tags:
 <div > <p><em>"Go (Audiotree Live Version)"</em> captures the raw energy and vulnerability of Yowler's live performance. With its atmospheric sound and soulful delivery, this track is a must-listen for fans of emotive indie rock. The session was released by Audiotree Music in 2017.</p>
 </div> <!-- Footer Links -->
 <div > <p>Discover more at <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. For exclusive updates, check out our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a> channels.</p>
-</div> <!-- Tags -->
+</div> 
 <p >Tags: @yowler,</p>
 
-
-<!--Subscribe and Playlist Links-->
-<div>
-    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
-    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
-
 <hr />
-
-<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
-
-<p>tags: @yowler,</p>

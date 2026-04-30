@@ -18,17 +18,7 @@ tags:
 <div > <p><em>"Eilean Mo ChrÃƒÆ’Ã‚Â¬dh (Isle Of My Heart)"</em> is featured on <strong>The Alan Lomax Collection from the American Folklife Center</strong>, released under Global Jukebox. This track is a moving example of spiritual and traditional folk, brought to life through the timeless efforts of Alan Lomax and John Carlin.</p>
 </div> <!-- Footer Links -->
 <div > <p>Explore more of BigBanonos' favorite folk and acoustic gems at <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Check out our playlists on <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and follow us on <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a> for updates.</p>
-</div> <!-- Tags -->
+</div> 
 <p >Tags: @johncarlin, @alanlomax,</p>
 
-
-<!--Subscribe and Playlist Links-->
-<div>
-    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
-    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
-
 <hr />
-
-<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
-
-<p>tags: @alanlomax,@johncarlin,</p>

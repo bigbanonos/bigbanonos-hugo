@@ -14,18 +14,7 @@ Album: <em>Before You Go</em> â€ Secretly Canadian â€ May 9, 2025<br/>
 Genres: Indie R&B, Alternative R&B, Pop, Rock</p> <p><strong>Right Back</strong> â€ Brandon<br/>
 Album: <em>Right Back</em> â€ Secretly Canadian â€ February 20, 2025<br/>
 Genres: Indie R&B, Alternative R&B, Pop, Rock</p> <!-- Spotify playlist -->
-{{< youtube "embed" >}} <div> <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p> <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist</a></p>
-</div> <hr /> <p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" target="_new">https://bigbanonos.blogspot.com/</a></p> <!-- TAGS -->
+{{< youtube "embed" >}}  <hr />  
 <p>@brandon</p>
 
-
-<!--Subscribe and Playlist Links-->
-<div>
-    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
-    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
-
 <hr />
-
-<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
-
-<p>tags: @brandon,</p>

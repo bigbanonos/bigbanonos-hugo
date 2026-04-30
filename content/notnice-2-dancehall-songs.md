@@ -12,14 +12,4 @@ tags:
 1. <em>Weekend (Bup Bup) feat. Chronic Law</em> â€“ <em>Street Vybz 2.0 (750ML)</em>, 2024-03-15<br />
 2. <em>Notice feat. Chronic Law</em> â€“ <em>Cool Reminder Riddim</em>, 2022-07-15</p><div class="separator" ><a href="https://hypelifemagazine.com/wp-content/uploads/2022/01/NotNice-Says-Trap-Dancehall-Is-Not-Dancehall-Music-.jpeg" imageanchor="1"><img border="0" data-original-height="675" data-original-width="1200" height="675" src="https://hypelifemagazine.com/wp-content/uploads/2022/01/NotNice-Says-Trap-Dancehall-Is-Not-Dancehall-Music-.jpeg" width="1200" /></a></div><br /><p><br /></p> <p><br /></p>
 
-
-<!--Subscribe and Playlist Links-->
-<div>
-    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
-    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
-
 <hr />
-
-<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
-
-<p>tags: @notnice,@chroniclaw,</p>

@@ -19,16 +19,4 @@ tags:
 <p><em>An Argument With Myself</em>, Service, September 20, 2011</p> <h3>"Do You Remember The Riots?"</h3>
 <p><em>When I Said I Wanted To Be Your Dog</em>, Secretly Canadian, September 7, 2004</p> <h3>"Happy Birthday, Dear Friend Lisa"</h3>
 <p><em>When I Said I Wanted To Be Your Dog</em>, Secretly Canadian, September 7, 2004</p> <h3>"You Are The Light (by which I travel into this and that)"</h3>
-<p><em>When I Said I Wanted To Be Your Dog</em>, Secretly Canadian, September 7, 2004</p> <hr /> <h3>Listen on Spotify</h3> {{< youtube "embed" >}} <hr /> <p><strong>Tags:</strong> @jenslekman</p> <hr /> <p><em>First posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
-
-
-<!--Subscribe and Playlist Links-->
-<div>
-    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
-    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
-
-<hr />
-
-<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
-
-<p>tags: @jenslekman,</p>
+<p><em>When I Said I Wanted To Be Your Dog</em>, Secretly Canadian, September 7, 2004</p> <hr /> <h3>Listen on Spotify</h3> {{< youtube "embed" >}} <hr /> <p><strong>Tags:</strong> @jenslekman</p> <hr />

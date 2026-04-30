@@ -13,16 +13,6 @@ tags:
 {{< youtube "embed" >}} <!--Song Listings-->
 <ol> <li><strong>Everything Is Permanent</strong> â€ <em>Misadventures Of Doomscroller</em> â€ July 22, 2022</li> <li><strong>Things Happen</strong> â€ <em>All Your Favorite Bands</em> â€ June 1, 2015</li> <li><strong>Million Dollar Bill</strong> â€ <em>Nothing Is Wrong</em> â€ June 7, 2011</li>
 </ol> <p>Dive into the best of Dawesâ€™ folk rock, a blend of heart and stomp-and-holler energy.</p> <!--YouTube Embed and Link to Channel-->
-<p>For more incredible indie folk and Americana vibes, check out the <a href="https://www.youtube.com/channel/BigBanonos" target="_blank">BigBanonos YouTube Channel</a> and our exclusive #NotOnSpotify playlist.</p> <p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
-
-
-<!--Subscribe and Playlist Links-->
-<div>
-    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
-    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+<p>For more incredible indie folk and Americana vibes, check out the <a href="https://www.youtube.com/channel/BigBanonos" target="_blank">BigBanonos YouTube Channel</a> and our exclusive #NotOnSpotify playlist.</p> 
 
 <hr />
-
-<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
-
-<p>tags: @dawes,</p>

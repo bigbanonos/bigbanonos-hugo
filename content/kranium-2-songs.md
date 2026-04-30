@@ -19,17 +19,7 @@ tags:
 <ol> <li><strong>In Charge</strong> | Album: <em>Midnight Sparks</em> | Released: December 6, 2019 | Label: Atlantic Records</li> <li><strong>Nobody Has to Know</strong> | Album: <em>Rumors</em> | Released: October 16, 2015 | Label: Atlantic Records</li> <li><strong>We Can (feat. Tory Lanez)</strong> | Album: <em>We Can</em> | Released: September 23, 2016 | Label: Atlantic Records</li>
 </ol> <!-- Footer Links -->
 <hr />
-<p>Explore more of Kranium's music and other BigBanonos favorites on <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Discover curated playlists on <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and follow us on <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a> for updates!</p> <!-- Tags -->
+<p>Explore more of Kranium's music and other BigBanonos favorites on <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Discover curated playlists on <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and follow us on <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a> for updates!</p> 
 <p>@kranium,@torylanez</p>
 
-
-<!--Subscribe and Playlist Links-->
-<div>
-    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
-    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
-
 <hr />
-
-<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
-
-<p>tags: @kranium,@davido,</p>

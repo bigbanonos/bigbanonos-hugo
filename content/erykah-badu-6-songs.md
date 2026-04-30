@@ -17,17 +17,7 @@ tags:
 <ul > <li><strong>Window Seat</strong> - <em>Album:</em> New Amerykah Part Two: Return Of The Ankh (2010) - <em>Label:</em> Motown - <em>Genres:</em> R&B</li> <li><strong>Get MuNNY</strong> - <em>Album:</em> New Amerykah Part Two: Return Of The Ankh (2010) - <em>Label:</em> Motown - <em>Genres:</em> R&B</li> <li><strong>Tyrone - Live</strong> - <em>Album:</em> Live (1997) - <em>Label:</em> Kedar - <em>Genres:</em> R&B</li> <li><strong>On & On</strong> - <em>Album:</em> Baduizm (1997) - <em>Label:</em> Universal Records - <em>Genres:</em> R&B</li> <li><strong>Next Lifetime</strong> - <em>Album:</em> Baduizm (1997) - <em>Label:</em> Universal Records - <em>Genres:</em> R&B</li> <li><strong>Appletree</strong> - <em>Album:</em> Baduizm (1997) - <em>Label:</em> Universal Records - <em>Genres:</em> R&B</li>
 </ul> <!-- Footer Links -->
 <hr />
-<p >For more updates, visit <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Also, check out our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> channel and follow us on <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p> <!-- Tags -->
+<p >For more updates, visit <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Also, check out our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> channel and follow us on <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p> 
 <p >Tags: @erykahbadu,</p>
 
-
-<!--Subscribe and Playlist Links-->
-<div>
-    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
-    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
-
 <hr />
-
-<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
-
-<p>tags: @erykahbadu,</p>

@@ -18,16 +18,6 @@ tags:
 Produced, mixed, and mastered by Billy Mannino<br/>
 Video directed by Nick Zander and Equipment
 </p> <div> <p>Tour and merch: <a href="https://equipmentband.com" target="_blank">equipmentband.com</a></p> <p>Follow Equipment: <a href="https://www.instagram.com/equipment_ohio" target="_blank">Instagram</a> | <a href="https://x.com/equipment_ohio" target="_blank">Twitter</a> | <a href="https://www.facebook.com/equipmentoh" target="_blank">Facebook</a></p>
-</div> <hr /> <p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" target="_new">https://bigbanonos.blogspot.com/</a></p> <p>@equipment</p>
-
-
-<!--Subscribe and Playlist Links-->
-<div>
-    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
-    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+</div> <hr />  <p>@equipment</p>
 
 <hr />
-
-<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
-
-<p>tags: @equipment,</p>

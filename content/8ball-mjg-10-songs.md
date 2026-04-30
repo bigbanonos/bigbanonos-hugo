@@ -16,17 +16,4 @@ BigBanonos' favorite 8Ball & MJG songs, updated on June 21, 2025 with the brand 
 Album: <em>100Lifes</em> â€ Gaffle Gang Music â€ June 21, 2025<br />
 Genres: Southern Hip Hop, Crunk, Hip Hop</p> <hr /> {{< youtube "embed" >}} <p>
 <strong>8Ball & MJG Classics:</strong><br /><br /> Mr. Big â€“ <i>Comin' Out Hard</i>, 1993, SoSouth<br /><br /> Space Age Pimpin' â€“ <i>On Top Of The World</i>, October 31, 1995, Suave House<br /><br /> Daylight â€“ <i>In Our Lifetime</i>, May 18, 1999, Suave House</p><p>Do It How It Go â€“Ãƒâ€šÃ‚Â <i>In Our Lifetime</i>, May 18, 1999, Suave House<br /><br /> Paid Dues (feat. CeeLo Green) â€“ <i>In Our Lifetime</i>, May 18, 1999, Suave House<br /><br /> Intro â€“ <i>Space Age 4 Eva</i>, August 23, 2005, 8 Ways Entertainment<br /><br /> Buck Bounce â€“ <i>Space Age 4 Eva</i>, August 23, 2005, 8 Ways Entertainment<br /><br /> Pimp Hard â€“ <i>Space Age 4 Eva</i>, August 23, 2005, 8 Ways Entertainment<br /><br /> Freestyle (feat. Sabwarfare of The Swishahouse) â€“ <i>Space Age 4 Eva - Chopped & Screwed</i>, August 23, 2005, 8 Ways Entertainment<br /><br /> Don't Flex â€“ <i>We Are The South (Greatest Hits)</i>, May 13, 2008, Koch Records<br /><br /> Take a Picture (Bonus Track) â€“ <i>Classic Pimpin' (Live)</i>, January 1, 2019, Push Management<br />
-</p> <div> <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p> <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist</a></p>
-</div> <hr /> <p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
-
-
-<!--Subscribe and Playlist Links-->
-<div>
-    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
-    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
-
-<hr />
-
-<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
-
-<p>tags: @mjg,@8ball,@ceelo,</p>
+</p>  <hr />

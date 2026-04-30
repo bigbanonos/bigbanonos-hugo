@@ -18,16 +18,3 @@ tags:
 <ol> <li><strong>baby blue frigidaire mini fridge</strong> - Album: <em>baby blue frigidaire mini fridge</em> (2025-05-13)</li> <li><strong>partner</strong> - Album: <em>partner</em> (2021-08-25)</li> <li><strong>damn</strong> - Album: <em>damn</em> (2021-07-27)</li> <li><strong>what makes me sad</strong> - Album: <em>what we say in private</em> (2019-07-19)</li>
 </ol> <!--Footer Links-->
 <hr />
-<p>For more updates, visit <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_blank">BigBanonos</a>. Also, check out our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> channel and follow us on <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a> for exclusive content!</p>
-
-
-<!--Subscribe and Playlist Links-->
-<div>
-    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
-    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
-
-<hr />
-
-<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
-
-<p>tags: @adalea,</p>

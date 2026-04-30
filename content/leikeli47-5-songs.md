@@ -13,17 +13,7 @@ tags:
 </div>
 {{< youtube "videoseries" >}}
 <br />
-<p>Explore the powerful, unapologetic energy of Leikeli47â€™s music, where each track reflects her unique blend of genres and style.</p> <!--Tags-->
+<p>Explore the powerful, unapologetic energy of Leikeli47â€™s music, where each track reflects her unique blend of genres and style.</p> 
 <p>@leikeli47</p>
 
-
-<!--Subscribe and Playlist Links-->
-<div>
-    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
-    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
-
 <hr />
-
-<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
-
-<p>tags: @leikeli47,</p>

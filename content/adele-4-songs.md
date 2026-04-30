@@ -15,14 +15,4 @@ tags:
 <img alt="Adele Album Cover" src="https://ftw.usatoday.com/wp-content/uploads/sites/90/2023/05/USP-NBA_-Playoffs-Dallas-Mavericks-at-Golden-State.jpg" />
 <p>Donâ€™t forget to check out <a href="https://www.youtube.com/@BigBanonos">BigBanonos on YouTube</a> for more curated music content, especially those tracks #NotOnSpotify!</p>
 
-
-<!--Subscribe and Playlist Links-->
-<div>
-    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
-    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
-
 <hr />
-
-<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
-
-<p>tags: @errollgarner,@adele,</p>

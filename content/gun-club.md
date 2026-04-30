@@ -17,16 +17,4 @@ tags:
 <p><em>Miami (Remastered 2020)</em>, Blixa Sounds, 1982</p> <h3>"Jack on Fire - Remastered 2020"</h3>
 <p><em>Fire of Love (Remastered 2020)</em>, Blixa Sounds, 1981</p> <h3>"For Love of Ivy - Remastered 2020"</h3>
 <p><em>Fire of Love (Remastered 2020)</em>, Blixa Sounds, 1981</p> {{< youtube "embed" >}}
-<hr /> <p><strong>Tags:</strong> @thegunclub</p> <hr /> <p><em>First posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
-
-
-<!--Subscribe and Playlist Links-->
-<div>
-    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
-    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
-
-<hr />
-
-<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
-
-<p>tags: @gunclub,</p>
+<hr /> <p><strong>Tags:</strong> @thegunclub</p> <hr />

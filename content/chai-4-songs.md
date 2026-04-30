@@ -14,14 +14,4 @@ tags:
 {{< youtube "embed" >}}<br /> <!--Image-->
 <img alt="CHAI Band" src="https://media.pitchfork.com/photos/6542a76d36af3ae0cb675364/master/w_1600%2Cc_limit/Meet%2520Chai%2C%2520the%2520Eclectic%2520Japanese%2520Rock%2520Band%2520Redefining%2520What%2520It%2520Means%2520to%2520Be%2520Cute%25201.jpeg" />
 
-
-<!--Subscribe and Playlist Links-->
-<div>
-    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
-    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
-
 <hr />
-
-<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
-
-<p>tags: @chai,</p>

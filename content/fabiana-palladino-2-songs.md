@@ -14,16 +14,7 @@ tags:
 <ol> <li><strong>Waiting</strong> â€ <em>Paul Institute</em> â€ August 4, 2020</li> <li><strong>Mystery</strong> â€ <em>Paul Institute</em> â€ November 17, 2017</li>
 </ol>
 {{< youtube "videoseries" >}}
-<!--Tags-->
-<p></p> <p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p> 
 
-<!--Subscribe and Playlist Links-->
-<div>
-    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
-    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
+<p></p>  
 
 <hr />
-
-<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
-
-<p>tags: @fabianapalladino,</p>

@@ -17,13 +17,4 @@ tags:
 <p>Updated May 13, 2024 with "<i>Psilocybae (Millennial Love)</i>" and "<i>Sweet Thang</i>"</p> <ol> <li><p>"Psilocybae (Millennial Love)" (feat. 21 Savage, Ink & Kadhja Bonet)<br />Album: <em>Atavista</em><br />Release Date: May 13, 2024<br />Label: Wolf+Rothstein/RCA Records<br /></p></li> <li><p>"Sweet Thang" (feat. Summer Walker)<br />Album: <em>Atavista</em><br />Release Date: May 13, 2024<br />Label: Wolf+Rothstein/RCA Records<br /></p></li> <li><p>"Little Foot Big Foot" (feat. Young Nudy)<br />Album: <em>Atavista</em><br />Release Date: May 13, 2024<br />Label: Wolf+Rothstein/RCA Records<br /></p></li> <li><p>"Redbone"<br />Album: <em>Awaken, My Love!</em><br />Release Date: December 2, 2016<br />Label: Glassnote Entertainment Group LLC<br /></p></li> <li><p>"3005"<br />Album: <em>Because the Internet</em><br />Release Date: December 10, 2013<br />Label: Glassnote Entertainment Group LLC<br /></p></li>
 </ol> {{< youtube "embed" >}} 
 
-<!--Subscribe and Playlist Links-->
-<div>
-    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
-    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
-
 <hr />
-
-<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
-
-<p>tags: @youngnudy,@summerwalker,@kadhjabonet,@21savage,@childishgambino,@ink,</p>

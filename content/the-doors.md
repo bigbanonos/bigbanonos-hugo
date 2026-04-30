@@ -19,18 +19,7 @@ tags:
 <li><strong>"Riders on the Storm"</strong> (1971, <em>L.A. Woman</em>) - A haunting, jazz-inflected masterpiece.</li>
 <li><strong>"People Are Strange"</strong> (1967, <em>Strange Days</em>) - A quirky, theatrical track capturing alienation and strangeness.</li>
 <li><strong>"Touch Me"</strong> (1968, <em>The Soft Parade</em>) - A brass-heavy pop-leaning song with a dramatic flair.</li>
-</ul> <hr /> <h3>Band Info</h3> <p><strong>The Doors</strong> â€“ One of the most revolutionary rock bands of the late 1960s, blending blues, jazz, and psychedelic rock with Jim Morrisonâ€™s poetic intensity. Their music remains timeless, with eerie atmospheres, hypnotic organ work, and provocative lyrics that continue to captivate listeners.</p> <hr /> <div> <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p> <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p>
-</div> <hr /> <p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p> <!-- Tags -->
+</ul> <hr /> <h3>Band Info</h3> <p><strong>The Doors</strong> â€“ One of the most revolutionary rock bands of the late 1960s, blending blues, jazz, and psychedelic rock with Jim Morrisonâ€™s poetic intensity. Their music remains timeless, with eerie atmospheres, hypnotic organ work, and provocative lyrics that continue to captivate listeners.</p> <hr />  
 <p>@thedoors</p>
 
-
-<!--Subscribe and Playlist Links-->
-<div>
-    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
-    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
-
 <hr />
-
-<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
-
-<p>tags: @doors,</p>

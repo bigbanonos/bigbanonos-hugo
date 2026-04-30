@@ -18,17 +18,7 @@ tags:
 <div > <p>BigBanonos' standout picks:</p> <ol> <li><strong>If You Don't Know Now, You Never Will</strong> | <em>Raw Honey</em> | Released: April 19, 2019 | Mexican Summer</li> <li><strong>Honey (feat. Weyes Blood)</strong> | <em>Raw Honey</em> | Released: April 19, 2019 | Mexican Summer</li> <li><strong>Suddenly (feat. Weyes Blood)</strong> | <em>The End Of Comedy</em> | Released: September 9, 2016 | Weird World</li> </ol>
 </div> <!-- Footer Links -->
 <div > <p>Find more timeless tunes from Drugdealer at <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Stay tuned on <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p>
-</div> <!-- Tags -->
+</div> 
 <p >Tags: @drugdealer,@weyesblood</p>
 
-
-<!--Subscribe and Playlist Links-->
-<div>
-    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
-    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
-
 <hr />
-
-<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
-
-<p>tags: @weyesblood,@drugdealer,</p>

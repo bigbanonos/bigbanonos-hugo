@@ -13,14 +13,4 @@ tags:
 <ol> <li><strong>Get It Sexyy</strong> (2024) - This latest hit showcases Sexyy Red's signature trap queen style. - Album: <em>Get It Sexyy</em></li> <li><strong>Born By the River (feat. Sukihana)</strong> (2022) - A high-energy collaboration that pairs Sexyy Red with Sukihana. - Album: <em>Born By the River (feat. Sukihana)</em></li>
 </ol>
 
-
-<!--Subscribe and Playlist Links-->
-<div>
-    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
-    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
-
 <hr />
-
-<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
-
-<p>tags: @sexyyred,@sukihana,</p>

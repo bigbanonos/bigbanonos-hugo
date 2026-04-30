@@ -17,18 +17,7 @@ Album: <em>Mr. Money With The Vibe</em> â€ YBNL Nation / EMPIRE â€ 202
 Album: <em>Mr. Money With The Vibe</em> â€ YBNL Nation / EMPIRE â€ 2022</p> <p><strong>Sungba</strong> â€ Asake<br/>
 Album: <em>Ololade Asake</em> â€ YBNL â€ 2022</p> <!-- Optional Spotify track embeds -->
 <div> {{< youtube "embed" >}} {{< youtube "embed" >}} {{< youtube "embed" >}} {{< youtube "embed" >}}
-</div> <div> <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p> <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist</a></p>
-</div> <hr /> <p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p> <!-- TAGS -->
+</div>  <hr />  
 <p>@asake,@tiakola,@burnaboy,</p>
 
-
-<!--Subscribe and Playlist Links-->
-<div>
-    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
-    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
-
 <hr />
-
-<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
-
-<p>tags: @asake,@tiakola,@burnaboy,</p>

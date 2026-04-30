@@ -18,17 +18,7 @@ tags:
 <ol> <li><strong>Upon Sober Reflection</strong> | Album: <em>Fate & Alcohol</em> | Released: October 18, 2024 | Label: Anti/Epitaph</li> <li><strong>The House That Heaven Built</strong> | Album: <em>The House That Heaven Built</em> | Released: April 3, 2012 | Label: Polyvinyl Records</li> <li><strong>The Nights of Wine and Roses</strong> | Album: <em>Celebration Rock</em> | Released: June 5, 2012 | Label: Polyvinyl Records</li> <li><strong>Younger Us</strong> | Album: <em>Celebration Rock</em> | Released: June 5, 2012 | Label: Polyvinyl Records</li> <li><strong>The Boys Are Leaving Town</strong> | Album: <em>Post-Nothing</em> | Released: August 4, 2009 | Label: Polyvinyl Records</li> <li><strong>Young Hearts Spark Fire</strong> | Album: <em>Post-Nothing</em> | Released: August 4, 2009 | Label: Polyvinyl Records</li> <li><strong>Wet Hair</strong> | Album: <em>Post-Nothing</em> | Released: August 4, 2009 | Label: Polyvinyl Records</li> <li><strong>Heart Sweats</strong> | Album: <em>Post-Nothing</em> | Released: August 4, 2009 | Label: Polyvinyl Records</li> <li><strong>Crazy/Forever</strong> | Album: <em>Post-Nothing</em> | Released: August 4, 2009 | Label: Polyvinyl Records</li> <li><strong>Sovereignty</strong> | Album: <em>Post-Nothing</em> | Released: August 4, 2009 | Label: Polyvinyl Records</li>
 </ol> <!-- Footer Links -->
 <hr />
-<p>Explore more Japandroids tracks and other BigBanonos favorites on <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Donâ€™t forget to check out our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> channel and follow us on <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a> for exclusive content!</p> <!-- Tags -->
+<p>Explore more Japandroids tracks and other BigBanonos favorites on <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Donâ€™t forget to check out our <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> channel and follow us on <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a> for exclusive content!</p> 
 <p>@japandroids</p>
 
-
-<!--Subscribe and Playlist Links-->
-<div>
-    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
-    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
-
 <hr />
-
-<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
-
-<p>tags: @japandroids,</p>

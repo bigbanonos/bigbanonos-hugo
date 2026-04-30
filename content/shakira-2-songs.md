@@ -14,13 +14,4 @@ tags:
 <ol> <li><strong>PunterÃƒÆ’Ã‚Â­a</strong> (2024) - Shakiraâ€™s latest hit with <a href="https://bigbanonos.blogspot.com/2024/03/cardi-b-7-songs.html" target="_blank">Cardi B</a>, a fiery track off her album <em>Las Mujeres Ya No Lloran</em>.</li> <li><strong>Hips Donâ€™t Lie (feat. Wyclef Jean)</strong> (2005) - A classic hit that brought Shakira worldwide acclaim. - Album: <em>Oral Fixation, Vol. 2 (Expanded Edition)</em></li>
 </ol>
 
-<!--Subscribe and Playlist Links-->
-<div>
-    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
-    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
-
 <hr />
-
-<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
-
-<p>tags: @shakira,@wyclefjean,@cardib,</p>

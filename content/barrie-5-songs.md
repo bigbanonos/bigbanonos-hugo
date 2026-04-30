@@ -15,14 +15,4 @@ tags:
 <img alt="Barrie Performing" height="auto" src="https://images.squarespace-cdn.com/content/v1/54c960f7e4b0e23a9bd7fc53/1675656939547-GLATJIZEUYWN0IIPZ1E1/Barrie+-+Approved+Artist+-+006.jpg" width="100%" /> <!--Tags Section-->
 <h3>Discover more Brooklyn indie and chill dream pop with <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Subscribe to the <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos YouTube Channel</a> for exclusive tracks and curated playlists, including the <a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist</a>.</h3>
 
-
-<!--Subscribe and Playlist Links-->
-<div>
-    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
-    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
-
 <hr />
-
-<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
-
-<p>tags: @barrie,</p>

@@ -16,14 +16,4 @@ tags:
 </ol> <img alt="Kacy Hill" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfNSDWD0qdVo9ApZaM4DQ1QtYJelaGHqfQCtTPSCYm6JmVDuZc" width="100%" /> <p>BigBanonos' favorite Kacy Hill tracks, including her feature in Jim-E Stack's 2020 hit "<a href="https://bigbanonos.blogspot.com/2020/07/jim-e-stack.html">Can We</a>," offer a fresh pop perspective. Enjoy her standout singles on BigBanonos.</p>
 <p><br /></p>
 
-
-<!--Subscribe and Playlist Links-->
-<div>
-    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
-    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
-
 <hr />
-
-<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
-
-<p>tags: @kacyhill,@nourishedbytime,</p>

@@ -17,16 +17,7 @@ tags:
 <div > <p>BigBanonos' standout picks:</p> <ol> <li><strong>Lips At Night</strong> | <em>7s</em> | Released: February 17, 2023 | Domino Recording Co</li> <li><strong>The Musical</strong> | <em>The Musical / Hey Bog</em> | Released: January 13, 2023 | Domino Recording Co</li> <li><strong>Disc One</strong> | <em>Conference of Birds</em> | Released: April 7, 2023 | Domino Recording Co</li> </ol>
 </div> <!-- Footer Links -->
 <div > <p>Dive into experimental sounds at <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Stay updated on <a href="https://www.youtube.com/@BigBanonos" target="_blank">YouTube</a> and <a href="https://x.com/bigbanonos" target="_blank">X/Twitter</a>.</p>
-</div> <!-- Tags -->
+</div> 
 <p >Tags: @aveytare</p> 
 
-<!--Subscribe and Playlist Links-->
-<div>
-    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
-    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
-
 <hr />
-
-<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
-
-<p>tags: @aveytare,</p>

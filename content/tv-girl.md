@@ -21,17 +21,7 @@ tags:
 </div> <p><em>TV Girl - I Wonder Who She's Kissing Now (2012)</em></p>
 <div class="youtube-embed"> {{< youtube "9raRlf3cO-8" >}}
 </div> <hr /> <p>Check out more favorites on <a href="https://bigbanonos.blogspot.com/">BigBanonos</a>.</p>
-<p>Follow us on <a href="https://www.youtube.com/@BigBanonos">YouTube</a> and <a href="https://x.com/bigbanonos">X/Twitter</a>.</p> <!-- Tags -->
+<p>Follow us on <a href="https://www.youtube.com/@BigBanonos">YouTube</a> and <a href="https://x.com/bigbanonos">X/Twitter</a>.</p> 
 <p>@tvgirl</p>
 
-
-<!--Subscribe and Playlist Links-->
-<div>
-    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
-    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
-
 <hr />
-
-<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
-
-<p>tags: @tvgirl,</p>

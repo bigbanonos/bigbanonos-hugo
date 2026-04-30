@@ -21,14 +21,4 @@ tags:
 </ul> <p><img alt="Eminem Image" src="https://www.pinkvilla.com/pics/500x500/233848676_a1-6_202407.jpg" /></p>
 <p>Ãƒâ€šÃ‚Â </p>
 
-
-<!--Subscribe and Playlist Links-->
-<div>
-    <p>For more exclusive tracks not on Spotify, subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> and explore their curated playlist of the best songs <strong>#NotOnSpotify</strong>.</p>
-    <p><a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">Best Songs #NotOnSpotify Playlist<br /></a></p></div>
-
 <hr />
-
-<p><em>first posted by</em> <a href="https://bigbanonos.blogspot.com/" rel="noopener" target="_new">https://bigbanonos.blogspot.com/</a></p>
-
-<p>tags: @snoopdogg,@2chainz,@slypyper,@demjointz,@lilwayne,@eminem,@kendricklamar,@whitegold,</p>
