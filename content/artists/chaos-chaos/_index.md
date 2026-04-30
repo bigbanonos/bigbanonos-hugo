@@ -1,0 +1,21 @@
+---
+title: "Chaos Chaos"
+slug: "chaos-chaos"
+date: 2024-12-03
+letter: "C"
+era:
+  - "uncategorized"
+genre: []
+status: "placeholder"
+notonspotify: false
+legacy_files:
+  - "content/chaos-chaos.md"
+  - "content/posts/chaos-chaos.md"
+---
+
+# Chaos Chaos
+
+<!-- placeholder: backfill from Spotify CSV + #NotOnSpotify YouTube. -->
+
+<!-- legacy posts from blogspot/GPT/early-Claude eras are listed in front matter -->
+<!-- under legacy_files. Mine those for prose worth keeping. -->

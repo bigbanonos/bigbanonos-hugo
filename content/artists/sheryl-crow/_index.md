@@ -1,0 +1,20 @@
+---
+title: "Sheryl Crow"
+slug: "sheryl-crow"
+date: 2003-01-01
+letter: "S"
+era:
+  - "uncategorized"
+genre: []
+status: "placeholder"
+notonspotify: false
+legacy_files:
+  - "content/posts/sheryl-crow.md"
+---
+
+# Sheryl Crow
+
+<!-- placeholder: backfill from Spotify CSV + #NotOnSpotify YouTube. -->
+
+<!-- legacy posts from blogspot/GPT/early-Claude eras are listed in front matter -->
+<!-- under legacy_files. Mine those for prose worth keeping. -->
