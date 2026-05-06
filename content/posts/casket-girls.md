@@ -1,0 +1,12 @@
+---
+title: "The Casket Girls"
+slug: "casket-girls"
+date: 2024-10-11
+layout: post
+letter: "C"
+era: "2000s-2010s"
+tags:
+  - '@casket-girls'
+---
+
+<iframe src="https://open.spotify.com/embed/track/2AeCzIcf9Kh1MCdyfZ1UwA" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
