@@ -1,0 +1,103 @@
+NUCLEAR RUN — DRY RUN
+Letters: ABCDEFGIJKLMNOPQRSTUVWXYZ
+
+=== A ===
+  CSV artists: 179, Disk files: 151
+  Created: 75 | Moved: 91 | Merged: 0 | Deleted: 5 | Errors: 0
+
+=== B ===
+  CSV artists: 298, Disk files: 209
+  Created: 146 | Moved: 121 | Merged: 0 | Deleted: 13 | Errors: 0
+
+=== C ===
+  CSV artists: 236, Disk files: 144
+  Created: 126 | Moved: 82 | Merged: 0 | Deleted: 11 | Errors: 0
+
+=== D ===
+  CSV artists: 207, Disk files: 180
+  Created: 88 | Moved: 123 | Merged: 0 | Deleted: 14 | Errors: 0
+
+=== E ===
+  CSV artists: 93, Disk files: 72
+  Created: 48 | Moved: 55 | Merged: 0 | Deleted: 6 | Errors: 0
+
+=== F ===
+  CSV artists: 119, Disk files: 94
+  Created: 57 | Moved: 65 | Merged: 0 | Deleted: 6 | Errors: 0
+
+=== G ===
+  CSV artists: 118, Disk files: 81
+  Created: 61 | Moved: 43 | Merged: 0 | Deleted: 5 | Errors: 0
+
+=== I ===
+  CSV artists: 37, Disk files: 27
+  Created: 21 | Moved: 17 | Merged: 0 | Deleted: 0 | Errors: 0
+
+=== J ===
+  CSV artists: 224, Disk files: 157
+  Created: 111 | Moved: 85 | Merged: 0 | Deleted: 17 | Errors: 0
+
+=== K ===
+  CSV artists: 122, Disk files: 86
+  Created: 57 | Moved: 48 | Merged: 0 | Deleted: 10 | Errors: 0
+
+=== L ===
+  CSV artists: 180, Disk files: 115
+  Created: 90 | Moved: 58 | Merged: 0 | Deleted: 7 | Errors: 0
+
+=== M ===
+  CSV artists: 239, Disk files: 169
+  Created: 125 | Moved: 63 | Merged: 1 | Deleted: 17 | Errors: 0
+
+=== N ===
+  CSV artists: 105, Disk files: 62
+  Created: 58 | Moved: 36 | Merged: 0 | Deleted: 3 | Errors: 0
+
+=== O ===
+  CSV artists: 52, Disk files: 35
+  Created: 26 | Moved: 18 | Merged: 0 | Deleted: 1 | Errors: 0
+
+=== P ===
+  CSV artists: 143, Disk files: 100
+  Created: 83 | Moved: 65 | Merged: 0 | Deleted: 8 | Errors: 0
+
+=== Q ===
+  CSV artists: 18, Disk files: 12
+  Created: 9 | Moved: 4 | Merged: 0 | Deleted: 1 | Errors: 0
+
+=== R ===
+  CSV artists: 135, Disk files: 84
+  Created: 71 | Moved: 35 | Merged: 0 | Deleted: 1 | Errors: 0
+
+=== S ===
+  CSV artists: 300, Disk files: 218
+  Created: 165 | Moved: 79 | Merged: 0 | Deleted: 7 | Errors: 0
+
+=== T ===
+  CSV artists: 176, Disk files: 295
+  Created: 90 | Moved: 130 | Merged: 4 | Deleted: 31 | Errors: 0
+
+=== U ===
+  CSV artists: 18, Disk files: 16
+  Created: 6 | Moved: 8 | Merged: 0 | Deleted: 0 | Errors: 0
+
+=== V ===
+  CSV artists: 30, Disk files: 26
+  Created: 11 | Moved: 10 | Merged: 0 | Deleted: 0 | Errors: 0
+
+=== W ===
+  CSV artists: 89, Disk files: 68
+  Created: 34 | Moved: 49 | Merged: 0 | Deleted: 3 | Errors: 0
+
+=== X ===
+  CSV artists: 7, Disk files: 6
+  Created: 4 | Moved: 2 | Merged: 0 | Deleted: 2 | Errors: 0
+
+=== Y ===
+  CSV artists: 46, Disk files: 29
+  Created: 26 | Moved: 14 | Merged: 0 | Deleted: 2 | Errors: 0
+
+=== Z ===
+  CSV artists: 17, Disk files: 13
+  Created: 9 | Moved: 5 | Merged: 0 | Deleted: 0 | Errors: 0
+
