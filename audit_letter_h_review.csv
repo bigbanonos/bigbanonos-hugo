@@ -1,0 +1,111 @@
+expected_slug,display_name,source_csvs,track_count,is_multi_track,is_1off_only,is_cover_artist,existing_files,file_count,recommended_action,notes
+h-e-r,H.E.R.,All_artists_Hh.csv,3,True,False,False,content\h-e-r.md,1,MOVE_AND_RENAME,Move content\h-e-r.md -> content/posts/h-e-r.md
+h-town,H-Town,Songs-Hh-1900s.csv,1,False,True,False,,0,CREATE,No file. Create content/posts/h-town.md from CSV.
+haiku-hands,Haiku Hands,Songs-HH-2020s.csv,1,False,True,False,,0,CREATE,No file. Create content/posts/haiku-hands.md from CSV.
+hailey-whitters,Hailey Whitters,Songs-HH-2020s.csv,1,False,True,False,,0,CREATE,No file. Create content/posts/hailey-whitters.md from CSV.
+hailu-mergia,Hailu Mergia,Songs-Hh-1900s.csv,1,False,True,False,,0,CREATE,No file. Create content/posts/hailu-mergia.md from CSV.
+haim,HAIM,All_artists_Hh.csv,10,True,False,False,content\haim-7-songs.md,1,MOVE_AND_RENAME,Move content\haim-7-songs.md -> content/posts/haim.md
+half-pint,Half Pint,All_artists_Hh.csv; Songs-Hh-DH.csv,4,True,False,False,content\posts\half-pint.md,1,KEEP,Already at canonical location.
+halo-benders,The Halo Benders,All_artists_Hh.csv,3,True,False,False,content\halo-benders.md,1,MOVE_AND_RENAME,Move content\halo-benders.md -> content/posts/halo-benders.md
+halsey,Halsey,Songs-HH-2020s.csv,1,False,True,False,,0,CREATE,No file. Create content/posts/halsey.md from CSV.
+hamilton-leithauser,Hamilton Leithauser,All_artists_Hh.csv,3,True,False,False,content\posts\hamilton-leithauser.md,1,KEEP,Already at canonical location.
+hamilton-leithauser-rostam,Hamilton Leithauser + Rostam,All_artists_Hh.csv,3,True,False,False,,0,CREATE,No file. Create content/posts/hamilton-leithauser-rostam.md from CSV.
+hana,HANA,Songs-Hh-2000s-10s.csv,1,False,True,False,,0,CREATE,No file. Create content/posts/hana.md from CSV.
+hana-vu,Hana Vu,Songs-Hh-2000s-10s.csv,1,False,True,False,,0,CREATE,No file. Create content/posts/hana-vu.md from CSV.
+handsome-furs,Handsome Furs,All_artists_Hh.csv,2,True,False,False,content\handsome-furs-3-songs.md,1,MOVE_AND_RENAME,Move content\handsome-furs-3-songs.md -> content/posts/handsome-furs.md
+hank-ballard-the-midnighters,Hank Ballard & The Midnighters,All_artists_Hh.csv,2,True,False,False,content\posts\hank-ballard-the-midnighters.md,1,KEEP,Already at canonical location.
+hank-williams,Hank Williams,Songs-Hh-1900s.csv,1,False,True,False,,0,CREATE,No file. Create content/posts/hank-williams.md from CSV.
+hannah-cohen,Hannah Cohen,All_artists_Hh.csv,4,True,False,False,content\hannah-cohen.md,1,MOVE_AND_RENAME,Move content\hannah-cohen.md -> content/posts/hannah-cohen.md
+hardcover-beats,Hardcover Beats,All_artists_Hh.csv,3,True,False,False,content\posts\hardcover-beats.md,1,KEEP,Already at canonical location.
+harry-nilsson,Harry Nilsson,All_artists_Hh.csv; Covers-Hh.csv,10,True,False,True,content\posts\harry-nilsson.md,1,KEEP,Already at canonical location.
+harry-styles,Harry Styles,Songs-HH-2020s.csv,1,False,True,False,,0,CREATE,No file. Create content/posts/harry-styles.md from CSV.
+haru-nemuri,HARU NEMURI,All_artists_Hh.csv,2,True,False,False,content\posts\haru-nemuri.md,1,KEEP,Already at canonical location.
+haruomi-hosono,Haruomi Hosono,Songs-Hh-2000s-10s.csv,1,False,True,False,content\haruomi-hosono.md,1,MOVE_AND_RENAME,Move content\haruomi-hosono.md -> content/posts/haruomi-hosono.md
+hatchie,Hatchie,All_artists_Hh.csv; Songs-Hh-2000s-10s.csv,3,True,False,False,content\hatchie-2-songs.md,1,MOVE_AND_RENAME,Move content\hatchie-2-songs.md -> content/posts/hatchie.md
+hayden,Hayden,Songs-Hh-2000s-10s.csv,1,False,True,False,content\hayden.md,1,MOVE_AND_RENAME,Move content\hayden.md -> content/posts/hayden.md
+hayden-thorpe,Hayden Thorpe,Songs-Hh-2000s-10s.csv,1,False,True,False,,0,CREATE,No file. Create content/posts/hayden-thorpe.md from CSV.
+heart,Heart,All_artists_Hh.csv,2,True,False,False,content\heart.md,1,MOVE_AND_RENAME,Move content\heart.md -> content/posts/heart.md
+heatmiser,Heatmiser,All_artists_Hh.csv,11,True,False,False,content\posts\heatmiser.md,1,KEEP,Already at canonical location.
+heavenly,Heavenly,All_artists_Hh.csv,2,True,False,False,content\heavenly-2-songs.md,1,MOVE_AND_RENAME,Move content\heavenly-2-songs.md -> content/posts/heavenly.md
+heavenly-beat,Heavenly Beat,Songs-Hh-2000s-10s.csv,1,False,True,False,,0,CREATE,No file. Create content/posts/heavenly-beat.md from CSV.
+heavy-d-the-boyz,Heavy D & The Boyz,Songs-Hh-1900s.csv,1,False,True,False,,0,CREATE,No file. Create content/posts/heavy-d-the-boyz.md from CSV.
+heavy-trash,Heavy Trash,All_artists_Hh.csv,1,True,False,False,content\posts\heavy-trash.md,1,KEEP,Already at canonical location.
+hector-lavoe,Héctor Lavoe,Songs-Hh-1900s.csv,1,False,True,False,,0,CREATE,No file. Create content/posts/hector-lavoe.md from CSV.
+hefner,Hefner,All_artists_Hh.csv,3,True,False,False,content\hefner.md,1,MOVE_AND_RENAME,Move content\hefner.md -> content/posts/hefner.md
+heidecker-wood,Heidecker & Wood,All_artists_Hh.csv,5,True,False,False,content\posts\heidecker-wood.md,1,KEEP,Already at canonical location.
+helado-negro,Helado Negro,All_artists_Hh.csv; Covers-Hh.csv,4,True,False,True,content\posts\helado-negro.md; content\heraldo-negro.md,2,MERGE_THEN_DELETE,"Canonical exists. Merge richer content from content\heraldo-negro.md into content/posts/helado-negro.md, delete legacy."
+helen,Helen,Songs-Hh-2000s-10s.csv,1,False,True,False,,0,CREATE,No file. Create content/posts/helen.md from CSV.
+helena-deland,Helena Deland,All_artists_Hh.csv,4,True,False,False,content\helena-deland-4-songs.md,1,MOVE_AND_RENAME,Move content\helena-deland-4-songs.md -> content/posts/helena-deland.md
+helene-smith,Helene Smith,Songs-Hh-1900s.csv,1,False,True,False,,0,CREATE,No file. Create content/posts/helene-smith.md from CSV.
+helio-sequence,The Helio Sequence,Songs-Hh-2000s-10s.csv,1,False,True,False,,0,CREATE,No file. Create content/posts/helio-sequence.md from CSV.
+helium,Helium,Songs-Hh-1900s.csv,1,False,True,False,content\helium.md,1,MOVE_AND_RENAME,Move content\helium.md -> content/posts/helium.md
+hellacopters,The Hellacopters,Songs-Hh-2000s-10s.csv,1,False,True,False,,0,CREATE,No file. Create content/posts/hellacopters.md from CSV.
+hello-shark,Hello Shark,Songs-Hh-2000s-10s.csv,1,False,True,False,,0,CREATE,No file. Create content/posts/hello-shark.md from CSV.
+hemlocke-springs,hemlocke springs,All_artists_Hh.csv,2,True,False,False,content\posts\hemlocke-springs.md,1,KEEP,Already at canonical location.
+henry-earnest,Henry Earnest,Songs-HH-2020s.csv,1,False,True,False,,0,CREATE,No file. Create content/posts/henry-earnest.md from CSV.
+herbert,Herbert,All_artists_Hh.csv,2,True,False,False,content\herbert-2-songs.md,1,MOVE_AND_RENAME,Move content\herbert-2-songs.md -> content/posts/herbert.md
+hercules-love-affair,Hercules & Love Affair,Songs-Hh-2000s-10s.csv,1,False,True,False,,0,CREATE,No file. Create content/posts/hercules-love-affair.md from CSV.
+herman-dune,Herman Düne,All_artists_Hh.csv,1,True,False,False,content\posts\herman-d-ne.md; content\herman-dune.md,2,MERGE_REVIEW,2 files for one artist: content\posts\herman-d-ne.md; content\herman-dune.md
+herve-pagez,Herve Pagez,Songs-Hh-2000s-10s.csv,2,False,True,False,,0,CREATE,No file. Create content/posts/herve-pagez.md from CSV.
+hether,Hether,All_artists_Hh.csv,6,True,False,False,content\posts\hether.md,1,KEEP,Already at canonical location.
+hey-nothing,"hey, nothing",Songs-HH-2020s.csv,1,False,True,False,,0,CREATE,No file. Create content/posts/hey-nothing.md from CSV.
+hidden-cameras,The Hidden Cameras,All_artists_Hh.csv,2,True,False,False,content\hidden-camera.md; content\hidden-cameras.md,2,MERGE_REVIEW,2 files for one artist: content\hidden-camera.md; content\hidden-cameras.md
+high-places,High Places,Songs-Hh-2000s-10s.csv,1,False,True,False,,0,CREATE,No file. Create content/posts/high-places.md from CSV.
+hikaru-utada,Hikaru Utada,Songs-HH-2020s.csv,1,False,True,False,,0,CREATE,No file. Create content/posts/hikaru-utada.md from CSV.
+hilary-duff,Hilary Duff,All_artists_Hh.csv,4,True,False,False,content\posts\hilary-duff.md,1,KEEP,Already at canonical location.
+hinds,Hinds,Songs-HH-2020s.csv,1,False,True,False,,0,CREATE,No file. Create content/posts/hinds.md from CSV.
+hitkidd,Hitkidd,All_artists_Hh.csv,4,True,False,False,content\hitkidd.md,1,MOVE_AND_RENAME,Move content\hitkidd.md -> content/posts/hitkidd.md
+hives,The Hives,All_artists_Hh.csv,3,True,False,False,content\hives.md,1,MOVE_AND_RENAME,Move content\hives.md -> content/posts/hives.md
+hoagy-carmichael,Hoagy Carmichael,All_artists_Hh.csv,2,True,False,False,content\posts\hoagy-carmichael.md,1,KEEP,Already at canonical location.
+hold-steady,The Hold Steady,All_artists_Hh.csv,25,True,False,False,content\hold-steady.md,1,MOVE_AND_RENAME,Move content\hold-steady.md -> content/posts/hold-steady.md
+hole,Hole,All_artists_Hh.csv,6,True,False,False,content\posts\hole.md,1,KEEP,Already at canonical location.
+holiday-sidewinder,Holiday Sidewinder,Songs-Hh-2000s-10s.csv,1,False,True,False,content\holiday-sidewinder.md,1,MOVE_AND_RENAME,Move content\holiday-sidewinder.md -> content/posts/holiday-sidewinder.md
+hollies,The Hollies,All_artists_Hh.csv,2,True,False,False,content\hollies.md,1,MOVE_AND_RENAME,Move content\hollies.md -> content/posts/hollies.md
+holychild,HOLYCHILD,Songs-Hh-2000s-10s.csv,1,False,True,False,content\holychild.md,1,MOVE_AND_RENAME,Move content\holychild.md -> content/posts/holychild.md
+homer,Homer,All_artists_Hh.csv,3,True,False,False,content\homer.md,1,MOVE_AND_RENAME,Move content\homer.md -> content/posts/homer.md
+honey-cone,Honey Cone,Songs-Hh-2000s-10s.csv,1,False,True,False,,0,CREATE,No file. Create content/posts/honey-cone.md from CSV.
+honey-harper,Honey Harper,Songs-Hh-2000s-10s.csv,1,False,True,False,,0,CREATE,No file. Create content/posts/honey-harper.md from CSV.
+honorebel,Honorebel,Songs-HH-2020s.csv,1,False,True,False,,0,CREATE,No file. Create content/posts/honorebel.md from CSV.
+hoodoo-gurus,Hoodoo Gurus,Songs-Hh-1900s.csv,1,False,True,False,,0,CREATE,No file. Create content/posts/hoodoo-gurus.md from CSV.
+hook-n-sling,Hook N Sling,Songs-HH-2020s.csv,1,False,True,False,,0,CREATE,No file. Create content/posts/hook-n-sling.md from CSV.
+horsegiirl,horsegiirL,Songs-HH-2020s.csv,1,False,True,False,content\horsegiirl.md,1,MOVE_AND_RENAME,Move content\horsegiirl.md -> content/posts/horsegiirl.md
+horsegirl,Horsegirl,All_artists_Hh.csv,2,True,False,False,content\posts\horsegirl.md,1,KEEP,Already at canonical location.
+horsey,Horsey,Songs-HH-2020s.csv,1,False,True,False,,0,CREATE,No file. Create content/posts/horsey.md from CSV.
+hospitality,Hospitality,All_artists_Hh.csv,2,True,False,False,content\posts\hospitality.md,1,KEEP,Already at canonical location.
+hot-8-brass-band,Hot 8 Brass Band,Covers-Hh.csv,1,False,False,True,,0,CREATE,No file. Create content/posts/hot-8-brass-band.md from CSV.
+hot-boys,Hot Boys,All_artists_Hh.csv,2,True,False,False,content\posts\hot-boys.md,1,KEEP,Already at canonical location.
+hot-chip,Hot Chip,All_artists_Hh.csv,3,True,False,False,content\hot-chip-4-songs.md,1,MOVE_AND_RENAME,Move content\hot-chip-4-songs.md -> content/posts/hot-chip.md
+hotblock-jmoe,HotBlock Jmoe,Songs-HH-2020s.csv,1,False,True,False,,0,CREATE,No file. Create content/posts/hotblock-jmoe.md from CSV.
+houndmouth,Houndmouth,Songs-Hh-2000s-10s.csv,1,False,True,False,,0,CREATE,No file. Create content/posts/houndmouth.md from CSV.
+hovvdy,Hovvdy,All_artists_Hh.csv,9,True,False,False,content\posts\hovvdy.md,1,KEEP,Already at canonical location.
+how-s-your-news,How's Your News,All_artists_Hh.csv,2,True,False,False,content\posts\how-s-your-news.md; content\hows-your-news.md,2,MERGE_THEN_DELETE,"Canonical exists. Merge richer content from content\hows-your-news.md into content/posts/how-s-your-news.md, delete legacy."
+howe-gelb,Howe Gelb,Songs-Hh-2000s-10s.csv,2,False,True,False,,0,CREATE,No file. Create content/posts/howe-gelb.md from CSV.
+howlin-wolf,Howlin' Wolf,Songs-Hh-1900s.csv,1,False,True,False,,0,CREATE,No file. Create content/posts/howlin-wolf.md from CSV.
+hozier,Hozier,Songs-Hh-2000s-10s.csv,1,False,True,False,,0,CREATE,No file. Create content/posts/hozier.md from CSV.
+htrk,HTRK,Songs-HH-2020s.csv,1,False,True,False,,0,CREATE,No file. Create content/posts/htrk.md from CSV.
+hudson-thames,Hudson Thames,Songs-Hh-2000s-10s.csv,1,False,True,False,,0,CREATE,No file. Create content/posts/hudson-thames.md from CSV.
+huey-lewis-the-news,Huey Lewis & The News,Songs-Hh-1900s.csv,1,False,True,False,,0,CREATE,No file. Create content/posts/huey-lewis-the-news.md from CSV.
+huey-piano-smith,"Huey ""Piano"" Smith",Songs-Hh-2000s-10s.csv,1,False,True,False,,0,CREATE,No file. Create content/posts/huey-piano-smith.md from CSV.
+hum,Hum,Songs-Hh-1900s.csv,1,False,True,False,,0,CREATE,No file. Create content/posts/hum.md from CSV.
+human-league,The Human League,Songs-Hh-1900s.csv,1,False,True,False,,0,CREATE,No file. Create content/posts/human-league.md from CSV.
+humblebums,The Humblebums,Songs-Hh-2000s-10s.csv,1,False,True,False,,0,CREATE,No file. Create content/posts/humblebums.md from CSV.
+hunx-and-his-punx,Hunx and His Punx,All_artists_Hh.csv,2,True,False,False,content\posts\hunx-and-his-punx.md,1,KEEP,Already at canonical location.
+hurray-for-the-riff-raff,Hurray For The Riff Raff,All_artists_Hh.csv; Covers-Hh.csv,6,True,False,True,content\posts\hurray-for-the-riff-raff.md,1,KEEP,Already at canonical location.
+hvob,HVOB,All_artists_Hh.csv,2,True,False,False,content\posts\hvob.md,1,KEEP,Already at canonical location.
+hyd,Hyd,All_artists_Hh.csv,5,True,False,False,content\posts\hyd.md,1,KEEP,Already at canonical location.
+
+"=== ORPHAN FILES (on disk, no CSV match) ==="
+expected_slug,display_name,source_csvs,track_count,is_multi_track,is_1off_only,is_cover_artist,existing_files,file_count,recommended_action,notes
+(orphan),,,,,,,content\posts\h-e-r-dj-khaled-bryson-tiller.md,1,REVIEW,"Disk file but no CSV match. Either pull a CSV for this artist, rename to canonical, or delete (likely featured-artist concat slug)."
+(orphan),,,,,,,content\posts\heavenly-calvin-johnson.md,1,REVIEW,"Disk file but no CSV match. Either pull a CSV for this artist, rename to canonical, or delete (likely featured-artist concat slug)."
+(orphan),,,,,,,content\posts\hitkidd-gloss-up-aleza-slimeroni-k-carbon.md,1,REVIEW,"Disk file but no CSV match. Either pull a CSV for this artist, rename to canonical, or delete (likely featured-artist concat slug)."
+(orphan),,,,,,,content\posts\homer-hether-flikka.md,1,REVIEW,"Disk file but no CSV match. Either pull a CSV for this artist, rename to canonical, or delete (likely featured-artist concat slug)."
+(orphan),,,,,,,content\haircut-100.md,1,REVIEW,"Disk file but no CSV match. Either pull a CSV for this artist, rename to canonical, or delete (likely featured-artist concat slug)."
+(orphan),,,,,,,content\half-seas-over.md,1,REVIEW,"Disk file but no CSV match. Either pull a CSV for this artist, rename to canonical, or delete (likely featured-artist concat slug)."
+(orphan),,,,,,,content\hamilton-leithauser-i-retired.md,1,REVIEW,"Disk file but no CSV match. Either pull a CSV for this artist, rename to canonical, or delete (likely featured-artist concat slug)."
+(orphan),,,,,,,content\heartless-bastards.md,1,REVIEW,"Disk file but no CSV match. Either pull a CSV for this artist, rename to canonical, or delete (likely featured-artist concat slug)."
+(orphan),,,,,,,content\herman-dune-with-tankful-of-gas.md,1,REVIEW,"Disk file but no CSV match. Either pull a CSV for this artist, rename to canonical, or delete (likely featured-artist concat slug)."
+(orphan),,,,,,,content\howling-hex.md,1,REVIEW,"Disk file but no CSV match. Either pull a CSV for this artist, rename to canonical, or delete (likely featured-artist concat slug)."
+(orphan),,,,,,,content\hunx-his-punx-5-songs.md,1,REVIEW,"Disk file but no CSV match. Either pull a CSV for this artist, rename to canonical, or delete (likely featured-artist concat slug)."
+(orphan),,,,,,,content\hunx.md,1,REVIEW,"Disk file but no CSV match. Either pull a CSV for this artist, rename to canonical, or delete (likely featured-artist concat slug)."
+(orphan),,,,,,,content\hurray-for-riff-raff-3-songs.md,1,REVIEW,"Disk file but no CSV match. Either pull a CSV for this artist, rename to canonical, or delete (likely featured-artist concat slug)."

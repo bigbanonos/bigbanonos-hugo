@@ -1,15 +1,11 @@
 ---
-title: "How S Your News"
-slug: "how-s-your-news"
-date: 2008-08-12
+title: "Hows Your News"
+slug: "hows-your-news"
+date: 2025-02-12
 layout: post
-era:
-  - "2000s-2010s"
 tags:
-  - '@how-s-your-news'
-  - '00s-10s'
+  - '@howsyournews'
 ---
 
-<iframe src="https://open.spotify.com/embed/track/7iRpUxcG1ChhZY5n1WL5rI" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
-
-<iframe src="https://open.spotify.com/embed/track/6ooFndtlVCAp1NUqh3Fu3e" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+<div> <h2>Hows Your News</h2>  <p><strong>BigBanonos favorite tracks by Hows Your News:</strong></p> <p><strong>"Hows Your News"</strong> – *Hows Your News (Music Written for and Inspired by the Movie)* (2008) | Nettwerk Music Group</p> <p><strong>"N.E.W.Y.O.R.K."</strong> – *Hows Your News (Music Written for and Inspired by the Movie)* (2008) | Nettwerk Music Group</p>
+</div>  <hr />
