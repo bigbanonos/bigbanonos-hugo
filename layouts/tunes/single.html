@@ -1,0 +1,39 @@
+{{ define "main" }}
+<style>
+:root{--ink:#0a0a0a;--paper:#fff8ec;--hot:#ff2d55;--acid:#c6ff3d;--cobalt:#1e4dff;}
+html,body{background:var(--paper);color:var(--ink);}
+.main{max-width:none!important;padding:0!important;}
+.tune-wrap{padding:28px clamp(16px,4vw,56px) 96px;font-family:"Space Grotesk",system-ui,sans-serif;max-width:920px;margin:0 auto;}
+.tune-back{font-family:"JetBrains Mono",monospace;font-size:12px;text-transform:uppercase;letter-spacing:.15em;text-decoration:none;color:var(--ink);background:var(--acid);padding:4px 10px;display:inline-block;margin-bottom:24px;}
+.tune-back:hover{background:var(--ink);color:var(--acid);}
+.tune-title{font-family:"Archivo Black",sans-serif;font-size:clamp(48px,9vw,120px);line-height:.85;letter-spacing:-.03em;text-transform:uppercase;margin:0 0 12px;word-break:break-word;}
+.tune-meta{font-family:"JetBrains Mono",monospace;font-size:13px;text-transform:uppercase;letter-spacing:.15em;opacity:.7;margin:0 0 32px;border-bottom:3px solid var(--ink);padding-bottom:18px;}
+.tune-meta .year{font-size:18px;font-weight:600;color:var(--hot);}
+.tune-content{display:flex;flex-direction:column;gap:18px;}
+.tune-content h3{font-family:"Archivo Black",sans-serif;font-size:24px;text-transform:uppercase;margin:18px 0 4px;letter-spacing:-.01em;word-break:break-word;}
+.tune-content .tune-date{font-family:"JetBrains Mono",monospace;font-size:11px;opacity:.5;display:block;margin-bottom:6px;}
+.tune-content iframe{display:block;}
+.tune-content hr{border:none;border-top:3px solid var(--ink);margin:32px 0 16px;}
+.tune-content a{font-family:"JetBrains Mono",monospace;font-size:13px;color:var(--ink);background:var(--acid);padding:6px 12px;text-decoration:none;display:inline-block;text-transform:uppercase;letter-spacing:.1em;}
+.tune-content a:hover{background:var(--ink);color:var(--acid);}
+</style>
+
+<div class="tune-wrap">
+  <a class="tune-back" href="/tunes/">← all tunes</a>
+
+  {{ $title := .Title }}
+  {{ $year := .Params.year }}
+  {{ $artist_only := replace $title (printf " — %s" $year) "" }}
+  <h1 class="tune-title">{{ $artist_only }}</h1>
+
+  <div class="tune-meta">
+    <span class="year">{{ $year }}</span>
+    &nbsp;·&nbsp; {{ .Params.track_count }} tracks
+    {{ with .Params.genre }}&nbsp;·&nbsp; {{ delimit . " · " }}{{ end }}
+  </div>
+
+  <div class="tune-content">
+    {{ .Content }}
+  </div>
+</div>
+{{ end }}

@@ -1,0 +1,57 @@
+{{ define "main" }}
+<style>
+:root{--ink:#0a0a0a;--paper:#fff8ec;--hot:#ff2d55;--acid:#c6ff3d;--cobalt:#1e4dff;--tang:#ff7a1a;--plum:#7b1fa2;}
+html,body{background:var(--paper);color:var(--ink);}
+.main{max-width:none!important;padding:0!important;}
+.tunes-wrap{padding:28px clamp(16px,4vw,56px) 96px;font-family:"Space Grotesk","Helvetica Neue",system-ui,sans-serif;}
+.tunes-mark{font-family:"Archivo Black",sans-serif;font-weight:900;font-size:clamp(48px,11vw,168px);line-height:.82;letter-spacing:-.04em;text-transform:uppercase;margin:0 0 6px;color:var(--ink);}
+.tunes-mark .acid{background:var(--acid);padding:0 .08em;}
+.tunes-tag{font-family:"Archivo Black",sans-serif;font-size:clamp(14px,2vw,22px);margin:0 0 18px;display:inline-block;background:var(--ink);color:var(--acid);padding:4px 10px;transform:rotate(-1.5deg);}
+.tunes-manifesto{display:grid;gap:14px;border-top:3px solid var(--ink);border-bottom:3px solid var(--ink);padding:18px 0;margin:8px 0 30px;}
+.tunes-manifesto p{font-size:clamp(14px,1.4vw,17px);line-height:1.45;margin:0;max-width:780px;}
+.tunes-manifesto p b{background:var(--acid);padding:0 4px;}
+.tunes-manifesto p i{font-style:italic;color:var(--hot);font-weight:600;}
+.year-header{font-family:"Archivo Black",sans-serif;font-size:clamp(64px,10vw,140px);line-height:.85;margin:48px 0 16px;text-transform:uppercase;letter-spacing:-.03em;border-bottom:3px solid var(--ink);padding-bottom:6px;}
+.year-header.y2026{color:var(--hot);}
+.year-header.y2025{color:var(--cobalt);}
+.year-header.y2024{color:var(--plum);}
+.tune-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:14px;}
+.tune-card{display:block;padding:16px;border:3px solid var(--ink);background:var(--paper);text-decoration:none;color:var(--ink);transition:transform .08s ease;}
+.tune-card:hover{transform:translate(-3px,-3px);box-shadow:6px 6px 0 var(--ink);}
+.tune-card h3{font-family:"Archivo Black",sans-serif;font-size:22px;line-height:1;margin:0 0 8px;text-transform:uppercase;word-break:break-word;}
+.tune-card .meta{font-family:"JetBrains Mono",monospace;font-size:11px;text-transform:uppercase;letter-spacing:.12em;opacity:.65;display:flex;gap:8px;flex-wrap:wrap;}
+.tune-card .meta b{background:var(--ink);color:var(--paper);padding:2px 6px;font-weight:400;}
+.tune-card .meta .gb{padding:2px 6px;color:#fff;background:var(--gc,#666);font-weight:600;letter-spacing:.08em;}
+.tune-card .date{font-family:"JetBrains Mono",monospace;font-size:11px;opacity:.5;margin-top:6px;}
+</style>
+
+<div class="tunes-wrap">
+  <h1 class="tunes-mark">TUNES<span class="acid">.</span></h1>
+  <div class="tunes-tag">#SongsThatEarnedAMoment</div>
+
+  <div class="tunes-manifesto">
+    <p><b>The blog.</b> Every artist who put out a good song in 2025 or 2026, by year. Multiple good songs from one artist in a year stack on one page. <i>Older years, manual archive.</i> Crystallized moments. Not a leaderboard.</p>
+  </div>
+
+  {{ $tunesSection := where .Site.RegularPages "Section" "tunes" }}
+  {{ $tunes := where $tunesSection "File.LogicalName" "index.md" }}
+  {{ range $tunes.GroupByDate "2006" }}
+  <h2 class="year-header y{{ .Key }}">{{ .Key }}</h2>
+  <div class="tune-grid">
+    {{ range .Pages.ByDate.Reverse }}
+      {{ $artist := .Params.artist_slug }}
+      {{ $year := .Params.year }}
+      <a class="tune-card" href="{{ .Permalink }}">
+        <h3>{{ replace .Title (printf " — %s" $year) "" }}</h3>
+        <div class="meta">
+          <b>TUNE</b>
+          <span>{{ .Params.track_count }} TR</span>
+          {{ with index .Params.genre 0 }}<span class="gb">{{ . }}</span>{{ end }}
+        </div>
+        <div class="date">{{ .Date.Format "Jan 2, 2006" }}</div>
+      </a>
+    {{ end }}
+  </div>
+  {{ end }}
+</div>
+{{ end }}

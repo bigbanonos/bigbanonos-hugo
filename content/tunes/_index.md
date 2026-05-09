@@ -1,4 +1,5 @@
 ---
 title: 'Tunes'
-description: 'Chronological feed. Songs that earned a moment.'
+description: 'Songs that earned a moment. Reverse chronological. Specimens.'
+layout: tunes-list
 ---

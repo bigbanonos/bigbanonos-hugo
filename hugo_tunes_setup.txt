@@ -1,0 +1,97 @@
+HUGO TUNES SETUP — STEPS TO APPLY
+===================================
+
+After running nuke_and_regen_tunes.py --write and rebuild_manifest.py --write,
+do these manual steps to wire the new section into Hugo.
+
+------------------------------------------------------------
+STEP 1: Move the layout files into your repo
+------------------------------------------------------------
+
+Copy the two layout files I provided into your project at:
+
+  layouts/tunes/list.html       (renders /tunes/ as reverse-chrono feed)
+  layouts/tunes/single.html     (renders individual tune pages)
+
+You can do this by hand in File Explorer, or:
+
+  mkdir layouts\tunes
+  move layouts\list.html layouts\tunes\list.html
+  move layouts\single.html layouts\tunes\single.html
+
+(Adjust if you downloaded them with different names.)
+
+------------------------------------------------------------
+STEP 2: Update config.toml
+------------------------------------------------------------
+
+Open config.toml and find:
+
+   mainSections = ["posts", ""]
+
+Change to:
+
+  mainSections = ["posts", "tunes", ""]
+
+That's it. Don't add a [permalinks] tunes line — Hugo's default
+will naturally produce /tunes/<year>/<slug>/ from the folder structure.
+
+------------------------------------------------------------
+STEP 3: Optional — add Tunes to the nav menu
+------------------------------------------------------------
+
+Find this section in config.toml:
+
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "Tags"
+    ...
+
+Add between Home and Tags:
+
+  [[menu.main]]
+    name = "Tunes"
+    url = "/tunes/"
+    weight = 2
+
+(And bump Tags weight to 3, Search weight to 4.)
+
+------------------------------------------------------------
+STEP 4: Push
+------------------------------------------------------------
+
+  git add -A
+  git commit -m "feat: tunes section, artist-year model, manifest rebuild"
+  git push
+
+Wait 60 seconds. Then check:
+
+  https://bigbanonos.com/tunes/                      (the feed)
+  https://bigbanonos.com/tunes/2026/aluna/           (an example tune page)
+  https://bigbanonos.com/                            (homepage filter — should now see ~3,000 records)
+
+------------------------------------------------------------
+TROUBLESHOOTING
+------------------------------------------------------------
+
+If /tunes/ still redirects to homepage:
+  - Confirm mainSections includes "tunes"
+  - Confirm content/tunes/_index.md exists
+  - Hard refresh the page (Ctrl+F5)
+
+If individual tune pages 404:
+  - Check that content/tunes/2026/<slug>/index.md exists
+  - Check the layouts/tunes/single.html file was copied to the right place
+
+If the homepage filter still shows old records only:
+  - Verify static/playlist_manifest.json has been rewritten (check file mtime)
+  - Hard refresh
+
+If genres are mostly missing from the rebuilt manifest:
+  - The bucket-mapping in rebuild_manifest.py is best-effort
+  - The script preserves existing genre_primary/secondary when names match
+  - Manual fixes: edit static/playlist_manifest.json directly for individual records
