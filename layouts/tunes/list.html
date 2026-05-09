@@ -7,14 +7,16 @@ html,body{background:var(--paper);color:var(--ink);}
 .tunes-mark{font-family:"Archivo Black",sans-serif;font-weight:900;font-size:clamp(48px,11vw,168px);line-height:.82;letter-spacing:-.04em;text-transform:uppercase;margin:0 0 6px;color:var(--ink);}
 .tunes-mark .acid{background:var(--acid);padding:0 .08em;}
 .tunes-tag{font-family:"Archivo Black",sans-serif;font-size:clamp(14px,2vw,22px);margin:0 0 18px;display:inline-block;background:var(--ink);color:var(--acid);padding:4px 10px;transform:rotate(-1.5deg);}
-.tunes-manifesto{display:grid;gap:14px;border-top:3px solid var(--ink);border-bottom:3px solid var(--ink);padding:18px 0;margin:8px 0 30px;}
-.tunes-manifesto p{font-size:clamp(14px,1.4vw,17px);line-height:1.45;margin:0;max-width:780px;}
-.tunes-manifesto p b{background:var(--acid);padding:0 4px;}
-.tunes-manifesto p i{font-style:italic;color:var(--hot);font-weight:600;}
-.year-header{font-family:"Archivo Black",sans-serif;font-size:clamp(64px,10vw,140px);line-height:.85;margin:48px 0 16px;text-transform:uppercase;letter-spacing:-.03em;border-bottom:3px solid var(--ink);padding-bottom:6px;}
+.tunes-blurb{font-family:"Space Grotesk",sans-serif;font-size:clamp(14px,1.3vw,16px);line-height:1.4;margin:0 0 26px;max-width:680px;border-top:3px solid var(--ink);border-bottom:3px solid var(--ink);padding:14px 0;}
+.tunes-blurb b{background:var(--acid);padding:0 4px;}
+.year-header{font-family:"Archivo Black",sans-serif;font-size:clamp(64px,10vw,140px);line-height:.85;margin:48px 0 16px;text-transform:uppercase;letter-spacing:-.03em;border-bottom:3px solid var(--ink);padding-bottom:6px;color:var(--plum);}
 .year-header.y2026{color:var(--hot);}
 .year-header.y2025{color:var(--cobalt);}
-.year-header.y2024{color:var(--plum);}
+.year-header.y2024{color:var(--tang);}
+.year-header.y2023{color:var(--plum);}
+.year-header.y2022{color:var(--cobalt);}
+.year-header.y2021{color:var(--hot);}
+.year-header.y2020{color:var(--tang);}
 .tune-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:14px;}
 .tune-card{display:block;padding:16px;border:3px solid var(--ink);background:var(--paper);text-decoration:none;color:var(--ink);transition:transform .08s ease;}
 .tune-card:hover{transform:translate(-3px,-3px);box-shadow:6px 6px 0 var(--ink);}
@@ -29,9 +31,7 @@ html,body{background:var(--paper);color:var(--ink);}
   <h1 class="tunes-mark">TUNES<span class="acid">.</span></h1>
   <div class="tunes-tag">#SongsThatEarnedAMoment</div>
 
-  <div class="tunes-manifesto">
-    <p><b>The blog.</b> Every artist who put out a good song in 2025 or 2026, by year. Multiple good songs from one artist in a year stack on one page. <i>Older years, manual archive.</i> Crystallized moments. Not a leaderboard.</p>
-  </div>
+  <p class="tunes-blurb"><b>Songs that earned a moment.</b> By artist, by year. Updated when something lands.</p>
 
   {{ $tunesSection := where .Site.RegularPages "Section" "tunes" }}
   {{ $tunes := where $tunesSection "File.LogicalName" "index.md" }}
