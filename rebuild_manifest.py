@@ -194,7 +194,8 @@ def count_embeds(body):
 
 
 def load_existing_manifest():
-    """Read static/playlist_manifest.json and return dict keyed by name (lowercase)."""
+    """Read static/playlist_manifest.json and return dict keyed by name (lowercase).
+    Excludes 1off_bucket and cover records — those should not be in the new manifest."""
     p = Path("static/playlist_manifest.json")
     if not p.exists():
         return {}
@@ -206,6 +207,9 @@ def load_existing_manifest():
     out = {}
     for r in data:
         if not isinstance(r, dict):
+            continue
+        # Skip vestigial bucket / cover records — they're replaced by individual tunes
+        if r.get("kind") in ("1off_bucket", "cover"):
             continue
         key = (r.get("name", "") or "").lower().strip()
         if key:

@@ -7,7 +7,7 @@ section: tunes
 year: '2026'
 letter: 'T'
 artist_slug: 'tory-lanez'
-track_count: 4
+track_count: 5
 explicit: true
 tags:
   - '@tory-lanez'
@@ -34,6 +34,11 @@ tags:
 <span class='tune-date'>2026-04-03</span>
 
 <iframe src="https://open.spotify.com/embed/track/6d3F34eXETpg0sKeD7Fyh0" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+### Fyne Shit Paradise
+<span class='tune-date'>2026-04-03</span>
+
+<iframe src="https://open.spotify.com/embed/track/2EbtQllI8WsVVUcY0mmfPv" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
 ---
 

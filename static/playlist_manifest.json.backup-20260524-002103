@@ -44746,19 +44746,6 @@
     "tune_url": "/tunes/2024/fakemink/"
   },
   {
-    "name": "Paycheque (2024)",
-    "kind": "tune",
-    "letter": "P",
-    "era": "2020s",
-    "year": "2024",
-    "genre_primary": null,
-    "genre_secondary": null,
-    "tag": null,
-    "tracks": 1,
-    "sort_name": "2024-paycheque",
-    "tune_url": "/tunes/2024/paycheque/"
-  },
-  {
     "name": "Addison Rae (2025)",
     "kind": "tune",
     "letter": "A",
@@ -44926,19 +44913,6 @@
     "tracks": 1,
     "sort_name": "2025-bambii",
     "tune_url": "/tunes/2025/bambii/"
-  },
-  {
-    "name": "Bb trickz (2025)",
-    "kind": "tune",
-    "letter": "B",
-    "era": "2020s",
-    "year": "2025",
-    "genre_primary": null,
-    "genre_secondary": null,
-    "tag": null,
-    "tracks": 1,
-    "sort_name": "2025-bb-trickz",
-    "tune_url": "/tunes/2025/bb-trickz/"
   },
   {
     "name": "Bfb da Packman (2025)",
@@ -46865,19 +46839,6 @@
     "tune_url": "/tunes/2026/asap-rocky/"
   },
   {
-    "name": "The Avalanches (2026)",
-    "kind": "tune",
-    "letter": "A",
-    "era": "2020s",
-    "year": "2026",
-    "genre_primary": "electronic",
-    "genre_secondary": "pop",
-    "tag": null,
-    "tracks": 1,
-    "sort_name": "2026-avalanches",
-    "tune_url": "/tunes/2026/avalanches/"
-  },
-  {
     "name": "Avalon Emerson (2026)",
     "kind": "tune",
     "letter": "A",
@@ -46902,19 +46863,6 @@
     "tracks": 1,
     "sort_name": "2026-ayetian",
     "tune_url": "/tunes/2026/ayetian/"
-  },
-  {
-    "name": "Babehoven (2026)",
-    "kind": "tune",
-    "letter": "B",
-    "era": "2020s",
-    "year": "2026",
-    "genre_primary": null,
-    "genre_secondary": null,
-    "tag": null,
-    "tracks": 1,
-    "sort_name": "2026-babehoven",
-    "tune_url": "/tunes/2026/babehoven/"
   },
   {
     "name": "Baby Keem (2026)",
@@ -46982,19 +46930,6 @@
     "tune_url": "/tunes/2026/blusher/"
   },
   {
-    "name": "Born At Midnite (2026)",
-    "kind": "tune",
-    "letter": "B",
-    "era": "2020s",
-    "year": "2026",
-    "genre_primary": null,
-    "genre_secondary": null,
-    "tag": null,
-    "tracks": 2,
-    "sort_name": "2026-born-at-midnite",
-    "tune_url": "/tunes/2026/born-at-midnite/"
-  },
-  {
     "name": "Brent Faiyaz (2026)",
     "kind": "tune",
     "letter": "B",
@@ -47032,19 +46967,6 @@
     "tracks": 4,
     "sort_name": "2026-buck-meek",
     "tune_url": "/tunes/2026/buck-meek/"
-  },
-  {
-    "name": "Car Seat Headrest (2026)",
-    "kind": "tune",
-    "letter": "C",
-    "era": "2020s",
-    "year": "2026",
-    "genre_primary": "indie",
-    "genre_secondary": null,
-    "tag": null,
-    "tracks": 2,
-    "sort_name": "2026-car-seat-headrest",
-    "tune_url": "/tunes/2026/car-seat-headrest/"
   },
   {
     "name": "Carla dal Forno (2026)",
@@ -47437,19 +47359,6 @@
     "tune_url": "/tunes/2026/hilary-duff/"
   },
   {
-    "name": "Iceage (2026)",
-    "kind": "tune",
-    "letter": "I",
-    "era": "2020s",
-    "year": "2026",
-    "genre_primary": "rock",
-    "genre_secondary": null,
-    "tag": null,
-    "tracks": 1,
-    "sort_name": "2026-iceage",
-    "tune_url": "/tunes/2026/iceage/"
-  },
-  {
     "name": "Isaiah Rashad (2026)",
     "kind": "tune",
     "letter": "I",
@@ -47788,19 +47697,6 @@
     "tune_url": "/tunes/2026/patrick-curley/"
   },
   {
-    "name": "Paycheque (2026)",
-    "kind": "tune",
-    "letter": "P",
-    "era": "2020s",
-    "year": "2026",
-    "genre_primary": null,
-    "genre_secondary": null,
-    "tag": null,
-    "tracks": 1,
-    "sort_name": "2026-paycheque",
-    "tune_url": "/tunes/2026/paycheque/"
-  },
-  {
     "name": "RajahWild (2026)",
     "kind": "tune",
     "letter": "R",
@@ -47965,7 +47861,7 @@
     "genre_primary": null,
     "genre_secondary": null,
     "tag": null,
-    "tracks": 5,
+    "tracks": 4,
     "sort_name": "2026-tory-lanez",
     "tune_url": "/tunes/2026/tory-lanez/"
   },
@@ -47994,19 +47890,6 @@
     "tracks": 1,
     "sort_name": "2026-venturing",
     "tune_url": "/tunes/2026/venturing/"
-  },
-  {
-    "name": "Vybz Kartel (2026)",
-    "kind": "tune",
-    "letter": "V",
-    "era": "2020s",
-    "year": "2026",
-    "genre_primary": "dancehall",
-    "genre_secondary": null,
-    "tag": "dancehall",
-    "tracks": 1,
-    "sort_name": "2026-vybz-kartel",
-    "tune_url": "/tunes/2026/vybz-kartel/"
   },
   {
     "name": "YFN Lucci (2026)",

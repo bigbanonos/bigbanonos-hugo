@@ -9,11 +9,11 @@
   .bb-mark{font-family:"Archivo Black",sans-serif;font-weight:900;font-size:clamp(48px,11vw,168px);line-height:.82;letter-spacing:-.04em;text-transform:uppercase;margin:0 0 6px;}
   .bb-mark .s1{color:var(--hot);} .bb-mark .s2{color:var(--cobalt);} .bb-mark .s3{color:var(--ink);background:var(--acid);padding:0 .08em;}
   .bb-hash{font-family:"Archivo Black",sans-serif;font-size:clamp(14px,2vw,22px);margin:0 0 18px;display:inline-block;background:var(--ink);color:var(--acid);padding:4px 10px;transform:rotate(-1.5deg);}
-  .bb-manifesto{display:grid;grid-template-columns:1fr auto;gap:28px;align-items:end;border-top:3px solid var(--ink);border-bottom:3px solid var(--ink);padding:18px 0;margin:8px 0 22px;}
+  .bb-manifesto{display:block;border-top:3px solid var(--ink);border-bottom:3px solid var(--ink);padding:18px 0;margin:8px 0 22px;}
   .bb-manifesto p{font-size:clamp(14px,1.4vw,17px);line-height:1.45;margin:0;max-width:780px;}
   .bb-manifesto p b{background:var(--acid);padding:0 4px;}
   .bb-manifesto p i{font-style:italic;color:var(--hot);font-weight:600;}
-  .bb-bike{width:clamp(120px,18vw,220px);}
+  
   .bb-filters{display:flex;flex-wrap:wrap;gap:10px 16px;align-items:center;margin:0 0 8px;padding:14px 0 10px;border-bottom:3px solid var(--ink);}
   .bb-filters.genres{border-bottom:3px solid var(--ink);margin-bottom:20px;padding:10px 0 14px;}
   .bb-filters .lbl{font-family:"JetBrains Mono",monospace;font-size:11px;letter-spacing:.18em;text-transform:uppercase;opacity:.6;margin-right:4px;}
@@ -47,7 +47,7 @@
   .bb-empty{padding:60px 20px;text-align:center;font-family:"JetBrains Mono",monospace;font-size:14px;opacity:.6;border:3px dashed var(--ink);}
   .bb-empty.hidden{display:none;}
   .bb-loading{padding:40px 20px;text-align:center;font-family:"JetBrains Mono",monospace;font-size:13px;opacity:.5;}
-  @media (max-width:640px){.bb-manifesto{grid-template-columns:1fr;}.bb-bike{justify-self:end;}}
+  
 </style>
 
 <div class="bb-wrap">
@@ -56,36 +56,6 @@
 
   <div class="bb-manifesto">
     <p><b>2% of music is good.</b> Modern dancehall, indie that still has teeth, rap that means it, the records that started rock, weird shit, current shit. <i>Experimental instrumental noodling can kizz my ass.</i> The filter does the talking — pick a letter, pick an era, pick a genre, go.</p>
-    <svg class="bb-bike" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg" aria-label="Cards fan dribbling through his legs, dollar bills spilling">
-      <g font-family="Archivo Black,sans-serif" font-size="10" fill="#0a0a0a">
-        <g transform="translate(18 108) rotate(-22)"><rect width="20" height="11" fill="#c6ff3d" stroke="#0a0a0a" stroke-width="1.4"/><text x="10" y="8" text-anchor="middle">$</text></g>
-        <g transform="translate(8 138) rotate(14)"><rect width="20" height="11" fill="#c6ff3d" stroke="#0a0a0a" stroke-width="1.4"/><text x="10" y="8" text-anchor="middle">$</text></g>
-        <g transform="translate(28 165) rotate(-8)"><rect width="20" height="11" fill="#c6ff3d" stroke="#0a0a0a" stroke-width="1.4"/><text x="10" y="8" text-anchor="middle">$</text></g>
-        <g transform="translate(155 135) rotate(24)"><rect width="20" height="11" fill="#c6ff3d" stroke="#0a0a0a" stroke-width="1.4"/><text x="10" y="8" text-anchor="middle">$</text></g>
-        <g transform="translate(170 170) rotate(-12)"><rect width="20" height="11" fill="#c6ff3d" stroke="#0a0a0a" stroke-width="1.4"/><text x="10" y="8" text-anchor="middle">$</text></g>
-      </g>
-      <circle cx="100" cy="36" r="13" fill="none" stroke="#0a0a0a" stroke-width="2.5"/>
-      <path d="M88 30 Q100 18 113 30" fill="#c41e3a" stroke="#0a0a0a" stroke-width="2.5"/>
-      <path d="M113 30 L122 32 L113 33" fill="#c41e3a" stroke="#0a0a0a" stroke-width="2"/>
-      <text x="100" y="30" font-family="Archivo Black,sans-serif" font-size="7" fill="#fff" text-anchor="middle">StL</text>
-      <path d="M75 62 Q70 55 78 52 L92 50 Q100 49 108 50 L122 52 Q130 55 125 62 L122 90 L115 110 L108 128 L92 128 L85 110 L78 90 Z" fill="none" stroke="#0a0a0a" stroke-width="2.5" stroke-linejoin="round"/>
-      <path d="M76 58 Q80 52 86 54" fill="none" stroke="#0a0a0a" stroke-width="2" stroke-linecap="round"/>
-      <path d="M124 58 Q120 52 114 54" fill="none" stroke="#0a0a0a" stroke-width="2" stroke-linecap="round"/>
-      <path d="M78 62 Q62 85 70 110" fill="none" stroke="#0a0a0a" stroke-width="2.5" stroke-linecap="round"/>
-      <path d="M122 62 Q142 82 134 108" fill="none" stroke="#0a0a0a" stroke-width="2.5" stroke-linecap="round"/>
-      <path d="M92 128 L75 175" fill="none" stroke="#0a0a0a" stroke-width="2.5" stroke-linecap="round"/>
-      <path d="M108 128 L125 175" fill="none" stroke="#0a0a0a" stroke-width="2.5" stroke-linecap="round"/>
-      <path d="M70 172 L85 172 L82 178 L68 178 Z" fill="#0a0a0a"/>
-      <path d="M120 172 L135 172 L132 178 L118 178 Z" fill="#0a0a0a"/>
-      <path d="M96 128 Q100 135 104 128" fill="none" stroke="#0a0a0a" stroke-width="2" stroke-linecap="round"/>
-      <circle cx="100" cy="158" r="11" fill="#ff7a1a" stroke="#0a0a0a" stroke-width="2"/>
-      <path d="M89 158 L111 158 M100 147 L100 169" stroke="#0a0a0a" stroke-width="1.2" fill="none"/>
-      <path d="M92 150 Q100 158 92 166" stroke="#0a0a0a" stroke-width="1.2" fill="none"/>
-      <path d="M108 150 Q100 158 108 166" stroke="#0a0a0a" stroke-width="1.2" fill="none"/>
-      <circle cx="100" cy="175" r="1.5" fill="#0a0a0a"/>
-      <circle cx="95" cy="180" r="1" fill="#0a0a0a"/>
-      <circle cx="105" cy="180" r="1" fill="#0a0a0a"/>
-    </svg>
   </div>
 
   <div class="bb-filters" id="bbFilters">

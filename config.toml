@@ -30,7 +30,7 @@ ignoreErrors = ["error-remote-getjson", "error-missing-file", "alias-trailing-co
   ShowShareButtons = true
   disableThemeToggle = true
   defaultTheme = "light"
- mainSections = ["posts", "tunes", ""]
+  mainSections = ["posts", "tunes", ""]
   ShowCodeCopyButtons = true
   defaultImageWidth = 500
   defaultImageHeight = 300
@@ -53,11 +53,16 @@ ignoreErrors = ["error-remote-getjson", "error-missing-file", "alias-trailing-co
   weight = 1
 
 [[menu.main]]
+  name = "Tunes"
+  url = "/tunes/"
+  weight = 2
+
+[[menu.main]]
   name = "Tags"
   url = "/tags/"
-  weight = 2
+  weight = 3
 
 [[menu.main]]
   name = "Search"
   url = "/search/"
-  weight = 3
+  weight = 4
