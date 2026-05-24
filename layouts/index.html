@@ -48,6 +48,28 @@
   .bb-empty.hidden{display:none;}
   .bb-loading{padding:40px 20px;text-align:center;font-family:"JetBrains Mono",monospace;font-size:13px;opacity:.5;}
   
+
+  /* BEST NEW MUSIC strip */
+  .bb-bnm{margin:0 0 28px;border-top:3px solid var(--ink);padding-top:18px;}
+  .bb-bnm-head{display:flex;align-items:baseline;justify-content:space-between;margin-bottom:14px;gap:16px;flex-wrap:wrap;}
+  .bb-bnm-title{font-family:"Archivo Black",sans-serif;font-size:clamp(22px,3.2vw,40px);line-height:1;letter-spacing:-.02em;text-transform:uppercase;margin:0;}
+  .bb-bnm-title .acid{background:var(--acid);padding:0 .15em;}
+  .bb-bnm-seeall{font-family:"JetBrains Mono",monospace;font-size:12px;text-transform:uppercase;letter-spacing:.14em;text-decoration:none;color:var(--ink);background:var(--paper);border:2px solid var(--ink);padding:6px 12px;transition:transform .08s ease;}
+  .bb-bnm-seeall:hover{transform:translate(-2px,-2px);box-shadow:3px 3px 0 var(--ink);background:var(--ink);color:var(--paper);}
+  .bb-bnm-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(190px,1fr));gap:10px;}
+  .bb-bnm-card{display:block;padding:14px;border:3px solid var(--ink);background:var(--paper);text-decoration:none;color:var(--ink);transition:transform .08s ease;border-left-width:6px;border-left-color:var(--hot);}
+  .bb-bnm-card:nth-child(2){border-left-color:var(--cobalt);}
+  .bb-bnm-card:nth-child(3){border-left-color:var(--acid);}
+  .bb-bnm-card:nth-child(4){border-left-color:var(--tang);}
+  .bb-bnm-card:nth-child(5){border-left-color:var(--plum);}
+  .bb-bnm-card:nth-child(6){border-left-color:var(--hot);}
+  .bb-bnm-card:hover{transform:translate(-3px,-3px);box-shadow:6px 6px 0 var(--ink);}
+  .bb-bnm-card h4{font-family:"Archivo Black",sans-serif;font-size:18px;line-height:1.05;margin:0 0 6px;text-transform:uppercase;word-break:break-word;}
+  .bb-bnm-card .bb-bnm-meta{font-family:"JetBrains Mono",monospace;font-size:10px;text-transform:uppercase;letter-spacing:.1em;opacity:.65;display:flex;gap:6px;flex-wrap:wrap;align-items:center;margin:0;}
+  .bb-bnm-card .bb-bnm-meta b{background:var(--ink);color:var(--paper);padding:1px 5px;font-weight:400;}
+  .bb-bnm-card .bb-bnm-meta .gb{padding:1px 5px;color:#fff;background:var(--gc,#666);font-weight:600;letter-spacing:.06em;}
+  .bb-bnm-card .bb-bnm-date{font-family:"JetBrains Mono",monospace;font-size:10px;opacity:.5;margin-top:4px;}
+
 </style>
 
 <div class="bb-wrap">
@@ -57,6 +79,30 @@
   <div class="bb-manifesto">
     <p><b>2% of music is good.</b> Modern dancehall, indie that still has teeth, rap that means it, the records that started rock, weird shit, current shit. <i>Experimental instrumental noodling can kizz my ass.</i> The filter does the talking — pick a letter, pick an era, pick a genre, go.</p>
   </div>
+
+  <!-- BEST NEW MUSIC strip -->
+  <section class="bb-bnm bb-bnm-strip" aria-label="Best new music">
+    <div class="bb-bnm-head">
+      <h2 class="bb-bnm-title">Best new music<span class="acid">.</span></h2>
+      <a class="bb-bnm-seeall" href="/tunes/">see all tunes →</a>
+    </div>
+    <div class="bb-bnm-grid">
+      {{ $bnm := first 6 (where (where .Site.RegularPages "Section" "tunes") "File.LogicalName" "index.md").ByDate.Reverse }}
+      {{ range $bnm }}
+        {{ $year := .Params.year }}
+        {{ $artistOnly := replace .Title (printf " — %s" $year) "" }}
+        <a class="bb-bnm-card" href="{{ .Permalink }}">
+          <h4>{{ $artistOnly }}</h4>
+          <p class="bb-bnm-meta">
+            <b>TUNE</b>
+            <span>{{ .Params.track_count }} TR</span>
+            {{ with index .Params.genre 0 }}<span class="gb">{{ . }}</span>{{ end }}
+          </p>
+          <div class="bb-bnm-date">{{ .Date.Format "Jan 2, 2006" }}</div>
+        </a>
+      {{ end }}
+    </div>
+  </section>
 
   <div class="bb-filters" id="bbFilters">
     <span class="lbl">Era</span>
