@@ -10,6 +10,10 @@ tags:
   - 'classic rock'
   - 'southern rock'
   - 'country rock'
+last_release: ''
+track_count: 5
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## Creedence Clearwater Revival

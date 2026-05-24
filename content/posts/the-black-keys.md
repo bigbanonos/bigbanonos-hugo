@@ -10,6 +10,10 @@ tags:
   - 'garage rock'
   - 'modern blues'
   - 'rock'
+last_release: ''
+track_count: 10
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## The Black Keys

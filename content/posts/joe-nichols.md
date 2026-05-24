@@ -10,6 +10,10 @@ genre:
   - "acoustic country"
 tags:
   - '@joe-nichols'
+last_release: ''
+track_count: 1
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/33AQv3sfvHmtGfYNIJpi96" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

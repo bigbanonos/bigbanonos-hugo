@@ -17,6 +17,10 @@ tags:
   - '2020s'
   - 'rage rap'
   - 'melodic rap'
+last_release: '2020-12-25'
+track_count: 3
+active: true
+bucket: 'NEW_LEAK'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/29TPjc8wxfz4XMn21O7VsZ" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

@@ -22,6 +22,10 @@ tags:
   - 'singer-songwriter'
   - 'new wave'
   - 'post-punk'
+last_release: '2021-08-20'
+track_count: 12
+active: true
+bucket: 'FAUCET'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/2soKDxbzBw8W6Qgwl7B0Zy" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

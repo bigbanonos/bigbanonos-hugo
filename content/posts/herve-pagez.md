@@ -11,6 +11,10 @@ genre:
   - "art pop"
 tags:
   - '@herve-pagez'
+last_release: ''
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/54z0kLF0skj0Hdb9wCqPJt" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

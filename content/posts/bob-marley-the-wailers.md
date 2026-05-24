@@ -15,6 +15,10 @@ tags:
   - 'roots reggae'
   - 'rocksteady'
   - 'ragga'
+last_release: ''
+track_count: 47
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## Bob Marley & The Wailers

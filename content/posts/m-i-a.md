@@ -16,6 +16,10 @@ tags:
   - '00s-10s'
   - '2020s'
   - 'funk'
+last_release: '2020-09-25'
+track_count: 7
+active: true
+bucket: 'STILL_DRIPPING'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/3lFuCBVdt997sZ92UPr6T4" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

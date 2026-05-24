@@ -15,6 +15,10 @@ tags:
   - '00s-10s'
   - '2020s'
   - 'indie'
+last_release: '2024-09-10'
+track_count: 9
+active: true
+bucket: 'STILL_DRIPPING'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/3J9fDdirND6efE3VMFROGp" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

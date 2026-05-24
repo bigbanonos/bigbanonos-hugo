@@ -7,6 +7,10 @@ era:
   - "2000s-2010s"
 tags:
   - '@eddingtonagain'
+last_release: '2019-06-04'
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/2D7sBcpibQS8u4esntSla0" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

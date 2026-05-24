@@ -13,6 +13,10 @@ tags:
   - '00s-10s'
   - 'noise rock'
   - 'garage rock'
+last_release: '2011-04-12'
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/4Odm92x9d8IaUkWxAMzV5R" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

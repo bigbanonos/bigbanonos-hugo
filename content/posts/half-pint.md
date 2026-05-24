@@ -11,6 +11,10 @@ tags:
   - 'reggae'
   - 'roots reggae'
   - 'ragga'
+last_release: '2008-10-07'
+track_count: 3
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## Half Pint

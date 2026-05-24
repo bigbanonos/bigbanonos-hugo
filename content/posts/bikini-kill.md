@@ -11,6 +11,10 @@ genre:
   - "punk"
 tags:
   - '@bikinikill'
+last_release: '1998-06-23'
+track_count: 4
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/3n0zZ1V9PXLsxtyTiqDhuQ" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

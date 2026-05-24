@@ -15,6 +15,10 @@ genre:
   - "rocksteady"
 tags:
   - '@bob-marley'
+last_release: '2022-06-24'
+track_count: 47
+active: true
+bucket: 'FAUCET'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/1PVetcXgOrHPbtdnbWvWa1" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

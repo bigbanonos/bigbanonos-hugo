@@ -15,6 +15,10 @@ tags:
   - '@capolo'
   - '@dejloaf'
   - '@kamaiyah'
+last_release: '2022-12-09'
+track_count: 7
+active: true
+bucket: 'STILL_DRIPPING'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/6lXPQAdzSCrw9Y58eagcLE" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

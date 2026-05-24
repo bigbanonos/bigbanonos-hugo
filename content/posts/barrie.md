@@ -10,6 +10,10 @@ genre:
   - "dream pop"
 tags:
   - '@barrie'
+last_release: '2023-03-31'
+track_count: 6
+active: true
+bucket: 'STILL_DRIPPING'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/4dwxdOkBE8OBXD9E6EruGv" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

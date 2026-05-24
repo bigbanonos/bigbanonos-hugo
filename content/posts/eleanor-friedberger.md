@@ -7,6 +7,10 @@ era:
   - "2000s-2010s"
 tags:
   - '@eleanorfriedberger'
+last_release: '2018-02-14'
+track_count: 12
+active: false
+bucket: 'THE_VAULT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/2nTyIuvH7gCpLW4awcpBvC" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

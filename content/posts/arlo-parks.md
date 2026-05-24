@@ -9,6 +9,10 @@ explicit: true
 tags:
   - '@lousandtheyakuza'
   - '@arloparks'
+last_release: '2023-12-06'
+track_count: 6
+active: true
+bucket: 'STILL_DRIPPING'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/5UJTM4M8b1Tw3No5kNI2N3" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

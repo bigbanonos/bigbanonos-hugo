@@ -6,6 +6,10 @@ layout: post
 tags:
   - '@swalee'
   - '@jheneaiko'
+last_release: ''
+track_count: 3
+active: false
+bucket: 'ARTIFACT'
 ---
 
 **MURAL** feat. Jhené Aiko

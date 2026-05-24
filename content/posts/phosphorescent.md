@@ -10,6 +10,10 @@ tags:
   - '@phosphorescent'
   - '00s-10s'
   - '2020s'
+last_release: '2024-04-05'
+track_count: 6
+active: true
+bucket: 'STILL_DRIPPING'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/0QSnqTf0c9xTt3E1KNUpgz" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

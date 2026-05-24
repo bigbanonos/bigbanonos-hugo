@@ -9,6 +9,10 @@ genre:
   - "bedroom pop"
 tags:
   - '@pinkpantheress'
+last_release: '2025-05-09'
+track_count: 2
+active: true
+bucket: 'NEW_LEAK'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/1WmBVbFmLt0w6zPP37TeCG" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

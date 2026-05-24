@@ -24,6 +24,10 @@ tags:
   - 'old school hip hop'
   - 'g-funk'
   - 'sexy drill'
+last_release: '2009-03-30'
+track_count: 6
+active: false
+bucket: 'CRYSTALLIZED'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/6YHRqi1Pf77CfaWlFdDfni" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

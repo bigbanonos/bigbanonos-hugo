@@ -8,6 +8,10 @@ era:
   - "2020s"
 tags:
   - '@blondie'
+last_release: '2022-07-07'
+track_count: 5
+active: true
+bucket: 'STILL_DRIPPING'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/5ll053nNoNE1SYbBD0aB7K" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

@@ -10,6 +10,10 @@ era:
 explicit: true
 tags:
   - '@french-montana'
+last_release: '2026-01-09'
+track_count: 4
+active: true
+bucket: 'NEW_LEAK'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/5ehgf6op0j2sE4lqjiTkMY" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

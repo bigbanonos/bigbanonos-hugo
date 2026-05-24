@@ -9,6 +9,10 @@ tags:
   - '2020s'
   - 'hyperpop'
   - 'art pop'
+last_release: ''
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## ELIO;Charli xcx

@@ -4,6 +4,10 @@ date: 1900-01-02
 draft: false
 tags: ["playlist", "1off", "y"]
 description: "4 tracks — Y artists, 1900s–1990s"
+last_release: ''
+track_count: 4
+active: false
+bucket: 'ARTIFACT'
 ---
 
 4 tracks.

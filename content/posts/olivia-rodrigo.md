@@ -8,6 +8,10 @@ era:
 explicit: true
 tags:
   - '@oliviarodrigo'
+last_release: '2023-09-08'
+track_count: 6
+active: true
+bucket: 'STILL_DRIPPING'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/34sOdxWu9FljH84UXdRwu1" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

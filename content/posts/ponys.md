@@ -10,6 +10,10 @@ genre:
   - "garage rock"
 tags:
   - '@ponys'
+last_release: '2007-03-20'
+track_count: 11
+active: false
+bucket: 'THE_VAULT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/0u2nq7WMIII7wxARfbBnYU" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

@@ -15,6 +15,10 @@ tags:
   - '@jessylanza'
   - '@lorrainejames'
   - '@katenv'
+last_release: '2023-07-11'
+track_count: 7
+active: true
+bucket: 'STILL_DRIPPING'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/2pYL4YZ8s13UqG9QHxd54b" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

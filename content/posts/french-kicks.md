@@ -8,6 +8,10 @@ era:
 tags:
   - '@french-kicks'
   - '00s-10s'
+last_release: '2002-01-01'
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/0Zfx4o0bV4JEjZXkQhStLS" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

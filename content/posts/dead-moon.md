@@ -11,6 +11,10 @@ genre:
   - "proto-punk"
 tags:
   - '@deadmoon'
+last_release: '2004-03-19'
+track_count: 9
+active: false
+bucket: 'CRYSTALLIZED'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/59sbh4Ur10e48XpIGWM2QD" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

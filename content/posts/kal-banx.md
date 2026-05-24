@@ -7,6 +7,10 @@ tags:
   - '@kalbanx'
   - '@smino'
   - '@buddy'
+last_release: ''
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 2 songs — Hop Out Cho Feeling feat. Smino & Buddy, and Crucial.

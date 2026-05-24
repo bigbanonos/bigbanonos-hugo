@@ -9,6 +9,10 @@ tags:
   - 'dream pop'
   - 'neo-psychedelic'
   - 'shoegaze'
+last_release: ''
+track_count: 4
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## Broadcast

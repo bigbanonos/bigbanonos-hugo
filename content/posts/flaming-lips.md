@@ -11,6 +11,10 @@ genre:
   - "neo-psychedelic"
 tags:
   - '@flaming-lips'
+last_release: '2002-05-13'
+track_count: 4
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/0ccCwNzXvr1Yoz91vKz31Z" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

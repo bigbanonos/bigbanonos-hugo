@@ -16,6 +16,10 @@ explicit: true
 tags:
   - '@miguel'
   - '@kurupt'
+last_release: '2021-04-09'
+track_count: 11
+active: true
+bucket: 'FAUCET'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/1erZEUKhZ03cHHD0vOr8aQ" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

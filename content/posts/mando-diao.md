@@ -11,6 +11,10 @@ tags:
   - '@mando-diao'
   - '00s-10s'
   - 'swedish pop'
+last_release: '2004-09-22'
+track_count: 3
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/2TxwOvziWFXvi3w7kuWxSe" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

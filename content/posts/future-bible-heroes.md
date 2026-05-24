@@ -9,6 +9,10 @@ genre:
   - "anti-folk"
 tags:
   - '@futurebibleheroes'
+last_release: '2013-06-04'
+track_count: 6
+active: false
+bucket: 'CRYSTALLIZED'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/3z4WWiMn7nz9vNowGVfO85" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

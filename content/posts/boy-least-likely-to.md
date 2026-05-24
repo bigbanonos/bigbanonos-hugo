@@ -8,6 +8,10 @@ era:
   - "2000s-2010s"
 tags:
   - '@boy-least-likely-to'
+last_release: '2005-09-26'
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/2xINzepQ3aQie4AQilFQcI" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

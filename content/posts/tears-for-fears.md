@@ -13,6 +13,10 @@ tags:
   - '1900s'
   - 'new wave'
   - 'synthpop'
+last_release: '1985-02-25'
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/4RvWPyQ5RL0ao9LPZeSouE" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

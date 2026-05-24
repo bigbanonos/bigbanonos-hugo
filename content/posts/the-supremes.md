@@ -11,6 +11,10 @@ tags:
   - 'northern soul'
   - 'classic soul'
   - 'soul'
+last_release: ''
+track_count: 3
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## The Supremes

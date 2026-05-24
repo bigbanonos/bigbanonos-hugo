@@ -9,6 +9,10 @@ genre:
   - "swedish pop"
 tags:
   - '@big-wild'
+last_release: ''
+track_count: 1
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/1wPRqq1czM3ny6189e56mq" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

@@ -5,6 +5,10 @@ date: 2026-03-19
 layout: post
 tags:
   - '@valiant'
+last_release: '2025-06-27'
+track_count: 3
+active: true
+bucket: 'NEW_LEAK'
 ---
 
 **Mad at Night** — *Mad at Night* (2026)

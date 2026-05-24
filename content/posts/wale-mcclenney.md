@@ -18,6 +18,10 @@ tags:
   - 'crunk'
   - 'rap'
   - 'southern hip hop'
+last_release: ''
+track_count: 8
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## Wale;McClenney

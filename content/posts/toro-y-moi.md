@@ -18,6 +18,10 @@ tags:
   - 'chillwave'
   - 'neo-psychedelic'
   - 'psychedelic rock'
+last_release: '2022-04-29'
+track_count: 5
+active: true
+bucket: 'STILL_DRIPPING'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/3G1nE9ZEv4eGEM48IAIv8u" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

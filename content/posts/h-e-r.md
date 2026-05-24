@@ -13,6 +13,10 @@ genre:
 explicit: true
 tags:
   - '@h-e-r'
+last_release: '2021-06-18'
+track_count: 3
+active: true
+bucket: 'NEW_LEAK'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/0LcRtzPSl0TNEe2NzUz1wQ" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

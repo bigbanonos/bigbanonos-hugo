@@ -2,7 +2,6 @@
 title: "I · 2000s-2010s 1-offs"
 date: 2019-11-08
 category: "1off"
-track_count: 8
 letter: "I"
 era: "00s-10s"
 stub: true
@@ -10,6 +9,10 @@ tags:
   - 'letter-i'
   - '1off'
   - '00s-10s'
+last_release: ''
+track_count: 8
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## I · 2000s-2010s 1-offs

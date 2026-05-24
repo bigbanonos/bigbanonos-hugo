@@ -5,6 +5,10 @@ date: 2025-02-12
 layout: post
 tags:
   - '@gentlemanjesse'
+last_release: ''
+track_count: 0
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <div> {{< img-lite src="https://i.scdn.co/image/ab67616d0000b27355707a1fee3159f6fe194dcf" alt="Gentleman Jesse" >}}

@@ -10,6 +10,10 @@ genre:
   - "proto-punk"
 tags:
   - '@protex'
+last_release: ''
+track_count: 1
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/70FkR8lLLLup6vh8WHmu3G" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

@@ -13,6 +13,10 @@ genre:
 explicit: true
 tags:
   - '@rich-gang'
+last_release: ''
+track_count: 1
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/7DTlsMOQjGysXHpwwpHuPl" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

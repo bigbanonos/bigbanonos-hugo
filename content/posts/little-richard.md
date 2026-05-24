@@ -17,6 +17,10 @@ tags:
   - 'rock and roll'
   - 'doo-wop'
   - 'boogie-woogie'
+last_release: '2008-01-01'
+track_count: 3
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/5eCj8C7m74bBQAcMmm6OuW" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

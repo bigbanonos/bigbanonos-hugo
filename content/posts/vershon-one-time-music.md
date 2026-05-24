@@ -11,6 +11,10 @@ tags:
   - 'dancehall'
   - 'riddim'
   - 'soca'
+last_release: ''
+track_count: 3
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## Vershon;One Time Music

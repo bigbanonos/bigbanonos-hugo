@@ -11,6 +11,10 @@ tags:
   - 'garage rock'
   - 'psychedelic rock'
   - 'acid rock'
+last_release: ''
+track_count: 3
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## The Wimple Winch

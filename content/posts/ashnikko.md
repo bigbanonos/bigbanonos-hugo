@@ -8,6 +8,10 @@ tags:
   - '1-off'
   - '2020s'
   - '@ethelcain'
+last_release: ''
+track_count: 1
+active: false
+bucket: 'ARTIFACT'
 ---
 
 Southern gothic from 2023.

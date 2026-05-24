@@ -12,6 +12,10 @@ genre:
 explicit: true
 tags:
   - '@boys'
+last_release: '2014-01-01'
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/5py0Ze6uLpUlsHISYklsX6" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

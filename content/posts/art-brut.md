@@ -9,6 +9,10 @@ explicit: true
 tags:
   - '@art-brut'
   - '00s-10s'
+last_release: '2013-04-16'
+track_count: 5
+active: false
+bucket: 'CRYSTALLIZED'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/2kYCe5FsaQ5Czdj9dqFEqs" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

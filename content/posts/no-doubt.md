@@ -10,6 +10,10 @@ tags:
   - '@no-doubt'
   - '00s-10s'
   - '1900s'
+last_release: '2003-01-01'
+track_count: 5
+active: false
+bucket: 'CRYSTALLIZED'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/6mfkHv00I6jhHIn7EWHJ2N" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

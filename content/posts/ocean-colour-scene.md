@@ -13,6 +13,10 @@ tags:
   - '00s-10s'
   - 'britpop'
   - 'madchester'
+last_release: '2010-01-01'
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/4yLGqCJFoyrbhOvYVRqjU2" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

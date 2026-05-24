@@ -7,6 +7,10 @@ tags:
   - '@agclub'
   - '1-off'
   - '2020s'
+last_release: ''
+track_count: 1
+active: false
+bucket: 'ARTIFACT'
 ---
 
 Alternative hip hop from 2021.

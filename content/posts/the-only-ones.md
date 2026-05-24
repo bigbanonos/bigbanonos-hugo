@@ -10,6 +10,10 @@ tags:
   - 'power pop'
   - 'proto-punk'
   - 'new wave'
+last_release: ''
+track_count: 3
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## The Only Ones

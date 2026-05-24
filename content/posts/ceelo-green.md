@@ -11,6 +11,10 @@ tags:
   - '00s-10s'
   - '2020s'
   - 'southern hip hop'
+last_release: ''
+track_count: 10
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## CeeLo Green

@@ -22,6 +22,10 @@ tags:
   - 'jazz'
   - 'bebop'
   - 'cool jazz'
+last_release: ''
+track_count: 15
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## Alabaster DePlume

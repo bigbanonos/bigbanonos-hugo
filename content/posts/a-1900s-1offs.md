@@ -2,7 +2,6 @@
 title: "A · Pre-2000 1-offs"
 date: 2024-02-01
 category: "1off"
-track_count: 36
 letter: "A"
 era: "1900s"
 stub: true
@@ -10,6 +9,10 @@ tags:
   - 'letter-a'
   - '1off'
   - '1900s'
+last_release: ''
+track_count: 36
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## A · Pre-2000 1-offs

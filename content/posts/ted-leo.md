@@ -10,6 +10,10 @@ genre:
   - "indie rock"
 tags:
   - '@tedleo'
+last_release: '2010-03-08'
+track_count: 15
+active: false
+bucket: 'THE_VAULT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/0PkqVbqo5Y9CLMayxMmf4i" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

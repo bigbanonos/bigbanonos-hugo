@@ -14,6 +14,10 @@ genre:
   - "northern soul"
 tags:
   - '@spinners'
+last_release: '2008-01-01'
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/0Oy9AlJRSGRdeIz3M2dMdi" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

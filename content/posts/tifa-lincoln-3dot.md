@@ -12,6 +12,10 @@ tags:
   - 'riddim'
   - 'soca'
   - 'ragga'
+last_release: ''
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## Tifa;Lincoln 3dot

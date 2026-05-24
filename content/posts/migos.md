@@ -12,6 +12,10 @@ tags:
   - '@migos'
   - '00s-10s'
   - 'trap'
+last_release: '2018-01-26'
+track_count: 3
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/3XAWpSxJMPeIwxXc5g9en1" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

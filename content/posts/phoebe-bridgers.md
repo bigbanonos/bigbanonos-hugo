@@ -8,6 +8,10 @@ era:
 tags:
   - '@phoebe-bridgers'
   - '2020s'
+last_release: '2022-07-01'
+track_count: 5
+active: true
+bucket: 'STILL_DRIPPING'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/4YEcH1SdjdeEyvt4AGYeqI" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

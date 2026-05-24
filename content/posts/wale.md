@@ -16,6 +16,10 @@ genre:
 explicit: true
 tags:
   - '@wale'
+last_release: '2020-06-19'
+track_count: 8
+active: true
+bucket: 'STILL_DRIPPING'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/4KyCV8JfbknCNM9MqiuKMv" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

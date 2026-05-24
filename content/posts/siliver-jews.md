@@ -12,6 +12,10 @@ genre:
   - "anti-folk"
 tags:
   - '@siliver-jews'
+last_release: '2008-06-17'
+track_count: 12
+active: false
+bucket: 'THE_VAULT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/54vN2Gg2vfr69LKyQLzM5V" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

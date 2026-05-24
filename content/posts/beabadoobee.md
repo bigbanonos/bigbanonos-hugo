@@ -14,6 +14,10 @@ tags:
   - '00s-10s'
   - '2020s'
   - 'bedroom pop'
+last_release: '2023-07-18'
+track_count: 4
+active: true
+bucket: 'NEW_LEAK'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/5sA3i6SGkILMiZW6Fhx4wv" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

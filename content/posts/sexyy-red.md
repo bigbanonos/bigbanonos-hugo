@@ -6,6 +6,10 @@ layout: post
 tags:
   - '@sexyyred'
   - '@sukihana'
+last_release: ''
+track_count: 0
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <h1>BigBanonos Top 2 Songs by Sexyy Red</h1>

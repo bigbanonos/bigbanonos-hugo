@@ -8,6 +8,10 @@ era:
   - "2020s"
 tags:
   - '@discovery'
+last_release: '2022-04-22'
+track_count: 5
+active: true
+bucket: 'STILL_DRIPPING'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/3Gec0eWZ22o0rNKKUSSzLI" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

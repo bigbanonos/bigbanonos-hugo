@@ -11,6 +11,10 @@ genre:
   - "garage rock"
 tags:
   - '@sick-thoughts'
+last_release: ''
+track_count: 1
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/4sEA77KdicOQ0FYGp5Ho6b" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

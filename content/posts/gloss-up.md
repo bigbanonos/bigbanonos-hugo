@@ -10,6 +10,10 @@ tags:
   - '@gloss-up'
   - '@gloss-up-casino-jizzle'
   - '2020s'
+last_release: '2023-08-11'
+track_count: 3
+active: true
+bucket: 'NEW_LEAK'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/7mV1KM0VZ0Unegb0KPVw43" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

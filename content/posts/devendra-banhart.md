@@ -11,6 +11,10 @@ genre:
   - "latin indie"
 tags:
   - '@devendrabanhart'
+last_release: '2020-01-16'
+track_count: 10
+active: true
+bucket: 'FAUCET'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/2PKJ88Ap4ebLFxJ4lwAGRF" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

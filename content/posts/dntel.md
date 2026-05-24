@@ -14,6 +14,10 @@ tags:
   - '@conoroberst'
   - '@dntel'
   - '@jennylewis'
+last_release: '2007-04-24'
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/5eJD4O3yfNi0BXhjdn8TSo" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

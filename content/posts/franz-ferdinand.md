@@ -9,6 +9,10 @@ genre:
   - "indie rock"
 tags:
   - '@franzferdinand'
+last_release: '2009-01-27'
+track_count: 7
+active: false
+bucket: 'CRYSTALLIZED'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/5x9YcJnmdZQRNF0raeCVpZ" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

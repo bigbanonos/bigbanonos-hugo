@@ -19,6 +19,10 @@ tags:
   - 'indie'
   - 'art pop'
   - 'french pop'
+last_release: '2024-02-23'
+track_count: 9
+active: true
+bucket: 'STILL_DRIPPING'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/6c4IBaa5opgDKC5mVQEauZ" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

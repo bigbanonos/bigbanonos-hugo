@@ -5,6 +5,10 @@ date: 2025-01-11
 layout: post
 tags:
   - '@yellowman'
+last_release: '2007-03-01'
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <div class="post-title"> <h1>BigBanonos Favorite Songs by Yellowman</h1>

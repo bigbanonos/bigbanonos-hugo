@@ -20,6 +20,10 @@ tags:
   - 'alternative r&b'
   - 'neoperreo'
   - 'experimental hip hop'
+last_release: '2025-05-08'
+track_count: 10
+active: true
+bucket: 'FAUCET'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/6M5Y8sn5cXePK58bH1WKon" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

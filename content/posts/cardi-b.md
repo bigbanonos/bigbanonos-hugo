@@ -20,6 +20,10 @@ tags:
   - '2020s'
   - 'sexy drill'
   - 'jersey club'
+last_release: '2025-09-19'
+track_count: 9
+active: true
+bucket: 'STILL_DRIPPING'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/6kuEBz6FG4JRZrdAi7kHQ8" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

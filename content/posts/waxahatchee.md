@@ -10,6 +10,10 @@ genre:
   - "alt country"
 tags:
   - '@waxahatchee'
+last_release: '2024-03-22'
+track_count: 16
+active: true
+bucket: 'FAUCET'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/0AO3ejChi1gRBWvUDMH2kg" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

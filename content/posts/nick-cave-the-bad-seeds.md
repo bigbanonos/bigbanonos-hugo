@@ -6,6 +6,10 @@ layout: post
 tags:
   - '@nick-cave-the-bad-seeds'
   - '1900s'
+last_release: ''
+track_count: 3
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## Nick Cave & The Bad Seeds

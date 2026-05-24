@@ -16,6 +16,10 @@ tags:
   - 'soca'
   - 'brazilian funk'
   - 'moombahton'
+last_release: ''
+track_count: 24
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## MØ;Walshy Fire

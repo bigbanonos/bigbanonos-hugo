@@ -13,6 +13,10 @@ tags:
   - '1900s'
   - 'new jack swing'
   - 'quiet storm'
+last_release: '1991-01-01'
+track_count: 4
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/6oGPZcErzd9Hjw3E4sDBrq" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

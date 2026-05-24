@@ -13,6 +13,10 @@ tags:
   - 'reggae'
   - 'soca'
   - 'lovers rock'
+last_release: '2026-02-13'
+track_count: 11
+active: true
+bucket: 'FAUCET'
 ---
 
 ## Gyptian

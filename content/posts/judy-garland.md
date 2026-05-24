@@ -11,6 +11,10 @@ genre:
   - "yacht rock"
 tags:
   - '@judygarland'
+last_release: '1989-06-28'
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/0viBOniOCjLRgsm85pYMhb" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

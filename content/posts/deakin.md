@@ -9,6 +9,10 @@ genre:
   - "neo-psychedelic"
 tags:
   - '@deakin'
+last_release: ''
+track_count: 1
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/2tHbjRGyOiLdgRX8RXDlvE" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

@@ -9,6 +9,10 @@ genre:
   - "indie"
 tags:
   - '@passionpit'
+last_release: '2012-07-23'
+track_count: 6
+active: false
+bucket: 'CRYSTALLIZED'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/4Sfa7hdVkqlM8UW5LsSY3F" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

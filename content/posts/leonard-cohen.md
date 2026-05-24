@@ -10,6 +10,10 @@ genre:
   - "singer-songwriter"
 tags:
   - '@leonardcohen'
+last_release: '2002-10-22'
+track_count: 10
+active: false
+bucket: 'THE_VAULT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/3uzYzmLLLayS9l3m0obKPF" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

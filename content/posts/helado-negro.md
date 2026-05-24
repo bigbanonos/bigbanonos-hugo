@@ -9,6 +9,10 @@ tags:
   - '2020s'
   - 'latin alternative'
   - 'latin indie'
+last_release: ''
+track_count: 3
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## Helado Negro

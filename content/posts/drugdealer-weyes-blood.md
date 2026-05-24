@@ -9,6 +9,10 @@ tags:
   - '00s-10s'
   - 'art pop'
   - 'baroque pop'
+last_release: ''
+track_count: 3
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## Drugdealer;Weyes Blood

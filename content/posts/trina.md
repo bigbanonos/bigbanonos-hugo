@@ -9,6 +9,10 @@ explicit: true
 tags:
   - '@trina'
   - '@nickiminaj'
+last_release: '2019-06-19'
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/6VdyIlc9dT5tPamLUNNRNy" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

@@ -20,6 +20,10 @@ tags:
   - 'g-funk'
   - 'horrorcore'
   - 'dansband'
+last_release: '1998-01-01'
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/6lEIjrQNwJPecJ7mMXjhjo" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

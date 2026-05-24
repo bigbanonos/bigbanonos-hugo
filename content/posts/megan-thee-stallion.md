@@ -20,6 +20,10 @@ tags:
   - '2020s'
   - 'southern hip hop'
   - 'crunk'
+last_release: '2025-04-25'
+track_count: 15
+active: true
+bucket: 'FAUCET'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/4oVUfLx1BVgXbPXc0MlPkr" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

@@ -9,6 +9,10 @@ genre:
   - "southern gothic"
 tags:
   - '@dead-man-s-bones'
+last_release: ''
+track_count: 1
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/7vRdcsmD92oErIQDnmp60e" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

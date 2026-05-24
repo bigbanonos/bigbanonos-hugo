@@ -8,6 +8,10 @@ era: "2020s"
 explicit: true
 tags:
   - '@lola-brooke'
+last_release: ''
+track_count: 1
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/5zr6snM3WQRoYC0QfnD9n7" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

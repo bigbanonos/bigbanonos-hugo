@@ -18,6 +18,10 @@ tags:
   - 'soca'
   - 'afrobeats'
   - 'riddim'
+last_release: ''
+track_count: 21
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## Shenseea

@@ -19,6 +19,10 @@ tags:
   - '@fatmanscoop'
   - '@missyelliott'
   - '@jayz'
+last_release: '2019-08-23'
+track_count: 17
+active: false
+bucket: 'THE_VAULT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/30QVousvHxslg00I7dNLU2" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

@@ -5,6 +5,10 @@ date: 2024-12-20
 layout: post
 tags:
   - '@nickdrake'
+last_release: '1969-07-03'
+track_count: 1
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <h1>BigBanonos Top Songs by Nick Drake</h1>

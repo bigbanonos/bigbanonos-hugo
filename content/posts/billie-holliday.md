@@ -14,6 +14,10 @@ genre:
   - "swing music"
 tags:
   - '@billie-holliday'
+last_release: '2005-01-01'
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/666h87LOYGO4ZXP4cwqzhf" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

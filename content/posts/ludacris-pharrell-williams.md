@@ -12,6 +12,10 @@ tags:
   - '00s-10s'
   - '1900s'
   - 'southern hip hop'
+last_release: ''
+track_count: 7
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## Ludacris;Pharrell Williams

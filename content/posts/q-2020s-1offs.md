@@ -2,7 +2,6 @@
 title: "Q · 2020s 1-offs"
 date: 2025-01-01
 category: "1off"
-track_count: 5
 letter: "Q"
 era: "2020s"
 stub: true
@@ -10,6 +9,10 @@ tags:
   - 'letter-q'
   - '1off'
   - '2020s'
+last_release: ''
+track_count: 0
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## Q · 2020s 1-offs

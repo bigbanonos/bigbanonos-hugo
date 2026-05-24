@@ -9,6 +9,10 @@ genre:
   - "retro soul"
 tags:
   - '@gabriels'
+last_release: '2021-11-10'
+track_count: 2
+active: true
+bucket: 'NEW_LEAK'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/6E2xSghivZVmTTy3m0NNHS" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

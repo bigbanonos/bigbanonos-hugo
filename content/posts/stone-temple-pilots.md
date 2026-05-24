@@ -12,6 +12,10 @@ genre:
   - "rock"
 tags:
   - '@stone-temple-pilots'
+last_release: ''
+track_count: 1
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/6qLEOZvf5gI7kWE63JE7p3" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

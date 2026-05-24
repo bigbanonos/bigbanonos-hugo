@@ -9,6 +9,10 @@ tags:
   - '1900s'
   - 'alternative rock'
   - 'rock'
+last_release: ''
+track_count: 7
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## The Smashing Pumpkins

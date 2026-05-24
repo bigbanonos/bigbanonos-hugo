@@ -14,6 +14,10 @@ genre:
   - "soul"
 tags:
   - '@supremes'
+last_release: '2008-12-15'
+track_count: 3
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/4P2IGlOMEKIENBUliUDXIY" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

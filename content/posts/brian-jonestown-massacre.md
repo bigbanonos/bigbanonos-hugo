@@ -14,6 +14,10 @@ genre:
 explicit: true
 tags:
   - '@brianjonestownmassacre'
+last_release: '2008-03-17'
+track_count: 3
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/6tYL28j0UwpHjvsN7W4eom" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

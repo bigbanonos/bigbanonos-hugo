@@ -2,7 +2,6 @@
 title: "L · 2020s 1-offs"
 date: 2026-01-29
 category: "1off"
-track_count: 42
 letter: "L"
 era: "2020s"
 stub: true
@@ -10,6 +9,10 @@ tags:
   - 'letter-l'
   - '1off'
   - '2020s'
+last_release: ''
+track_count: 42
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## L · 2020s 1-offs

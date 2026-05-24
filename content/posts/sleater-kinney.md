@@ -15,6 +15,10 @@ tags:
   - '1900s'
   - 'riot grrrl'
   - 'queercore'
+last_release: '2019-07-31'
+track_count: 8
+active: false
+bucket: 'CRYSTALLIZED'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/1eFL4M0drhVEMfRoiFbSmW" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

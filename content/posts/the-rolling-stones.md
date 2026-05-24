@@ -9,6 +9,10 @@ tags:
   - '1900s'
   - 'classic rock'
   - 'rock'
+last_release: ''
+track_count: 11
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## The Rolling Stones

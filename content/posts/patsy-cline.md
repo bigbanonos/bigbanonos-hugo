@@ -10,6 +10,10 @@ genre:
   - "country christian"
 tags:
   - '@patsy-cline'
+last_release: ''
+track_count: 1
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/3Vxc7fLBmG8vNk6G6Va9Nz" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

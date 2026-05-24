@@ -27,6 +27,10 @@ tags:
   - 'west coast hip hop'
   - 'gangster rap'
   - 'old school hip hop'
+last_release: '2015-05-06'
+track_count: 10
+active: false
+bucket: 'THE_VAULT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/3wO19rAQ7aya5YFPQ6Ts0A" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

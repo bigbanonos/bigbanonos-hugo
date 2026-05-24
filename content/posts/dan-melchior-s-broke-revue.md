@@ -8,6 +8,10 @@ tags:
   - '00s-10s'
   - 'garage rock'
   - 'space rock'
+last_release: ''
+track_count: 4
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## Dan Melchiors Broke Revue

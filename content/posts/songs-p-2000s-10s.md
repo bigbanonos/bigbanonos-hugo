@@ -4,6 +4,10 @@ date: 2000-01-01
 draft: false
 tags: ["playlist", "1off", "p"]
 description: "77 tracks — P artists, 2000s–2010s"
+last_release: ''
+track_count: 77
+active: false
+bucket: 'ARTIFACT'
 ---
 
 77 tracks.

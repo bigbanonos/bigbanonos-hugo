@@ -5,6 +5,10 @@ date: 2025-02-15
 layout: post
 tags:
   - '@chromepony'
+last_release: ''
+track_count: 0
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <img src="https://i.scdn.co/image/ab67616d00001e02a1da9c4637b30b0a987d7eb5" width="100%" /> <h2>BigBanonos Favorite Songs by Chrome Pony</h2> <p>Updated 2012 with "Sonic Waves." Highlights and #NotOnSpotify picks below:</p> {{< youtube "6AHtUnd6TuY" >}}

@@ -3,6 +3,10 @@ title: "Search"
 slug: "search"
 date: 2020-01-01
 layout: post
+last_release: ''
+track_count: 0
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <script src="https://cdn.jsdelivr.net/npm/fuse.js@6.6.2"></script>

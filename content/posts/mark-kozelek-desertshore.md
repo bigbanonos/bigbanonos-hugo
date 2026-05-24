@@ -9,6 +9,10 @@ tags:
   - '@mark-kozelek-jimmy-lavalle'
   - '00s-10s'
   - 'slowcore'
+last_release: ''
+track_count: 4
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## Mark Kozelek;Desertshore

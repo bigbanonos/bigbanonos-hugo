@@ -9,6 +9,10 @@ tags:
   - '1900s'
   - '2020s'
   - 'anti-folk'
+last_release: ''
+track_count: 22
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## The Magnetic Fields

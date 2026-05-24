@@ -6,6 +6,10 @@ layout: post
 tags:
   - '@protoje'
   - '@shenseea'
+last_release: ''
+track_count: 1
+active: false
+bucket: 'ARTIFACT'
 ---
 
 **Goddess** feat. Shenseea — *Goddess* (2026)

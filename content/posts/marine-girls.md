@@ -10,6 +10,10 @@ genre:
   - "post-punk"
 tags:
   - '@marine-girls'
+last_release: ''
+track_count: 1
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/3XkTiR9i7jm1LdcYC3BE4u" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

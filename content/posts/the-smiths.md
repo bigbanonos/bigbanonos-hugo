@@ -9,6 +9,10 @@ tags:
   - 'new wave'
   - 'madchester'
   - 'jangle pop'
+last_release: ''
+track_count: 9
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## The Smiths

@@ -5,6 +5,10 @@ date: 2024-12-13
 layout: post
 tags:
   - '@haruomihosono'
+last_release: ''
+track_count: 0
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <!-- Post Title -->

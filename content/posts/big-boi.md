@@ -23,6 +23,10 @@ tags:
   - '@jamiefoxx'
   - '@mouche'
   - '@bigboi'
+last_release: '2021-12-10'
+track_count: 8
+active: true
+bucket: 'STILL_DRIPPING'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/5n1zqeIT9OUd5pOduPPD23" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

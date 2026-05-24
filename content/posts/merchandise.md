@@ -9,6 +9,10 @@ genre:
   - "post-punk"
 tags:
   - '@merchandise'
+last_release: ''
+track_count: 1
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/0esC11I90ngZYSb0b29aOT" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

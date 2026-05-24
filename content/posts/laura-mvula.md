@@ -14,6 +14,10 @@ tags:
   - '2020s'
   - 'neo soul'
   - 'metalcore'
+last_release: '2021-06-17'
+track_count: 2
+active: true
+bucket: 'NEW_LEAK'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/5IiYO9z0Qa3XVzCXMeA7FR" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

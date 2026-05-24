@@ -9,6 +9,10 @@ tags:
   - '00s-10s'
   - '2020s'
   - 'latin pop'
+last_release: ''
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## Shakira;Cardi B

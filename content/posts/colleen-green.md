@@ -10,6 +10,10 @@ tags:
   - '@colleen-green'
   - '00s-10s'
   - '2020s'
+last_release: '2021-07-19'
+track_count: 5
+active: true
+bucket: 'STILL_DRIPPING'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/3hn8lAFJD6Is8dmBclH1Rv" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

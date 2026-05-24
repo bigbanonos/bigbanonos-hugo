@@ -27,6 +27,10 @@ tags:
   - 'hip hop'
   - 'west coast hip hop'
   - 'rap'
+last_release: '2024-12-20'
+track_count: 24
+active: true
+bucket: 'FAUCET'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/3aSWXU6owkZeVhh94XxEWO" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

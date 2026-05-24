@@ -11,6 +11,10 @@ tags:
   - 'punk'
   - 'psychobilly'
   - 'hardcore punk'
+last_release: ''
+track_count: 12
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## Misfits;Glenn Danzig

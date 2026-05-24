@@ -9,6 +9,10 @@ era:
 tags:
   - '@jordana'
   - '@tvgirl'
+last_release: '2022-02-08'
+track_count: 5
+active: true
+bucket: 'STILL_DRIPPING'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/2r3d7ZEucbIL2N7E1ayWyX" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

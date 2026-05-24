@@ -11,6 +11,10 @@ genre:
   - "surf rock"
 tags:
   - '@almighty-defenders'
+last_release: '2009-09-22'
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/72dUHiACms9gnG5WjFKVYN" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

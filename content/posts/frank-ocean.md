@@ -11,6 +11,10 @@ tags:
   - '@paulsimonon'
   - '@frankocean'
   - '@diplo'
+last_release: '2018-02-14'
+track_count: 8
+active: false
+bucket: 'CRYSTALLIZED'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/41cpvQ2GyGb2BRdIRSsTqK" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

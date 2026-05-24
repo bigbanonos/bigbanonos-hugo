@@ -13,6 +13,10 @@ genre:
 explicit: true
 tags:
   - '@hitkidd'
+last_release: '2024-11-08'
+track_count: 4
+active: true
+bucket: 'NEW_LEAK'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/2igK8ndoazKR20aWbHV7hV" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

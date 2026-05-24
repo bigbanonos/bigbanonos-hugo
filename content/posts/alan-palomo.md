@@ -8,6 +8,10 @@ tags:
   - '1-off'
   - '2020s'
   - '@neonindian'
+last_release: ''
+track_count: 1
+active: false
+bucket: 'ARTIFACT'
 ---
 
 Chillwave from 2023.

@@ -11,6 +11,10 @@ genre:
   - "americana"
 tags:
   - '@kurtvile'
+last_release: '2023-11-17'
+track_count: 12
+active: true
+bucket: 'FAUCET'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/7BQVqJwiQCnbE70DlpJoL5" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

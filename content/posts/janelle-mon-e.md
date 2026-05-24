@@ -14,6 +14,10 @@ tags:
   - 'r&b'
   - 'southern hip hop'
   - 'neo soul'
+last_release: ''
+track_count: 8
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## Janelle Monáe

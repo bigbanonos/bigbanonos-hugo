@@ -11,6 +11,10 @@ tags:
   - 'post-punk'
   - 'proto-punk'
   - 'deathrock'
+last_release: ''
+track_count: 7
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## The Gun Club

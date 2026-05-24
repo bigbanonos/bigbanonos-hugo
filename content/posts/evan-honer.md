@@ -7,6 +7,10 @@ letter: "E"
 era: "2020s"
 tags:
   - '@evan-honer'
+last_release: ''
+track_count: 1
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/3hEkAosl2ZuO9FltxY5L1R" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

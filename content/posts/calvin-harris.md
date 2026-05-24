@@ -16,6 +16,10 @@ genre:
 explicit: true
 tags:
   - '@calvin-harris'
+last_release: '2022-05-27'
+track_count: 3
+active: true
+bucket: 'NEW_LEAK'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/7fYRg3CEbk6rNCuzNzMT06" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

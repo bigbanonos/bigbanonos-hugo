@@ -15,6 +15,10 @@ tags:
   - 'electroclash'
   - 'new rave'
   - 'alternative dance'
+last_release: '2006-07-11'
+track_count: 3
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/5QwcaUESJ4qwogr8kCuFoG" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

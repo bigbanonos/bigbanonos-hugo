@@ -11,6 +11,10 @@ genre:
 explicit: true
 tags:
   - '@liz'
+last_release: '2025-10-24'
+track_count: 4
+active: true
+bucket: 'NEW_LEAK'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/5qDnM3B5wxbaq4s5PeKl5L" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

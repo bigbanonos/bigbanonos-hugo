@@ -4,6 +4,10 @@ date: 2000-01-01
 draft: false
 tags: ["playlist", "1off", "y"]
 description: "12 tracks — Y artists, 2000s–2010s"
+last_release: ''
+track_count: 12
+active: false
+bucket: 'ARTIFACT'
 ---
 
 12 tracks.

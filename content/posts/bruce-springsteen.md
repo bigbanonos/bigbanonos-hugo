@@ -31,6 +31,10 @@ tags:
   - 'alt country'
   - 'americana'
   - 'singer-songwriter'
+last_release: '2025-10-24'
+track_count: 34
+active: true
+bucket: 'FAUCET'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/3nyE4s2ueZ03Q2czUMfJ88" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

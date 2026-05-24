@@ -6,6 +6,10 @@ layout: post
 tags:
   - '@the-dresden-dolls'
   - '00s-10s'
+last_release: ''
+track_count: 7
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## The Dresden Dolls

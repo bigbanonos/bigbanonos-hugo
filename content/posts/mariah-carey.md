@@ -28,6 +28,10 @@ tags:
   - 'r&b'
   - 'east coast hip hop'
   - 'old school hip hop'
+last_release: '2025-09-26'
+track_count: 9
+active: true
+bucket: 'STILL_DRIPPING'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/75ganPv831RMYXCwQlWzsN" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

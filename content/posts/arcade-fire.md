@@ -11,6 +11,10 @@ genre:
   - "baroque pop"
 tags:
   - '@arcadefire'
+last_release: '2022-05-06'
+track_count: 17
+active: true
+bucket: 'FAUCET'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/5VHRFAqgPpC14U10Zdfk2r" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

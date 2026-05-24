@@ -13,6 +13,10 @@ tags:
   - '1900s'
   - '2020s'
   - 'punk'
+last_release: ''
+track_count: 21
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/3BlBgTuUlGKFO9EhhnJZhA" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

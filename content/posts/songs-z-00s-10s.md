@@ -4,6 +4,10 @@ date: 2000-01-01
 draft: false
 tags: ["playlist", "1off", "z"]
 description: "4 tracks — Z artists, 2000s–2010s"
+last_release: ''
+track_count: 4
+active: false
+bucket: 'ARTIFACT'
 ---
 
 4 tracks.

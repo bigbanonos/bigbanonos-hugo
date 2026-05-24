@@ -10,6 +10,10 @@ genre:
   - "electroclash"
 tags:
   - '@ninajirachi'
+last_release: ''
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/3OqV1YnTNsKMwphZw46k5M" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

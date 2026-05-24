@@ -10,6 +10,10 @@ genre:
   - "art pop"
 tags:
   - '@fieryfurnaces'
+last_release: '2020-06-18'
+track_count: 16
+active: true
+bucket: 'FAUCET'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/6OIyo9XWuQBRZmAe9bYRsW" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

@@ -19,6 +19,10 @@ tags:
   - '@tydolla$ign'
   - '@wale'
   - '@treysongz'
+last_release: '2020-11-27'
+track_count: 3
+active: true
+bucket: 'NEW_LEAK'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/2fkBMtlBici9IER4jILga2" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

@@ -10,6 +10,10 @@ genre:
   - "americana"
 tags:
   - '@pattersonhood'
+last_release: '2012-11-09'
+track_count: 5
+active: false
+bucket: 'CRYSTALLIZED'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/50PJI85dvnao5cq4hRRgVh" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

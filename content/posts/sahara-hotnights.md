@@ -9,6 +9,10 @@ genre:
   - "swedish pop"
 tags:
   - '@saharahotnights'
+last_release: '2016-01-13'
+track_count: 3
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/6CiPiAtH5L1I1pBIwc9AIb" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

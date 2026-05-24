@@ -8,6 +8,10 @@ tags:
   - '@blxst-tyga-ty-dolla-ign'
   - '2020s'
   - 'trap soul'
+last_release: ''
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## Blxst;Larry June

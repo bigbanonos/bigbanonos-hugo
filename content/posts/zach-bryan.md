@@ -21,6 +21,10 @@ tags:
   - 'red dirt'
   - 'alt country'
   - 'outlaw country'
+last_release: ''
+track_count: 42
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## Zach Bryan

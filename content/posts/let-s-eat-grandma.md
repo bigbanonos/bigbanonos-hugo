@@ -14,6 +14,10 @@ tags:
   - '00s-10s'
   - '2020s'
   - 'art pop'
+last_release: '2023-03-22'
+track_count: 7
+active: true
+bucket: 'STILL_DRIPPING'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/6bbIz8p9iBSkPcytSKTSGt" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

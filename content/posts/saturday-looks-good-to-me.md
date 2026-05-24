@@ -11,6 +11,10 @@ tags:
   - '@saturday-looks-good-to-me'
   - '00s-10s'
   - 'jangle pop'
+last_release: '2013-05-21'
+track_count: 3
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/3WFhaVCewGQfBYihiq8IZP" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

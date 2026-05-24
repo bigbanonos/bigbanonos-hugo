@@ -13,6 +13,10 @@ tags:
   - 'synthpop'
   - 'post-punk'
   - 'darkwave'
+last_release: ''
+track_count: 3
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## Gary Numan / Tubeway Army

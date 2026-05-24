@@ -10,6 +10,10 @@ genre:
   - "indie folk"
 tags:
   - '@okkervilriver'
+last_release: '2021-05-14'
+track_count: 21
+active: true
+bucket: 'FAUCET'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/3hk1lrf4lkc8TDSKvxQSkq" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

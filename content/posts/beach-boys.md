@@ -11,6 +11,10 @@ genre:
   - "baroque pop"
 tags:
   - '@beach-boys'
+last_release: '2021-07-30'
+track_count: 5
+active: true
+bucket: 'STILL_DRIPPING'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/677JzA8k8vufwBHEcjQjhy" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

@@ -11,6 +11,10 @@ genre:
   - "doo-wop"
 tags:
   - '@cadillacs'
+last_release: '2017-11-14'
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/2JMRXhXf5wigwC4d0uHC72" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

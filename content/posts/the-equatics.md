@@ -6,6 +6,10 @@ layout: post
 tags:
   - '@the-equatics'
   - '1900s'
+last_release: ''
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## The Equatics

@@ -11,6 +11,10 @@ tags:
   - 'classic soul'
   - 'soul'
   - 'northern soul'
+last_release: ''
+track_count: 5
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## Gladys Knight & The Pips

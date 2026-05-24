@@ -10,6 +10,10 @@ genre:
   - "art pop"
 tags:
   - '@davidbyrne'
+last_release: '2008-10-06'
+track_count: 1
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/7wXJyWtRktzx7shORVNX5B" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

@@ -9,6 +9,10 @@ genre:
   - "art pop"
 tags:
   - '@okay-kaya'
+last_release: ''
+track_count: 1
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/58llsMQ3PfvaGNZD8WNn2f" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

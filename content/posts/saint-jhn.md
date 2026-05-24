@@ -20,6 +20,10 @@ tags:
   - '@future'
   - '@jbalvin'
   - '@saintjhn'
+last_release: '2024-12-13'
+track_count: 11
+active: true
+bucket: 'FAUCET'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/5WuxCmAJkrjEAiJ8Xx3SAq" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

@@ -17,6 +17,10 @@ tags:
   - 'dream pop'
   - 'slowcore'
   - 'noise rock'
+last_release: '1991-11-04'
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/52UcjsM15hjCQAUbTW2hy1" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

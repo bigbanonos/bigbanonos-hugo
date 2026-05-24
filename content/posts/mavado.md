@@ -13,6 +13,10 @@ tags:
   - 'ragga'
   - 'soca'
   - 'reggae'
+last_release: '2024-05-10'
+track_count: 12
+active: true
+bucket: 'FAUCET'
 ---
 
 ## Mavado

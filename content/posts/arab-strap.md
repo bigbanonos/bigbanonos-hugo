@@ -15,6 +15,10 @@ tags:
   - '1900s'
   - 'slowcore'
   - 'spoken word'
+last_release: '2006-10-23'
+track_count: 3
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/7G6JyHIWFd25QH711wk0V7" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

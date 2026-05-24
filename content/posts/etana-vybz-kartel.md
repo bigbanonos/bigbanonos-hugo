@@ -14,6 +14,10 @@ tags:
   - 'reggae'
   - 'roots reggae'
   - 'riddim'
+last_release: ''
+track_count: 4
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## Etana;Vybz Kartel

@@ -8,6 +8,10 @@ tags:
   - '00s-10s'
   - 'garage rock'
   - 'power pop'
+last_release: ''
+track_count: 5
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## Mikal Cronin

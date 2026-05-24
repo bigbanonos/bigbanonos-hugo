@@ -8,6 +8,10 @@ era:
 tags:
   - '@super-wild-horses'
   - '00s-10s'
+last_release: '2013-04-05'
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/7tWCEfch2kbt1JDfRWVGgo" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

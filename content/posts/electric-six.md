@@ -10,6 +10,10 @@ genre:
 tags:
   - '@electricsix'
   - '@jackwhite'
+last_release: '2012-10-09'
+track_count: 4
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/35tdGOEZGJn8Ob7BCY7CKX" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

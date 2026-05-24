@@ -7,6 +7,10 @@ era:
   - "2000s-2010s"
 tags:
   - '@davidvandervelde'
+last_release: '2010-06-01'
+track_count: 10
+active: false
+bucket: 'THE_VAULT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/5jnejdXHoDCnFTNdrytd91" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

@@ -11,6 +11,10 @@ tags:
   - 'dancehall'
   - 'soca'
   - 'riddim'
+last_release: ''
+track_count: 3
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## Valiant;RK Trap

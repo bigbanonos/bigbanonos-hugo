@@ -9,6 +9,10 @@ tags:
   - '00s-10s'
   - 'celtic'
   - 'traditional folk'
+last_release: ''
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## Pecker Dunne;Margaret Barry

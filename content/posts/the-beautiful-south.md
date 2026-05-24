@@ -7,6 +7,10 @@ tags:
   - '@the-beautiful-south'
   - '1900s'
   - 'britpop'
+last_release: ''
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## The Beautiful South

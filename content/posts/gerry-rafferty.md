@@ -9,6 +9,10 @@ genre:
   - "yacht rock"
 tags:
   - '@gerry-rafferty'
+last_release: ''
+track_count: 1
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/2Xb6wJYGi0QXwURw5WWvI5" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

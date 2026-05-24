@@ -10,6 +10,10 @@ genre:
 explicit: true
 tags:
   - '@slimm-calhoun-dodigatie'
+last_release: ''
+track_count: 1
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/3wcMp93jZwYW1Xv7ZPUB23" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

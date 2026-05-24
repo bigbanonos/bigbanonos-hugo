@@ -10,6 +10,10 @@ genre:
   - "singer-songwriter"
 tags:
   - '@warrenzevon'
+last_release: '2007-05-01'
+track_count: 10
+active: false
+bucket: 'THE_VAULT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/1jeOvXD4YHqbiJSbgXM2yC" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

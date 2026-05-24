@@ -7,6 +7,10 @@ tags:
   - '@agaragar'
   - '1-off'
   - '2020s'
+last_release: ''
+track_count: 1
+active: false
+bucket: 'ARTIFACT'
 ---
 
 French indie pop from 2022.

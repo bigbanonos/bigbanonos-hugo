@@ -12,6 +12,10 @@ genre:
   - "noise rock"
 tags:
   - '@xiu-xiu'
+last_release: '2021-01-27'
+track_count: 2
+active: true
+bucket: 'NEW_LEAK'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/3lD2CoW8ucygwxpsgwdecC" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

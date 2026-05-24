@@ -15,6 +15,10 @@ tags:
   - '00s-10s'
   - '2020s'
   - 'indie r&b'
+last_release: '2023-01-27'
+track_count: 2
+active: true
+bucket: 'NEW_LEAK'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/2K81yLG5kx2uKqT4PZmTXp" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

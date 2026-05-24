@@ -11,6 +11,10 @@ tags:
   - '2020s'
   - 'boogie'
   - 'alternative r&b'
+last_release: ''
+track_count: 3
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## WESTSIDE BOOGIE;DRAM

@@ -8,6 +8,10 @@ tags:
   - '00s-10s'
   - 'southern hip hop'
   - 'egyptian hip hop'
+last_release: ''
+track_count: 6
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## Big Moe

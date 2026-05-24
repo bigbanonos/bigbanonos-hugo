@@ -15,6 +15,10 @@ tags:
   - 'r&b'
   - 'reggaeton'
   - 'trap latino'
+last_release: ''
+track_count: 5
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## Meek Mill;Farruko

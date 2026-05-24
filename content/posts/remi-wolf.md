@@ -9,6 +9,10 @@ explicit: true
 tags:
   - '@remi-wolf'
   - '2020s'
+last_release: '2024-05-10'
+track_count: 9
+active: true
+bucket: 'STILL_DRIPPING'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/62QValXcWLH5RSnZRFeKKl" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

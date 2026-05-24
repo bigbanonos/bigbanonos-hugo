@@ -16,6 +16,10 @@ tags:
   - 'soca'
   - 'afroswing'
   - 'afrobeats'
+last_release: '2020-05-01'
+track_count: 12
+active: true
+bucket: 'FAUCET'
 ---
 
 ## Ricky Blaze

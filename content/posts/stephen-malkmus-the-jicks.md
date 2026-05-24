@@ -7,6 +7,10 @@ tags:
   - '@stephen-malkmus-the-jicks'
   - '@stephen-malkmus-the-jicks'
   - '00s-10s'
+last_release: ''
+track_count: 4
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## Stephen Malkmus & The Jicks

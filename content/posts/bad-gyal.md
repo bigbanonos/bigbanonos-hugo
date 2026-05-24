@@ -5,6 +5,10 @@ date: 2026-03-05
 layout: post
 tags:
   - '@bad-gyal'
+last_release: ''
+track_count: 1
+active: false
+bucket: 'ARTIFACT'
 ---
 
 **De Por Vida** — *Más Cara* (2026)

@@ -19,6 +19,10 @@ tags:
   - 'synthpop'
   - 'art pop'
   - 'art rock'
+last_release: '2006-02-06'
+track_count: 5
+active: false
+bucket: 'CRYSTALLIZED'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/3neuYRDSD4iaf6mah7SOT8" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

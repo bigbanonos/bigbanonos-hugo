@@ -6,6 +6,10 @@ layout: post
 tags:
   - '@callahanwitscher'
   - '@fgs'
+last_release: ''
+track_count: 3
+active: false
+bucket: 'ARTIFACT'
 ---
 
 Post Present Medium plunderphonics — sample-based but never cheap about it.

@@ -17,6 +17,10 @@ tags:
   - 'madchester'
   - 'jangle pop'
   - 'new wave'
+last_release: '1995-02-17'
+track_count: 3
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/43sFC2c3ssdwVwTp3DXPhD" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

@@ -9,6 +9,10 @@ tags:
   - '@the-creator'
   - '00s-10s'
   - '2020s'
+last_release: ''
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## La Roux;Tyler

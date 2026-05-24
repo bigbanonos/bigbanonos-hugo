@@ -8,6 +8,10 @@ tags:
   - '1900s'
   - 'philly soul'
   - 'classic soul'
+last_release: ''
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## The Continental IV

@@ -8,6 +8,10 @@ era:
 tags:
   - '@neil-michael-hagerty'
   - '00s-10s'
+last_release: '2003-04-15'
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/5qXjto4iHvLkpoH6ZXI6iN" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

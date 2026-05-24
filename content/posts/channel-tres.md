@@ -12,6 +12,10 @@ tags:
   - '@channel-tres'
   - '00s-10s'
   - 'hip house'
+last_release: '2019-06-06'
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/2yh2Eilc5xK2WCwmd3g89I" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

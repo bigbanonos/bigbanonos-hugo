@@ -13,6 +13,10 @@ tags:
   - 'chanson'
   - 'variété française'
   - 'french jazz'
+last_release: ''
+track_count: 8
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## Édith Piaf

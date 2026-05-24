@@ -7,6 +7,10 @@ letter: "J"
 era: "1900s"
 tags:
   - '@james-brown-the-famous-flames'
+last_release: ''
+track_count: 3
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/1g65A2AL9FOku870z0I0zw" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

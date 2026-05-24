@@ -8,6 +8,10 @@ tags:
   - '@jessylanza'
   - '@yaeji'
   - '@club'
+last_release: ''
+track_count: 1
+active: false
+bucket: 'ARTIFACT'
 ---
 
 Toronto DJ and producer. Mirror with Jessy Lanza and Yaeji is exactly what it sounds like — three of the best doing what they do.

@@ -10,6 +10,10 @@ genre:
   - "garage rock"
 tags:
   - '@jackwhite'
+last_release: '2016-09-09'
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/7b7VP81f4qbQ11MIDjaB8Y" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

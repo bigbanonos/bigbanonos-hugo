@@ -2,7 +2,6 @@
 title: "# · 1off-1980s 1-offs"
 date: 2025-01-01
 category: "1off"
-track_count: 2
 letter: "#"
 era: "1off-1980s"
 stub: true
@@ -10,6 +9,10 @@ tags:
   - 'letter-#'
   - '1off'
   - '1off-1980s'
+last_release: ''
+track_count: 0
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## # · 1off-1980s 1-offs

@@ -17,6 +17,10 @@ tags:
   - 'r&b'
   - 'hip hop'
   - 'west coast hip hop'
+last_release: ''
+track_count: 7
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## Clipse;Ab Liva

@@ -9,6 +9,10 @@ era:
 explicit: true
 tags:
   - '@antlers'
+last_release: '2009-06-23'
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/436553ROl3wNN13rZobMiL" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

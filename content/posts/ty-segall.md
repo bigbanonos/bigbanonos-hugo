@@ -22,6 +22,10 @@ tags:
   - 'neo-psychedelic'
   - 'psychedelic rock'
   - 'power pop'
+last_release: '2022-06-28'
+track_count: 11
+active: true
+bucket: 'FAUCET'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/4tGa76ritYiYbOqV8vElLh" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

@@ -11,6 +11,10 @@ tags:
   - 'dancehall'
   - 'reggae'
   - 'roots reggae'
+last_release: '2018-06-29'
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## Zagga

@@ -12,6 +12,10 @@ genre:
   - "celtic"
 tags:
   - '@alasdair-roberts'
+last_release: ''
+track_count: 1
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/0j3IL4lgV5MViduE4E0ZV8" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

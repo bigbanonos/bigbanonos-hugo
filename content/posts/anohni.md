@@ -12,6 +12,10 @@ genre:
   - "baroque pop"
 tags:
   - '@anohni'
+last_release: '2023-07-06'
+track_count: 9
+active: true
+bucket: 'STILL_DRIPPING'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/06V3vSuSDfDlZkBHVUshqV" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

@@ -10,6 +10,10 @@ tags:
   - '00s-10s'
   - 'medieval'
   - 'exotica'
+last_release: ''
+track_count: 5
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## Douglas Wood

@@ -12,6 +12,10 @@ genre:
 explicit: true
 tags:
   - '@doe-boy'
+last_release: '2023-06-09'
+track_count: 3
+active: true
+bucket: 'NEW_LEAK'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/5rsrhsjhiJsaorDqkR9AD1" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

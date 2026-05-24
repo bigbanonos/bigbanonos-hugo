@@ -11,6 +11,10 @@ tags:
   - '@kurt-cobain'
   - '00s-10s'
   - 'grunge'
+last_release: '2015-11-13'
+track_count: 3
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/5cH8EVxJ8skgWRDXo3G5Cv" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

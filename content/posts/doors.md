@@ -12,6 +12,10 @@ genre:
   - "acid rock"
 tags:
   - '@doors'
+last_release: '1971-04-19'
+track_count: 21
+active: false
+bucket: 'THE_VAULT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/14XWXWv5FoCbFzLksawpEe" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

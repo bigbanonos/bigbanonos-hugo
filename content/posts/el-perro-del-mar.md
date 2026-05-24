@@ -9,6 +9,10 @@ genre:
   - "swedish pop"
 tags:
   - '@elperrodelmar'
+last_release: '2015-02-13'
+track_count: 12
+active: false
+bucket: 'THE_VAULT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/7bGb0cpSJTc4bFLRx9jO0d" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

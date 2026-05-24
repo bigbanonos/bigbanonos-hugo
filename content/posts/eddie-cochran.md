@@ -15,6 +15,10 @@ tags:
   - 'rockabilly'
   - 'rock and roll'
   - 'doo-wop'
+last_release: '1960-05-01'
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/7ItZM6DMZE2m1X7yIaRxjq" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

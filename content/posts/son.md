@@ -9,6 +9,10 @@ tags:
   - '@ambulance-bright-eyes'
   - '00s-10s'
   - 'indie folk'
+last_release: ''
+track_count: 5
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## Son

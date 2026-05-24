@@ -18,6 +18,10 @@ tags:
   - 'classic blues'
   - 'country blues'
   - 'traditional folk'
+last_release: '1994-09-20'
+track_count: 3
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/4ccW0n1s1ByBG88ZwxOPf1" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

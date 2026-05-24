@@ -10,6 +10,10 @@ genre:
   - "new wave"
 tags:
   - '@squeeze'
+last_release: '1989-10-31'
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/4rFq47OSkwikpxDqncu1yC" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

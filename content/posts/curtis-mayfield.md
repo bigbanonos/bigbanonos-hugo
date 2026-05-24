@@ -12,6 +12,10 @@ genre:
   - "funk"
 tags:
   - '@curtismayfield'
+last_release: '1980-01-01'
+track_count: 7
+active: false
+bucket: 'CRYSTALLIZED'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/0mIpT5VijWPv4b9s0K76qA" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

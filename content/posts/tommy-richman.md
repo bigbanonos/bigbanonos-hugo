@@ -9,6 +9,10 @@ explicit: true
 tags:
   - '@tommy-richman'
   - '2020s'
+last_release: '2024-06-14'
+track_count: 3
+active: true
+bucket: 'NEW_LEAK'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/6jlG8gBPNAgBgoivw2Ig09" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

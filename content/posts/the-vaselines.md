@@ -7,6 +7,10 @@ tags:
   - '@the-vaselines'
   - '00s-10s'
   - 'jangle pop'
+last_release: ''
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## The Vaselines

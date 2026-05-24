@@ -9,6 +9,10 @@ tags:
   - '1900s'
   - 'motown'
   - 'christmas'
+last_release: ''
+track_count: 3
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## The Jackson 5

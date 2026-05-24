@@ -16,6 +16,10 @@ tags:
   - '2020s'
   - 'uk r&b'
   - 'alternative r&b'
+last_release: '2025-05-30'
+track_count: 3
+active: true
+bucket: 'NEW_LEAK'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/3plqhYuTPtqtdYNkW419pp" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

@@ -5,6 +5,10 @@ date: 2025-09-04
 layout: post
 tags:
   - '@2charm'
+last_release: ''
+track_count: 1
+active: false
+bucket: 'ARTIFACT'
 ---
 
 **boyfriend** — *boyfriend* (2025)

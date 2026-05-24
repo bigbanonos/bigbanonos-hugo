@@ -2,7 +2,6 @@
 title: "K · Pre-2000 1-offs"
 date: 2016-01-08
 category: "1off"
-track_count: 5
 letter: "K"
 era: "1900s"
 stub: true
@@ -10,6 +9,10 @@ tags:
   - 'letter-k'
   - '1off'
   - '1900s'
+last_release: ''
+track_count: 5
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## K · Pre-2000 1-offs

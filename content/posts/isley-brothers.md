@@ -16,6 +16,10 @@ genre:
   - "funk"
 tags:
   - '@isley-brothers'
+last_release: '2021-04-05'
+track_count: 6
+active: true
+bucket: 'STILL_DRIPPING'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/1WR8eDyLw7uW5KDv7Sr50h" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

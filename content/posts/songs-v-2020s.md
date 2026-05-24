@@ -4,6 +4,10 @@ date: 2020-01-01
 draft: false
 tags: ["playlist", "1off", "v"]
 description: "5 tracks — V artists, 2020s"
+last_release: ''
+track_count: 5
+active: false
+bucket: 'ARTIFACT'
 ---
 
 5 tracks.

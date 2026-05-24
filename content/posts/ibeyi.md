@@ -7,6 +7,10 @@ era:
   - "2020s"
 tags:
   - '@ibeyi'
+last_release: '2022-05-06'
+track_count: 2
+active: true
+bucket: 'NEW_LEAK'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/729WnoXA7mkkO2prQoXSvI" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

@@ -15,6 +15,10 @@ tags:
   - 'dream pop'
   - 'shoegaze'
   - 'slowcore'
+last_release: '1996-10-29'
+track_count: 3
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/0G6Ws8Gbdt0S7pZeuYmkmm" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

@@ -13,6 +13,10 @@ tags:
   - '@shootergang-kony-daboii-nef-the-pharaoh-mike-sherm'
   - '00s-10s'
   - 'hyphy'
+last_release: '2019-07-17'
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/0jCoEewOuCi0ZS3Q1fPz86" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

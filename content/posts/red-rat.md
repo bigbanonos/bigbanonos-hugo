@@ -9,6 +9,10 @@ tags:
   - 'dancehall'
   - 'ragga'
   - 'reggae'
+last_release: '2008-04-21'
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## Red Rat

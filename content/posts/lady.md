@@ -13,6 +13,10 @@ tags:
   - '00s-10s'
   - 'krautrock'
   - 'progressive rock'
+last_release: '2014-05-01'
+track_count: 4
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/1FJTMyBSkf6FfDI7igxGSo" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

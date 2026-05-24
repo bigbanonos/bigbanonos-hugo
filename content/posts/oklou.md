@@ -14,6 +14,10 @@ tags:
   - '@agcook'
   - '@oklou'
   - '@bladee'
+last_release: '2025-02-05'
+track_count: 8
+active: true
+bucket: 'STILL_DRIPPING'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/7ypm9ZGrUXGmSXgmpAd2hZ" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

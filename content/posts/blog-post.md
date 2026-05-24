@@ -5,6 +5,10 @@ date: 2024-12-20
 layout: post
 tags:
   - '@courtneybarnett'
+last_release: ''
+track_count: 0
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <h2>Courtney Barnett – Essential Tracks</h2> <div > <img src="https://maton.com.au/wp-content/uploads/2024/05/CourtneyBarnett-Maton-Guitars.png" alt="Courtney Barnett" width="500" />

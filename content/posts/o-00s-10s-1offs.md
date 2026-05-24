@@ -2,7 +2,6 @@
 title: "O · 2000s–2010s 1-offs"
 date: 2025-01-01
 category: "1off"
-track_count: 19
 letter: "O"
 era: "00s-10s"
 stub: true
@@ -10,6 +9,10 @@ tags:
   - 'letter-o'
   - '1off'
   - '00s-10s'
+last_release: ''
+track_count: 0
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## O · 2000s–2010s 1-offs

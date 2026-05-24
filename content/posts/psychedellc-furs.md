@@ -11,6 +11,10 @@ genre:
   - "post-punk"
 tags:
   - '@psychedellc-furs'
+last_release: '1988-01-01'
+track_count: 6
+active: false
+bucket: 'CRYSTALLIZED'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/5bHktj4UtEORf7uNWTtxnA" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

@@ -8,6 +8,10 @@ tags:
   - '2020s'
   - 'pop punk'
   - 'queercore'
+last_release: ''
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## Meet Me @ The Altar

@@ -13,6 +13,10 @@ tags:
   - '@teezotouchdown'
   - '@janellemonae'
   - '@isaiahrusk'
+last_release: '2024-01-10'
+track_count: 15
+active: true
+bucket: 'FAUCET'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/35AVujsErg1f4OoqPwDPzJ" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

@@ -12,6 +12,10 @@ tags:
   - '@justin-bieber-sexyy-red'
   - '00s-10s'
   - '2020s'
+last_release: '2025-09-05'
+track_count: 6
+active: true
+bucket: 'STILL_DRIPPING'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/4YmS7BALpAU0h4EAF4fYuh" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

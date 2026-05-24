@@ -13,6 +13,10 @@ tags:
   - '00s-10s'
   - 'indie pop'
   - 'jangle pop'
+last_release: '2009-04-21'
+track_count: 3
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/7Mb0qE443GpOcgkmgS4lP1" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

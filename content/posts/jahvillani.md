@@ -11,6 +11,10 @@ tags:
   - 'soca'
   - 'riddim'
   - 'ragga'
+last_release: '2019-06-28'
+track_count: 3
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## Jahvillani

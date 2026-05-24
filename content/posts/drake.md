@@ -19,6 +19,10 @@ tags:
   - '@kyla'
   - '@eminem'
   - '@wizkid'
+last_release: '2023-10-06'
+track_count: 6
+active: true
+bucket: 'STILL_DRIPPING'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/3IHt4j5uAEl7iBu8Utn985" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

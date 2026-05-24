@@ -8,6 +8,10 @@ tags:
   - '@chroniclaw'
   - '@zjliquid'
   - '@blakkman'
+last_release: ''
+track_count: 0
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <h3><em>BigBanonos</em> Favorite Songs by Dexta Daps:</h3> <p>Updated on September 30, 2021, with the track "War Season" featuring Chronic Law and Blakk Man. BigBanonos favorite songs by Dexta Daps highlight his dancehall and riddim influence, bringing infectious beats and authentic vibes.</p> <!--Image-->

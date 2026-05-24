@@ -5,6 +5,10 @@ date: 2025-08-30
 layout: post
 tags:
   - '@jamesk'
+last_release: ''
+track_count: 0
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <h1>BigBanonos Favorite Track by james K</h1> <img src="https://townsquare.media/site/833/files/2025/06/attachment-james-k-play-vid.jpg" alt="james K - Play" /> <p>BigBanonos highlights <strong>"Play"</strong>, the hallucinatory new single from james Ks upcoming album <em>Friend</em>, out via AD 93. With its shimmering breakbeat textures and dreamlike vocal delivery, "Play" captures james Ks uncanny ability to merge ambient pop with deconstructed club energy.</p> <p><em>Last updated July 24, 2025 with "Play," the lead single from <em>Doom Bikini</em>.</em></p> <!-- YouTube Embed -->

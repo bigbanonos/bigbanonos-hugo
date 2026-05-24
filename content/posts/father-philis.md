@@ -15,6 +15,10 @@ genre:
 explicit: true
 tags:
   - '@father-philis'
+last_release: '2026-01-16'
+track_count: 4
+active: true
+bucket: 'NEW_LEAK'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/2wmtJIQ7upklT9yPqT5c2Q" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

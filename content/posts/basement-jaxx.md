@@ -12,6 +12,10 @@ tags:
   - '@basement-jaxx-phoebe'
   - '00s-10s'
   - 'big beat'
+last_release: '2006-09-04'
+track_count: 7
+active: false
+bucket: 'CRYSTALLIZED'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/54PfFfe1TqscAv5FQ49xsk" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

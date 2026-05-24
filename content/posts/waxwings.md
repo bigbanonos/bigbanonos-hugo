@@ -5,6 +5,10 @@ date: 2025-02-24
 layout: post
 tags:
   - '@waxwings'
+last_release: ''
+track_count: 0
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <h2>The Waxwings – "Fragile Girl"</h2> {{< img-lite src="https://m.media-amazon.com/images/I/815HNiA75YL._UF1000,1000_QL80_.jpg" alt="The Waxwings - Low to the Ground album cover" width="500" >}} {{< youtube "MigN4c8SNuU" >}} <p><strong>Album:</strong> <em>Low to the Ground</em></p>

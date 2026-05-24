@@ -9,6 +9,10 @@ tags:
   - 'dancehall'
   - 'afrobeats'
   - 'afrobeat'
+last_release: '2025-11-07'
+track_count: 2
+active: true
+bucket: 'NEW_LEAK'
 ---
 
 ## Byron Messia

@@ -10,6 +10,10 @@ genre:
 tags:
   - '@matthewherbert'
   - '@herbert'
+last_release: '2006-05-30'
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/1q0uMAsXYrzCZxqykkM6YF" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

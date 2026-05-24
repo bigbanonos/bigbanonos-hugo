@@ -21,6 +21,10 @@ tags:
   - 'southern hip hop'
   - 'rap'
   - 'trap'
+last_release: '2022-06-17'
+track_count: 5
+active: true
+bucket: 'STILL_DRIPPING'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/605q55PSYbR26lHjamODIz" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

@@ -10,6 +10,10 @@ genre:
   - "disco"
 tags:
   - '@emotions'
+last_release: '1977-06-10'
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/2M2WJ7gBlcKNxdhyfPp9zY" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

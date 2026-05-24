@@ -15,6 +15,10 @@ tags:
   - '@lana-del-rey-father-john-misty'
   - '00s-10s'
   - '2020s'
+last_release: '2023-05-19'
+track_count: 34
+active: true
+bucket: 'FAUCET'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/6GGtHZgBycCgGBUhZo81xe" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

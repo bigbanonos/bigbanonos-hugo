@@ -16,6 +16,10 @@ genre:
 explicit: true
 tags:
   - '@chance-the-rapper'
+last_release: '2020-12-11'
+track_count: 17
+active: true
+bucket: 'FAUCET'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/5kUTc50lWq3oWHFkL51TnD" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

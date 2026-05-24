@@ -20,6 +20,10 @@ tags:
   - 'baroque pop'
   - 'acid rock'
   - 'proto-punk'
+last_release: '2015-09-11'
+track_count: 7
+active: false
+bucket: 'CRYSTALLIZED'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/1YArGkkXqAoqHLzmEMCAE1" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

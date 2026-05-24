@@ -10,6 +10,10 @@ genre:
   - "christmas"
 tags:
   - '@yokoono'
+last_release: '2022-08-24'
+track_count: 4
+active: true
+bucket: 'NEW_LEAK'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/5W3EUo8Exi8WlAoSjuOeZ6" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

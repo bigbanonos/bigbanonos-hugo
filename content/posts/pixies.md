@@ -10,6 +10,10 @@ genre:
 explicit: true
 tags:
   - '@pixies'
+last_release: '1990-08-13'
+track_count: 9
+active: false
+bucket: 'CRYSTALLIZED'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/5D8KT8TgOdp28WW43868s9" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

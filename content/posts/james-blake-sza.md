@@ -8,6 +8,10 @@ tags:
   - '@james-blake'
   - '2020s'
   - 'r&b'
+last_release: ''
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## James Blake;SZA

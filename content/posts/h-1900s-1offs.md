@@ -2,7 +2,6 @@
 title: "H · Pre-2000 1-offs"
 date: 2016-06-17
 category: "1off"
-track_count: 13
 letter: "H"
 era: "1900s"
 stub: true
@@ -10,6 +9,10 @@ tags:
   - 'letter-h'
   - '1off'
   - '1900s'
+last_release: ''
+track_count: 13
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## H · Pre-2000 1-offs

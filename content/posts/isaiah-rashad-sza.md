@@ -11,6 +11,10 @@ tags:
   - '00s-10s'
   - '2020s'
   - 'r&b'
+last_release: ''
+track_count: 4
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## Isaiah Rashad;SZA

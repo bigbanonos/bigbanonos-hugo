@@ -11,6 +11,10 @@ genre:
   - "riot grrrl"
 tags:
   - '@donnas'
+last_release: '2020-01-06'
+track_count: 2
+active: true
+bucket: 'NEW_LEAK'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/1oMFLzAtT1yNtvRpkCRIcF" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

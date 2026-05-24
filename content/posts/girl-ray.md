@@ -8,6 +8,10 @@ era:
 explicit: true
 tags:
   - '@girlray'
+last_release: '2023-08-04'
+track_count: 4
+active: true
+bucket: 'NEW_LEAK'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/7MCaMjjCH3TulSw4hIG3xx" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

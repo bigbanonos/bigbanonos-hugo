@@ -11,6 +11,10 @@ tags:
   - '@jess-williamson'
   - '2020s'
   - 'southern gothic'
+last_release: '2023-06-09'
+track_count: 13
+active: true
+bucket: 'FAUCET'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/4yerciq7Nvq0DDDjMrmUqZ" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

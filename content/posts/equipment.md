@@ -10,6 +10,10 @@ genre:
 explicit: true
 tags:
   - '@equipment'
+last_release: '2025-06-10'
+track_count: 3
+active: true
+bucket: 'NEW_LEAK'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/0oyIQwGA643nX5gM934FtV" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

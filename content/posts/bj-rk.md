@@ -12,6 +12,10 @@ tags:
   - 'art pop'
   - 'trip hop'
   - 'footwork'
+last_release: ''
+track_count: 7
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## Björk

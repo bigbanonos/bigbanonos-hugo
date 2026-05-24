@@ -8,6 +8,10 @@ tags:
   - '@francis-and-the-lights-bon-iver-kanye-west'
   - '00s-10s'
   - 'rap'
+last_release: ''
+track_count: 3
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## Francis and the Lights

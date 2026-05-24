@@ -9,6 +9,10 @@ tags:
   - '2020s'
   - 'celtic'
   - 'folk'
+last_release: ''
+track_count: 3
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## Daoirí Farrell

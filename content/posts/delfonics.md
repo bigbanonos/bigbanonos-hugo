@@ -13,6 +13,10 @@ genre:
   - "motown"
 tags:
   - '@delfonics'
+last_release: '2013-11-19'
+track_count: 3
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/1NMipRRphWb14a6fpyqQJh" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

@@ -12,6 +12,10 @@ genre:
 tags:
   - '@farruko'
   - '@chimbala'
+last_release: '2019-05-03'
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/4D3RlFtxWG1vcgddoovAsN" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

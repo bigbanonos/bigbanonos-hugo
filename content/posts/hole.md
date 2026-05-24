@@ -15,6 +15,10 @@ tags:
   - '1900s'
   - 'riot grrrl'
   - 'grunge'
+last_release: '2010-01-01'
+track_count: 6
+active: false
+bucket: 'CRYSTALLIZED'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/4J3uZ8sSW3qAByp5P4fMtL" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

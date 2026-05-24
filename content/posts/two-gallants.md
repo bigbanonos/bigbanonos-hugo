@@ -17,6 +17,10 @@ tags:
   - 'new wave'
   - 'post-punk'
   - 'folk punk'
+last_release: ''
+track_count: 6
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## Two Gallants

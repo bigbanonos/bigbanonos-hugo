@@ -9,6 +9,10 @@ tags:
   - '00s-10s'
   - '2020s'
   - 'bedroom pop'
+last_release: ''
+track_count: 4
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## Japan

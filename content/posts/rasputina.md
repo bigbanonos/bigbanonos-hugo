@@ -10,6 +10,10 @@ tags:
   - '@rasputina'
   - '00s-10s'
   - '1900s'
+last_release: '2010-06-15'
+track_count: 13
+active: false
+bucket: 'THE_VAULT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/1PkWbS8BlNKVdCYb571fy2" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

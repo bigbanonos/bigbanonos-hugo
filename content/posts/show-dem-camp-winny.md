@@ -8,6 +8,10 @@ tags:
   - '@winny'
   - '@alte'
   - '@afrobeats'
+last_release: ''
+track_count: 1
+active: false
+bucket: 'ARTIFACT'
 ---
 
 Nigerian alté from Show Dem Camp and Winny. Pele is the standout but Lego (solo Winny) is worth your time too.

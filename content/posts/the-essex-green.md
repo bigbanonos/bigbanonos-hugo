@@ -9,6 +9,10 @@ tags:
   - '1900s'
   - 'neo-psychedelic'
   - 'jangle pop'
+last_release: ''
+track_count: 3
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## The Essex Green

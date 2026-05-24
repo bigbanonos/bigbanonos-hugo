@@ -12,6 +12,10 @@ tags:
   - 'dancehall'
   - 'soca'
   - 'trap latino'
+last_release: '2026-01-12'
+track_count: 6
+active: true
+bucket: 'STILL_DRIPPING'
 ---
 
 ## RajahWild

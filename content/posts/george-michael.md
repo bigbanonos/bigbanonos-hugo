@@ -8,6 +8,10 @@ era:
 tags:
   - '@george-michael'
   - '1900s'
+last_release: '1998-11-09'
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/1SKApv6ZfJ9bkUxeRObJEF" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

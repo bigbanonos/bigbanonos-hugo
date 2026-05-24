@@ -29,6 +29,10 @@ tags:
   - 'rap'
   - 'hip hop'
   - 'east coast hip hop'
+last_release: '2020-06-19'
+track_count: 12
+active: true
+bucket: 'FAUCET'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/4JoapqwIRFlUgX0lCpoHFz" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

@@ -7,6 +7,10 @@ era:
   - "2020s"
 tags:
   - '@japanesebreakfast'
+last_release: '2025-06-10'
+track_count: 4
+active: true
+bucket: 'NEW_LEAK'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/6P0bG1wDbLvs8kNJV4hQUt" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

@@ -8,6 +8,10 @@ era:
 tags:
   - '@metric'
   - '00s-10s'
+last_release: '2012-01-01'
+track_count: 10
+active: false
+bucket: 'THE_VAULT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/5yaEx1flpZmNBiPyAT8iUx" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

@@ -5,6 +5,10 @@ date: 2016-02-14
 layout: post
 tags:
   - '@firefoxak'
+last_release: ''
+track_count: 0
+active: false
+bucket: 'ARTIFACT'
 ---
 
 #highlights <br />

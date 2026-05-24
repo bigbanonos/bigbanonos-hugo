@@ -15,6 +15,10 @@ tags:
   - 'post-disco'
   - 'funk'
   - 'quiet storm'
+last_release: '1990-07-03'
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/0VZaYVM92VL8dDakvdsS9E" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

@@ -11,6 +11,10 @@ genre:
   - "polka"
 tags:
   - '@weird-al'
+last_release: '1996-12-31'
+track_count: 4
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/5r96TaQquRrlo3Ym3ZlSL2" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

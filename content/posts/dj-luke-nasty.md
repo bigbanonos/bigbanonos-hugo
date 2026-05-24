@@ -11,6 +11,10 @@ genre:
 explicit: true
 tags:
   - '@dj-luke-nasty'
+last_release: ''
+track_count: 1
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/3j9sErH7aUj76xn8zR6iDm" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

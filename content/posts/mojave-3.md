@@ -11,6 +11,10 @@ genre:
   - "shoegaze"
 tags:
   - '@mojave-3'
+last_release: ''
+track_count: 1
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/2pxfkx3SK6Ery7HW3bZO0R" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

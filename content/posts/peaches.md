@@ -12,6 +12,10 @@ genre:
 explicit: true
 tags:
   - '@peaches'
+last_release: '2009-05-04'
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/6pto8FikNFlHPFjLaPdyjK" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

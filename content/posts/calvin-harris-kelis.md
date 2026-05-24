@@ -13,6 +13,10 @@ tags:
   - 'trap'
   - 'pop'
   - 'rap'
+last_release: ''
+track_count: 3
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## Calvin Harris;Kelis

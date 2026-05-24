@@ -8,6 +8,10 @@ tags:
   - '00s-10s'
   - '1900s'
   - 'celtic rock'
+last_release: ''
+track_count: 3
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## The Proclaimers

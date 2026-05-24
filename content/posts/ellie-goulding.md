@@ -15,6 +15,10 @@ tags:
   - '@djsnakehips'
   - '@swaelee'
   - '@elliegoulding'
+last_release: '2019-09-25'
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/3Cy2S8iTt15eUf3i0LQneT" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

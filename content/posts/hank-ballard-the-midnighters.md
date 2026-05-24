@@ -13,6 +13,10 @@ tags:
   - '00s-10s'
   - '1900s'
   - 'doo-wop'
+last_release: '2017-05-28'
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/5Y0RV49jejdV8ScpRfqUM5" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

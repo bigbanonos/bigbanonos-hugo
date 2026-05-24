@@ -17,6 +17,10 @@ tags:
   - 'power pop'
   - 'jangle pop'
   - 'baroque pop'
+last_release: '2013-06-25'
+track_count: 5
+active: false
+bucket: 'CRYSTALLIZED'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/3OTCjn7xGq930U0jiBJX53" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

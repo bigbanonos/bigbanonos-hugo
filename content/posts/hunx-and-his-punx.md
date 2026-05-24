@@ -9,6 +9,10 @@ tags:
   - 'queercore'
   - 'garage rock'
   - 'riot grrrl'
+last_release: ''
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## Hunx and His Punx

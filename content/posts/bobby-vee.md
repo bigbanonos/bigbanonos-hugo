@@ -10,6 +10,10 @@ genre:
   - "rock and roll"
 tags:
   - '@bobby-vee'
+last_release: ''
+track_count: 1
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/2XhqxaR7CiWTUw1ldSMCCb" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

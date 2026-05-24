@@ -4,6 +4,10 @@ date: 2020-01-01
 draft: false
 tags: ["playlist", "1off", "y"]
 description: "10 tracks — Y artists, 2020s"
+last_release: ''
+track_count: 10
+active: false
+bucket: 'ARTIFACT'
 ---
 
 10 tracks.

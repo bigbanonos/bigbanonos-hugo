@@ -7,6 +7,10 @@ letter: "K"
 era: "2000s-2010s"
 tags:
   - '@kiah-victoria'
+last_release: ''
+track_count: 1
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/7lSQoDWUuEChmYpFe0hgoo" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

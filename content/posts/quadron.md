@@ -8,6 +8,10 @@ era:
 tags:
   - '@quadron'
   - '00s-10s'
+last_release: '2013-05-31'
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/7bOmZRXsxAJcEzs989RWCt" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

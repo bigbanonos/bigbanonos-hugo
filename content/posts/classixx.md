@@ -16,6 +16,10 @@ tags:
   - 'nu disco'
   - 'indie dance'
   - 'finnish hip hop'
+last_release: '2013-05-14'
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/5BzZtDfhntg4FDj2UUYrX1" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

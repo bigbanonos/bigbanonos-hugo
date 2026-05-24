@@ -13,6 +13,10 @@ tags:
   - '@taylor-swift-lp-giobbi'
   - '2020s'
   - 'house'
+last_release: '2023-10-19'
+track_count: 3
+active: true
+bucket: 'NEW_LEAK'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/0ISHfeb30gj4CSWUZYuesj" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

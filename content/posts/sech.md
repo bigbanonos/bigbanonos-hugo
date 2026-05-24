@@ -12,6 +12,10 @@ genre:
 explicit: true
 tags:
   - '@sech'
+last_release: ''
+track_count: 1
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/27RSJHEA99Y0Vsow7nA37A" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

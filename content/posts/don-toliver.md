@@ -15,6 +15,10 @@ tags:
   - '@don-toliver-travis-scott'
   - '2020s'
   - 'rap'
+last_release: '2026-01-30'
+track_count: 6
+active: true
+bucket: 'STILL_DRIPPING'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/4FUQtedaG22FWZ6lGyRApm" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

@@ -5,6 +5,10 @@ date: 2026-03-13
 layout: post
 tags:
   - '@davidallancoe'
+last_release: ''
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 The outlaw who meant it. Two certified classics — one about being drunk, one about being a longhaired redneck.

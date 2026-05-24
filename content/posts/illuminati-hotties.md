@@ -9,6 +9,10 @@ genre:
   - "riot grrrl"
 tags:
   - '@illuminati-hotties'
+last_release: ''
+track_count: 1
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/7p7VCAr8VI5R901BMeahSZ" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

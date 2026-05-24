@@ -13,6 +13,10 @@ tags:
   - '00s-10s'
   - '2020s'
   - 'power pop'
+last_release: '2024-03-01'
+track_count: 10
+active: true
+bucket: 'FAUCET'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/0axwY3l0U76S5f4IjIkCTx" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

@@ -6,6 +6,10 @@ layout: post
 tags:
   - '@smog'
   - '@billcallahan'
+last_release: ''
+track_count: 0
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <h1>BigBanonos Favorite Songs by Bill Callahan / (smog)</h1>

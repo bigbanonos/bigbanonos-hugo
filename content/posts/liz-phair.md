@@ -8,6 +8,10 @@ era:
 explicit: true
 tags:
   - '@lizphair'
+last_release: '1994-01-01'
+track_count: 5
+active: false
+bucket: 'CRYSTALLIZED'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/0T87EE3AJwuDv5yG3TR3nt" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

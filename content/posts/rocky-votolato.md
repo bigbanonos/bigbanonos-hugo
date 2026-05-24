@@ -11,6 +11,10 @@ tags:
   - '@rocky-votolato'
   - '00s-10s'
   - 'alt country'
+last_release: '2015-04-21'
+track_count: 3
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/5WOMXTsCaY86k6RZgfS86Z" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

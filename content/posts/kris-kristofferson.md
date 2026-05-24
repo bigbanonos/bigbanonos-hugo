@@ -15,6 +15,10 @@ tags:
   - 'outlaw country'
   - 'classic country'
   - 'country'
+last_release: '1972-02-15'
+track_count: 5
+active: false
+bucket: 'CRYSTALLIZED'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/38QlfcOrXgzpdqaUk7guD1" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

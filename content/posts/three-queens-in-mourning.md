@@ -10,6 +10,10 @@ genre:
   - "alt country"
 tags:
   - '@threequeensinmourning'
+last_release: '2020-08-09'
+track_count: 2
+active: true
+bucket: 'NEW_LEAK'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/1a4MsIpQmDzSMQuld7dTaA" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

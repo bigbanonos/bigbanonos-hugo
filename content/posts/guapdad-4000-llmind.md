@@ -10,6 +10,10 @@ tags:
   - '00s-10s'
   - '2020s'
   - 'sexy drill'
+last_release: ''
+track_count: 3
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## Guapdad 4000;!llmind

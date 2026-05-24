@@ -15,6 +15,10 @@ genre:
 explicit: true
 tags:
   - '@young-thug'
+last_release: '2021-10-15'
+track_count: 4
+active: true
+bucket: 'NEW_LEAK'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/3hluYfU25k6suH9WpaRsFm" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

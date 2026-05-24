@@ -13,6 +13,10 @@ genre:
   - "proto-punk"
 tags:
   - '@fall'
+last_release: ''
+track_count: 1
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/3kMTqc2WNl8ufebsOU2RCb" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

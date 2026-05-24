@@ -10,6 +10,10 @@ genre:
 explicit: true
 tags:
   - '@doris'
+last_release: '2024-07-06'
+track_count: 10
+active: true
+bucket: 'FAUCET'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/3T2h7Sy2PNnQh91u18S4MH" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

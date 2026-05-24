@@ -6,6 +6,10 @@ layout: post
 tags:
   - '@mplobeats'
   - '@sundayservicechoir'
+last_release: ''
+track_count: 1
+active: false
+bucket: 'ARTIFACT'
 ---
 
 **He is Wonderful — Remix** feat. Sunday Service Choir (2026)

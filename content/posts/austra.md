@@ -13,6 +13,10 @@ tags:
   - '00s-10s'
   - 'art pop'
   - 'witch house'
+last_release: '2011-05-24'
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/3StQeTxTjagZusNO6WxCYl" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

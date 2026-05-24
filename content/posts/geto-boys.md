@@ -21,6 +21,10 @@ tags:
   - 'southern hip hop'
   - 'gangster rap'
   - 'g-funk'
+last_release: '2002-11-19'
+track_count: 3
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/1Gxq9ZY01WpGsoSQtRQCP7" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

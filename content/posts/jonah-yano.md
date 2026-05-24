@@ -11,6 +11,10 @@ genre:
 tags:
   - '@clairo'
   - '@jonahyano'
+last_release: '2024-10-04'
+track_count: 3
+active: true
+bucket: 'NEW_LEAK'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/6pidBSO5ksTA9f5GAHR5eQ" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

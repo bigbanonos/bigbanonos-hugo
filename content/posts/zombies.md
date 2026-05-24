@@ -12,6 +12,10 @@ genre:
   - "psychedelic rock"
 tags:
   - '@zombies'
+last_release: '2008-06-30'
+track_count: 4
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/4QupT8grgfi5GGEGE1RxQB" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

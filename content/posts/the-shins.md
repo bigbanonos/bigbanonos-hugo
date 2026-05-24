@@ -8,6 +8,10 @@ tags:
   - '00s-10s'
   - 'indie'
   - 'indie pop'
+last_release: ''
+track_count: 12
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## The Shins

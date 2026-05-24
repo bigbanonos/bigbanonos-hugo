@@ -7,6 +7,10 @@ era:
   - "2000s-2010s"
 tags:
   - '@devotchka'
+last_release: '2008-03-15'
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/4lOZ1tMlSDudasonMq9FrA" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

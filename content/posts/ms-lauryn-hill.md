@@ -10,6 +10,10 @@ tags:
   - '00s-10s'
   - '1900s'
   - 'neo soul'
+last_release: ''
+track_count: 4
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## Ms. Lauryn Hill

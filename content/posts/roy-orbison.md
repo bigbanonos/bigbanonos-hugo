@@ -13,6 +13,10 @@ tags:
   - '00s-10s'
   - '1900s'
   - 'rockabilly'
+last_release: '2006-01-01'
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/2CbdoRm1mykeyYxXsWM3hP" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

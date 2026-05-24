@@ -14,6 +14,10 @@ tags:
   - '@mo'
   - '@cashmerecat'
   - '@sophie'
+last_release: '2019-09-20'
+track_count: 6
+active: false
+bucket: 'CRYSTALLIZED'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/587KkUDbQ0XHigC1fdFOFk" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

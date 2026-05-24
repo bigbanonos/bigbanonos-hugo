@@ -10,6 +10,10 @@ tags:
   - 'indie r&b'
   - 'rap'
   - 'hip hop'
+last_release: ''
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## Fousheé;Lil Wayne

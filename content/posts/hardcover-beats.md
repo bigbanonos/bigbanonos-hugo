@@ -5,6 +5,10 @@ date: 2026-02-20
 layout: post
 tags:
   - '@hardcoverbeats'
+last_release: ''
+track_count: 1
+active: false
+bucket: 'ARTIFACT'
 ---
 
 **Music Make Your Mind Numb** — *Melted Tape: Side A* (2026, Scrapple Records)

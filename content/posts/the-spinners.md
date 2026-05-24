@@ -10,6 +10,10 @@ tags:
   - 'motown'
   - 'classic soul'
   - 'soul'
+last_release: ''
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## The Spinners

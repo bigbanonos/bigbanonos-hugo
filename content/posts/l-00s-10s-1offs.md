@@ -2,7 +2,6 @@
 title: "L · 2000s-2010s 1-offs"
 date: 2019-09-25
 category: "1off"
-track_count: 39
 letter: "L"
 era: "00s-10s"
 stub: true
@@ -10,6 +9,10 @@ tags:
   - 'letter-l'
   - '1off'
   - '00s-10s'
+last_release: ''
+track_count: 39
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## L · 2000s-2010s 1-offs

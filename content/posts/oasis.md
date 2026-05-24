@@ -13,6 +13,10 @@ tags:
   - '1900s'
   - 'britpop'
   - 'madchester'
+last_release: '1995-10-02'
+track_count: 3
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/7ppPZa3TRUSGKaks9wH7VT" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

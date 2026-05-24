@@ -11,6 +11,10 @@ genre:
 explicit: true
 tags:
   - '@parentheticalgirls'
+last_release: '2013-08-13'
+track_count: 13
+active: false
+bucket: 'THE_VAULT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/5EnM5GuMEXg2qT59vx9JCI" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

@@ -10,6 +10,10 @@ genre:
   - "synthpop"
 tags:
   - '@abc'
+last_release: ''
+track_count: 1
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/6HvUtPLqkP0t6zd6YNdWby" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

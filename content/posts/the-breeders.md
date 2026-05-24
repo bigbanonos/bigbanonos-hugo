@@ -9,6 +9,10 @@ tags:
   - '1900s'
   - 'riot grrrl'
   - 'alternative rock'
+last_release: ''
+track_count: 5
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## The Breeders

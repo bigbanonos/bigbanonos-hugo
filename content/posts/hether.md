@@ -9,6 +9,10 @@ tags:
   - '00s-10s'
   - '2020s'
   - 'bedroom pop'
+last_release: ''
+track_count: 6
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## Hether

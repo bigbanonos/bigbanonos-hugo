@@ -6,6 +6,10 @@ layout: post
 tags:
   - '@lewisofman'
   - '@frenchindipop'
+last_release: ''
+track_count: 1
+active: false
+bucket: 'ARTIFACT'
 ---
 
 French indie pop that actually moves. *Electronicity* is the one.

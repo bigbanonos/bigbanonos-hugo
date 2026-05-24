@@ -8,6 +8,10 @@ era:
 tags:
   - '@avalon-emerson'
   - '2020s'
+last_release: '2026-02-19'
+track_count: 5
+active: true
+bucket: 'STILL_DRIPPING'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/0JmWTXLKNep8x1uza83tpE" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

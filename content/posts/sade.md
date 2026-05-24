@@ -10,6 +10,10 @@ tags:
   - '@sade'
   - '00s-10s'
   - '1900s'
+last_release: '2011-05-03'
+track_count: 8
+active: false
+bucket: 'CRYSTALLIZED'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/1w47kFvzP77Y9txwQXETSr" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

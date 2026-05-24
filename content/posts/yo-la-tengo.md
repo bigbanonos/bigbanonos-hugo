@@ -17,6 +17,10 @@ tags:
   - '2020s'
   - 'dream pop'
   - 'slowcore'
+last_release: '2022-04-22'
+track_count: 7
+active: true
+bucket: 'STILL_DRIPPING'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/2GjkQchVkITXTTeJy1ERSg" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

@@ -8,6 +8,10 @@ era:
 tags:
   - '@lil-nas-x'
   - '00s-10s'
+last_release: '2019-06-21'
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/6fTt0CH2t0mdeB2N9XFG5r" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

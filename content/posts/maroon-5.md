@@ -13,6 +13,10 @@ genre:
   - "r&b"
 tags:
   - '@maroon-5'
+last_release: '2018-01-19'
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/0eayB5jay6m21D816D7jF4" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

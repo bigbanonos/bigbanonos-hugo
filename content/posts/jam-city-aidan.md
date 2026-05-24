@@ -10,6 +10,10 @@ tags:
   - '@jam-city-wet'
   - '2020s'
   - 'uk funky'
+last_release: ''
+track_count: 6
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## Jam City;Aidan

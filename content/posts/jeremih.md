@@ -15,6 +15,10 @@ explicit: true
 tags:
   - '@jeremih'
   - '@kevingates'
+last_release: '2023-07-07'
+track_count: 12
+active: true
+bucket: 'FAUCET'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/0c16tRcDXhouQkH3o9Xd3K" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

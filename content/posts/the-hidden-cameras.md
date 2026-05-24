@@ -7,6 +7,10 @@ tags:
   - '@the-hidden-cameras'
   - '00s-10s'
   - 'queercore'
+last_release: ''
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## The Hidden Cameras

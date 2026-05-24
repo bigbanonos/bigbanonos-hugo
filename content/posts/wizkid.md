@@ -18,6 +18,10 @@ tags:
   - '@burnaboy'
   - '@tems'
   - '@wizkid'
+last_release: '2021-08-27'
+track_count: 4
+active: true
+bucket: 'NEW_LEAK'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/6jdTkoEaer7XNGSblczoSu" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

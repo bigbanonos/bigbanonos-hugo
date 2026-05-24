@@ -5,6 +5,10 @@ date: 2025-02-12
 layout: post
 tags:
   - '@fjmcmahon'
+last_release: ''
+track_count: 0
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <div> {{< img-lite src="https://thebluegrasssituation.com/wp-content/uploads/2017/11/FJ_MCMAHON_5.jpg" alt="FJ McMahon" >}}

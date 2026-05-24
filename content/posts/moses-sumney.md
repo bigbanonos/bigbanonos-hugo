@@ -13,6 +13,10 @@ tags:
   - '2020s'
   - 'art pop'
   - 'indie soul'
+last_release: '2024-06-05'
+track_count: 2
+active: true
+bucket: 'NEW_LEAK'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/0EQt3hJTjy2dYuxZp3cqo9" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

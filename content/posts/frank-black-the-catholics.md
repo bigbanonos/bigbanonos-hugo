@@ -9,6 +9,10 @@ tags:
   - '00s-10s'
   - 'indie punk'
   - 'alternative rock'
+last_release: ''
+track_count: 5
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## Frank Black & The Catholics

@@ -15,6 +15,10 @@ tags:
   - '00s-10s'
   - '1900s'
   - 'singer-songwriter'
+last_release: '2015-02-05'
+track_count: 11
+active: false
+bucket: 'THE_VAULT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/1QUXSToImDkW7CUzJwRrWQ" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

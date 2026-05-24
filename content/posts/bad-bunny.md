@@ -23,6 +23,10 @@ tags:
   - 'trap latino'
   - 'latin'
   - 'urbano latino'
+last_release: '2025-01-05'
+track_count: 6
+active: true
+bucket: 'STILL_DRIPPING'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/3sK8wGT43QFpWrvNQsrQya" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

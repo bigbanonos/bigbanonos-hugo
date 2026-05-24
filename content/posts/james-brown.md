@@ -13,6 +13,10 @@ genre:
   - "classic soul"
 tags:
   - '@jamesbrown'
+last_release: '2018-09-07'
+track_count: 20
+active: false
+bucket: 'THE_VAULT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/2sFTUAZiq4LdOybFi75Slw" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

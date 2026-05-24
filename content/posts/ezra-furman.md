@@ -9,6 +9,10 @@ era:
 explicit: true
 tags:
   - '@ezrafurman'
+last_release: '2020-01-24'
+track_count: 4
+active: true
+bucket: 'NEW_LEAK'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/0C2PTGRyAe4WxnMzqE2k1H" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

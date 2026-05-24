@@ -7,6 +7,10 @@ tags:
   - '@mmmonthabeat'
   - '@mmmonthabeat-ai-slaps'
   - '2020s'
+last_release: ''
+track_count: 3
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## MMMonthabeat

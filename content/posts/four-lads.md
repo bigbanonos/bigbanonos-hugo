@@ -11,6 +11,10 @@ genre:
   - "doo-wop"
 tags:
   - '@four-lads'
+last_release: '1953-01-01'
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/4DDuqcRrjG1XBma3hvaFFq" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

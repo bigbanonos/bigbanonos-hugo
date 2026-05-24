@@ -10,6 +10,10 @@ tags:
   - '@slothrust'
   - '00s-10s'
   - '2020s'
+last_release: '2023-09-13'
+track_count: 3
+active: true
+bucket: 'NEW_LEAK'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/4aCA13BPGLAp9yoPpmIFR0" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

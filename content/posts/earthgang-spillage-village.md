@@ -7,6 +7,10 @@ tags:
   - '@earthgang-spillage-village'
   - '@earthgang-spillage-village-benji'
   - '2020s'
+last_release: ''
+track_count: 3
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## EARTHGANG;Spillage Village

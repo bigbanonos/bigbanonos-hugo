@@ -11,6 +11,10 @@ genre:
   - "mariachi"
 tags:
   - '@stone-poneys'
+last_release: ''
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/19Xy2vr5mS7l9T3S90Jlvs" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

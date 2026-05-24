@@ -7,6 +7,10 @@ tags:
   - '@aidonia'
   - '@djdonmar'
   - '@crazyent'
+last_release: ''
+track_count: 0
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <img src="https://i.ytimg.com/vi/WntXOHzx2fg/maxresdefault.jpg" width="100%" /> <h2>BigBanonos Favorite Songs by Aidonia</h2> <p>One of dancehalls sharpest voices, Aidonia keeps dropping heat, and his 2025 single <em>"IG Girls"</em> is no exception"an infectious riddim-driven anthem that deserves the rewind. Check out the new song below along with our full playlist of favorites.</p> <h3>"IG Girls" – Aidonia, Dj Donmar, Crazy Ent</h3>

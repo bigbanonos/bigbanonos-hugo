@@ -11,6 +11,10 @@ genre:
   - "uk r&b"
 tags:
   - '@cleosol'
+last_release: '2021-08-20'
+track_count: 4
+active: true
+bucket: 'NEW_LEAK'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/1JVEM4C04VPAU9JTnKthNk" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

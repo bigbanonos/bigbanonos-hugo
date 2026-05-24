@@ -14,6 +14,10 @@ tags:
   - '2020s'
   - 'indie rock'
   - 'indie'
+last_release: '2025-07-11'
+track_count: 3
+active: true
+bucket: 'NEW_LEAK'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/5UW4tA4j23YL6kDfRw3rWT" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

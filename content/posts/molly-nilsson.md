@@ -18,6 +18,10 @@ tags:
   - 'cold wave'
   - 'darkwave'
   - 'synthpop'
+last_release: '2022-01-15'
+track_count: 3
+active: true
+bucket: 'NEW_LEAK'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/0z2Ir3bTYT2GXJiWQGsiUp" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

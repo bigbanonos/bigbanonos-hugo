@@ -10,6 +10,10 @@ genre:
   - "stoner rock"
 tags:
   - '@witch'
+last_release: '2011-05-22'
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/4tnPnuNBRYBmzWmia1M92f" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

@@ -9,6 +9,10 @@ tags:
   - 'retro soul'
   - 'soul'
   - 'funk'
+last_release: ''
+track_count: 3
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## Sharon Jones & The Dap-Kings

@@ -15,6 +15,10 @@ tags:
   - 'neo-psychedelic'
   - 'baroque pop'
   - 'art pop'
+last_release: '2013-10-08'
+track_count: 8
+active: false
+bucket: 'CRYSTALLIZED'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/1bfQwJE0zgq25vBAVdIja1" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

@@ -20,6 +20,10 @@ tags:
   - 'east coast hip hop'
   - 'rap'
   - 'dancehall'
+last_release: ''
+track_count: 30
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## Beyoncé

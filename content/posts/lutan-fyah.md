@@ -12,6 +12,10 @@ tags:
   - 'roots reggae'
   - 'ragga'
   - 'riddim'
+last_release: '2022-05-24'
+track_count: 9
+active: true
+bucket: 'STILL_DRIPPING'
 ---
 
 ## Lutan Fyah

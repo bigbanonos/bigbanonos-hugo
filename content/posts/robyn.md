@@ -21,6 +21,10 @@ tags:
   - '1900s'
   - '2020s'
   - 'swedish pop'
+last_release: '2026-01-07'
+track_count: 22
+active: true
+bucket: 'FAUCET'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/6rY4CO2ko4iWpSIm93fWJv" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

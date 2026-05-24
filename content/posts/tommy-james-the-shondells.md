@@ -10,6 +10,10 @@ tags:
   - '@tommy-james-the-shondells'
   - '00s-10s'
   - '1900s'
+last_release: '2002-06-04'
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/1gxvw44063w6pvC5a3xHn8" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

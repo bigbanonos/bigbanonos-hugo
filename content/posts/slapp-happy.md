@@ -17,6 +17,10 @@ tags:
   - 'art pop'
   - 'art rock'
   - 'avant-garde'
+last_release: '1993-01-01'
+track_count: 4
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/4PNhRqC5OfxkfC4dHRqDgN" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

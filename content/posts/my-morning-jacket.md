@@ -10,6 +10,10 @@ genre:
   - "alt country"
 tags:
   - '@mymorningjacket'
+last_release: '2021-10-22'
+track_count: 2
+active: true
+bucket: 'NEW_LEAK'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/5aeTnOJFnsfJ2e6lP7LNmt" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

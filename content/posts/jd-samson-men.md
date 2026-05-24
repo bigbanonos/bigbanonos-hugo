@@ -9,6 +9,10 @@ tags:
   - '00s-10s'
   - 'riot grrrl'
   - 'nu disco'
+last_release: ''
+track_count: 6
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## JD Samson & MEN

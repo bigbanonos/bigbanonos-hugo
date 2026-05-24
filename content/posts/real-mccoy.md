@@ -13,6 +13,10 @@ tags:
   - '1900s'
   - 'eurodance'
   - 'europop'
+last_release: '1995-03-28'
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/3pEuO9J2MTEmec8kUfYYvl" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

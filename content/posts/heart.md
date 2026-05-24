@@ -11,6 +11,10 @@ genre:
   - "rock"
 tags:
   - '@heart'
+last_release: '1975-01-01'
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/4sUlsy0tPv9n5nqrqeA0lE" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

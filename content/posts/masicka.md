@@ -10,6 +10,10 @@ tags:
   - 'dancehall'
   - 'soca'
   - 'riddim'
+last_release: '2018-01-18'
+track_count: 3
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## Masicka

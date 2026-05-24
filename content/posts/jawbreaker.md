@@ -13,6 +13,10 @@ genre:
 explicit: true
 tags:
   - '@jawbreaker'
+last_release: '2002-07-22'
+track_count: 11
+active: false
+bucket: 'THE_VAULT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/0J8D5urAKG9QFCrUP4XyU6" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

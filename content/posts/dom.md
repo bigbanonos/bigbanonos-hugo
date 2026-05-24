@@ -8,6 +8,10 @@ era:
 tags:
   - '@cults'
   - '@dom'
+last_release: '2011-01-14'
+track_count: 10
+active: false
+bucket: 'THE_VAULT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/0AshLrs2EiEhjn1cQlSPkz" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

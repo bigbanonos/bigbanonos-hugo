@@ -13,6 +13,10 @@ tags:
   - '@j-p-nle-choppa'
   - '2020s'
   - 'sexy drill'
+last_release: '2024-08-02'
+track_count: 4
+active: true
+bucket: 'NEW_LEAK'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/3lu9zdjhHvAt7gje6w8Pn9" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

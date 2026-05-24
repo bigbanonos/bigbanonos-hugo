@@ -10,6 +10,10 @@ tags:
   - '@white-river-music-co'
   - '00s-10s'
   - 'bluegrass'
+last_release: ''
+track_count: 4
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## John Hawkes

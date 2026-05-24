@@ -12,6 +12,10 @@ genre:
   - "punk"
 tags:
   - '@wipers'
+last_release: '1980-02-15'
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/3JxGBrNcvunLiznL1JJzZN" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

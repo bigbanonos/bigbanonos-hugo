@@ -13,6 +13,10 @@ genre:
   - "rock"
 tags:
   - '@black-keys'
+last_release: '2019-06-28'
+track_count: 10
+active: false
+bucket: 'THE_VAULT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/5AEyKKiz6YPTLR7EDFLqMS" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

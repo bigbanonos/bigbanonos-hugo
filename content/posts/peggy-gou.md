@@ -11,6 +11,10 @@ tags:
   - '@peggy-gou-lenny-kravitz'
   - '00s-10s'
   - '2020s'
+last_release: '2023-11-08'
+track_count: 4
+active: true
+bucket: 'NEW_LEAK'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/4fZ9WECee9p7FEWOUP03jD" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

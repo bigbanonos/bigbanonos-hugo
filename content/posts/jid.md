@@ -16,6 +16,10 @@ tags:
   - '@babytron'
   - '@lilyachty'
   - '@lildurk'
+last_release: '2025-08-07'
+track_count: 6
+active: true
+bucket: 'STILL_DRIPPING'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/0jyNkRxdVE2k2RHybTgOxt" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

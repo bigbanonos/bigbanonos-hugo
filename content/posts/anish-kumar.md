@@ -9,6 +9,10 @@ genre:
   - "disco house"
 tags:
   - '@anishkumar'
+last_release: '2023-08-10'
+track_count: 2
+active: true
+bucket: 'NEW_LEAK'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/7523LoHW3sgiFG0GJcrV0C" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

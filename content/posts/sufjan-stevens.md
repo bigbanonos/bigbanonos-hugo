@@ -10,6 +10,10 @@ genre:
   - "baroque pop"
 tags:
   - '@sufjanstevens'
+last_release: '2023-10-06'
+track_count: 4
+active: true
+bucket: 'NEW_LEAK'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/7IAx9OvToHkT8C4ZlX9hwe" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

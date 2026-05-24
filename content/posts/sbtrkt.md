@@ -12,6 +12,10 @@ genre:
 explicit: true
 tags:
   - '@sbtrkt'
+last_release: ''
+track_count: 3
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/0IngWDycujRx7MPYCqImO0" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

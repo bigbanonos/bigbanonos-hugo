@@ -20,6 +20,10 @@ tags:
   - 'americana'
   - 'outlaw country'
   - 'singer-songwriter'
+last_release: '2020-03-27'
+track_count: 4
+active: true
+bucket: 'NEW_LEAK'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/2lfYWd8LU5gHbROvS5yR6F" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

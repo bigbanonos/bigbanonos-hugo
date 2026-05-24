@@ -10,6 +10,10 @@ genre:
   - "country blues"
 tags:
   - '@precious-bryant'
+last_release: ''
+track_count: 1
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/4cX1tQzSTgoxxG8MbLlPdW" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

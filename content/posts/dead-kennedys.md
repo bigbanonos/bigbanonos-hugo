@@ -17,6 +17,10 @@ tags:
   - 'hardcore punk'
   - 'skate punk'
   - 'proto-punk'
+last_release: '1987-06-15'
+track_count: 3
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/6capuHDLxgoUUjDD0UhAgN" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

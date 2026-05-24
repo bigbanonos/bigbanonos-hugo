@@ -7,6 +7,10 @@ era:
   - "2020s"
 tags:
   - '@pearla'
+last_release: '2023-02-10'
+track_count: 2
+active: true
+bucket: 'NEW_LEAK'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/4ae2vomzz0Erk5I4tetZfc" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

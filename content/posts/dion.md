@@ -10,6 +10,10 @@ genre:
   - "doo-wop"
 tags:
   - '@dion'
+last_release: '2005-04-18'
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/0xof68UTJgl9C4scvUMsQn" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

@@ -14,6 +14,10 @@ tags:
   - 'dancehall'
   - 'riddim'
   - 'soca'
+last_release: '2025-06-06'
+track_count: 11
+active: true
+bucket: 'FAUCET'
 ---
 
 ## Vanessa Bling

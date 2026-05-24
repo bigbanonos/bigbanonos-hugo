@@ -9,6 +9,10 @@ genre:
   - "glam metal"
 tags:
   - '@darkness'
+last_release: ''
+track_count: 1
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/4SIpk9mEOQaikK3f8xspc2" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

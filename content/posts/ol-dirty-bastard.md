@@ -19,6 +19,10 @@ tags:
   - 'east coast hip hop'
   - 'old school hip hop'
   - 'hardcore hip hop'
+last_release: '2006-08-22'
+track_count: 6
+active: false
+bucket: 'CRYSTALLIZED'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/5GSiW5PowBQibaKHFCxY9Y" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

@@ -12,6 +12,10 @@ tags:
   - 'celtic rock'
   - 'sea shanties'
   - 'celtic punk'
+last_release: ''
+track_count: 4
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## The Dubliners

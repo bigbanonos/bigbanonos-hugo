@@ -2,7 +2,6 @@
 title: "P · Pre-2000 1-offs"
 date: 2025-01-01
 category: "1off"
-track_count: 23
 letter: "P"
 era: "1900s"
 stub: true
@@ -10,6 +9,10 @@ tags:
   - 'letter-p'
   - '1off'
   - '1900s'
+last_release: ''
+track_count: 0
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## P · Pre-2000 1-offs

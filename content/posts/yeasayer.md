@@ -8,6 +8,10 @@ era:
 tags:
   - '@yeasayer'
   - '00s-10s'
+last_release: '2013-04-23'
+track_count: 3
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/10bBH1I8PefeRn4zPwRx3P" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

@@ -7,6 +7,10 @@ tags:
   - '@big-thief'
   - '00s-10s'
   - '2020s'
+last_release: '2025-09-05'
+track_count: 25
+active: true
+bucket: 'FAUCET'
 ---
 
 ## Big Thief

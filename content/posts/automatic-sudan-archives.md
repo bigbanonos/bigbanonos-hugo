@@ -10,6 +10,10 @@ tags:
   - 'egg punk'
   - 'alternative r&b'
   - 'indie soul'
+last_release: ''
+track_count: 1
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## Automatic;Sudan Archives

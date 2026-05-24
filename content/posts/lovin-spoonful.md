@@ -10,6 +10,10 @@ genre:
   - "folk rock"
 tags:
   - '@lovin-spoonful'
+last_release: '1967-05-01'
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/6lTQUF6os6Y400rkjWb30B" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

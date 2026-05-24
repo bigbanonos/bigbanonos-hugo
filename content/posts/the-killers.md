@@ -12,6 +12,10 @@ tags:
   - 'alternative rock'
   - 'glam rock'
   - 'proto-punk'
+last_release: ''
+track_count: 7
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## The Killers

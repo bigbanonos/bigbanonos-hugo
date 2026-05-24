@@ -8,6 +8,10 @@ tags:
   - '00s-10s'
   - '1900s'
   - 'neo-psychedelic'
+last_release: ''
+track_count: 4
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## The Flaming Lips

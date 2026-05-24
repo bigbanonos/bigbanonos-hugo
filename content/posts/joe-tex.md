@@ -17,6 +17,10 @@ tags:
   - 'northern soul'
   - 'soul'
   - 'classic soul'
+last_release: '2014-03-24'
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/1kT5fVHamwzKlB94FqPce4" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

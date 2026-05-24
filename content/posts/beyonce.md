@@ -27,6 +27,10 @@ tags:
   - '@wizkid'
   - '@rumicarter'
   - '@saintjhn'
+last_release: '2024-03-29'
+track_count: 30
+active: true
+bucket: 'FAUCET'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/4dsdSwSdBWjlsVzU6iJs3b" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

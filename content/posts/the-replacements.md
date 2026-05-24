@@ -13,6 +13,10 @@ tags:
   - 'jangle pop'
   - 'singer-songwriter'
   - 'southern gothic'
+last_release: ''
+track_count: 29
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## The Replacements

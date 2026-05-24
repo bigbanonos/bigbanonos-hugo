@@ -13,6 +13,10 @@ genre:
   - "rock"
 tags:
   - '@pinkfloyd'
+last_release: '1979-11-30'
+track_count: 7
+active: false
+bucket: 'CRYSTALLIZED'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/24YmWQgunJGAU8El3ndkyn" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

@@ -9,6 +9,10 @@ genre:
   - "indie rock"
 tags:
   - '@warondrugs'
+last_release: '2008-06-17'
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/2Pi4vjM0lVa4wxfXisCIzs" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

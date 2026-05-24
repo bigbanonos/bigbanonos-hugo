@@ -8,6 +8,10 @@ era:
   - "2020s"
 tags:
   - '@fatherjohnmisty'
+last_release: '2022-04-08'
+track_count: 19
+active: true
+bucket: 'FAUCET'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/1I5zEkyDQTJ6TeDxyXBSQ5" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

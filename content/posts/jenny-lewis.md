@@ -15,6 +15,10 @@ tags:
   - '00s-10s'
   - '2020s'
   - 'alt country'
+last_release: '2023-11-28'
+track_count: 8
+active: true
+bucket: 'STILL_DRIPPING'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/6EjedRxyl7lcixLeTynye9" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

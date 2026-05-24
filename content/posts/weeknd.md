@@ -15,6 +15,10 @@ genre:
 explicit: true
 tags:
   - '@weeknd'
+last_release: '2025-05-09'
+track_count: 30
+active: true
+bucket: 'FAUCET'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/7kJyHFVVZMv1wQYRU9de9d" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

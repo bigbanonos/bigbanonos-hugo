@@ -4,6 +4,10 @@ date: 1900-01-02
 draft: false
 tags: ["playlist", "1off", "t"]
 description: "32 tracks — T artists, 1900s–1990s"
+last_release: ''
+track_count: 32
+active: false
+bucket: 'ARTIFACT'
 ---
 
 32 tracks.

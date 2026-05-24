@@ -12,6 +12,10 @@ genre:
   - "bedroom pop"
 tags:
   - '@wallows'
+last_release: '2020-08-28'
+track_count: 2
+active: true
+bucket: 'NEW_LEAK'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/4jgAfg7f9Wf6p4sIWYeOi3" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

@@ -10,6 +10,10 @@ tags:
   - 'surf rock'
   - 'reggae rock'
   - 'ska punk'
+last_release: ''
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## The Ziggens

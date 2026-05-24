@@ -11,6 +11,10 @@ genre:
 explicit: true
 tags:
   - '@youngfathers'
+last_release: '2023-02-03'
+track_count: 3
+active: true
+bucket: 'NEW_LEAK'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/105fEjEgDVFrp4gAtyNJLY" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

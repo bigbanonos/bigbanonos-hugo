@@ -9,6 +9,10 @@ tags:
   - '2020s'
   - 'celtic punk'
   - 'celtic'
+last_release: ''
+track_count: 5
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## The Mary Wallopers

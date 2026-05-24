@@ -11,6 +11,10 @@ tags:
   - '@supergrass'
   - '1900s'
   - 'britpop'
+last_release: '1995-05-15'
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/0iAcyO7WLhnC7WOTOpjGv1" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

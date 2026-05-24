@@ -9,6 +9,10 @@ genre:
   - "italo disco"
 tags:
   - '@plustwo'
+last_release: ''
+track_count: 1
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/2VIJ2Nt8uk3Pi3IqEwtO1y" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

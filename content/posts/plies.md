@@ -12,6 +12,10 @@ genre:
 explicit: true
 tags:
   - '@plies'
+last_release: '2008-12-12'
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/2cvrqWPrVUampcQP46MMdV" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

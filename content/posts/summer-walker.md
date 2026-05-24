@@ -17,6 +17,10 @@ tags:
   - '00s-10s'
   - '2020s'
   - 'r&b'
+last_release: '2025-11-14'
+track_count: 5
+active: true
+bucket: 'STILL_DRIPPING'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/7eCAw2VS0UhbsiSItwWdvl" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

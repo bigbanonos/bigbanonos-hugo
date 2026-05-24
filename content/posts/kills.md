@@ -10,6 +10,10 @@ genre:
   - "garage rock"
 tags:
   - '@kills'
+last_release: '2011-05-03'
+track_count: 8
+active: false
+bucket: 'CRYSTALLIZED'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/78ZdkvFY2GY0VXIkBcYDkY" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

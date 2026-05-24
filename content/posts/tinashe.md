@@ -21,6 +21,10 @@ tags:
   - '@youngthug'
   - '@dejloaf'
   - '@tinashe'
+last_release: '2024-08-16'
+track_count: 13
+active: true
+bucket: 'FAUCET'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/5yTYLJY7Atcew0MHm7bmjk" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

@@ -12,6 +12,10 @@ tags:
   - 'riddim'
   - 'ragga'
   - 'soca'
+last_release: '2019-12-06'
+track_count: 3
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## Mr Easy

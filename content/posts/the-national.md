@@ -12,6 +12,10 @@ tags:
   - '@the-national'
   - '00s-10s'
   - 'indie rock'
+last_release: ''
+track_count: 12
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/6OQip5XRRwqZJVFEJu8UTM" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

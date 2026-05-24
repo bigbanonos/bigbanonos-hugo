@@ -22,6 +22,10 @@ tags:
   - 'west coast hip hop'
   - 'gangster rap'
   - 'old school hip hop'
+last_release: '2017-12-15'
+track_count: 5
+active: false
+bucket: 'CRYSTALLIZED'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/307o1VJb5klow8ZQ2H5OQk" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

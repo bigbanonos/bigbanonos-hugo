@@ -12,6 +12,10 @@ tags:
   - '00s-10s'
   - '2020s'
   - 'trap soul'
+last_release: ''
+track_count: 5
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## Wiz Khalifa;Mustard

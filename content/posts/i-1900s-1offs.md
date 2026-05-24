@@ -2,7 +2,6 @@
 title: "I · Pre-2000 1-offs"
 date: 2004-01-01
 category: "1off"
-track_count: 5
 letter: "I"
 era: "1900s"
 stub: true
@@ -10,6 +9,10 @@ tags:
   - 'letter-i'
   - '1off'
   - '1900s'
+last_release: ''
+track_count: 5
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## I · Pre-2000 1-offs

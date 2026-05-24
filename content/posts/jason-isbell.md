@@ -21,6 +21,10 @@ tags:
   - 'americana'
   - 'roots rock'
   - 'red dirt'
+last_release: '2025-03-07'
+track_count: 9
+active: true
+bucket: 'STILL_DRIPPING'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/3URnvhDLXtkLegFuTZHRcz" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

@@ -4,6 +4,10 @@ date: 2020-01-01
 draft: false
 tags: ["playlist", "1off", "z"]
 description: "3 tracks — Z artists, 2020s"
+last_release: ''
+track_count: 3
+active: false
+bucket: 'ARTIFACT'
 ---
 
 3 tracks.

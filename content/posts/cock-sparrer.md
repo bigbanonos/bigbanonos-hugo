@@ -15,6 +15,10 @@ tags:
   - 'punk'
   - 'ska punk'
   - 'hardcore punk'
+last_release: '1994-10-10'
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/38mmetdj0LrZX6HOWyC0vT" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

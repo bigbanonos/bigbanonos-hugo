@@ -6,6 +6,10 @@ layout: post
 tags:
   - '@chroniclaw'
   - '@bigzim'
+last_release: '2025-08-15'
+track_count: 113
+active: true
+bucket: 'FAUCET'
 ---
 
 **Trust Issues** feat. Big Zim — *Trust Issues* (2026)

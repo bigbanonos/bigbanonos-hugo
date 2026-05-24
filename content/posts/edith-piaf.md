@@ -14,6 +14,10 @@ genre:
   - "french jazz"
 tags:
   - '@edith-piaf'
+last_release: '2024-02-01'
+track_count: 8
+active: true
+bucket: 'STILL_DRIPPING'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/6B8D0zf2SPpHxN49PIPFgJ" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

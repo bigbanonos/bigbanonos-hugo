@@ -11,6 +11,10 @@ tags:
   - '@joan-armatrading'
   - '1900s'
   - 'singer-songwriter'
+last_release: '1977-01-01'
+track_count: 3
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/6mEdfYTzqToL2Fv350aA1d" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

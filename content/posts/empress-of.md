@@ -11,6 +11,10 @@ genre:
 tags:
   - '@empressof'
   - '@rinasawyama'
+last_release: '2023-09-25'
+track_count: 7
+active: true
+bucket: 'STILL_DRIPPING'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/7iUvtFAYg293pzSfKNBGlG" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

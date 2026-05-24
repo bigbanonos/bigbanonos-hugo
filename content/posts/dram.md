@@ -23,6 +23,10 @@ tags:
   - 'r&b'
   - 'neo soul'
   - 'alternative r&b'
+last_release: '2024-09-27'
+track_count: 7
+active: true
+bucket: 'STILL_DRIPPING'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/4TcnnY36e86f2DO66hUWDC" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

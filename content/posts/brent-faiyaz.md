@@ -22,6 +22,10 @@ tags:
   - 'r&b'
   - 'southern hip hop'
   - 'rap'
+last_release: '2026-02-13'
+track_count: 13
+active: true
+bucket: 'FAUCET'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/2iZ9yiTcL1iywzSUZxlJrZ" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

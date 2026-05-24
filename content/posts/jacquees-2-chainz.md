@@ -11,6 +11,10 @@ tags:
   - 'french house'
   - 'r&b'
   - 'trap soul'
+last_release: ''
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## Jacquees;2 Chainz

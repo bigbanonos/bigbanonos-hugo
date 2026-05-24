@@ -7,6 +7,10 @@ tags:
   - '@the-kills'
   - '00s-10s'
   - 'garage rock'
+last_release: ''
+track_count: 8
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## The Kills

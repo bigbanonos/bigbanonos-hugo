@@ -11,6 +11,10 @@ genre:
   - "classic soul"
 tags:
   - '@annpeebles'
+last_release: '1974-06-11'
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/0CcL4kSHKIEwF3IW0BGgb6" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

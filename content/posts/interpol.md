@@ -10,6 +10,10 @@ genre:
   - "post-punk"
 tags:
   - '@interpol'
+last_release: '2004-09-27'
+track_count: 7
+active: false
+bucket: 'CRYSTALLIZED'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/4absiGHMelB8eH976ytjBj" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

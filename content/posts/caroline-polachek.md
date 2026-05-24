@@ -13,6 +13,10 @@ tags:
   - '00s-10s'
   - '2020s'
   - 'art pop'
+last_release: '2023-10-17'
+track_count: 10
+active: true
+bucket: 'FAUCET'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/7ddHGUPt5bOpVFAtX6TJN8" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

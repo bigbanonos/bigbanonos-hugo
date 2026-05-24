@@ -8,6 +8,10 @@ era:
   - "2000s-2010s"
 tags:
   - '@postal-service'
+last_release: '2003-02-19'
+track_count: 3
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/3l14MJpQB4tFFgKLqUqtV3" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

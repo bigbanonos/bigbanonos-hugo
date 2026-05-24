@@ -7,6 +7,10 @@ letter: "C"
 era: "2020s"
 tags:
   - '@cameron-knowler'
+last_release: ''
+track_count: 1
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/2pAdVMOPaINHc9g0N6Omu6" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

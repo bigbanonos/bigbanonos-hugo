@@ -13,6 +13,10 @@ tags:
   - '1900s'
   - 'country'
   - 'classic country'
+last_release: '1999-05-11'
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/3wv0nYtLekWaNfvXpVFEN6" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

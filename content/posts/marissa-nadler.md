@@ -14,6 +14,10 @@ tags:
   - 'reggaeton'
   - 'neoperreo'
   - 'argentine trap'
+last_release: ''
+track_count: 5
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## Marissa Nadler

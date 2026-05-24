@@ -13,6 +13,10 @@ genre:
 explicit: true
 tags:
   - '@fidlar'
+last_release: '2015-09-04'
+track_count: 5
+active: false
+bucket: 'CRYSTALLIZED'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/1xUdGT0KCioWFva7DCVEBB" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

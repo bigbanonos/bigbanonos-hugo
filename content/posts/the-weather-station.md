@@ -7,6 +7,10 @@ tags:
   - '@the-weather-station'
   - '2020s'
   - 'indie folk'
+last_release: ''
+track_count: 1
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## The Weather Station

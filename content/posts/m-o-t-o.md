@@ -15,6 +15,10 @@ tags:
   - 'egg punk'
   - 'power pop'
   - 'garage rock'
+last_release: '2013-04-16'
+track_count: 3
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/36cEEeZNi89JIqOQ9y90XI" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

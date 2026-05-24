@@ -12,6 +12,10 @@ tags:
   - '@tkay-maidza-umi'
   - '2020s'
   - 'alternative r&b'
+last_release: '2021-07-09'
+track_count: 2
+active: true
+bucket: 'NEW_LEAK'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/4wyVzw1oscgehM9aOoIlJT" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

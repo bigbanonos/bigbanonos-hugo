@@ -11,6 +11,10 @@ genre:
   - "industrial rock"
 tags:
   - '@will-oldham'
+last_release: ''
+track_count: 1
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/2Hb6C8J0i3kmGW9uCwf9ak" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

@@ -12,6 +12,10 @@ tags:
   - '@advance-base'
   - '00s-10s'
   - 'anti-folk'
+last_release: '2017-09-09'
+track_count: 13
+active: false
+bucket: 'THE_VAULT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/1Koetxr5KWhugIogd07xzU" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

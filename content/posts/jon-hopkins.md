@@ -6,6 +6,10 @@ layout: post
 tags:
   - '@jonhopkins'
   - '@purityring'
+last_release: ''
+track_count: 0
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <!-- Post Title -->

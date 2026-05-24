@@ -12,6 +12,10 @@ genre:
 explicit: true
 tags:
   - '@kraffgad'
+last_release: '2025-02-14'
+track_count: 5
+active: true
+bucket: 'STILL_DRIPPING'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/7CX2wTy4MPia0mv308ekqC" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

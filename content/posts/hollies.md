@@ -9,6 +9,10 @@ era:
   - "2000s-2010s"
 tags:
   - '@hollies'
+last_release: '2012-03-19'
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/6Xm9A1jahXrLyqtzFqpOXV" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

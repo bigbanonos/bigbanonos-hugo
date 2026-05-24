@@ -5,6 +5,10 @@ date: 2025-02-21
 layout: post
 tags:
   - '@doors'
+last_release: ''
+track_count: 0
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <img src="https://spaces.whynow.co.uk/2024/01/jim-morrison-arrested-e1705256259405.jpg" width="100%" /> <h2>BigBanonos Favorite Songs by The Doors</h2> <p>Updated April 19, 1971, with "Hyacinth House" from <em>L.A. Woman</em>. Highlights and #NotOnSpotify picks below:</p>  <hr /> <h3>Full Song List</h3> <ul>

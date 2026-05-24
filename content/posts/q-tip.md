@@ -11,6 +11,10 @@ genre:
 explicit: true
 tags:
   - '@qtip'
+last_release: '2008-11-04'
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/6180Fv9Y1zovHtrIVaTGSM" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

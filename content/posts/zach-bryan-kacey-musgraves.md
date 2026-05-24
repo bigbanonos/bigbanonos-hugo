@@ -13,6 +13,10 @@ tags:
   - 'red dirt'
   - 'folk pop'
   - 'indie folk'
+last_release: ''
+track_count: 4
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## Zach Bryan;Kacey Musgraves

@@ -10,6 +10,10 @@ tags:
   - 'mathcore'
   - 'screamo'
   - 'noise rock'
+last_release: ''
+track_count: 1
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## The Blood Brothers

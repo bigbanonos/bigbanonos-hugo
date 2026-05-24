@@ -8,6 +8,10 @@ tags:
   - '00s-10s'
   - 'slowcore'
   - 'southern gothic'
+last_release: ''
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## Sun Kil Moon

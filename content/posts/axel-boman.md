@@ -11,6 +11,10 @@ genre:
   - "jazz house"
 tags:
   - '@axel-boman'
+last_release: '2022-04-15'
+track_count: 2
+active: true
+bucket: 'NEW_LEAK'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/0CUleW1Wk0i8iqbJLllsii" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

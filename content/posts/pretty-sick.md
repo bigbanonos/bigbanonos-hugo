@@ -11,6 +11,10 @@ genre:
 explicit: true
 tags:
   - '@pretty-sick'
+last_release: ''
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/5SDW0aLSetWzFS1676VgXQ" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

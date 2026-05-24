@@ -7,6 +7,10 @@ tags:
   - '@the-troggs'
   - '00s-10s'
   - 'proto-punk'
+last_release: '2009-02-16'
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## The Troggs

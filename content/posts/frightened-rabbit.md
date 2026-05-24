@@ -9,6 +9,10 @@ genre:
   - "indie rock"
 tags:
   - '@frightenedrabbit'
+last_release: '2008-04-13'
+track_count: 1
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/06JlHiR2W7ylcuV6Ft0ptj" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

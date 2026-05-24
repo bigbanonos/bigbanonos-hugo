@@ -10,6 +10,10 @@ tags:
   - 'big band'
   - 'swing music'
   - 'cool jazz'
+last_release: ''
+track_count: 1
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## Duke Ellington

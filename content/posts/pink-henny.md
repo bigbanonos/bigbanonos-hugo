@@ -8,6 +8,10 @@ era: "2020s"
 explicit: true
 tags:
   - '@pink-henny'
+last_release: ''
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/49TqChZqp4qEcLPJw3nRjF" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

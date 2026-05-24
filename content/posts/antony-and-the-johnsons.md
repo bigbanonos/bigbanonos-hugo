@@ -12,6 +12,10 @@ tags:
   - '2020s'
   - 'baroque pop'
   - 'art pop'
+last_release: ''
+track_count: 9
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## Antony and the Johnsons

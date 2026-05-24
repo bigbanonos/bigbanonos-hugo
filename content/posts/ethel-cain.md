@@ -10,6 +10,10 @@ genre:
 explicit: true
 tags:
   - '@ethelcain'
+last_release: '2022-05-12'
+track_count: 2
+active: true
+bucket: 'NEW_LEAK'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/4ltqfN12ohaVZdM6C45gMg" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

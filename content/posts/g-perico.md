@@ -12,6 +12,10 @@ genre:
 explicit: true
 tags:
   - '@gperico'
+last_release: '2023-03-10'
+track_count: 2
+active: true
+bucket: 'NEW_LEAK'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/6omT1oDWH3LjSklM4MV8MM" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

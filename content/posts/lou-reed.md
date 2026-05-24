@@ -14,6 +14,10 @@ genre:
   - "singer-songwriter"
 tags:
   - '@loureed'
+last_release: '2024-09-27'
+track_count: 27
+active: true
+bucket: 'FAUCET'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/7cm0Cf8Xp0JAfJpVpD7BSK" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

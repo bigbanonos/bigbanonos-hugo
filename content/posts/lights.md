@@ -13,6 +13,10 @@ genre:
 explicit: true
 tags:
   - '@lights'
+last_release: '2022-04-01'
+track_count: 3
+active: true
+bucket: 'NEW_LEAK'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/55Va1X23lvyx4WLs2BIFjX" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

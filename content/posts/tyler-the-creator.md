@@ -15,6 +15,10 @@ genre:
 explicit: true
 tags:
   - '@tyler-the-creator'
+last_release: '2025-07-21'
+track_count: 10
+active: true
+bucket: 'FAUCET'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/7DIMKlmJ0CL6eROkbptoqi" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

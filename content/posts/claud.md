@@ -11,6 +11,10 @@ genre:
   - "indie pop"
 tags:
   - '@claud'
+last_release: '2023-06-20'
+track_count: 7
+active: true
+bucket: 'STILL_DRIPPING'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/13RQLBileJw4BjYhBJptOI" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

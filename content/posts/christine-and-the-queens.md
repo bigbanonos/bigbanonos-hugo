@@ -16,6 +16,10 @@ tags:
   - '2020s'
   - 'art pop'
   - 'french pop'
+last_release: '2023-06-09'
+track_count: 13
+active: true
+bucket: 'FAUCET'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/6IGSJSlGZgL5KGmfKmqUn5" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

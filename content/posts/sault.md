@@ -10,6 +10,10 @@ tags:
   - '@sault'
   - '00s-10s'
   - '2020s'
+last_release: '2022-11-11'
+track_count: 11
+active: true
+bucket: 'FAUCET'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/0fm6oDgGOPikLyxKEHMMHk" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

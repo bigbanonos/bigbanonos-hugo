@@ -12,6 +12,10 @@ genre:
 tags:
   - '@terracemartin'
   - '@leonbridges'
+last_release: '2024-10-04'
+track_count: 10
+active: true
+bucket: 'FAUCET'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/3rHRwx3G8o6VAfaFAliw5d" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

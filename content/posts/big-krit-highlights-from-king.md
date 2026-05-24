@@ -8,6 +8,10 @@ tags:
   - '@bunb'
   - '@bigkrit'
   - '@bigsant'
+last_release: ''
+track_count: 0
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <h1>BigBanonos 8 Favorite Songs by Big K.R.I.T.</h1>

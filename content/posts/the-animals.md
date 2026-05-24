@@ -6,6 +6,10 @@ layout: post
 tags:
   - '@animals'
   - '@ericburdon'
+last_release: ''
+track_count: 0
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <!-- BigBanonos voice goes here.

@@ -23,6 +23,10 @@ tags:
   - 'afrobeats'
   - 'afrobeat'
   - 'afropop'
+last_release: '2021-05-14'
+track_count: 3
+active: true
+bucket: 'NEW_LEAK'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/5FUgfVlClrCcIM2bozusi8" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

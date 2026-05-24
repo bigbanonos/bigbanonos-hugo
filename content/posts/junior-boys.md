@@ -9,6 +9,10 @@ genre:
   - "alternative dance"
 tags:
   - '@juniorboys'
+last_release: '2011-06-14'
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/7L7UglLPJ1xfpkWGxihHuH" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

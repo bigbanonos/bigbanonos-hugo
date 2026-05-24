@@ -16,6 +16,10 @@ tags:
   - 'skate punk'
   - 'hardcore punk'
   - 'ska punk'
+last_release: '2026-01-30'
+track_count: 18
+active: true
+bucket: 'FAUCET'
 ---
 
 ## DaBaby

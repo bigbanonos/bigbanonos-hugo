@@ -6,6 +6,10 @@ layout: post
 tags:
   - '@the-raveonettes'
   - '00s-10s'
+last_release: ''
+track_count: 15
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## The Raveonettes

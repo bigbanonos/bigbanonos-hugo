@@ -12,6 +12,10 @@ genre:
 explicit: true
 tags:
   - '@strokes'
+last_release: '2011-03-21'
+track_count: 19
+active: false
+bucket: 'THE_VAULT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/6u0x5ad9ewHvs3z6u9Oe3c" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

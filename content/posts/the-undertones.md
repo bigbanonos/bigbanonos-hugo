@@ -11,6 +11,10 @@ tags:
   - 'punk'
   - 'proto-punk'
   - 'new wave'
+last_release: ''
+track_count: 6
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## The Undertones

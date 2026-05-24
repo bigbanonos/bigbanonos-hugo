@@ -9,6 +9,10 @@ genre:
   - "alt country"
 tags:
   - '@karlblau'
+last_release: '2006-01-24'
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/19uQmMT0sL4AjN53i7Rbv9" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

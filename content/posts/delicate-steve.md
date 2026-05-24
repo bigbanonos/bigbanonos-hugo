@@ -17,6 +17,10 @@ tags:
   - 'psychedelic rock'
   - 'k-rock'
   - 'surf rock'
+last_release: ''
+track_count: 7
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## Delicate Steve

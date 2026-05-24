@@ -7,6 +7,10 @@ tags:
   - '@yellowtrashcan'
   - '@key!'
   - '@ilovemakonnen'
+last_release: ''
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 **IS IT TRUE?** feat. KEY!, ILOVEMAKONNEN — *KINDA SOBER, Vol. 1* (2026)

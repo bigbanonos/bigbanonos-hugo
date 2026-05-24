@@ -13,6 +13,10 @@ tags:
   - '1900s'
   - 'slowcore'
   - 'anti-folk'
+last_release: '1999-12-01'
+track_count: 5
+active: false
+bucket: 'CRYSTALLIZED'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/3S9tVm9EGET8wSVLyOWgq7" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

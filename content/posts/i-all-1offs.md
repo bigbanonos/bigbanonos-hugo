@@ -2,7 +2,6 @@
 title: "I · all 1-offs"
 date: 2025-01-01
 category: "1off"
-track_count: 2
 letter: "I"
 era: "all"
 stub: true
@@ -10,6 +9,10 @@ tags:
   - 'letter-i'
   - '1off'
   - 'all'
+last_release: ''
+track_count: 0
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## I · all 1-offs

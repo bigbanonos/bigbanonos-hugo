@@ -7,6 +7,10 @@ tags:
   - '@mantear'
   - '@inrefrid'
   - '@axelboman'
+last_release: ''
+track_count: 0
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <h2>BigBanonos Favorite 2 Songs by Axel Boman</h2>

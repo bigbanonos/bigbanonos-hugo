@@ -6,6 +6,10 @@ layout: post
 tags:
   - '@jdsamson'
   - '@men'
+last_release: '2013-03-05'
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <h2>BigBanonos Favorite Tracks: JD Samson & MEN</h2> <div > <a href="https://i.ytimg.com/vi/LnkSfAB-X2g/maxresdefault.jpg"> <img src="https://i.ytimg.com/vi/LnkSfAB-X2g/maxresdefault.jpg" alt="JD Samson & MEN" width="400" /> </a>

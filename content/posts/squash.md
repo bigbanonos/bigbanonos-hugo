@@ -16,6 +16,10 @@ tags:
   - 'soca'
   - 'riddim'
   - 'ragga'
+last_release: '2022-06-27'
+track_count: 7
+active: true
+bucket: 'STILL_DRIPPING'
 ---
 
 ## Squash

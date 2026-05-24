@@ -7,6 +7,10 @@ era:
   - "1900s"
 tags:
   - '@dustyspringfield'
+last_release: '1969-03-31'
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/6cXz1ntQbcwrCBu6my2kZy" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

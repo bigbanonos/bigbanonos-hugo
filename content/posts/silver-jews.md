@@ -9,6 +9,10 @@ tags:
   - '1900s'
   - 'alt country'
   - 'anti-folk'
+last_release: ''
+track_count: 12
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## Silver Jews

@@ -14,6 +14,10 @@ tags:
   - '00s-10s'
   - '2020s'
   - 'indonesian r&b'
+last_release: '2022-08-12'
+track_count: 2
+active: true
+bucket: 'NEW_LEAK'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/1zxfRSZcaonV1VXcY0PgY5" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

@@ -13,6 +13,10 @@ genre:
   - "nu disco"
 tags:
   - '@darylhallandjohnoates'
+last_release: '2021-04-02'
+track_count: 10
+active: true
+bucket: 'FAUCET'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/3g7wWCTl5C6yKUA4FrZxxH" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

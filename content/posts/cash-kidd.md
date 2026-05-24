@@ -18,6 +18,10 @@ tags:
   - '00s-10s'
   - '2020s'
   - 'chicago drill'
+last_release: '2025-12-24'
+track_count: 9
+active: true
+bucket: 'STILL_DRIPPING'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/3BGV9kmq3s5KG3uFAnKi7d" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

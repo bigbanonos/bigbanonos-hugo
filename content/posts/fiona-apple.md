@@ -13,6 +13,10 @@ tags:
   - '1900s'
   - '2020s'
   - 'art pop'
+last_release: '2020-04-17'
+track_count: 6
+active: true
+bucket: 'STILL_DRIPPING'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/73SBAGI4fPFm4VkB3NjXq8" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

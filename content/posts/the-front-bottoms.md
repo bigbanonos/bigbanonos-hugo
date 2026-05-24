@@ -10,6 +10,10 @@ tags:
   - 'midwest emo'
   - 'folk punk'
   - 'emo'
+last_release: ''
+track_count: 16
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## The Front Bottoms

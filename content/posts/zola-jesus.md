@@ -15,6 +15,10 @@ tags:
   - '2020s'
   - 'witch house'
   - 'art pop'
+last_release: '2022-11-18'
+track_count: 4
+active: true
+bucket: 'NEW_LEAK'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/4oT4Bd9KGuwSoJoXDf406U" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

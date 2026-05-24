@@ -10,6 +10,10 @@ tags:
   - 'northern soul'
   - 'soul'
   - 'classic soul'
+last_release: ''
+track_count: 3
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## Bettye Swann

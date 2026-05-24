@@ -10,6 +10,10 @@ genre:
   - "post-punk"
 tags:
   - '@psychedelic-furs'
+last_release: ''
+track_count: 6
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/4Yxf2dtvl14huY5M12XWf2" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

@@ -7,6 +7,10 @@ tags:
   - '@the-tough-alliance'
   - '00s-10s'
   - 'swedish pop'
+last_release: '2005-04-20'
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## The Tough Alliance

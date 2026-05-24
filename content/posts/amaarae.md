@@ -16,6 +16,10 @@ tags:
   - '@kojeyradical'
   - '@amaarae'
   - '@cruelsantino'
+last_release: '2020-11-12'
+track_count: 2
+active: true
+bucket: 'NEW_LEAK'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/5qaUDvqjsI6lnrtEhQqMle" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

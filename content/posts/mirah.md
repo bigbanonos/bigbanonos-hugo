@@ -7,6 +7,10 @@ era:
   - "2000s-2010s"
 tags:
   - '@mirah'
+last_release: '2008-07-15'
+track_count: 8
+active: false
+bucket: 'CRYSTALLIZED'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/1YHXjbYuRIIyFNiq6UZt1W" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

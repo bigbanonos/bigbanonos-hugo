@@ -10,6 +10,10 @@ genre:
   - "jangle pop"
 tags:
   - '@eastriverpipe'
+last_release: '2006-01-24'
+track_count: 4
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/1x9Nte9GfxNncaQuYMzZ8T" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

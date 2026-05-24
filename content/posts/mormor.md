@@ -7,6 +7,10 @@ era:
   - "2000s-2010s"
 tags:
   - '@mormor'
+last_release: '2019-10-11'
+track_count: 4
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/1DvbkyyN4jCcffDbD7mJEC" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

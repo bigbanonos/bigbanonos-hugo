@@ -8,6 +8,10 @@ tags:
   - '@maliedonn'
   - '@sortie'
   - '@dancehall'
+last_release: '2025-12-12'
+track_count: 2
+active: true
+bucket: 'NEW_LEAK'
 ---
 
 Jamaican dancehall — two tracks in and already delivering.

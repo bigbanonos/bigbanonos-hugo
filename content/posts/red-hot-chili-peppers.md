@@ -31,6 +31,10 @@ tags:
   - 'alternative rock'
   - 'funk rock'
   - 'emo rap'
+last_release: '2022-10-14'
+track_count: 14
+active: true
+bucket: 'FAUCET'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/7cpC2EuFMexgy392K13RZb" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

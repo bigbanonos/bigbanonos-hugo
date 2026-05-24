@@ -11,6 +11,10 @@ genre:
 explicit: true
 tags:
   - '@pimpc'
+last_release: '2013-08-15'
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/2DaDPtDscLu9s8BvRgrfQH" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

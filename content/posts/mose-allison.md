@@ -17,6 +17,10 @@ tags:
   - 'vocal jazz'
   - 'jazz'
   - 'cool jazz'
+last_release: '2010-09-23'
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/7l3wK3ecctcvYCJn4wzTE5" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

@@ -5,6 +5,10 @@ date: 2024-10-31
 layout: post
 tags:
   - '@alabasterlaplume'
+last_release: ''
+track_count: 0
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <h2>BigBanonos Favorite 2 Songs by Alabaster DePlume</h2> <p>BigBanonos presents its top picks from Alabaster DePlume, showcasing his pastoral, contemporary jazz style from the UK. These tracks highlight his unique blend of folk and jazz influences, creating an atmosphere both intimate and expansive.</p> <p>BigBanonos Favorite 2 Songs by Alabaster DePlume, Last updated May 19, 2023, with "Salty Road Dogs Victory Anthem" from Salty Road Dogs Victory Anthem, highlighted in the playlist below:</p> <ul> <li><strong>Salty Road Dogs Victory Anthem</strong> - Album: <em>Salty Road Dogs Victory Anthem</em> (05/19/2023)</li> <li><strong>Dont Forget Youre Precious</strong> - Album: <em>Dont Forget Youre Precious</em> (02/02/2022)</li>

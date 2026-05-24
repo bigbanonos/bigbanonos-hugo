@@ -13,6 +13,10 @@ explicit: true
 tags:
   - '@lilyachty'
   - '@tameimpala'
+last_release: '2021-10-06'
+track_count: 4
+active: true
+bucket: 'NEW_LEAK'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/6GtOsEzNUhJghrIf6UTbRV" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

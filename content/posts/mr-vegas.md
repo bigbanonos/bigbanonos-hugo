@@ -11,6 +11,10 @@ tags:
   - 'ragga'
   - 'reggae'
   - 'soca'
+last_release: '2018-05-04'
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## Mr. Vegas

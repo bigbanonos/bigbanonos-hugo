@@ -12,6 +12,10 @@ genre:
 tags:
   - '@kinks'
   - '@arthursandtheemigrants'
+last_release: '2018-09-11'
+track_count: 6
+active: false
+bucket: 'CRYSTALLIZED'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/151ba5c5hXhLtw62xPQCXy" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

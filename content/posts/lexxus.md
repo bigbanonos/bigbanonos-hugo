@@ -11,6 +11,10 @@ tags:
   - 'ragga'
   - 'riddim'
   - 'reggae'
+last_release: '2017-01-20'
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## Lexxus

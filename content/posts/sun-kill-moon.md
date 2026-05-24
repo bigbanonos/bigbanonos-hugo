@@ -11,6 +11,10 @@ genre:
   - "southern gothic"
 tags:
   - '@sun-kill-moon'
+last_release: '2014-08-19'
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/1asmQK7AowLH9Fdnlce88D" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

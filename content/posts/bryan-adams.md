@@ -9,6 +9,10 @@ tags:
   - '@bryan-adams'
   - '@bryan-adams-tina-turner'
   - '1900s'
+last_release: '1984-11-05'
+track_count: 3
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/7Ewz6bJ97vUqk5HdkvguFQ" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

@@ -11,6 +11,10 @@ genre:
 explicit: true
 tags:
   - '@cheeky-blakk'
+last_release: ''
+track_count: 1
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/66B5iMKU56vPmjr6QRQk6S" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

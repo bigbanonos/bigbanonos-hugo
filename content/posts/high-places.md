@@ -10,6 +10,10 @@ genre:
   - "neo-psychedelic"
 tags:
   - '@high-places'
+last_release: ''
+track_count: 1
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/55YzXl0Obx4ZPjNaZN0QdG" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

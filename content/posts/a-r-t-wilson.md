@@ -7,6 +7,10 @@ letter: "A"
 era: "2000s-2010s"
 tags:
   - '@a-r-t-wilson'
+last_release: ''
+track_count: 1
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/5JA1wMXh6C072LePIqWTdR" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

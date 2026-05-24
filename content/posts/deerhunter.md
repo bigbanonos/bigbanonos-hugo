@@ -12,6 +12,10 @@ genre:
   - "noise rock"
 tags:
   - '@deerhunter'
+last_release: '2015-10-16'
+track_count: 3
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/066nVSMAHBa3UxtE1m4c2j" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

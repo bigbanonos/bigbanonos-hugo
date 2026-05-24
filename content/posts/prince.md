@@ -21,6 +21,10 @@ tags:
   - 'funk'
   - 'funk rock'
   - 'quiet storm'
+last_release: '2025-09-11'
+track_count: 30
+active: true
+bucket: 'FAUCET'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/5pfrzijk9lIoFwl1FEFYrm" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

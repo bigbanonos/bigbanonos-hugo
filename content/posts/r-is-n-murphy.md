@@ -8,6 +8,10 @@ tags:
   - '2020s'
   - 'art pop'
   - 'electropop'
+last_release: ''
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## Róisín Murphy

@@ -9,6 +9,10 @@ genre:
   - "jangle pop"
 tags:
   - '@dickdiver'
+last_release: '2015-03-09'
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/5aM5ebMrugQ77vxkMkD0eM" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

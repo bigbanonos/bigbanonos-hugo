@@ -5,6 +5,10 @@ date: 2025-02-15
 layout: post
 tags:
   - '@cremeblush'
+last_release: ''
+track_count: 0
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <img src="https://i.discogs.com/eHlloVlfeQZFK_AnyylSDon6QXWbj8TANRAbQ8fhk_M/rs:fit/g:sm/q:90/h:322/w:325/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwODk5/MDMtMTI3MTUyNjUw/NS5qcGVn.jpeg" width="100%" /> <h2>BigBanonos Favorite Songs by CrÃƒÆ’Ã‚¨me Blush</h2> <p>Updated 2002 with "Ciao, Manhattan!" Highlights and #NotOnSpotify picks below:</p> {{< youtube "qmQRz8xcDvw" >}} <hr /> <h3>#NotOnSpotify</h3> <p><strong>"Ciao, Manhattan!"</strong> (2002) <span>#NotOnSpotify</span></p>

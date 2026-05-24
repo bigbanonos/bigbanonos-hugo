@@ -12,6 +12,10 @@ genre:
 explicit: true
 tags:
   - '@carseatheadrest'
+last_release: '2025-05-02'
+track_count: 9
+active: true
+bucket: 'STILL_DRIPPING'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/76srTYmIhZSZtWI7vZhyIs" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

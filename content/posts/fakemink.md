@@ -12,6 +12,10 @@ tags:
   - '@fakemink'
   - '2020s'
   - 'cloud rap'
+last_release: '2026-01-29'
+track_count: 3
+active: true
+bucket: 'NEW_LEAK'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/09VF6TEVHTIJmH6S3JWwik" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

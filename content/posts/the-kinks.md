@@ -9,6 +9,10 @@ tags:
   - '1900s'
   - 'proto-punk'
   - 'baroque pop'
+last_release: ''
+track_count: 6
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## The Kinks

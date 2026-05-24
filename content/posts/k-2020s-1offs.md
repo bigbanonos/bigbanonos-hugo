@@ -2,7 +2,6 @@
 title: "K · 2020s 1-offs"
 date: 2026-02-05
 category: "1off"
-track_count: 19
 letter: "K"
 era: "2020s"
 stub: true
@@ -10,6 +9,10 @@ tags:
   - 'letter-k'
   - '1off'
   - '2020s'
+last_release: ''
+track_count: 19
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## K · 2020s 1-offs

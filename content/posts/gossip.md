@@ -15,6 +15,10 @@ tags:
   - '2020s'
   - 'riot grrrl'
   - 'queercore'
+last_release: '2023-11-17'
+track_count: 7
+active: true
+bucket: 'STILL_DRIPPING'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/1zEwPwgdkD5bKuiovSKi23" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

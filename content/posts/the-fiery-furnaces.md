@@ -8,6 +8,10 @@ tags:
   - '00s-10s'
   - '2020s'
   - 'art pop'
+last_release: ''
+track_count: 16
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## The Fiery Furnaces

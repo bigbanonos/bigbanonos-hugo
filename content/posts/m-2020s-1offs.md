@@ -2,7 +2,6 @@
 title: "M · 2020s 1-offs"
 date: 2026-02-20
 category: "1off"
-track_count: 71
 letter: "M"
 era: "2020s"
 stub: true
@@ -10,6 +9,10 @@ tags:
   - 'letter-m'
   - '1off'
   - '2020s'
+last_release: ''
+track_count: 71
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## M · 2020s 1-offs

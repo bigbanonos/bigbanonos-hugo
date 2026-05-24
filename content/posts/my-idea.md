@@ -12,6 +12,10 @@ tags:
   - '@my-idea'
   - '2020s'
   - 'bedroom pop'
+last_release: '2022-04-22'
+track_count: 6
+active: true
+bucket: 'STILL_DRIPPING'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/58gIOqERL2zjCinPQKukyR" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

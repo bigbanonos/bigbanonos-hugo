@@ -8,6 +8,10 @@ era:
 tags:
   - '@trembling-bells-bonnie-prince-billy'
   - '00s-10s'
+last_release: '2012-04-06'
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/68jj42Pa0Y5IYdoaM4g7SH" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

@@ -20,6 +20,10 @@ tags:
   - 'disco house'
   - 'disco'
   - 'indie dance'
+last_release: ''
+track_count: 10
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## Big Dope P;Traxman

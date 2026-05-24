@@ -15,6 +15,10 @@ tags:
   - 'retro soul'
   - 'soul'
   - 'funk'
+last_release: '2020-01-17'
+track_count: 1
+active: true
+bucket: 'NEW_LEAK'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/0MIq5zqSNk6XH4BoinuakO" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

@@ -12,6 +12,10 @@ tags:
   - '@jeremih'
   - '@valee'
   - '@calboy'
+last_release: '2019-08-16'
+track_count: 3
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/7bVBVMOB6aooO7hPwl8jGc" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

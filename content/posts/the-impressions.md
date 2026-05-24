@@ -11,6 +11,10 @@ tags:
   - 'classic soul'
   - 'soul'
   - 'doo-wop'
+last_release: ''
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## The Impressions

@@ -12,6 +12,10 @@ genre:
 explicit: true
 tags:
   - '@jenslekman'
+last_release: '2022-05-04'
+track_count: 13
+active: true
+bucket: 'FAUCET'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/2RKPrJElcumkY3XEw8ShMF" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

@@ -7,6 +7,10 @@ tags:
   - '@the-shangri-las'
   - '1900s'
   - 'doo-wop'
+last_release: ''
+track_count: 4
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## The Shangri-Las

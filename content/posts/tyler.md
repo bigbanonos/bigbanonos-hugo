@@ -17,6 +17,10 @@ tags:
   - 'r&b'
   - 'alternative r&b'
   - 'rap'
+last_release: ''
+track_count: 10
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## Tyler

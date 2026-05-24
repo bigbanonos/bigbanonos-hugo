@@ -12,6 +12,10 @@ tags:
   - '@seanpaul'
   - '@rvssian'
   - '@vybzkartel'
+last_release: ''
+track_count: 0
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <h1>BigBanonos Top 18 Songs by Shenseea</h1> <p>Last updated August 20, 2025 with her feature on <em>"Storybook Riddim"</em> alongside Vybz Kartel and Rvssian, and previously updated June 11, 2025 with her feature on <em>"Tip (Remix)"</em>.</p> <p><img alt="Shenseea" src="https://www.dancehallmag.com/assets/2024/09/shenseea-900x600.jpg" width="100%" /></p> <p>BigBanonos is a fantastic resource for discovering modern Dancehall and Jamaican music artists. Here are our top picks from Shenseeas discography, capturing her dynamic evolution in the genre.</p> <h2>Top Shenseea Tracks by Release Date</h2>

@@ -16,6 +16,10 @@ tags:
   - '2020s'
   - 'neo-psychedelic'
   - 'indie'
+last_release: '2023-04-25'
+track_count: 3
+active: true
+bucket: 'NEW_LEAK'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/62tGzw9OJOwDcjPBnMPCuj" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

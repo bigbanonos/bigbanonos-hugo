@@ -7,6 +7,10 @@ era:
   - "2000s-2010s"
 tags:
   - '@sleighbells'
+last_release: '2013-10-08'
+track_count: 4
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/6eqOGp0DElFtxNqbvOqhK4" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

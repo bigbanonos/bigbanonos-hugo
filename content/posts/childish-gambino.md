@@ -16,6 +16,10 @@ tags:
   - '@21savage'
   - '@childishgambino'
   - '@ink'
+last_release: '2024-05-13'
+track_count: 5
+active: true
+bucket: 'STILL_DRIPPING'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/6ajiOUVtxRjYcf1EvBDoV4" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

@@ -11,6 +11,10 @@ tags:
   - '@lee-dorsey'
   - '00s-10s'
   - 'northern soul'
+last_release: '2008-10-14'
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/6DNgKv1sWH2505Z5SAqAXr" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

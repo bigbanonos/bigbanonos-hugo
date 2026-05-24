@@ -11,6 +11,10 @@ tags:
   - '@laioung'
   - '@wsg'
   - '@dancehall'
+last_release: ''
+track_count: 7
+active: false
+bucket: 'ARTIFACT'
 ---
 
 Jamaican dancehall artist from Red Hills Road, Kingston. Former firefighter, one of the most consistent artists in the genre right now.

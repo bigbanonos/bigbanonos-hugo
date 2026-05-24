@@ -12,6 +12,10 @@ genre:
 explicit: true
 tags:
   - '@weezer'
+last_release: '2024-10-25'
+track_count: 32
+active: true
+bucket: 'FAUCET'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/788AX2EfyG7AaOn6GvCMNm" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

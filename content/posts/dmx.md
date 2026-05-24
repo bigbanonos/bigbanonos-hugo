@@ -13,6 +13,10 @@ genre:
 explicit: true
 tags:
   - '@dmx'
+last_release: '2007-06-12'
+track_count: 3
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/1zzxoZVylsna2BQB65Ppcb" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

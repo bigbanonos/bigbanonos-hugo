@@ -10,6 +10,10 @@ genre:
 explicit: true
 tags:
   - '@capolow'
+last_release: ''
+track_count: 1
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/68Qkgqf3jEp5gB0Qal9jI5" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

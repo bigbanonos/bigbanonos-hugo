@@ -13,6 +13,10 @@ genre:
   - "old school hip hop"
 tags:
   - '@suga-free'
+last_release: '2006-08-22'
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/7oOTepvqEaKTUqVUQ9JDtm" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

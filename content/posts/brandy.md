@@ -10,6 +10,10 @@ genre:
 tags:
   - '@monica'
   - '@brandy'
+last_release: '1998-05-29'
+track_count: 4
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/5ZCv9I8mgChcYkSrLuLSTc" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

@@ -8,6 +8,10 @@ tags:
   - '00s-10s'
   - 'dancehall'
   - 'riddim'
+last_release: '2019-01-25'
+track_count: 8
+active: false
+bucket: 'CRYSTALLIZED'
 ---
 
 ## Deep Jahi

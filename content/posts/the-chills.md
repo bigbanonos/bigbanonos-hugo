@@ -5,6 +5,10 @@ date: 2025-02-12
 layout: post
 tags:
   - '@chills'
+last_release: ''
+track_count: 0
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <div> {{< img-lite src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/The_Chills_%281989%29.jpg/1200px-The_Chills_%281989%29.jpg" alt="The Chills" >}}

@@ -16,6 +16,10 @@ tags:
   - '2020s'
   - 'garage rock'
   - 'neo-psychedelic'
+last_release: '2022-11-25'
+track_count: 12
+active: true
+bucket: 'FAUCET'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/2Phv50pX00tVMEd2qTraN1" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

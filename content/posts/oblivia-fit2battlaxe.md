@@ -7,6 +7,10 @@ letter: "O"
 era: "2000s-2010s"
 tags:
   - '@oblivia-fit2battlaxe'
+last_release: ''
+track_count: 1
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/4RgMFDduH9SeOR9yMa0UmF" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

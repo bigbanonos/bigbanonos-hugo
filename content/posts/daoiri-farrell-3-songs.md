@@ -5,6 +5,10 @@ date: 2024-12-21
 layout: post
 tags:
   - '@daoirifarrell'
+last_release: ''
+track_count: 0
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <h3><em>BigBanonos</em> Top 3 Irish Songs by DaoirÃƒÆ’Ã‚­ Farrell:</h3> <p>Updated on June 26, 2020 with the standout track "When the Breakers Go Back on Fulltime" from the album "The Lockdown." BigBanonos favorite DaoirÃƒÆ’Ã‚­ Farrell songs capture the soul of Irish folk, showcasing storytelling and melodies that resonate with tradition.</p> <!--Image-->

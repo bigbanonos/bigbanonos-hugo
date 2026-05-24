@@ -17,6 +17,10 @@ tags:
   - 'baroque pop'
   - 'proto-punk'
   - 'singer-songwriter'
+last_release: '1974-01-01'
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/3v19aK0OgDXN1M1KAliHV3" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

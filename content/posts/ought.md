@@ -9,6 +9,10 @@ genre:
   - "post-punk"
 tags:
   - '@ought'
+last_release: '2018-02-06'
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/2id3yB9tZdbpjCp2tkjhXn" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

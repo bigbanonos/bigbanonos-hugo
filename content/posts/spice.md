@@ -11,6 +11,10 @@ tags:
   - 'soca'
   - 'shatta'
   - 'ragga'
+last_release: '2022-08-26'
+track_count: 10
+active: true
+bucket: 'FAUCET'
 ---
 
 ## Spice

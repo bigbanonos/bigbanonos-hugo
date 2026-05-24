@@ -2,7 +2,6 @@
 title: "H · 2000s-2010s 1-offs"
 date: 2019-11-06
 category: "1off"
-track_count: 26
 letter: "H"
 era: "00s-10s"
 stub: true
@@ -10,6 +9,10 @@ tags:
   - 'letter-h'
   - '1off'
   - '00s-10s'
+last_release: ''
+track_count: 26
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## H · 2000s-2010s 1-offs

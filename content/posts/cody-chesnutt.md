@@ -10,6 +10,10 @@ genre:
   - "retro pop"
 tags:
   - '@cody-chesnutt'
+last_release: ''
+track_count: 1
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/7v3x97gNAFbem9xhrWhux6" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

@@ -27,6 +27,10 @@ tags:
   - '@citygirls'
   - '@lilwayne'
   - '@lilbaby'
+last_release: '2023-08-11'
+track_count: 7
+active: true
+bucket: 'STILL_DRIPPING'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/2buC0ru4cVutdUhxIjH9Bj" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

@@ -6,6 +6,10 @@ layout: post
 tags:
   - '@monsterbobby'
   - '@indietronic'
+last_release: ''
+track_count: 1
+active: false
+bucket: 'ARTIFACT'
 ---
 
 One of the greatest song titles ever written, and the song lives up to it. Monster Bobby was the guitarist behind indie pop girl group The Pipettes, and his solo record *Gaps* is a brittle, tender collection of electronic dreamscapes that nobody talks about enough.

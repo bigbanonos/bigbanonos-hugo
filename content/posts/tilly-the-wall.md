@@ -8,6 +8,10 @@ era:
   - "2000s-2010s"
 tags:
   - '@tilly-the-wall'
+last_release: '2008-06-17'
+track_count: 4
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/6tJuqo92oJ0t6jgi5Irx0K" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

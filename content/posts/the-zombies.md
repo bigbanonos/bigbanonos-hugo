@@ -9,6 +9,10 @@ tags:
   - '1900s'
   - 'baroque pop'
   - 'psychedelic rock'
+last_release: ''
+track_count: 4
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## The Zombies

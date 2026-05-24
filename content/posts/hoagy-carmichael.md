@@ -8,6 +8,10 @@ tags:
   - '1900s'
   - '2020s'
   - 'big band'
+last_release: ''
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## Hoagy Carmichael

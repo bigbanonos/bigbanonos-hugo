@@ -7,6 +7,10 @@ letter: "N"
 era: "2020s"
 tags:
   - '@nana-lourdes'
+last_release: ''
+track_count: 1
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/1OD9c17q9QQrWMirigs4HG" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

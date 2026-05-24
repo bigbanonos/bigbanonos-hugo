@@ -11,6 +11,10 @@ genre:
 explicit: true
 tags:
   - '@diplomats'
+last_release: '2026-02-18'
+track_count: 3
+active: true
+bucket: 'NEW_LEAK'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/7eM578rqkqkle50yM0JkCM" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

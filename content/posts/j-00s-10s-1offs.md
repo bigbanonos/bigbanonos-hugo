@@ -2,7 +2,6 @@
 title: "J · 2000s-2010s 1-offs"
 date: 2019-12-24
 category: "1off"
-track_count: 65
 letter: "J"
 era: "00s-10s"
 stub: true
@@ -10,6 +9,10 @@ tags:
   - 'letter-j'
   - '1off'
   - '00s-10s'
+last_release: ''
+track_count: 65
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## J · 2000s-2010s 1-offs

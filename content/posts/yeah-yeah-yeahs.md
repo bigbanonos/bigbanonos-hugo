@@ -17,6 +17,10 @@ tags:
   - '2020s'
   - 'indie rock'
   - 'art pop'
+last_release: '2022-06-01'
+track_count: 19
+active: true
+bucket: 'FAUCET'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/3kBBjItT7JnKi28k68dGkr" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

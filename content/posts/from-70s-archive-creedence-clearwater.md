@@ -6,6 +6,10 @@ layout: post
 tags:
   - '@creedenceclearwaterrevival'
   - '@ccr'
+last_release: ''
+track_count: 0
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <h2>Creedence Clearwater Revival – Essential Tracks</h2> <div > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Creedence_Clearwater_Revival_1968.jpg/640px-Creedence_Clearwater_Revival_1968.jpg" alt="Creedence Clearwater Revival" width="500" />

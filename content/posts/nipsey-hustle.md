@@ -12,6 +12,10 @@ genre:
 explicit: true
 tags:
   - '@nipsey-hustle'
+last_release: '2018-01-19'
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/6sLuPa0hdDfsrksiVNA5Ux" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

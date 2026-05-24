@@ -12,6 +12,10 @@ tags:
   - 'celtic rock'
   - 'christmas'
   - 'folk punk'
+last_release: ''
+track_count: 7
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## The Pogues

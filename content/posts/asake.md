@@ -7,6 +7,10 @@ tags:
   - '@asake'
   - '@tiakola'
   - '@burnaboy'
+last_release: '2025-07-25'
+track_count: 4
+active: true
+bucket: 'NEW_LEAK'
 ---
 
 <img src="https://i.ytimg.com/vi/gNcm6xXAFzc/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLC1SrKEGgFHQGH6YXJSh-c5My8KXw" width="100%" alt="Asake - BADMAN GANGSTA ft. Tiakola" /> <h2>BigBanonos Favorite Songs by Asake</h2> <p>Last updated July 24, 2025 with <em>"BADMAN GANGSTA"</em> featuring Tiakola. Below are BigBanonos favorite Asake cuts, ordered by most recent release, plus the Burna Boy remix of "Sungba."</p> <!-- Featured video (newest) -->

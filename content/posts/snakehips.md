@@ -15,6 +15,10 @@ genre:
 explicit: true
 tags:
   - '@snakehips'
+last_release: '2019-09-27'
+track_count: 4
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/2sLUafCxAZTrAwGhrOTTkJ" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

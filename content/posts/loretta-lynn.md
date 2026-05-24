@@ -15,6 +15,10 @@ genre:
 tags:
   - '@lorettalynn'
   - '@jackwhite'
+last_release: '2004-04-27'
+track_count: 4
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/5KZ7xHdaC3Y4bdhgpMpYEA" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

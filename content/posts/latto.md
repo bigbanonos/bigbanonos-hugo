@@ -17,6 +17,10 @@ tags:
   - '@lilwayne'
   - '@saweetie'
   - '@latto'
+last_release: '2022-09-27'
+track_count: 5
+active: true
+bucket: 'STILL_DRIPPING'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/5lmUjeMkdsiYFvMt4Gtcot" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

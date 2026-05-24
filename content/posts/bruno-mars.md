@@ -9,6 +9,10 @@ era:
   - "2020s"
 tags:
   - '@bruno-mars'
+last_release: '2021-11-05'
+track_count: 3
+active: true
+bucket: 'NEW_LEAK'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/4iN16F8JtVxG2UTzp3avGl" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

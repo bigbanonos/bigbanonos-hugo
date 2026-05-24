@@ -12,6 +12,10 @@ genre:
   - "motown"
 tags:
   - '@frankie-valli'
+last_release: '2003-01-14'
+track_count: 5
+active: false
+bucket: 'CRYSTALLIZED'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/11ZnVkr0UJiTM14qAa8MW1" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

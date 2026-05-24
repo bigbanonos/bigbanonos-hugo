@@ -10,6 +10,10 @@ genre:
 explicit: true
 tags:
   - '@national'
+last_release: '2013-05-27'
+track_count: 12
+active: false
+bucket: 'THE_VAULT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/0XKXeiNCDf9jlK1YmkM1cX" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

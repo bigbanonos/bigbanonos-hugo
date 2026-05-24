@@ -11,6 +11,10 @@ tags:
   - 'krautrock'
   - 'post-rock'
   - 'neo-psychedelic'
+last_release: ''
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## Stereolab

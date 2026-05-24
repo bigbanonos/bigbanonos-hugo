@@ -12,6 +12,10 @@ genre:
   - "art rock"
 tags:
   - '@velvet-underground'
+last_release: '2014-11-24'
+track_count: 14
+active: false
+bucket: 'THE_VAULT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/2nWspfDCybeA2NamQG6CCq" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

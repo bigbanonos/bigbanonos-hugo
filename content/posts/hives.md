@@ -10,6 +10,10 @@ genre:
   - "garage rock"
 tags:
   - '@hives'
+last_release: '2000-01-01'
+track_count: 3
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/6xxXrNJnnsQNLdgNk8S4y8" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

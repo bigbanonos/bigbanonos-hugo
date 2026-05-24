@@ -9,6 +9,10 @@ genre:
   - "neo-psychedelic"
 tags:
   - '@magic-trick'
+last_release: ''
+track_count: 1
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/6Jt9Z47AvLYbWW5Zq1eEG5" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

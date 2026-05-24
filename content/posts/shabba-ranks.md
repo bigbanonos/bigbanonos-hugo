@@ -13,6 +13,10 @@ genre:
   - "reggae pop"
 tags:
   - '@shabba-ranks'
+last_release: ''
+track_count: 1
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/3lOrfY4S4kXe6oSrSnXVwS" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

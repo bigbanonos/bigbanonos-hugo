@@ -4,6 +4,10 @@ date: 2020-01-01
 draft: false
 tags: ["playlist", "1off", "w"]
 description: "8 tracks — W artists, 2020s"
+last_release: ''
+track_count: 8
+active: false
+bucket: 'ARTIFACT'
 ---
 
 8 tracks.

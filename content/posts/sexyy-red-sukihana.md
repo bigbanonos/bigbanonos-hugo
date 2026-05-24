@@ -7,6 +7,10 @@ tags:
   - '@sexyy-red-sukihana'
   - '@sexyy-red'
   - '2020s'
+last_release: ''
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## Sexyy Red;Sukihana

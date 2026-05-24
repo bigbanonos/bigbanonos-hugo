@@ -13,6 +13,10 @@ genre:
 tags:
   - '@kathbloom'
   - '@lorenconnors'
+last_release: '2009-04-07'
+track_count: 3
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/0obqTfFBEWdH5AeElzGf9D" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

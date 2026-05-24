@@ -9,6 +9,10 @@ tags:
   - '@jordana'
   - '00s-10s'
   - '2020s'
+last_release: ''
+track_count: 5
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## Jordana;TV Girl

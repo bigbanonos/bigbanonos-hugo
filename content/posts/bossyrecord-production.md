@@ -10,6 +10,10 @@ genre:
 explicit: true
 tags:
   - '@bossyrecord-production'
+last_release: ''
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/5ArMEDRICkFuU1oz9I74ut" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

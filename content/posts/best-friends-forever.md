@@ -13,6 +13,10 @@ tags:
   - '00s-10s'
   - 'folk punk'
   - 'anti-folk'
+last_release: '2009-09-09'
+track_count: 5
+active: false
+bucket: 'CRYSTALLIZED'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/2V7VvRes9HzrVm1Grr7WEk" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

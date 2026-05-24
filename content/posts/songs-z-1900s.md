@@ -4,6 +4,10 @@ date: 1900-01-02
 draft: false
 tags: ["playlist", "1off", "z"]
 description: "2 tracks — Z artists, 1900s–1990s"
+last_release: ''
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 2 tracks.

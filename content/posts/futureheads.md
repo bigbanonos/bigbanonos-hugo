@@ -8,6 +8,10 @@ era:
   - "2000s-2010s"
 tags:
   - '@futureheads'
+last_release: '2004-08-03'
+track_count: 5
+active: false
+bucket: 'CRYSTALLIZED'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/4ufuXcVtLv4BOxCa91BuP7" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

@@ -14,6 +14,10 @@ genre:
   - "darkwave"
 tags:
   - '@cure'
+last_release: '2008-10-27'
+track_count: 28
+active: false
+bucket: 'THE_VAULT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/6C2MCGgNdVmtrZMIh3rZVY" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

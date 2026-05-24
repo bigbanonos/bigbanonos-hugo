@@ -15,6 +15,10 @@ genre:
 explicit: true
 tags:
   - '@game'
+last_release: '2019-11-29'
+track_count: 13
+active: false
+bucket: 'THE_VAULT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/0KCKvB4p6ZWmElt6EnGHbC" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

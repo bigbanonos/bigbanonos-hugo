@@ -12,6 +12,10 @@ genre:
   - "proto-punk"
 tags:
   - '@dirtbombs'
+last_release: '2013-09-17'
+track_count: 7
+active: false
+bucket: 'CRYSTALLIZED'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/5HIFJ6EH06BnohN4KDWbO6" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

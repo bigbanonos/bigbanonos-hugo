@@ -13,6 +13,10 @@ tags:
   - '2020s'
   - 'plunderphonics'
   - 'lo-fi house'
+last_release: '2025-02-17'
+track_count: 8
+active: true
+bucket: 'STILL_DRIPPING'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/5X4biaNcF7MMWDUjGKumNU" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

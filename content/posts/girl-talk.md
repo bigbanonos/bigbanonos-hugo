@@ -14,6 +14,10 @@ tags:
   - '00s-10s'
   - '2020s'
   - 'plunderphonics'
+last_release: '2021-06-14'
+track_count: 18
+active: true
+bucket: 'FAUCET'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/7AXych3exJWZU7xAKapc3E" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

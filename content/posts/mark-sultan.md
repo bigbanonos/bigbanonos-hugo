@@ -11,6 +11,10 @@ tags:
   - '@mark-sultan'
   - '00s-10s'
   - 'garage rock'
+last_release: '2011-10-25'
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/4XL26v0gA003qtGRInTn5e" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

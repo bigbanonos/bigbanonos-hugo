@@ -10,6 +10,10 @@ tags:
   - 'dancehall'
   - 'soca'
   - 'riddim'
+last_release: '2019-05-10'
+track_count: 4
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## Pamputae

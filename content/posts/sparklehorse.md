@@ -15,6 +15,10 @@ explicit: true
 tags:
   - '@pjharvey'
   - '@sparklehorse'
+last_release: '2001-08-08'
+track_count: 5
+active: false
+bucket: 'CRYSTALLIZED'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/0N3H8hAe6Lfu2iGSxGVdGQ" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

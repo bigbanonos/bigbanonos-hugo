@@ -11,6 +11,10 @@ tags:
   - '@titus-andronicus'
   - '00s-10s'
   - 'indie punk'
+last_release: '2018-02-05'
+track_count: 6
+active: false
+bucket: 'CRYSTALLIZED'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/5iB2pU8xFx8Z7qvQbNlRUI" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

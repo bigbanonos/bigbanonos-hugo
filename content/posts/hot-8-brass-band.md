@@ -9,6 +9,10 @@ genre:
   - "brass band"
 tags:
   - '@hot-8-brass-band'
+last_release: ''
+track_count: 1
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/3Oumc5HVTksK8hLtU9Lp4n" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

@@ -21,6 +21,10 @@ tags:
   - 'industrial'
   - 'industrial metal'
   - 'alternative metal'
+last_release: '2007-04-17'
+track_count: 6
+active: false
+bucket: 'CRYSTALLIZED'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/0TSkgwKqFVzPmTzdQ6KtV1" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

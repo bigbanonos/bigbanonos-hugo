@@ -15,6 +15,10 @@ tags:
   - 'soca'
   - 'shatta'
   - 'future house'
+last_release: ''
+track_count: 7
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## AlunaGeorge

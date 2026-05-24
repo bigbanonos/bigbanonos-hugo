@@ -11,6 +11,10 @@ tags:
   - '@s'
   - '00s-10s'
   - 'slowcore'
+last_release: '2010-04-08'
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/14XGUdD8PAdAyHKRbQQ4cO" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

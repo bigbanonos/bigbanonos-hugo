@@ -13,6 +13,10 @@ genre:
 explicit: true
 tags:
   - '@precious'
+last_release: ''
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/4p3AtXEYX93pPgIk0i4Sop" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

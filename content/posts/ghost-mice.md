@@ -11,6 +11,10 @@ genre:
   - "queercore"
 tags:
   - '@ghostmice'
+last_release: '2014-08-04'
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/02vL4i3a3hHZ37WfM7YucP" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

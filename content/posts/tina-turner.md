@@ -8,6 +8,10 @@ era:
 tags:
   - '@tina-turner'
   - '00s-10s'
+last_release: '2008-09-30'
+track_count: 1
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/6YytY6PPvAEp1MluJ49nP0" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

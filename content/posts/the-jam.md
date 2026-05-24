@@ -5,6 +5,10 @@ date: 2025-02-09
 layout: post
 tags:
   - '@jam'
+last_release: ''
+track_count: 0
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <h2>BigBanonos Favorite Songs by The Jam</h2> <p><strong>Updated 1980, with "Thats Entertainment" from <em>Sound Affects</em></strong></p> {{< img-lite src="https://i.discogs.com/_WQ9kWKtfkTDHNu5G2546XkjPTtXVk2aofVEzY4Jt-c/rs:fit/g:sm/q:90/h:576/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY5NjMx/ODQtMTQ2Nzk5MjA5/Mi0yMjU5LmpwZWc.jpeg" alt="The Jam" >}} <p>The Jams blend of punk and mod revival made them one of the most influential British bands. Below is BigBanonos favorite song by The Jam.</p> <h3>"Thats Entertainment"</h3>

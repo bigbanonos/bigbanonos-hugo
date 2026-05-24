@@ -16,6 +16,10 @@ tags:
   - 'queercore'
   - 'proto-punk'
   - 'glam rock'
+last_release: '1976-01-01'
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/3oc3LvlTQvOZGdCtYhhNKT" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

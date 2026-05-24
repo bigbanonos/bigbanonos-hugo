@@ -14,6 +14,10 @@ tags:
   - '00s-10s'
   - '2020s'
   - 'synthpop'
+last_release: '2021-07-12'
+track_count: 5
+active: true
+bucket: 'STILL_DRIPPING'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/7rvEHS085Fy3OBX2pjstGP" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

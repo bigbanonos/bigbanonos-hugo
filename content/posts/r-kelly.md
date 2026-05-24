@@ -31,6 +31,10 @@ tags:
   - 'quiet storm'
   - 'southern hip hop'
   - 'new jack swing'
+last_release: '2015-08-21'
+track_count: 44
+active: false
+bucket: 'THE_VAULT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/0sbtER6km0p7hxOUvXnXNl" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

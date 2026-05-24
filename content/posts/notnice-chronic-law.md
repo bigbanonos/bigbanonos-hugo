@@ -11,6 +11,10 @@ tags:
   - 'soca'
   - 'riddim'
   - 'ragga'
+last_release: ''
+track_count: 3
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## Notnice;Chronic Law

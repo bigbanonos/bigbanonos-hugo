@@ -9,6 +9,10 @@ genre:
   - "miami bass"
 tags:
   - '@ghost-town-djs'
+last_release: ''
+track_count: 1
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/4c0rkFPszqQTyC753tsCMU" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

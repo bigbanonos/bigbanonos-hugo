@@ -9,6 +9,10 @@ tags:
   - '2020s'
   - 'jazz rap'
   - 'alternative hip hop'
+last_release: ''
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## Freddie Gibbs;Offset

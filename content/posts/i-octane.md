@@ -12,6 +12,10 @@ tags:
   - 'riddim'
   - 'reggae'
   - 'lovers rock'
+last_release: '2021-10-22'
+track_count: 9
+active: true
+bucket: 'STILL_DRIPPING'
 ---
 
 ## I-Octane

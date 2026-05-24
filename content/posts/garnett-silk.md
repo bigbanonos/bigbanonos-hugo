@@ -13,6 +13,10 @@ genre:
   - "dancehall"
 tags:
   - '@garnett-silk'
+last_release: ''
+track_count: 1
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/5a3fYfeY9FJb0AbQF35c1e" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

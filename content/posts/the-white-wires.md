@@ -10,6 +10,10 @@ tags:
   - 'power pop'
   - 'garage rock'
   - 'indie punk'
+last_release: ''
+track_count: 4
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## The White Wires

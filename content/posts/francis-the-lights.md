@@ -10,6 +10,10 @@ genre:
   - "rap"
 tags:
   - '@francis-the-lights'
+last_release: '2019-08-30'
+track_count: 3
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/6xxldyD49GihQ9HULyNIQb" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

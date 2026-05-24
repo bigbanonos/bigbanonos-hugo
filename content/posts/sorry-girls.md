@@ -8,6 +8,10 @@ era:
   - "2020s"
 tags:
   - '@sorrygirls'
+last_release: '2023-09-05'
+track_count: 5
+active: true
+bucket: 'STILL_DRIPPING'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/4WFgUozeQqYpohlO0T09Av" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

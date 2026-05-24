@@ -11,6 +11,10 @@ genre:
   - "dancehall"
 tags:
   - '@nessa-preppy'
+last_release: ''
+track_count: 1
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/39YXUcZ7E4hpE5vKBdhHvW" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

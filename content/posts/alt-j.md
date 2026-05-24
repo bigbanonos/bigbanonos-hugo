@@ -10,6 +10,10 @@ genre:
   - "indie rock"
 tags:
   - '@altj'
+last_release: '2012-09-18'
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/3n69hLUdIsSa1WlRmjMZlW" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

@@ -13,6 +13,10 @@ tags:
   - 'west coast hip hop'
   - 'r&b'
   - 'trap soul'
+last_release: ''
+track_count: 5
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## ScHoolboy Q

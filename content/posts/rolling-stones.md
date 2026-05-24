@@ -13,6 +13,10 @@ genre:
 explicit: true
 tags:
   - '@rolling-stones'
+last_release: '2015-02-06'
+track_count: 11
+active: false
+bucket: 'THE_VAULT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/1uKH3ARs5izn6yV4Af9OV4" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

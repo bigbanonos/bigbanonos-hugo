@@ -26,6 +26,10 @@ tags:
   - '@theweeknd'
   - '@21savage'
   - '@travisscott'
+last_release: '2025-11-07'
+track_count: 11
+active: true
+bucket: 'FAUCET'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/6YwLzNOYk2ExIzSjkthPEq" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

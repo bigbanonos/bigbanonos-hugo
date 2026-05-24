@@ -13,6 +13,10 @@ genre:
   - "lovers rock"
 tags:
   - '@exco-levi'
+last_release: ''
+track_count: 1
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/1OiIozGoaxd0Sp7Axs2AjY" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

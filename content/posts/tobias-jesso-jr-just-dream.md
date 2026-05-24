@@ -5,6 +5,10 @@ date: 2025-02-21
 layout: post
 tags:
   - '@tobiasjessojr'
+last_release: ''
+track_count: 0
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <img src="https://i.ytimg.com/vi/S8rEY2Gt8SI/hqdefault.jpg?sqp=-oaymwEmCOADEOgC8quKqQMa8AEB-AG-AoAC8AGKAgwIABABGGUgRihDMA8=&rs=AOn4CLB_2mNMqkFIvqk1U55fWTQ-U9qEzg" width="100%" /> <h2>BigBanonos Favorite Songs by Tobias Jesso Jr.</h2> <p>Check out the 2013 track "Just A Dream.":</p> {{< youtube "S8rEY2Gt8SI" >}}

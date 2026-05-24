@@ -16,6 +16,10 @@ genre:
 explicit: true
 tags:
   - '@big-sean'
+last_release: '2021-10-29'
+track_count: 4
+active: true
+bucket: 'NEW_LEAK'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/6QTTPp4rzMqcbWWzgrGf9c" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

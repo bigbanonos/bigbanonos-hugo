@@ -10,6 +10,10 @@ tags:
   - '@jeremih'
   - '@murfdilly'
   - '@blakeiana'
+last_release: '2023-08-18'
+track_count: 2
+active: true
+bucket: 'NEW_LEAK'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/2tcwDnSJvG8Mtl1XugHVDL" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

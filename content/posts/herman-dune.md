@@ -7,6 +7,10 @@ tags:
   - '@herman-d-ne'
   - '00s-10s'
   - 'anti-folk'
+last_release: '2006-10-13'
+track_count: 1
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## Herman Düne

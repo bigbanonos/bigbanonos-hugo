@@ -7,6 +7,10 @@ tags:
   - '@the-vines'
   - '00s-10s'
   - 'garage rock'
+last_release: ''
+track_count: 5
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## The Vines

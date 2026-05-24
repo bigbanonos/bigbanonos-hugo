@@ -15,6 +15,10 @@ tags:
   - 'garage rock'
   - 'modern blues'
   - 'blues rock'
+last_release: '2004-01-01'
+track_count: 5
+active: false
+bucket: 'CRYSTALLIZED'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/3ZlKiVuJfEvi4q10ZgR45x" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

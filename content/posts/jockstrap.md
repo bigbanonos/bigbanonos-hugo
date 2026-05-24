@@ -9,6 +9,10 @@ genre:
   - "art pop"
 tags:
   - '@jockstrap'
+last_release: '2022-09-09'
+track_count: 4
+active: true
+bucket: 'NEW_LEAK'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/5eWKybWrLV0JyI2rU0NfA1" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

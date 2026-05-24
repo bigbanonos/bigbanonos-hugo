@@ -10,6 +10,10 @@ genre:
   - "rock and roll"
 tags:
   - '@elvispresley'
+last_release: '1993-02-22'
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/4zFaGLGx0Twck1EOuVVZNY" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

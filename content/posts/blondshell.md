@@ -7,6 +7,10 @@ era:
   - "2020s"
 tags:
   - '@blondshell'
+last_release: '2023-06-21'
+track_count: 3
+active: true
+bucket: 'NEW_LEAK'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/1BZdaILVXGhuJbvlMFzBBD" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

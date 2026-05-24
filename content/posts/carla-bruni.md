@@ -11,6 +11,10 @@ genre:
   - "chanson"
 tags:
   - '@carlabruni'
+last_release: '2024-11-22'
+track_count: 2
+active: true
+bucket: 'NEW_LEAK'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/5zaTEv82yHYDgxlw39jy6W" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

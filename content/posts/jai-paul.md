@@ -7,6 +7,10 @@ era:
   - "2000s-2010s"
 tags:
   - '@jaipaul'
+last_release: '2019-06-02'
+track_count: 6
+active: false
+bucket: 'CRYSTALLIZED'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/6ysRK6One7O5GiRVvrs0x1" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

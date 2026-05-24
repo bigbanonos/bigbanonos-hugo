@@ -12,6 +12,10 @@ genre:
   - "darkwave"
 tags:
   - '@depeche-mode'
+last_release: '1989-03-13'
+track_count: 3
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/0FJ1Rp4a07kA4lXIIV56mP" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

@@ -12,6 +12,10 @@ genre:
 explicit: true
 tags:
   - '@jennifer-lopez'
+last_release: '2001-01-16'
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/6MLsahMK3VvH9NUwXOktdS" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

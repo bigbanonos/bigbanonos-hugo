@@ -6,6 +6,10 @@ layout: post
 tags:
   - '@edward-sharpe-the-magnetic-zeros'
   - '00s-10s'
+last_release: ''
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## Edward Sharpe & The Magnetic Zeros

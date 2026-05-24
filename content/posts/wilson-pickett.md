@@ -13,6 +13,10 @@ genre:
   - "northern soul"
 tags:
   - '@wilsonpickett'
+last_release: '2005-02-08'
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/5Sz09kaSzvpTC8lgm5W8Mt" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

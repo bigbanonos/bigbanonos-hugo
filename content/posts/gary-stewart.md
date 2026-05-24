@@ -13,6 +13,10 @@ genre:
   - "traditional country"
 tags:
   - '@garystewart'
+last_release: '2004-07-27'
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/32YbeD81QS0opdouHEQc7r" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

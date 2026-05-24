@@ -14,6 +14,10 @@ tags:
   - '@megantheestallion'
   - '@tylerthecreator'
   - '@maxokream'
+last_release: '2024-11-15'
+track_count: 13
+active: true
+bucket: 'FAUCET'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/0ULFxoVhHTWM93Wha8QdXC" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

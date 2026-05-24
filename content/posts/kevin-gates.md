@@ -18,6 +18,10 @@ tags:
   - '2020s'
   - 'r&b'
   - 'trap soul'
+last_release: '2022-06-17'
+track_count: 6
+active: true
+bucket: 'STILL_DRIPPING'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/2We63UGhJEyD2x4n74jwpa" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

@@ -7,6 +7,10 @@ tags:
   - '@barbaralynn'
   - '@soul'
   - '@rnb'
+last_release: ''
+track_count: 1
+active: false
+bucket: 'ARTIFACT'
 ---
 
 Texas blues and soul guitarist. Wrote and recorded this at 20 years old in 1962. One of the great songs.

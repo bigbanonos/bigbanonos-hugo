@@ -11,6 +11,10 @@ tags:
   - 'riddim'
   - 'soca'
   - 'ragga'
+last_release: '2019-11-27'
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## LVNA

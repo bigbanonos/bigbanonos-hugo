@@ -15,6 +15,10 @@ tags:
   - '00s-10s'
   - 'southern hip hop'
   - 'ambient jazz'
+last_release: '2012-12-18'
+track_count: 8
+active: false
+bucket: 'CRYSTALLIZED'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/3QNi6i3GJruBJhMgDRBktx" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

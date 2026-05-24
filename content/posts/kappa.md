@@ -7,6 +7,10 @@ tags:
   - '@kappa'
   - '00s-10s'
   - 'riddim'
+last_release: '2018-06-22'
+track_count: 1
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## Kappa

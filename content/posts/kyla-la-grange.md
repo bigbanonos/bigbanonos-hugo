@@ -12,6 +12,10 @@ tags:
   - '@kyla-la-grange-ox2'
   - '00s-10s'
   - 'tropical house'
+last_release: '2016-06-17'
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/6AdX3RgL5xvExxb4twElRK" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

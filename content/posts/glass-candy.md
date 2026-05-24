@@ -11,6 +11,10 @@ tags:
   - '@glass-candy'
   - '00s-10s'
   - 'electroclash'
+last_release: '2013-05-17'
+track_count: 3
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/0CPptNVtkXTEftjCjHAe3d" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

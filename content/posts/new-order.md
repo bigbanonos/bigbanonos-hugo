@@ -19,6 +19,10 @@ tags:
   - 'synthpop'
   - 'post-punk'
   - 'madchester'
+last_release: '2017-02-10'
+track_count: 7
+active: false
+bucket: 'CRYSTALLIZED'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/4NHBCFq7uaQGUW2P7yg6hE" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

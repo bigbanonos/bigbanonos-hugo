@@ -4,6 +4,10 @@ date: 2000-01-01
 draft: false
 tags: ["playlist", "1off", "v"]
 description: "3 tracks — V artists, 2000s–2010s"
+last_release: ''
+track_count: 3
+active: false
+bucket: 'ARTIFACT'
 ---
 
 3 tracks.

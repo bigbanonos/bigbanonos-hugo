@@ -13,6 +13,10 @@ genre:
   - "psychedelic rock"
 tags:
   - '@kim-vincent-fowley'
+last_release: '2012-10-08'
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/72hnZQAHuziyBTrS6BC2fc" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

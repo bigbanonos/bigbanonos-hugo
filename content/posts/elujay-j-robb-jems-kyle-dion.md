@@ -10,6 +10,10 @@ tags:
   - '2020s'
   - 'alternative r&b'
   - 'indie r&b'
+last_release: ''
+track_count: 3
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## Elujay;J.Robb;JEMS!;Kyle Dion

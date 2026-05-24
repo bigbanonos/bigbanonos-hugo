@@ -18,6 +18,10 @@ tags:
   - '00s-10s'
   - 'hip hop'
   - 'west coast hip hop'
+last_release: '2017-12-15'
+track_count: 6
+active: false
+bucket: 'CRYSTALLIZED'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/5HBcMAMVgBVUWiLyiK7q4I" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

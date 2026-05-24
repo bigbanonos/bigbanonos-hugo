@@ -8,6 +8,10 @@ era:
 explicit: true
 tags:
   - '@tvgirl'
+last_release: '2023-06-30'
+track_count: 1
+active: true
+bucket: 'NEW_LEAK'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/1sv1SN854EsB5WcI27cQxe" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

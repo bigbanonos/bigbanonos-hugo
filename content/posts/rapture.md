@@ -14,6 +14,10 @@ genre:
 explicit: true
 tags:
   - '@rapture'
+last_release: '2011-09-06'
+track_count: 14
+active: false
+bucket: 'THE_VAULT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/1qK54zIm624H5W5QQsCrOC" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

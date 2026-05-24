@@ -10,6 +10,10 @@ genre:
   - "riddim"
 tags:
   - '@devindidakta'
+last_release: '2019-08-16'
+track_count: 3
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/1MrEx91rLDG0No8UzmtxLA" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

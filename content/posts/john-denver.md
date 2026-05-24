@@ -11,6 +11,10 @@ genre:
 tags:
   - '@johndenver'
   - '@vinylonhbo'
+last_release: '2016-04-01'
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/33dvoxyqW0tPXEGNnoEcth" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

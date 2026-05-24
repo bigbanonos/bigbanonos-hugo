@@ -23,6 +23,10 @@ tags:
   - 'afrobeat'
   - 'afrobeats'
   - 'afroswing'
+last_release: '2025-10-24'
+track_count: 11
+active: true
+bucket: 'FAUCET'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/78UbQMZzIw96RFYuqqL8mo" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

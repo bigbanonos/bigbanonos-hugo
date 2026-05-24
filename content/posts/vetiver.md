@@ -8,6 +8,10 @@ era:
 tags:
   - '@vetiver'
   - '00s-10s'
+last_release: '2005-06-14'
+track_count: 3
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/40lYAG1idcVGgW1sboRS4b" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

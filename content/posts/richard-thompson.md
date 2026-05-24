@@ -13,6 +13,10 @@ genre:
   - "sea shanties"
 tags:
   - '@richard-thompson'
+last_release: '1994-01-01'
+track_count: 4
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/4j8z75abjq2GCA1U7AaPRj" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

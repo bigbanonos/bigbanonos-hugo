@@ -8,6 +8,10 @@ era:
 tags:
   - '@madonna'
   - '1900s'
+last_release: '1983-07-27'
+track_count: 5
+active: false
+bucket: 'CRYSTALLIZED'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/2hWI9GNr3kBrxZ7Mphho4Q" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

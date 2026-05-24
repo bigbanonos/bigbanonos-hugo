@@ -2,7 +2,6 @@
 title: "G · Pre-2000 1-offs"
 date: 2009-05-25
 category: "1off"
-track_count: 22
 letter: "G"
 era: "1900s"
 stub: true
@@ -10,6 +9,10 @@ tags:
   - 'letter-g'
   - '1off'
   - '1900s'
+last_release: ''
+track_count: 22
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## G · Pre-2000 1-offs

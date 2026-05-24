@@ -11,6 +11,10 @@ genre:
   - "chillwave"
 tags:
   - '@wildnothing'
+last_release: '2018-08-07'
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/63JE1xclq1I0C0WlOEGpYH" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

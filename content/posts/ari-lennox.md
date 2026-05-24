@@ -21,6 +21,10 @@ tags:
   - '2020s'
   - 'alternative r&b'
   - 'neo soul'
+last_release: '2025-03-26'
+track_count: 13
+active: true
+bucket: 'FAUCET'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/1Jk072eWqMwDQwvI7R8fff" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

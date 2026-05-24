@@ -7,6 +7,10 @@ tags:
   - '@stephen-sharer'
   - '00s-10s'
   - '2020s'
+last_release: ''
+track_count: 14
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## Stephen Sharer

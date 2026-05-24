@@ -7,6 +7,10 @@ tags:
   - '@foxwarren'
   - '@andyshauf'
   - '@darrylkissick'
+last_release: ''
+track_count: 0
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <img src="https://i.ytimg.com/vi/B3Kvs25QnTk/maxresdefault.jpg" width="100%" /> <h2>Foxwarren</h2> <p>"Yvonne" finds Andy Shauf reuniting with Foxwarren bandmates Darryl Kissick and others for a soft-spoken, beautifully arranged track released April 22, 2025, on Arts & Crafts. Its their first new release since their 2018 self-titled album and shows that their chemistry hasnt faded.</p> {{< youtube "B3Kvs25QnTk" >}}  <hr />  

@@ -15,6 +15,10 @@ tags:
   - 'trip hop'
   - 'east coast hip hop'
   - 'jazz rap'
+last_release: ''
+track_count: 6
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## The Avalanches

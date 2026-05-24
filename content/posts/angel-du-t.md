@@ -12,6 +12,10 @@ tags:
   - 'hardcore punk'
   - 'neo-psychedelic'
   - 'edm trap'
+last_release: '2021-10-22'
+track_count: 5
+active: true
+bucket: 'STILL_DRIPPING'
 ---
 
 ## Angel Du$t

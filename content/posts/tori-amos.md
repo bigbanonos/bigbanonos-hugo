@@ -21,6 +21,10 @@ tags:
   - 'singer-songwriter'
   - 'art pop'
   - 'chillwave'
+last_release: '2023-08-25'
+track_count: 11
+active: true
+bucket: 'FAUCET'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/4mMviz9DJKLPyfhxpQIBcW" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

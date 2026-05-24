@@ -8,6 +8,10 @@ tags:
   - '1-off'
   - '2020s'
   - '@hether'
+last_release: ''
+track_count: 1
+active: false
+bucket: 'ARTIFACT'
 ---
 
 Indie folk from 2023.

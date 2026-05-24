@@ -5,6 +5,10 @@ date: 2025-02-12
 layout: post
 tags:
   - '@freenergy'
+last_release: ''
+track_count: 0
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <div> {{< img-lite src="https://i.scdn.co/image/ab67616d00001e026d27b9413044b3cc887f828c" alt="Free Energy" >}}

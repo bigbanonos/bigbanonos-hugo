@@ -7,6 +7,10 @@ tags:
   - '@ninajirachi'
   - '@horsegiirl'
   - '@hyperpop'
+last_release: ''
+track_count: 1
+active: false
+bucket: 'ARTIFACT'
 ---
 
 The horsegiirL remix of Delete is the move — takes the original somewhere weirder and better. Australian hyperpop doing what it does.

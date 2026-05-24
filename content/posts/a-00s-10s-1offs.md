@@ -2,7 +2,6 @@
 title: "A · 2000s-2010s 1-offs"
 date: 2022-06-17
 category: "1off"
-track_count: 58
 letter: "A"
 era: "00s-10s"
 stub: true
@@ -10,6 +9,10 @@ tags:
   - 'letter-a'
   - '1off'
   - '00s-10s'
+last_release: ''
+track_count: 58
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## A · 2000s-2010s 1-offs

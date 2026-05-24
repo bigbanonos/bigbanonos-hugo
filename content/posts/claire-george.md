@@ -8,6 +8,10 @@ era:
 tags:
   - '@claire-george'
   - '2020s'
+last_release: '2021-05-21'
+track_count: 2
+active: true
+bucket: 'NEW_LEAK'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/6EIxJVh3T5O8nkezu4qGYr" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

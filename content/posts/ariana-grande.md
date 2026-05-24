@@ -16,6 +16,10 @@ tags:
   - '@zedd'
   - '@victoriamonet'
   - '@arianagrande'
+last_release: '2020-10-30'
+track_count: 8
+active: true
+bucket: 'STILL_DRIPPING'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/35mvY5S1H3J2QZyna3TFe0" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

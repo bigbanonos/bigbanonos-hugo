@@ -10,6 +10,10 @@ genre:
   - "space rock"
 tags:
   - '@danmelchior'
+last_release: '2002-11-05'
+track_count: 4
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/7lnmGy8CQH26fz9MhrVhMy" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

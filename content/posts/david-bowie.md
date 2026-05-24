@@ -12,6 +12,10 @@ genre:
   - "art rock"
 tags:
   - '@david-bowie'
+last_release: '2019-09-05'
+track_count: 17
+active: false
+bucket: 'THE_VAULT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/716Ehtjj9G5xjbcYd8tFB6" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

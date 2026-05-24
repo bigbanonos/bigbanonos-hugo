@@ -16,6 +16,10 @@ tags:
   - '00s-10s'
   - '2020s'
   - 'r&b'
+last_release: '2025-09-26'
+track_count: 10
+active: true
+bucket: 'FAUCET'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/5T0mnzMsyHtmWB7Kou51Ph" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

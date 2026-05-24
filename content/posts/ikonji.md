@@ -9,6 +9,10 @@ genre:
   - "riddim"
 tags:
   - '@ikonji'
+last_release: ''
+track_count: 1
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/1fgtbUleiwYPiL42G0WvZ1" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

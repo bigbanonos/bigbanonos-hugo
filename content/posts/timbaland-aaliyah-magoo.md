@@ -17,6 +17,10 @@ tags:
   - 'contemporary r&b'
   - 'g-funk'
   - 'quiet storm'
+last_release: ''
+track_count: 6
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## Timbaland;Aaliyah;Magoo

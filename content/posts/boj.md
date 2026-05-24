@@ -7,6 +7,10 @@ tags:
   - '@boj'
   - '@moliy'
   - '@mellissa'
+last_release: ''
+track_count: 0
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <img src="https://thenativemag.com/wp-content/uploads/2022/04/unnamed-e1649423634763.png" width="100%" alt="Boj - In A Loop ft. Moliy & Mellissa" /> <h2>BigBanonos Favorite Song by Boj</h2> <p>BigBanonos highlights <em>"In A Loop"</em>, Bojs standout track featuring Moliy and Mellissa from the 2022 album <em>Gbagada Express</em>. The song blends altÃƒÆ’Ã‚©, afrobeats, afropop, and Afro R&B into a smooth, soulful cut that shows Bojs impact on modern Nigerian music.</p> {{< youtube "TyqSIHjvgUk" >}} <p><strong>In A Loop (feat. Moliy & Mellissa)</strong> " Boj<br/>

@@ -13,6 +13,10 @@ tags:
   - 'edm'
   - 'melodic rap'
   - 'trap latino'
+last_release: ''
+track_count: 4
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## Dillon Francis;lovelytheband

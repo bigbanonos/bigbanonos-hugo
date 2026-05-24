@@ -13,6 +13,10 @@ explicit: true
 tags:
   - '@clairo'
   - '@dannylharle'
+last_release: '2023-05-12'
+track_count: 14
+active: true
+bucket: 'FAUCET'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/3ISKxnCGKc5B9zr9CTUB3v" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

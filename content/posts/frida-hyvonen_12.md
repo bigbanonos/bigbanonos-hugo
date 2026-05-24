@@ -5,6 +5,10 @@ date: 2025-02-12
 layout: post
 tags:
   - '@fridahyvÃƒÆ’Ã‚¶nen'
+last_release: ''
+track_count: 0
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <div> {{< img-lite src="https://i.scdn.co/image/ab6761610000e5ebb103176241eee8ef199e03b0" alt="Frida HyvÃƒÆ’Ã‚¶nen" >}}

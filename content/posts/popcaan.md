@@ -14,6 +14,10 @@ tags:
   - 'soca'
   - 'afrobeats'
   - 'riddim'
+last_release: '2025-12-10'
+track_count: 20
+active: true
+bucket: 'FAUCET'
 ---
 
 ## Popcaan

@@ -17,6 +17,10 @@ tags:
   - '@romy'
   - '@baxterdury'
   - '@haai'
+last_release: '2026-02-13'
+track_count: 6
+active: true
+bucket: 'STILL_DRIPPING'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/3Kr8iTBk81R5Y2p0tzHzp9" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

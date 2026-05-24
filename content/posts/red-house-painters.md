@@ -13,6 +13,10 @@ tags:
   - '1900s'
   - 'slowcore'
   - 'shoegaze'
+last_release: '1999-07-19'
+track_count: 3
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/4MQEzB2YRsDlELzhZdNAeh" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

@@ -11,6 +11,10 @@ tags:
   - 'blues rock'
   - 'rock'
   - 'alternative rock'
+last_release: ''
+track_count: 54
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## The White Stripes

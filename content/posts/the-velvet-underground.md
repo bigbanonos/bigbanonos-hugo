@@ -10,6 +10,10 @@ tags:
   - '1900s'
   - 'proto-punk'
   - 'art rock'
+last_release: ''
+track_count: 14
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## The Velvet Underground

@@ -7,6 +7,10 @@ tags:
   - '@the-lovin-spoonful'
   - '1900s'
   - 'folk rock'
+last_release: ''
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## The Lovin Spoonful

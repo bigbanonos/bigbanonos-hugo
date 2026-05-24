@@ -10,6 +10,10 @@ genre:
   - "k-pop"
 tags:
   - '@bts'
+last_release: '2021-07-23'
+track_count: 3
+active: true
+bucket: 'NEW_LEAK'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/3XYRV7ZSHqIRDG87DKTtry" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

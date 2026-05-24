@@ -12,6 +12,10 @@ tags:
   - '@carly-rae-jepsen-more-giraffes'
   - '00s-10s'
   - '2020s'
+last_release: '2022-10-21'
+track_count: 14
+active: true
+bucket: 'FAUCET'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/0Fx3fYbcYx3iDNrduNMlde" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

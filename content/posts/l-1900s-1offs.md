@@ -2,7 +2,6 @@
 title: "L · Pre-2000 1-offs"
 date: 1999-05-25
 category: "1off"
-track_count: 22
 letter: "L"
 era: "1900s"
 stub: true
@@ -10,6 +9,10 @@ tags:
   - 'letter-l'
   - '1off'
   - '1900s'
+last_release: ''
+track_count: 22
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## L · Pre-2000 1-offs

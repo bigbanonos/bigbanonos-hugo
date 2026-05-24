@@ -10,6 +10,10 @@ genre:
   - "indie rock"
 tags:
   - '@ted-leo-and-the-pharmacists'
+last_release: ''
+track_count: 15
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/569n8Nvn74MCzJf4ei9ASX" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

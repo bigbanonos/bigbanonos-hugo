@@ -9,6 +9,10 @@ era:
 explicit: true
 tags:
   - '@chappell-roan'
+last_release: '2023-05-17'
+track_count: 3
+active: true
+bucket: 'NEW_LEAK'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/0eEXpE2WgW5cjuZVAuvuev" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

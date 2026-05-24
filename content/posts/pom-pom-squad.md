@@ -8,6 +8,10 @@ era:
 tags:
   - '@pom-pom-squad'
   - '2020s'
+last_release: '2021-11-10'
+track_count: 2
+active: true
+bucket: 'NEW_LEAK'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/0dN85vbuUdU7Hnu0hLZHsN" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

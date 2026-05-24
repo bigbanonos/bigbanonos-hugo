@@ -19,6 +19,10 @@ tags:
   - '@sophie'
   - '@kendricklamar'
   - '@kucka'
+last_release: '2024-05-24'
+track_count: 18
+active: true
+bucket: 'FAUCET'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/7B09ZewAliWo7Y3TdIA7g1" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

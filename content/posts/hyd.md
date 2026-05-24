@@ -10,6 +10,10 @@ genre:
   - "art pop"
 tags:
   - '@hyd'
+last_release: '2022-11-11'
+track_count: 4
+active: true
+bucket: 'NEW_LEAK'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/6NkgYvXm6foboPDWd0yyrM" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

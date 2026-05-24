@@ -8,6 +8,10 @@ tags:
   - '00s-10s'
   - 'power pop'
   - 'garage rock'
+last_release: ''
+track_count: 6
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## The Exploding Hearts

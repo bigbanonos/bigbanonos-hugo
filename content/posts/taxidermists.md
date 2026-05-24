@@ -12,6 +12,10 @@ tags:
   - '@taxidermists'
   - '2020s'
   - 'slowcore'
+last_release: '2025-12-18'
+track_count: 4
+active: true
+bucket: 'NEW_LEAK'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/5XH7hgvEAXWiV8Kw77twtd" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

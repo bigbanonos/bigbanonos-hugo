@@ -9,6 +9,10 @@ era:
 explicit: true
 tags:
   - '@magdalenabay'
+last_release: '2024-08-23'
+track_count: 11
+active: true
+bucket: 'FAUCET'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/6O6VDSgm7Cxrk7kIJhyIFo" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

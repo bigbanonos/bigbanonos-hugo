@@ -11,6 +11,10 @@ genre:
   - "nu disco"
 tags:
   - '@jd-samson'
+last_release: '2013-08-06'
+track_count: 6
+active: false
+bucket: 'CRYSTALLIZED'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/5IdvcI6axfPdDunDjSFomr" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

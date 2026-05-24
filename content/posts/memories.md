@@ -8,6 +8,10 @@ era:
   - "2000s-2010s"
 tags:
   - '@memories'
+last_release: '2015-07-17'
+track_count: 5
+active: false
+bucket: 'CRYSTALLIZED'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/2lsXxbQyqXOEVeQbs9rt0J" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

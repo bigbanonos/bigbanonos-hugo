@@ -4,6 +4,10 @@ date: 1900-01-02
 draft: false
 tags: ["playlist", "1off", "r"]
 description: "26 tracks — R artists, 1900s–1990s"
+last_release: ''
+track_count: 26
+active: false
+bucket: 'ARTIFACT'
 ---
 
 26 tracks.

@@ -11,6 +11,10 @@ tags:
   - '@shout-out-louds'
   - '00s-10s'
   - 'swedish pop'
+last_release: '2007-09-11'
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/14Ay2pKTvK5NhGZEYJlphk" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

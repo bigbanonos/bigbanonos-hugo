@@ -10,6 +10,10 @@ genre:
   - "queercore"
 tags:
   - '@hidden-camera'
+last_release: ''
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/6hmWYs9CLU4IIQu11tEfh1" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

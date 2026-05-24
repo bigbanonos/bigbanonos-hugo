@@ -18,6 +18,10 @@ tags:
   - 'soca'
   - 'riddim'
   - 'ragga'
+last_release: ''
+track_count: 28
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## Vybz Kartel

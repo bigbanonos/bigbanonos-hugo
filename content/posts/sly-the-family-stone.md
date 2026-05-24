@@ -21,6 +21,10 @@ tags:
   - 'motown'
   - 'classic soul'
   - 'funk rock'
+last_release: '2008-02-11'
+track_count: 10
+active: false
+bucket: 'THE_VAULT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/5H4OmZpHmjqYrL5bhijrwj" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

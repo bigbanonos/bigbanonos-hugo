@@ -11,6 +11,10 @@ genre:
   - "country"
 tags:
   - '@jack-ingram'
+last_release: ''
+track_count: 1
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/221KYcs5zXX4ew6f8mumse" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

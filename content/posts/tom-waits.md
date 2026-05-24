@@ -13,6 +13,10 @@ tags:
   - '1900s'
   - 'singer-songwriter'
   - 'southern gothic'
+last_release: '1999-04-27'
+track_count: 5
+active: false
+bucket: 'CRYSTALLIZED'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/2873vNl0teoOfvycXFwoEb" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

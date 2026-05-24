@@ -13,6 +13,10 @@ tags:
   - '00s-10s'
   - '1900s'
   - 'neo-psychedelic'
+last_release: '2005-08-15'
+track_count: 5
+active: false
+bucket: 'CRYSTALLIZED'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/2PjHEdHEMSWxFNisj5wjaN" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

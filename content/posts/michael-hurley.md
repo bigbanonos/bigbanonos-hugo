@@ -13,6 +13,10 @@ tags:
   - '1900s'
   - 'anti-folk'
   - 'folk'
+last_release: '1976-01-01'
+track_count: 3
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/5YDODfjbJKrI7QhUWbFhHE" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

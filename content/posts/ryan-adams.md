@@ -16,6 +16,10 @@ tags:
   - 'alt country'
   - 'americana'
   - 'singer-songwriter'
+last_release: '2015-09-21'
+track_count: 12
+active: false
+bucket: 'THE_VAULT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/5fA7hkil3LuUCDRpSwN4U4" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

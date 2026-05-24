@@ -16,6 +16,10 @@ tags:
   - '00s-10s'
   - 'experimental hip hop'
   - 'idm'
+last_release: '2019-04-18'
+track_count: 8
+active: false
+bucket: 'CRYSTALLIZED'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/1kDRKaXWoQ7C0rFrkFIdtz" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

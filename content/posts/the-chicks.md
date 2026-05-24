@@ -7,6 +7,10 @@ tags:
   - '@the-chicks'
   - '1900s'
   - 'country'
+last_release: ''
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## The Chicks

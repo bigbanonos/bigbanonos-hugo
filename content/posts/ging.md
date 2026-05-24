@@ -16,6 +16,10 @@ tags:
   - 'americana'
   - 'roots rock'
   - 'power pop'
+last_release: ''
+track_count: 5
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## Ging

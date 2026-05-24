@@ -11,6 +11,10 @@ genre:
   - "indie rock"
 tags:
   - '@walkmen'
+last_release: '2022-06-24'
+track_count: 14
+active: true
+bucket: 'FAUCET'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/7cvt5vixsKWv8KiMxOdtM4" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

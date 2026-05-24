@@ -8,6 +8,10 @@ era:
 tags:
   - '@rhye'
   - '00s-10s'
+last_release: '2018-02-02'
+track_count: 6
+active: false
+bucket: 'CRYSTALLIZED'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/6GbWNeR3P9MTCmSyPVHgb1" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

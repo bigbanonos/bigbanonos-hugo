@@ -10,6 +10,10 @@ genre:
   - "christmas"
 tags:
   - '@johnlennon'
+last_release: '2018-09-07'
+track_count: 6
+active: false
+bucket: 'CRYSTALLIZED'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/4orTtjAFioJiIOf9XnZ2ml" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

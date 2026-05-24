@@ -9,6 +9,10 @@ genre:
   - "r&b"
 tags:
   - '@leon-thomas'
+last_release: ''
+track_count: 1
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/08M5qLQy0oUNrTMQv4xQac" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

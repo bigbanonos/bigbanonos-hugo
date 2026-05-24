@@ -11,6 +11,10 @@ tags:
   - 'r&b'
   - 'nu disco'
   - 'alternative dance'
+last_release: ''
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## Maroon 5;Chromeo

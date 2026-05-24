@@ -7,6 +7,10 @@ tags:
   - '@the-thermals'
   - '00s-10s'
   - 'indie punk'
+last_release: '2008-03-18'
+track_count: 10
+active: false
+bucket: 'THE_VAULT'
 ---
 
 ## The Thermals

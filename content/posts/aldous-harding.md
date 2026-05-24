@@ -5,6 +5,10 @@ date: 2026-03-03
 layout: post
 tags:
   - '@aldousharding'
+last_release: ''
+track_count: 1
+active: false
+bucket: 'ARTIFACT'
 ---
 
 New Zealand singer who makes songs that feel like theyre happening in a room with no doors. *One Stop* is in the top tier — up there with Fever, Ennui, Shell Be Coming Round the Mountain, The Barrel, Imagining My Man.

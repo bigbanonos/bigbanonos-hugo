@@ -10,6 +10,10 @@ tags:
   - '00s-10s'
   - 'garage rock'
   - 'space rock'
+last_release: ''
+track_count: 3
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## King Khan and the Shrines

@@ -14,6 +14,10 @@ genre:
 explicit: true
 tags:
   - '@s1mba'
+last_release: ''
+track_count: 1
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/3N5SNJMBe2syVBVMbX2kCS" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

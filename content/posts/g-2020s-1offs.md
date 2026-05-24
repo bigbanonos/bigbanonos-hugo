@@ -2,7 +2,6 @@
 title: "G · 2020s 1-offs"
 date: 2025-06-27
 category: "1off"
-track_count: 16
 letter: "G"
 era: "2020s"
 stub: true
@@ -10,6 +9,10 @@ tags:
   - 'letter-g'
   - '1off'
   - '2020s'
+last_release: ''
+track_count: 16
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## G · 2020s 1-offs

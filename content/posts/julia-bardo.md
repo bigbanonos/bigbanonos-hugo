@@ -7,6 +7,10 @@ letter: "J"
 era: "2020s"
 tags:
   - '@julia-bardo'
+last_release: ''
+track_count: 1
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/3TQlV2vT6ngWbJAe9FFc8y" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

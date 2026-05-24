@@ -11,6 +11,10 @@ tags:
   - 'doo-wop'
   - 'northern soul'
   - 'motown'
+last_release: ''
+track_count: 5
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## Frankie Valli & The Four Seasons

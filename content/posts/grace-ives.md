@@ -9,6 +9,10 @@ era:
 explicit: true
 tags:
   - '@graceives'
+last_release: '2026-02-20'
+track_count: 7
+active: true
+bucket: 'STILL_DRIPPING'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/4KELpaK3sQ5vEZX9nuK9lg" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

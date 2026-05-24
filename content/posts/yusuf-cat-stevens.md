@@ -10,6 +10,10 @@ tags:
   - 'folk rock'
   - 'folk'
   - 'singer-songwriter'
+last_release: ''
+track_count: 6
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## Yusuf / Cat Stevens

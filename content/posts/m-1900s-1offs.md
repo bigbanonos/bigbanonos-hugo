@@ -2,7 +2,6 @@
 title: "M · Pre-2000 1-offs"
 date: 1999-11-12
 category: "1off"
-track_count: 21
 letter: "M"
 era: "1900s"
 stub: true
@@ -10,6 +9,10 @@ tags:
   - 'letter-m'
   - '1off'
   - '1900s'
+last_release: ''
+track_count: 21
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## M · Pre-2000 1-offs

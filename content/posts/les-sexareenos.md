@@ -13,6 +13,10 @@ tags:
   - '00s-10s'
   - 'garage rock'
   - 'psychobilly'
+last_release: '2001-01-01'
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/1OfmY2bi4hmtE191rF8XAZ" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

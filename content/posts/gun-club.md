@@ -14,6 +14,10 @@ genre:
 explicit: true
 tags:
   - '@gunclub'
+last_release: '2021-07-23'
+track_count: 7
+active: true
+bucket: 'STILL_DRIPPING'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/38EnOnlPg5ACMwuBa9GeiX" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

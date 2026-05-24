@@ -10,6 +10,10 @@ tags:
   - '2020s'
   - 'dancehall'
   - 'soca'
+last_release: '2026-01-21'
+track_count: 7
+active: true
+bucket: 'STILL_DRIPPING'
 ---
 
 ## Jada Kingdom

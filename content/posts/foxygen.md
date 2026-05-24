@@ -10,6 +10,10 @@ genre:
   - "neo-psychedelic"
 tags:
   - '@foxygen'
+last_release: '2013-01-22'
+track_count: 5
+active: false
+bucket: 'CRYSTALLIZED'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/3q207jNwy7nvJcJhitFbld" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

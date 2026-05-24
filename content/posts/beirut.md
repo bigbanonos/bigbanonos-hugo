@@ -11,6 +11,10 @@ genre:
   - "indie folk"
 tags:
   - '@beirut'
+last_release: '2022-01-28'
+track_count: 8
+active: true
+bucket: 'STILL_DRIPPING'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/5loVmc3MmtYGsTw12eDgcU" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

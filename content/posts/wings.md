@@ -8,6 +8,10 @@ era:
 tags:
   - '@wings'
   - '@paulmccartney'
+last_release: '1976-03-25'
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/3uiMBldZ07pW0ySHDX5gzE" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

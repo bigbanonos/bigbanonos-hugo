@@ -9,6 +9,10 @@ era:
 explicit: true
 tags:
   - '@kingkrule'
+last_release: '2024-06-20'
+track_count: 9
+active: true
+bucket: 'STILL_DRIPPING'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/753EklH444D0oZj4ClafLc" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

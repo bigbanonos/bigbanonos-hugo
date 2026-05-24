@@ -11,6 +11,10 @@ genre:
   - "proto-punk"
 tags:
   - '@trex'
+last_release: '2010-05-31'
+track_count: 11
+active: false
+bucket: 'THE_VAULT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/3P1rbWxkRRR8JggwsYQAgB" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

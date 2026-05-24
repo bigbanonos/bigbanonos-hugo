@@ -15,6 +15,10 @@ tags:
   - '2020s'
   - 'anti-folk'
   - 'folk punk'
+last_release: '2023-02-24'
+track_count: 9
+active: true
+bucket: 'STILL_DRIPPING'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/5mLGfs0Z4kKdyj7pAYYWij" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

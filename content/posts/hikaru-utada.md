@@ -11,6 +11,10 @@ genre:
   - "anime"
 tags:
   - '@hikaru-utada'
+last_release: ''
+track_count: 1
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/5ai97hAB5rHiV2luX5NWw5" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

@@ -13,6 +13,10 @@ genre:
   - "gothic rock"
 tags:
   - '@boy-harsher'
+last_release: ''
+track_count: 1
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/2ro7o4RZVhksrTkcpk3rtC" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

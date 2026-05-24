@@ -2,7 +2,6 @@
 title: "J · Pre-2000 1-offs"
 date: 1999-01-01
 category: "1off"
-track_count: 22
 letter: "J"
 era: "1900s"
 stub: true
@@ -10,6 +9,10 @@ tags:
   - 'letter-j'
   - '1off'
   - '1900s'
+last_release: ''
+track_count: 22
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## J · Pre-2000 1-offs

@@ -4,6 +4,10 @@ date: 2020-01-01
 draft: false
 tags: ["playlist", "1off", "p"]
 description: "31 tracks — P artists, 2020s"
+last_release: ''
+track_count: 31
+active: false
+bucket: 'ARTIFACT'
 ---
 
 31 tracks.

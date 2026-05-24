@@ -10,6 +10,10 @@ genre:
   - "synthpop"
 tags:
   - '@eurythmics'
+last_release: '1985-04-29'
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/487afb1uhQ0QHTgg5gUJos" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

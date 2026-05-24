@@ -7,6 +7,10 @@ letter: "L"
 era: "2000s-2010s"
 tags:
   - '@lou-rebecca'
+last_release: ''
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/73Oxx31D5Eq72Rw2uNGRGE" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

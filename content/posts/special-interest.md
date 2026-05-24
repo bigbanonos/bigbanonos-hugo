@@ -14,6 +14,10 @@ genre:
 tags:
   - '@boyharsher'
   - '@specialinterest'
+last_release: '2022-11-04'
+track_count: 3
+active: true
+bucket: 'NEW_LEAK'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/2JrozyGS7r75L39rt3xoGx" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

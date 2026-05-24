@@ -14,6 +14,10 @@ tags:
   - '00s-10s'
   - '2020s'
   - 'alternative r&b'
+last_release: '2023-11-07'
+track_count: 5
+active: true
+bucket: 'STILL_DRIPPING'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/6oXy5J7kYGFqMUn89Vhnkh" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

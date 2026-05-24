@@ -8,6 +8,10 @@ era:
   - "2020s"
 tags:
   - '@juliajacklin'
+last_release: '2020-12-08'
+track_count: 2
+active: true
+bucket: 'NEW_LEAK'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/3EfTHWezT9vz9Jbx5mIhVA" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

@@ -21,6 +21,10 @@ tags:
   - 'art pop'
   - 'experimental'
   - 'idm'
+last_release: '2021-01-14'
+track_count: 5
+active: true
+bucket: 'STILL_DRIPPING'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/4tBdLWvYYr5IjJpvwiZr85" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

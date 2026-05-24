@@ -11,6 +11,10 @@ genre:
   - "indie folk"
 tags:
   - '@hold-steady'
+last_release: '2023-03-31'
+track_count: 26
+active: true
+bucket: 'FAUCET'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/2myTD3F73l1K6Fameh67Vm" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

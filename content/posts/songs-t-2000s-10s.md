@@ -4,6 +4,10 @@ date: 2000-01-01
 draft: false
 tags: ["playlist", "1off", "t"]
 description: "42 tracks — T artists, 2000s–2010s"
+last_release: ''
+track_count: 42
+active: false
+bucket: 'ARTIFACT'
 ---
 
 42 tracks.

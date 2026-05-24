@@ -6,6 +6,10 @@ layout: post
 tags:
   - '@bassvictim'
   - '@worldpeacedmt'
+last_release: ''
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 Electroclash with actual bite. Both tracks hold up start to finish.

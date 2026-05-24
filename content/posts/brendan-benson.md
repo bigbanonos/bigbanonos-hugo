@@ -13,6 +13,10 @@ tags:
   - '00s-10s'
   - 'power pop'
   - 'jangle pop'
+last_release: '2012-04-24'
+track_count: 3
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/3HwXCPdoKX5vUTZq5gSlRR" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

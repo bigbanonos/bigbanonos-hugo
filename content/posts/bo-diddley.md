@@ -14,6 +14,10 @@ genre:
   - "rockabilly"
 tags:
   - '@bo-diddley'
+last_release: '2014-11-21'
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/6L7OLKRKEsNKB6FEcapH2m" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

@@ -23,6 +23,10 @@ tags:
   - 'rap'
   - 'southern hip hop'
   - 'crunk'
+last_release: '2019-07-12'
+track_count: 14
+active: false
+bucket: 'THE_VAULT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/22EW5ouRV8EVvmSsEQaLXD" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

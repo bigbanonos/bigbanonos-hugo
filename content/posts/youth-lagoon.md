@@ -16,6 +16,10 @@ tags:
   - '2020s'
   - 'dream pop'
   - 'chillwave'
+last_release: '2025-02-21'
+track_count: 6
+active: true
+bucket: 'STILL_DRIPPING'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/2l1pcq3qwKFtJl2kA2CAz7" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

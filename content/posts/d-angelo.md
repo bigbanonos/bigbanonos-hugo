@@ -22,6 +22,10 @@ tags:
   - 'swedish pop'
   - 'indie folk'
   - 'r&b'
+last_release: ''
+track_count: 39
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## DAngelo

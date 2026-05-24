@@ -11,6 +11,10 @@ genre:
 explicit: true
 tags:
   - '@delaney-minta'
+last_release: ''
+track_count: 1
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/7aMTMz5aOXoOOd9ygGV76D" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

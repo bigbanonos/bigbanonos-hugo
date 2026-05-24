@@ -7,6 +7,10 @@ tags:
   - '@jewel-initial-talk'
   - '2020s'
   - 'nu disco'
+last_release: ''
+track_count: 1
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## Jewel;Initial Talk

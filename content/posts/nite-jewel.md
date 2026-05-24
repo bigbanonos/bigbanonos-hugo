@@ -10,6 +10,10 @@ genre:
   - "art pop"
 tags:
   - '@nitejewel'
+last_release: '2023-10-31'
+track_count: 3
+active: true
+bucket: 'NEW_LEAK'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/5DOTII9i1wmaASoOpJ0nz5" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

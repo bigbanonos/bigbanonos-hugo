@@ -11,6 +11,10 @@ tags:
   - '@frog'
   - '00s-10s'
   - '2020s'
+last_release: '2025-09-19'
+track_count: 12
+active: true
+bucket: 'FAUCET'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/6BHbXEj9MbhmsVnX7cmmOO" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

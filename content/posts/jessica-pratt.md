@@ -10,6 +10,10 @@ genre:
   - "ambient folk"
 tags:
   - '@jessicapratt'
+last_release: '2024-05-03'
+track_count: 4
+active: true
+bucket: 'NEW_LEAK'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/5BgoeQzJbjxOc48yH6wPEH" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

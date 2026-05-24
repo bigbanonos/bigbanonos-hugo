@@ -9,6 +9,10 @@ genre:
   - "post-punk"
 tags:
   - '@prinzhorn-dance-school'
+last_release: ''
+track_count: 1
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/0ORDypKRc8xoT2nRYq3UVL" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

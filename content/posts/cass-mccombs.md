@@ -14,6 +14,10 @@ tags:
   - '00s-10s'
   - 'baroque pop'
   - 'singer-songwriter'
+last_release: '2013-10-14'
+track_count: 6
+active: false
+bucket: 'CRYSTALLIZED'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/6beSZ0t4PugkDvb3AfOre6" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

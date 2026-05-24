@@ -8,6 +8,10 @@ tags:
   - '@yaeji'
   - '@kpop'
   - '@altpop'
+last_release: ''
+track_count: 1
+active: false
+bucket: 'ARTIFACT'
 ---
 
 Seoul-based multinational alt-K-pop collective. This one with Yaeji is the move.

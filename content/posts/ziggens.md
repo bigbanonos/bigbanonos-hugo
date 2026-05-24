@@ -13,6 +13,10 @@ genre:
   - "ska punk"
 tags:
   - '@ziggens'
+last_release: '2003-01-01'
+track_count: 2
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/5bg4rUCPrjkbQfgXzOzvxP" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

@@ -17,6 +17,10 @@ tags:
   - 'motown'
   - 'soul'
   - 'classic soul'
+last_release: '2005-01-01'
+track_count: 6
+active: false
+bucket: 'CRYSTALLIZED'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/5SHHpzg3yRJn6WNyuDe1XB" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

@@ -6,6 +6,10 @@ layout: post
 tags:
   - '@the-memories'
   - '00s-10s'
+last_release: ''
+track_count: 5
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## The Memories

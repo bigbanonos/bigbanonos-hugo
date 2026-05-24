@@ -16,6 +16,10 @@ genre:
 explicit: true
 tags:
   - '@drivebytruckers'
+last_release: '2024-07-26'
+track_count: 42
+active: true
+bucket: 'FAUCET'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/7cStaTKMIKBB3SPWXSs1pN" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

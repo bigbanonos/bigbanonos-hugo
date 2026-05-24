@@ -5,6 +5,10 @@ date: 2025-02-11
 layout: post
 tags:
   - '@trailofdead'
+last_release: ''
+track_count: 0
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <div> <img alt="...And You Will Know Us by the Trail of Dead" src="https://i.scdn.co/image/ab67616d0000b273b9a2d0905980c70ffb110aa4" width="100%" />

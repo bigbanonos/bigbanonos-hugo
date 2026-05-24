@@ -21,6 +21,10 @@ tags:
   - 'rage rap'
   - 'french house'
   - 'electronic'
+last_release: ''
+track_count: 30
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## The Weeknd

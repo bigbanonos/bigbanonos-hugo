@@ -13,6 +13,10 @@ genre:
   - "anti-folk"
 tags:
   - '@jasonmolina'
+last_release: '2020-05-21'
+track_count: 5
+active: true
+bucket: 'STILL_DRIPPING'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/5uXg7PBGI5yIJpF2K01xKO" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

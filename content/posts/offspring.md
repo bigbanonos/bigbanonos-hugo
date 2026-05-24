@@ -12,6 +12,10 @@ genre:
 explicit: true
 tags:
   - '@offspring'
+last_release: '1998-11-16'
+track_count: 4
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/3SFXsFpeGmBTtQvKiwYMDA" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

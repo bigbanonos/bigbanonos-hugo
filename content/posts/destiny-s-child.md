@@ -8,6 +8,10 @@ era:
 tags:
   - '@destiny-s-child'
   - '1900s'
+last_release: '1999-07-27'
+track_count: 3
+active: false
+bucket: 'ARTIFACT'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/1Oi2zpmL81Q0yScF1zxaC0" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

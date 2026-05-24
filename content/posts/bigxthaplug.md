@@ -12,6 +12,10 @@ tags:
   - '@bigxthaplug'
   - '2020s'
   - 'southern hip hop'
+last_release: '2023-04-28'
+track_count: 3
+active: true
+bucket: 'NEW_LEAK'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/3TmwzKk7dOnMka3Q7NvGht" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

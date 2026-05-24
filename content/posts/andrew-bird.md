@@ -10,6 +10,10 @@ genre:
   - "indie folk"
 tags:
   - '@andrewbird'
+last_release: '2019-07-18'
+track_count: 7
+active: false
+bucket: 'CRYSTALLIZED'
 ---
 
 <iframe src="https://open.spotify.com/embed/track/0d79BhweRgxqySiFBYelDg" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>

@@ -10,6 +10,10 @@ tags:
   - '2020s'
   - 'classic rock'
   - 'psychedelic rock'
+last_release: ''
+track_count: 28
+active: false
+bucket: 'ARTIFACT'
 ---
 
 ## The Beatles
