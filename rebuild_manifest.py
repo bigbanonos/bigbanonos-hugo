@@ -264,7 +264,34 @@ def process_artist_post(path, existing_lookup):
         "tag": tag,
         "tracks": track_count,
         "sort_name": slug,
+        "active": parse_bool(fm.get("active")),
+        "bucket": strip_quotes(fm.get("bucket", "") or ""),
+        "last_release": strip_quotes(fm.get("last_release", "") or ""),
+        "track_count_real": parse_int(fm.get("track_count")),
     }
+
+
+def parse_bool(val):
+    """Convert YAML-parsed value into a real bool."""
+    if val is None:
+        return False
+    if isinstance(val, bool):
+        return val
+    s = str(val).strip().lower().strip("'\"")
+    return s in ("true", "yes", "1")
+
+
+def parse_int(val):
+    """Convert YAML-parsed value into an int."""
+    if val is None:
+        return 0
+    if isinstance(val, int):
+        return val
+    s = str(val).strip().strip("'\"")
+    try:
+        return int(s)
+    except (TypeError, ValueError):
+        return 0
 
 
 def first_letter_of(slug):
