@@ -1,13 +1,13 @@
 ---
 title: 'Lightris — 2026'
 slug: 'lightris'
-date: 2026-04-17
+date: 2026-06-05
 layout: tune
 section: tunes
 year: '2026'
 letter: 'L'
 artist_slug: 'lightris'
-track_count: 1
+track_count: 2
 tags:
   - '@lightris'
   - '#tune'
@@ -18,6 +18,11 @@ tags:
 <span class='tune-date'>2026-04-17</span>
 
 <iframe src="https://open.spotify.com/embed/track/25XrI0x36fi0B6kPGFjovl" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+### dimples
+<span class='tune-date'>2026-06-05</span>
+
+<iframe src="https://open.spotify.com/embed/track/0Jc9os5dYkPGRdEBxhH76B" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
 ---
 
