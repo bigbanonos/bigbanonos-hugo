@@ -88,7 +88,7 @@
       <a class="bb-bnm-seeall" href="/tunes/">see all tunes →</a>
     </div>
     <div class="bb-bnm-grid">
-      {{ $bnm := first 6 (where (where .Site.RegularPages "Section" "tunes") "File.LogicalName" "index.md").ByDate.Reverse }}
+      {{ $bnm := first 6 (where site.RegularPages "Section" "tunes").ByDate.Reverse }}
       {{ range $bnm }}
         {{ $year := .Params.year }}
         {{ $artistOnly := replace .Title (printf " — %s" $year) "" }}
