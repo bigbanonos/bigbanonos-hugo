@@ -16,8 +16,6 @@ ignoreErrors = ["error-remote-getjson", "error-missing-file", "alias-trailing-co
 [pagination]
   pagerSize = 21
 
-[markup.goldmark.renderer]
-  unsafe = true
 
 [taxonomies]
   tag = "tags"
@@ -69,3 +67,9 @@ ignoreErrors = ["error-remote-getjson", "error-missing-file", "alias-trailing-co
 
 [security]
   allowContent = ['.*']
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
