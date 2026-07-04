@@ -1,0 +1,22 @@
+{{ define "main" }}
+<style>
+:root{--ink:#0a0a0a;--paper:#fff8ec;--hot:#ff2d55;--acid:#c6ff3d;--cobalt:#1e4dff;}
+html,body{background:var(--paper);color:var(--ink);}
+.art-wrap{padding:28px clamp(16px,4vw,56px) 96px;font-family:"Space Grotesk",system-ui,sans-serif;max-width:920px;margin:0 auto;}
+.art-back{font-family:"JetBrains Mono",monospace;font-size:12px;text-transform:uppercase;letter-spacing:.15em;text-decoration:none;color:var(--ink);background:var(--acid);padding:4px 10px;display:inline-block;margin-bottom:24px;}
+.art-title{font-family:"Archivo Black",sans-serif;font-size:clamp(48px,9vw,120px);line-height:.85;letter-spacing:-.03em;text-transform:uppercase;margin:0 0 12px;word-break:break-word;}
+.art-meta{font-family:"JetBrains Mono",monospace;font-size:13px;text-transform:uppercase;letter-spacing:.15em;opacity:.7;margin:0 0 32px;border-bottom:3px solid var(--ink);padding-bottom:18px;}
+.art-embeds iframe{display:block;width:100%;height:80px;border:0;margin:8px 0;}
+</style>
+<div class="art-wrap">
+  <a class="art-back" href="/">← all artists</a>
+  <h1 class="art-title">{{ .Title }}</h1>
+  <div class="art-meta">
+    {{ with .Params.genre }}{{ delimit . " · " }}{{ end }}
+    {{ with .Params.bucket }} · {{ . }}{{ end }}
+  </div>
+  <div class="art-embeds">
+    {{ range (findRE "track/[A-Za-z0-9]+" .RawContent) }}<iframe src="https://open.spotify.com/embed/{{ . }}" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>{{ end }}
+  </div>
+</div>
+{{ end }}
