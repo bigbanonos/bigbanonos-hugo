@@ -66,3 +66,6 @@ ignoreErrors = ["error-remote-getjson", "error-missing-file", "alias-trailing-co
   name = "Search"
   url = "/search/"
   weight = 4
+
+[security]
+  allowContent = ['.*']
