@@ -2,6 +2,7 @@
 title: "Premier12 Qualifier in China: What Time, Where to Watch, and Who Gets In"
 slug: "premier12-qualifier-china-2026"
 date: 2026-11-26
+lastmod: 2026-11-27
 description: "Nicaragua, China, Great Britain and Czechia play for two spots in the 2027 Premier12. Every game free on YouTube in the U.S. Times in Eastern."
 tags: ["baseball", "where to watch", "international", "premier12"]
 ---
@@ -14,27 +15,39 @@ Four teams, six games, two spots. The last big international baseball tournament
 
 ## What time are the games? (Eastern)
 
-* **Tonight, Thu. Nov. 26, 11 p.m. · Czechia vs. Nicaragua**
-* **Fri. Nov. 27, 5:30 a.m. · China vs. Great Britain**
-* **Fri. Nov. 27, 11 p.m. · Great Britain vs. Czechia**
+* Thu. Nov. 26 · **Nicaragua 6, Great Britain 3** · **China 6, Czechia 1**
+* Fri. Nov. 27 · **Nicaragua 4, Czechia 2** (pinch-hitter Omar Mendoza's go-ahead double in the sixth) · **Great Britain 1, China 0** (a one-hit shutout)
+* **Tonight, Fri. Nov. 27, 11 p.m. · Great Britain vs. Czechia**
 * **Sat. Nov. 28, 5:30 a.m. · China vs. Nicaragua**
 
-China is 13 hours ahead. The 11 p.m. games are noon in Zhongshan.
+China is 13 hours ahead. The 11 p.m. game is noon Saturday in Zhongshan.
 
-## What's at stake?
+## Great Britain 1, China 0: the pitching masterclass
 
-The top two teams go to the 2027 Premier12. That tournament is part of the road to the 2028 Olympics in Los Angeles.
+Max Viera's RBI double in the third was the only run. Britain's staff allowed **one hit all game** and retired the last 19 hitters in a row.
 
-## Where it stands
+* **Nicholas Wells** (win): 5 innings, 1 hit
+* **Cameron Moore:** a perfect sixth
+* **Ryan Long** (save), an Orioles minor leaguer: 3 perfect innings, **7 strikeouts**, 30 strikes in 38 pitches, plus a pickoff to end the eighth
 
-* **Nicaragua 1-0.** Beat Great Britain 6-3 on Thursday.
-* **China 1-0.** The hosts beat Czechia 6-1.
-* **Great Britain 0-1**
-* **Czechia 0-1**
+China kept it close. Yicong Sun threw three shutout innings on back-to-back days, and Britain went 1 for 11 with runners in scoring position. Viera was the WBSC Player of the Day.
 
-Nicaragua can clinch fast: beat Czechia tonight, and if China beats Great Britain Friday morning, both are in with a day to spare. A Czechia loss tonight puts its tournament on life support.
+**Hot bats so far:** David Mendham (GB) .556, Wang Lei and Wang Lizi (CHN) .429, Ronald Rivera (NCA) .400.
 
-## Tonight's lineups: Czechia vs. Nicaragua
+## Where it stands: all four teams still alive
+
+* **Nicaragua 2-0**
+* **Great Britain 1-1.** Beat Czechia tonight and Britain is in its first Premier12.
+* **China 1-1.** Needs to beat Nicaragua Saturday morning.
+* **Czechia 0-2**
+
+## Why this matters: the road to Los Angeles
+
+The 2028 Olympics will have just **six** baseball teams, at Dodger Stadium. The Olympics caps the total number of athletes, and a baseball team eats about two dozen of those spots, so the field stays small.
+
+Three are already in: **the United States** as host, and **the Dominican Republic** and **Venezuela**, the two best Americas teams at the 2026 World Baseball Classic. The other three come from the **2027 Premier12** and a **final qualifying tournament**. Getting into the Premier12 is step one.
+
+## Thursday's lineups: Czechia vs. Nicaragua
 
 **Starting pitchers:** Lukáš Ercoli for Czechia, Danilo Bermúdez for Nicaragua.
 

@@ -2,7 +2,7 @@
 title: "FIBA World Cup Qualifiers Window 5: What Time, What Channel, and What's at Stake"
 slug: "fiba-world-cup-qualifiers-window-5"
 date: 2026-11-24
-lastmod: 2026-11-26
+lastmod: 2026-11-27T12:30:00-05:00
 description: "Team USA at Brazil Friday at 6:10 p.m. ET. Thursday's results, Friday's full schedule in Eastern time, and the weekend games that decide who goes to Qatar."
 tags: ["hoops", "where to watch", "fiba", "team usa", "international"]
 ---
@@ -36,6 +36,10 @@ Nine of the 12 have played in the NBA. Haywood Highsmith played in the 2023 Fina
 Pedro Bradshaw is the constant. He has played in three of the four windows, and the U.S. went 6-0 in them.
 
 ## Friday, Nov. 27: the full schedule (Eastern time)
+
+**Asia, already final:** New Zealand 103, Jordan 64. Australia 84, Iran 67. Philippines 97, Syria 58.
+
+**Asia Cup 2029 pre-qualifiers (the small-country ladder):** Malaysia 91, Fiji 80. Thailand 90, Indonesia 75. Mongolia 83, Hong Kong 59. Bahrain 95, Sri Lanka 60. Kuwait led Kazakhstan 87-84 with 8 seconds left, and Palestine plays the UAE in Lebanon at 1 p.m.
 
 **Europe**
 * 12 p.m. · Estonia vs. France
@@ -71,7 +75,7 @@ Thanksgiving delivered.
 
 **Asia:** Saudi Arabia beat China 82-80, the Saudis' first win over China in more than 30 years. Japan won at Lebanon 86-82, and Korea beat Qatar 74-52.
 
-**Americas, Thursday night:** Uruguay vs. Canada (5:10 p.m.), Argentina vs. Bahamas (7:40) and Panama vs. Puerto Rico (8:40).
+**Americas, Thursday night:** Uruguay beat Canada 84-78, Canada's first loss of qualifying. Kelly Olynyk, playing in Italy after 13 NBA seasons, had 21 points on 7 of 11. Canada qualified anyway when Argentina blew out the Bahamas. At 8-1, Canada is the first team from the Americas headed to Qatar, joining hosts Qatar and Türkiye.
 
 ## The weekend's must-watch games
 

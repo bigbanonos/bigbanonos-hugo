@@ -1,0 +1,54 @@
+{{ define "main" }}
+<style>
+:root{--ink:#0a0a0a;--paper:#fff8ec;--hot:#ff2d55;--acid:#c6ff3d;--cobalt:#1e4dff;--tang:#ff7a1a;--plum:#7b1fa2;}
+html,body{background:var(--paper);color:var(--ink);}
+.main{max-width:none!important;padding:0!important;}
+.ww{padding:28px clamp(16px,4vw,56px) 96px;font-family:"Space Grotesk","Helvetica Neue",system-ui,sans-serif;max-width:1100px;}
+.ww-home{font-family:"Archivo Black",sans-serif;text-decoration:none;color:var(--ink);font-size:20px;letter-spacing:-.03em}
+.ww-home .s1{color:var(--hot)}.ww-home .s2{color:var(--cobalt)}.ww-home .s4{color:var(--tang)}.ww-home .s3{background:var(--acid);padding:0 .06em}
+.ww h1{font-family:"Archivo Black",sans-serif;font-size:clamp(48px,10vw,140px);line-height:.85;letter-spacing:-.04em;text-transform:uppercase;margin:18px 0 8px}
+.ww h1 span{color:var(--hot)}
+.ww .sub{font-size:18px;max-width:720px;border-top:3px solid var(--ink);border-bottom:3px solid var(--ink);padding:14px 0;margin:0 0 22px}
+.ww .tags{display:flex;flex-wrap:wrap;gap:8px;margin:0 0 22px}
+.ww .tags button{font:600 13px/1 "Space Grotesk",sans-serif;text-transform:uppercase;letter-spacing:.06em;padding:9px 14px;border:2px solid var(--ink);background:var(--paper);border-radius:999px;cursor:pointer}
+.ww .tags button[aria-pressed=true]{background:var(--ink);color:var(--paper)}
+.ww-list{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:14px}
+.ww-card{display:flex;flex-direction:column;gap:8px;padding:18px;border:3px solid var(--ink);text-decoration:none;color:var(--ink);background:#fff;transition:transform .08s}
+.ww-card:hover{transform:translate(-3px,-3px);box-shadow:6px 6px 0 var(--ink)}
+.ww-card:nth-child(4n+1){background:var(--acid)}.ww-card:nth-child(4n+3){background:#fff}
+.ww-card .d{font-family:"JetBrains Mono",monospace;font-size:11px;letter-spacing:.14em;text-transform:uppercase;opacity:.65}
+.ww-card h2{font-family:"Archivo Black",sans-serif;font-size:21px;line-height:1.05;margin:0}
+.ww-card p{margin:0;font-size:14px;line-height:1.4}
+.ww-card .t{display:flex;flex-wrap:wrap;gap:5px;margin-top:auto}
+.ww-card .t span{font-family:"JetBrains Mono",monospace;font-size:10px;text-transform:uppercase;background:var(--ink);color:var(--paper);padding:3px 7px}
+</style>
+<div class="ww">
+  <a class="ww-home" href="/"><span class="s1">BIG</span><span class="s2">BA</span><span class="s4">NO</span><span class="s3">NOS</span></a>
+  &nbsp;·&nbsp;<a href="/hoops/" style="color:var(--ink)">Hoops board</a>
+  <h1>Where to <span>Watch</span></h1>
+  <p class="sub">What time, what channel. NBA, FIBA, world baseball and college hoops, always in Eastern time.</p>
+  <div class="tags" id="wwt">
+    <button aria-pressed="true" data-t="">All</button>
+    <button data-t="hoops">Hoops</button>
+    <button data-t="baseball">Baseball</button>
+    <button data-t="international">International</button>
+  </div>
+  <div class="ww-list">
+  {{ range (.Pages.ByLastmod.Reverse) }}
+    <a class="ww-card" href="{{ .RelPermalink }}" data-tags="{{ delimit (.Params.tags | default (slice)) " " | lower }} {{ lower .Title }}">
+      <span class="d">Updated {{ .Lastmod.Format "Jan 2, 2006" }}</span>
+      <h2>{{ .Title }}</h2>
+      <p>{{ .Description }}</p>
+      {{ with .Params.tags }}<span class="t">{{ range first 4 . }}<span>{{ . }}</span>{{ end }}</span>{{ end }}
+    </a>
+  {{ end }}
+  </div>
+</div>
+<script>
+document.querySelectorAll('#wwt button').forEach(b=>b.onclick=()=>{
+  document.querySelectorAll('#wwt button').forEach(x=>x.setAttribute('aria-pressed',x===b));
+  const t=b.dataset.t;
+  document.querySelectorAll('.ww-card').forEach(c=>c.style.display=(!t||c.dataset.tags.includes(t))?'':'none');
+});
+</script>
+{{ end }}
