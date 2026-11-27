@@ -167,6 +167,7 @@
     return s.trim();
   }
   function buildHref(r){
+    if(r.url) return r.url;
     if(r.kind==='1off_bucket'){
       var L=(r.letter||'#').toLowerCase();
       var e=(r.era||'').toLowerCase();
@@ -177,7 +178,7 @@
       var L2=(r.letter||'#').toLowerCase();
       return '/covers-'+L2+L2+'/';
     }
-    return '/posts/'+slug(cleanName(r.name))+'/';
+    return '/'+slug(cleanName(r.name))+'/';
   }
 
   function genresOf(r){
