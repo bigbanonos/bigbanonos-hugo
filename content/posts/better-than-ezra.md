@@ -6,9 +6,10 @@ layout: post
 tags:
   - '@betterthanezra'
 last_release: ''
-track_count: 0
+track_count: 1
 active: false
 bucket: 'ARTIFACT'
+lastmod: 2026-11-26
 ---
 
 <!-- Title of the Post -->
@@ -25,3 +26,11 @@ bucket: 'ARTIFACT'
 <p >Tags: @betterthanezra,</p>
 
 <hr />
+
+---
+
+**Added November 2026**
+
+**Good** — *Deluxe* (1995)
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0ttHpMs250dpFkCYAnuhnE" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

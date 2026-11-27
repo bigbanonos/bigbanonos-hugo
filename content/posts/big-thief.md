@@ -8,9 +8,10 @@ tags:
   - '00s-10s'
   - '2020s'
 last_release: '2025-09-05'
-track_count: 25
+track_count: 26
 active: true
 bucket: 'FAUCET'
+lastmod: 2026-11-26
 ---
 
 ## Big Thief
@@ -143,3 +144,11 @@ _25 tracks between 2016 and 2025._
 *Double Infinity* · 2025 · 3:57
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/5TSj6ySt4WqDuljv61Q4D5" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+---
+
+**Added November 2026**
+
+**Shark Smile** — *Capacity* (2017)
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0Fc0vCE3yWvAGKbU5twVOz" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

@@ -18,9 +18,10 @@ tags:
   - '2020s'
   - 'indie folk'
 last_release: '2024-09-20'
-track_count: 39
+track_count: 40
 active: true
 bucket: 'FAUCET'
+lastmod: 2026-11-26
 ---
 
 <iframe src="https://open.spotify.com/embed/track/0lurDqRCUCiVIhpAITO9S2" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
@@ -100,3 +101,11 @@ bucket: 'FAUCET'
 <iframe src="https://open.spotify.com/embed/track/3JtPdyclHw9WH9XWcyzTYD" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
 <iframe src="https://open.spotify.com/embed/track/3wn73bOuYrCuemehRfLosN" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+---
+
+**Added November 2026**
+
+**Pan and Broom** — *Pan and Broom (Eve Maret Remix)* (2023)
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7CIuBY9i5zAbvNDrqigRx9" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

@@ -6,9 +6,10 @@ layout: post
 tags:
   - '@demarco'
 last_release: '2016-10-07'
-track_count: 7
+track_count: 2
 active: false
 bucket: 'CRYSTALLIZED'
+lastmod: 2026-11-26
 ---
 
 <!-- Title of the Post -->
@@ -25,3 +26,15 @@ bucket: 'CRYSTALLIZED'
 <p >Tags: @demarco</p>
 
 <hr />
+
+---
+
+**Added November 2026**
+
+**Killa** feat. Sponge Music — *Killa* (2025)
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0RZUT6bjO2mfKYhJGQ8fCm" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+**Pon Sight** — *Pon Sight* (2021)
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2BHidQfOQIqCBQjJluhMyc" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

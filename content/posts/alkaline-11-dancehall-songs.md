@@ -7,9 +7,10 @@ tags:
   - '@alkaline'
   - '@blackshadow'
 last_release: ''
-track_count: 0
+track_count: 1
 active: false
 bucket: 'ARTIFACT'
+lastmod: 2026-11-26
 ---
 
 <h2>BigBanonos Favorite 12 Songs by Alkaline</h2>
@@ -19,3 +20,11 @@ bucket: 'ARTIFACT'
 <p><a href="https://www.youtube.com/@BigBanonos">BigBanonos YouTube Channel</a></p>
 
 <hr />
+
+---
+
+**Added November 2026**
+
+**FCK UP** — *FCK UP* (2021)
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0RfWj5l5G8bil52jEnCTKh" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

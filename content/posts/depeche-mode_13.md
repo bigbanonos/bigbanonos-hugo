@@ -6,9 +6,10 @@ layout: post
 tags:
   - '@depechemode'
 last_release: ''
-track_count: 0
+track_count: 2
 active: false
 bucket: 'ARTIFACT'
+lastmod: 2026-11-26
 ---
 
 <!-- Title of the Post -->
@@ -25,3 +26,15 @@ bucket: 'ARTIFACT'
 <p >Tags: @depechemode</p>
 
 <hr />
+
+---
+
+**Added November 2026**
+
+**John the Revelator** feat. Steve Fitzmaurice — *Playing the Angel* (2005)
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4OKEETxdou0lR7LEVvEpaG" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+**Everything Counts - 2007 Remaster** — *Construction Time Again (2007 Remaster)* (1983)
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/68d2JDhqLtCuOsfX0W71Ct" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

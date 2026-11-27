@@ -12,9 +12,10 @@ tags:
   - '2020s'
   - 'uk r&b'
 last_release: ''
-track_count: 8
+track_count: 9
 active: false
 bucket: 'ARTIFACT'
+lastmod: 2026-11-26
 ---
 
 ## Dean Blunt
@@ -62,3 +63,11 @@ _8 tracks, 2012 to 2025._
 *lucre* · 2025 · 2:59
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3W9INBEJLZwnBZlbGHz8P2" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+---
+
+**Added November 2026**
+
+**478 freestyle** feat. Celeste — *478 freestyle* (2026)
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6vzGpryGBxgf4HxFRElj0i" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

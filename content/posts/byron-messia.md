@@ -10,9 +10,10 @@ tags:
   - 'afrobeats'
   - 'afrobeat'
 last_release: '2025-11-07'
-track_count: 2
+track_count: 3
 active: true
 bucket: 'NEW_LEAK'
+lastmod: 2026-11-26
 ---
 
 ## Byron Messia
@@ -30,3 +31,11 @@ _2 tracks between 2023 and 2025._
 *Pretty Dolly* · 2025 · 2:48
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2j5bvRhftjtpup4epaJCdC" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+---
+
+**Added November 2026**
+
+**Moca** feat. Extol — *Moca* (2023)
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/25gAArCPkbQRxgb7HXYqrP" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

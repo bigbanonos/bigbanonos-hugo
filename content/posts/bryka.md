@@ -6,9 +6,10 @@ layout: post
 tags:
   - '@bryka'
 last_release: ''
-track_count: 0
+track_count: 1
 active: false
 bucket: 'ARTIFACT'
+lastmod: 2026-11-26
 ---
 
 <!-- Post Title -->
@@ -25,3 +26,11 @@ bucket: 'ARTIFACT'
 <p >Tags: @bryka,</p>
 
 <hr />
+
+---
+
+**Added November 2026**
+
+**Crab** — *Crab* (2025)
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/6QBuE7f67u3WQn3NpLxuOa" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

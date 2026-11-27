@@ -13,9 +13,10 @@ tags:
   - 'sea shanties'
   - 'celtic punk'
 last_release: ''
-track_count: 4
+track_count: 5
 active: false
 bucket: 'ARTIFACT'
+lastmod: 2026-11-26
 ---
 
 ## The Dubliners
@@ -43,3 +44,11 @@ _4 tracks, 1995 to 2013._
 *Definitive Pub Songs Collection* · 2013 · 2:47
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1ku8R6WLk1IcciwWbECnTy" width="100%" height="152" frameBorder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+---
+
+**Added November 2026**
+
+**Tramps and Hawkers - Live** — *The Dubliners (Bonus Track Edition)* (1964)
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2jZPIF2UPayM9eOB7X3CIu" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

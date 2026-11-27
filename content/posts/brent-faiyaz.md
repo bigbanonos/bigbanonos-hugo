@@ -23,9 +23,10 @@ tags:
   - 'southern hip hop'
   - 'rap'
 last_release: '2026-02-13'
-track_count: 13
+track_count: 15
 active: true
 bucket: 'FAUCET'
+lastmod: 2026-11-26
 ---
 
 <iframe src="https://open.spotify.com/embed/track/2iZ9yiTcL1iywzSUZxlJrZ" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
@@ -53,3 +54,15 @@ bucket: 'FAUCET'
 <iframe src="https://open.spotify.com/embed/track/1JfuiYsW1T5Qe4bPO4DUYy" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
 <iframe src="https://open.spotify.com/embed/track/1Xm9CQRcJbOgTCpKCpS9s5" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+---
+
+**Added November 2026**
+
+**have to. (chopnotslop remix)** feat. DJ Candlestick, ISO Supremacy — *PURPLE ICON (CHOPNOTSLOP REMIX)* (2026)
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3vbpIQQ26qZC2gfD6wIos0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+**other side. (chopnotslop remix)** feat. DJ Candlestick, ISO Supremacy — *PURPLE ICON (CHOPNOTSLOP REMIX)* (2026)
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4XMgMECiQJEXXtyjHIsJEh" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

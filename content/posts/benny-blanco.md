@@ -11,11 +11,20 @@ explicit: true
 tags:
   - '@benny-blanco'
 last_release: ''
-track_count: 2
+track_count: 3
 active: false
 bucket: 'ARTIFACT'
+lastmod: 2026-11-26
 ---
 
 <iframe src="https://open.spotify.com/embed/track/6QX4KBRfnmuYPE3jvAprIy" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
 <iframe src="https://open.spotify.com/embed/track/3gHkph5wv7uRvgElZpDlJE" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+---
+
+**Added November 2026**
+
+**Joven y Salvaje (with Bb trickz)** feat. Bb trickz — *Joven y Salvaje (with Bb trickz)* (2026)
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2NyVUkfya4KZDw5qd4qWeZ" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

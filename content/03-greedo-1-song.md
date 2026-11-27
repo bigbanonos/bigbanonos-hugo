@@ -8,6 +8,8 @@ tags:
   - '@mikefree'
   - '@freddiegibbs'
   - '@bluebucksclan'
+track_count: 1
+lastmod: 2026-11-26
 ---
 
 <img src="https://www.rollingstone.com/wp-content/uploads/2019/03/3C53E574-07FB-41E9-AB63-5E5058862B32-54700-00007398EB8BE85F.jpeg" width="600" /> <p>BigBanonos favorite songs by 03 Greedo, last updated May 22, 2025 with "Boujee" from <em>Crushing On Twin</em>, highlighted in the playlist below:</p>  {{< youtube "SQaRWBRbMXQ" >}} <p><strong>Boujee</strong> " 03 Greedo<br/>
@@ -17,3 +19,11 @@ Album: <em>Single</em> " 2023<br/>
 Genres: Hip Hop</p>  <hr />  <p>@03greedo,@bluebucksclan,@mikefree</p>
 
 <hr />
+
+---
+
+**Added November 2026**
+
+**BTA (feat. Wallie the Sensei & Kalan.FrFr)** feat. Wallie the Sensei, Kalan.FrFr — *Last Night Out* (2026)
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1tCqNn0RkQ72MCo3CBxyWP" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

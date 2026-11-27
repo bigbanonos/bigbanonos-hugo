@@ -12,10 +12,11 @@ tags:
   - '@carly-rae-jepsen-more-giraffes'
   - '00s-10s'
   - '2020s'
-last_release: '2022-10-21'
-track_count: 14
+last_release: '2026-10-09'
+track_count: 20
 active: true
 bucket: 'FAUCET'
+lastmod: 2026-11-26
 ---
 
 <iframe src="https://open.spotify.com/embed/track/0Fx3fYbcYx3iDNrduNMlde" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
@@ -45,3 +46,31 @@ bucket: 'FAUCET'
 <iframe src="https://open.spotify.com/embed/track/3O09PoBmmhotSUxLZfcRP0" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
 <iframe src="https://open.spotify.com/embed/track/3TGRqZ0a2l1LRblBkJoaDx" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+---
+
+**Added November 2026**
+
+**Motivation** — *Day and Night (Continued)* (2026)
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/539LJ7rKgdDCqEy2X1sJc7" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+**Diver** — *Day and Night (Continued)* (2026)
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0lBXcSUA4kfw7xv1rV848m" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+**So Right** — *The Loveliest Time* (2023)
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1SX0ymMOeU0JpYdTfiGTIS" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+**Far Away** — *The Loneliest Time* (2022)
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0AJHV1mzwpQHmgej8FakhH" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+**Too Much** — *Dedicated* (2019)
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7kG3DPhoPsltuT0vxENI6E" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+**For Sure** — *Dedicated* (2019)
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7CmsSwmE781TU53esN7BK0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

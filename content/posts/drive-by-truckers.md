@@ -17,9 +17,10 @@ explicit: true
 tags:
   - '@drivebytruckers'
 last_release: '2024-07-26'
-track_count: 42
+track_count: 43
 active: true
 bucket: 'FAUCET'
+lastmod: 2026-11-26
 ---
 
 <iframe src="https://open.spotify.com/embed/track/7cStaTKMIKBB3SPWXSs1pN" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
@@ -105,3 +106,11 @@ bucket: 'FAUCET'
 <iframe src="https://open.spotify.com/embed/track/2mJ486jLiA644FwETDNROj" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
 
 <iframe src="https://open.spotify.com/embed/track/3dQ6atUPga5A95w2UKVMAC" width="100%" height="80" frameborder="0" allow="encrypted-media" loading="lazy"></iframe>
+
+---
+
+**Added November 2026**
+
+**Mystery Song - 2024 Mix** — *Mystery Song (2024 Mix)* (2024)
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/2LY5C3buYF1UCELbGbG4rg" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

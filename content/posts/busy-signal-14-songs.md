@@ -11,9 +11,10 @@ tags:
   - '@afrob'
   - '@busysignal'
 last_release: ''
-track_count: 0
+track_count: 16
 active: false
 bucket: 'ARTIFACT'
+lastmod: 2026-11-26
 ---
 
 <h2>BigBanonos 16 Favorite Songs by Busy Signal</h2> <!--Search Description-->
@@ -24,3 +25,15 @@ bucket: 'ARTIFACT'
 <p>Ãƒâ€šÃ‚ For more exclusive tracks not found on Spotify, subscribe to BigBanonos onÃƒâ€šÃ‚ <a href="https://www.youtube.com/channel/[YourYouTubeChannelID]">YouTube</a>Ãƒâ€šÃ‚ and explore their curated playlist featuring the best songs #NotOnSpotify.</p>
 
 <hr />
+
+---
+
+**Added November 2026**
+
+**#Ofcourse** — *#Ofcourse* (2024)
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0Drfj8Up1EMkQIK216sL1a" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+**Forensic** feat. Echelon Beatz — *Forensic* (2023)
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3c8Y3cKJxheTdIb1KbBD0f" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>

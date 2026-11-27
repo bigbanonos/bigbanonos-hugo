@@ -8,9 +8,10 @@ tags:
   - '@mya'
   - '@craigyt'
 last_release: ''
-track_count: 0
+track_count: 12
 active: false
 bucket: 'ARTIFACT'
+lastmod: 2026-11-26
 ---
 
 <h2>BigBanonos Top 10 Favorite Songs by Beenie Man</h2> <!--Search Description-->
@@ -22,3 +23,15 @@ bucket: 'ARTIFACT'
 <h3>Explore more classic dancehall and reggae fusion favorites on <a href="https://bigbanonos.blogspot.com/" target="_blank">BigBanonos</a>. Subscribe to <a href="https://www.youtube.com/@BigBanonos" target="_blank">BigBanonos on YouTube</a> for exclusive tracks and check out the curated <a href="https://www.youtube.com/playlist?list=PLtuNtuTatqI0kFahUCbtbfenC_ET5O_tr" target="_blank">#NotOnSpotify Playlist</a>.</h3>
 
 <hr />
+
+---
+
+**Added November 2026**
+
+**Sail Out** — *Sail Out* (2023)
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/3iZ1OHXoxYzHaICxr7IOmF" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+**Hypocrite** — *Showtime Juggling* (1998)
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/1Db7Bw2GKVtBHmSLot2knX" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
