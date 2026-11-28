@@ -1,15 +1,26 @@
 ---
-title: "FIBA World Cup Qualifiers Window 5: What Time, What Channel, and What's at Stake"
+title: "Brazil 92, USA 88: FIBA World Cup Qualifiers Window 5 Results, Schedule and What's at Stake"
 slug: "fiba-world-cup-qualifiers-window-5"
 date: 2026-11-24
-lastmod: 2026-11-27T12:30:00-05:00
-description: "Team USA at Brazil Friday at 6:10 p.m. ET. Thursday's results, Friday's full schedule in Eastern time, and the weekend games that decide who goes to Qatar."
+lastmod: 2026-11-27T20:15:00-05:00
+description: "Brazil beat Team USA 92-88 with 20 lead changes. Full results, the free-throw finish, and the weekend schedule in Eastern time."
 tags: ["hoops", "where to watch", "fiba", "team usa", "international"]
 ---
 
 The NBA doesn't stop for it. Most of the world does.
 
 From Thursday through Monday, national teams play the fifth of six qualifying windows for the 2027 FIBA World Cup in Qatar. NBA players are in the middle of their season, so the rosters are built from G League players, EuroLeague players and longtime pros. The names are smaller, and the games count.
+
+## FINAL: Brazil 92, USA 88
+
+Twenty lead changes, six ties, and it was decided at the free-throw line.
+
+* **Lucas Dias** scored 23 on 9 of 13, including 5 of 9 from three. **Yago** had 16 points and 7 assists.
+* For the USA, **Haywood Highsmith** scored 16, **Jalen Crutcher** 14 on 6 of 9, and **Dillon Jones** 14 with 6 rebounds and 5 assists.
+* **The ending:** down 90-87, Dillon Jones was fouled with 12.9 seconds left and split the pair. Down three with 8 seconds left, Crutcher missed the first free throw and missed the second on purpose, hoping for an offensive rebound. Brazil's Gabriel Jaú grabbed it. Jaú made one of two, and Swider lost the ball on the final inbound. Yago threw the game ball into the crowd.
+* **Why Brazil won:** 15 offensive rebounds to USA's 7, and 14 USA turnovers to Brazil's 8.
+
+Brazil pulls even with the USA in Group E. In FIBA qualifying, point differential can break ties, so every one of those late free throws mattered.
 
 ## What time is USA vs. Brazil?
 
